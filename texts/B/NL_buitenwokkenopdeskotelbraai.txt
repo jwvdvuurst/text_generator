@@ -1,0 +1,262 @@
+dichtbij : 1
+page : 1
+skot : 1
+elbraai : 1
+bereiding : 1
+ieder : 1
+beurt : 1
+heel : 1
+zijn : 1
+zelfgekozen : 1
+bijvoorbeeld : 1
+eerst : 1
+vervolgens : 1
+laatst : 1
+gekookte : 1
+een : 1
+scheutje : 1
+wok : 1
+kleine : 1
+beetjes : 1
+tegelijk : 1
+zodat : 1
+er : 1
+meerdere : 1
+combinaties : 1
+gemaakt : 1
+kunnen : 1
+anders : 1
+kan : 1
+vervang : 1
+door : 1
+in : 1
+smalle : 1
+gesneden : 1
+blokjes : 1
+tofu : 1
+rauwe : 1
+gepelde : 1
+lekker : 1
+met : 1
+andere : 1
+partjes : 1
+tafel : 1
+zet : 1
+gebakken : 1
+atjar : 1
+seroendeng : 1
+voorbereidingstijd : 1
+minuten : 1
+eigen : 1
+smaak : 1
+toe : 1
+voegen : 1
+erbij : 1
+bereidingstechniek : 1
+gemiddeld : 1
+pak : 1
+kilogram : 1
+bloemkool : 1
+spitskool : 1
+gram : 1
+champignons : 1
+uien : 1
+spaanse : 1
+pepertjes : 1
+zoete : 1
+soja : 1
+sweet : 1
+sour : 1
+knoflook : 1
+koriander : 1
+lemon : 1
+curry : 1
+kokos : 1
+chili : 1
+wokolie : 1
+halveer : 1
+vermenigvuldig : 1
+verhoudingsgewijs : 1
+voor : 1
+minder : 1
+meer : 1
+bevat : 1
+per : 1
+energie : 1
+kcal : 1
+koolhydraten : 1
+vet : 1
+totaal : 1
+het : 2
+wokken : 2
+gaat : 2
+om : 2
+wat : 2
+groenten : 2
+rijst : 2
+naar : 2
+ook : 2
+kipfilet : 2
+te : 2
+gember : 2
+g : 2
+of : 3
+op : 3
+reepjes : 3
+en : 4
+de : 5
+flesje : 6
+woksaus : 7
+conimex : 9
+conimex dichtbij het -> page : 1
+dichtbij het page -> of : 1
+het page of -> wokken : 1
+page of wokken -> op : 1
+of wokken op -> de : 1
+wokken op de -> skot : 1
+op de skot -> elbraai : 1
+de skot elbraai -> bereiding : 1
+skot elbraai bereiding -> ieder : 1
+elbraai bereiding ieder -> gaat : 1
+bereiding ieder gaat -> om : 1
+ieder gaat om -> de : 1
+gaat om de -> beurt : 1
+om de beurt -> gaat : 1
+de beurt gaat -> heel : 1
+beurt gaat heel -> zijn : 1
+gaat heel zijn -> zelfgekozen : 1
+heel zijn zelfgekozen -> bijvoorbeeld : 1
+zijn zelfgekozen bijvoorbeeld -> eerst : 1
+zelfgekozen bijvoorbeeld eerst -> wat : 1
+bijvoorbeeld eerst wat -> vervolgens : 1
+eerst wat vervolgens -> wat : 1
+wat vervolgens wat -> groenten : 1
+vervolgens wat groenten -> en : 1
+wat groenten en -> op : 1
+groenten en op -> het : 1
+en op het -> laatst : 1
+op het laatst -> de : 1
+het laatst de -> gekookte : 1
+laatst de gekookte -> rijst : 1
+de gekookte rijst -> en : 1
+gekookte rijst en -> een : 1
+rijst en een -> scheutje : 1
+en een scheutje -> woksaus : 1
+een scheutje woksaus -> naar : 1
+scheutje woksaus naar -> wok : 1
+woksaus naar wok -> kleine : 1
+naar wok kleine -> beetjes : 1
+wok kleine beetjes -> tegelijk : 1
+kleine beetjes tegelijk -> zodat : 1
+beetjes tegelijk zodat -> er : 1
+tegelijk zodat er -> meerdere : 1
+zodat er meerdere -> combinaties : 1
+er meerdere combinaties -> gemaakt : 1
+meerdere combinaties gemaakt -> kunnen : 1
+combinaties gemaakt kunnen -> anders : 1
+gemaakt kunnen anders -> kan : 1
+kunnen anders kan -> ook : 1
+anders kan ook -> vervang : 1
+kan ook vervang -> de : 1
+ook vervang de -> kipfilet : 1
+vervang de kipfilet -> door : 1
+de kipfilet door -> in : 1
+kipfilet door in -> smalle : 1
+door in smalle -> reepjes : 1
+in smalle reepjes -> gesneden : 1
+smalle reepjes gesneden -> blokjes : 1
+reepjes gesneden blokjes -> tofu : 1
+gesneden blokjes tofu -> rauwe : 1
+blokjes tofu rauwe -> gepelde : 1
+tofu rauwe gepelde -> ook : 1
+rauwe gepelde ook -> lekker : 1
+gepelde ook lekker -> met : 1
+ook lekker met -> andere : 1
+lekker met andere -> groenten : 1
+met andere groenten -> reepjes : 1
+andere groenten reepjes -> reepjes : 1
+groenten reepjes reepjes -> partjes : 1
+reepjes reepjes partjes -> tafel : 1
+reepjes partjes tafel -> zet : 1
+partjes tafel zet -> conimex : 1
+tafel zet conimex -> gebakken : 1
+zet conimex gebakken -> atjar : 1
+conimex gebakken atjar -> en : 1
+gebakken atjar en -> seroendeng : 1
+atjar en seroendeng -> op : 1
+en seroendeng op -> voorbereidingstijd : 1
+seroendeng op voorbereidingstijd -> minuten : 1
+op voorbereidingstijd minuten -> om : 1
+voorbereidingstijd minuten om -> naar : 1
+minuten om naar -> eigen : 1
+om naar eigen -> smaak : 1
+naar eigen smaak -> toe : 1
+eigen smaak toe -> te : 1
+smaak toe te -> voegen : 1
+toe te voegen -> en : 1
+te voegen en -> erbij : 1
+voegen en erbij -> te : 1
+en erbij te -> bereidingstechniek : 1
+erbij te bereidingstechniek -> wokken : 1
+te bereidingstechniek wokken -> gemiddeld : 1
+bereidingstechniek wokken gemiddeld -> pak : 1
+wokken gemiddeld pak -> rijst : 1
+gemiddeld pak rijst -> kilogram : 1
+pak rijst kilogram -> kipfilet : 1
+rijst kilogram kipfilet -> bloemkool : 1
+kilogram kipfilet bloemkool -> spitskool : 1
+kipfilet bloemkool spitskool -> gram : 1
+bloemkool spitskool gram -> champignons : 1
+spitskool gram champignons -> uien : 1
+gram champignons uien -> spaanse : 1
+champignons uien spaanse -> pepertjes : 1
+uien spaanse pepertjes -> flesje : 1
+spaanse pepertjes flesje -> conimex : 1
+pepertjes flesje conimex -> woksaus : 1
+flesje conimex woksaus -> zoete : 1
+flesje conimex woksaus -> sweet : 1
+flesje conimex woksaus -> knoflook : 1
+flesje conimex woksaus -> gember : 1
+flesje conimex woksaus -> curry : 1
+flesje conimex woksaus -> chili : 1
+conimex woksaus zoete -> soja : 1
+woksaus zoete soja -> flesje : 1
+zoete soja flesje -> conimex : 1
+soja flesje conimex -> woksaus : 1
+conimex woksaus sweet -> sour : 1
+woksaus sweet sour -> flesje : 1
+sweet sour flesje -> conimex : 1
+sour flesje conimex -> woksaus : 1
+conimex woksaus knoflook -> koriander : 1
+woksaus knoflook koriander -> flesje : 1
+knoflook koriander flesje -> conimex : 1
+koriander flesje conimex -> woksaus : 1
+conimex woksaus gember -> lemon : 1
+woksaus gember lemon -> flesje : 1
+gember lemon flesje -> conimex : 1
+lemon flesje conimex -> woksaus : 1
+conimex woksaus curry -> kokos : 1
+woksaus curry kokos -> flesje : 1
+curry kokos flesje -> conimex : 1
+kokos flesje conimex -> woksaus : 1
+conimex woksaus chili -> gember : 1
+woksaus chili gember -> conimex : 1
+chili gember conimex -> wokolie : 1
+gember conimex wokolie -> halveer : 1
+conimex wokolie halveer -> of : 1
+wokolie halveer of -> vermenigvuldig : 1
+halveer of vermenigvuldig -> de : 1
+of vermenigvuldig de -> verhoudingsgewijs : 1
+vermenigvuldig de verhoudingsgewijs -> voor : 1
+de verhoudingsgewijs voor -> minder : 1
+verhoudingsgewijs voor minder -> of : 1
+voor minder of -> meer : 1
+minder of meer -> bevat : 1
+of meer bevat -> per : 1
+meer bevat per -> energie : 1
+bevat per energie -> kcal : 1
+per energie kcal -> koolhydraten : 1
+energie kcal koolhydraten -> g : 1
+kcal koolhydraten g -> vet : 1
+koolhydraten g vet -> totaal : 1
+g vet totaal -> g : 1

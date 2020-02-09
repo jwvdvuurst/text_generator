@@ -1,0 +1,4732 @@
+blocked : 1
+nowhere : 1
+distinctly : 1
+decide : 1
+naughty : 1
+beat : 1
+collapsed : 1
+police : 1
+puffed : 1
+cycled : 1
+centre : 1
+needed : 1
+sit : 1
+concerned : 1
+fact : 1
+hole : 1
+ate : 1
+tail : 1
+end : 1
+swallowed : 1
+gaping : 1
+crater : 1
+those : 1
+old : 1
+significance : 1
+fallen : 1
+wrinkling : 1
+word : 1
+mother : 1
+rude : 1
+talk : 1
+toilets : 1
+lions : 1
+reputation : 1
+straight : 1
+mountains : 1
+declared : 1
+beating : 1
+bush : 1
+most : 1
+flustered : 1
+brought : 1
+speak : 1
+will : 1
+keep : 1
+everything : 1
+tidy : 1
+shipshape : 1
+heads : 1
+hurried : 1
+things : 1
+decidedly : 1
+hung : 1
+floor : 1
+spade : 1
+normally : 1
+washed : 1
+wash : 1
+hands : 1
+prepare : 1
+torrent : 1
+cascading : 1
+newly : 1
+blinked : 1
+wondered : 1
+nearly : 1
+scratched : 1
+grown : 1
+kinds : 1
+houses : 1
+collect : 1
+dry : 1
+burn : 1
+gazed : 1
+imagine : 1
+possibly : 1
+diy : 1
+barbecue : 1
+brainwave : 1
+struck : 1
+thing : 1
+colourful : 1
+sprinkling : 1
+whatever : 1
+gardeners : 1
+slapping : 1
+heat : 1
+clearly : 1
+checking : 1
+lugged : 1
+nearby : 1
+border : 1
+holding : 1
+dipped : 1
+teacup : 1
+sludge : 1
+neatly : 1
+melting : 1
+base : 1
+fertilized : 1
+impressed : 1
+heard : 1
+clever : 1
+copying : 1
+same : 1
+carrying : 1
+read : 1
+makes : 1
+excellent : 1
+gnome : 1
+sitting : 1
+poor : 1
+face : 1
+disappeared : 1
+view : 1
+entirely : 1
+dark : 1
+shoulders : 1
+emblem : 1
+arguing : 1
+whose : 1
+found : 1
+trail : 1
+bad : 1
+keen : 1
+fine : 1
+patch : 1
+runner : 1
+lettuces : 1
+pride : 1
+win : 1
+prizes : 1
+considerable : 1
+knock : 1
+delight : 1
+gigantic : 1
+cabbages : 1
+liberally : 1
+sprinkled : 1
+collected : 1
+woken : 1
+noisily : 1
+watched : 1
+grumpily : 1
+gate : 1
+label : 1
+saying : 1
+hv : 1
+pckge : 1
+yr : 1
+drove : 1
+via : 1
+pondered : 1
+kind : 1
+years : 1
+decipher : 1
+scribbled : 1
+wife : 1
+become : 1
+motor : 1
+fair : 1
+say : 1
+descramble : 1
+confusing : 1
+notes : 1
+great : 1
+typical : 1
+send : 1
+thoughtful : 1
+knowing : 1
+recent : 1
+disappointment : 1
+peered : 1
+chuckled : 1
+cooking : 1
+rich : 1
+simmering : 1
+baking : 1
+tray : 1
+drizzled : 1
+sunflower : 1
+adding : 1
+pepper : 1
+salt : 1
+oven : 1
+especially : 1
+efforts : 1
+miffed : 1
+least : 1
+puzzled : 1
+knob : 1
+butter : 1
+lightly : 1
+boiled : 1
+fond : 1
+trouble : 1
+twice : 1
+poured : 1
+woman : 1
+stranger : 1
+chewed : 1
+enthusiastically : 1
+bite : 1
+tried : 1
+spooning : 1
+odd : 1
+wish : 1
+hurt : 1
+ur : 1
+mum : 1
+delicious : 1
+perhaps : 1
+dinner : 1
+phone : 1
+peeped : 1
+scrolled : 1
+cut : 1
+plstc : 1
+try : 1
+waited : 1
+horror : 1
+rooted : 1
+chair : 1
+stomach : 1
+heaved : 1
+rumbled : 1
+rushed : 1
+kitchen : 1
+violently : 1
+husband : 1
+sent : 1
+final : 1
+daft : 1
+eaten : 1
+eyed : 1
+decided : 1
+gazing : 1
+toying : 1
+catching : 1
+showering : 1
+froze : 1
+glance : 1
+dozen : 1
+loose : 1
+escaped : 1
+running : 1
+riot : 1
+play : 1
+bored : 1
+lately : 1
+discovered : 1
+hidden : 1
+among : 1
+small : 1
+hard : 1
+perfect : 1
+ran : 1
+shaking : 1
+urging : 1
+fun : 1
+swap : 1
+ball : 1
+painful : 1
+sport : 1
+joining : 1
+sorry : 1
+foot : 1
+runny : 1
+piles : 1
+elegant : 1
+flick : 1
+soggy : 1
+splattered : 1
+horrified : 1
+seconds : 1
+stood : 1
+frozen : 1
+holes : 1
+otherwise : 1
+slippery : 1
+drops : 1
+chin : 1
+clean : 1
+bluebottle : 1
+settled : 1
+spitting : 1
+flecks : 1
+lips : 1
+teeth : 1
+setting : 1
+amused : 1
+screeches : 1
+words : 1
+life : 1
+glaring : 1
+retreated : 1
+varying : 1
+missiles : 1
+suppress : 1
+snigger : 1
+dripped : 1
+run : 1
+morning : 1
+understand : 1
+people : 1
+amateur : 1
+dramatics : 1
+precious : 1
+constant : 1
+slight : 1
+different : 1
+sudden : 1
+leaving : 1
+office : 1
+stopped : 1
+pop : 1
+something : 1
+matchbox : 1
+announced : 1
+whole : 1
+thirty : 1
+degrees : 1
+shade : 1
+check : 1
+because : 1
+added : 1
+waiting : 1
+hear : 1
+appear : 1
+else : 1
+wondering : 1
+opening : 1
+reveal : 1
+astonished : 1
+lunch : 1
+scrunched : 1
+frowned : 1
+anyone : 1
+rucksack : 1
+cooed : 1
+glowered : 1
+beetle : 1
+fifty : 1
+many : 1
+hundred : 1
+last : 1
+fed : 1
+point : 1
+six : 1
+kilograms : 1
+wait : 1
+burp : 1
+echoed : 1
+indigestion : 1
+stabbing : 1
+taking : 1
+sums : 1
+let : 1
+million : 1
+days : 1
+worth : 1
+belch : 1
+choked : 1
+stringy : 1
+slumped : 1
+armchair : 1
+busby : 1
+burping : 1
+returned : 1
+grandfather : 1
+handed : 1
+suggested : 1
+tour : 1
+strap : 1
+portholes : 1
+snout : 1
+finally : 1
+stretched : 1
+cold : 1
+snuffled : 1
+beginning : 1
+sweat : 1
+trickle : 1
+types : 1
+consulted : 1
+drawn : 1
+metres : 1
+porcupine : 1
+breath : 1
+unbelievable : 1
+stench : 1
+wafting : 1
+across : 1
+combination : 1
+pinching : 1
+gurgled : 1
+males : 1
+both : 1
+squirt : 1
+glands : 1
+near : 1
+bottoms : 1
+learned : 1
+enough : 1
+porcupines : 1
+leading : 1
+boss : 1
+cross : 1
+between : 1
+nappy : 1
+rotting : 1
+model : 1
+spraying : 1
+disguise : 1
+interrupted : 1
+move : 1
+relieved : 1
+nearer : 1
+turkey : 1
+burst : 1
+confounded : 1
+these : 1
+warned : 1
+shrieked : 1
+repeated : 1
+also : 1
+smells : 1
+mention : 1
+steaming : 1
+started : 1
+scribbling : 1
+stinky : 1
+paste : 1
+coming : 1
+squirted : 1
+thick : 1
+rolling : 1
+own : 1
+manage : 1
+threw : 1
+mongooses : 1
+humans : 1
+beyond : 1
+saturday : 1
+afternoon : 1
+lay : 1
+yellow : 1
+recover : 1
+realized : 1
+crisis : 1
+figures : 1
+approximately : 1
+leaped : 1
+dragged : 1
+new : 1
+clothes : 1
+nipped : 1
+stuck : 1
+greeted : 1
+pulling : 1
+rope : 1
+piling : 1
+jolly : 1
+mystified : 1
+slunk : 1
+talking : 1
+sort : 1
+spoke : 1
+drain : 1
+wrong : 1
+men : 1
+ask : 1
+gravely : 1
+none : 1
+sounded : 1
+sell : 1
+manure : 1
+finished : 1
+disturbed : 1
+mind : 1
+lining : 1
+hundreds : 1
+bags : 1
+fell : 1
+real : 1
+help : 1
+suppose : 1
+weetabix : 1
+exasperated : 1
+moment : 1
+stunned : 1
+slow : 1
+procession : 1
+gates : 1
+traffic : 1
+gathering : 1
+stop : 1
+tue : 1
+taken : 1
+brief : 1
+break : 1
+laid : 1
+against : 1
+tree : 1
+lilo : 1
+swimming : 1
+cool : 1
+water : 1
+lapping : 1
+sipping : 1
+refreshing : 1
+fruit : 1
+enormous : 1
+helmet : 1
+snooze : 1
+always : 1
+beetroot : 1
+refocus : 1
+scene : 1
+astonishment : 1
+surrounded : 1
+chuckling : 1
+tie : 1
+huge : 1
+tied : 1
+disappearing : 1
+seargent : 1
+directed : 1
+ready : 1
+hanky : 1
+roared : 1
+sending : 1
+balloons : 1
+smoke : 1
+trembled : 1
+signal : 1
+trudge : 1
+deliberate : 1
+lumbering : 1
+step : 1
+tightened : 1
+grated : 1
+inch : 1
+emerge : 1
+chasm : 1
+cried : 1
+minutes : 1
+sweating : 1
+groaning : 1
+beamed : 1
+gratified : 1
+banner : 1
+crossed : 1
+replaced : 1
+busy : 1
+pipes : 1
+enjoying : 1
+cup : 1
+tea : 1
+eye : 1
+month : 1
+won : 1
+biggest : 1
+cabbage : 1
+show : 1
+ever : 1
+smelliest : 2
+hottest : 2
+looking : 2
+year : 2
+outside : 2
+town : 2
+gasped : 2
+window : 2
+wall : 2
+sure : 2
+seventeen : 2
+right : 2
+mopping : 2
+close : 2
+me : 2
+sink : 2
+meeting : 2
+told : 2
+gathered : 2
+has : 2
+means : 2
+nothing : 2
+my : 2
+believe : 2
+mumbled : 2
+never : 2
+anything : 2
+begun : 2
+whiffy : 2
+notice : 2
+main : 2
+door : 2
+fresh : 2
+fetched : 2
+scooped : 2
+red : 2
+hose : 2
+stuff : 2
+spun : 2
+cleaned : 2
+again : 2
+earth : 2
+rest : 2
+bothered : 2
+cow : 2
+building : 2
+beds : 2
+tin : 2
+tiptoed : 2
+tipped : 2
+mound : 2
+pleased : 2
+imagined : 2
+garden : 2
+slid : 2
+corner : 2
+eyes : 2
+himself : 2
+strange : 2
+bag : 2
+text : 2
+expert : 2
+often : 2
+man : 2
+soon : 2
+set : 2
+carefully : 2
+oil : 2
+received : 2
+thank : 2
+telling : 2
+question : 2
+tasted : 2
+stared : 2
+place : 2
+grass : 2
+mobile : 2
+afraid : 2
+screeched : 2
+obviously : 2
+turned : 2
+match : 2
+glass : 2
+going : 2
+half : 2
+prize : 2
+too : 2
+throwing : 2
+top : 2
+air : 2
+slowly : 2
+come : 2
+managed : 2
+outer : 2
+next : 2
+call : 2
+whiff : 2
+pong : 2
+us : 2
+agreed : 2
+ring : 2
+thingummy : 2
+whatsit : 2
+calculator : 2
+sound : 2
+tiny : 2
+green : 2
+later : 2
+world : 2
+war : 2
+best : 2
+heavy : 2
+rubber : 2
+feel : 2
+list : 2
+led : 2
+twenty : 2
+smell : 2
+hit : 2
+struggling : 2
+pee : 2
+scent : 2
+walked : 2
+vultures : 2
+vomit : 2
+wrote : 2
+bath : 2
+lying : 2
+arms : 2
+pull : 2
+pool : 2
+rhinos : 2
+elephants : 2
+everyone : 2
+slap : 3
+bang : 3
+drains : 3
+must : 3
+knew : 3
+gone : 3
+landed : 3
+use : 3
+until : 3
+few : 3
+full : 3
+did : 3
+need : 3
+penguin : 3
+lion : 3
+particularly : 3
+shook : 3
+before : 3
+opened : 3
+still : 3
+once : 3
+bucket : 3
+sat : 3
+extremely : 3
+box : 3
+balls : 3
+find : 3
+better : 3
+vegetable : 3
+droppings : 3
+wot : 3
+home : 3
+pick : 3
+your : 3
+tomato : 3
+bit : 3
+inside : 3
+test : 3
+broken : 3
+than : 3
+tell : 3
+really : 3
+trying : 3
+white : 3
+four : 3
+off : 3
+neighbours : 3
+emergency : 3
+shall : 3
+metal : 3
+wastepaper : 3
+bin : 3
+tonnes : 3
+groaned : 3
+our : 3
+hour : 3
+road : 3
+waving : 3
+bulldozer : 3
+crowd : 3
+ropes : 3
+held : 3
+chimps : 4
+first : 4
+problem : 4
+way : 4
+giant : 4
+look : 4
+number : 4
+its : 4
+give : 4
+felt : 4
+such : 4
+each : 4
+after : 4
+get : 4
+sighed : 4
+another : 4
+used : 4
+feeling : 4
+idea : 4
+placed : 4
+dropping : 4
+came : 4
+made : 4
+while : 4
+sauce : 4
+away : 4
+should : 4
+much : 4
+mask : 4
+day : 5
+keeper : 5
+seemed : 5
+can : 5
+front : 5
+no : 5
+nose : 5
+take : 5
+saw : 5
+doing : 5
+hot : 5
+where : 5
+make : 5
+dung : 5
+left : 5
+see : 5
+second : 5
+struggled : 5
+plastic : 5
+texted : 5
+them : 5
+why : 5
+time : 5
+long : 5
+think : 5
+eat : 5
+animals : 5
+gas : 5
+copplethorpe : 5
+middle : 6
+is : 6
+do : 6
+rather : 6
+called : 6
+chimp : 6
+around : 6
+rhino : 6
+through : 6
+flower : 6
+shouted : 6
+picked : 6
+even : 6
+put : 6
+two : 6
+went : 7
+might : 7
+quite : 7
+house : 7
+would : 7
+got : 7
+getting : 7
+other : 7
+some : 7
+elephant : 7
+large : 7
+are : 7
+good : 7
+three : 7
+beetles : 7
+began : 7
+what : 8
+melton : 8
+meadow : 8
+any : 8
+go : 8
+or : 8
+big : 8
+could : 8
+more : 8
+then : 8
+this : 8
+so : 8
+looked : 9
+there : 9
+if : 9
+brown : 9
+like : 9
+head : 10
+when : 10
+by : 10
+down : 10
+been : 10
+raja : 10
+thought : 10
+how : 10
+i : 10
+bus : 11
+which : 11
+their : 11
+round : 11
+you : 11
+poo : 12
+zoo : 12
+not : 12
+crocodile : 12
+him : 13
+over : 13
+be : 13
+now : 13
+were : 13
+asked : 14
+about : 14
+keepers : 14
+we : 14
+very : 14
+have : 15
+saddle : 15
+who : 15
+little : 15
+an : 15
+ingleby : 15
+mrs : 16
+back : 16
+into : 17
+her : 17
+one : 19
+crumble : 19
+that : 20
+just : 20
+but : 20
+they : 21
+out : 22
+sergeant : 23
+from : 23
+she : 25
+up : 26
+all : 27
+as : 29
+for : 33
+had : 37
+at : 38
+on : 38
+with : 40
+it : 40
+miss : 40
+pickles : 41
+said : 43
+was : 58
+in : 59
+his : 71
+he : 84
+of : 94
+to : 108
+and : 112
+mr : 121
+a : 130
+the : 259
+smelliest day at -> the : 1
+day at the -> slap : 1
+at the slap -> bang : 1
+the slap bang -> in : 1
+slap bang in -> the : 3
+bang in the -> middle : 3
+in the middle -> of : 6
+the middle of -> the : 3
+the middle of -> one : 1
+the middle of -> mr : 1
+the middle of -> copplethorpe : 1
+middle of the -> hottest : 2
+middle of the -> mr : 1
+of the hottest -> day : 2
+the hottest day -> of : 2
+hottest day of -> the : 2
+day of the -> the : 1
+day of the -> year : 1
+of the the -> drains : 1
+of the the -> test : 1
+the the drains -> have : 1
+the drains have -> blocked : 1
+drains have blocked -> up : 1
+have blocked up -> and : 1
+blocked up and -> nowhere : 1
+up and nowhere -> for : 1
+and nowhere for -> the : 1
+nowhere for the -> poo : 1
+for the poo -> to : 1
+the poo to -> mr : 1
+poo to mr -> pickles : 1
+to mr pickles -> the : 1
+to mr pickles -> and : 1
+mr pickles the -> zoo : 1
+pickles the zoo -> keeper : 1
+the zoo keeper -> is : 1
+zoo keeper is -> looking : 1
+keeper is looking -> distinctly : 1
+is looking distinctly -> must : 1
+looking distinctly must -> decide : 1
+distinctly must decide -> what : 1
+must decide what -> to : 1
+decide what to -> do : 1
+what to do -> with : 1
+to do with -> it : 1
+do with it -> the : 1
+with it the -> naughty : 1
+it the naughty -> chimps : 1
+the naughty chimps -> beat : 1
+naughty chimps beat -> him : 1
+chimps beat him -> to : 1
+beat him to -> it : 1
+him to it -> was : 1
+to it was -> slap : 1
+it was slap -> bang : 1
+was slap bang -> in : 1
+of the year -> that : 1
+the year that -> the : 1
+year that the -> drains : 1
+that the drains -> collapsed : 1
+the drains collapsed -> outside : 1
+drains collapsed outside -> melton : 1
+collapsed outside melton -> meadow : 1
+outside melton meadow -> the : 1
+melton meadow the -> first : 1
+meadow the first -> that : 1
+the first that -> mr : 1
+first that mr -> the : 1
+that mr the -> head : 1
+mr the head -> knew : 1
+the head knew -> of : 1
+head knew of -> the : 1
+knew of the -> problem : 1
+of the problem -> was : 1
+the problem was -> when : 1
+problem was when -> sergeant : 1
+was when sergeant -> from : 1
+when sergeant from -> melton : 1
+sergeant from melton -> meadow : 1
+from melton meadow -> police : 1
+melton meadow police -> puffed : 1
+meadow police puffed -> into : 1
+police puffed into -> his : 1
+puffed into his -> he : 1
+into his he -> had : 1
+his he had -> cycled : 1
+his he had -> struggled : 1
+he had cycled -> all : 1
+had cycled all -> the : 1
+cycled all the -> way : 1
+all the way -> from : 1
+all the way -> up : 1
+the way from -> the : 1
+way from the -> town : 1
+from the town -> centre : 1
+the town centre -> and : 1
+town centre and -> needed : 1
+centre and needed -> to : 1
+and needed to -> sit : 1
+needed to sit -> he : 1
+to sit he -> just : 1
+sit he just -> asked : 1
+he just asked -> mr : 1
+just asked mr -> rather : 1
+asked mr rather -> concerned : 1
+mr rather concerned -> about : 1
+rather concerned about -> the : 1
+concerned about the -> fact : 1
+about the fact -> that : 1
+the fact that -> sergeant : 1
+fact that sergeant -> saddle : 1
+that sergeant saddle -> seemed : 1
+sergeant saddle seemed -> to : 1
+saddle seemed to -> have : 1
+seemed to have -> gone : 1
+seemed to have -> grass : 1
+to have gone -> can : 1
+have gone can -> a : 1
+gone can a -> bus : 1
+can a bus -> the : 1
+a bus the -> gasped : 1
+bus the gasped -> sergeant : 1
+the gasped sergeant -> giant : 1
+gasped sergeant giant -> hole : 1
+sergeant giant hole -> in : 1
+giant hole in -> the : 1
+hole in the -> in : 1
+in the in -> it : 1
+the in it -> ate : 1
+in it ate -> the : 1
+it ate the -> bus : 1
+ate the bus -> look : 1
+the bus look -> for : 1
+bus look for -> mr : 1
+look for mr -> pickles : 1
+for mr pickles -> went : 1
+mr pickles went -> to : 1
+mr pickles went -> for : 1
+pickles went to -> his : 1
+went to his -> window : 1
+to his window -> and : 1
+his window and -> looked : 1
+window and looked -> over : 1
+and looked over -> the : 1
+looked over the -> wall : 1
+over the wall -> of : 1
+the wall of -> the : 1
+wall of the -> sure : 1
+of the sure -> there : 1
+the sure there -> was : 1
+sure there was -> the : 1
+there was the -> tail : 1
+was the tail -> end : 1
+the tail end -> of : 1
+tail end of -> the : 1
+end of the -> number : 1
+of the number -> seventeen : 1
+the number seventeen -> bus : 2
+number seventeen bus -> in : 1
+number seventeen bus -> was : 1
+seventeen bus in -> the : 1
+bus in the -> with : 1
+in the with -> its : 1
+in the with -> large : 1
+the with its -> front : 1
+with its front -> swallowed : 1
+its front swallowed -> up : 1
+front swallowed up -> by : 1
+swallowed up by -> a : 1
+up by a -> gaping : 1
+by a gaping -> crater : 1
+a gaping crater -> in : 1
+gaping crater in -> the : 1
+crater in the -> landed : 1
+in the landed -> right : 1
+the landed right -> on : 1
+landed right on -> those : 1
+right on those -> old : 1
+on those old -> said : 1
+those old said -> sergeant : 1
+old said sergeant -> mopping : 1
+said sergeant mopping -> his : 1
+sergeant mopping his -> have : 1
+mopping his have -> to : 1
+his have to -> close : 1
+have to close -> the : 1
+to close the -> asked : 1
+close the asked -> mr : 1
+the asked mr -> no : 1
+the asked mr -> the : 2
+the asked mr -> that : 1
+asked mr no -> one : 1
+mr no one -> can : 1
+no one can -> use : 1
+one can use -> the : 1
+can use the -> drains : 1
+use the drains -> until : 1
+the drains until -> said : 1
+drains until said -> sergeant : 1
+until said sergeant -> saddle : 1
+said sergeant saddle -> might : 1
+said sergeant saddle -> your : 1
+sergeant saddle might -> be : 1
+saddle might be -> quite : 1
+might be quite -> a : 1
+be quite a -> few : 1
+quite a few -> any : 1
+a few any -> give : 1
+few any give -> me : 1
+any give me -> a : 1
+give me a -> and : 1
+me a and -> with : 1
+a and with -> that : 1
+and with that -> he : 3
+with that he -> the : 1
+with that he -> placed : 1
+with that he -> poured : 1
+that he the -> full : 1
+he the full -> significance : 1
+the full significance -> of : 1
+full significance of -> what : 1
+significance of what -> sergeant : 1
+of what sergeant -> saddle : 1
+what sergeant saddle -> had : 1
+sergeant saddle had -> said : 1
+sergeant saddle had -> taken : 1
+saddle had said -> did : 1
+had said did -> not : 1
+said did not -> sink : 1
+did not sink -> in : 1
+not sink in -> for : 1
+sink in for -> a : 1
+in for a -> few : 1
+for a few -> when : 1
+for a few -> seconds : 1
+a few when -> it : 1
+few when it -> mr : 1
+when it mr -> pickles : 1
+it mr pickles -> called : 1
+mr pickles called -> a : 1
+mr pickles called -> through : 1
+pickles called a -> meeting : 1
+called a meeting -> of : 2
+a meeting of -> all : 2
+meeting of all -> the : 2
+of all the -> zoo : 1
+of all the -> animals : 1
+of all the -> while : 1
+of all the -> way : 1
+all the zoo -> a : 1
+the zoo a -> problem : 1
+zoo a problem -> with : 1
+a problem with -> the : 1
+problem with the -> mr : 1
+with the mr -> pickles : 1
+the mr pickles -> told : 1
+mr pickles told -> the : 1
+pickles told the -> gathered : 1
+told the gathered -> keepers : 1
+the gathered keepers -> bus : 1
+gathered keepers bus -> has : 1
+keepers bus has -> fallen : 1
+bus has fallen -> into : 1
+has fallen into -> which : 1
+fallen into which -> means : 1
+into which means -> nothing : 1
+which means nothing -> can : 1
+means nothing can -> go : 1
+nothing can go -> down : 1
+can go down -> but : 1
+go down but -> what : 1
+down but what -> if : 1
+but what if -> we : 1
+what if we -> need : 1
+if we need -> to : 1
+we need to -> go : 1
+need to go -> to : 1
+to go to -> the : 2
+go to the -> asked : 1
+go to the -> trouble : 1
+to the asked -> mr : 1
+asked mr the -> penguin : 1
+asked mr the -> lion : 1
+asked mr the -> elephant : 1
+mr the penguin -> said : 1
+mr the penguin -> was : 1
+the penguin said -> mr : 1
+penguin said mr -> wrinkling : 1
+said mr wrinkling -> his : 1
+mr wrinkling his -> nose : 1
+wrinkling his nose -> at : 1
+his nose at -> the : 1
+nose at the -> word : 1
+nose at the -> little : 1
+at the word -> his : 1
+the word his -> mother : 1
+word his mother -> had : 1
+his mother had -> told : 1
+mother had told -> him : 1
+had told him -> it : 1
+told him it -> was : 1
+him it was -> rude : 1
+it was rude -> to : 1
+was rude to -> talk : 1
+rude to talk -> about : 1
+to talk about -> toilets : 1
+talk about toilets -> or : 1
+about toilets or -> just : 1
+toilets or just -> have : 1
+or just have -> to : 1
+just have to -> go : 1
+just have to -> look : 1
+have to go -> into : 1
+to go into -> melton : 1
+go into melton -> meadow : 1
+into melton meadow -> and : 1
+melton meadow and -> use : 1
+meadow and use -> the : 1
+and use the -> all : 1
+use the all -> very : 1
+the all very -> but : 1
+all very but -> what : 1
+very but what -> about : 1
+but what about -> the : 1
+what about the -> asked : 1
+about the asked -> mr : 2
+about the asked -> miss : 1
+mr the lion -> take : 1
+mr the lion -> spoke : 1
+the lion take -> my : 1
+lion take my -> lions : 1
+take my lions -> into : 1
+my lions into -> about : 1
+lions into about -> the : 1
+into about the -> said : 1
+about the said -> mr : 2
+the said mr -> the : 1
+the said mr -> more : 1
+the said mr -> about : 1
+said mr the -> chimp : 1
+said mr the -> vomit : 1
+mr the chimp -> who : 1
+the chimp who -> had : 1
+chimp who had -> a : 1
+who had a -> reputation : 1
+had a reputation -> for : 1
+a reputation for -> straight : 1
+reputation for straight -> be : 1
+for straight be -> mountains : 1
+straight be mountains -> of : 1
+be mountains of -> the : 1
+mountains of the -> declared : 1
+of the declared -> mrs : 1
+the declared mrs -> the : 1
+declared mrs the -> crocodile : 1
+mrs the crocodile -> who : 1
+mrs the crocodile -> came : 1
+the crocodile who -> believe : 1
+crocodile who believe -> in : 1
+who believe in -> beating : 1
+believe in beating -> around : 1
+in beating around -> the : 1
+beating around the -> bush : 1
+around the bush -> mumbled : 1
+the bush mumbled -> mr : 1
+bush mumbled mr -> who : 1
+mumbled mr who -> felt : 1
+mr who felt -> most : 1
+who felt most -> flustered : 1
+felt most flustered -> he : 1
+most flustered he -> had : 1
+flustered he had -> been : 1
+he had been -> particularly : 1
+had been particularly -> brought : 1
+been particularly brought -> up : 1
+particularly brought up -> never : 1
+brought up never -> to : 1
+up never to -> speak : 1
+never to speak -> of : 1
+to speak of -> such : 1
+speak of such -> each : 1
+of such each -> keeper : 1
+such each keeper -> will : 1
+each keeper will -> just : 1
+keeper will just -> have : 1
+will just have -> to : 1
+have to look -> after : 1
+to look after -> the : 1
+look after the -> keep : 1
+after the keep -> everything : 1
+the keep everything -> all : 1
+keep everything all -> tidy : 1
+everything all tidy -> and : 1
+all tidy and -> shipshape : 1
+tidy and shipshape -> anything : 1
+and shipshape anything -> the : 1
+shipshape anything the -> keepers : 1
+anything the keepers -> shook : 1
+the keepers shook -> their : 1
+keepers shook their -> heads : 1
+shook their heads -> and : 1
+their heads and -> hurried : 1
+heads and hurried -> back : 1
+and hurried back -> to : 1
+hurried back to -> their : 1
+back to their -> things : 1
+to their things -> had : 1
+their things had -> begun : 1
+things had begun -> to : 1
+had begun to -> get : 1
+begun to get -> decidedly : 1
+to get decidedly -> whiffy : 1
+get decidedly whiffy -> mr : 1
+decidedly whiffy mr -> pickles : 1
+whiffy mr pickles -> went : 1
+pickles went for -> a : 1
+went for a -> little : 1
+for a little -> in : 1
+a little in -> his : 1
+little in his -> but : 1
+in his but -> not : 1
+his but not -> before : 1
+but not before -> he : 1
+not before he -> had : 1
+before he had -> hung : 1
+he had hung -> a : 1
+had hung a -> big : 1
+hung a big -> notice : 1
+a big notice -> on : 1
+big notice on -> the : 1
+notice on the -> main : 1
+on the main -> mr : 1
+the main mr -> raja : 1
+main mr raja -> opened : 1
+mr raja opened -> the : 1
+raja opened the -> door : 1
+opened the door -> of : 1
+the door of -> the : 1
+door of the -> rhino : 1
+door of the -> zoo : 1
+of the rhino -> house : 2
+the rhino house -> and : 2
+rhino house and -> there : 1
+rhino house and -> lugged : 1
+house and there -> on : 1
+and there on -> the : 1
+there on the -> floor : 1
+on the floor -> was : 1
+the floor was -> a : 1
+floor was a -> brown : 1
+was a brown -> still : 1
+a brown still -> fresh : 1
+brown still fresh -> and : 1
+still fresh and -> sighed : 1
+fresh and sighed -> mr : 1
+and sighed mr -> raja : 1
+sighed mr raja -> as : 1
+mr raja as -> he : 1
+raja as he -> fetched : 1
+as he fetched -> a : 1
+he fetched a -> spade : 1
+fetched a spade -> and : 1
+a spade and -> scooped : 1
+spade and scooped -> it : 1
+and scooped it -> all : 1
+scooped it all -> up : 1
+it all up -> into : 1
+all up into -> a : 1
+up into a -> big : 1
+into a big -> red : 1
+a big red -> normally : 1
+big red normally -> he : 1
+red normally he -> would : 1
+normally he would -> have : 1
+he would have -> got : 1
+would have got -> a : 1
+have got a -> hose : 1
+got a hose -> and : 1
+a hose and -> washed : 1
+hose and washed -> the : 1
+and washed the -> stuff : 1
+washed the stuff -> down : 1
+the stuff down -> the : 1
+stuff down the -> but : 1
+down the but -> not : 1
+the but not -> he : 1
+but not he -> went : 1
+not he went -> to : 1
+he went to -> wash : 1
+went to wash -> his : 1
+to wash his -> hands : 1
+wash his hands -> and : 1
+his hands and -> prepare : 1
+hands and prepare -> the : 1
+and prepare the -> when : 1
+prepare the when -> mr : 1
+the when mr -> raja : 1
+when mr raja -> spun : 1
+mr raja spun -> round : 1
+raja spun round -> and : 1
+spun round and -> saw : 2
+round and saw -> another : 1
+round and saw -> too : 1
+and saw another -> torrent : 1
+saw another torrent -> of : 1
+another torrent of -> brown : 1
+torrent of brown -> stuff : 1
+of brown stuff -> cascading : 1
+brown stuff cascading -> on : 1
+stuff cascading on -> to : 1
+cascading on to -> the : 1
+on to the -> newly : 1
+to the newly -> cleaned : 1
+the newly cleaned -> the : 1
+newly cleaned the -> rhino : 1
+cleaned the rhino -> blinked : 1
+the rhino blinked -> at : 1
+rhino blinked at -> or : 1
+blinked at or -> was : 1
+at or was -> it : 1
+or was it -> a : 1
+was it a -> mr : 1
+it a mr -> raja : 1
+a mr raja -> wondered : 1
+mr raja wondered -> if : 1
+raja wondered if -> he : 1
+wondered if he -> was : 1
+if he was -> doing : 1
+he was doing -> it : 1
+was doing it -> on : 1
+doing it on -> thought : 1
+it on thought -> mr : 1
+on thought mr -> getting : 1
+thought mr getting -> all : 1
+mr getting all -> hot : 1
+getting all hot -> and : 1
+all hot and -> and : 1
+hot and and -> once : 1
+and and once -> again : 1
+and once again -> he : 1
+once again he -> got : 1
+again he got -> out : 1
+he got out -> his : 1
+got out his -> by : 1
+got out his -> calculator : 1
+out his by -> now : 1
+his by now -> the : 1
+by now the -> bucket : 1
+now the bucket -> was : 1
+the bucket was -> nearly : 1
+bucket was nearly -> mr : 1
+was nearly mr -> raja : 1
+nearly mr raja -> knew : 1
+mr raja knew -> that : 1
+raja knew that -> there : 1
+knew that there -> was : 1
+that there was -> no : 1
+there was no -> way : 1
+was no way -> on : 1
+no way on -> earth : 1
+way on earth -> he : 1
+on earth he -> could : 1
+earth he could -> get : 1
+he could get -> through : 1
+could get through -> the : 1
+get through the -> rest : 1
+through the rest -> of : 1
+the rest of -> the : 1
+rest of the -> day : 1
+of the day -> with : 1
+the day with -> just : 1
+day with just -> one : 1
+with just one -> on : 1
+just one on -> the : 1
+one on the -> other : 1
+on the other -> he : 1
+the other he -> have : 1
+other he have -> any : 1
+he have any -> more : 1
+have any more -> mr : 1
+any more mr -> raja : 1
+any more mr -> pickles : 1
+more mr raja -> sat : 1
+mr raja sat -> down : 1
+raja sat down -> and : 1
+sat down and -> scratched : 1
+down and scratched -> his : 1
+and scratched his -> hot : 1
+scratched his hot -> and : 1
+his hot and -> bothered : 1
+hot and bothered -> in : 1
+hot and bothered -> sergeant : 1
+and bothered in -> where : 1
+bothered in where -> he : 1
+in where he -> had : 1
+where he had -> grown : 1
+he had grown -> up : 1
+had grown up -> as : 1
+grown up as -> a : 1
+up as a -> they : 1
+as a they -> used : 1
+a they used -> cow : 1
+they used cow -> poo : 1
+used cow poo -> for : 1
+cow poo for -> all : 1
+poo for all -> kinds : 1
+for all kinds -> of : 1
+all kinds of -> building : 1
+kinds of building -> houses : 1
+of building houses -> and : 1
+building houses and -> as : 1
+houses and as -> a : 1
+and as a -> would : 1
+as a would -> collect : 1
+a would collect -> the : 1
+would collect the -> cow : 1
+collect the cow -> dry : 1
+the cow dry -> it : 1
+cow dry it -> and : 1
+dry it and -> burn : 1
+it and burn -> as : 1
+and burn as -> he : 1
+burn as he -> gazed : 1
+as he gazed -> into : 1
+he gazed into -> the : 1
+gazed into the -> full : 1
+into the full -> bucket : 1
+the full bucket -> in : 1
+full bucket in -> front : 1
+bucket in front -> of : 1
+in front of -> he : 1
+in front of -> and : 1
+front of he -> quite : 1
+of he quite -> imagine : 1
+he quite imagine -> he : 1
+quite imagine he -> could : 1
+imagine he could -> possibly : 1
+he could possibly -> use : 1
+could possibly use -> it : 1
+possibly use it -> for : 1
+use it for -> diy : 1
+it for diy -> make : 1
+for diy make -> a : 1
+diy make a -> barbecue : 1
+make a barbecue -> with : 1
+a barbecue with -> but : 1
+barbecue with but -> then : 1
+with but then -> a : 1
+but then a -> brainwave : 1
+then a brainwave -> struck : 1
+a brainwave struck -> that : 1
+brainwave struck that -> was : 1
+struck that was -> the : 1
+that was the -> other : 1
+was the other -> thing : 1
+the other thing -> they : 1
+other thing they -> used : 1
+thing they used -> dung : 1
+they used dung -> for : 1
+used dung for -> in : 1
+dung for in -> and : 1
+for in and -> melton : 1
+in and melton -> meadow : 1
+and melton meadow -> zoo : 1
+melton meadow zoo -> had : 1
+melton meadow zoo -> stood : 1
+meadow zoo had -> some : 1
+zoo had some -> extremely : 1
+had some extremely -> colourful : 1
+some extremely colourful -> flower : 1
+extremely colourful flower -> beds : 1
+colourful flower beds -> which : 1
+flower beds which -> he : 1
+beds which he -> felt : 1
+which he felt -> sure : 1
+he felt sure -> could : 1
+felt sure could -> just : 1
+sure could just -> do : 1
+could just do -> with : 1
+just do with -> a : 1
+do with a -> little : 1
+with a little -> sprinkling : 1
+a little sprinkling -> of : 1
+little sprinkling of -> or : 1
+sprinkling of or -> whatever : 1
+of or whatever -> gardeners : 1
+or whatever gardeners -> called : 1
+whatever gardeners called -> he : 1
+gardeners called he -> shouted : 1
+called he shouted -> slapping : 1
+he shouted slapping -> the : 1
+shouted slapping the -> rhino : 1
+slapping the rhino -> on : 1
+the rhino on -> its : 1
+rhino on its -> rhino : 1
+on its rhino -> shook : 1
+its rhino shook -> his : 1
+rhino shook his -> head : 1
+shook his head -> the : 1
+his head the -> heat : 1
+head the heat -> had : 1
+the heat had -> clearly : 1
+heat had clearly -> gone : 1
+had clearly gone -> to : 1
+clearly gone to -> mr : 1
+gone to mr -> checking : 1
+to mr checking -> no : 1
+mr checking no -> one : 1
+checking no one -> was : 1
+no one was -> mr : 1
+one was mr -> raja : 1
+was mr raja -> picked : 1
+mr raja picked -> up : 1
+raja picked up -> his : 1
+picked up his -> tin : 1
+up his tin -> tiptoed : 1
+his tin tiptoed -> out : 1
+tin tiptoed out -> of : 1
+tiptoed out of -> the : 2
+out of the -> rhino : 1
+out of the -> little : 1
+out of the -> half : 1
+out of the -> bath : 1
+out of the -> front : 1
+out of the -> but : 1
+out of the -> suppose : 1
+house and lugged -> the : 1
+and lugged the -> red : 1
+lugged the red -> bucket : 1
+the red bucket -> over : 1
+red bucket over -> to : 1
+bucket over to -> a : 1
+over to a -> nearby : 1
+to a nearby -> border : 1
+a nearby border -> of : 1
+nearby border of -> holding : 1
+border of holding -> his : 1
+of holding his -> nose : 1
+holding his nose -> with : 1
+his nose with -> his : 1
+nose with his -> left : 1
+with his left -> he : 1
+his left he -> dipped : 1
+left he dipped -> the : 1
+he dipped the -> teacup : 1
+dipped the teacup -> into : 1
+the teacup into -> the : 1
+teacup into the -> brown : 1
+into the brown -> sludge : 1
+the brown sludge -> and : 1
+brown sludge and -> neatly : 1
+sludge and neatly -> tipped : 1
+and neatly tipped -> a : 1
+neatly tipped a -> little : 1
+tipped a little -> melting : 1
+a little melting -> mound : 1
+little melting mound -> of : 1
+melting mound of -> it : 1
+mound of it -> at : 1
+of it at -> the : 1
+it at the -> base : 1
+it at the -> front : 1
+at the base -> of : 1
+the base of -> a : 1
+base of a -> feeling : 1
+of a feeling -> rather : 1
+a feeling rather -> pleased : 1
+feeling rather pleased -> with : 1
+rather pleased with -> mr : 1
+pleased with mr -> raja : 1
+with mr raja -> fertilized : 1
+mr raja fertilized -> a : 1
+raja fertilized a -> and : 1
+fertilized a and -> then : 1
+a and then -> a : 1
+and then a -> he : 1
+then a he -> imagined : 1
+a he imagined -> how : 1
+he imagined how -> impressed : 1
+imagined how impressed -> mr : 1
+how impressed mr -> pickles : 1
+impressed mr pickles -> would : 1
+mr pickles would -> be : 1
+pickles would be -> when : 1
+would be when -> he : 1
+be when he -> heard : 1
+when he heard -> of : 1
+he heard of -> his : 1
+heard of his -> clever : 1
+of his clever -> but : 1
+his clever but -> then : 1
+clever but then -> he : 1
+but then he -> looked : 1
+then he looked -> up : 1
+he looked up -> to : 1
+looked up to -> see : 1
+up to see -> mr : 1
+to see mr -> the : 1
+see mr the -> elephant : 1
+mr the elephant -> who : 1
+mr the elephant -> real : 1
+the elephant who -> seemed : 1
+elephant who seemed -> to : 1
+who seemed to -> be : 1
+seemed to be -> copying : 1
+seemed to be -> getting : 1
+to be copying -> same : 1
+be copying same -> idea : 1
+copying same idea -> i : 1
+same idea i -> said : 1
+idea i said -> mr : 1
+i said mr -> who : 1
+said mr who -> was : 2
+said mr who -> had : 1
+mr who was -> carrying : 1
+mr who was -> beginning : 1
+mr who was -> now : 1
+who was carrying -> a : 1
+was carrying a -> box : 1
+carrying a box -> of : 1
+a box of -> big : 1
+box of big -> round : 1
+of big round -> balls : 1
+big round balls -> of : 1
+round balls of -> elephant : 1
+balls of elephant -> read : 1
+of elephant read -> that : 1
+elephant read that -> elephant : 1
+read that elephant -> poo : 1
+that elephant poo -> makes : 1
+elephant poo makes -> excellent : 1
+poo makes excellent -> and : 1
+makes excellent and -> with : 1
+excellent and with -> that : 1
+that he placed -> a : 1
+he placed a -> very : 1
+placed a very -> large : 1
+a very large -> elephant : 1
+very large elephant -> dropping : 1
+large elephant dropping -> on : 1
+large elephant dropping -> from : 1
+elephant dropping on -> the : 1
+dropping on the -> head : 1
+on the head -> of : 1
+the head of -> a : 1
+head of a -> garden : 1
+of a garden -> gnome : 1
+a garden gnome -> which : 1
+garden gnome which -> was : 1
+gnome which was -> sitting : 1
+which was sitting -> in : 1
+was sitting in -> the : 1
+sitting in the -> middle : 1
+of the mr -> raja : 1
+the mr raja -> looked : 1
+mr raja looked -> at : 1
+raja looked at -> the : 1
+looked at the -> poor : 1
+at the poor -> face : 1
+the poor face -> in : 1
+poor face in -> it : 1
+face in it -> disappeared : 1
+in it disappeared -> from : 1
+it disappeared from -> view : 1
+disappeared from view -> entirely : 1
+from view entirely -> as : 1
+view entirely as -> the : 1
+entirely as the -> dark : 1
+as the dark -> brown : 1
+the dark brown -> dropping : 1
+dark brown dropping -> slid : 1
+brown dropping slid -> down : 1
+dropping slid down -> over : 1
+slid down over -> its : 1
+down over its -> shoulders : 1
+over its shoulders -> and : 1
+its shoulders and -> came : 1
+shoulders and came -> to : 1
+and came to -> rest : 1
+came to rest -> on : 1
+to rest on -> its : 1
+rest on its -> mrs : 1
+on its mrs -> the : 1
+its mrs the -> crocodile : 1
+the crocodile came -> round : 1
+crocodile came round -> the : 1
+came round the -> corner : 1
+round the corner -> on : 1
+the corner on -> the : 1
+corner on the -> way : 1
+on the way -> back : 1
+the way back -> to : 1
+way back to -> the : 1
+back to the -> crocodile : 3
+to the crocodile -> house : 3
+the crocodile house -> to : 1
+the crocodile house -> and : 2
+crocodile house to -> find : 1
+house to find -> mr : 1
+to find mr -> raja : 1
+find mr raja -> and : 1
+mr raja and -> mr : 1
+raja and mr -> emblem : 1
+and mr emblem -> arguing : 1
+mr emblem arguing -> over : 1
+emblem arguing over -> whose : 1
+arguing over whose -> poo : 1
+over whose poo -> made : 1
+whose poo made -> better : 1
+poo made better -> or : 1
+made better or -> an : 1
+better or an -> thought : 1
+or an thought -> mrs : 1
+an thought mrs -> but : 1
+thought mrs but -> when : 1
+mrs but when -> she : 1
+but when she -> got : 1
+when she got -> back : 1
+she got back -> to : 1
+got back to -> the : 1
+crocodile house and -> found : 1
+crocodile house and -> texted : 1
+house and found -> a : 1
+and found a -> trail : 1
+found a trail -> of : 1
+a trail of -> little : 1
+trail of little -> round : 1
+of little round -> brown : 1
+little round brown -> she : 1
+round brown she -> had : 1
+brown she had -> a : 1
+she had a -> second : 1
+had a second -> which : 1
+a second which -> not : 1
+second which not -> such : 1
+which not such -> a : 1
+not such a -> bad : 1
+such a bad -> idea : 1
+a bad idea -> after : 1
+bad idea after -> mr : 1
+idea after mr -> crumble : 1
+after mr crumble -> was : 1
+mr crumble was -> a : 1
+mr crumble was -> in : 1
+crumble was a -> keen : 1
+crumble was a -> little : 1
+was a keen -> with : 1
+a keen with -> a : 1
+keen with a -> particularly : 1
+with a particularly -> fine : 1
+a particularly fine -> vegetable : 1
+particularly fine vegetable -> patch : 1
+fine vegetable patch -> full : 1
+vegetable patch full -> of : 1
+patch full of -> runner : 1
+full of runner -> lettuces : 1
+of runner lettuces -> pride : 1
+runner lettuces pride -> and : 1
+lettuces pride and -> at : 1
+pride and at -> he : 1
+and at he -> used : 1
+at he used -> to : 1
+he used to -> win : 1
+used to win -> prizes : 1
+to win prizes -> for : 1
+win prizes for -> his : 1
+prizes for his -> at : 1
+for his at -> a : 1
+his at a -> considerable : 1
+at a considerable -> knock : 1
+a considerable knock -> to : 1
+considerable knock to -> his : 1
+knock to his -> he : 1
+to his he -> had : 1
+he had struggled -> to : 2
+had struggled to -> make : 1
+had struggled to -> decipher : 1
+struggled to make -> or : 1
+to make or -> even : 1
+make or even -> mrs : 1
+or even mrs -> crumble : 1
+even mrs crumble -> thought : 1
+mrs crumble thought -> with : 1
+crumble thought with -> delight : 1
+thought with delight -> how : 1
+with delight how -> gigantic : 1
+delight how gigantic -> her : 1
+how gigantic her -> cabbages : 1
+gigantic her cabbages -> could : 1
+her cabbages could -> be : 1
+cabbages could be -> this : 1
+could be this -> year : 1
+be this year -> if : 1
+this year if -> liberally : 1
+year if liberally -> sprinkled : 1
+if liberally sprinkled -> with : 1
+liberally sprinkled with -> some : 1
+sprinkled with some -> crocodile : 1
+with some crocodile -> she : 1
+some crocodile she -> collected : 1
+crocodile she collected -> up : 1
+she collected up -> all : 1
+collected up all -> the : 1
+up all the -> crocodile : 1
+all the crocodile -> droppings : 1
+the crocodile droppings -> she : 1
+the crocodile droppings -> on : 1
+the crocodile droppings -> and : 1
+crocodile droppings she -> could : 1
+droppings she could -> find : 1
+she could find -> into : 1
+could find into -> a : 1
+find into a -> plastic : 1
+into a plastic -> the : 1
+a plastic the -> who : 1
+plastic the who -> had : 1
+the who had -> been : 1
+the who had -> broken : 1
+who had been -> woken : 1
+had been woken -> up : 1
+been woken up -> as : 1
+woken up as -> each : 1
+up as each -> dropping : 1
+as each dropping -> noisily : 1
+each dropping noisily -> landed : 1
+dropping noisily landed -> in : 1
+noisily landed in -> mrs : 1
+landed in mrs -> plastic : 1
+in mrs plastic -> watched : 1
+mrs plastic watched -> her : 1
+plastic watched her -> through : 1
+watched her through -> eyes : 1
+her through eyes -> and : 1
+through eyes and -> thought : 1
+eyes and thought -> grumpily : 1
+and thought grumpily -> to : 1
+thought grumpily to -> himself : 1
+grumpily to himself -> how : 1
+to himself how -> very : 1
+himself how very -> strange : 1
+how very strange -> his : 1
+very strange his -> keeper : 1
+strange his keeper -> mrs : 1
+his keeper mrs -> crumble : 1
+keeper mrs crumble -> left : 1
+mrs crumble left -> the : 1
+crumble left the -> plastic : 1
+left the plastic -> bag : 1
+the plastic bag -> at : 1
+plastic bag at -> the : 1
+bag at the -> zoo : 1
+at the zoo -> gate : 1
+at the zoo -> with : 1
+the zoo gate -> with : 1
+zoo gate with -> a : 1
+gate with a -> big : 1
+with a big -> label : 1
+a big label -> saying : 1
+big label saying -> on : 1
+label saying on -> and : 1
+saying on and -> then : 1
+on and then -> she : 1
+and then she -> went : 1
+then she went -> back : 1
+she went back -> to : 1
+went back to -> the : 1
+went back to -> waving : 1
+house and texted -> her : 1
+and texted her -> hv : 1
+texted her hv -> left : 1
+her hv left -> pckge : 1
+hv left pckge -> zoo : 1
+left pckge zoo -> wot : 1
+pckge zoo wot -> yr : 1
+zoo wot yr -> mr : 1
+wot yr mr -> crumble : 1
+yr mr crumble -> was : 1
+crumble was in -> town : 1
+was in town -> when : 1
+in town when -> he : 1
+town when he -> picked : 1
+when he picked -> up : 1
+he picked up -> the : 1
+he picked up -> on : 1
+picked up the -> text : 1
+picked up the -> metal : 1
+up the text -> so : 1
+the text so -> he : 1
+text so he -> drove : 1
+so he drove -> home : 1
+he drove home -> via : 1
+drove home via -> the : 1
+home via the -> to : 1
+via the to -> pick : 1
+the to pick -> up : 1
+to pick up -> the : 1
+pick up the -> plastic : 1
+up the plastic -> when : 1
+the plastic when -> he : 1
+plastic when he -> got : 1
+when he got -> home : 1
+he got home -> he : 1
+got home he -> pondered : 1
+home he pondered -> his : 1
+he pondered his -> kind : 1
+pondered his kind -> for : 1
+his kind for -> years : 1
+kind for years -> he : 1
+for years he -> had : 1
+years he had -> struggled : 1
+struggled to decipher -> mrs : 1
+to decipher mrs -> scribbled : 1
+decipher mrs scribbled -> while : 1
+mrs scribbled while -> his : 1
+scribbled while his -> wife : 1
+while his wife -> had : 1
+his wife had -> become : 1
+wife had become -> rather : 1
+had become rather -> expert : 1
+become rather expert -> at : 1
+rather expert at -> motor : 1
+expert at motor -> it : 1
+at motor it -> is : 1
+motor it is -> fair : 1
+it is fair -> to : 1
+is fair to -> say : 1
+fair to say -> she : 1
+to say she -> often : 1
+say she often -> struggled : 1
+she often struggled -> with : 1
+often struggled with -> her : 1
+struggled with her -> now : 1
+with her now -> he : 1
+her now he -> had : 1
+now he had -> to : 1
+he had to -> descramble : 1
+had to descramble -> her : 1
+to descramble her -> text : 1
+descramble her text -> which : 1
+her text which -> were : 1
+text which were -> often : 1
+which were often -> just : 1
+were often just -> as : 1
+often just as -> confusing : 1
+just as confusing -> as : 1
+as confusing as -> her : 1
+confusing as her -> notes : 1
+as her notes -> had : 1
+her notes had -> this : 1
+notes had this -> one : 1
+had this one -> seemed : 1
+this one seemed -> very : 1
+one seemed very -> a : 1
+seemed very a -> great : 1
+very a great -> man : 1
+a great man -> you : 1
+great man you -> are : 1
+man you are -> for : 1
+you are for -> your : 1
+are for your -> how : 1
+for your how -> typical : 1
+your how typical -> of : 1
+how typical of -> mrs : 1
+typical of mrs -> crumble : 1
+of mrs crumble -> to : 1
+mrs crumble to -> send : 1
+mrs crumble to -> go : 1
+crumble to send -> such : 1
+to send such -> a : 1
+send such a -> thoughtful : 1
+such a thoughtful -> knowing : 1
+a thoughtful knowing -> of : 1
+thoughtful knowing of -> his : 1
+knowing of his -> recent : 1
+of his recent -> disappointment : 1
+his recent disappointment -> in : 1
+recent disappointment in -> the : 1
+disappointment in the -> melton : 1
+in the melton -> meadow : 1
+the melton meadow -> flower : 2
+melton meadow flower -> and : 2
+meadow flower and -> vegetable : 2
+flower and vegetable -> he : 1
+flower and vegetable -> show : 1
+and vegetable he -> peered : 1
+vegetable he peered -> into : 1
+he peered into -> the : 1
+peered into the -> plastic : 1
+into the plastic -> he : 1
+the plastic he -> chuckled : 1
+plastic he chuckled -> to : 1
+he chuckled to -> as : 1
+chuckled to as -> soon : 1
+to as soon -> as : 1
+as soon as -> he : 1
+as soon as -> dragged : 1
+soon as he -> was : 1
+as he was -> he : 1
+he was he -> set : 1
+was he set -> about : 1
+he set about -> cooking : 1
+set about cooking -> a : 1
+about cooking a -> rich : 1
+cooking a rich -> tomato : 1
+a rich tomato -> sauce : 1
+rich tomato sauce -> to : 1
+tomato sauce to -> go : 1
+sauce to go -> with : 1
+to go with -> his : 1
+go with his -> while : 1
+with his while -> the : 1
+his while the -> sauce : 1
+while the sauce -> was : 1
+the sauce was -> simmering : 1
+sauce was simmering -> mr : 1
+was simmering mr -> crumble : 1
+simmering mr crumble -> carefully : 1
+mr crumble carefully -> placed : 1
+crumble carefully placed -> the : 1
+carefully placed the -> crocodile : 1
+placed the crocodile -> droppings : 1
+crocodile droppings on -> a : 1
+droppings on a -> baking : 1
+on a baking -> tray : 1
+a baking tray -> and : 1
+baking tray and -> drizzled : 1
+tray and drizzled -> a : 1
+and drizzled a -> little : 1
+drizzled a little -> sunflower : 1
+a little sunflower -> oil : 1
+little sunflower oil -> over : 1
+sunflower oil over -> adding : 1
+oil over adding -> a : 1
+over adding a -> little : 1
+adding a little -> pepper : 1
+a little pepper -> and : 1
+little pepper and -> salt : 1
+pepper and salt -> for : 1
+and salt for -> good : 1
+salt for good -> he : 1
+for good he -> placed : 1
+good he placed -> them : 1
+he placed them -> in : 1
+placed them in -> the : 1
+them in the -> oven : 1
+in the oven -> and : 1
+the oven and -> went : 1
+oven and went -> out : 1
+and went out -> to : 1
+went out to -> pick : 1
+out to pick -> an : 1
+to pick an -> especially : 1
+pick an especially -> back : 1
+an especially back -> at : 1
+especially back at -> the : 1
+back at the -> mrs : 3
+at the mrs -> crumble : 3
+the mrs crumble -> was : 1
+the mrs crumble -> why : 1
+the mrs crumble -> believe : 1
+mrs crumble was -> feeling : 1
+mrs crumble was -> a : 1
+crumble was feeling -> very : 1
+was feeling very -> pleased : 1
+feeling very pleased -> with : 1
+very pleased with -> her : 1
+pleased with her -> efforts : 1
+with her efforts -> and : 1
+her efforts and -> was : 1
+efforts and was -> a : 1
+and was a -> bit : 1
+was a bit -> miffed : 1
+a bit miffed -> not : 1
+bit miffed not -> to : 1
+miffed not to -> have : 1
+not to have -> received : 1
+not to have -> to : 1
+to have received -> at : 1
+have received at -> least : 1
+received at least -> a : 1
+at least a -> little : 1
+least a little -> thank : 1
+a little thank -> you : 1
+little thank you -> back : 1
+thank you back -> from : 1
+you back from -> mr : 1
+back from mr -> so : 1
+from mr so -> she : 1
+mr so she -> texted : 1
+so she texted -> him : 1
+she texted him -> good : 1
+texted him good -> this : 1
+him good this -> one : 1
+good this one -> puzzled : 1
+this one puzzled -> mr : 1
+one puzzled mr -> now : 1
+puzzled mr now -> back : 1
+mr now back -> in : 1
+now back in -> the : 1
+back in the -> as : 1
+back in the -> the : 1
+in the as -> he : 1
+the as he -> put : 1
+as he put -> a : 1
+he put a -> knob : 1
+put a knob -> of : 1
+a knob of -> butter : 1
+knob of butter -> over : 1
+of butter over -> his : 1
+butter over his -> lightly : 1
+over his lightly -> boiled : 1
+his lightly boiled -> they : 1
+lightly boiled they -> were : 1
+boiled they were -> very : 1
+they were very -> fond : 1
+were very fond -> of : 1
+very fond of -> each : 1
+fond of each -> but : 1
+of each but -> it : 1
+each but it -> like : 1
+but it like -> mrs : 1
+it like mrs -> crumble : 1
+like mrs crumble -> to : 1
+crumble to go -> to : 1
+to the trouble -> of : 1
+the trouble of -> telling : 1
+trouble of telling -> him : 1
+of telling him -> a : 1
+telling him a -> good : 1
+him a good -> man : 1
+a good man -> you : 1
+good man you -> twice : 1
+man you twice -> in : 1
+you twice in -> one : 1
+twice in one -> and : 1
+in one and -> why : 1
+one and why -> the : 1
+and why the -> question : 1
+why the question -> he : 1
+the question he -> texted : 1
+question he texted -> good : 1
+he texted good -> and : 1
+texted good and -> with : 1
+good and with -> that : 1
+that he poured -> the : 1
+he poured the -> tomato : 1
+poured the tomato -> sauce : 1
+the tomato sauce -> over : 1
+tomato sauce over -> the : 1
+sauce over the -> crocodile : 1
+over the crocodile -> droppings : 1
+crocodile droppings and -> sat : 1
+droppings and sat -> down : 1
+and sat down -> to : 1
+sat down to -> back : 1
+down to back -> at : 1
+to back at -> the : 1
+mrs crumble why -> was : 1
+crumble why was -> mr : 1
+why was mr -> crumble : 1
+was mr crumble -> telling : 1
+mr crumble telling -> her : 1
+crumble telling her -> what : 1
+telling her what -> a : 1
+her what a -> good : 1
+what a good -> woman : 1
+a good woman -> she : 1
+good woman she -> she : 1
+woman she she -> said : 1
+she she said -> out : 1
+she said out -> he : 1
+said out he -> on : 1
+out he on -> the : 1
+he on the -> crocodile : 1
+on the crocodile -> shook : 1
+the crocodile shook -> his : 1
+crocodile shook his -> big : 1
+shook his big -> head : 1
+his big head -> in : 1
+big head in -> his : 1
+head in his -> keeper : 1
+in his keeper -> seemed : 1
+his keeper seemed -> to : 1
+keeper seemed to -> be : 1
+to be getting -> stranger : 1
+be getting stranger -> by : 1
+getting stranger by -> the : 1
+stranger by the -> in : 1
+by the in -> the : 1
+the in the -> mr : 1
+in the mr -> crumble : 1
+the mr crumble -> chewed : 1
+mr crumble chewed -> enthusiastically : 1
+crumble chewed enthusiastically -> on : 1
+chewed enthusiastically on -> his : 1
+enthusiastically on his -> first : 1
+on his first -> bite : 1
+his first bite -> of : 1
+first bite of -> crocodile : 1
+bite of crocodile -> it : 1
+of crocodile it -> tasted : 1
+crocodile it tasted -> very : 1
+it tasted very -> he : 1
+tasted very he -> tried : 1
+very he tried -> spooning : 1
+he tried spooning -> some : 1
+tried spooning some -> more : 1
+spooning some more -> tomato : 1
+some more tomato -> sauce : 1
+more tomato sauce -> on : 1
+tomato sauce on -> to : 1
+sauce on to -> his : 1
+on to his -> but : 1
+on to his -> clean : 1
+to his but -> it : 1
+his but it -> still : 1
+but it still -> tasted : 1
+it still tasted -> very : 1
+still tasted very -> odd : 1
+tasted very odd -> he : 1
+very odd he -> wish : 1
+odd he wish -> to : 1
+he wish to -> hurt : 1
+wish to hurt -> his : 1
+to hurt his -> so : 1
+hurt his so -> he : 1
+his so he -> texted : 1
+so he texted -> once : 1
+he texted once -> did : 1
+texted once did -> ur : 1
+once did ur -> mum : 1
+did ur mum -> make : 1
+ur mum make -> he : 1
+mum make he -> picked : 1
+make he picked -> away : 1
+he picked away -> at : 1
+picked away at -> some : 1
+away at some -> of : 1
+at some of -> his : 1
+some of his -> delicious : 1
+of his delicious -> and : 1
+his delicious and -> thought : 1
+delicious and thought -> that : 1
+and thought that -> perhaps : 1
+thought that perhaps -> he : 1
+that perhaps he -> should : 1
+perhaps he should -> be : 1
+he should be -> the : 1
+should be the -> one : 1
+be the one -> to : 1
+the one to -> make : 1
+one to make -> dinner : 1
+to make dinner -> from : 1
+make dinner from -> now : 1
+dinner from now -> his : 1
+from now his -> phone : 1
+now his phone -> peeped : 1
+his phone peeped -> and : 1
+phone peeped and -> he : 1
+peeped and he -> scrolled : 1
+and he scrolled -> down : 1
+he scrolled down -> for : 1
+scrolled down for -> the : 1
+down for the -> wot : 1
+for the wot -> mr : 1
+the wot mr -> crumble : 1
+wot mr crumble -> stared : 1
+mr crumble stared -> at : 1
+mr crumble stared -> in : 1
+crumble stared at -> the : 1
+stared at the -> little : 1
+at the little -> brown : 1
+at the little -> the : 1
+the little brown -> balls : 1
+little brown balls -> on : 1
+brown balls on -> the : 1
+balls on the -> place : 1
+on the place -> in : 1
+the place in -> front : 1
+place in front -> of : 1
+front of and -> cut : 1
+of and cut -> one : 1
+and cut one -> in : 1
+cut one in -> it : 1
+one in it -> seemed : 1
+in it seemed -> to : 1
+it seemed to -> have : 1
+to have grass -> inside : 1
+have grass inside -> he : 1
+grass inside he -> texted : 1
+inside he texted -> mrs : 1
+he texted mrs -> in : 1
+texted mrs in -> plstc : 1
+mrs in plstc -> this : 1
+in plstc this -> he : 1
+plstc this he -> try : 1
+this he try -> any : 1
+he try any -> more : 1
+try any more -> but : 1
+any more but -> waited : 1
+more but waited -> for : 1
+but waited for -> the : 1
+waited for the -> not : 1
+for the not -> mr : 1
+the not mr -> crumble : 1
+not mr crumble -> stared : 1
+crumble stared in -> horror : 1
+stared in horror -> at : 1
+in horror at -> his : 1
+horror at his -> mobile : 1
+at his mobile -> rooted : 1
+his mobile rooted -> to : 1
+mobile rooted to -> his : 1
+rooted to his -> chair : 1
+to his chair -> as : 1
+his chair as -> his : 1
+chair as his -> stomach : 1
+as his stomach -> heaved : 1
+his stomach heaved -> and : 1
+stomach heaved and -> rumbled : 1
+heaved and rumbled -> and : 1
+and rumbled and -> then : 1
+rumbled and then -> he : 1
+and then he -> rushed : 1
+then he rushed -> over : 1
+he rushed over -> to : 1
+rushed over to -> the : 1
+over to the -> kitchen : 1
+to the kitchen -> sink : 1
+the kitchen sink -> afraid : 1
+kitchen sink afraid -> to : 1
+sink afraid to -> he : 1
+afraid to he -> was : 1
+to he was -> violently : 1
+he was violently -> back : 1
+was violently back -> at : 1
+violently back at -> the : 1
+mrs crumble believe -> her : 1
+crumble believe her -> husband : 1
+believe her husband -> was : 1
+her husband was -> so : 1
+husband was so -> she : 1
+was so she -> sent : 1
+so she sent -> him : 1
+she sent him -> a : 1
+sent him a -> final : 1
+him a final -> wot : 1
+a final wot -> a : 1
+final wot a -> daft : 1
+wot a daft -> eaten : 1
+a daft eaten -> your : 1
+daft eaten your -> she : 1
+eaten your she -> screeched : 1
+your she screeched -> at : 1
+she screeched at -> the : 1
+screeched at the -> the : 1
+at the the -> crocodile : 1
+the the crocodile -> eyed : 1
+the crocodile eyed -> mrs : 1
+crocodile eyed mrs -> crumble : 1
+eyed mrs crumble -> she : 1
+mrs crumble she -> was : 1
+crumble she was -> obviously : 1
+she was obviously -> he : 1
+was obviously he -> turned : 1
+obviously he turned -> round : 1
+he turned round -> and : 1
+turned round and -> decided : 1
+round and decided -> it : 1
+and decided it -> might : 1
+decided it might -> be : 1
+it might be -> a : 2
+might be a -> good : 2
+be a good -> time : 1
+be a good -> idea : 1
+a good time -> to : 1
+good time to -> go : 1
+time to go -> back : 1
+to go back -> to : 1
+go back to -> back : 1
+back to back -> in : 1
+to back in -> his : 1
+back in his -> mr : 1
+in his mr -> pickles : 1
+his mr pickles -> was : 1
+mr pickles was -> gazing : 1
+mr pickles was -> obviously : 1
+mr pickles was -> such : 1
+mr pickles was -> glaring : 1
+mr pickles was -> now : 1
+mr pickles was -> struggling : 1
+pickles was gazing -> out : 1
+was gazing out -> of : 1
+gazing out of -> his : 1
+out of his -> toying : 1
+out of his -> shaking : 1
+of his toying -> with : 1
+his toying with -> the : 1
+toying with the -> idea : 1
+with the idea -> of : 1
+the idea of -> catching : 1
+idea of catching -> up : 1
+of catching up -> with : 1
+catching up with -> the : 1
+up with the -> test : 1
+with the test -> match : 1
+the test match -> window : 1
+the test match -> in : 1
+test match window -> showering : 1
+match window showering -> broken : 1
+window showering broken -> glass : 1
+showering broken glass -> all : 1
+broken glass all -> over : 1
+glass all over -> the : 1
+all over the -> on : 1
+over the on -> earth : 1
+the on earth -> shouted : 1
+on earth shouted -> mr : 1
+earth shouted mr -> but : 1
+shouted mr but -> the : 1
+mr but the -> question : 1
+but the question -> froze : 1
+the question froze -> on : 1
+question froze on -> his : 1
+froze on his -> he : 1
+on his he -> could : 1
+on his he -> opened : 1
+his he could -> see : 1
+he could see -> at : 1
+could see at -> a : 1
+see at a -> glance : 1
+at a glance -> what : 1
+a glance what -> was : 1
+glance what was -> going : 1
+what was going -> half : 1
+was going half -> a : 1
+going half a -> dozen : 1
+half a dozen -> chimps : 1
+a dozen chimps -> had : 1
+dozen chimps had -> broken : 1
+chimps had broken -> loose : 1
+had broken loose -> from : 1
+broken loose from -> mr : 1
+loose from mr -> their : 1
+from mr their -> and : 1
+mr their and -> escaped : 1
+their and escaped -> from : 1
+and escaped from -> the : 1
+escaped from the -> chimp : 1
+from the chimp -> house : 1
+the chimp house -> and : 1
+chimp house and -> were : 1
+house and were -> running : 1
+and were running -> riot : 1
+were running riot -> in : 1
+running riot in -> mr : 1
+riot in mr -> prize : 1
+in mr prize -> flower : 1
+mr prize flower -> it : 1
+prize flower it -> turned : 1
+flower it turned -> out : 1
+it turned out -> that : 1
+turned out that -> the : 1
+out that the -> flower : 1
+that the flower -> beds : 1
+the flower beds -> were : 1
+flower beds were -> a : 1
+beds were a -> much : 1
+were a much -> better : 1
+a much better -> place : 1
+much better place -> to : 1
+better place to -> play : 1
+place to play -> than : 1
+to play than -> the : 1
+play than the -> chimp : 1
+than the chimp -> which : 1
+the chimp which -> to : 1
+chimp which to -> tell : 1
+which to tell -> the : 1
+to tell the -> the : 1
+tell the the -> chimps : 1
+the the chimps -> had : 1
+the chimps had -> been : 1
+chimps had been -> getting : 1
+had been getting -> rather : 1
+been getting rather -> bored : 1
+getting rather bored -> with : 1
+rather bored with -> lately : 1
+bored with lately -> they : 1
+with lately they -> had : 1
+lately they had -> discovered : 1
+they had discovered -> a : 1
+had discovered a -> number : 1
+discovered a number -> of : 1
+a number of -> round : 1
+number of round -> balls : 1
+of round balls -> hidden : 1
+round balls hidden -> among : 1
+balls hidden among -> the : 1
+hidden among the -> flower : 1
+among the flower -> small : 1
+the flower small -> and : 1
+flower small and -> hard : 1
+small and hard -> for : 1
+and hard for -> too : 1
+hard for too -> big : 1
+for too big -> for : 1
+too big for -> but : 1
+big for but -> just : 1
+for but just -> perfect : 1
+but just perfect -> for : 1
+just perfect for -> throwing : 1
+perfect for throwing -> at : 1
+for throwing at -> each : 1
+for throwing at -> the : 1
+throwing at each -> and : 1
+at each and -> even : 1
+each and even -> better : 1
+and even better -> for : 1
+even better for -> throwing : 1
+better for throwing -> at : 1
+throwing at the -> head : 1
+at the head -> zoo : 1
+the head zoo -> mr : 1
+head zoo mr -> pickles : 1
+zoo mr pickles -> ran : 1
+mr pickles ran -> out : 1
+pickles ran out -> of : 1
+ran out of -> his : 1
+of his shaking -> his : 1
+his shaking his -> he : 1
+shaking his he -> felt : 1
+his he felt -> really : 1
+he felt really -> quite : 1
+felt really quite -> the : 1
+really quite the -> thought : 1
+quite the thought -> he : 1
+the thought he -> was : 1
+thought he was -> urging : 1
+he was urging -> them : 1
+was urging them -> mr : 1
+urging them mr -> pickles : 1
+them mr pickles -> was : 1
+pickles was obviously -> much : 1
+was obviously much -> more : 1
+obviously much more -> fun : 1
+much more fun -> than : 1
+more fun than -> mr : 1
+fun than mr -> they : 1
+than mr they -> could : 1
+mr they could -> even : 1
+they could even -> swap : 1
+could even swap -> keepers : 1
+even swap keepers -> after : 1
+swap keepers after -> one : 1
+keepers after one -> chimp : 1
+after one chimp -> picked : 1
+one chimp picked -> up : 1
+chimp picked up -> a : 1
+picked up a -> large : 1
+up a large -> ball : 1
+a large ball -> of : 1
+large ball of -> elephant : 1
+ball of elephant -> it : 1
+of elephant it -> landed : 1
+elephant it landed -> on : 1
+it landed on -> the : 1
+landed on the -> top : 1
+on the top -> of : 1
+the top of -> mr : 1
+the top of -> his : 1
+top of mr -> head : 1
+of mr head -> with : 1
+mr head with -> a : 1
+head with a -> painful : 1
+with a painful -> the : 1
+a painful the -> chimps : 1
+painful the chimps -> screeched : 1
+the chimps screeched -> with : 1
+chimps screeched with -> mr : 1
+screeched with mr -> pickles : 1
+with mr pickles -> was : 1
+pickles was such -> a : 1
+was such a -> sport : 1
+such a sport -> for : 1
+a sport for -> joining : 1
+sport for joining -> in : 1
+for joining in -> the : 1
+joining in the -> so : 1
+in the so -> sorry : 1
+the so sorry -> about : 1
+so sorry about -> gasped : 1
+sorry about gasped -> mr : 1
+about gasped mr -> was : 1
+gasped mr was -> just : 1
+mr was just -> trying : 1
+was just trying -> to : 1
+just trying to -> give : 1
+trying to give -> them : 1
+to give them -> some : 1
+give them some -> air : 1
+them some air -> while : 1
+some air while -> i : 1
+air while i -> cleaned : 1
+while i cleaned -> their : 1
+i cleaned their -> mr : 1
+cleaned their mr -> pickles : 1
+their mr pickles -> spun : 1
+their mr pickles -> called : 1
+mr pickles spun -> round : 1
+pickles spun round -> and : 1
+and saw too -> another : 1
+saw too another -> chimp : 1
+too another chimp -> with : 1
+another chimp with -> his : 1
+chimp with his -> foot : 1
+with his foot -> in : 1
+his foot in -> the : 1
+foot in the -> middle : 1
+middle of one -> of : 1
+of one of -> mr : 1
+one of mr -> big : 1
+of mr big -> runny : 1
+mr big runny -> piles : 1
+big runny piles -> of : 1
+runny piles of -> rhino : 1
+piles of rhino -> with : 1
+of rhino with -> an : 1
+rhino with an -> elegant : 1
+with an elegant -> flick : 1
+an elegant flick -> of : 1
+elegant flick of -> his : 1
+flick of his -> the : 1
+of his the -> chimp : 1
+his the chimp -> scooped : 1
+the chimp scooped -> up : 1
+chimp scooped up -> the : 1
+scooped up the -> soggy : 1
+up the soggy -> mound : 1
+the soggy mound -> and : 1
+soggy mound and -> splattered : 1
+mound and splattered -> it : 1
+and splattered it -> slap : 1
+splattered it slap -> bang : 1
+it slap bang -> in : 1
+middle of mr -> horrified : 1
+of mr horrified -> for : 1
+mr horrified for -> a : 1
+horrified for a -> few : 1
+a few seconds -> the : 1
+few seconds the -> head : 1
+seconds the head -> keeper : 1
+the head keeper -> of : 1
+head keeper of -> melton : 1
+keeper of melton -> meadow : 1
+of melton meadow -> zoo : 1
+meadow zoo stood -> frozen : 1
+zoo stood frozen -> like : 1
+stood frozen like -> a : 1
+frozen like a -> slowly : 1
+like a slowly -> he : 1
+a slowly he -> opened : 1
+slowly he opened -> one : 1
+he opened one -> then : 1
+opened one then -> the : 1
+one then the -> two : 1
+then the two -> white : 1
+the two white -> holes : 1
+two white holes -> in : 1
+white holes in -> an : 1
+holes in an -> otherwise : 1
+in an otherwise -> brown : 1
+an otherwise brown -> and : 1
+otherwise brown and -> slippery : 1
+brown and slippery -> three : 1
+and slippery three -> or : 1
+slippery three or -> four : 1
+three or four -> drops : 1
+or four drops -> of : 1
+four drops of -> poo : 1
+drops of poo -> slid : 1
+of poo slid -> off : 1
+poo slid off -> his : 1
+slid off his -> chin : 1
+off his chin -> on : 1
+his chin on -> to : 1
+chin on to -> his : 1
+to his clean -> white : 1
+his clean white -> a : 1
+clean white a -> large : 1
+white a large -> bluebottle : 1
+a large bluebottle -> settled : 1
+large bluebottle settled -> on : 1
+bluebottle settled on -> his : 1
+settled on his -> he : 1
+his he opened -> his : 1
+he opened his -> spitting : 1
+opened his spitting -> out : 1
+his spitting out -> little : 1
+spitting out little -> flecks : 1
+out little flecks -> of : 1
+little flecks of -> poo : 1
+flecks of poo -> from : 1
+of poo from -> his : 1
+poo from his -> lips : 1
+from his lips -> and : 1
+his lips and -> teeth : 1
+lips and teeth -> and : 1
+and teeth and -> setting : 1
+teeth and setting -> off : 1
+and setting off -> a : 1
+setting off a -> fresh : 1
+off a fresh -> round : 1
+a fresh round -> of : 1
+fresh round of -> amused : 1
+round of amused -> screeches : 1
+of amused screeches -> from : 1
+amused screeches from -> the : 1
+screeches from the -> but : 1
+from the but -> no : 1
+the but no -> words : 1
+but no words -> would : 1
+no words would -> come : 1
+words would come -> to : 1
+would come to -> the : 1
+come to the -> head : 1
+to the head -> for : 1
+the head for -> the : 1
+head for the -> first : 1
+for the first -> time : 1
+the first time -> in : 1
+first time in -> his : 1
+time in his -> long : 1
+in his long -> life : 1
+his long life -> mr : 1
+long life mr -> pickles : 1
+life mr pickles -> was : 1
+pickles was glaring -> through : 1
+was glaring through -> his : 1
+glaring through his -> brown : 1
+through his brown -> poo : 1
+his brown poo -> mask : 1
+brown poo mask -> he : 1
+poo mask he -> retreated : 1
+mask he retreated -> to : 1
+he retreated to -> his : 1
+retreated to his -> with : 1
+to his with -> varying : 1
+his with varying -> one : 1
+with varying one -> or : 1
+varying one or -> two : 1
+one or two -> missiles : 1
+or two missiles -> as : 1
+two missiles as -> he : 1
+missiles as he -> miss : 1
+as he miss -> the : 1
+he miss the -> zoo : 1
+miss the zoo -> managed : 1
+the zoo managed -> to : 1
+zoo managed to -> suppress : 1
+managed to suppress -> a : 1
+to suppress a -> snigger : 1
+suppress a snigger -> as : 1
+a snigger as -> mr : 1
+snigger as mr -> pickles : 1
+as mr pickles -> dripped : 1
+as mr pickles -> lay : 1
+mr pickles dripped -> into : 1
+pickles dripped into -> the : 1
+dripped into the -> outer : 1
+into the outer -> i : 1
+the outer i -> run : 1
+outer i run -> you : 1
+i run you -> a : 1
+run you a -> the : 1
+you a the -> next : 1
+a the next -> morning : 1
+the next morning -> miss : 1
+next morning miss -> the : 1
+morning miss the -> received : 1
+miss the received -> a : 1
+the received a -> call : 1
+received a call -> from : 1
+a call from -> a : 1
+call from a -> very : 1
+from a very -> mr : 1
+a very mr -> all : 1
+very mr all -> a : 1
+mr all a -> he : 1
+all a he -> little : 1
+a he little -> miss : 1
+he little miss -> ingleby : 1
+little miss ingleby -> must : 1
+miss ingleby must -> come : 1
+ingleby must come -> miss : 1
+must come miss -> ingleby : 1
+come miss ingleby -> sighed : 1
+miss ingleby sighed -> as : 1
+miss ingleby sighed -> for : 1
+ingleby sighed as -> she : 1
+sighed as she -> put : 1
+as she put -> down : 1
+she put down -> the : 1
+put down the -> she : 1
+down the she -> really : 1
+the she really -> understand : 1
+she really understand -> why : 1
+really understand why -> people : 1
+understand why people -> be : 1
+why people be -> more : 1
+people be more -> like : 1
+be more like -> dung : 1
+more like dung -> there : 1
+like dung there -> was : 1
+dung there was -> never : 1
+there was never -> even : 1
+was never even -> a : 1
+never even a -> whiff : 1
+even a whiff -> of : 1
+a whiff of -> amateur : 1
+whiff of amateur -> dramatics : 1
+of amateur dramatics -> from : 1
+amateur dramatics from -> her : 1
+dramatics from her -> precious : 1
+from her precious -> even : 1
+her precious even -> if : 1
+precious even if -> there : 1
+even if there -> was : 1
+if there was -> that : 1
+there was that -> constant : 1
+was that constant -> slight : 1
+that constant slight -> whiff : 1
+constant slight whiff -> of : 1
+slight whiff of -> a : 1
+whiff of a -> different : 1
+of a different -> miss : 1
+a different miss -> ingleby : 1
+different miss ingleby -> had : 1
+miss ingleby had -> a : 1
+ingleby had a -> sudden : 1
+had a sudden -> thought : 1
+a sudden thought -> before : 1
+sudden thought before -> leaving : 1
+thought before leaving -> for : 1
+before leaving for -> mr : 1
+leaving for mr -> office : 1
+for mr office -> and : 1
+mr office and -> stopped : 1
+office and stopped -> just : 1
+and stopped just -> for : 1
+stopped just for -> a : 1
+just for a -> second : 1
+for a second -> to : 1
+a second to -> pop : 1
+second to pop -> something : 1
+to pop something -> in : 1
+pop something in -> a : 1
+something in a -> matchbox : 1
+in a matchbox -> to : 1
+a matchbox to -> take : 1
+matchbox to take -> with : 1
+to take with -> neighbours : 1
+take with neighbours -> are : 1
+with neighbours are -> mr : 1
+neighbours are mr -> pickles : 1
+are mr pickles -> announced : 1
+mr pickles announced -> when : 1
+pickles announced when -> miss : 1
+announced when miss -> ingleby : 1
+when miss ingleby -> should : 1
+miss ingleby should -> think : 1
+ingleby should think -> the : 1
+should think the -> whole : 1
+think the whole -> said : 1
+the whole said -> miss : 1
+whole said miss -> ingleby : 1
+said miss ingleby -> thirty : 1
+said miss ingleby -> pinching : 1
+said miss ingleby -> relieved : 1
+said miss ingleby -> why : 1
+miss ingleby thirty -> degrees : 1
+ingleby thirty degrees -> in : 1
+thirty degrees in -> the : 1
+degrees in the -> shade : 1
+in the shade -> and : 1
+the shade and -> the : 1
+shade and the -> pong : 1
+and the pong -> is : 1
+the pong is -> quite : 1
+pong is quite -> sergeant : 1
+is quite sergeant -> saddle : 1
+quite sergeant saddle -> has : 1
+sergeant saddle has -> been : 1
+saddle has been -> round : 1
+has been round -> to : 1
+been round to -> check : 1
+round to check -> up : 1
+to check up -> on : 1
+check up on -> us : 1
+up on us -> because : 1
+on us because -> of : 1
+us because of -> the : 1
+because of the -> the : 1
+the the test -> i : 1
+the test i -> might : 1
+test i might -> not : 1
+i might not -> said : 1
+might not said -> mr : 1
+not said mr -> what : 1
+not said mr -> pickles : 1
+said mr what -> we : 1
+mr what we -> need : 1
+what we need -> is : 1
+we need is -> a : 1
+need is a -> an : 1
+is a an -> emergency : 1
+a an emergency -> he : 1
+an emergency he -> added : 1
+an emergency he -> called : 1
+emergency he added -> agreed : 1
+he added agreed -> miss : 1
+added agreed miss -> waiting : 1
+agreed miss waiting -> to : 1
+miss waiting to -> hear : 1
+waiting to hear -> mr : 1
+to hear mr -> but : 1
+hear mr but -> mr : 1
+mr but mr -> pickles : 1
+but mr pickles -> appear : 1
+mr pickles appear -> to : 1
+pickles appear to -> have : 1
+appear to have -> anything : 1
+to have anything -> else : 1
+have anything else -> to : 1
+anything else to -> he : 1
+else to he -> looked : 1
+to he looked -> it : 1
+he looked it -> miss : 1
+looked it miss -> ingleby : 1
+it miss ingleby -> miss : 1
+miss ingleby miss -> ingleby : 1
+ingleby miss ingleby -> sighed : 1
+ingleby sighed for -> the : 1
+sighed for the -> second : 1
+for the second -> time : 1
+the second time -> that : 1
+second time that -> was : 1
+time that was -> wondering : 1
+that was wondering -> about : 1
+was wondering about -> she : 1
+wondering about she -> opening : 1
+about she opening -> a : 1
+she opening a -> little : 1
+opening a little -> box : 1
+a little box -> to : 1
+little box to -> reveal : 1
+box to reveal -> two : 1
+to reveal two -> brown : 1
+reveal two brown -> mr : 1
+two brown mr -> pickles : 1
+brown mr pickles -> looked : 1
+mr pickles looked -> she : 1
+pickles looked she -> said : 1
+looked she said -> about : 1
+she said about -> dung : 1
+said about dung -> asked : 1
+about dung asked -> mr : 1
+dung asked mr -> they : 1
+asked mr they -> eat : 1
+mr they eat -> said : 1
+they eat said -> miss : 1
+eat said miss -> asked : 1
+said miss asked -> an : 1
+miss asked an -> astonished : 1
+asked an astonished -> mr : 1
+an astonished mr -> do : 1
+astonished mr do -> like : 1
+mr do like -> lunch : 1
+do like lunch -> and : 1
+like lunch and -> nothing : 1
+lunch and nothing -> but : 1
+and nothing but -> said : 1
+nothing but said -> miss : 1
+but said miss -> she : 1
+said miss she -> scrunched : 1
+miss she scrunched -> up : 1
+she scrunched up -> her : 1
+scrunched up her -> nose : 1
+up her nose -> at : 1
+her nose at -> the : 1
+the little the -> dung : 1
+little the dung -> beetles : 1
+the dung beetles -> frowned : 1
+dung beetles frowned -> anyone : 1
+beetles frowned anyone -> would : 1
+frowned anyone would -> think : 1
+anyone would think -> they : 1
+would think they -> were : 1
+think they were -> set : 1
+they were set -> them : 1
+were set them -> to : 1
+set them to -> said : 1
+them to said -> mr : 1
+to said mr -> pickles : 1
+said mr pickles -> shall : 1
+said mr pickles -> to : 1
+said mr pickles -> after : 1
+said mr pickles -> gravely : 1
+said mr pickles -> i : 1
+said mr pickles -> just : 1
+said mr pickles -> very : 1
+said mr pickles -> you : 1
+said mr pickles -> if : 1
+mr pickles shall -> ring : 1
+pickles shall ring -> sergeant : 1
+shall ring sergeant -> saddle : 1
+ring sergeant saddle -> and : 1
+ring sergeant saddle -> on : 1
+sergeant saddle and -> tell : 1
+saddle and tell -> him : 1
+and tell him -> we : 1
+tell him we -> have : 1
+him we have -> an : 1
+we have an -> emergency : 1
+have an emergency -> he : 1
+emergency he called -> out : 1
+he called out -> to : 1
+called out to -> miss : 1
+out to miss -> his : 1
+to miss his -> to : 1
+miss his to -> ring : 1
+his to ring -> sergeant : 1
+to ring sergeant -> saddle : 1
+sergeant saddle on -> his : 1
+sergeant saddle on -> the : 1
+saddle on his -> mobile : 1
+on his mobile -> miss : 1
+his mobile miss -> ingleby : 1
+mobile miss ingleby -> tipped : 1
+miss ingleby tipped -> the : 1
+ingleby tipped the -> beetles : 1
+tipped the beetles -> out : 1
+the beetles out -> of : 1
+beetles out of -> the : 1
+of the little -> box : 1
+the little box -> into : 1
+little box into -> a : 1
+box into a -> large : 1
+into a large -> metal : 1
+a large metal -> wastepaper : 1
+large metal wastepaper -> bin : 1
+metal wastepaper bin -> and : 1
+wastepaper bin and -> to : 1
+bin and to -> mr : 1
+and to mr -> a : 1
+to mr a -> large : 1
+mr a large -> elephant : 1
+a large elephant -> dropping : 1
+elephant dropping from -> her : 1
+dropping from her -> rucksack : 1
+from her rucksack -> and : 1
+her rucksack and -> carefully : 1
+rucksack and carefully -> placed : 1
+and carefully placed -> it : 1
+carefully placed it -> in : 1
+placed it in -> the : 1
+it in the -> you : 1
+in the you -> she : 1
+the you she -> cooed : 1
+you she cooed -> to : 1
+she cooed to -> the : 1
+cooed to the -> the : 1
+to the the -> beetles : 1
+the the beetles -> glowered : 1
+the beetles glowered -> how : 1
+beetles glowered how -> much : 1
+glowered how much -> thingummy : 1
+how much thingummy -> can : 1
+much thingummy can -> a : 1
+thingummy can a -> whatsit : 1
+can a whatsit -> beetle : 1
+a whatsit beetle -> eat : 1
+whatsit beetle eat -> a : 1
+beetle eat a -> fifty : 1
+eat a fifty -> said : 1
+a fifty said -> miss : 1
+fifty said miss -> how : 1
+said miss how -> many : 1
+miss how many -> beetles : 1
+how many beetles -> do : 1
+many beetles do -> you : 1
+beetles do you -> asked : 1
+do you asked -> mr : 1
+you asked mr -> hundred : 1
+asked mr hundred -> and : 1
+mr hundred and -> said : 1
+hundred and said -> miss : 1
+and said miss -> i : 1
+and said miss -> ingleby : 1
+said miss i -> last : 1
+miss i last -> mr : 1
+i last mr -> pickles : 1
+last mr pickles -> got : 1
+mr pickles got -> out : 1
+pickles got out -> his : 1
+out his calculator -> and : 1
+his calculator and -> fed : 1
+calculator and fed -> point : 1
+and fed point -> six : 1
+fed point six -> kilograms : 1
+point six kilograms -> a : 1
+six kilograms a -> mr : 1
+kilograms a mr -> pickles : 1
+a mr pickles -> was : 1
+a mr pickles -> beamed : 1
+pickles was now -> very : 1
+was now very -> wait : 1
+now very wait -> until : 1
+very wait until -> i : 1
+wait until i -> tell : 1
+until i tell -> sergeant : 1
+i tell sergeant -> saddle : 1
+tell sergeant saddle -> a : 1
+sergeant saddle a -> sound : 1
+saddle a sound -> like : 1
+a sound like -> a : 1
+sound like a -> tiny : 1
+like a tiny -> burp : 1
+a tiny burp -> echoed : 1
+tiny burp echoed -> around : 1
+burp echoed around -> the : 1
+echoed around the -> metal : 1
+around the metal -> wastepaper : 1
+the metal wastepaper -> miss : 1
+the metal wastepaper -> with : 1
+metal wastepaper miss -> ingleby : 1
+wastepaper miss ingleby -> looked : 1
+miss ingleby looked -> in : 1
+ingleby looked in -> and : 1
+looked in and -> saw : 1
+in and saw -> two : 1
+and saw two -> green : 1
+saw two green -> with : 1
+two green with -> indigestion : 1
+green with indigestion -> and : 1
+with indigestion and -> mopping : 1
+indigestion and mopping -> their : 1
+and mopping their -> mr : 1
+mopping their mr -> pickles : 1
+pickles called through -> to : 1
+called through to -> miss : 1
+through to miss -> you : 1
+to miss you -> managed : 1
+miss you managed -> to : 1
+you managed to -> get : 1
+managed to get -> sergeant : 1
+to get sergeant -> saddle : 1
+get sergeant saddle -> said : 1
+sergeant saddle said -> mr : 1
+saddle said mr -> pickles : 1
+mr pickles to -> miss : 1
+mr pickles to -> the : 1
+pickles to miss -> stabbing : 1
+to miss stabbing -> away : 1
+miss stabbing away -> at : 1
+stabbing away at -> his : 1
+away at his -> have : 1
+at his have -> animals : 1
+his have animals -> in : 1
+have animals in -> the : 1
+animals in the -> and : 1
+in the and -> that : 1
+the and that -> means : 1
+and that means -> three : 1
+that means three -> tonnes : 1
+means three tonnes -> a : 1
+three tonnes a -> said : 1
+tonnes a said -> miss : 1
+a said miss -> taking : 1
+said miss taking -> the : 1
+miss taking the -> calculator : 1
+taking the calculator -> off : 1
+the calculator off -> him : 1
+calculator off him -> and : 1
+off him and -> doing : 1
+him and doing -> some : 1
+and doing some -> sums : 1
+doing some sums -> of : 1
+some sums of -> her : 1
+sums of her -> three : 1
+of her three -> which : 1
+her three which -> let : 1
+three which let -> me : 1
+which let me -> which : 1
+let me which -> million : 1
+me which million -> groaned : 1
+which million groaned -> mr : 1
+million groaned mr -> it : 1
+groaned mr it -> would : 1
+mr it would -> take : 1
+it would take -> days : 1
+would take days -> for : 1
+take days for -> all : 1
+days for all -> our : 1
+for all our -> dung : 1
+all our dung -> beetles : 1
+our dung beetles -> to : 1
+dung beetles to -> eat : 1
+beetles to eat -> just : 1
+to eat just -> one : 1
+eat just one -> worth : 1
+just one worth -> of : 1
+one worth of -> there : 1
+worth of there -> was : 1
+of there was -> another : 1
+there was another -> tiny : 1
+was another tiny -> belch : 1
+another tiny belch -> from : 1
+tiny belch from -> the : 1
+belch from the -> tin : 1
+from the tin -> bin : 1
+the tin bin -> as : 1
+tin bin as -> one : 1
+bin as one -> of : 1
+as one of -> the : 1
+one of the -> beetles : 1
+one of the -> mongooses : 1
+of the beetles -> choked : 1
+the beetles choked -> on : 1
+beetles choked on -> a : 1
+choked on a -> stringy : 1
+on a stringy -> bit : 1
+a stringy bit -> of : 1
+stringy bit of -> over : 1
+bit of over -> a : 1
+of over a -> said : 1
+over a said -> mr : 1
+a said mr -> eat : 1
+a said mr -> who : 1
+a said mr -> pickles : 1
+said mr eat -> one : 1
+mr eat one -> day : 1
+eat one day -> of : 1
+one day of -> he : 1
+day of he -> slumped : 1
+of he slumped -> back : 1
+he slumped back -> into : 1
+slumped back into -> his : 1
+back into his -> armchair : 1
+into his armchair -> in : 1
+his armchair in -> just : 1
+armchair in just -> then : 1
+in just then -> miss : 1
+just then miss -> busby : 1
+then miss busby -> called : 1
+miss busby called -> in : 1
+busby called in -> from : 1
+called in from -> the : 1
+in from the -> outer : 1
+from the outer -> have : 1
+the outer have -> sergeant : 1
+outer have sergeant -> saddle : 1
+have sergeant saddle -> on : 1
+saddle on the -> shall : 1
+on the shall -> i : 1
+the shall i -> put : 1
+shall i put -> him : 1
+i put him -> groaned : 1
+put him groaned -> mr : 1
+him groaned mr -> him : 1
+groaned mr him -> miss : 1
+mr him miss -> ingleby : 1
+him miss ingleby -> picked : 1
+miss ingleby picked -> up : 1
+ingleby picked up -> the : 1
+up the metal -> wastepaper : 1
+metal wastepaper with -> burping : 1
+wastepaper with burping -> beetles : 1
+with burping beetles -> and : 1
+burping beetles and -> tiptoed : 1
+beetles and tiptoed -> out : 1
+and tiptoed out -> of : 1
+of the half -> an : 1
+the half an -> hour : 1
+half an hour -> later : 1
+an hour later -> miss : 1
+an hour later -> the : 1
+hour later miss -> ingleby : 1
+later miss ingleby -> returned : 1
+miss ingleby returned -> with : 1
+ingleby returned with -> a : 1
+returned with a -> second : 1
+with a second -> world : 1
+a second world -> war : 1
+second world war -> gas : 2
+world war gas -> mask : 2
+war gas mask -> which : 1
+war gas mask -> he : 1
+gas mask which -> her : 1
+mask which her -> grandfather : 1
+which her grandfather -> had : 1
+her grandfather had -> used : 1
+grandfather had used -> as : 1
+had used as -> a : 1
+used as a -> she : 1
+as a she -> handed : 1
+a she handed -> it : 1
+she handed it -> to : 1
+handed it to -> mr : 1
+it to mr -> pickles : 1
+mr pickles and -> suggested : 1
+mr pickles and -> sergeant : 1
+pickles and suggested -> they : 1
+and suggested they -> did : 1
+suggested they did -> a : 1
+they did a -> tour : 1
+did a tour -> of : 1
+a tour of -> the : 1
+tour of the -> she : 1
+of the she -> thought : 1
+the she thought -> it : 1
+she thought it -> best : 1
+thought it best -> that : 1
+it best that -> they : 1
+best that they -> saw : 1
+that they saw -> how : 1
+they saw how -> had : 1
+saw how had -> go : 1
+how had go -> and : 1
+had go and -> see : 1
+go and see -> if : 1
+go and see -> how : 1
+and see if -> any : 1
+see if any -> of : 1
+if any of -> the : 1
+any of the -> other : 1
+of the other -> keepers : 1
+the other keepers -> are : 1
+the other keepers -> all : 1
+the other keepers -> began : 1
+other keepers are -> doing : 1
+keepers are doing -> any : 1
+are doing any -> she : 1
+doing any she -> mr : 1
+any she mr -> pickles : 1
+she mr pickles -> struggled : 1
+she mr pickles -> coming : 1
+mr pickles struggled -> to : 1
+pickles struggled to -> strap : 1
+struggled to strap -> on : 1
+to strap on -> the : 1
+strap on the -> gas : 1
+on the gas -> it : 1
+the gas it -> was : 1
+gas it was -> made : 1
+it was made -> out : 1
+was made out -> of : 1
+made out of -> heavy : 1
+out of heavy -> green : 1
+of heavy green -> rubber : 1
+heavy green rubber -> with : 1
+green rubber with -> two : 1
+rubber with two -> glass : 1
+with two glass -> portholes : 1
+two glass portholes -> to : 1
+glass portholes to -> look : 1
+portholes to look -> out : 1
+to look out -> of : 1
+look out of -> and : 1
+out of and -> a : 1
+of and a -> long : 1
+and a long -> round : 1
+a long round -> snout : 1
+long round snout -> where : 1
+round snout where -> the : 1
+snout where the -> nose : 1
+where the nose -> should : 1
+the nose should -> said : 1
+nose should said -> mr : 1
+should said mr -> pickles : 1
+mr pickles after -> he : 1
+pickles after he -> had : 1
+after he had -> finally : 1
+he had finally -> stretched : 1
+had finally stretched -> it : 1
+finally stretched it -> over : 1
+stretched it over -> his : 1
+it over his -> the : 1
+over his the -> gas : 1
+his the gas -> mask : 1
+the gas mask -> made : 1
+gas mask made -> him : 1
+mask made him -> sound : 1
+made him sound -> as : 1
+him sound as -> if : 1
+sound as if -> he : 1
+as if he -> had : 1
+if he had -> a : 1
+he had a -> heavy : 1
+had a heavy -> cold : 1
+a heavy cold -> and : 1
+heavy cold and -> made : 1
+cold and made -> him : 1
+and made him -> look : 1
+made him look -> like : 1
+him look like -> an : 1
+look like an -> we : 1
+like an we -> go : 1
+an we go -> and : 1
+we go and -> see : 1
+and see how -> the : 1
+see how the -> keepers : 1
+how the keepers -> are : 1
+the keepers are -> getting : 1
+keepers are getting -> said : 1
+are getting said -> miss : 1
+getting said miss -> snuffled : 1
+said miss snuffled -> mr : 1
+miss snuffled mr -> who : 1
+snuffled mr who -> was : 1
+who was beginning -> to : 1
+was beginning to -> feel : 1
+beginning to feel -> like : 1
+to feel like -> a : 1
+feel like a -> think : 1
+like a think -> it : 1
+a think it -> might : 1
+think it might -> be : 1
+a good idea -> to : 1
+good idea to -> do : 1
+idea to do -> the : 1
+to do the -> smelliest : 1
+do the smelliest -> mumbled : 1
+the smelliest mumbled -> mr : 1
+smelliest mumbled mr -> as : 1
+mumbled mr as -> sweat : 1
+mr as sweat -> began : 1
+as sweat began -> to : 1
+sweat began to -> trickle : 1
+began to trickle -> down : 1
+to trickle down -> the : 1
+trickle down the -> inside : 1
+down the inside -> of : 1
+the inside of -> his : 1
+inside of his -> miss : 1
+of his miss -> who : 1
+his miss who -> was : 1
+miss who was -> an : 1
+who was an -> expert : 1
+was an expert -> in : 1
+an expert in -> all : 1
+expert in all -> types : 1
+in all types -> of : 1
+all types of -> consulted : 1
+types of consulted -> a : 1
+of consulted a -> list : 1
+consulted a list -> she : 1
+a list she -> had : 1
+list she had -> drawn : 1
+she had drawn -> up : 1
+had drawn up -> and : 1
+drawn up and -> led : 1
+up and led -> mr : 1
+and led mr -> pickles : 1
+led mr pickles -> to : 1
+pickles to the -> they : 1
+to the they -> were : 1
+the they were -> twenty : 1
+they were twenty -> metres : 1
+were twenty metres -> away : 1
+twenty metres away -> from : 1
+metres away from -> the : 1
+away from the -> porcupine : 1
+away from the -> one : 1
+from the porcupine -> house : 1
+the porcupine house -> when : 1
+porcupine house when -> the : 1
+house when the -> smell : 1
+when the smell -> hit : 1
+the smell hit -> or : 1
+smell hit or -> hit : 1
+hit or hit -> miss : 1
+or hit miss -> mr : 1
+hit miss mr -> pickles : 1
+miss mr pickles -> was : 1
+pickles was struggling -> for : 1
+was struggling for -> breath : 1
+struggling for breath -> a : 1
+for breath a -> but : 1
+breath a but -> even : 1
+a but even -> through : 1
+but even through -> his : 1
+even through his -> second : 1
+through his second -> world : 1
+his second world -> war : 1
+gas mask he -> picked : 1
+mask he picked -> up : 1
+picked up on -> the : 1
+up on the -> unbelievable : 1
+on the unbelievable -> stench : 1
+the unbelievable stench -> wafting : 1
+unbelievable stench wafting -> across : 1
+stench wafting across -> the : 1
+wafting across the -> grass : 1
+across the grass -> from : 1
+the grass from -> the : 1
+grass from the -> building : 1
+from the building -> they : 1
+the building they -> were : 1
+building they were -> combination : 1
+they were combination -> of : 1
+were combination of -> poo : 1
+combination of poo -> and : 1
+of poo and -> said : 1
+poo and said -> miss : 1
+miss ingleby pinching -> her : 1
+ingleby pinching her -> nose : 1
+pinching her nose -> with : 1
+her nose with -> her : 1
+nose with her -> left : 1
+with her left -> gurgled : 1
+her left gurgled -> mr : 1
+left gurgled mr -> males : 1
+gurgled mr males -> pee : 1
+mr males pee -> the : 1
+males pee the -> they : 1
+pee the they -> both : 1
+the they both -> squirt : 1
+they both squirt -> scent : 1
+both squirt scent -> from : 1
+squirt scent from -> their : 1
+scent from their -> glands : 1
+from their glands -> near : 1
+their glands near -> their : 1
+glands near their -> bottoms : 1
+near their bottoms -> to : 1
+their bottoms to -> be : 1
+bottoms to be -> said : 1
+to be said -> mr : 1
+be said mr -> who : 1
+mr who had -> learned : 1
+who had learned -> quite : 1
+had learned quite -> enough : 1
+learned quite enough -> about : 1
+quite enough about -> porcupines : 1
+enough about porcupines -> for : 1
+about porcupines for -> one : 1
+porcupines for one -> how : 1
+for one how -> about : 1
+one how about -> the : 1
+how about the -> asked : 1
+the asked miss -> leading : 1
+asked miss leading -> her : 1
+miss leading her -> boss : 1
+leading her boss -> to : 1
+her boss to -> the : 1
+boss to the -> next : 1
+to the next -> as : 1
+the next as -> they : 1
+next as they -> got : 1
+as they got -> close : 1
+they got close -> they : 1
+got close they -> walked : 1
+close they walked -> into : 1
+they walked into -> a : 1
+walked into a -> wall : 1
+into a wall -> of : 1
+a wall of -> pong : 1
+wall of pong -> like : 1
+of pong like -> a : 1
+pong like a -> cross : 1
+like a cross -> between : 1
+a cross between -> a : 1
+cross between a -> nappy : 1
+between a nappy -> and : 1
+a nappy and -> a : 1
+nappy and a -> rotting : 1
+and a rotting -> groaned : 1
+a rotting groaned -> miss : 1
+rotting groaned miss -> who : 1
+groaned miss who -> until : 1
+miss who until -> now : 1
+who until now -> had : 1
+until now had -> been : 1
+now had been -> a : 1
+had been a -> model : 1
+been a model -> of : 1
+a model of -> think : 1
+model of think -> they : 1
+of think they -> must : 1
+think they must -> be : 1
+they must be -> spraying : 1
+must be spraying -> scent : 1
+be spraying scent -> around : 1
+spraying scent around -> to : 1
+scent around to -> disguise : 1
+around to disguise -> the : 1
+to disguise the -> smell : 1
+disguise the smell -> of : 1
+the smell of -> all : 1
+smell of all -> interrupted : 1
+of all interrupted -> mr : 1
+all interrupted mr -> agreed : 1
+interrupted mr agreed -> miss : 1
+mr agreed miss -> we : 1
+agreed miss we -> move : 1
+miss we move -> asked : 1
+we move asked -> mr : 1
+move asked mr -> said : 1
+asked mr said -> miss : 1
+mr said miss -> ingleby : 1
+miss ingleby relieved -> not : 1
+ingleby relieved not -> to : 1
+relieved not to -> have : 1
+to have to -> get : 1
+have to get -> any : 1
+to get any -> nearer : 1
+get any nearer -> the : 1
+any nearer the -> about : 1
+nearer the about -> the : 1
+the about the -> turkey : 1
+about the turkey -> we : 1
+the turkey we -> sighed : 1
+turkey we sighed -> mr : 1
+we sighed mr -> who : 1
+sighed mr who -> now : 1
+mr who now -> felt : 1
+who now felt -> as : 1
+now felt as -> if : 1
+felt as if -> his : 1
+as if his -> head : 1
+if his head -> was : 1
+his head was -> about : 1
+head was about -> to : 1
+was about to -> burst : 1
+about to burst -> inside : 1
+to burst inside -> the : 1
+burst inside the -> confounded : 1
+inside the confounded -> gas : 1
+the confounded gas -> afraid : 1
+confounded gas afraid -> these : 1
+gas afraid these -> might : 1
+afraid these might -> be : 1
+these might be -> very : 1
+might be very -> whiffy : 1
+be very whiffy -> warned : 1
+very whiffy warned -> miss : 1
+whiffy warned miss -> vultures : 1
+warned miss vultures -> pee : 1
+miss vultures pee -> and : 1
+vultures pee and -> poo : 1
+pee and poo -> on : 1
+and poo on -> do : 1
+and poo on -> repeated : 1
+poo on do -> shrieked : 1
+on do shrieked -> mr : 1
+do shrieked mr -> and : 1
+shrieked mr and -> poo : 1
+mr and poo -> on : 1
+poo on repeated -> miss : 1
+on repeated miss -> they : 1
+repeated miss they -> also : 1
+miss they also -> vomit : 1
+they also vomit -> all : 1
+also vomit all -> over : 1
+vomit all over -> other : 1
+all over other -> animals : 1
+over other animals -> if : 1
+other animals if -> they : 1
+animals if they -> feel : 1
+if they feel -> said : 1
+they feel said -> mr : 1
+feel said mr -> the : 1
+mr the vomit -> smells : 1
+the vomit smells -> particularly : 1
+vomit smells particularly -> said : 1
+smells particularly said -> miss : 1
+particularly said miss -> ingleby : 1
+miss ingleby why -> we : 1
+ingleby why we -> give : 1
+why we give -> the : 1
+we give the -> vultures : 1
+give the vultures -> a : 1
+the vultures a -> said : 1
+vultures a said -> mr : 1
+who was now -> feeling : 1
+was now feeling -> not : 1
+now feeling not -> to : 1
+feeling not to -> mention : 1
+not to mention -> steaming : 1
+to mention steaming -> hot : 1
+mention steaming hot -> and : 1
+steaming hot and -> extremely : 1
+hot and extremely -> and : 1
+and extremely and -> so : 1
+extremely and so -> it : 1
+and so it -> went : 1
+and so it -> twenty : 1
+so it went -> miss : 1
+it went miss -> ingleby : 1
+went miss ingleby -> started : 1
+miss ingleby started -> scribbling : 1
+ingleby started scribbling -> a : 1
+started scribbling a -> list : 1
+scribbling a list -> of : 1
+a list of -> all : 1
+list of all -> the : 1
+all the animals -> they : 1
+the animals they -> wrote : 1
+animals they wrote -> miss : 1
+they wrote miss -> stinky : 1
+wrote miss stinky -> paste : 1
+miss stinky paste -> all : 1
+stinky paste all -> around : 1
+paste all around -> their : 1
+all around their -> she : 1
+around their she -> mr : 1
+their she mr -> pickles : 1
+mr pickles coming -> and : 1
+pickles coming and -> squirted : 1
+coming and squirted -> him : 1
+and squirted him -> with : 1
+squirted him with -> thick : 1
+him with thick -> oil : 1
+with thick oil -> she : 1
+thick oil she -> wrote : 1
+oil she wrote -> been : 1
+she wrote been -> rolling : 1
+wrote been rolling -> in : 1
+been rolling in -> their : 1
+rolling in their -> own : 1
+in their own -> poo : 1
+their own poo -> all : 1
+own poo all -> all : 1
+poo all all -> the : 1
+all all the -> all : 1
+all the all -> the : 1
+the all the -> really : 1
+all the really -> but : 1
+the really but -> before : 1
+really but before -> they : 1
+but before they -> could : 1
+before they could -> manage : 1
+they could manage -> any : 1
+could manage any -> more : 1
+manage any more -> mr : 1
+more mr pickles -> threw : 1
+mr pickles threw -> up : 1
+pickles threw up -> at : 1
+threw up at -> miss : 1
+up at miss -> one : 1
+at miss one -> of : 1
+miss one of -> the : 1
+of the mongooses -> looked : 1
+the mongooses looked -> up : 1
+mongooses looked up -> at : 1
+looked up at -> the : 1
+up at the -> two : 1
+at the two -> zoo : 1
+the two zoo -> keepers : 1
+two zoo keepers -> in : 1
+zoo keepers in -> humans : 1
+keepers in humans -> were : 1
+in humans were -> just : 1
+humans were just -> beyond : 1
+were just beyond -> it : 1
+just beyond it -> was : 1
+beyond it was -> now : 1
+it was now -> saturday : 1
+was now saturday -> afternoon : 1
+now saturday afternoon -> and : 1
+saturday afternoon and -> as : 1
+afternoon and as -> mr : 1
+and as mr -> pickles : 1
+mr pickles lay -> in : 1
+pickles lay in -> the : 1
+lay in the -> bath : 1
+in the bath -> at : 1
+the bath at -> the : 1
+bath at the -> zoo : 1
+the zoo with -> his : 1
+zoo with his -> yellow : 1
+with his yellow -> rubber : 1
+his yellow rubber -> trying : 1
+yellow rubber trying -> to : 1
+rubber trying to -> recover : 1
+trying to recover -> from : 1
+to recover from -> the : 1
+recover from the -> he : 1
+from the he -> realized : 1
+the he realized -> the : 1
+he realized the -> crisis : 1
+realized the crisis -> had : 1
+the crisis had -> now : 1
+crisis had now -> been : 1
+had now been -> going : 1
+now been going -> on : 1
+been going on -> for : 1
+going on for -> which : 1
+on for which -> miss : 1
+for which miss -> figures : 1
+which miss figures -> were : 1
+miss figures were -> there : 1
+figures were there -> was : 1
+were there was -> now : 1
+there was now -> approximately : 1
+was now approximately -> three : 1
+now approximately three -> tonnes : 1
+approximately three tonnes -> of : 1
+three tonnes of -> whatsit : 1
+three tonnes of -> thingummy : 1
+tonnes of whatsit -> lying : 1
+of whatsit lying -> around : 1
+whatsit lying around -> in : 1
+lying around in -> his : 1
+around in his -> three : 1
+in his three -> he : 1
+his three he -> leaped : 1
+three he leaped -> out : 1
+he leaped out -> of : 1
+leaped out of -> the : 1
+of the bath -> as : 1
+the bath as -> soon : 1
+bath as soon -> as : 1
+soon as dragged -> some : 1
+as dragged some -> new : 1
+dragged some new -> clothes : 1
+some new clothes -> fetched : 1
+new clothes fetched -> from : 1
+clothes fetched from -> his : 1
+fetched from his -> home : 1
+from his home -> by : 1
+his home by -> miss : 1
+home by miss -> called : 1
+by miss called -> a : 1
+miss called a -> meeting : 1
+all the while -> they : 1
+the while they -> he : 1
+while they he -> nipped : 1
+they he nipped -> out : 1
+he nipped out -> of : 1
+nipped out of -> the : 1
+of the front -> door : 1
+the front door -> of : 1
+front door of -> the : 1
+of the zoo -> and : 1
+the zoo and -> walked : 1
+zoo and walked -> round : 1
+and walked round -> to : 1
+walked round to -> copplethorpe : 1
+round to copplethorpe -> road : 1
+to copplethorpe road -> to : 1
+copplethorpe road to -> see : 1
+road to see -> how : 1
+to see how -> sergeant : 1
+see how sergeant -> saddle : 1
+how sergeant saddle -> was : 1
+sergeant saddle was -> getting : 1
+saddle was getting -> on : 1
+was getting on -> with : 1
+getting on with -> the : 1
+on with the -> stuck : 1
+with the stuck -> he : 1
+the stuck he -> was : 1
+stuck he was -> greeted : 1
+he was greeted -> by : 1
+was greeted by -> an : 1
+greeted by an -> extremely : 1
+by an extremely -> hot : 1
+an extremely hot -> and : 1
+extremely hot and -> bothered : 1
+and bothered sergeant -> waving : 1
+bothered sergeant waving -> his : 1
+sergeant waving his -> arms : 1
+waving his arms -> at : 2
+his arms at -> a : 1
+his arms at -> the : 1
+arms at a -> giant : 1
+at a giant -> bulldozer : 1
+a giant bulldozer -> which : 1
+giant bulldozer which -> was : 1
+bulldozer which was -> pulling : 1
+which was pulling -> at : 1
+was pulling at -> a : 1
+pulling at a -> long : 1
+at a long -> rope : 1
+a long rope -> it : 1
+long rope it -> much : 1
+rope it much -> are : 1
+it much are -> you : 1
+much are you -> getting : 1
+are you getting -> asked : 1
+you getting asked -> mr : 1
+getting asked mr -> got : 1
+asked mr got -> three : 1
+mr got three -> tonnes : 1
+got three tonnes -> of : 1
+tonnes of thingummy -> still : 1
+of thingummy still -> piling : 1
+thingummy still piling -> up : 1
+still piling up -> jolly : 1
+piling up jolly -> asked : 1
+up jolly asked -> a : 1
+jolly asked a -> mystified : 1
+asked a mystified -> sergeant : 1
+a mystified sergeant -> said : 1
+mystified sergeant said -> mr : 1
+sergeant said mr -> sergeant : 1
+sergeant said mr -> pickles : 1
+said mr sergeant -> saddle : 1
+mr sergeant saddle -> looked : 1
+sergeant saddle looked -> said : 1
+saddle looked said -> mr : 1
+looked said mr -> said : 1
+said mr said -> sergeant : 1
+said mr said -> an : 1
+mr said sergeant -> saddle : 1
+sergeant saddle your -> my : 1
+saddle your my -> problem : 1
+your my problem -> is : 1
+my problem is -> number : 1
+problem is number -> in : 1
+is number in -> other : 1
+number in other -> getting : 1
+in other getting -> this : 1
+other getting this -> bus : 1
+getting this bus -> out : 1
+this bus out -> of : 1
+bus out of -> this : 1
+bus out of -> the : 2
+out of this -> with : 1
+of this with -> he : 1
+this with he -> went : 1
+with he went -> back : 1
+he went back -> to : 1
+back to waving -> his : 1
+to waving his -> arms : 1
+arms at the -> bulldozer : 1
+at the bulldozer -> and : 1
+the bulldozer and -> mr : 1
+bulldozer and mr -> pickles : 1
+and mr pickles -> slunk : 1
+and mr pickles -> and : 1
+mr pickles slunk -> back : 1
+pickles slunk back -> to : 1
+slunk back to -> his : 1
+back to his -> where : 1
+to his where -> all : 1
+his where all -> the : 1
+where all the -> keepers : 1
+all the keepers -> were : 1
+the keepers were -> he : 1
+the keepers were -> busy : 1
+keepers were he -> began : 1
+were he began -> been : 1
+he began been -> talking : 1
+began been talking -> to : 1
+been talking to -> sergeant : 1
+talking to sergeant -> and : 1
+to sergeant and -> doing : 1
+sergeant and doing -> his : 1
+and doing his -> best : 1
+doing his best -> to : 1
+his best to -> pull : 1
+best to pull -> the : 1
+to pull the -> bus : 1
+pull the bus -> out : 2
+the bus out -> of : 2
+of the but -> that : 1
+the but that -> might : 1
+but that might -> take : 1
+that might take -> a : 1
+might take a -> little : 1
+take a little -> so : 1
+a little so -> we : 1
+little so we -> just : 1
+so we just -> need : 1
+we just need -> to : 1
+just need to -> sort : 1
+need to sort -> out : 1
+to sort out -> our : 1
+sort out our -> emergency : 1
+out our emergency -> any : 1
+our emergency any -> mr : 1
+emergency any mr -> the : 1
+any mr the -> lion : 1
+the lion spoke -> up : 1
+lion spoke up -> we : 1
+spoke up we -> drain : 1
+up we drain -> the : 1
+we drain the -> penguin : 1
+drain the penguin -> pool : 1
+the penguin pool -> and : 1
+penguin pool and -> put : 1
+pool and put -> all : 1
+and put all -> the : 1
+put all the -> poo : 1
+all the poo -> mr : 1
+the poo mr -> the : 1
+poo mr the -> penguin : 1
+the penguin was -> pick : 1
+penguin was pick -> on : 1
+was pick on -> the : 1
+pick on the -> he : 1
+on the he -> wrong : 1
+the he wrong -> with : 1
+he wrong with -> the : 1
+wrong with the -> lion : 1
+with the lion -> we : 1
+the lion we -> just : 1
+lion we just -> call : 1
+we just call -> the : 1
+just call the -> bin : 1
+call the bin -> men : 1
+the bin men -> and : 1
+bin men and -> ask : 1
+men and ask -> them : 1
+and ask them -> to : 1
+ask them to -> take : 1
+them to take -> it : 1
+to take it -> asked : 1
+take it asked -> miss : 1
+it asked miss -> and : 1
+asked miss and -> said : 1
+miss and said -> mr : 1
+and said mr -> pickles : 1
+mr pickles gravely -> none : 1
+pickles gravely none -> of : 1
+gravely none of -> the : 1
+none of the -> keepers : 1
+of the keepers -> knew : 1
+the keepers knew -> what : 1
+keepers knew what -> that : 1
+knew what that -> but : 1
+what that but -> it : 1
+that but it -> sounded : 1
+but it sounded -> we : 1
+it sounded we -> bag : 1
+sounded we bag -> it : 1
+we bag it -> up : 1
+bag it up -> and : 1
+it up and -> sell : 1
+up and sell -> it : 1
+and sell it -> at : 1
+sell it at -> the : 1
+at the front -> said : 1
+the front said -> mrs : 1
+front said mrs -> crumble : 1
+said mrs crumble -> manure : 1
+mrs crumble manure -> at : 1
+crumble manure at -> mr : 1
+manure at mr -> crumble : 1
+at mr crumble -> put : 1
+mr crumble put -> it : 1
+crumble put it -> on : 1
+put it on -> his : 1
+it on his -> she : 1
+on his she -> finished : 1
+his she finished -> trying : 1
+she finished trying -> to : 1
+finished trying to -> eat : 1
+trying to eat -> the : 1
+to eat the -> other : 1
+eat the other -> keepers : 1
+other keepers all -> looked : 1
+keepers all looked -> rather : 1
+all looked rather -> disturbed : 1
+looked rather disturbed -> at : 1
+rather disturbed at -> this : 1
+disturbed at this -> mind : 1
+at this mind -> the : 1
+this mind the -> thought : 1
+mind the thought -> mrs : 1
+the thought mrs -> crumble : 1
+thought mrs crumble -> was : 1
+was a little -> strange : 1
+a little strange -> at : 1
+little strange at -> are : 1
+strange at are -> a : 1
+at are a -> not : 1
+are a not -> a : 1
+a not a -> garden : 1
+not a garden -> said : 1
+a garden said -> mr : 1
+garden said mr -> pickles : 1
+mr pickles i -> think : 1
+pickles i think -> our : 1
+i think our -> neighbours : 1
+think our neighbours -> would : 1
+our neighbours would -> thank : 1
+neighbours would thank -> us : 1
+would thank us -> for : 1
+thank us for -> lining : 1
+us for lining -> up : 1
+for lining up -> hundreds : 1
+lining up hundreds -> of : 1
+up hundreds of -> bags : 1
+hundreds of bags -> of : 1
+of bags of -> all : 1
+bags of all -> the : 1
+the way up -> and : 1
+way up and -> down : 1
+up and down -> the : 1
+and down the -> the : 1
+down the the -> keepers : 1
+the the keepers -> all : 1
+the the keepers -> were : 1
+the keepers all -> fell : 1
+keepers all fell -> i : 1
+all fell i -> make : 1
+fell i make -> a : 1
+i make a -> asked : 1
+make a asked -> mr : 1
+a asked mr -> the : 1
+the elephant real -> problem : 1
+elephant real problem -> is : 1
+real problem is -> outside : 1
+problem is outside -> the : 1
+is outside the -> not : 1
+outside the not -> said : 1
+the not said -> mr : 1
+mr pickles just -> said : 1
+pickles just said -> mr : 1
+just said mr -> i : 1
+said mr i -> just : 1
+mr i just -> why : 1
+i just why -> we : 1
+just why we -> help : 1
+why we help -> pull : 1
+we help pull -> the : 1
+help pull the -> bus : 1
+of the suppose -> you : 1
+the suppose you -> had : 1
+suppose you had -> three : 1
+you had three -> weetabix : 1
+had three weetabix -> for : 1
+three weetabix for -> said : 1
+weetabix for said -> mr : 1
+for said mr -> said : 1
+mr said an -> exasperated : 1
+said an exasperated -> mr : 1
+an exasperated mr -> there : 1
+exasperated mr there -> was : 1
+mr there was -> a : 1
+there was a -> moment : 1
+was a moment -> of : 1
+a moment of -> stunned : 1
+moment of stunned -> and : 1
+of stunned and -> then : 1
+stunned and then -> all : 1
+and then all -> the : 1
+then all the -> other : 1
+all the other -> keepers : 1
+other keepers began -> said : 1
+keepers began said -> mr : 1
+began said mr -> looking : 1
+said mr looking -> very : 1
+mr looking very -> about : 1
+looking very about -> the : 1
+very about the -> said : 1
+said mr more -> the : 1
+mr more the -> said : 1
+more the said -> mr : 1
+said mr about -> the : 1
+mr about the -> asked : 1
+asked mr that -> said : 1
+mr that said -> mr : 1
+that said mr -> pickles : 1
+mr pickles very -> an : 1
+pickles very an -> hour : 1
+very an hour -> mr : 1
+an hour mr -> pickles : 1
+hour mr pickles -> led : 1
+mr pickles led -> a : 1
+pickles led a -> slow : 1
+led a slow -> procession : 1
+a slow procession -> of : 1
+slow procession of -> zoo : 1
+procession of zoo -> keepers : 1
+of zoo keepers -> and : 1
+zoo keepers and -> very : 1
+keepers and very -> large : 1
+and very large -> animals : 1
+very large animals -> out : 1
+large animals out -> through : 1
+animals out through -> melton : 1
+out through melton -> meadow : 1
+through melton meadow -> main : 1
+melton meadow main -> gates : 1
+meadow main gates -> as : 1
+main gates as -> the : 1
+gates as the -> traffic : 1
+as the traffic -> came : 1
+the traffic came -> to : 1
+traffic came to -> a : 1
+came to a -> a : 1
+to a a -> crowd : 1
+a a crowd -> of : 1
+a crowd of -> neighbours : 1
+crowd of neighbours -> had : 1
+of neighbours had -> just : 1
+neighbours had just -> begun : 1
+had just begun -> gathering : 1
+just begun gathering -> in : 1
+begun gathering in -> the : 1
+gathering in the -> with : 1
+the with large -> one : 1
+with large one -> no : 1
+large one no -> more : 1
+one no more -> stop : 1
+no more stop -> tue : 1
+more stop tue -> and : 1
+stop tue and -> another : 1
+tue and another -> in : 1
+and another in -> copplethorpe : 1
+another in copplethorpe -> road : 1
+in copplethorpe road -> sergeant : 1
+in copplethorpe road -> as : 1
+copplethorpe road sergeant -> saddle : 1
+road sergeant saddle -> had : 1
+saddle had taken -> a : 1
+had taken a -> brief : 1
+taken a brief -> break : 1
+a brief break -> from : 1
+brief break from -> waving : 1
+break from waving -> at : 1
+from waving at -> the : 1
+waving at the -> struggling : 1
+at the struggling -> he : 1
+the struggling he -> sat : 1
+struggling he sat -> down : 1
+he sat down -> in : 1
+sat down in -> the : 1
+down in the -> hot : 1
+in the hot -> laid : 1
+the hot laid -> his : 1
+hot laid his -> head : 1
+laid his head -> against : 1
+his head against -> a : 1
+head against a -> tree : 1
+against a tree -> and : 1
+a tree and -> began : 1
+tree and began -> to : 1
+and began to -> he : 1
+began to he -> imagined : 1
+to he imagined -> himself : 1
+he imagined himself -> lying : 1
+imagined himself lying -> on : 1
+himself lying on -> a : 1
+lying on a -> lilo : 1
+on a lilo -> in : 1
+a lilo in -> a : 1
+lilo in a -> swimming : 1
+in a swimming -> pool : 1
+a swimming pool -> in : 1
+swimming pool in -> the : 1
+pool in the -> the : 1
+in the the -> cool : 1
+in the the -> keepers : 1
+the the cool -> water : 1
+the cool water -> was : 1
+cool water was -> lapping : 1
+water was lapping -> his : 1
+was lapping his -> he : 1
+lapping his he -> was : 1
+his he was -> sipping : 1
+he was sipping -> from : 1
+was sipping from -> a : 1
+sipping from a -> refreshing : 1
+from a refreshing -> fruit : 1
+a refreshing fruit -> him : 1
+refreshing fruit him -> came : 1
+fruit him came -> giant : 1
+him came giant -> enormous : 1
+came giant enormous -> rhinos : 1
+giant enormous rhinos -> and : 1
+enormous rhinos and -> mr : 1
+rhinos and mr -> mr : 1
+and mr mr -> there : 1
+mr mr there -> he : 1
+mr there he -> the : 1
+there he the -> not : 1
+he the not -> in : 1
+the not in -> a : 1
+not in a -> right : 1
+in a right -> over : 1
+a right over -> as : 1
+right over as -> he : 1
+over as he -> struggled : 1
+as he struggled -> to : 1
+he struggled to -> put : 1
+struggled to put -> his : 1
+to put his -> helmet : 1
+put his helmet -> back : 1
+his helmet back -> sergeant : 1
+helmet back sergeant -> said : 1
+back sergeant said -> mr : 1
+mr pickles you -> can : 1
+pickles you can -> find : 1
+you can find -> time : 1
+can find time -> for : 1
+find time for -> a : 1
+time for a -> snooze : 1
+for a snooze -> at : 1
+a snooze at -> a : 1
+snooze at a -> time : 1
+at a time -> like : 1
+a time like -> sergeant : 1
+time like sergeant -> was : 1
+like sergeant was -> always : 1
+sergeant was always -> quite : 1
+was always quite -> beetroot : 1
+always quite beetroot -> with : 1
+quite beetroot with -> been : 1
+beetroot with been -> a : 1
+with been a -> long : 1
+been a long -> he : 1
+a long he -> and : 1
+long he and -> as : 1
+he and as -> his : 1
+and as his -> eyes : 1
+as his eyes -> began : 1
+his eyes began -> to : 1
+eyes began to -> refocus : 1
+began to refocus -> on : 1
+to refocus on -> the : 1
+refocus on the -> scene : 1
+on the scene -> around : 1
+the scene around -> he : 1
+scene around he -> saw : 1
+around he saw -> to : 1
+he saw to -> his : 1
+saw to his -> astonishment : 1
+to his astonishment -> that : 1
+his astonishment that -> he : 1
+astonishment that he -> was : 1
+that he was -> surrounded : 1
+he was surrounded -> by : 1
+was surrounded by -> elephants : 1
+surrounded by elephants -> and : 1
+by elephants and -> all : 1
+elephants and all -> on : 1
+and all on -> long : 1
+all on long -> ropes : 1
+on long ropes -> held : 1
+long ropes held -> by : 1
+ropes held by -> chuckling : 1
+held by chuckling -> are : 1
+by chuckling are -> doing : 1
+chuckling are doing -> he : 1
+are doing he -> just : 1
+doing he just -> thought : 1
+he just thought -> we : 1
+just thought we -> might : 1
+thought we might -> give : 1
+we might give -> you : 1
+might give you -> a : 1
+give you a -> said : 1
+you a said -> mr : 1
+mr pickles if -> they : 1
+pickles if they -> said : 1
+if they said -> mr : 1
+they said mr -> where : 1
+said mr where -> shall : 1
+mr where shall -> we : 1
+where shall we -> tie : 1
+shall we tie -> the : 1
+we tie the -> by : 1
+tie the by -> now : 1
+the by now -> a : 1
+by now a -> huge : 1
+now a huge -> crowd : 1
+a huge crowd -> had : 1
+huge crowd had -> gathered : 1
+crowd had gathered -> in : 1
+had gathered in -> copplethorpe : 1
+gathered in copplethorpe -> road : 1
+copplethorpe road as -> the : 1
+road as the -> keepers : 1
+as the keepers -> tied : 1
+the keepers tied -> their : 1
+keepers tied their -> ropes : 1
+tied their ropes -> to : 1
+their ropes to -> the : 1
+ropes to the -> disappearing : 1
+to the disappearing -> bus : 1
+the disappearing bus -> and : 1
+disappearing bus and -> seargent : 1
+bus and seargent -> saddle : 1
+and seargent saddle -> directed : 1
+seargent saddle directed -> everyone : 1
+saddle directed everyone -> into : 1
+directed everyone into -> when : 1
+everyone into when -> everyone : 1
+into when everyone -> was : 1
+when everyone was -> ready : 1
+everyone was ready -> he : 1
+was ready he -> held : 1
+ready he held -> his : 1
+he held his -> big : 1
+held his big -> white : 1
+his big white -> hanky : 1
+big white hanky -> in : 1
+white hanky in -> the : 1
+hanky in the -> air : 1
+in the air -> and : 1
+the air and -> shouted : 1
+air and shouted -> the : 1
+and shouted the -> bulldozer : 1
+shouted the bulldozer -> roared : 1
+the bulldozer roared -> into : 1
+bulldozer roared into -> sending : 1
+roared into sending -> giant : 1
+into sending giant -> balloons : 1
+sending giant balloons -> of : 1
+giant balloons of -> smoke : 1
+balloons of smoke -> into : 1
+of smoke into -> the : 1
+smoke into the -> the : 1
+into the the -> bus : 1
+the the bus -> trembled : 1
+the bus trembled -> a : 1
+bus trembled a -> but : 1
+trembled a but -> shouted : 1
+a but shouted -> mr : 1
+but shouted mr -> pickles : 1
+shouted mr pickles -> at : 1
+mr pickles at -> the : 1
+pickles at the -> top : 1
+at the top -> of : 1
+top of his -> at : 1
+of his at -> this : 1
+his at this -> signal : 1
+at this signal -> four : 1
+this signal four -> elephants : 1
+signal four elephants -> and : 1
+four elephants and -> four : 1
+elephants and four -> rhinos : 1
+and four rhinos -> began : 1
+four rhinos began -> to : 1
+rhinos began to -> trudge : 1
+began to trudge -> slowly : 1
+to trudge slowly -> away : 1
+trudge slowly away -> from : 1
+slowly away from -> the : 1
+from the one -> deliberate : 1
+the one deliberate -> lumbering : 1
+one deliberate lumbering -> step : 1
+deliberate lumbering step -> at : 1
+lumbering step at -> a : 1
+step at a -> the : 1
+at a the -> ropes : 1
+a the ropes -> tightened : 1
+the ropes tightened -> and : 1
+ropes tightened and -> the : 1
+tightened and the -> bus : 1
+and the bus -> and : 1
+the bus and -> and : 1
+bus and and -> grated : 1
+and and grated -> and : 1
+and grated and -> and : 1
+grated and and -> inch : 1
+and and inch -> by : 1
+and inch by -> it : 1
+inch by it -> began : 1
+by it began -> to : 1
+it began to -> emerge : 1
+began to emerge -> from : 1
+to emerge from -> the : 1
+emerge from the -> chasm : 1
+from the chasm -> in : 1
+the chasm in -> copplethorpe : 1
+chasm in copplethorpe -> cried : 1
+in copplethorpe cried -> the : 1
+copplethorpe cried the -> shouted : 1
+cried the shouted -> mr : 1
+the shouted mr -> who : 1
+shouted mr who -> by : 1
+mr who by -> now : 1
+who by now -> as : 1
+by now as -> quite : 1
+now as quite -> shouted : 1
+as quite shouted -> sergeant : 1
+quite shouted sergeant -> who : 1
+shouted sergeant who -> was : 1
+sergeant who was -> feeling : 1
+who was feeling -> a : 1
+was feeling a -> bit : 1
+feeling a bit -> left : 1
+a bit left -> and : 1
+bit left and -> so : 1
+left and so -> it : 1
+so it twenty -> minutes : 1
+it twenty minutes -> of : 1
+twenty minutes of -> sweating : 1
+minutes of sweating -> and : 1
+of sweating and -> groaning : 1
+sweating and groaning -> that : 1
+and groaning that -> was : 1
+groaning that was -> just : 1
+that was just -> mr : 1
+was just mr -> the : 1
+just mr the -> number : 1
+mr the number -> seventeen : 1
+seventeen bus was -> once : 1
+bus was once -> again : 1
+was once again -> where : 1
+once again where -> it : 1
+again where it -> should : 1
+where it should -> have : 1
+it should have -> in : 1
+should have in -> the : 1
+have in the -> middle : 1
+middle of copplethorpe -> rather : 1
+of copplethorpe rather -> than : 1
+copplethorpe rather than -> in : 1
+rather than in -> a : 1
+than in a -> mr : 1
+in a mr -> pickles : 1
+mr pickles beamed -> at : 1
+pickles beamed at -> the : 1
+beamed at the -> who : 1
+at the who -> had : 1
+who had broken -> into : 1
+had broken into -> he : 1
+broken into he -> was : 1
+into he was -> gratified : 1
+he was gratified -> to : 1
+was gratified to -> notice : 1
+gratified to notice -> a : 1
+to notice a -> banner : 1
+notice a banner -> held : 1
+a banner held -> had : 1
+banner held had -> been : 1
+held had been -> crossed : 1
+had been crossed -> out : 1
+been crossed out -> and : 1
+crossed out and -> replaced : 1
+out and replaced -> pickles : 1
+and replaced pickles -> for : 1
+replaced pickles for -> an : 1
+pickles for an -> hour : 1
+for an hour -> later : 1
+hour later the -> crowd : 1
+later the crowd -> had : 1
+the crowd had -> gone : 1
+crowd had gone -> the : 1
+had gone the -> animals : 1
+gone the animals -> were : 1
+the animals were -> back : 1
+animals were back -> in : 1
+were back in -> the : 1
+keepers were busy -> with : 1
+were busy with -> their : 1
+busy with their -> hose : 1
+with their hose -> pipes : 1
+their hose pipes -> and : 1
+hose pipes and -> mr : 1
+pipes and mr -> pickles : 1
+pickles and sergeant -> saddle : 1
+and sergeant saddle -> were : 1
+sergeant saddle were -> enjoying : 1
+saddle were enjoying -> a : 1
+were enjoying a -> cup : 1
+enjoying a cup -> of : 1
+a cup of -> tea : 1
+cup of tea -> just : 1
+of tea just -> an : 1
+tea just an -> eye : 1
+just an eye -> on : 1
+an eye on -> the : 1
+eye on the -> test : 1
+on the test -> match : 1
+test match in -> the : 1
+match in the -> corner : 1
+in the corner -> of : 1
+the corner of -> the : 1
+corner of the -> and : 1
+of the and -> a : 1
+the and a -> month : 1
+and a month -> mr : 1
+a month mr -> crumble : 1
+month mr crumble -> won : 1
+mr crumble won -> first : 1
+crumble won first -> prize : 1
+won first prize -> for : 1
+first prize for -> the : 1
+prize for the -> biggest : 1
+for the biggest -> cabbage : 1
+the biggest cabbage -> the : 1
+biggest cabbage the -> melton : 1
+cabbage the melton -> meadow : 1
+and vegetable show -> had : 1
+vegetable show had -> ever : 1

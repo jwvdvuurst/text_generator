@@ -1,0 +1,5140 @@
+transmit : 1
+electronic : 1
+printed : 1
+recording : 1
+publication : 1
+strictly : 1
+storage : 1
+allowed : 1
+unless : 1
+written : 1
+herein : 1
+stated : 1
+truthful : 1
+terms : 1
+inattention : 1
+usage : 1
+directions : 1
+solitary : 1
+utter : 1
+recipient : 1
+circumstances : 1
+blame : 1
+publisher : 1
+loss : 1
+directly : 1
+authors : 1
+copyrights : 1
+quote : 1
+paraphrase : 1
+consent : 1
+action : 1
+pursued : 1
+educational : 1
+entertainment : 1
+purposes : 1
+every : 1
+attempt : 1
+date : 1
+reliable : 1
+complete : 1
+warranties : 1
+expressed : 1
+readers : 1
+acknowledge : 1
+engaging : 1
+rendering : 1
+medical : 1
+mention : 1
+kinds : 1
+reactions : 1
+looked : 1
+partially : 1
+truth : 1
+chances : 1
+fact : 1
+knowhow : 1
+benefits : 1
+quench : 1
+rather : 1
+interested : 1
+hiring : 1
+official : 1
+surprising : 1
+career : 1
+hired : 1
+esteemed : 1
+freelance : 1
+opportunities : 1
+limited : 1
+venture : 1
+dark : 1
+side : 1
+understand : 1
+down : 1
+detailed : 1
+office : 1
+menace : 1
+enhance : 1
+bad : 1
+guys : 1
+want : 1
+thank : 1
+informative : 1
+biggest : 1
+intelligence : 1
+crime : 1
+condemned : 1
+breaking : 1
+damaging : 1
+worst : 1
+members : 1
+youth : 1
+international : 1
+party : 1
+street : 1
+pranks : 1
+tapping : 1
+mainly : 1
+comprised : 1
+initial : 1
+stages : 1
+gradually : 1
+pliers : 1
+lines : 1
+replaced : 1
+multifunctional : 1
+screens : 1
+mega : 1
+core : 1
+goofy : 1
+nature : 1
+slowly : 1
+started : 1
+prank : 1
+peace : 1
+loving : 1
+activists : 1
+terrorist : 1
+military : 1
+fundraising : 1
+spreading : 1
+chapter : 1
+later : 1
+ascertaining : 1
+subsequent : 1
+shortfalls : 1
+structural : 1
+picture : 1
+altering : 1
+displaying : 1
+spectrum : 1
+found : 1
+development : 1
+surprise : 1
+developing : 1
+southeast : 1
+asia : 1
+south : 1
+extremely : 1
+because : 1
+ambiguity : 1
+explain : 1
+subject : 1
+contexts : 1
+reference : 1
+individual : 1
+command : 1
+specialist : 1
+finds : 1
+fixes : 1
+loopholes : 1
+practicing : 1
+detail : 1
+second : 1
+reason : 1
+money : 1
+steal : 1
+mere : 1
+challenge : 1
+things : 1
+forbidden : 1
+accessing : 1
+disrupt : 1
+company : 1
+business : 1
+protest : 1
+sneaking : 1
+authorities : 1
+raising : 1
+voice : 1
+modus : 1
+operandi : 1
+classified : 1
+following : 1
+opposes : 1
+perform : 1
+series : 1
+efficacy : 1
+carry : 1
+penetration : 1
+stand : 1
+between : 1
+opposite : 1
+methodology : 1
+violate : 1
+intentions : 1
+perceived : 1
+communities : 1
+stereotypes : 1
+modify : 1
+days : 1
+kept : 1
+blind : 1
+color : 1
+similarly : 1
+interesting : 1
+trawl : 1
+faults : 1
+demonstrating : 1
+hats : 1
+fix : 1
+diagnosis : 1
+suitable : 1
+firms : 1
+vulnerabilities : 1
+write : 1
+impenetrable : 1
+avoid : 1
+status : 1
+demote : 1
+proficient : 1
+short : 1
+skiddies : 1
+amateurs : 1
+manage : 1
+though : 1
+tells : 1
+beginners : 1
+newbies : 1
+prior : 1
+experience : 1
+hang : 1
+around : 1
+others : 1
+motto : 1
+learning : 1
+version : 1
+skills : 1
+publish : 1
+religious : 1
+hacked : 1
+hacks : 1
+sources : 1
+give : 1
+terrorism : 1
+operation : 1
+safeguarding : 1
+foreign : 1
+defence : 1
+working : 1
+organizations : 1
+obtained : 1
+aid : 1
+criminal : 1
+objectives : 1
+defined : 1
+unintended : 1
+flaw : 1
+efficient : 1
+applications : 1
+managers : 1
+those : 1
+hands : 1
+available : 1
+quickly : 1
+limiting : 1
+firewall : 1
+defends : 1
+although : 1
+solely : 1
+searching : 1
+intends : 1
+basic : 1
+attackers : 1
+identification : 1
+host : 1
+hand : 1
+verify : 1
+sends : 1
+selected : 1
+range : 1
+agenda : 1
+finding : 1
+active : 1
+attacking : 1
+probes : 1
+weakness : 1
+recovering : 1
+gaining : 1
+depends : 1
+entirely : 1
+strength : 1
+require : 1
+producing : 1
+checked : 1
+taking : 1
+word : 1
+performed : 1
+reduce : 1
+protocol : 1
+collecting : 1
+capture : 1
+injection : 1
+packets : 1
+intercept : 1
+nothing : 1
+fake : 1
+fooled : 1
+thinking : 1
+original : 1
+collect : 1
+id : 1
+approved : 1
+http : 1
+request : 1
+referred : 1
+headers : 1
+address : 1
+spammers : 1
+hide : 1
+mislead : 1
+links : 1
+direct : 1
+reveal : 1
+play : 1
+role : 1
+users : 1
+his : 1
+non : 1
+formation : 1
+acts : 1
+backdoor : 1
+detected : 1
+remote : 1
+pretends : 1
+thing : 1
+reality : 1
+does : 1
+gateways : 1
+intruder : 1
+stay : 1
+got : 1
+greek : 1
+mythology : 1
+where : 1
+seem : 1
+resulted : 1
+downfall : 1
+spreads : 1
+copies : 1
+itself : 1
+executable : 1
+parts : 1
+code : 1
+created : 1
+connected : 1
+contact : 1
+gathered : 1
+example : 1
+detecting : 1
+downloaded : 1
+propagating : 1
+unlike : 1
+propagates : 1
+above : 1
+mentioned : 1
+little : 1
+prefer : 1
+easier : 1
+move : 1
+tougher : 1
+desperate : 1
+wish : 1
+consider : 1
+thought : 1
+softwares : 1
+together : 1
+rented : 1
+fee : 1
+lightning : 1
+speed : 1
+better : 1
+botnets : 1
+meant : 1
+serve : 1
+gpus : 1
+much : 1
+powerful : 1
+regular : 1
+graphical : 1
+processing : 1
+units : 1
+video : 1
+card : 1
+superfast : 1
+built : 1
+cater : 1
+faster : 1
+hundred : 1
+great : 1
+gizmos : 1
+willing : 1
+shed : 1
+buy : 1
+wreak : 1
+havoc : 1
+cause : 1
+lose : 1
+compromised : 1
+becomes : 1
+protect : 1
+ways : 1
+step : 1
+anti : 1
+antivirus : 1
+clean : 1
+root : 1
+monthly : 1
+basis : 1
+careful : 1
+obvious : 1
+suffer : 1
+page : 1
+launch : 1
+infected : 1
+order : 1
+spread : 1
+sound : 1
+cool : 1
+another : 1
+transported : 1
+entering : 1
+allow : 1
+algorithm : 1
+bank : 1
+highly : 1
+land : 1
+big : 1
+prevent : 1
+knowing : 1
+escape : 1
+past : 1
+become : 1
+prominent : 1
+providers : 1
+media : 1
+platforms : 1
+ask : 1
+strong : 1
+include : 1
+capital : 1
+causes : 1
+select : 1
+easy : 1
+facility : 1
+notifications : 1
+times : 1
+trying : 1
+regardless : 1
+numeric : 1
+values : 1
+bear : 1
+mind : 1
+principles : 1
+guide : 1
+choice : 1
+compiled : 1
+containing : 1
+yours : 1
+leaving : 1
+uncovered : 1
+sit : 1
+techniques : 1
+employed : 1
+successfully : 1
+wherein : 1
+runs : 1
+match : 1
+correct : 1
+practical : 1
+forever : 1
+special : 1
+seconds : 1
+since : 1
+results : 1
+almost : 1
+contains : 1
+random : 1
+mixture : 1
+numerals : 1
+hybrid : 1
+tackle : 1
+problem : 1
+contain : 1
+along : 1
+permutations : 1
+next : 1
+modern : 1
+method : 1
+place : 1
+stores : 1
+would : 1
+decrypt : 1
+compare : 1
+hashed : 1
+perfect : 1
+ultimate : 1
+comes : 1
+cpu : 1
+intensive : 1
+permutation : 1
+imagine : 1
+test : 1
+surmise : 1
+produce : 1
+resort : 1
+quite : 1
+previous : 1
+chapters : 1
+aware : 1
+concept : 1
+emails : 1
+adept : 1
+art : 1
+equipped : 1
+off : 1
+mails : 1
+unknown : 1
+never : 1
+mistake : 1
+downloading : 1
+attachments : 1
+trusted : 1
+websites : 1
+risky : 1
+pose : 1
+utilize : 1
+site : 1
+advisor : 1
+reports : 1
+visiting : 1
+ensures : 1
+installing : 1
+completely : 1
+uninstall : 1
+belonging : 1
+regularly : 1
+present : 1
+latest : 1
+advised : 1
+professionals : 1
+seek : 1
+respond : 1
+messages : 1
+chat : 1
+especially : 1
+suspicious : 1
+maintain : 1
+backup : 1
+memory : 1
+enabled : 1
+introduce : 1
+issues : 1
+java : 1
+activex : 1
+deactivated : 1
+browser : 1
+essential : 1
+advise : 1
+mozilla : 1
+firefox : 1
+browsing : 1
+provides : 1
+macintosh : 1
+hugely : 1
+popular : 1
+shifting : 1
+accustomed : 1
+switched : 1
+shutdown : 1
+put : 1
+unnecessarily : 1
+twenty : 1
+minutes : 1
+come : 1
+explained : 1
+concepts : 1
+lucid : 1
+comprehensible : 1
+putting : 1
+twice : 1
+specialists : 1
+too : 1
+having : 1
+consequences : 1
+attacked : 1
+internal : 1
+fear : 1
+simply : 1
+follows : 1
+rest : 1
+assured : 1
+please : 1
+advancing : 1
+advanced : 1
+updated : 1
+again : 1
+enjoyed : 1
+contentsintroductionchapter : 1
+either : 2
+prohibited : 2
+permission : 2
+abuse : 2
+contained : 2
+responsibility : 2
+under : 2
+held : 2
+due : 2
+own : 2
+content : 2
+author : 2
+note : 2
+professional : 2
+ever : 2
+person : 2
+while : 2
+genius : 2
+technical : 2
+fun : 2
+long : 2
+safeguard : 2
+actually : 2
+fight : 2
+aspects : 2
+instructions : 2
+wide : 2
+learn : 2
+choosing : 2
+hope : 2
+good : 2
+national : 2
+harmless : 2
+less : 2
+countries : 2
+entire : 2
+telephone : 2
+its : 2
+developed : 2
+were : 2
+being : 2
+idea : 2
+classification : 2
+exploitation : 2
+single : 2
+changing : 2
+last : 2
+difficult : 2
+hard : 2
+lot : 2
+retrieving : 2
+adding : 2
+create : 2
+instead : 2
+he : 2
+someone : 2
+tests : 2
+commonly : 2
+intent : 2
+vulnerable : 2
+mix : 2
+seeking : 2
+administrators : 2
+offer : 2
+after : 2
+hire : 2
+expert : 2
+name : 2
+types : 2
+cyber : 2
+sole : 2
+making : 2
+common : 2
+opening : 2
+sending : 2
+spots : 2
+transmitted : 2
+port : 2
+application : 2
+server : 2
+should : 2
+scan : 2
+requests : 2
+looks : 2
+stored : 2
+required : 2
+brute : 2
+combinations : 2
+letters : 2
+until : 2
+list : 2
+sniffers : 2
+packet : 2
+spoofing : 2
+allows : 2
+login : 2
+type : 2
+engineering : 2
+trust : 2
+malware : 2
+old : 2
+store : 2
+operating : 2
+worm : 2
+job : 2
+hardware : 2
+refers : 2
+devices : 2
+virus : 2
+update : 2
+click : 2
+avail : 2
+owner : 2
+unique : 2
+tries : 2
+whether : 2
+think : 2
+go : 2
+end : 2
+table : 2
+add : 2
+hash : 2
+even : 2
+combination : 2
+ensure : 2
+guidelines : 2
+untrusted : 2
+visit : 2
+files : 2
+experts : 2
+well : 2
+browsers : 2
+compared : 2
+linux : 2
+remember : 2
+sleep : 2
+mode : 2
+practice : 2
+bit : 2
+rights : 3
+legal : 3
+document : 3
+means : 3
+provided : 3
+within : 3
+made : 3
+provide : 3
+two : 3
+feel : 3
+thief : 3
+compromising : 3
+activity : 3
+companies : 3
+government : 3
+private : 3
+i : 3
+protecting : 3
+tool : 3
+improve : 3
+safety : 3
+threat : 3
+agencies : 3
+than : 3
+level : 3
+large : 3
+simple : 3
+stealing : 3
+back : 3
+reasons : 3
+gathering : 3
+really : 3
+form : 3
+sometimes : 3
+flaws : 3
+area : 3
+particular : 3
+term : 3
+over : 3
+behind : 3
+retrieve : 3
+doing : 3
+intention : 3
+main : 3
+ones : 3
+illegal : 3
+destroying : 3
+public : 3
+internet : 3
+blue : 3
+best : 3
+community : 3
+basically : 3
+tools : 3
+social : 3
+confidential : 3
+malicious : 3
+worms : 3
+through : 3
+ports : 3
+open : 3
+known : 3
+uses : 3
+methods : 3
+force : 3
+attacks : 3
+done : 3
+number : 3
+sent : 3
+gets : 3
+set : 3
+self : 3
+small : 3
+send : 3
+first : 3
+could : 3
+account : 3
+must : 3
+need : 3
+file : 3
+web : 3
+safe : 3
+secure : 3
+manually : 3
+run : 3
+enter : 3
+approach : 3
+symbols : 3
+advisable : 3
+external : 3
+features : 3
+copyright : 4
+part : 4
+monetary : 4
+without : 4
+up : 4
+kind : 4
+different : 4
+once : 4
+break : 4
+get : 4
+look : 4
+services : 4
+same : 4
+group : 4
+process : 4
+weaknesses : 4
+weak : 4
+may : 4
+always : 4
+called : 4
+check : 4
+user : 4
+grey : 4
+programs : 4
+each : 4
+given : 4
+designed : 4
+trojan : 4
+still : 4
+running : 4
+possible : 4
+horse : 4
+crack : 4
+might : 4
+sure : 4
+technique : 4
+numbers : 4
+various : 5
+attack : 5
+general : 5
+tips : 5
+way : 5
+personal : 5
+there : 5
+knowledge : 5
+keep : 5
+ethical : 5
+about : 5
+world : 5
+we : 5
+computers : 5
+now : 5
+people : 5
+white : 5
+both : 5
+before : 5
+elite : 5
+unauthorized : 5
+very : 5
+checking : 5
+dictionary : 5
+website : 5
+here : 5
+how : 6
+email : 6
+few : 6
+against : 6
+cannot : 6
+been : 6
+makes : 6
+work : 6
+was : 6
+such : 6
+take : 6
+usually : 6
+program : 6
+right : 6
+scanner : 6
+cracking : 6
+so : 6
+viruses : 6
+important : 6
+when : 6
+several : 6
+book : 7
+then : 7
+out : 7
+try : 7
+networks : 7
+words : 7
+most : 7
+more : 7
+purpose : 7
+black : 7
+gain : 7
+time : 7
+vulnerability : 8
+no : 8
+only : 8
+one : 8
+data : 8
+just : 8
+passwords : 8
+has : 9
+at : 9
+make : 9
+help : 9
+what : 10
+many : 10
+other : 11
+find : 11
+them : 11
+like : 12
+considered : 12
+who : 12
+using : 12
+also : 13
+any : 15
+hacker : 15
+network : 15
+access : 15
+new : 15
+software : 16
+do : 16
+systems : 16
+all : 17
+not : 17
+into : 17
+these : 17
+password : 17
+hack : 18
+if : 18
+have : 18
+security : 18
+some : 19
+use : 19
+used : 19
+information : 20
+which : 20
+but : 22
+on : 23
+hat : 24
+from : 24
+system : 24
+with : 25
+their : 25
+an : 26
+hackers : 28
+by : 29
+your : 32
+be : 33
+they : 34
+will : 36
+can : 39
+as : 41
+that : 43
+computer : 44
+hacking : 46
+this : 52
+in : 55
+it : 59
+or : 62
+for : 63
+are : 68
+you : 78
+is : 114
+and : 128
+a : 133
+to : 145
+of : 149
+the : 270
+hacking for how -> to : 1
+for how to -> of : 1
+how to of -> hacking : 1
+to of hacking -> an : 1
+of hacking an -> various : 1
+hacking an various -> hat : 1
+an various hat -> hat : 1
+various hat hat -> hat : 1
+hat hat hat -> hat : 1
+hat hat hat -> hacking : 1
+hat hat hacking -> of : 1
+hat hacking of -> vulnerability : 1
+hacking of vulnerability -> vulnerability : 1
+of vulnerability vulnerability -> attack : 1
+vulnerability vulnerability attack -> hacking : 1
+vulnerability attack hacking -> software : 1
+attack hacking software -> and : 1
+hacking software and -> how : 2
+hacking software and -> software : 1
+software and how -> to : 2
+and how to -> hack : 2
+how to hack -> an : 3
+how to hack -> in : 1
+to hack an -> email : 3
+hack an email -> few : 2
+hack an email -> a : 1
+an email few -> general : 2
+email few general -> tips : 2
+few general tips -> of : 3
+general tips of -> computer : 3
+tips of computer -> copyright : 1
+tips of computer -> previous : 1
+of computer copyright -> all : 1
+computer copyright all -> rights : 1
+copyright all rights -> no : 1
+copyright all rights -> hacking : 1
+all rights no -> way : 1
+rights no way -> is : 1
+no way is -> it : 1
+way is it -> legal : 1
+is it legal -> to : 1
+it legal to -> or : 1
+legal to or -> transmit : 1
+to or transmit -> any : 1
+or transmit any -> part : 1
+transmit any part -> of : 1
+any part of -> this : 1
+part of this -> document : 1
+part of this -> can : 1
+of this document -> in : 1
+of this document -> is : 1
+this document in -> either : 1
+document in either -> electronic : 1
+in either electronic -> means : 1
+either electronic means -> or : 1
+electronic means or -> in : 1
+means or in -> printed : 1
+or in printed -> recording : 1
+in printed recording -> of : 1
+printed recording of -> this : 1
+recording of this -> publication : 1
+of this publication -> is : 1
+this publication is -> strictly : 1
+publication is strictly -> prohibited : 1
+is strictly prohibited -> and : 1
+strictly prohibited and -> any : 1
+prohibited and any -> storage : 1
+and any storage -> of : 1
+any storage of -> this : 1
+storage of this -> document : 1
+this document is -> not : 1
+this document is -> for : 1
+document is not -> allowed : 1
+is not allowed -> unless : 1
+not allowed unless -> with : 1
+allowed unless with -> written : 1
+unless with written -> permission : 1
+with written permission -> from : 1
+written permission from -> the : 1
+permission from the -> all : 1
+from the all -> rights : 1
+the all rights -> information : 1
+all rights information -> provided : 1
+rights information provided -> herein : 1
+information provided herein -> is : 1
+provided herein is -> stated : 1
+herein is stated -> to : 1
+is stated to -> be : 1
+stated to be -> truthful : 1
+to be truthful -> and : 1
+be truthful and -> in : 1
+truthful and in -> that : 1
+and in that -> any : 1
+in that any -> in : 1
+that any in -> terms : 1
+any in terms -> of : 1
+in terms of -> inattention : 1
+terms of inattention -> or : 1
+of inattention or -> by : 1
+inattention or by -> any : 1
+or by any -> usage : 1
+by any usage -> or : 1
+any usage or -> abuse : 1
+usage or abuse -> of : 1
+or abuse of -> any : 1
+abuse of any -> or : 1
+of any or -> directions : 1
+any or directions -> contained : 1
+or directions contained -> within : 1
+directions contained within -> is : 1
+contained within is -> the : 1
+within is the -> solitary : 1
+is the solitary -> and : 1
+the solitary and -> utter : 1
+solitary and utter -> responsibility : 1
+and utter responsibility -> of : 1
+utter responsibility of -> the : 1
+responsibility of the -> recipient : 1
+of the recipient -> under : 1
+the recipient under -> no : 1
+recipient under no -> circumstances : 1
+under no circumstances -> will : 1
+no circumstances will -> any : 1
+circumstances will any -> legal : 1
+will any legal -> responsibility : 1
+any legal responsibility -> or : 1
+legal responsibility or -> blame : 1
+responsibility or blame -> be : 1
+or blame be -> held : 1
+blame be held -> against : 1
+be held against -> the : 1
+held against the -> publisher : 1
+against the publisher -> for : 1
+the publisher for -> any : 1
+publisher for any -> or : 1
+for any or -> monetary : 1
+any or monetary -> loss : 1
+or monetary loss -> due : 1
+monetary loss due -> to : 1
+loss due to -> the : 1
+due to the -> information : 1
+to the information -> either : 1
+the information either -> directly : 1
+information either directly -> or : 1
+either directly or -> authors : 1
+directly or authors -> own : 1
+or authors own -> all : 1
+authors own all -> copyrights : 1
+own all copyrights -> not : 1
+all copyrights not -> held : 1
+copyrights not held -> by : 1
+not held by -> the : 1
+held by the -> book : 1
+by the book -> is : 1
+the book is -> copyright : 1
+book is copyright -> this : 1
+is copyright this -> is : 1
+copyright this is -> only : 1
+this is only -> for : 1
+is only for -> personal : 1
+only for personal -> you : 1
+for personal you -> cannot : 1
+personal you cannot -> quote : 1
+you cannot quote -> or : 1
+cannot quote or -> paraphrase : 1
+quote or paraphrase -> any : 1
+or paraphrase any -> part : 1
+paraphrase any part -> or : 1
+any part or -> the : 1
+part or the -> content : 1
+or the content -> within : 1
+the content within -> this : 1
+content within this -> book : 1
+within this book -> without : 1
+this book without -> the : 1
+book without the -> consent : 1
+without the consent -> of : 1
+the consent of -> the : 1
+consent of the -> author : 1
+of the author -> or : 1
+the author or -> copyright : 1
+author or copyright -> legal : 1
+or copyright legal -> action : 1
+copyright legal action -> will : 1
+legal action will -> be : 1
+action will be -> pursued : 1
+will be pursued -> if : 1
+be pursued if -> this : 1
+pursued if this -> is : 1
+if this is -> note : 1
+this is note -> the : 1
+is note the -> information : 1
+note the information -> contained : 1
+the information contained -> within : 1
+information contained within -> this : 1
+contained within this -> document : 1
+within this document -> is : 1
+document is for -> educational : 1
+is for educational -> and : 1
+for educational and -> entertainment : 1
+educational and entertainment -> purposes : 1
+and entertainment purposes -> every : 1
+entertainment purposes every -> attempt : 1
+purposes every attempt -> has : 1
+every attempt has -> been : 1
+attempt has been -> made : 1
+has been made -> to : 1
+been made to -> provide : 1
+made to provide -> up : 1
+to provide up -> to : 1
+provide up to -> date : 1
+up to date -> and : 1
+to date and -> reliable : 1
+date and reliable -> complete : 1
+and reliable complete -> no : 1
+reliable complete no -> warranties : 1
+complete no warranties -> of : 1
+no warranties of -> any : 1
+warranties of any -> kind : 1
+of any kind -> are : 1
+any kind are -> expressed : 1
+kind are expressed -> or : 1
+are expressed or -> readers : 1
+expressed or readers -> acknowledge : 1
+or readers acknowledge -> that : 1
+readers acknowledge that -> the : 1
+acknowledge that the -> author : 1
+that the author -> is : 1
+the author is -> not : 1
+author is not -> engaging : 1
+is not engaging -> in : 1
+not engaging in -> the : 1
+engaging in the -> rendering : 1
+in the rendering -> of : 1
+the rendering of -> medical : 1
+rendering of medical -> or : 1
+of medical or -> professional : 1
+medical or professional -> you : 1
+or professional you -> ever : 1
+professional you ever -> mention : 1
+you ever mention -> to : 1
+ever mention to -> a : 1
+mention to a -> person : 1
+to a person -> that : 1
+a person that -> you : 1
+person that you -> can : 1
+that you can -> hack : 1
+that you can -> make : 1
+you can hack -> in : 1
+can hack in -> to : 1
+hack in to -> a : 2
+in to a -> there : 1
+in to a -> what : 1
+in to a -> system : 1
+in to a -> we : 1
+to a there -> will : 1
+a there will -> be : 1
+there will be -> two : 1
+will be two -> different : 1
+be two different -> kinds : 1
+two different kinds -> of : 1
+different kinds of -> reactions : 1
+kinds of reactions -> you : 1
+of reactions you -> will : 1
+reactions you will -> one : 1
+you will one -> you : 1
+will one you -> will : 1
+one you will -> be : 1
+you will be -> looked : 1
+will be looked -> at : 1
+be looked at -> as : 1
+looked at as -> if : 1
+at as if -> you : 1
+as if you -> are : 1
+if you are -> some : 1
+if you are -> hacking : 1
+if you are -> really : 1
+if you are -> then : 1
+if you are -> suspicious : 1
+you are some -> kind : 1
+are some kind -> of : 1
+some kind of -> a : 1
+kind of a -> while : 1
+of a while -> the : 1
+a while the -> other : 1
+while the other -> will : 1
+the other will -> make : 1
+other will make -> you : 1
+will make you -> feel : 1
+make you feel -> like : 1
+you feel like -> you : 1
+feel like you -> are : 1
+like you are -> a : 1
+you are a -> it : 1
+you are a -> genius : 1
+you are a -> thief : 1
+you are a -> you : 1
+are a it -> is : 1
+a it is -> partially : 1
+a it is -> basically : 1
+a it is -> still : 1
+a it is -> advisable : 1
+it is partially -> a : 1
+is partially a -> truth : 1
+partially a truth -> that : 1
+a truth that -> you : 1
+truth that you -> are : 1
+that you are -> a : 1
+that you are -> not : 1
+are a genius -> but : 1
+a genius but -> chances : 1
+genius but chances -> are : 1
+but chances are -> you : 1
+chances are you -> are : 1
+are you are -> a : 1
+are a thief -> what : 1
+a thief what -> makes : 1
+thief what makes -> you : 1
+what makes you -> a : 2
+makes you a -> genius : 1
+makes you a -> thief : 1
+you a genius -> is : 1
+a genius is -> the : 1
+genius is the -> fact : 1
+is the fact -> that : 1
+the fact that -> you : 1
+fact that you -> have : 1
+that you have -> the : 1
+you have the -> knowledge : 1
+have the knowledge -> and : 1
+the knowledge and -> technical : 1
+knowledge and technical -> knowhow : 1
+and technical knowhow -> of : 1
+technical knowhow of -> how : 1
+knowhow of how -> to : 1
+of how to -> hack : 1
+to hack in -> to : 1
+to a what -> makes : 1
+a what makes -> you : 1
+you a thief -> is : 1
+a thief is -> what : 1
+thief is what -> you : 1
+is what you -> do : 1
+what you do -> once : 1
+you do once -> you : 1
+do once you -> hack : 1
+once you hack -> into : 1
+you hack into -> a : 1
+hack into a -> if : 1
+into a if -> you : 1
+a if you -> use : 1
+if you use -> the : 1
+you use the -> data : 1
+use the data -> for : 1
+the data for -> means : 1
+data for means -> like : 1
+for means like -> monetary : 1
+means like monetary -> benefits : 1
+like monetary benefits -> or : 1
+monetary benefits or -> compromising : 1
+benefits or compromising -> the : 1
+or compromising the -> security : 1
+compromising the security -> of : 1
+the security of -> the : 1
+security of the -> you : 1
+of the you -> are : 1
+the you are -> a : 1
+are a you -> have : 1
+a you have -> to : 1
+you have to -> be : 1
+have to be -> a : 1
+to be a -> thief : 1
+be a thief -> if : 1
+a thief if -> you : 1
+thief if you -> a : 1
+if you a -> hacking : 1
+you a hacking -> can : 1
+a hacking can -> be : 1
+hacking can be -> a : 1
+can be a -> fun : 1
+be a fun -> activity : 1
+a fun activity -> as : 1
+fun activity as -> long : 1
+activity as long -> as : 1
+as long as -> it : 1
+long as it -> is : 1
+as it is -> if : 1
+as it is -> condemned : 1
+as it is -> quite : 1
+as it is -> risky : 1
+it is if -> you : 1
+is if you -> are : 1
+you are hacking -> in : 1
+are hacking in -> to : 1
+hacking in to -> a : 1
+to a system -> just : 1
+a system just -> to : 1
+system just to -> quench : 1
+just to quench -> your : 1
+to quench your -> then : 1
+quench your then -> this : 1
+your then this -> kind : 1
+then this kind -> of : 1
+this kind of -> hacking : 1
+kind of hacking -> is : 1
+of hacking is -> rather : 1
+of hacking is -> the : 1
+of hacking is -> not : 1
+hacking is rather -> many : 1
+is rather many -> companies : 1
+rather many companies -> will : 1
+many companies will -> be : 1
+companies will be -> interested : 1
+will be interested -> in : 1
+be interested in -> hiring : 1
+interested in hiring -> you : 1
+in hiring you -> as : 1
+hiring you as -> an : 1
+you as an -> official : 1
+as an official -> hacker : 1
+an official hacker -> to : 1
+official hacker to -> safeguard : 1
+hacker to safeguard -> their : 1
+to safeguard their -> systems : 1
+safeguard their systems -> and : 1
+their systems and -> as : 1
+systems and as -> surprising : 1
+and as surprising -> as : 1
+as surprising as -> it : 1
+surprising as it -> you : 1
+as it you -> can : 1
+it you can -> actually : 1
+it you can -> go : 1
+you can actually -> make : 1
+can actually make -> a : 1
+actually make a -> career : 1
+make a career -> out : 1
+a career out -> of : 1
+career out of -> hacking : 1
+out of hacking -> and : 1
+of hacking and -> can : 1
+hacking and can -> be : 1
+and can be -> hired : 1
+and can be -> used : 1
+can be hired -> in : 1
+be hired in -> to : 1
+hired in to -> esteemed : 1
+in to esteemed -> government : 1
+to esteemed government -> can : 1
+esteemed government can -> freelance : 1
+government can freelance -> as : 1
+can freelance as -> a : 1
+freelance as a -> private : 1
+as a private -> hacker : 1
+a private hacker -> or : 1
+private hacker or -> also : 1
+hacker or also -> work : 1
+or also work -> with : 1
+also work with -> the : 1
+work with the -> opportunities : 1
+with the opportunities -> are : 1
+the opportunities are -> try : 1
+opportunities are try -> to : 1
+are try to -> keep : 1
+try to keep -> this : 1
+to keep this -> activity : 1
+keep this activity -> limited : 1
+this activity limited -> to : 1
+activity limited to -> ethical : 1
+limited to ethical -> means : 1
+to ethical means -> and : 1
+ethical means and -> do : 1
+means and do -> not : 1
+and do not -> venture : 1
+do not venture -> in : 1
+not venture in -> to : 1
+venture in to -> the : 1
+in to the -> dark : 1
+to the dark -> side : 1
+the dark side -> of : 1
+dark side of -> book : 1
+side of book -> will : 1
+of book will -> help : 1
+book will help -> you : 1
+will help you -> understand : 1
+will help you -> crack : 1
+help you understand -> about : 1
+you understand about -> the : 1
+understand about the -> world : 1
+about the world -> of : 1
+the world of -> how : 1
+the world of -> due : 1
+the world of -> computers : 1
+world of how -> you : 1
+of how you -> can : 1
+how you can -> break : 1
+you can break -> down : 1
+can break down -> fight : 1
+break down fight -> and : 1
+down fight and -> get : 1
+fight and get -> in : 1
+and get in -> to : 1
+get in to -> a : 1
+to a we -> will : 1
+a we will -> also : 1
+we will also -> look : 1
+will also look -> into : 1
+also look into -> the : 1
+look into the -> various : 1
+into the various -> aspects : 1
+the various aspects -> of : 1
+various aspects of -> i : 1
+aspects of i -> will : 1
+of i will -> provide : 1
+i will provide -> you : 1
+will provide you -> with : 1
+provide you with -> detailed : 1
+you with detailed -> instructions : 1
+with detailed instructions -> for : 1
+detailed instructions for -> protecting : 1
+instructions for protecting -> your : 1
+for protecting your -> personal : 1
+protecting your personal -> or : 1
+your personal or -> office : 1
+personal or office -> computers : 1
+or office computers -> from : 1
+office computers from -> this : 1
+computers from this -> menace : 1
+from this menace -> of : 1
+this menace of -> the : 1
+menace of the -> world : 1
+of the world -> wide : 1
+the world wide -> this : 1
+world wide this -> book : 1
+wide this book -> to : 1
+this book to -> enhance : 1
+book to enhance -> your : 1
+to enhance your -> knowledge : 1
+enhance your knowledge -> about : 1
+your knowledge about -> ethical : 1
+knowledge about ethical -> hacking : 1
+about ethical hacking -> and : 1
+ethical hacking and -> also : 1
+hacking and also -> as : 1
+and also as -> a : 1
+also as a -> tool : 1
+as a tool -> to : 1
+a tool to -> learn : 1
+tool to learn -> to : 1
+to learn to -> safeguard : 1
+learn to safeguard -> your : 1
+to safeguard your -> system : 1
+safeguard your system -> and : 1
+your system and -> improve : 1
+system and improve -> the : 1
+and improve the -> safety : 1
+improve the safety -> against : 1
+the safety against -> the : 1
+safety against the -> bad : 1
+against the bad -> guys : 1
+the bad guys -> want : 1
+bad guys want -> to : 1
+guys want to -> thank : 1
+want to thank -> you : 1
+to thank you -> for : 1
+thank you for -> choosing : 1
+you for choosing -> this : 1
+for choosing this -> book : 2
+choosing this book -> and : 2
+this book and -> hope : 1
+this book and -> you : 1
+this book and -> i : 1
+book and hope -> you : 1
+and hope you -> find : 1
+hope you find -> it : 1
+you find it -> informative : 1
+find it informative -> and : 1
+it informative and -> have : 1
+informative and have -> a : 1
+and have a -> good : 1
+have a good -> hacking : 1
+a good hacking -> an : 1
+good hacking an -> of : 1
+hacking an of -> computer : 1
+an of computer -> systems : 1
+of computer systems -> and : 1
+of computer systems -> or : 1
+computer systems and -> networks : 2
+systems and networks -> is : 1
+systems and networks -> from : 1
+and networks is -> considered : 1
+networks is considered -> as : 1
+is considered as -> the : 2
+considered as the -> biggest : 1
+considered as the -> first : 1
+as the biggest -> national : 1
+the biggest national -> threat : 1
+biggest national threat -> by : 1
+national threat by -> the : 1
+threat by the -> security : 1
+by the security -> services : 1
+by the security -> companies : 1
+the security services -> and : 1
+security services and -> the : 1
+services and the -> intelligence : 1
+and the intelligence -> agencies : 1
+the intelligence agencies -> of : 1
+intelligence agencies of -> many : 1
+agencies of many -> hacking : 1
+of many hacking -> was : 1
+many hacking was -> once : 1
+hacking was once -> considered : 1
+was once considered -> as : 1
+once considered as -> a : 1
+considered as a -> harmless : 1
+considered as a -> hacker : 1
+considered as a -> group : 1
+as a harmless -> but : 1
+a harmless but -> now : 1
+harmless but now -> hacking : 1
+but now hacking -> is : 1
+now hacking is -> no : 1
+hacking is no -> less : 1
+is no less -> of : 1
+no less of -> a : 1
+less of a -> crime : 1
+of a crime -> than : 1
+a crime than -> any : 1
+crime than any -> in : 1
+than any in -> some : 1
+any in some -> countries : 1
+in some countries -> hacking : 1
+some countries hacking -> is : 1
+countries hacking is -> considered : 1
+hacking is considered -> on : 1
+is considered on -> the : 1
+considered on the -> same : 1
+on the same -> level : 1
+the same level -> as : 1
+same level as -> it : 1
+level as it -> is : 1
+it is condemned -> large : 1
+is condemned large -> by : 1
+condemned large by -> the : 1
+large by the -> world : 1
+by the world -> simple : 1
+the world simple -> words : 1
+world simple words -> hacking : 1
+simple words hacking -> is : 1
+words hacking is -> breaking : 1
+hacking is breaking -> into : 1
+is breaking into -> network : 1
+breaking into network -> or : 1
+into network or -> system : 1
+network or system -> without : 1
+or system without -> permission : 1
+system without permission -> by : 1
+without permission by -> compromising : 1
+permission by compromising -> their : 1
+by compromising their -> security : 1
+compromising their security -> and : 1
+their security and -> stealing : 1
+security and stealing -> their : 1
+and stealing their -> information : 1
+stealing their information -> or : 1
+their information or -> damaging : 1
+information or damaging -> their : 1
+or damaging their -> entire : 1
+damaging their entire -> system : 1
+their entire system -> in : 1
+entire system in -> the : 1
+system in the -> worst : 1
+in the worst -> back : 1
+the worst back -> in : 1
+worst back in -> the : 1
+back in the -> and : 1
+in the and -> members : 1
+the and members -> of : 1
+and members of -> the : 1
+members of the -> youth : 1
+of the youth -> international : 1
+the youth international -> party : 1
+youth international party -> made : 1
+international party made -> street : 1
+party made street -> pranks : 1
+made street pranks -> by : 1
+street pranks by -> tapping : 1
+pranks by tapping -> telephone : 1
+by tapping telephone -> this : 1
+tapping telephone this -> group : 1
+telephone this group -> mainly : 1
+this group mainly -> comprised : 1
+group mainly comprised -> of : 1
+mainly comprised of -> at : 1
+comprised of at -> its : 1
+of at its -> initial : 1
+at its initial -> stages : 1
+its initial stages -> it : 1
+initial stages it -> was : 1
+stages it was -> gradually : 1
+it was gradually -> this : 1
+was gradually this -> developed : 1
+gradually this developed -> into : 1
+this developed into -> the : 1
+developed into the -> pliers : 1
+into the pliers -> and : 1
+the pliers and -> telephone : 1
+pliers and telephone -> lines : 1
+and telephone lines -> were : 1
+telephone lines were -> replaced : 1
+lines were replaced -> by : 1
+were replaced by -> multifunctional : 1
+replaced by multifunctional -> screens : 1
+by multifunctional screens -> and : 1
+multifunctional screens and -> mega : 1
+screens and mega -> core : 1
+and mega core -> goofy : 1
+mega core goofy -> nature : 1
+core goofy nature -> of : 1
+goofy nature of -> hacking : 1
+nature of hacking -> was : 1
+of hacking was -> slowly : 1
+hacking was slowly -> which : 1
+was slowly which -> was : 1
+slowly which was -> once : 1
+which was once -> started : 1
+was once started -> as : 1
+once started as -> a : 1
+started as a -> prank : 1
+as a prank -> by : 1
+a prank by -> the : 1
+prank by the -> peace : 1
+by the peace -> loving : 1
+the peace loving -> activists : 1
+peace loving activists -> is : 1
+loving activists is -> now : 1
+activists is now -> being : 1
+is now being -> used : 1
+now being used -> by : 1
+being used by -> terrorist : 1
+used by terrorist -> they : 1
+by terrorist they -> use : 1
+terrorist they use -> it : 1
+they use it -> for : 2
+use it for -> many : 1
+use it for -> their : 1
+use it for -> protecting : 1
+it for many -> reasons : 1
+for many reasons -> such : 1
+many reasons such -> as : 1
+reasons such as -> gathering : 1
+reasons such as -> to : 1
+such as gathering -> information : 1
+as gathering information -> on : 1
+gathering information on -> military : 1
+information on military -> fundraising : 1
+on military fundraising -> and : 1
+military fundraising and -> for : 1
+fundraising and for -> spreading : 1
+and for spreading -> their : 1
+for spreading their -> this : 1
+spreading their this -> chapter : 1
+their this chapter -> you : 1
+this chapter you -> will : 1
+chapter you will -> get : 1
+you will get -> a : 1
+will get a -> general : 1
+get a general -> idea : 1
+a general idea -> on : 1
+general idea on -> what : 1
+idea on what -> hacking : 1
+on what hacking -> really : 1
+what hacking really -> is : 1
+hacking really is -> and : 1
+really is and -> later : 1
+is and later -> on : 1
+and later on -> the : 1
+later on the -> classification : 1
+on the classification -> of : 1
+the classification of -> hacking : 1
+the classification of -> practicing : 1
+classification of hacking -> is : 1
+hacking is the -> process : 1
+is the process -> of : 2
+the process of -> ascertaining : 1
+the process of -> recovering : 1
+process of ascertaining -> and : 1
+of ascertaining and -> subsequent : 1
+ascertaining and subsequent -> exploitation : 1
+and subsequent exploitation -> of : 1
+subsequent exploitation of -> various : 1
+exploitation of various -> weaknesses : 1
+of various weaknesses -> and : 1
+various weaknesses and -> shortfalls : 1
+weaknesses and shortfalls -> in : 1
+and shortfalls in -> the : 1
+shortfalls in the -> network : 1
+in the network -> of : 1
+in the network -> and : 1
+the network of -> computer : 1
+network of computer -> systems : 1
+computer systems or -> a : 2
+systems or a -> single : 1
+systems or a -> network : 1
+or a single -> computer : 1
+a single computer -> this : 1
+single computer this -> exploitation : 1
+computer this exploitation -> can : 1
+this exploitation can -> be : 1
+exploitation can be -> in : 1
+can be in -> the : 1
+be in the -> form : 1
+in the form -> of : 2
+the form of -> changing : 1
+the form of -> so : 1
+form of changing -> the : 1
+of changing the -> structural : 1
+changing the structural -> picture : 1
+the structural picture -> of : 1
+structural picture of -> the : 1
+picture of the -> computer : 1
+of the computer -> altering : 1
+the computer altering -> the : 1
+computer altering the -> stealing : 1
+altering the stealing -> information : 1
+the stealing information -> but : 1
+stealing information but -> sometimes : 1
+information but sometimes -> hacking : 1
+but sometimes hacking -> is : 1
+sometimes hacking is -> used : 1
+hacking is used -> for : 1
+is used for -> displaying : 1
+is used for -> the : 1
+is used for -> checking : 1
+is used for -> quickly : 1
+used for displaying -> the : 1
+for displaying the -> system : 1
+displaying the system -> flaws : 1
+the system flaws -> and : 1
+system flaws and -> weak : 1
+flaws and weak -> wide : 1
+and weak wide -> spectrum : 1
+weak wide spectrum -> of : 1
+wide spectrum of -> hacking : 1
+spectrum of hacking -> is : 1
+hacking is not -> just : 1
+is not just -> found : 1
+not just found -> in : 1
+just found in -> developed : 1
+found in developed -> in : 1
+in developed in -> the : 1
+developed in the -> last : 1
+in the last -> two : 1
+the last two -> with : 1
+last two with -> the : 1
+two with the -> large : 1
+with the large -> development : 1
+the large development -> in : 1
+large development in -> the : 1
+development in the -> area : 1
+in the area -> of : 2
+the area of -> information : 2
+area of information -> it : 1
+area of information -> who : 1
+of information it -> may : 1
+information it may -> surprise : 1
+it may surprise -> you : 1
+may surprise you -> that : 1
+surprise you that -> most : 1
+you that most -> of : 1
+that most of -> the : 1
+most of the -> hackers : 1
+most of the -> uses : 1
+most of the -> methods : 1
+of the hackers -> are : 1
+of the hackers -> and : 1
+of the hackers -> use : 1
+the hackers are -> from : 1
+hackers are from -> developing : 1
+are from developing -> countries : 1
+from developing countries -> of : 1
+developing countries of -> southeast : 1
+countries of southeast -> asia : 1
+of southeast asia -> and : 1
+southeast asia and -> some : 1
+asia and some -> part : 1
+and some part -> of : 1
+some part of -> south : 1
+part of south -> is : 1
+of south is -> extremely : 1
+south is extremely -> difficult : 1
+is extremely difficult -> for : 1
+extremely difficult for -> a : 1
+difficult for a -> particular : 1
+for a particular -> activity : 1
+a particular activity -> to : 1
+particular activity to -> be : 1
+activity to be -> considered : 1
+to be considered -> as : 1
+be considered as -> hacking : 2
+be considered as -> a : 1
+considered as hacking -> or : 1
+considered as hacking -> as : 1
+as hacking or -> this : 1
+hacking or this -> is : 1
+or this is -> because : 1
+this is because -> of : 1
+is because of -> the : 1
+because of the -> ambiguity : 1
+of the ambiguity -> in : 1
+the ambiguity in -> the : 1
+ambiguity in the -> world : 1
+in the world -> of : 1
+world of due -> to : 1
+of due to -> this : 1
+due to this -> the : 1
+to this the -> term : 1
+this the term -> hacker : 1
+the term hacker -> is : 1
+term hacker is -> hard : 1
+hacker is hard -> to : 1
+is hard to -> explain : 1
+hard to explain -> and : 1
+to explain and -> has : 1
+explain and has -> always : 1
+and has always -> been : 1
+has always been -> a : 1
+always been a -> subject : 1
+been a subject -> of : 1
+a subject of -> a : 1
+subject of a -> lot : 1
+of a lot -> of : 1
+a lot of -> the : 1
+a lot of -> time : 1
+lot of the -> term : 1
+of the term -> in : 1
+the term in -> some : 1
+term in some -> contexts : 1
+in some contexts -> is : 1
+some contexts is -> used : 1
+contexts is used -> as : 1
+is used as -> reference : 1
+used as reference -> to : 1
+as reference to -> an : 1
+reference to an -> individual : 1
+to an individual -> who : 1
+an individual who -> has : 1
+individual who has -> command : 1
+who has command -> over : 1
+has command over -> the : 1
+command over the -> networks : 1
+over the networks -> and : 1
+the networks and -> computer : 1
+networks and computer -> computer : 1
+networks and computer -> they : 1
+and computer computer -> security : 1
+computer computer security -> specialist : 1
+computer security specialist -> who : 1
+security specialist who -> finds : 1
+specialist who finds -> and : 1
+who finds and -> fixes : 1
+finds and fixes -> the : 1
+and fixes the -> loopholes : 1
+fixes the loopholes -> in : 1
+the loopholes in -> the : 1
+loopholes in the -> system : 1
+in the system -> is : 1
+the system is -> also : 1
+system is also -> considered : 1
+is also considered -> as : 1
+also considered as -> a : 1
+as a hacker -> in : 1
+a hacker in -> some : 1
+hacker in some -> these : 1
+in some these -> people : 1
+some these people -> sometimes : 1
+these people sometimes -> called : 1
+people sometimes called -> as : 1
+sometimes called as -> we : 1
+called as we -> will : 1
+as we will -> learn : 1
+we will learn -> more : 1
+will learn more -> about : 1
+learn more about -> the : 1
+more about the -> classification : 1
+about the classification -> of : 1
+classification of practicing -> detail : 1
+of practicing detail -> in : 1
+practicing detail in -> the : 1
+detail in the -> second : 1
+in the second -> part : 1
+the second part -> of : 1
+second part of -> this : 1
+of this can -> be : 1
+this can be -> many : 1
+can be many -> reasons : 1
+be many reasons -> behind : 1
+many reasons behind -> some : 1
+reasons behind some -> hackers : 1
+behind some hackers -> do : 1
+some hackers do -> it : 1
+hackers do it -> for : 1
+do it for -> the : 1
+it for the -> simple : 1
+for the simple -> reason : 1
+the simple reason -> of : 1
+simple reason of -> money : 1
+reason of money -> these : 1
+of money these -> hackers : 1
+money these hackers -> steal : 1
+these hackers steal -> and : 1
+hackers steal and -> retrieve : 1
+steal and retrieve -> information : 1
+and retrieve information -> from : 1
+retrieve information from -> a : 1
+information from a -> computer : 1
+from a computer -> and : 1
+a computer and -> use : 1
+computer and use -> it : 1
+and use it -> for : 1
+it for their -> monetary : 1
+for their monetary -> some : 1
+their monetary some -> hackers : 1
+monetary some hackers -> take : 1
+some hackers take -> it : 1
+hackers take it -> as : 1
+take it as -> a : 1
+it as a -> mere : 1
+as a mere -> challenge : 1
+a mere challenge -> for : 1
+mere challenge for -> doing : 1
+challenge for doing -> things : 1
+for doing things -> that : 1
+doing things that -> are : 1
+things that are -> prohibited : 1
+that are prohibited -> and : 1
+are prohibited and -> retrieving : 1
+prohibited and retrieving -> forbidden : 1
+and retrieving forbidden -> some : 1
+retrieving forbidden some -> do : 1
+forbidden some do -> it : 1
+some do it -> just : 1
+some do it -> to : 1
+do it just -> for : 1
+it just for -> fun : 1
+just for fun -> by : 1
+for fun by -> accessing : 1
+fun by accessing -> a : 1
+by accessing a -> network : 1
+accessing a network -> or : 1
+a network or -> a : 1
+network or a -> computer : 1
+or a computer -> system : 1
+a computer system -> and : 1
+a computer system -> or : 2
+a computer system -> by : 1
+computer system and -> adding : 1
+computer system and -> cause : 1
+system and adding -> a : 1
+and adding a -> some : 1
+adding a some -> do : 1
+a some do -> it : 1
+do it to -> disrupt : 1
+it to disrupt -> a : 1
+to disrupt a -> company : 1
+disrupt a company -> or : 1
+a company or -> an : 1
+company or an -> business : 1
+or an business -> and : 1
+an business and -> create : 1
+business and create -> some : 1
+and create some -> hack : 1
+create some hack -> to : 1
+some hack to -> protest : 1
+hack to protest -> against : 1
+to protest against -> the : 1
+protest against the -> government : 1
+against the government -> or : 1
+the government or -> an : 1
+government or an -> they : 1
+or an they -> do : 1
+an they do -> it : 1
+they do it -> by : 1
+they do it -> with : 1
+do it by -> sneaking : 1
+it by sneaking -> into : 1
+by sneaking into -> the : 1
+sneaking into the -> network : 1
+into the network -> systems : 1
+the network systems -> of : 1
+network systems of -> the : 1
+systems of the -> authorities : 1
+of the authorities -> instead : 1
+the authorities instead -> of : 1
+authorities instead of -> raising : 1
+instead of raising -> their : 1
+of raising their -> voice : 1
+raising their voice -> against : 1
+their voice against -> various : 1
+voice against various -> on : 1
+against various on -> the : 1
+various on the -> modus : 1
+on the modus -> operandi : 1
+the modus operandi -> of : 1
+modus operandi of -> the : 1
+operandi of the -> hackers : 1
+the hackers and -> the : 1
+hackers and the -> intention : 1
+and the intention -> behind : 1
+the intention behind -> their : 1
+intention behind their -> they : 1
+behind their they -> can : 1
+their they can -> be : 1
+they can be -> classified : 1
+they can be -> used : 2
+can be classified -> into : 1
+be classified into -> the : 1
+classified into the -> following : 1
+into the following -> hat : 1
+the following hat -> white : 1
+following hat white -> hat : 1
+hat white hat -> hacker : 1
+white hat hacker -> is : 1
+white hat hacker -> or : 1
+hat hacker is -> also : 1
+hat hacker is -> the : 1
+hacker is also -> called : 1
+is also called -> as : 1
+also called as -> ethical : 1
+also called as -> protocol : 1
+called as ethical -> he : 1
+as ethical he -> is : 1
+ethical he is -> someone : 1
+he is someone -> in : 1
+is someone in -> the : 1
+someone in the -> area : 1
+of information who -> opposes : 1
+information who opposes -> the : 1
+who opposes the -> abuse : 1
+opposes the abuse -> of : 1
+the abuse of -> networks : 1
+abuse of networks -> and : 1
+of networks and -> computer : 1
+and computer they -> hack : 1
+computer they hack -> but : 1
+they hack but -> not : 1
+hack but not -> with : 1
+but not with -> the : 1
+not with the -> intention : 1
+with the intention -> to : 1
+with the intention -> of : 1
+the intention to -> they : 1
+intention to they -> perform : 1
+to they perform -> a : 1
+they perform a -> series : 1
+perform a series -> of : 1
+a series of -> tests : 1
+series of tests -> that : 1
+of tests that -> check : 1
+tests that check -> the : 1
+that check the -> efficacy : 1
+check the efficacy -> of : 1
+the efficacy of -> their : 1
+efficacy of their -> security : 1
+of their security -> these : 1
+their security these -> companies : 1
+security these companies -> are : 1
+these companies are -> usually : 1
+companies are usually -> computer : 1
+are usually computer -> security : 1
+usually computer security -> software : 1
+computer security software -> their : 1
+security software their -> main : 1
+software their main -> purpose : 1
+their main purpose -> is : 1
+main purpose is -> to : 1
+purpose is to -> carry : 1
+is to carry -> out : 1
+to carry out -> penetration : 1
+carry out penetration -> tests : 1
+out penetration tests -> and : 1
+penetration tests and -> vulnerability : 1
+tests and vulnerability -> these : 1
+and vulnerability these -> are : 1
+vulnerability these are -> the : 1
+these are the -> people : 1
+these are the -> ones : 1
+are the people -> who : 1
+the people who -> stand : 1
+people who stand -> between : 1
+who stand between -> black : 1
+stand between black -> hat : 1
+between black hat -> hackers : 1
+black hat hackers -> and : 2
+black hat hackers -> on : 1
+black hat hackers -> use : 1
+hat hackers and -> hat : 1
+hat hackers and -> computer : 1
+hackers and hat -> black : 1
+and hat black -> hat : 1
+hat black hat -> hacker : 1
+black hat hacker -> is : 1
+hacker is the -> opposite : 1
+is the opposite -> of : 1
+the opposite of -> the : 1
+opposite of the -> white : 1
+of the white -> hat : 1
+the white hat -> hacker : 1
+hat hacker or -> the : 1
+hacker or the -> ethical : 1
+or the ethical -> hacker : 1
+the ethical hacker -> in : 1
+ethical hacker in -> both : 1
+hacker in both -> methodology : 1
+in both methodology -> and : 1
+both methodology and -> these : 1
+methodology and these -> hackers : 1
+and these hackers -> violate : 1
+these hackers violate -> the : 1
+hackers violate the -> computer : 1
+violate the computer -> systems : 1
+the computer systems -> or : 1
+the computer systems -> that : 1
+the computer systems -> are : 1
+or a network -> with : 1
+a network with -> intentions : 1
+a network with -> intent : 1
+a network with -> this : 1
+network with intentions -> for : 1
+with intentions for -> personal : 1
+intentions for personal -> and : 1
+for personal and -> monetary : 1
+personal and monetary -> these : 1
+and monetary these -> are : 1
+monetary these are -> the : 1
+are the ones -> who : 1
+the ones who -> are : 1
+ones who are -> commonly : 1
+who are commonly -> perceived : 1
+are commonly perceived -> as : 1
+commonly perceived as -> they : 1
+perceived as they -> are : 1
+as they are -> the : 1
+they are the -> illegal : 1
+they are the -> beginners : 1
+are the illegal -> communities : 1
+the illegal communities -> and : 1
+illegal communities and -> are : 1
+communities and are -> stereotypes : 1
+and are stereotypes -> of : 1
+are stereotypes of -> computer : 1
+stereotypes of computer -> gain : 1
+of computer gain -> access : 1
+computer gain access -> into : 1
+gain access into -> a : 1
+access into a -> network : 1
+into a network -> with : 1
+network with intent -> of : 1
+with intent of -> stealing : 1
+intent of stealing -> or : 1
+of stealing or -> destroying : 1
+stealing or destroying -> the : 1
+or destroying the -> they : 1
+destroying the they -> modify : 1
+the they modify -> the : 1
+they modify the -> program : 1
+modify the program -> in : 1
+the program in -> a : 1
+program in a -> way : 1
+in a way -> that : 1
+a way that -> the : 1
+way that the -> user : 1
+that the user -> cannot : 1
+the user cannot -> use : 1
+user cannot use -> they : 1
+cannot use they -> find : 1
+use they find -> a : 1
+they find a -> vulnerable : 1
+find a vulnerable -> area : 1
+a vulnerable area -> or : 1
+vulnerable area or -> a : 1
+area or a -> weak : 1
+or a weak -> using : 1
+a weak using -> this : 1
+weak using this -> they : 1
+using this they -> gain : 1
+this they gain -> access : 1
+they gain access -> to : 1
+gain access to -> the : 1
+gain access to -> a : 1
+access to the -> the : 1
+access to the -> password : 1
+to the the -> general : 1
+to the the -> trojan : 1
+the the general -> public : 1
+the general public -> and : 1
+general public and -> the : 1
+public and the -> other : 1
+and the other -> days : 1
+the other days -> are : 1
+other days are -> kept : 1
+days are kept -> in : 1
+are kept in -> the : 1
+kept in the -> blind : 1
+in the blind -> from : 1
+the blind from -> such : 1
+blind from such -> hat : 1
+from such hat -> color : 1
+such hat color -> grey : 1
+hat color grey -> is : 1
+color grey is -> a : 1
+grey is a -> mix : 1
+is a mix -> of : 1
+a mix of -> both : 1
+mix of both -> black : 1
+mix of both -> white : 1
+of both black -> and : 1
+both black and -> similarly : 1
+black and similarly -> the : 1
+and similarly the -> grey : 1
+similarly the grey -> hat : 1
+the grey hat -> hackers : 2
+grey hat hackers -> are : 1
+grey hat hackers -> usually : 1
+hat hackers are -> an : 1
+hat hackers are -> the : 1
+hackers are an -> interesting : 1
+are an interesting -> mix : 1
+an interesting mix -> of : 1
+interesting mix of -> both : 1
+of both white -> hat : 1
+both white hat -> and : 1
+white hat and -> black : 1
+hat and black -> hat : 1
+and black hat -> the : 1
+black hat the -> grey : 1
+hat the grey -> hat : 1
+hat hackers usually -> trawl : 1
+hackers usually trawl -> the : 1
+usually trawl the -> internet : 1
+trawl the internet -> seeking : 1
+the internet seeking -> for : 1
+internet seeking for -> faults : 1
+seeking for faults -> in : 1
+for faults in -> the : 1
+faults in the -> network : 1
+the network and -> then : 1
+network and then -> hack : 1
+and then hack -> into : 1
+then hack into -> demonstrating : 1
+hack into demonstrating -> the : 1
+into demonstrating the -> security : 1
+demonstrating the security -> flaws : 1
+the security flaws -> of : 1
+the security flaws -> after : 1
+security flaws of -> a : 1
+flaws of a -> network : 1
+of a network -> to : 1
+a network to -> their : 1
+network to their -> administrators : 1
+to their administrators -> is : 1
+their administrators is -> their : 1
+administrators is their -> main : 1
+is their main -> the : 1
+their main the -> grey : 1
+main the grey -> hats : 1
+the grey hats -> hack : 1
+grey hats hack -> into : 1
+hats hack into -> their : 1
+hack into their -> networks : 1
+into their networks -> and : 1
+their networks and -> may : 1
+networks and may -> offer : 1
+and may offer -> to : 1
+may offer to -> fix : 1
+offer to fix -> the : 1
+to fix the -> security : 1
+fix the security -> flaws : 1
+security flaws after -> diagnosis : 1
+flaws after diagnosis -> for : 1
+after diagnosis for -> a : 1
+diagnosis for a -> suitable : 1
+for a suitable -> hat : 1
+a suitable hat -> blue : 1
+suitable hat blue -> hat : 1
+hat blue hat -> hackers : 1
+blue hat hackers -> are : 1
+hackers are the -> computer : 1
+hackers are the -> best : 1
+are the computer -> security : 1
+the computer security -> firms : 1
+computer security firms -> hire : 1
+security firms hire -> them : 1
+firms hire them -> for : 1
+hire them for -> their : 1
+them for their -> they : 1
+for their they -> are : 1
+their they are -> called : 1
+they are called -> by : 1
+are called by -> the : 1
+called by the -> security : 1
+the security companies -> to : 1
+security companies to -> check : 1
+companies to check -> for : 1
+to check for -> vulnerabilities : 1
+to check for -> weaknesses : 1
+check for vulnerabilities -> in : 1
+for vulnerabilities in -> their : 1
+vulnerabilities in their -> this : 1
+in their this -> was : 1
+their this was -> before : 1
+this was before -> the : 1
+was before the -> new : 1
+before the new -> system : 1
+the new system -> was : 1
+new system was -> elite : 1
+system was elite -> hackers : 1
+was elite hackers -> are : 1
+elite hackers are -> the : 1
+are the best -> of : 1
+the best of -> the : 1
+best of the -> hacking : 1
+of the hacking -> they : 1
+the hacking they -> write : 1
+hacking they write -> programs : 1
+they write programs -> and : 1
+write programs and -> are : 1
+programs and are -> usually : 1
+and are usually -> the : 1
+are usually the -> to : 1
+usually the to -> break : 1
+the to break -> into : 1
+to break into -> an : 1
+break into an -> impenetrable : 1
+into an impenetrable -> the : 1
+an impenetrable the -> elite : 1
+impenetrable the elite -> hackers : 1
+the elite hackers -> avoid : 1
+elite hackers avoid -> destroying : 1
+hackers avoid destroying -> the : 1
+avoid destroying the -> data : 1
+destroying the data -> from : 1
+the data from -> the : 1
+data from the -> computer : 1
+from the computer -> systems : 1
+computer systems that -> they : 1
+systems that they -> have : 1
+that they have -> each : 1
+they have each -> hacking : 1
+have each hacking -> community : 1
+each hacking community -> has : 1
+hacking community has -> their : 1
+community has their -> own : 1
+has their own -> elite : 1
+their own elite -> there : 1
+own elite there -> elite : 1
+elite there elite -> status : 1
+there elite status -> is : 1
+elite status is -> given : 1
+status is given -> to : 1
+is given to -> them : 1
+given to them -> by : 1
+to them by -> their : 1
+them by their -> they : 1
+by their they -> demote : 1
+their they demote -> the : 1
+they demote the -> most : 1
+demote the most -> proficient : 1
+the most proficient -> of : 1
+most proficient of -> the : 1
+proficient of the -> is : 1
+of the is -> the : 1
+the is the -> short : 1
+is the short -> term : 1
+the short term -> form : 1
+short term form -> skiddies : 1
+term form skiddies -> are : 1
+form skiddies are -> basically : 1
+skiddies are basically -> amateurs : 1
+are basically amateurs -> who : 1
+basically amateurs who -> manage : 1
+amateurs who manage -> to : 1
+who manage to -> hack : 1
+manage to hack -> into : 1
+to hack into -> the : 1
+hack into the -> system : 1
+into the system -> and : 1
+the system and -> access : 1
+system and access -> them : 1
+and access them -> by : 1
+access them by -> using : 1
+them by using -> the : 1
+by using the -> programs : 1
+using the programs -> given : 1
+the programs given -> out : 1
+programs given out -> by : 1
+given out by -> elite : 1
+out by elite -> hackers : 1
+by elite hackers -> or : 1
+elite hackers or -> other : 1
+hackers or other -> expert : 1
+or other expert -> level : 1
+other expert level -> though : 1
+other expert level -> hackers : 1
+expert level though -> they : 1
+level though they -> use : 1
+though they use -> the : 1
+they use the -> they : 1
+use the they -> have : 1
+the they have -> no : 1
+they have no -> knowledge : 1
+have no knowledge -> on : 1
+have no knowledge -> or : 1
+no knowledge on -> the : 1
+knowledge on the -> programs : 1
+knowledge on the -> attackers : 1
+on the programs -> they : 1
+the programs they -> name : 1
+programs they name -> tells : 1
+they name tells -> it : 1
+name tells it -> they : 1
+tells it they -> are : 1
+it they are -> the : 1
+are the beginners -> in : 1
+the beginners in -> the : 1
+beginners in the -> hacking : 1
+in the hacking -> newbies : 1
+in the hacking -> community : 1
+the hacking newbies -> have : 1
+hacking newbies have -> no : 1
+newbies have no -> knowledge : 1
+no knowledge or -> any : 1
+knowledge or any -> prior : 1
+or any prior -> experience : 1
+any prior experience -> with : 1
+prior experience with -> they : 1
+experience with they -> hang : 1
+with they hang -> around : 1
+they hang around -> with : 1
+hang around with -> others : 1
+around with others -> in : 1
+with others in -> the : 1
+others in the -> hacking : 1
+the hacking community -> with : 1
+hacking community with -> the : 1
+community with the -> motto : 1
+with the motto -> of : 1
+the motto of -> learning : 1
+motto of learning -> the : 1
+of learning the -> tips : 1
+learning the tips -> and : 1
+the tips and -> tools : 1
+tips and tools -> of : 1
+and tools of -> this : 1
+tools of this -> version : 1
+of this version -> of : 1
+this version of -> the : 1
+version of the -> hackers : 1
+the hackers use -> their : 1
+hackers use their -> skills : 1
+use their skills -> to : 1
+their skills to -> publish : 1
+skills to publish -> a : 1
+to publish a -> social : 1
+publish a social -> or : 1
+a social or -> a : 1
+social or a -> religious : 1
+or a religious -> they : 1
+a religious they -> do : 1
+religious they do -> it : 1
+do it with -> the : 1
+it with the -> systems : 1
+with the systems -> or : 1
+the systems or -> networks : 1
+systems or networks -> they : 1
+or networks they -> hacked : 1
+networks they hacked -> this : 1
+they hacked this -> is : 1
+hacked this is -> of : 1
+this is of -> two : 1
+is of two -> types : 1
+of two types -> right : 1
+two types right -> to : 1
+types right to -> information : 1
+right to information -> cyber : 1
+right to information -> group : 1
+to information cyber -> right : 1
+information cyber right -> to : 1
+cyber right to -> information : 1
+to information group -> hacks : 1
+information group hacks -> into : 1
+group hacks into -> a : 1
+hacks into a -> system : 1
+into a system -> with : 1
+a system with -> the : 1
+system with the -> intent : 1
+system with the -> latest : 1
+with the intent -> of : 1
+the intent of -> gathering : 1
+intent of gathering -> information : 1
+of gathering information -> which : 1
+gathering information which -> is : 1
+information which is -> confidential : 1
+which is confidential -> from : 1
+is confidential from -> public : 1
+confidential from public -> and : 1
+from public and -> private : 1
+public and private -> sources : 1
+and private sources -> and : 1
+private sources and -> give : 1
+sources and give -> it : 1
+and give it -> to : 1
+give it to -> the : 1
+it to the -> public : 1
+it to the -> hashed : 1
+to the public -> cyber : 1
+the public cyber -> terrorism : 1
+public cyber terrorism -> has : 1
+cyber terrorism has -> the : 1
+terrorism has the -> sole : 1
+has the sole -> purpose : 1
+the sole purpose -> of : 2
+sole purpose of -> destroying : 1
+sole purpose of -> the : 1
+purpose of destroying -> the : 1
+of destroying the -> operation : 1
+destroying the operation -> and : 1
+the operation and -> making : 1
+operation and making -> it : 1
+and making it -> agencies : 1
+making it agencies -> are : 1
+it agencies are -> hackers : 1
+agencies are hackers -> who : 1
+are hackers who -> work : 1
+hackers who work -> for : 1
+who work for -> the : 1
+work for the -> safeguarding : 1
+for the safeguarding -> of : 1
+the safeguarding of -> the : 1
+safeguarding of the -> national : 1
+of the national -> systems : 1
+the national systems -> from : 1
+national systems from -> foreign : 1
+systems from foreign -> this : 1
+from foreign this -> actually : 1
+foreign this actually -> cannot : 1
+this actually cannot -> be : 1
+actually cannot be -> considered : 1
+cannot be considered -> as : 1
+as hacking as -> they : 1
+hacking as they -> hack : 1
+as they hack -> for : 1
+they hack for -> protecting : 1
+hack for protecting -> the : 1
+for protecting the -> these : 1
+for protecting the -> computer : 1
+protecting the these -> agencies : 1
+the these agencies -> usually : 1
+these agencies usually -> hire : 1
+agencies usually hire -> blue : 1
+usually hire blue -> hat : 1
+hire blue hat -> this : 1
+blue hat this -> is : 1
+hat this is -> a : 1
+this is a -> kind : 1
+this is a -> bit : 1
+is a kind -> of : 1
+a kind of -> defence : 1
+kind of defence -> can : 1
+of defence can -> be : 1
+defence can be -> considered : 1
+can be considered -> as : 1
+as a group -> of : 1
+a group of -> black : 1
+group of black -> hat : 1
+of black hat -> hackers : 1
+hat hackers on -> other : 1
+hackers on other -> expert : 1
+on other expert -> level : 1
+expert level hackers -> who : 1
+level hackers who -> are : 1
+hackers who are -> working : 1
+who are working -> under : 1
+are working under -> are : 1
+working under are -> particular : 1
+under are particular -> community : 1
+are particular community -> with : 1
+particular community with -> a : 1
+community with a -> common : 1
+with a common -> they : 1
+a common they -> break : 1
+common they break -> into : 1
+they break into -> the : 1
+break into the -> systems : 1
+break into the -> cracking : 1
+into the systems -> of : 1
+the systems of -> private : 1
+systems of private -> organizations : 1
+of private organizations -> and : 1
+private organizations and -> government : 1
+organizations and government -> with : 1
+and government with -> the : 1
+government with the -> obtained : 1
+with the obtained -> they : 1
+the obtained they -> aid : 1
+obtained they aid -> the : 1
+they aid the -> criminal : 1
+aid the criminal -> objectives : 1
+the criminal objectives -> their : 1
+criminal objectives their -> group : 1
+objectives their group -> hacking : 1
+their group hacking -> tools : 1
+group hacking tools -> are : 1
+hacking tools are -> software : 1
+tools are software -> programs : 1
+are software programs -> designed : 1
+software programs designed -> to : 1
+programs designed to -> help : 1
+designed to help -> hackers : 1
+designed to help -> hack : 1
+to help hackers -> gain : 1
+help hackers gain -> unauthorized : 1
+hackers gain unauthorized -> access : 1
+gain unauthorized access -> to : 1
+gain unauthorized access -> from : 1
+unauthorized access to -> a : 1
+access to a -> computer : 3
+to a computer -> is : 1
+to a computer -> this : 1
+to a computer -> system : 1
+a computer is -> defined : 1
+computer is defined -> as : 1
+is defined as -> an : 1
+defined as an -> unintended : 1
+as an unintended -> software : 1
+an unintended software -> flaw : 1
+unintended software flaw -> and : 1
+software flaw and -> can : 1
+flaw and can -> be : 1
+can be used -> as : 1
+can be used -> for : 2
+can be used -> to : 1
+be used as -> an : 1
+used as an -> opening : 1
+as an opening -> used : 1
+an opening used -> by : 1
+opening used by -> hackers : 1
+used by hackers -> to : 1
+by hackers to -> sending : 1
+hackers to sending -> malicious : 1
+to sending malicious -> software : 1
+sending malicious software -> like : 1
+malicious software like -> trojan : 1
+software like trojan -> worms : 1
+like trojan worms -> vulnerability : 1
+trojan worms vulnerability -> scanner : 1
+worms vulnerability scanner -> is : 1
+vulnerability scanner is -> a : 1
+vulnerability scanner is -> used : 1
+scanner is a -> very : 1
+scanner is a -> computer : 1
+is a very -> efficient : 1
+a very efficient -> tool : 1
+very efficient tool -> used : 1
+efficient tool used -> for : 1
+tool used for -> checking : 1
+used for checking -> weak : 1
+used for checking -> the : 1
+for checking weak -> spots : 1
+checking weak spots -> in : 1
+weak spots in -> a : 2
+spots in a -> computer : 1
+spots in a -> given : 1
+in a computer -> system : 2
+computer system or -> a : 1
+computer system or -> transported : 1
+system or a -> it : 1
+or a it -> is : 2
+it is basically -> a : 1
+is basically a -> computer : 1
+basically a computer -> the : 1
+a computer the -> sole : 1
+computer the sole -> purpose : 1
+purpose of the -> scanner : 1
+of the scanner -> is : 1
+the scanner is -> to : 1
+scanner is to -> access : 1
+scanner is to -> check : 1
+is to access -> applications : 1
+to access applications -> and : 1
+access applications and -> computer : 1
+applications and computer -> systems : 1
+and computer systems -> for : 1
+computer systems for -> this : 1
+systems for this -> is : 1
+for this is -> used : 1
+this is used -> by : 1
+this is used -> for : 2
+is used by -> both : 1
+used by both -> black : 1
+by both black -> hat : 1
+both black hat -> hackers : 1
+hackers and computer -> security : 1
+and computer security -> managers : 1
+computer security managers -> who : 1
+security managers who -> are : 1
+managers who are -> usually : 1
+who are usually -> white : 1
+are usually white -> hat : 1
+usually white hat -> hackers : 1
+white hat hackers -> or : 1
+white hat hackers -> this : 1
+hat hackers or -> blue : 1
+hackers or blue -> hat : 1
+or blue hat -> the : 1
+blue hat the -> black : 1
+hat the black -> hat : 1
+the black hat -> hackers : 1
+hat hackers use -> this : 1
+hackers use this -> for : 1
+use this for -> checking : 1
+use this for -> the : 1
+this for checking -> for : 1
+for checking for -> weaknesses : 1
+checking for weaknesses -> and : 1
+checking for weaknesses -> but : 1
+for weaknesses and -> gain : 1
+weaknesses and gain -> unauthorized : 1
+and gain unauthorized -> access : 1
+unauthorized access from -> those : 1
+access from those -> in : 1
+from those in -> the : 1
+those in the -> hands : 1
+in the hands -> of : 1
+the hands of -> white : 1
+hands of white -> hat : 1
+of white hat -> hackers : 1
+hat hackers this -> is : 1
+hackers this is -> used : 1
+used for the -> same : 1
+for the same -> purpose : 1
+the same purpose -> of : 1
+same purpose of -> checking : 1
+purpose of checking -> for : 1
+of checking for -> weaknesses : 1
+for weaknesses but -> they : 1
+weaknesses but they -> use : 1
+but they use -> it : 1
+it for protecting -> the : 1
+protecting the computer -> data : 1
+the computer data -> is : 1
+computer data is -> transmitted : 1
+data is transmitted -> through : 1
+is transmitted through -> the : 1
+transmitted through the -> the : 1
+through the the -> vulnerability : 1
+the the vulnerability -> scanner : 1
+the vulnerability scanner -> is : 1
+scanner is used -> for : 1
+for checking the -> ports : 1
+checking the ports -> which : 1
+the ports which -> are : 1
+ports which are -> open : 1
+which are open -> or : 1
+are open or -> which : 1
+open or which -> have : 1
+or which have -> available : 1
+which have available -> access : 1
+have available access -> to : 1
+available access to -> a : 1
+a computer this -> is : 1
+computer this is -> used : 1
+used for quickly -> checking : 1
+for quickly checking -> the : 1
+quickly checking the -> network : 1
+checking the network -> for : 1
+the network for -> computers : 1
+network for computers -> with : 1
+for computers with -> known : 1
+computers with known -> by : 1
+with known by -> limiting : 1
+known by limiting -> the : 1
+by limiting the -> the : 1
+limiting the the -> firewall : 1
+the the firewall -> defends : 1
+the firewall defends -> the : 1
+firewall defends the -> although : 1
+defends the although -> it : 1
+the although it -> is : 1
+although it is -> still : 1
+it is still -> of : 1
+it is still -> possible : 1
+is still of -> vulnerability : 1
+still of vulnerability -> port : 1
+of vulnerability port -> scanner : 1
+vulnerability port scanner -> is : 1
+port scanner is -> a : 1
+is a computer -> application : 1
+a computer application -> which : 1
+computer application which -> is : 1
+application which is -> solely : 1
+which is solely -> designed : 1
+is solely designed -> for : 1
+solely designed for -> searching : 1
+designed for searching -> open : 1
+for searching open -> ports : 1
+searching open ports -> on : 1
+open ports on -> a : 1
+ports on a -> server : 1
+on a server -> or : 2
+a server or -> a : 2
+server or a -> the : 1
+server or a -> host : 1
+or a the -> person : 1
+a the person -> who : 1
+the person who -> intends : 1
+person who intends -> to : 1
+who intends to -> use : 1
+intends to use -> this : 1
+to use this -> should : 1
+use this should -> have : 1
+this should have -> basic : 1
+should have basic -> knowledge : 1
+have basic knowledge -> on : 1
+basic knowledge on -> the : 1
+on the attackers -> use : 1
+the attackers use -> this : 1
+attackers use this -> for : 1
+this for the -> identification : 1
+for the identification -> of : 1
+the identification of -> running : 1
+identification of running -> services : 1
+of running services -> on : 1
+running services on -> a : 1
+services on a -> server : 1
+or a host -> with : 1
+a host with -> the : 1
+host with the -> intention : 1
+the intention of -> compromising : 1
+intention of compromising -> the : 1
+of compromising the -> administrators : 1
+compromising the administrators -> on : 1
+the administrators on -> the : 1
+administrators on the -> other : 1
+on the other -> hand : 1
+the other hand -> use : 1
+other hand use -> this : 1
+hand use this -> to : 1
+use this to -> verify : 1
+this to verify -> their : 1
+to verify their -> security : 1
+verify their security -> a : 1
+their security a -> port : 1
+security a port -> scan : 1
+a port scan -> is : 1
+port scan is -> a : 1
+scan is a -> process : 1
+is a process -> which : 1
+a process which -> sends : 1
+process which sends -> requests : 1
+which sends requests -> to : 1
+sends requests to -> a : 1
+requests to a -> selected : 1
+to a selected -> range : 1
+a selected range -> of : 1
+selected range of -> ports : 1
+range of ports -> with : 1
+of ports with -> the : 1
+ports with the -> agenda : 1
+with the agenda -> of : 1
+the agenda of -> finding : 1
+agenda of finding -> an : 1
+of finding an -> active : 1
+finding an active -> this : 1
+an active this -> can : 1
+active this can -> only : 1
+this can only -> find : 1
+can only find -> vulnerability : 1
+only find vulnerability -> and : 1
+find vulnerability and -> cannot : 1
+vulnerability and cannot -> be : 1
+and cannot be -> used : 1
+cannot be used -> for : 1
+be used for -> attacking : 1
+be used for -> collecting : 1
+be used for -> gathering : 1
+used for attacking -> or : 1
+for attacking or -> most : 1
+attacking or most -> of : 1
+or most of -> the : 1
+of the uses -> of : 1
+the uses of -> this : 1
+uses of this -> scan : 1
+of this scan -> are : 1
+this scan are -> just : 1
+scan are just -> probes : 1
+are just probes -> and : 1
+just probes and -> not : 1
+probes and not -> vulnerability : 1
+and not vulnerability -> purpose : 1
+not vulnerability purpose -> of : 1
+vulnerability purpose of -> this : 1
+purpose of this -> scanner : 1
+of this scanner -> is : 1
+this scanner is -> to : 1
+is to check -> for : 1
+check for weaknesses -> on : 1
+for weaknesses on -> the : 1
+weaknesses on the -> network : 1
+on the network -> with : 1
+the network with -> which : 1
+network with which -> the : 1
+with which the -> computer : 1
+which the computer -> systems : 1
+computer systems are -> the : 1
+systems are the -> hacker : 1
+are the hacker -> looks : 1
+the hacker looks -> for : 1
+hacker looks for -> a : 1
+looks for a -> weakness : 1
+for a weakness -> in : 1
+a weakness in -> a : 1
+weakness in a -> network : 1
+in a network -> with : 1
+network with this -> scanner : 1
+with this scanner -> and : 1
+this scanner and -> can : 1
+scanner and can -> break : 1
+and can break -> into : 1
+can break into -> the : 1
+into the cracking -> is : 1
+the cracking is -> the : 1
+cracking is the -> process : 1
+process of recovering -> which : 1
+of recovering which -> are : 1
+recovering which are -> transmitted : 1
+which are transmitted -> and : 1
+are transmitted and -> stored : 1
+transmitted and stored -> in : 1
+and stored in -> the : 1
+stored in the -> computer : 1
+in the computer -> with : 1
+the computer with -> you : 1
+computer with you -> can : 1
+with you can -> gain : 1
+you can gain -> access : 1
+can gain access -> to : 1
+computer system by -> gaining : 1
+system by gaining -> the : 1
+by gaining the -> password : 1
+gaining the password -> of : 1
+the password of -> the : 1
+password of the -> the : 1
+of the the -> time : 1
+the the time -> required : 1
+the time required -> for : 1
+time required for -> cracking : 1
+required for cracking -> password : 1
+for cracking password -> depends : 1
+cracking password depends -> entirely : 1
+password depends entirely -> on : 1
+depends entirely on -> the : 1
+entirely on the -> strength : 1
+on the strength -> of : 1
+the strength of -> the : 1
+strength of the -> password : 1
+of the password -> most : 1
+the password most -> of : 1
+password most of -> the : 1
+of the methods -> used : 1
+the methods used -> usually : 1
+methods used usually -> require : 1
+used usually require -> the : 1
+usually require the -> computer : 1
+require the computer -> system : 1
+the computer system -> for : 1
+computer system for -> producing : 1
+system for producing -> many : 1
+for producing many -> which : 1
+producing many which -> are : 1
+many which are -> then : 1
+which are then -> checked : 1
+are then checked -> are : 1
+then checked are -> many : 1
+checked are many -> methods : 1
+are many methods -> for : 1
+many methods for -> cracking : 1
+methods for cracking -> brute : 1
+for cracking brute -> force : 1
+cracking brute force -> is : 1
+brute force is -> one : 1
+force is one -> of : 1
+is one of -> it : 1
+one of it -> is : 1
+of it is -> a : 1
+it is a -> time : 1
+is a time -> taking : 1
+a time taking -> process : 1
+time taking process -> as : 1
+taking process as -> it : 1
+process as it -> uses : 1
+as it uses -> all : 1
+it uses all -> possible : 1
+uses all possible -> combinations : 1
+all possible combinations -> of : 1
+possible combinations of -> letters : 1
+combinations of letters -> and : 1
+of letters and -> words : 1
+letters and words -> until : 1
+and words until -> it : 1
+words until it -> methods : 1
+until it methods -> like : 1
+it methods like -> word : 1
+methods like word -> list : 1
+like word list -> but : 1
+word list but -> on : 1
+list but on -> dictionary : 1
+but on dictionary -> attacks : 1
+on dictionary attacks -> are : 1
+dictionary attacks are -> performed : 1
+attacks are performed -> before : 1
+are performed before -> using : 1
+performed before using -> brute : 1
+before using brute -> this : 1
+using brute this -> is : 1
+brute this is -> done : 1
+this is done -> to : 1
+is done to -> reduce : 1
+done to reduce -> the : 1
+to reduce the -> number : 1
+reduce the number -> of : 1
+the number of -> sniffers : 1
+the number of -> words : 1
+number of sniffers -> are : 1
+of sniffers are -> also : 1
+sniffers are also -> called : 1
+are also called -> as : 1
+called as protocol -> they : 1
+as protocol they -> can : 1
+protocol they can -> be : 1
+used for collecting -> passwords : 1
+for collecting passwords -> using : 1
+collecting passwords using -> packet : 1
+passwords using packet -> capture : 1
+using packet capture -> and : 1
+packet capture and -> injection : 1
+capture and injection -> as : 1
+and injection as -> we : 1
+injection as we -> the : 1
+as we the -> data : 1
+we the data -> is : 1
+the data is -> sent : 1
+data is sent -> in : 1
+is sent in -> the : 1
+sent in the -> form : 1
+form of so -> if : 1
+of so if -> you : 1
+so if you -> can : 1
+if you can -> retrieve : 1
+you can retrieve -> the : 1
+can retrieve the -> packets : 1
+retrieve the packets -> sent : 1
+the packets sent -> or : 1
+packets sent or -> he : 1
+sent or he -> can : 1
+or he can -> have : 1
+he can have -> access : 1
+can have access -> to : 1
+have access to -> the : 1
+to the password -> or : 1
+the password or -> any : 1
+password or any -> other : 1
+or any other -> data : 1
+any other data -> which : 1
+other data which -> is : 1
+data which is -> packet : 1
+which is packet -> sniffers : 1
+is packet sniffers -> intercept : 1
+packet sniffers intercept -> the : 1
+sniffers intercept the -> network : 1
+intercept the network -> attack : 1
+the network attack -> is : 1
+network attack is -> nothing : 1
+attack is nothing -> but : 1
+is nothing but -> making : 1
+nothing but making -> a : 1
+but making a -> fake : 1
+making a fake -> website : 1
+a fake website -> or : 1
+fake website or -> program : 1
+website or program -> which : 1
+or program which -> looks : 1
+program which looks -> like : 1
+which looks like -> the : 1
+looks like the -> user : 1
+like the user -> gets : 1
+the user gets -> fooled : 1
+user gets fooled -> thinking : 1
+gets fooled thinking -> that : 1
+fooled thinking that -> it : 1
+thinking that it -> is : 1
+that it is -> the : 1
+that it is -> not : 1
+it is the -> original : 1
+is the original -> website : 1
+the original website -> or : 1
+original website or -> the : 1
+website or the -> main : 1
+or the main -> purpose : 1
+the main purpose -> of : 1
+main purpose of -> spoofing : 1
+purpose of spoofing -> attack : 1
+of spoofing attack -> is : 1
+spoofing attack is -> to : 1
+attack is to -> collect : 1
+is to collect -> confidential : 1
+to collect confidential -> information : 1
+collect confidential information -> such : 1
+confidential information such -> as : 1
+information such as -> id : 1
+such as id -> and : 1
+as id and -> are : 1
+id and are -> many : 1
+and are many -> types : 1
+are many types -> of : 1
+many types of -> some : 1
+types of some -> of : 1
+of some of -> them : 1
+some of them -> are : 2
+of them are -> new : 1
+of them are -> viruses : 1
+them are new -> some : 1
+are new some -> website : 1
+new some website -> only : 1
+some website only -> allows : 1
+website only allows -> access : 1
+only allows access -> from : 1
+allows access from -> a : 1
+access from a -> given : 1
+from a given -> set : 1
+a given set -> of : 1
+given set of -> approved : 1
+set of approved -> login : 1
+of approved login -> here : 1
+approved login here -> the : 1
+login here the -> http : 1
+here the http -> request : 1
+the http request -> is : 1
+http request is -> and : 1
+request is and -> only : 1
+is and only -> referred : 1
+and only referred -> headers : 1
+only referred headers -> are : 1
+referred headers are -> this : 1
+headers are this -> allows : 1
+are this allows -> them : 1
+this allows them -> to : 1
+allows them to -> gain : 1
+them to gain -> unauthorized : 1
+to gain unauthorized -> new : 1
+gain unauthorized new -> address : 1
+unauthorized new address -> this : 1
+new address this -> type : 1
+address this type -> of : 1
+this type of -> spoofing : 1
+type of spoofing -> is : 1
+of spoofing is -> commonly : 1
+spoofing is commonly -> used : 1
+is commonly used -> by : 1
+commonly used by -> spammers : 1
+used by spammers -> to : 1
+by spammers to -> hide : 1
+spammers to hide -> the : 1
+to hide the -> content : 1
+hide the content -> and : 1
+the content and -> mislead : 1
+content and mislead -> the : 1
+and mislead the -> user : 1
+mislead the user -> to : 1
+the user to -> malicious : 1
+user to malicious -> links : 1
+to malicious links -> or : 1
+malicious links or -> email : 1
+links or email -> engineering : 1
+or email engineering -> is : 1
+email engineering is -> a : 1
+engineering is a -> more : 1
+is a more -> direct : 1
+a more direct -> way : 1
+more direct way -> of : 1
+direct way of -> hacking : 1
+way of hacking -> without : 1
+of hacking without -> using : 1
+hacking without using -> a : 1
+without using a -> here : 1
+using a here -> the : 1
+a here the -> hacker : 1
+here the hacker -> gets : 2
+the hacker gets -> the : 2
+hacker gets the -> information : 1
+hacker gets the -> trust : 1
+gets the information -> by : 1
+the information by -> using : 1
+information by using -> some : 1
+by using some -> of : 1
+using some of -> the : 1
+some of the -> social : 1
+some of the -> viruses : 1
+of the social -> engineering : 1
+the social engineering -> here : 1
+social engineering here -> the : 1
+engineering here the -> hacker : 1
+gets the trust -> of : 1
+the trust of -> the : 1
+trust of the -> user : 1
+of the user -> and : 1
+the user and -> makes : 1
+user and makes -> them : 1
+and makes them -> reveal : 1
+makes them reveal -> their : 1
+them reveal their -> password : 1
+reveal their password -> or : 1
+their password or -> other : 1
+password or other -> the : 1
+or other the -> hackers : 1
+other the hackers -> play : 1
+the hackers play -> the : 1
+hackers play the -> role : 1
+play the role -> of : 1
+the role of -> the : 1
+role of the -> users : 1
+of the users -> who : 1
+the users who -> cannot : 1
+users who cannot -> access : 1
+who cannot access -> his : 1
+cannot access his -> trojan : 1
+access his trojan -> horse : 1
+his trojan horse -> is : 1
+trojan horse is -> a : 2
+horse is a -> malware : 1
+horse is a -> small : 1
+is a malware -> program : 1
+a malware program -> which : 1
+malware program which -> is : 1
+program which is -> non : 1
+which is non -> self : 1
+is non self -> they : 1
+non self they -> can : 1
+self they can -> be : 1
+used for gathering -> confidential : 1
+for gathering confidential -> formation : 1
+gathering confidential formation -> like : 1
+confidential formation like -> it : 1
+formation like it -> acts : 1
+like it acts -> like : 1
+it acts like -> a : 1
+acts like a -> backdoor : 1
+like a backdoor -> for : 1
+a backdoor for -> unauthorized : 1
+backdoor for unauthorized -> access : 1
+for unauthorized access -> for : 1
+unauthorized access for -> the : 1
+access for the -> systems : 1
+for the systems -> that : 1
+the systems that -> are : 1
+systems that are -> they : 1
+that are they -> cannot : 1
+are they cannot -> be : 1
+they cannot be -> detected : 1
+cannot be detected -> these : 1
+be detected these -> provide : 1
+detected these provide -> remote : 1
+these provide remote -> access : 1
+provide remote access -> to : 1
+remote access to -> trojan : 1
+access to trojan -> horse : 1
+to trojan horse -> is : 1
+is a small -> program : 1
+a small program -> which : 1
+small program which -> pretends : 1
+program which pretends -> to : 1
+which pretends to -> do : 1
+pretends to do -> one : 1
+to do one -> thing : 1
+do one thing -> but : 1
+one thing but -> in : 1
+thing but in -> reality : 1
+but in reality -> it : 1
+in reality it -> does : 1
+reality it does -> these : 1
+it does these -> are : 1
+does these are -> used : 1
+these are used -> as : 1
+are used as -> gateways : 1
+used as gateways -> for : 1
+as gateways for -> the : 1
+gateways for the -> intruder : 1
+for the intruder -> to : 1
+the intruder to -> gain : 1
+intruder to gain -> they : 1
+to gain they -> stay : 1
+gain they stay -> on : 1
+they stay on -> the : 1
+stay on the -> computer : 1
+on the computer -> and : 1
+the computer and -> send : 1
+computer and send -> information : 1
+and send information -> to : 1
+send information to -> the : 1
+information to the -> the : 1
+the the trojan -> horse : 1
+the trojan horse -> got : 1
+trojan horse got -> its : 1
+horse got its -> name : 1
+got its name -> from : 1
+its name from -> the : 1
+name from the -> old : 1
+from the old -> greek : 1
+the old greek -> mythology : 1
+old greek mythology -> where : 1
+greek mythology where -> they : 1
+mythology where they -> sent : 1
+where they sent -> in : 1
+they sent in -> a : 1
+sent in a -> horse : 1
+in a horse -> which : 1
+a horse which -> seem : 1
+horse which seem -> like : 1
+which seem like -> a : 1
+seem like a -> threat : 1
+like a threat -> but : 1
+a threat but -> resulted : 1
+threat but resulted -> in : 1
+but resulted in -> the : 1
+resulted in the -> downfall : 1
+in the downfall -> of : 1
+the downfall of -> is : 1
+downfall of is -> a : 1
+of is a -> program : 1
+is a program -> that : 1
+a program that -> self : 1
+program that self -> it : 1
+that self it -> spreads : 1
+self it spreads -> by : 1
+it spreads by -> adding : 1
+spreads by adding -> copies : 1
+by adding copies -> of : 1
+adding copies of -> itself : 1
+copies of itself -> in : 1
+of itself in -> the : 1
+itself in the -> executable : 1
+in the executable -> parts : 1
+the executable parts -> of : 1
+executable parts of -> code : 1
+parts of code -> or : 1
+of code or -> many : 1
+code or many -> viruses : 1
+or many viruses -> are : 1
+many viruses are -> considered : 1
+viruses are considered -> malicious : 1
+are considered malicious -> but : 1
+considered malicious but -> some : 1
+malicious but some -> of : 1
+but some of -> them : 1
+them are viruses -> are : 1
+are viruses are -> of : 1
+viruses are of -> many : 1
+are of many -> some : 1
+of many some -> of : 1
+many some of -> the : 1
+of the viruses -> store : 1
+the viruses store -> passwords : 1
+viruses store passwords -> and : 1
+store passwords and -> other : 1
+passwords and other -> login : 1
+and other login -> data : 1
+other login data -> and : 1
+login data and -> send : 1
+data and send -> them : 1
+and send them -> to : 1
+send them to -> the : 1
+them to the -> hacker : 1
+to the hacker -> who : 1
+the hacker who -> created : 1
+hacker who created -> once : 1
+who created once -> connected : 1
+created once connected -> to : 1
+once connected to -> the : 1
+connected to the -> internet : 1
+to the internet -> these : 1
+the internet these -> viruses : 1
+internet these viruses -> contact : 1
+these viruses contact -> the : 1
+viruses contact the -> hacker : 1
+contact the hacker -> with : 1
+the hacker with -> the : 1
+hacker with the -> gathered : 1
+with the gathered -> is : 1
+the gathered is -> an : 1
+gathered is an -> example : 1
+is an example -> of : 1
+an example of -> a : 1
+example of a -> hacking : 1
+of a hacking -> worms : 1
+a hacking worms -> are : 1
+hacking worms are -> basically : 1
+worms are basically -> used : 1
+are basically used -> for : 1
+basically used for -> detecting : 1
+used for detecting -> the : 1
+for detecting the -> weak : 1
+detecting the weak -> spots : 1
+the weak spots -> in : 1
+in a given -> operating : 1
+a given operating -> hackers : 1
+given operating hackers -> can : 1
+operating hackers can -> use : 1
+hackers can use -> this : 1
+can use this -> information : 1
+use this information -> for : 1
+this information for -> hacking : 1
+information for hacking -> a : 1
+for hacking a -> particular : 1
+hacking a particular -> computer : 1
+a particular computer -> these : 1
+particular computer these -> worms : 1
+computer these worms -> are : 1
+these worms are -> downloaded : 1
+worms are downloaded -> to : 1
+are downloaded to -> your : 1
+downloaded to your -> computer : 1
+to your computer -> system : 1
+your computer system -> without : 1
+your computer system -> and : 1
+computer system without -> your : 1
+system without your -> a : 1
+without your a -> worm : 1
+your a worm -> is : 1
+a worm is -> also : 1
+worm is also -> a : 1
+is also a -> self : 1
+also a self -> propagating : 1
+a self propagating -> unlike : 1
+self propagating unlike -> worm : 1
+propagating unlike worm -> propagates : 1
+unlike worm propagates -> using : 1
+worm propagates using -> the : 1
+propagates using the -> it : 1
+using the it -> is : 1
+the it is -> harmless : 1
+it is harmless -> but : 1
+is harmless but -> it : 1
+harmless but it -> uses : 1
+but it uses -> up : 1
+it uses up -> the : 1
+uses up the -> system : 1
+up the system -> these : 1
+the system these -> send : 1
+system these send -> the : 1
+these send the -> information : 1
+send the information -> required : 1
+the information required -> by : 1
+information required by -> the : 1
+required by the -> hackers : 1
+by the hackers -> to : 1
+the hackers to -> hacking : 1
+hackers to hacking -> software : 1
+to hacking software -> and : 1
+software and software -> are : 1
+and software are -> many : 1
+software are many -> hacking : 1
+are many hacking -> software : 1
+many hacking software -> that : 1
+hacking software that -> you : 1
+software that you -> can : 1
+you can make -> use : 1
+can make use -> of : 1
+make use of -> to : 1
+make use of -> a : 1
+use of to -> make : 1
+of to make -> the : 1
+to make the -> job : 1
+make the job -> what : 1
+the job what -> these : 1
+job what these -> do : 1
+what these do -> is : 1
+these do is -> try : 1
+do is try -> out : 1
+is try out -> all : 1
+try out all -> the : 1
+out all the -> above : 1
+all the above -> mentioned : 1
+the above mentioned -> one : 1
+above mentioned one -> after : 1
+mentioned one after -> the : 1
+one after the -> and : 1
+after the and -> try : 1
+the and try -> and : 1
+and try and -> crack : 1
+try and crack -> the : 1
+and crack the -> they : 1
+crack the they -> will : 1
+the they will -> take : 1
+they will take -> a : 1
+will take a -> little : 1
+take a little -> time : 1
+a little time -> as : 1
+little time as -> they : 1
+time as they -> prefer : 1
+as they prefer -> to : 1
+they prefer to -> try : 1
+prefer to try -> the : 1
+to try the -> easier : 1
+try the easier -> ones : 1
+the easier ones -> first : 1
+easier ones first -> and : 1
+ones first and -> then : 1
+first and then -> move : 1
+and then move -> to : 1
+then move to -> the : 1
+move to the -> tougher : 1
+to the tougher -> but : 1
+the tougher but -> if : 1
+tougher but if -> you : 1
+but if you -> are : 1
+you are really -> desperate : 1
+are really desperate -> and : 1
+really desperate and -> wish : 1
+desperate and wish -> to : 1
+and wish to -> crack : 1
+wish to crack -> a : 1
+to crack a -> password : 1
+crack a password -> at : 1
+a password at -> any : 1
+password at any -> then : 1
+at any then -> it : 1
+any then it -> is : 1
+then it is -> best : 1
+it is best -> that : 1
+is best that -> you : 1
+best that you -> consider : 1
+that you consider -> using : 1
+you consider using -> hacking : 1
+consider using hacking -> hardware : 1
+using hacking hardware -> you : 1
+hacking hardware you -> thought : 1
+hardware you thought -> only : 1
+you thought only -> softwares : 1
+thought only softwares -> could : 1
+only softwares could -> do : 1
+softwares could do -> the : 1
+could do the -> job : 1
+do the job -> for : 1
+the job for -> hacking : 1
+job for hacking -> hardware : 1
+for hacking hardware -> refers : 1
+hacking hardware refers -> to : 1
+hardware refers to -> a : 1
+refers to a -> network : 1
+to a network -> of : 1
+a network of -> computers : 1
+network of computers -> that : 1
+of computers that -> will : 1
+computers that will -> all : 1
+that will all -> work : 1
+will all work -> together : 1
+all work together -> to : 1
+work together to -> help : 1
+together to help -> find : 1
+to help find -> your : 1
+help find your -> these : 1
+find your these -> networks : 1
+your these networks -> of : 1
+these networks of -> computers : 1
+networks of computers -> can : 1
+of computers can -> be : 1
+computers can be -> rented : 1
+can be rented -> for : 1
+be rented for -> a : 1
+rented for a -> fee : 1
+for a fee -> and : 1
+a fee and -> will : 1
+fee and will -> work : 1
+and will work -> at : 1
+will work at -> lightning : 1
+work at lightning -> speed : 1
+at lightning speed -> to : 1
+lightning speed to -> find : 1
+speed to find -> your : 1
+to find your -> they : 1
+to find your -> password : 1
+to find your -> way : 1
+find your they -> are : 1
+your they are -> better : 1
+they are better -> known : 1
+are better known -> as : 1
+better known as -> botnets : 1
+known as botnets -> and : 1
+as botnets and -> are : 1
+botnets and are -> meant : 1
+and are meant -> to : 1
+are meant to -> only : 1
+meant to only -> serve : 1
+to only serve -> the : 1
+only serve the -> purpose : 1
+serve the purpose -> of : 1
+the purpose of -> cracking : 1
+purpose of cracking -> gpus : 1
+of cracking gpus -> are : 1
+cracking gpus are -> designed : 1
+gpus are designed -> to : 1
+are designed to -> help : 1
+to help hack -> a : 1
+help hack a -> password : 1
+hack a password -> and : 1
+a password and -> are : 1
+a password and -> is : 1
+password and are -> much : 1
+and are much -> more : 1
+are much more -> powerful : 1
+much more powerful -> than : 1
+more powerful than -> your : 1
+powerful than your -> regular : 1
+than your regular -> graphical : 1
+your regular graphical -> processing : 1
+regular graphical processing -> units : 1
+graphical processing units -> will : 1
+processing units will -> make : 1
+units will make -> use : 1
+will make use -> of : 1
+use of a -> video : 1
+use of a -> large : 1
+of a video -> card : 1
+a video card -> to : 1
+video card to -> find : 1
+card to find -> your : 1
+find your password -> at : 1
+your password at -> a : 1
+password at a -> superfast : 1
+at a superfast -> from : 1
+a superfast from -> there : 1
+superfast from there -> are : 1
+from there are -> also : 1
+there are also -> small : 1
+are also small -> devices : 1
+also small devices -> that : 1
+small devices that -> have : 1
+devices that have -> been : 1
+that have been -> built : 1
+have been built -> to : 1
+been built to -> cater : 1
+built to cater -> to : 1
+to cater to -> hacking : 1
+cater to hacking -> account : 1
+to hacking account -> they : 1
+hacking account they -> might : 1
+account they might -> look : 1
+they might look -> small : 1
+might look small -> but : 1
+look small but -> will : 1
+small but will -> work : 1
+but will work -> faster : 1
+will work faster -> than : 1
+work faster than -> a : 1
+faster than a -> few : 1
+than a few -> hundred : 1
+a few hundred -> all : 1
+few hundred all -> these : 1
+hundred all these -> will : 1
+all these will -> make : 1
+these will make -> for : 1
+will make for -> great : 1
+make for great -> gizmos : 1
+for great gizmos -> but : 1
+great gizmos but -> you : 1
+gizmos but you -> must : 1
+but you must -> be : 1
+you must be -> willing : 1
+must be willing -> to : 1
+be willing to -> shed : 1
+willing to shed -> to : 1
+to shed to -> buy : 1
+shed to buy -> a : 1
+to buy a -> single : 1
+buy a single -> viruses : 1
+a single viruses -> can : 1
+single viruses can -> wreak : 1
+viruses can wreak -> havoc : 1
+can wreak havoc -> in : 1
+wreak havoc in -> your : 1
+havoc in your -> computer : 1
+in your computer -> system : 1
+system and cause -> you : 1
+and cause you -> to : 1
+cause you to -> lose : 1
+you to lose -> have : 1
+to lose have -> your : 1
+lose have your -> passwords : 1
+have your passwords -> compromised : 1
+your passwords compromised -> so : 1
+passwords compromised so -> it : 1
+compromised so it -> becomes : 1
+so it becomes -> all : 1
+it becomes all -> the : 1
+becomes all the -> more : 1
+all the more -> important : 1
+the more important -> for : 1
+more important for -> you : 1
+important for you -> to : 1
+for you to -> protect : 1
+for you to -> have : 1
+you to protect -> your : 1
+to protect your -> system : 1
+protect your system -> against : 1
+your system against -> these : 1
+system against these -> viruses : 1
+against these viruses -> and : 1
+these viruses and -> here : 1
+viruses and here -> are : 1
+and here are -> some : 2
+here are some -> ways : 1
+here are some -> techniques : 1
+are some ways -> in : 1
+some ways in -> which : 1
+ways in which -> you : 1
+in which you -> can : 1
+which you can -> do : 1
+you can do -> very : 1
+can do very -> first : 1
+do very first -> step : 1
+very first step -> is : 1
+first step is -> for : 1
+step is for -> you : 1
+is for you -> to : 1
+you to have -> an : 1
+to have an -> anti : 1
+have an anti -> virus : 1
+an anti virus -> the : 1
+anti virus the -> antivirus : 1
+virus the antivirus -> will : 1
+the antivirus will -> work : 1
+antivirus will work -> over : 1
+will work over -> if : 1
+work over if -> need : 1
+over if need -> but : 1
+if need but -> keep : 1
+need but keep -> your : 1
+but keep your -> systems : 1
+keep your systems -> clean : 1
+your systems clean -> and : 1
+systems clean and -> root : 1
+clean and root -> out : 1
+and root out -> any : 1
+root out any -> but : 1
+out any but -> make : 1
+any but make -> sure : 1
+but make sure -> to : 1
+make sure to -> update : 1
+sure to update -> your : 1
+to update your -> program : 1
+update your program -> on : 1
+your program on -> a : 1
+program on a -> monthly : 1
+on a monthly -> basis : 1
+a monthly basis -> as : 1
+monthly basis as -> an : 1
+basis as an -> and : 1
+as an and -> file : 1
+an and file -> will : 1
+and file will -> be : 1
+file will be -> of : 1
+will be of -> no : 1
+be of no -> careful : 1
+of no careful -> of : 1
+no careful of -> what : 1
+careful of what -> you : 1
+of what you -> click : 1
+of what you -> could : 1
+what you click -> on : 1
+you click on -> when : 1
+click on when -> you : 1
+on when you -> are : 1
+when you are -> it : 1
+you are it -> is : 1
+are it is -> obvious : 1
+it is obvious -> that : 1
+is obvious that -> your : 1
+obvious that your -> computer : 1
+that your computer -> will : 1
+your computer will -> not : 1
+computer will not -> suffer : 1
+will not suffer -> from : 1
+not suffer from -> a : 1
+suffer from a -> virus : 1
+from a virus -> attack : 1
+a virus attack -> just : 1
+virus attack just -> by : 1
+attack just by -> being : 1
+just by being -> on : 1
+by being on -> a : 1
+being on a -> web : 1
+on a web -> page : 1
+a web page -> or : 1
+web page or -> you : 1
+page or you -> will : 1
+or you will -> have : 1
+you will have -> to : 1
+will have to -> open : 1
+have to open -> or : 1
+to open or -> launch : 1
+open or launch -> an : 1
+or launch an -> infected : 1
+launch an infected -> file : 1
+an infected file -> in : 1
+infected file in -> order : 1
+file in order -> for : 1
+in order for -> it : 1
+order for it -> to : 1
+for it to -> attack : 1
+it to attack -> your : 1
+to attack your -> computer : 1
+attack your computer -> and : 1
+your computer and -> be : 1
+computer and be -> sure : 1
+and be sure -> to : 1
+be sure to -> click : 1
+sure to click -> on : 1
+to click on -> safe : 1
+click on safe -> sure : 1
+on safe sure -> you : 1
+safe sure you -> have : 1
+sure you have -> a : 1
+you have a -> back : 1
+have a back -> up : 1
+a back up -> file : 1
+back up file -> for : 1
+up file for -> each : 1
+file for each -> of : 1
+for each of -> your : 1
+each of your -> important : 1
+each of your -> dictionary : 1
+of your important -> and : 1
+your important and -> and : 1
+important and and -> spread : 1
+and and spread -> it : 1
+and spread it -> over : 1
+spread it over -> several : 1
+it over several -> devices : 1
+over several devices -> to : 1
+several devices to -> help : 1
+devices to help -> keep : 1
+to help keep -> them : 1
+help keep them -> how : 1
+keep them how -> to : 1
+them how to -> hack : 1
+an email a -> password : 1
+email a password -> can : 1
+a password can -> sound : 1
+password can sound -> both : 1
+can sound both -> cool : 1
+sound both cool -> and : 1
+both cool and -> illegal : 1
+cool and illegal -> at : 1
+and illegal at -> the : 1
+illegal at the -> same : 1
+at the same -> but : 1
+the same but -> is : 1
+same but is -> it : 1
+but is it -> really : 1
+is it really -> as : 1
+it really as -> simple : 1
+really as simple -> to : 1
+as simple to -> crack : 1
+simple to crack -> one : 1
+to crack one -> and : 1
+crack one and -> access : 1
+one and access -> another : 1
+and access another -> personal : 1
+access another personal -> find : 1
+another personal find -> hacking : 1
+personal find hacking -> a : 1
+find hacking a -> or : 1
+hacking a or -> cracking : 1
+a or cracking -> a : 1
+or cracking a -> refers : 1
+cracking a refers -> to : 1
+a refers to -> retrieving : 1
+refers to retrieving -> a : 1
+to retrieving a -> secure : 1
+retrieving a secure -> password : 1
+a secure password -> by : 1
+secure password by -> running : 1
+password by running -> through : 1
+by running through -> data : 1
+running through data -> that : 1
+through data that -> is : 1
+data that is -> stored : 1
+that is stored -> in : 1
+is stored in -> a : 1
+stored in a -> computer : 1
+system or transported -> from : 1
+or transported from -> can : 1
+transported from can -> be : 1
+from can be -> done : 1
+can be done -> manually : 1
+be done manually -> by : 1
+done manually by -> entering : 1
+manually by entering -> the : 1
+by entering the -> or : 1
+entering the or -> allow : 1
+the or allow -> the : 1
+or allow the -> computer : 1
+allow the computer -> to : 1
+the computer to -> run : 1
+the computer to -> find : 1
+computer to run -> an : 1
+to run an -> algorithm : 1
+run an algorithm -> that : 1
+an algorithm that -> will : 1
+algorithm that will -> try : 1
+that will try -> out : 1
+will try out -> several : 1
+try out several -> passwords : 1
+out several passwords -> until : 1
+several passwords until -> the : 1
+passwords until the -> right : 1
+until the right -> one : 1
+the right one -> is : 1
+right one is -> people : 1
+one is people -> hack : 1
+is people hack -> passwords : 1
+people hack passwords -> for : 1
+hack passwords for -> several : 1
+passwords for several -> reasons : 1
+for several reasons -> such : 1
+several reasons such -> as : 1
+such as to -> avail : 1
+as to avail -> bank : 1
+to avail bank -> information : 1
+avail bank information -> or : 1
+bank information or -> to : 1
+information or to -> look : 1
+or to look -> for : 1
+to look for -> an : 1
+look for an -> important : 1
+for an important -> but : 1
+an important but -> all : 1
+important but all -> with : 1
+but all with -> the : 1
+all with the -> same : 1
+with the same -> to : 1
+the same to -> avail : 1
+same to avail -> unauthorized : 1
+to avail unauthorized -> access : 1
+avail unauthorized access -> into : 1
+unauthorized access into -> personal : 1
+access into personal -> makes : 1
+into personal makes -> it : 1
+personal makes it -> highly : 1
+makes it highly -> illegal : 1
+it highly illegal -> and : 1
+highly illegal and -> can : 1
+illegal and can -> land : 1
+and can land -> the : 1
+can land the -> hacker : 1
+land the hacker -> in : 1
+the hacker in -> big : 1
+hacker in big -> but : 1
+in big but -> doing : 1
+big but doing -> it : 1
+but doing it -> the : 1
+doing it the -> right : 1
+it the right -> way : 1
+the right way -> can : 1
+right way can -> help : 1
+way can help -> prevent : 1
+can help prevent -> the : 1
+help prevent the -> owner : 1
+prevent the owner -> of : 1
+the owner of -> the : 1
+owner of the -> account : 1
+of the account -> from : 1
+the account from -> knowing : 1
+account from knowing -> that : 1
+from knowing that -> their : 1
+knowing that their -> password : 1
+that their password -> has : 1
+their password has -> been : 1
+password has been -> and : 1
+has been and -> the : 1
+been and the -> hacker : 1
+and the hacker -> can : 1
+the hacker can -> escape : 1
+hacker can escape -> the : 1
+can escape the -> past : 1
+escape the past -> hacking : 1
+the past hacking -> has : 1
+past hacking has -> become : 1
+hacking has become -> just : 1
+has become just -> so : 1
+become just so -> prominent : 1
+just so prominent -> that : 1
+so prominent that -> most : 1
+prominent that most -> email : 1
+that most email -> providers : 1
+most email providers -> and : 1
+email providers and -> social : 1
+providers and social -> media : 1
+and social media -> platforms : 1
+social media platforms -> ask : 1
+media platforms ask -> the : 1
+platforms ask the -> account : 1
+ask the account -> owner : 1
+the account owner -> to : 1
+account owner to -> use : 1
+owner to use -> a : 1
+to use a -> strong : 1
+to use a -> web : 1
+use a strong -> password : 1
+a strong password -> and : 1
+strong password and -> include : 1
+password and include -> one : 1
+and include one -> capital : 1
+include one capital -> a : 1
+one capital a -> number : 1
+capital a number -> and : 1
+a number and -> also : 1
+number and also -> a : 1
+and also a -> this : 1
+also a this -> causes : 1
+a this causes -> people : 1
+this causes people -> to : 1
+causes people to -> select : 1
+people to select -> a : 1
+to select a -> unique : 1
+select a unique -> password : 1
+a unique password -> that : 1
+a unique password -> been : 1
+unique password that -> is : 1
+password that is -> not : 1
+that is not -> easy : 1
+is not easy -> to : 1
+not easy to -> there : 1
+easy to there -> is : 1
+to there is -> also : 1
+there is also -> the : 1
+is also the -> facility : 1
+is also the -> most : 1
+also the facility -> of : 1
+the facility of -> sending : 1
+facility of sending -> email : 1
+of sending email -> notifications : 1
+sending email notifications -> if : 1
+email notifications if -> someone : 1
+notifications if someone -> tries : 1
+if someone tries -> to : 1
+someone tries to -> enter : 1
+tries to enter -> the : 1
+to enter the -> password : 1
+enter the password -> several : 1
+the password several -> times : 1
+password several times -> or : 1
+several times or -> is : 1
+times or is -> trying : 1
+or is trying -> to : 1
+is trying to -> enter : 1
+trying to enter -> it : 1
+to enter it -> from : 1
+enter it from -> a : 1
+it from a -> different : 1
+from a different -> all : 1
+a different all -> this : 1
+different all this -> makes : 1
+all this makes -> it : 1
+this makes it -> very : 1
+makes it very -> difficult : 1
+it very difficult -> to : 1
+very difficult to -> hack : 1
+difficult to hack -> a : 1
+to hack a -> it : 1
+to hack a -> computer : 1
+hack a it -> is : 1
+is still possible -> to : 1
+still possible to -> hack : 1
+possible to hack -> regardless : 1
+possible to hack -> a : 1
+to hack regardless -> of : 1
+hack regardless of -> whether : 1
+regardless of whether -> it : 1
+of whether it -> is : 1
+whether it is -> letters : 1
+it is letters -> long : 1
+is letters long -> or : 1
+letters long or -> or : 1
+long or or -> has : 1
+or or has -> numeric : 1
+or has numeric -> values : 1
+has numeric values -> or : 1
+numeric values or -> can : 1
+values or can -> manually : 1
+or can manually -> try : 1
+can manually try -> and : 1
+manually try and -> enter : 1
+try and enter -> passwords : 1
+and enter passwords -> that : 1
+enter passwords that -> you : 1
+passwords that you -> think : 1
+that you think -> will : 1
+you think will -> for : 1
+think will for -> you : 1
+will for you -> must : 1
+for you must -> bear : 1
+you must bear -> in : 1
+must bear in -> mind : 1
+bear in mind -> a : 1
+in mind a -> few : 1
+mind a few -> principles : 1
+a few principles -> that : 1
+few principles that -> guide : 1
+principles that guide -> choice : 1
+that guide choice -> for : 1
+guide choice for -> to : 1
+choice for to -> make : 1
+for to make -> it : 1
+to make it -> you : 1
+make it you -> can : 1
+you can go -> through : 1
+can go through -> a : 1
+go through a -> list : 1
+through a list -> that : 1
+a list that -> has : 1
+list that has -> been : 1
+that has been -> compiled : 1
+has been compiled -> containing : 1
+been compiled containing -> the : 1
+compiled containing the -> most : 1
+containing the most -> common : 1
+the most common -> passwords : 1
+most common passwords -> that : 1
+common passwords that -> people : 1
+passwords that people -> use : 1
+that people use -> to : 1
+people use to -> secure : 1
+use to secure -> their : 1
+to secure their -> and : 1
+secure their and -> you : 1
+their and you -> just : 1
+and you just -> might : 1
+you just might -> find : 1
+just might find -> yours : 1
+might find yours -> manually : 1
+find yours manually -> doing : 1
+yours manually doing -> it : 1
+manually doing it -> might : 1
+doing it might -> take : 1
+it might take -> a : 1
+might take a -> lot : 1
+take a lot -> of : 1
+lot of time -> and : 1
+of time and -> you : 1
+time and you -> can : 1
+and you can -> end : 1
+and you can -> be : 1
+you can end -> up : 1
+can end up -> leaving : 1
+end up leaving -> behind : 1
+up leaving behind -> uncovered : 1
+leaving behind uncovered -> which : 1
+behind uncovered which -> might : 1
+uncovered which might -> get : 1
+which might get -> you : 1
+might get you -> in : 1
+get you in -> so : 1
+you in so -> you : 1
+in so you -> can : 1
+so you can -> trust : 1
+so you can -> imagine : 1
+you can trust -> your : 1
+can trust your -> computer : 1
+trust your computer -> to : 1
+your computer to -> do : 1
+computer to do -> all : 1
+to do all -> the : 1
+do all the -> hard : 1
+all the hard -> while : 1
+the hard while -> you : 1
+hard while you -> sit : 1
+while you sit -> back : 1
+you sit back -> and : 1
+sit back and -> here : 1
+back and here -> are : 1
+are some techniques -> that : 1
+some techniques that -> can : 1
+techniques that can -> be : 1
+that can be -> employed : 1
+can be employed -> to : 1
+be employed to -> successfully : 1
+employed to successfully -> hack : 1
+to successfully hack -> a : 1
+successfully hack a -> dictionary : 1
+hack a dictionary -> approach : 1
+a dictionary approach -> is : 1
+dictionary approach is -> one : 1
+approach is one -> wherein : 1
+is one wherein -> the : 1
+one wherein the -> computer : 1
+wherein the computer -> runs : 1
+the computer runs -> a : 1
+computer runs a -> set : 1
+runs a set -> of : 1
+a set of -> dictionary : 1
+set of dictionary -> words : 1
+set of dictionary -> numbers : 1
+of dictionary words -> to : 1
+dictionary words to -> check : 1
+words to check -> if : 1
+to check if -> any : 1
+check if any -> of : 1
+if any of -> them : 1
+any of them -> will : 1
+of them will -> match : 1
+them will match -> the : 1
+will match the -> correct : 1
+match the correct -> this : 1
+the correct this -> approach : 1
+correct this approach -> is : 1
+this approach is -> not : 1
+approach is not -> practical : 1
+is not practical -> to : 1
+not practical to -> be : 1
+practical to be -> done : 1
+to be done -> as : 1
+be done as -> it : 1
+done as it -> will : 1
+as it will -> take : 1
+it will take -> you : 1
+it will take -> only : 1
+it will take -> to : 1
+will take you -> forever : 1
+take you forever -> to : 1
+you forever to -> type : 1
+forever to type -> in : 1
+to type in -> each : 1
+type in each -> a : 1
+in each a -> special : 1
+each a special -> software : 1
+a special software -> application : 1
+special software application -> can : 1
+software application can -> be : 1
+application can be -> used : 1
+be used to -> run : 1
+used to run -> the : 1
+to run the -> words : 1
+run the words -> and : 1
+the words and -> it : 1
+words and it -> will : 1
+and it will -> take : 1
+and it will -> run : 1
+will take only -> a : 1
+take only a -> few : 1
+only a few -> seconds : 1
+a few seconds -> for : 1
+few seconds for -> the : 1
+seconds for the -> computer : 1
+for the computer -> to : 1
+computer to find -> the : 1
+to find the -> right : 1
+find the right -> this : 1
+the right this -> technique : 1
+right this technique -> is : 1
+this technique is -> considered : 2
+technique is considered -> as : 1
+technique is considered -> the : 1
+as the first -> approach : 1
+the first approach -> since : 1
+first approach since -> the : 1
+approach since the -> results : 1
+since the results -> are : 1
+the results are -> almost : 1
+results are almost -> always : 1
+are almost always -> but : 1
+almost always but -> if : 1
+always but if -> there : 1
+but if there -> is : 1
+if there is -> a : 1
+there is a -> unique : 1
+is a unique -> password : 1
+unique password been -> used : 1
+password been used -> which : 1
+been used which -> contains : 1
+used which contains -> a : 1
+which contains a -> random : 1
+contains a random -> mixture : 1
+a random mixture -> of : 1
+random mixture of -> numerals : 1
+mixture of numerals -> and : 1
+of numerals and -> symbols : 1
+numerals and symbols -> then : 1
+and symbols then -> this : 1
+symbols then this -> technique : 1
+then this technique -> will : 1
+this technique will -> not : 1
+technique will not -> hybrid : 1
+will not hybrid -> is : 1
+not hybrid is -> designed : 1
+hybrid is designed -> to : 1
+is designed to -> tackle : 1
+designed to tackle -> the : 1
+to tackle the -> problem : 1
+tackle the problem -> of : 1
+the problem of -> passwords : 1
+problem of passwords -> that : 1
+of passwords that -> contain : 1
+passwords that contain -> numbers : 1
+that contain numbers -> and : 1
+contain numbers and -> it : 1
+numbers and it -> will : 1
+it will run -> several : 1
+will run several -> words : 1
+run several words -> along : 1
+several words along -> with : 1
+words along with -> numbers : 1
+along with numbers -> and : 1
+with numbers and -> symbols : 1
+numbers and symbols -> and : 2
+and symbols and -> also : 1
+and symbols and -> tries : 1
+symbols and also -> various : 1
+and also various -> permutations : 1
+also various permutations -> and : 1
+various permutations and -> combinations : 1
+permutations and combinations -> of : 1
+and combinations of -> the : 1
+combinations of the -> this : 1
+of the this -> will : 1
+the this will -> help : 1
+this will help -> you : 1
+help you crack -> the : 1
+you crack the -> password : 1
+crack the password -> in : 1
+the password in -> no : 1
+password in no -> provided : 1
+in no provided -> you : 1
+no provided you -> are : 1
+provided you are -> using : 1
+you are using -> the : 1
+are using the -> right : 1
+using the right -> set : 1
+the right set -> of : 1
+right set of -> dictionary : 1
+of dictionary numbers -> and : 1
+dictionary numbers and -> table : 1
+numbers and table -> table : 1
+and table table -> is : 1
+table table is -> considered : 1
+table is considered -> to : 1
+is considered to -> be : 1
+considered to be -> the : 1
+to be the -> next : 1
+be the next -> best : 1
+the next best -> as : 1
+next best as -> modern : 1
+best as modern -> systems : 1
+as modern systems -> use : 1
+modern systems use -> a : 1
+systems use a -> different : 1
+use a different -> method : 1
+a different method -> to : 1
+different method to -> store : 1
+method to store -> what : 1
+to store what -> they : 1
+store what they -> do : 1
+what they do -> is : 1
+they do is -> add : 1
+do is add -> a : 2
+is add a -> hash : 2
+add a hash -> before : 2
+a hash before -> the : 1
+a hash before -> each : 1
+hash before the -> so : 1
+before the so -> even : 1
+the so even -> if : 1
+so even if -> you : 1
+even if you -> were : 1
+even if you -> data : 1
+if you were -> to : 1
+you were to -> find : 1
+were to find -> your : 1
+find your way -> to : 1
+your way to -> the : 1
+way to the -> place : 1
+to the place -> that : 1
+the place that -> stores : 1
+place that stores -> these : 1
+that stores these -> you : 1
+stores these you -> would : 1
+these you would -> still : 1
+you would still -> have : 1
+would still have -> to : 1
+still have to -> decrypt : 1
+have to decrypt -> instead : 1
+to decrypt instead -> of : 1
+decrypt instead of -> what : 1
+instead of what -> you : 1
+what you could -> do : 1
+you could do -> is : 1
+could do is -> add : 1
+hash before each -> of : 1
+before each of -> your : 1
+of your dictionary -> words : 1
+your dictionary words -> and : 1
+dictionary words and -> compare : 1
+words and compare -> it : 1
+and compare it -> to : 1
+compare it to -> the : 1
+to the hashed -> if : 1
+the hashed if -> you : 1
+hashed if you -> are : 1
+you are then -> you : 1
+are then you -> will : 1
+then you will -> find : 1
+you will find -> a : 1
+will find a -> perfect : 1
+find a perfect -> force : 1
+a perfect force -> force : 1
+perfect force force -> is : 1
+force force is -> considered : 1
+force is considered -> the : 1
+is considered the -> ultimate : 1
+is considered the -> last : 1
+considered the ultimate -> tool : 1
+the ultimate tool -> when : 1
+ultimate tool when -> it : 1
+tool when it -> comes : 1
+when it comes -> to : 1
+it comes to -> cracking : 1
+comes to cracking -> a : 1
+to cracking a -> password : 1
+cracking a password -> and : 1
+password and is -> also : 1
+and is also -> the : 1
+also the most -> cpu : 1
+the most cpu -> intensive : 1
+most cpu intensive -> the : 1
+cpu intensive the -> technique : 1
+intensive the technique -> makes : 1
+the technique makes -> use : 1
+technique makes use -> of : 1
+makes use of -> a : 1
+of a large -> combination : 1
+a large combination -> of : 1
+large combination of -> numbers : 1
+combination of numbers -> and : 1
+of numbers and -> symbols : 1
+symbols and tries -> out : 1
+and tries out -> all : 1
+tries out all -> possible : 1
+out all possible -> permutation : 1
+all possible permutation -> and : 1
+possible permutation and -> combination : 1
+permutation and combination -> of : 1
+and combination of -> so : 1
+combination of so -> you : 1
+of so you -> can : 1
+you can imagine -> the : 1
+can imagine the -> number : 1
+imagine the number -> of : 1
+number of words -> that : 1
+of words that -> it : 1
+words that it -> will : 1
+that it will -> test : 1
+that it will -> take : 1
+it will test -> and : 1
+will test and -> surmise : 1
+test and surmise -> the : 1
+and surmise the -> time : 1
+surmise the time -> that : 1
+the time that -> it : 1
+time that it -> will : 1
+will take to -> produce : 1
+take to produce -> your : 1
+to produce your -> this : 1
+produce your this -> technique : 1
+your this technique -> is : 1
+considered the last -> resort : 1
+the last resort -> by : 1
+last resort by -> several : 1
+resort by several -> hackers : 1
+by several hackers -> as : 1
+several hackers as -> it : 1
+hackers as it -> is : 1
+it is quite -> time : 1
+is quite time -> few : 1
+quite time few -> general : 1
+time few general -> tips : 1
+of computer previous -> chapters : 1
+computer previous chapters -> have : 1
+previous chapters have -> made : 1
+chapters have made -> you : 1
+have made you -> aware : 1
+made you aware -> about : 1
+you aware about -> the : 1
+aware about the -> entire : 1
+about the entire -> concept : 1
+the entire concept -> of : 1
+entire concept of -> the : 1
+concept of the -> different : 1
+of the different -> tools : 1
+the different tools -> of : 1
+different tools of -> hacking : 1
+tools of hacking -> emails : 1
+of hacking emails -> and : 1
+hacking emails and -> now : 1
+emails and now -> we : 1
+and now we -> will : 1
+now we will -> look : 1
+we will look -> at : 1
+will look at -> some : 1
+look at some -> information : 1
+at some information -> to : 1
+some information to -> secure : 1
+information to secure -> your : 1
+to secure your -> computer : 1
+secure your computer -> systems : 1
+your computer systems -> and : 1
+and networks from -> hacking : 1
+networks from hacking -> attacks : 1
+from hacking attacks -> from : 1
+hacking attacks from -> other : 1
+attacks from other -> this : 1
+from other this -> will : 1
+other this will -> ensure : 1
+this will ensure -> that : 1
+will ensure that -> you : 1
+ensure that you -> are : 1
+you are not -> just : 1
+are not just -> adept : 1
+not just adept -> at : 1
+just adept at -> the : 1
+adept at the -> art : 1
+at the art -> of : 1
+the art of -> but : 1
+art of but -> you : 1
+of but you -> are : 1
+but you are -> also : 1
+you are also -> equipped : 1
+are also equipped -> to : 1
+also equipped to -> fight : 1
+equipped to fight -> off : 1
+to fight off -> other : 1
+fight off other -> are : 1
+off other are -> some : 1
+other are some -> important : 1
+are some important -> tips : 1
+some important tips -> that : 1
+important tips that -> go : 1
+tips that go -> with : 1
+that go with -> the : 1
+go with the -> guidelines : 1
+with the guidelines -> of : 1
+the guidelines of -> computer : 1
+guidelines of computer -> new : 1
+of computer new -> opening : 1
+computer new opening -> mails : 1
+new opening mails -> from : 1
+opening mails from -> unknown : 1
+mails from unknown -> and : 1
+from unknown and -> untrusted : 1
+unknown and untrusted -> never : 1
+and untrusted never -> make : 1
+untrusted never make -> the : 1
+never make the -> mistake : 1
+make the mistake -> of : 1
+the mistake of -> downloading : 1
+mistake of downloading -> attachments : 1
+of downloading attachments -> from : 1
+downloading attachments from -> such : 1
+attachments from such -> new : 1
+from such new -> is : 1
+such new is -> advisable : 1
+new is advisable -> to : 2
+is advisable to -> visit : 1
+is advisable to -> completely : 1
+is advisable to -> use : 1
+advisable to visit -> only : 1
+to visit only -> trusted : 1
+visit only trusted -> websites : 1
+only trusted websites -> on : 1
+trusted websites on -> the : 1
+websites on the -> as : 1
+on the as -> it : 1
+the as it -> is : 1
+the as it -> provides : 1
+it is risky -> to : 1
+is risky to -> visit : 1
+risky to visit -> an : 1
+to visit an -> untrusted : 1
+visit an untrusted -> website : 1
+an untrusted website -> which : 1
+untrusted website which -> could : 1
+website which could -> pose : 1
+which could pose -> a : 1
+could pose a -> threat : 1
+pose a threat -> of : 1
+a threat of -> malware : 1
+threat of malware -> it : 1
+of malware it -> is : 1
+malware it is -> important : 1
+it is important -> to : 1
+is important to -> utilize : 1
+important to utilize -> the : 1
+to utilize the -> services : 1
+utilize the services -> of : 1
+the services of -> site : 1
+services of site -> advisor : 1
+of site advisor -> software : 1
+site advisor software -> like : 1
+advisor software like -> which : 1
+software like which -> reports : 1
+like which reports -> whether : 1
+which reports whether -> visiting : 1
+reports whether visiting -> a : 1
+whether visiting a -> website : 1
+visiting a website -> is : 1
+a website is -> safe : 1
+website is safe -> or : 1
+is safe or -> such : 1
+safe or such -> software : 1
+or such software -> ensures : 1
+such software ensures -> safe : 1
+software ensures safe -> new : 1
+ensures safe new -> installing : 1
+safe new installing -> new : 1
+new installing new -> software : 1
+installing new software -> or : 1
+new software or -> a : 1
+software or a -> it : 1
+it is advisable -> to : 1
+advisable to completely -> uninstall : 1
+to completely uninstall -> all : 1
+completely uninstall all -> the : 1
+uninstall all the -> files : 1
+all the files -> belonging : 1
+the files belonging -> to : 1
+files belonging to -> the : 1
+belonging to the -> old : 1
+to the old -> software : 1
+the old software -> or : 1
+old software or -> new : 1
+software or new -> sure : 1
+or new sure -> that : 1
+new sure that -> you : 1
+sure that you -> regularly : 1
+that you regularly -> update : 1
+you regularly update -> the : 1
+regularly update the -> software : 1
+update the software -> present : 1
+the software present -> on : 1
+software present on -> your : 1
+present on your -> system : 1
+on your system -> with : 1
+your system with -> the : 1
+with the latest -> new : 1
+the latest new -> is : 1
+latest new is -> advised : 1
+new is advised -> that : 1
+is advised that -> professionals : 1
+advised that professionals -> seek : 1
+that professionals seek -> the : 1
+professionals seek the -> help : 1
+seek the help -> and : 1
+the help and -> services : 1
+help and services -> of : 1
+and services of -> network : 1
+services of network -> security : 1
+of network security -> experts : 1
+network security experts -> to : 1
+security experts to -> ensure : 1
+experts to ensure -> that : 1
+to ensure that -> their : 1
+ensure that their -> system : 1
+that their system -> and : 1
+their system and -> network : 1
+system and network -> are : 1
+and network are -> well : 1
+network are well -> new : 1
+are well new -> respond : 1
+well new respond -> to : 1
+new respond to -> messages : 1
+respond to messages -> or : 1
+to messages or -> chat : 1
+messages or chat -> requests : 1
+or chat requests -> from : 1
+chat requests from -> especially : 1
+requests from especially -> if : 1
+from especially if -> you : 1
+especially if you -> are : 1
+you are suspicious -> of : 1
+are suspicious of -> their : 1
+suspicious of their -> new : 1
+of their new -> is : 1
+their new is -> very : 1
+new is very -> important : 1
+is very important -> to : 1
+very important to -> create : 1
+important to create -> and : 1
+to create and -> maintain : 1
+create and maintain -> a : 1
+and maintain a -> backup : 1
+maintain a backup -> of : 1
+a backup of -> the : 1
+backup of the -> files : 1
+of the files -> you : 1
+the files you -> need : 1
+files you need -> in : 1
+you need in -> an : 1
+need in an -> external : 1
+in an external -> memory : 1
+an external memory -> or : 1
+external memory or -> that : 1
+memory or that -> even : 1
+or that even -> if : 1
+that even if -> you : 1
+if you data -> from : 1
+you data from -> your : 1
+data from your -> you : 1
+from your you -> can : 1
+your you can -> still : 1
+you can still -> retrieve : 1
+can still retrieve -> it : 1
+still retrieve it -> from : 1
+retrieve it from -> the : 1
+it from the -> external : 1
+from the external -> new : 1
+the external new -> features : 1
+external new features -> of : 1
+new features of -> web : 1
+features of web -> browsers : 1
+of web browsers -> that : 1
+web browsers that -> are : 1
+browsers that are -> enabled : 1
+that are enabled -> by : 1
+are enabled by -> may : 1
+enabled by may -> introduce : 1
+by may introduce -> security : 1
+may introduce security -> issues : 1
+introduce security issues -> into : 1
+security issues into -> the : 1
+issues into the -> features : 1
+into the features -> like : 1
+the features like -> java : 1
+features like java -> and : 1
+like java and -> activex : 1
+java and activex -> should : 1
+and activex should -> be : 1
+activex should be -> deactivated : 1
+should be deactivated -> when : 1
+be deactivated when -> not : 1
+deactivated when not -> new : 1
+when not new -> is : 1
+not new is -> advisable : 1
+advisable to use -> a : 1
+use a web -> browser : 1
+a web browser -> which : 1
+web browser which -> is : 1
+browser which is -> known : 1
+which is known -> to : 1
+is known to -> offer : 1
+known to offer -> essential : 1
+to offer essential -> security : 1
+offer essential security -> and : 1
+essential security and -> safety : 1
+security and safety -> for : 1
+security and safety -> features : 1
+and safety for -> security : 1
+safety for security -> experts : 1
+for security experts -> advise : 1
+security experts advise -> using : 1
+experts advise using -> mozilla : 1
+advise using mozilla -> firefox : 1
+using mozilla firefox -> for : 1
+mozilla firefox for -> browsing : 1
+firefox for browsing -> the : 1
+for browsing the -> as : 1
+browsing the as -> it : 1
+as it provides -> more : 1
+it provides more -> security : 1
+provides more security -> and : 1
+more security and -> safety : 1
+and safety features -> when : 1
+safety features when -> compared : 1
+features when compared -> to : 1
+when compared to -> browsers : 1
+when compared to -> the : 1
+compared to browsers -> like : 1
+to browsers like -> internet : 1
+browsers like internet -> new : 1
+like internet new -> running : 1
+internet new running -> on : 1
+new running on -> operating : 1
+running on operating -> systems : 1
+on operating systems -> like : 1
+operating systems like -> linux : 1
+systems like linux -> or : 1
+like linux or -> macintosh : 1
+linux or macintosh -> are : 1
+or macintosh are -> less : 1
+macintosh are less -> vulnerable : 1
+are less vulnerable -> to : 1
+less vulnerable to -> hacking : 1
+vulnerable to hacking -> attacks : 1
+to hacking attacks -> when : 1
+hacking attacks when -> compared : 1
+attacks when compared -> to : 1
+compared to the -> ones : 1
+to the ones -> running : 1
+the ones running -> on : 1
+ones running on -> the : 1
+running on the -> hugely : 1
+on the hugely -> popular : 1
+the hugely popular -> try : 1
+hugely popular try -> shifting : 1
+popular try shifting -> to : 1
+try shifting to -> linux : 1
+shifting to linux -> or : 1
+to linux or -> if : 1
+linux or if -> you : 1
+or if you -> feel : 1
+if you feel -> you : 1
+if you feel -> all : 1
+you feel you -> can : 1
+feel you can -> get : 1
+you can get -> accustomed : 1
+can get accustomed -> to : 1
+get accustomed to -> using : 1
+accustomed to using -> new : 1
+to using new -> remember : 1
+using new remember -> that : 1
+new remember that -> it : 1
+remember that it -> is : 1
+it is not -> possible : 1
+is not possible -> to : 1
+not possible to -> hack : 1
+hack a computer -> that : 1
+a computer that -> is : 1
+computer that is -> switched : 1
+that is switched -> remember : 1
+is switched remember -> to : 1
+switched remember to -> always : 1
+remember to always -> shutdown : 1
+to always shutdown -> your : 1
+always shutdown your -> computer : 1
+shutdown your computer -> when : 1
+your computer when -> not : 1
+computer when not -> using : 1
+when not using -> do : 1
+not using do -> not : 1
+using do not -> put : 1
+do not put -> sleep : 1
+not put sleep -> mode : 1
+put sleep mode -> unnecessarily : 1
+sleep mode unnecessarily -> the : 1
+mode unnecessarily the -> sleep : 1
+unnecessarily the sleep -> mode : 1
+the sleep mode -> time : 1
+sleep mode time -> to : 1
+mode time to -> twenty : 1
+time to twenty -> minutes : 1
+to twenty minutes -> at : 1
+twenty minutes at -> we : 1
+minutes at we -> have : 1
+at we have -> now : 1
+we have now -> come : 1
+have now come -> to : 1
+now come to -> the : 1
+come to the -> end : 1
+to the end -> of : 1
+the end of -> this : 1
+end of this -> i : 1
+of this i -> have : 1
+this i have -> explained : 1
+i have explained -> all : 1
+have explained all -> the : 1
+explained all the -> concepts : 1
+all the concepts -> of : 1
+the concepts of -> hacking : 1
+concepts of hacking -> in : 1
+of hacking in -> a : 1
+hacking in a -> very : 1
+in a very -> lucid : 1
+a very lucid -> and : 1
+very lucid and -> comprehensible : 1
+lucid and comprehensible -> putting : 1
+and comprehensible putting -> them : 1
+comprehensible putting them -> all : 1
+putting them all -> into : 1
+them all into -> practice : 1
+all into practice -> may : 1
+into practice may -> sometimes : 1
+practice may sometimes -> be : 1
+may sometimes be -> a : 1
+sometimes be a -> bit : 1
+be a bit -> you : 1
+a bit you -> can : 1
+bit you can -> practice : 1
+you can practice -> ethical : 1
+can practice ethical -> aspects : 1
+practice ethical aspects -> of : 1
+ethical aspects of -> hacking : 1
+aspects of hacking -> to : 1
+of hacking to -> improve : 1
+hacking to improve -> your : 1
+to improve your -> do : 1
+to improve your -> always : 1
+improve your do -> not : 1
+your do not -> think : 1
+do not think -> twice : 1
+not think twice -> before : 1
+think twice before -> seeking : 1
+twice before seeking -> help : 1
+before seeking help -> from : 1
+seeking help from -> professional : 1
+help from professional -> security : 1
+from professional security -> specialists : 1
+professional security specialists -> if : 1
+security specialists if -> you : 1
+specialists if you -> feel : 1
+you feel all -> this : 1
+feel all this -> is : 1
+all this is -> a : 1
+is a bit -> too : 1
+a bit too -> technical : 1
+bit too technical -> for : 1
+too technical for -> now : 1
+technical for now -> you : 1
+for now you -> must : 1
+now you must -> having : 1
+you must having -> a : 1
+must having a -> good : 1
+having a good -> idea : 1
+a good idea -> about : 1
+good idea about -> what : 1
+idea about what -> hacking : 1
+about what hacking -> is : 1
+what hacking is -> and : 1
+hacking is and -> what : 1
+is and what -> will : 1
+and what will -> be : 1
+what will be -> the : 1
+will be the -> consequences : 1
+be the consequences -> if : 1
+the consequences if -> your : 1
+consequences if your -> system : 1
+if your system -> is : 1
+your system is -> attacked : 1
+your system is -> well : 1
+system is attacked -> by : 1
+is attacked by -> an : 1
+attacked by an -> external : 1
+by an external -> or : 1
+an external or -> internal : 1
+external or internal -> but : 1
+or internal but -> fear : 1
+internal but fear -> simply : 1
+but fear simply -> follows : 1
+fear simply follows -> the : 1
+simply follows the -> instructions : 1
+follows the instructions -> and : 1
+the instructions and -> guidelines : 1
+instructions and guidelines -> provided : 1
+and guidelines provided -> in : 1
+guidelines provided in -> this : 1
+provided in this -> book : 1
+in this book -> and : 1
+book and you -> can : 1
+you can be -> rest : 1
+can be rest -> assured : 1
+be rest assured -> that : 1
+rest assured that -> your : 1
+assured that your -> system : 1
+that your system -> is : 1
+system is well -> please : 1
+is well please -> note : 1
+well please note -> that : 1
+please note that -> the : 1
+note that the -> world : 1
+that the world -> of : 1
+world of computers -> is : 1
+of computers is -> an : 1
+computers is an -> ever : 1
+is an ever -> changing : 1
+an ever changing -> and : 1
+ever changing and -> advancing : 1
+changing and advancing -> the : 1
+and advancing the -> more : 1
+advancing the more -> advanced : 1
+the more advanced -> the : 1
+more advanced the -> the : 1
+advanced the the -> more : 1
+the the more -> you : 1
+the more you -> need : 1
+more you need -> to : 1
+you need to -> improve : 1
+need to improve -> your : 1
+improve your always -> keep : 1
+your always keep -> your : 1
+always keep your -> software : 1
+keep your software -> and : 1
+your software and -> system : 1
+software and system -> updated : 1
+and system updated -> against : 1
+system updated against -> other : 1
+updated against other -> hackers : 1
+against other hackers -> and : 1
+other hackers and -> keep : 1
+hackers and keep -> your : 1
+and keep your -> system : 1
+keep your system -> you : 1
+your system you -> again : 1
+system you again -> for : 1
+you again for -> choosing : 1
+again for choosing -> this : 1
+book and i -> hope : 1
+and i hope -> you : 1
+i hope you -> enjoyed : 1
+hope you enjoyed -> the : 1
+you enjoyed the -> information : 1
+enjoyed the information -> of : 1
+the information of -> of : 1
+information of of -> contentsintroductionchapter : 1
+of of contentsintroductionchapter -> hacking : 1
+of contentsintroductionchapter hacking -> an : 1
+contentsintroductionchapter hacking an -> copyright : 1
+hacking an copyright -> all : 1
+an copyright all -> rights : 1
+all rights hacking -> an : 1
+rights hacking an -> hacking : 1
+hacking an hacking -> hacking : 1
+an hacking hacking -> software : 1
+hacking hacking software -> and : 1

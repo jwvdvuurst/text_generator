@@ -1,0 +1,7154 @@
+cookers : 1
+handy : 1
+helpers : 1
+feeling : 1
+grab : 1
+girlfriend : 1
+local : 1
+market : 1
+barn : 1
+knowing : 1
+brimming : 1
+treat : 1
+foods : 1
+magic : 1
+pizza : 1
+coming : 1
+tote : 1
+calico : 1
+included : 1
+desserts : 1
+triple : 1
+photo : 1
+predict : 1
+join : 1
+ann : 1
+oxmoor : 1
+neighbors : 1
+raising : 1
+families : 1
+town : 1
+two : 1
+moms : 1
+looking : 1
+memories : 1
+conversation : 1
+backyard : 1
+catalog : 1
+tables : 1
+boxes : 1
+enlisting : 1
+ones : 1
+wherever : 1
+grown : 1
+amazing : 1
+group : 1
+creative : 1
+folks : 1
+who : 1
+decorating : 1
+creating : 1
+believe : 1
+years : 1
+since : 1
+those : 1
+today : 1
+known : 1
+recognized : 1
+national : 1
+tickled : 1
+ideas : 1
+done : 1
+whether : 1
+ride : 1
+beginning : 1
+discovering : 1
+gooseberry : 1
+patch : 1
+rights : 1
+part : 1
+reproduced : 1
+utilized : 1
+electronic : 1
+including : 1
+photocopying : 1
+information : 1
+storage : 1
+retrieval : 1
+permission : 1
+writing : 1
+craft : 1
+see : 1
+featured : 1
+register : 1
+steps : 1
+submit : 1
+dedicated : 1
+thanks : 1
+spray : 1
+full : 1
+added : 1
+adjust : 1
+flavor : 1
+tends : 1
+grow : 1
+milder : 1
+long : 1
+take : 1
+feeds : 1
+hungry : 1
+discarding : 1
+wing : 1
+blue : 1
+young : 1
+too : 1
+ungreased : 1
+broiler : 1
+under : 1
+served : 1
+sweetened : 1
+flaked : 1
+coconut : 1
+learned : 1
+carry : 1
+whenever : 1
+because : 1
+asking : 1
+forks : 1
+bags : 1
+delightful : 1
+leftovers : 1
+eating : 1
+longer : 1
+spicier : 1
+sandwiches : 1
+pepperoncini : 1
+hoagie : 1
+needed : 1
+spooned : 1
+luckily : 1
+had : 1
+pomegranate : 1
+wrap : 1
+double : 1
+thickness : 1
+corners : 1
+cloth : 1
+tie : 1
+string : 1
+bag : 1
+boned : 1
+whip : 1
+keeps : 1
+creamy : 1
+bunch : 1
+microwave : 1
+asks : 1
+smells : 1
+chipotle : 1
+tortillas : 1
+drizzle : 1
+standby : 1
+summer : 1
+yet : 1
+weather : 1
+guacamole : 1
+cutting : 1
+sample : 1
+fix : 1
+crunchy : 1
+wheat : 1
+pretzels : 1
+uncover : 1
+crisp : 1
+rods : 1
+pepperoni : 1
+spoonfuls : 1
+melting : 1
+bittersweet : 1
+teaspoonfuls : 1
+wax : 1
+covered : 1
+room : 1
+dozen : 1
+perfect : 1
+sharing : 1
+try : 1
+twists : 1
+combo : 1
+strong : 1
+banana : 1
+angel : 1
+coffee : 1
+marshmallows : 1
+ran : 1
+farm : 1
+varieties : 1
+its : 1
+mixing : 1
+off : 1
+hold : 1
+plate : 1
+invert : 1
+idea : 1
+heaven : 1
+mashed : 1
+tweaked : 1
+balsamic : 1
+snap : 1
+chops : 1
+feature : 1
+flavors : 1
+mexican : 1
+meals : 1
+chilly : 1
+busy : 1
+practically : 1
+most : 1
+dumpling : 1
+light : 1
+quickly : 1
+convenient : 1
+become : 1
+spreadable : 1
+chives : 1
+soft : 1
+roasting : 1
+kosher : 1
+stuff : 1
+wedges : 1
+herb : 1
+outside : 1
+homemade : 1
+quarters : 1
+replace : 1
+seems : 1
+going : 1
+cajun : 1
+day : 1
+shortening : 1
+undrained : 1
+pierogies : 1
+partly : 1
+submerged : 1
+sauerkraut : 1
+often : 1
+potlucks : 1
+braeburn : 1
+pastry : 1
+cutter : 1
+fork : 1
+pecans : 1
+such : 1
+nice : 1
+meatloaf : 1
+saltine : 1
+cracker : 1
+around : 1
+olives : 1
+lake : 1
+seafood : 1
+portabella : 1
+homestyle : 1
+tossed : 1
+broken : 1
+ricotta : 1
+repeat : 1
+layering : 1
+received : 1
+friend : 1
+met : 1
+start : 1
+pull : 1
+sides : 1
+test : 1
+doneness : 1
+toothpick : 1
+son : 1
+primarily : 1
+also : 1
+breast : 1
+prepare : 1
+contents : 1
+gives : 1
+discovered : 1
+unusual : 1
+trip : 1
+southern : 1
+currants : 1
+slivered : 1
+powder : 1
+only : 1
+took : 1
+pockets : 1
+insert : 1
+strain : 1
+gradually : 1
+wide : 1
+heated : 1
+still : 1
+would : 1
+tube : 1
+fun : 1
+hickory : 1
+dijon : 1
+ribs : 1
+basket : 1
+turning : 1
+check : 1
+chunks : 1
+plum : 1
+garbanzo : 1
+thigh : 1
+snipped : 1
+stalk : 1
+picky : 1
+which : 1
+carton : 1
+petite : 1
+strips : 1
+aide : 1
+recess : 1
+warms : 1
+body : 1
+meaty : 1
+quarts : 1
+dice : 1
+bake : 1
+degrees : 1
+football : 1
+mornings : 1
+creamed : 1
+mild : 1
+elegant : 1
+bubbly : 1
+visited : 1
+she : 1
+brought : 1
+becoming : 1
+north : 1
+ideal : 1
+fall : 1
+social : 1
+weekend : 1
+baked : 1
+kind : 1
+handful : 1
+smile : 1
+front : 1
+tails : 1
+reddish : 1
+shortly : 1
+grandmother : 1
+used : 1
+adapted : 1
+shell : 1
+healthier : 1
+deli : 1
+parents : 1
+especially : 1
+leaves : 1
+quicker : 1
+grandma : 1
+same : 1
+rigatoni : 1
+finish : 1
+thicken : 1
+west : 1
+substituting : 1
+need : 1
+soaking : 1
+pot : 1
+sign : 1
+feel : 1
+better : 1
+down : 1
+peeling : 1
+fridge : 1
+inch : 1
+found : 1
+box : 1
+bacon : 1
+combined : 1
+jars : 1
+aroma : 1
+fills : 1
+processed : 1
+coated : 1
+go : 1
+wrong : 1
+classic : 1
+grape : 1
+jelly : 1
+meatballs : 1
+thing : 1
+past : 1
+dog : 1
+gave : 1
+garnishes : 1
+heads : 1
+tent : 1
+sub : 1
+provolone : 1
+main : 1
+halfway : 1
+cooks : 1
+next : 1
+basted : 1
+produces : 1
+guess : 1
+fully : 1
+coating : 1
+basting : 1
+occasionally : 1
+someone : 1
+brings : 1
+scalloped : 1
+crisply : 1
+prepared : 1
+ask : 1
+picnic : 1
+casserole : 1
+secret : 1
+keeping : 1
+blustery : 1
+fried : 1
+helped : 1
+feed : 1
+sleeve : 1
+buttery : 1
+reserve : 1
+grind : 1
+obtain : 1
+consistency : 1
+casual : 1
+does : 1
+think : 1
+mugs : 1
+punch : 1
+outing : 1
+frosty : 1
+pineapple : 1
+candies : 1
+instant : 1
+garnished : 1
+addition : 1
+holiday : 1
+lots : 1
+beat : 1
+eggs : 1
+thawed : 1
+cornbread : 1
+cottage : 1
+slightly : 1
+ajar : 1
+moisture : 1
+golden : 1
+tip : 1
+center : 1
+tests : 1
+disappear : 1
+package : 1
+traditional : 1
+fell : 1
+tasted : 1
+pleaser : 1
+tender : 1
+spices : 1
+plastic : 1
+zipping : 1
+refrigerate : 1
+tablespoon : 1
+teaspoons : 1
+pint : 1
+quart : 1
+pound : 1
+mail : 1
+address : 1
+reach : 1
+publishing : 1
+country : 1
+hundreds : 1
+already : 1
+their : 1
+binding : 1
+filled : 1
+artwork : 1
+plenty : 1
+here : 1
+waiting : 2
+tried : 2
+true : 2
+homecooked : 2
+bowls : 2
+chowder : 2
+honey : 2
+other : 2
+scrumptious : 2
+deliciously : 2
+even : 2
+come : 2
+children : 2
+stay : 2
+kids : 2
+making : 2
+many : 2
+packed : 2
+help : 2
+best : 2
+now : 2
+share : 2
+friends : 2
+across : 2
+welcome : 2
+book : 2
+may : 2
+memory : 2
+send : 2
+cookbook : 2
+phone : 2
+email : 2
+select : 2
+appear : 2
+receive : 2
+discover : 2
+giveaways : 2
+find : 2
+look : 2
+crock : 2
+calls : 2
+tasty : 2
+increase : 2
+end : 2
+taste : 2
+herbs : 2
+extra : 2
+hour : 2
+crowd : 2
+pinto : 2
+cubed : 2
+hit : 2
+old : 2
+pan : 2
+broil : 2
+serving : 2
+saint : 2
+dark : 2
+dessert : 2
+people : 2
+thinly : 2
+continue : 2
+savory : 2
+spiced : 2
+these : 2
+airtight : 2
+quick : 2
+rotini : 2
+hamburger : 2
+husband : 2
+zesty : 2
+au : 2
+jus : 2
+peppers : 2
+fruit : 2
+chilled : 2
+warming : 2
+count : 2
+pickle : 2
+buns : 2
+crab : 2
+easier : 2
+good : 2
+while : 2
+buttered : 2
+satisfying : 2
+salsa : 2
+using : 2
+queso : 2
+they : 2
+ready : 2
+process : 2
+version : 2
+seasoned : 2
+chocolates : 2
+dipping : 2
+cheeses : 2
+special : 2
+mini : 2
+muffin : 2
+cubes : 2
+peachy : 2
+peach : 2
+pumpkin : 2
+own : 2
+boiling : 2
+edges : 2
+slice : 2
+simmer : 2
+almost : 2
+blended : 2
+likes : 2
+bowtie : 2
+pieces : 2
+mac : 2
+elbow : 2
+granny : 2
+smith : 2
+mash : 2
+masher : 2
+boil : 2
+dumplings : 2
+coat : 2
+thyme : 2
+sprigs : 2
+inside : 2
+seasoning : 2
+tubes : 2
+refrigerated : 2
+biscuit : 2
+new : 2
+comforting : 2
+toffee : 2
+flavorful : 2
+really : 2
+gravy : 2
+garden : 2
+mushroom : 2
+roasted : 2
+away : 2
+inserted : 2
+topped : 2
+he : 2
+cranberry : 2
+corned : 2
+buttermilk : 2
+quartered : 2
+skin : 2
+curry : 2
+never : 2
+herbed : 2
+knife : 2
+rub : 2
+allow : 2
+saucepan : 2
+tastes : 2
+filling : 2
+saturday : 2
+night : 2
+clove : 2
+thick : 2
+canned : 2
+yellow : 2
+navy : 2
+simmering : 2
+enjoy : 2
+hashbrowns : 2
+onions : 2
+chile : 2
+according : 2
+wine : 2
+daughter : 2
+was : 2
+wagon : 2
+again : 2
+different : 2
+bowl : 2
+gumbo : 2
+shrimp : 2
+minestrone : 2
+kidney : 2
+measure : 2
+rest : 2
+peas : 2
+split : 2
+stewed : 2
+noodle : 2
+dill : 2
+how : 2
+scallion : 2
+separate : 2
+roll : 2
+fair : 2
+glaze : 2
+scoops : 2
+cabbage : 2
+spicy : 2
+simple : 2
+fruity : 2
+stick : 2
+melted : 2
+tablespoons : 2
+sticky : 2
+ounce : 2
+italic : 3
+head : 3
+when : 3
+get : 3
+everyone : 3
+lasagna : 3
+yummy : 3
+smashed : 3
+buffalo : 3
+bbq : 3
+way : 3
+loved : 3
+shared : 3
+after : 3
+kitchen : 3
+include : 3
+much : 3
+without : 3
+farmers : 3
+oh : 3
+form : 3
+visit : 3
+follow : 3
+them : 3
+forget : 3
+number : 3
+servings : 3
+name : 3
+copy : 3
+fill : 3
+juices : 3
+want : 3
+loin : 3
+let : 3
+french : 3
+pecan : 3
+store : 3
+sloppy : 3
+ladle : 3
+last : 3
+made : 3
+mom : 3
+wonderful : 3
+melba : 3
+than : 3
+individual : 3
+dollops : 3
+during : 3
+chunky : 3
+slotted : 3
+pasteurized : 3
+tomatoes : 3
+crispy : 3
+pretzel : 3
+gently : 3
+paper : 3
+grated : 3
+minced : 3
+stand : 3
+seed : 3
+container : 3
+lemon : 3
+batter : 3
+egg : 3
+noodles : 3
+carrots : 3
+layer : 3
+olive : 3
+hours : 3
+requested : 3
+another : 3
+round : 3
+cornstarch : 3
+blueberry : 3
+biscuits : 3
+monterey : 3
+taco : 3
+winter : 3
+reserving : 3
+dogs : 3
+joe : 3
+teaspoon : 3
+what : 4
+out : 4
+food : 4
+through : 4
+wings : 4
+potluck : 4
+cheesy : 4
+know : 4
+back : 4
+were : 4
+home : 4
+first : 4
+cookbooks : 4
+circle : 4
+website : 4
+liquid : 4
+lid : 4
+soak : 4
+salad : 4
+stalks : 4
+but : 4
+not : 4
+arrange : 4
+cool : 4
+me : 4
+bottle : 4
+dip : 4
+keep : 4
+nuts : 4
+cayenne : 4
+turn : 4
+worcestershire : 4
+reserved : 4
+sticks : 4
+sandwich : 4
+side : 4
+vanilla : 4
+sprayed : 4
+whisk : 4
+cereal : 4
+drain : 4
+toss : 4
+mozzarella : 4
+drop : 4
+macaroni : 4
+chiles : 4
+use : 4
+portions : 4
+redskin : 4
+loves : 4
+ranch : 4
+dressing : 4
+northern : 4
+meat : 4
+pea : 4
+broccoli : 4
+cola : 4
+stuffing : 4
+fluid : 4
+year : 5
+meal : 5
+comfort : 5
+more : 5
+have : 5
+free : 5
+chips : 5
+soy : 5
+crushed : 5
+warmed : 5
+cups : 5
+browned : 5
+very : 5
+blend : 5
+bring : 5
+spice : 5
+white : 5
+dinner : 5
+desired : 5
+cold : 5
+jack : 5
+boneless : 5
+vegetables : 5
+spaghetti : 5
+baby : 5
+apples : 5
+dry : 5
+smoked : 5
+set : 5
+wild : 5
+ham : 5
+oil : 5
+pasta : 5
+plus : 6
+sesame : 6
+right : 6
+little : 6
+do : 6
+put : 6
+no : 6
+sure : 6
+celery : 6
+pudding : 6
+butter : 6
+chuck : 6
+cider : 6
+onto : 6
+black : 6
+slices : 6
+seasonings : 6
+fresh : 6
+delicious : 6
+uncooked : 6
+short : 6
+sausages : 6
+stew : 6
+ounces : 6
+f : 6
+l : 6
+recipes : 7
+party : 7
+along : 7
+cake : 7
+dish : 7
+transfer : 7
+heat : 7
+barbecue : 7
+lightly : 7
+whole : 7
+baking : 7
+reduce : 7
+orange : 7
+pie : 7
+enough : 7
+potato : 7
+sausage : 7
+great : 8
+hearty : 8
+sweet : 8
+every : 8
+inches : 8
+milk : 8
+tortilla : 8
+ice : 8
+parmesan : 8
+well : 8
+spread : 8
+tomato : 8
+half : 8
+turkey : 8
+red : 8
+warm : 9
+each : 9
+been : 9
+always : 9
+greased : 9
+shred : 9
+discard : 9
+jar : 9
+whipped : 9
+sugar : 9
+has : 9
+flour : 9
+like : 10
+up : 10
+chocolate : 10
+just : 10
+cooking : 10
+as : 10
+us : 10
+minutes : 10
+bay : 10
+apple : 10
+that : 11
+be : 11
+you : 11
+small : 11
+love : 11
+any : 11
+by : 11
+time : 11
+sour : 11
+evaporated : 11
+skillet : 11
+stirring : 11
+juice : 11
+cup : 11
+vegetable : 12
+beans : 12
+return : 12
+cinnamon : 12
+cut : 12
+bean : 12
+bread : 13
+at : 13
+before : 13
+cloves : 13
+my : 13
+make : 13
+skinless : 13
+italian : 13
+sauce : 13
+easy : 14
+large : 14
+spoon : 14
+sliced : 14
+broth : 14
+drained : 14
+will : 15
+hot : 15
+if : 15
+potatoes : 15
+one : 15
+rice : 15
+i : 15
+favorite : 16
+we : 16
+chopped : 16
+chili : 16
+cheddar : 16
+garnish : 16
+salt : 16
+medium : 16
+frozen : 16
+diced : 16
+about : 17
+water : 17
+mixture : 17
+additional : 17
+are : 18
+garlic : 18
+from : 18
+an : 18
+remove : 18
+family : 19
+your : 20
+corn : 20
+so : 20
+together : 20
+ground : 20
+cheese : 20
+cooked : 21
+place : 21
+onion : 21
+peeled : 21
+sprinkle : 22
+it : 23
+recipe : 23
+pour : 25
+cream : 26
+brown : 26
+roast : 26
+top : 26
+green : 28
+shredded : 28
+pepper : 28
+combine : 28
+serve : 30
+cans : 30
+soup : 31
+our : 32
+cooker : 32
+pork : 33
+dried : 33
+except : 33
+mix : 33
+beef : 35
+remaining : 36
+this : 39
+all : 46
+is : 47
+high : 47
+ingredients : 47
+into : 48
+serves : 48
+add : 58
+stir : 59
+or : 60
+until : 60
+makes : 60
+over : 70
+chicken : 74
+can : 75
+low : 93
+the : 94
+of : 103
+cover : 119
+bold : 121
+setting : 130
+cook : 132
+with : 149
+slow : 156
+on : 163
+in : 180
+for : 196
+a : 241
+to : 349
+and : 404
+bold to our -> italic : 1
+to our italic -> cookers : 1
+our italic cookers -> are : 1
+italic cookers are -> handy : 1
+cookers are handy -> helpers : 1
+are handy helpers -> all : 1
+handy helpers all -> year : 1
+helpers all year -> what : 1
+all year what -> a : 1
+year what a -> great : 1
+what a great -> feeling : 1
+a great feeling -> it : 1
+great feeling it -> is : 1
+feeling it is -> to : 1
+it is to -> grab : 1
+is to grab -> a : 1
+to grab a -> girlfriend : 1
+grab a girlfriend -> and : 1
+a girlfriend and -> head : 1
+girlfriend and head -> out : 1
+and head out -> to : 1
+head out to -> a : 1
+out to a -> local : 1
+to a local -> market : 1
+a local market -> or : 1
+local market or -> barn : 1
+market or barn -> knowing : 1
+or barn knowing -> that : 1
+barn knowing that -> a : 1
+knowing that a -> warm : 1
+that a warm -> hearty : 1
+a warm hearty -> meal : 1
+warm hearty meal -> will : 1
+hearty meal will -> be : 1
+meal will be -> waiting : 1
+will be waiting -> when : 1
+be waiting when -> you : 1
+waiting when you -> get : 1
+when you get -> brimming : 1
+you get brimming -> with : 1
+get brimming with -> tried : 1
+brimming with tried -> true : 1
+with tried true -> recipes : 1
+tried true recipes -> for : 1
+true recipes for -> homecooked : 1
+recipes for homecooked -> food : 1
+for homecooked food -> that : 1
+homecooked food that -> everyone : 1
+food that everyone -> will : 1
+that everyone will -> treat : 1
+everyone will treat -> your : 1
+will treat your -> family : 1
+treat your family -> to : 1
+your family to -> favorite : 1
+family to favorite -> comfort : 1
+to favorite comfort -> foods : 1
+favorite comfort foods -> like : 1
+comfort foods like -> chicken : 1
+foods like chicken -> lasagna : 1
+like chicken lasagna -> and : 1
+chicken lasagna and -> magic : 1
+lasagna and magic -> plus : 1
+and magic plus -> yummy : 1
+magic plus yummy -> like : 1
+plus yummy like -> garlic : 1
+yummy like garlic -> smashed : 1
+like garlic smashed -> hearty : 1
+garlic smashed hearty -> bowls : 1
+smashed hearty bowls -> of : 1
+hearty bowls of -> corn : 1
+bowls of corn -> chowder : 1
+of corn chowder -> and : 1
+corn chowder and -> favorite : 1
+chowder and favorite -> vegetable : 1
+and favorite vegetable -> soup : 1
+favorite vegetable soup -> will : 1
+vegetable soup will -> warm : 1
+soup will warm -> everyone : 1
+will warm everyone -> through : 1
+warm everyone through -> with : 1
+everyone through with -> serve : 1
+through with serve -> up : 1
+with serve up -> pizza : 1
+serve up pizza -> hot : 1
+up pizza hot -> buffalo : 1
+pizza hot buffalo -> bbq : 1
+hot buffalo bbq -> honey : 1
+buffalo bbq honey -> sesame : 1
+bbq honey sesame -> wings : 1
+honey sesame wings -> and : 1
+sesame wings and -> other : 1
+wings and other -> scrumptious : 1
+and other scrumptious -> party : 1
+other scrumptious party -> if : 1
+scrumptious party if -> a : 1
+party if a -> potluck : 1
+if a potluck -> coming : 1
+a potluck coming -> tote : 1
+potluck coming tote -> along : 1
+coming tote along -> deliciously : 1
+tote along deliciously -> cheesy : 1
+along deliciously cheesy -> potatoes : 1
+deliciously cheesy potatoes -> or : 1
+cheesy potatoes or -> calico : 1
+potatoes or calico -> beans : 1
+or calico beans -> right : 1
+calico beans right -> in : 1
+beans right in -> the : 1
+right in the -> slow : 1
+right in the -> cooking : 1
+right in the -> frozen : 1
+in the slow -> for : 1
+in the slow -> bottle : 1
+the slow for -> sweet : 1
+slow for sweet -> even : 1
+for sweet even -> included : 1
+sweet even included -> desserts : 1
+even included desserts -> like : 1
+included desserts like -> triple : 1
+desserts like triple -> chocolate : 1
+like triple chocolate -> cake : 1
+triple chocolate cake -> and : 1
+chocolate cake and -> bread : 1
+cake and bread -> a : 1
+and bread a -> photo : 1
+bread a photo -> of : 1
+a photo of -> each : 1
+photo of each -> recipe : 1
+of each recipe -> so : 1
+each recipe so -> know : 1
+recipe so know -> just : 1
+so know just -> what : 1
+know just what -> to : 1
+just what to -> we : 1
+what to we -> predict : 1
+to we predict -> come : 1
+we predict come -> back : 1
+predict come back -> over : 1
+come back over -> for : 1
+back over for -> recipes : 1
+over for recipes -> for : 1
+for recipes for -> family : 1
+recipes for family -> italic : 1
+for family italic -> you : 1
+family italic you -> join : 1
+italic you join -> italic : 1
+you join italic -> ann : 1
+join italic ann -> bold : 1
+italic ann bold -> oxmoor : 1
+ann bold oxmoor -> in : 1
+bold oxmoor in -> we : 1
+oxmoor in we -> were : 1
+in we were -> neighbors : 1
+we were neighbors -> raising : 1
+were neighbors raising -> our : 1
+neighbors raising our -> families : 1
+raising our families -> in : 1
+our families in -> the : 1
+families in the -> little : 1
+in the little -> town : 1
+the little town -> of : 1
+little town of -> we : 1
+town of we -> were : 1
+of we were -> two : 1
+we were two -> moms : 1
+were two moms -> with : 1
+two moms with -> small : 1
+moms with small -> children : 1
+with small children -> looking : 1
+small children looking -> for : 1
+children looking for -> a : 1
+looking for a -> way : 1
+for a way -> to : 1
+a way to -> do : 1
+way to do -> what : 1
+to do what -> we : 1
+do what we -> loved : 1
+what we loved -> and : 1
+we loved and -> stay : 1
+loved and stay -> home : 1
+and stay home -> with : 1
+stay home with -> the : 1
+home with the -> kids : 1
+with the kids -> we : 1
+the kids we -> shared : 1
+kids we shared -> a : 1
+we shared a -> love : 1
+shared a love -> of : 1
+a love of -> home : 1
+love of home -> cooking : 1
+of home cooking -> and : 1
+home cooking and -> making : 1
+cooking and making -> memories : 1
+and making memories -> with : 1
+making memories with -> family : 1
+memories with family -> after : 1
+with family after -> many : 1
+family after many -> a : 1
+after many a -> conversation : 1
+many a conversation -> over : 1
+a conversation over -> the : 1
+conversation over the -> backyard : 1
+over the backyard -> put : 1
+the backyard put -> together : 1
+backyard put together -> the : 1
+put together the -> first : 1
+together the first -> catalog : 1
+the first catalog -> cookbooks : 1
+first catalog cookbooks -> at : 1
+catalog cookbooks at -> our : 1
+cookbooks at our -> kitchen : 1
+at our kitchen -> tables : 1
+our kitchen tables -> and : 1
+kitchen tables and -> packed : 1
+tables and packed -> boxes : 1
+and packed boxes -> from : 1
+packed boxes from -> the : 1
+boxes from the -> enlisting : 1
+from the enlisting -> the : 1
+the enlisting the -> help : 1
+enlisting the help -> of : 1
+the help of -> our : 1
+help of our -> loved : 1
+of our loved -> ones : 1
+our loved ones -> wherever : 1
+loved ones wherever -> we : 1
+ones wherever we -> from : 1
+wherever we from -> that : 1
+we from that -> little : 1
+from that little -> grown : 1
+that little grown -> to : 1
+little grown to -> include : 1
+grown to include -> an : 1
+to include an -> amazing : 1
+include an amazing -> group : 1
+an amazing group -> of : 1
+amazing group of -> creative : 1
+group of creative -> folks : 1
+of creative folks -> who : 1
+creative folks who -> love : 1
+folks who love -> decorating : 1
+who love decorating -> and : 1
+love decorating and -> creating : 1
+decorating and creating -> as : 1
+and creating as -> much : 1
+creating as much -> as : 1
+as much as -> we : 1
+much as we -> to : 1
+as we to -> believe : 1
+we to believe -> been : 1
+to believe been -> over : 1
+believe been over -> years : 1
+been over years -> since : 1
+over years since -> those : 1
+years since those -> today : 1
+since those today -> best : 1
+those today best -> known : 1
+today best known -> for : 1
+best known for -> our : 1
+known for our -> now : 1
+for our now -> recognized : 1
+our now recognized -> as : 1
+now recognized as -> national : 1
+recognized as national -> we : 1
+as national we -> love : 1
+national we love -> the : 1
+we love the -> recipes : 1
+love the recipes -> and : 1
+the recipes and -> are : 1
+recipes and are -> tickled : 1
+and are tickled -> to : 1
+are tickled to -> share : 1
+tickled to share -> our : 1
+to share our -> ideas : 1
+share our ideas -> and : 1
+our ideas and -> more : 1
+ideas and more -> with : 1
+and more with -> one : 1
+more with one -> for : 1
+with one for -> we : 1
+one for we -> have : 1
+for we have -> done : 1
+we have done -> it : 1
+have done it -> without : 1
+done it without -> our : 1
+it without our -> friends : 1
+without our friends -> all : 1
+our friends all -> across : 1
+friends all across -> the : 1
+all across the -> whether : 1
+across the whether -> been : 1
+the whether been -> along : 1
+whether been along -> for : 1
+been along for -> the : 1
+along for the -> ride : 1
+for the ride -> from : 1
+the ride from -> the : 1
+ride from the -> beginning : 1
+from the beginning -> or : 1
+the beginning or -> are : 1
+beginning or are -> just : 1
+or are just -> discovering : 1
+are just discovering -> welcome : 1
+just discovering welcome -> to : 1
+discovering welcome to -> our : 1
+welcome to our -> of : 1
+to our of -> to : 1
+to our of -> with : 2
+our of to -> our : 1
+of to our -> with : 1
+of to our -> of : 2
+to our with -> comfort : 1
+our with comfort -> our : 1
+with comfort our -> circle : 3
+comfort our circle -> of : 3
+our circle of -> farmers : 1
+our circle of -> us : 1
+our circle of -> of : 1
+circle of farmers -> oh : 1
+of farmers oh -> bold : 1
+farmers oh bold -> gooseberry : 1
+oh bold gooseberry -> patch : 1
+bold gooseberry patch -> rights : 1
+gooseberry patch rights -> no : 1
+patch rights no -> part : 1
+rights no part -> of : 1
+no part of -> this : 1
+part of this -> book : 1
+of this book -> may : 1
+this book may -> be : 1
+book may be -> reproduced : 1
+may be reproduced -> or : 1
+be reproduced or -> utilized : 1
+reproduced or utilized -> in : 1
+or utilized in -> any : 1
+utilized in any -> form : 1
+in any form -> or : 1
+any form or -> by : 1
+form or by -> any : 1
+or by any -> electronic : 1
+or by any -> information : 1
+by any electronic -> or : 1
+any electronic or -> including : 1
+electronic or including -> photocopying : 1
+or including photocopying -> and : 1
+including photocopying and -> or : 1
+photocopying and or -> by : 1
+and or by -> any : 1
+by any information -> storage : 1
+any information storage -> and : 1
+information storage and -> retrieval : 1
+storage and retrieval -> without : 1
+and retrieval without -> permission : 1
+retrieval without permission -> in : 1
+without permission in -> writing : 1
+permission in writing -> from : 1
+in writing from -> the : 1
+writing from the -> you : 1
+from the you -> have : 1
+the you have -> a : 1
+you have a -> tried : 1
+have a tried -> true : 1
+a tried true -> craft : 1
+tried true craft -> or : 1
+true craft or -> memory : 1
+craft or memory -> that : 1
+or memory that -> like : 1
+memory that like -> to : 1
+that like to -> see : 1
+like to see -> featured : 1
+to see featured -> in : 1
+see featured in -> a : 1
+featured in a -> visit : 1
+in a visit -> our : 1
+a visit our -> website : 1
+visit our website -> at : 1
+visit our website -> or : 2
+our website at -> register : 1
+website at register -> and : 1
+at register and -> follow : 1
+register and follow -> the : 1
+and follow the -> easy : 1
+follow the easy -> steps : 1
+the easy steps -> to : 1
+easy steps to -> submit : 1
+steps to submit -> your : 1
+to submit your -> favorite : 1
+submit your favorite -> family : 1
+your favorite family -> or : 1
+favorite family or -> send : 1
+family or send -> them : 1
+or send them -> to : 1
+send them to -> us : 1
+them to us -> cookbook : 1
+to us cookbook -> farmers : 1
+us cookbook farmers -> oh : 1
+cookbook farmers oh -> forget : 2
+farmers oh forget -> to : 2
+oh forget to -> include : 2
+forget to include -> the : 1
+forget to include -> your : 1
+to include the -> number : 1
+include the number -> of : 1
+the number of -> servings : 1
+number of servings -> your : 1
+of servings your -> recipe : 1
+servings your recipe -> plus : 1
+your recipe plus -> your : 1
+recipe plus your -> phone : 1
+plus your phone -> number : 1
+your phone number -> and : 2
+phone number and -> email : 2
+number and email -> if : 1
+number and email -> address : 1
+and email if -> we : 1
+email if we -> select : 1
+if we select -> your : 2
+we select your -> your : 1
+we select your -> recipe : 1
+select your your -> name : 1
+your your name -> will : 1
+your name will -> appear : 2
+name will appear -> right : 2
+will appear right -> along : 2
+appear right along -> with : 2
+right along with -> receive : 2
+along with receive -> a : 2
+with receive a -> free : 2
+receive a free -> copy : 2
+a free copy -> of : 2
+free copy of -> the : 2
+copy of the -> our : 1
+copy of the -> recipe : 1
+copy of the -> your : 1
+of the our -> of : 1
+the our of -> and : 1
+our of and -> discover : 2
+of and discover -> free : 2
+and discover free -> recipes : 2
+discover free recipes -> plus : 2
+free recipes plus -> giveaways : 2
+recipes plus giveaways -> find : 2
+plus giveaways find -> all : 2
+giveaways find all -> your : 2
+find all your -> favorite : 2
+all your favorite -> cookbooks : 2
+your favorite cookbooks -> through : 2
+favorite cookbooks through -> our : 2
+cookbooks through our -> visit : 2
+through our visit -> our : 2
+our visit our -> website : 2
+our website or -> to : 2
+website or to -> look : 2
+or to look -> for : 2
+to look for -> us : 2
+look for us -> on : 2
+for us on -> and : 2
+us on and -> be : 2
+on and be -> sure : 2
+and be sure -> to : 2
+be sure to -> follow : 2
+sure to follow -> us : 2
+to follow us -> on : 2
+follow us on -> bold : 2
+us on bold -> bold : 1
+us on bold -> of : 1
+on bold bold -> book : 1
+bold bold book -> is : 1
+bold book is -> dedicated : 1
+book is dedicated -> to : 1
+is dedicated to -> everyone : 1
+dedicated to everyone -> to : 1
+to everyone to -> serve : 1
+everyone to serve -> up : 1
+to serve up -> homecooked : 1
+serve up homecooked -> food : 1
+up homecooked food -> the : 1
+homecooked food the -> slow : 1
+food the slow -> cooker : 1
+the slow cooker -> do : 1
+the slow cooker -> about : 1
+the slow cooker -> in : 1
+the slow cooker -> keeps : 1
+slow cooker do -> all : 1
+cooker do all -> the : 1
+do all the -> thanks : 1
+do all the -> peeling : 1
+all the thanks -> to : 1
+the thanks to -> all : 1
+thanks to all -> of : 1
+to all of -> you : 1
+all of you -> shared : 1
+of you shared -> your : 1
+you shared your -> recipes : 1
+shared your recipes -> with : 1
+your recipes with -> bold : 1
+recipes with bold -> the : 1
+with bold the -> crock : 1
+bold the crock -> with : 1
+the crock with -> vegetable : 1
+crock with vegetable -> spray : 1
+with vegetable spray -> before : 1
+vegetable spray before -> will : 1
+spray before will -> be : 1
+before will be -> a : 1
+will be a -> best : 1
+be a best -> fill : 1
+a best fill -> the : 1
+best fill the -> slow : 1
+fill the slow -> cooker : 1
+slow cooker about -> to : 1
+cooker about to -> full : 1
+about to full -> of : 1
+to full of -> or : 1
+full of or -> no : 1
+of or no -> added : 1
+or no added -> liquid : 1
+no added liquid -> is : 1
+added liquid is -> add : 1
+liquid is add -> what : 1
+is add what -> the : 1
+add what the -> recipe : 1
+what the recipe -> calls : 1
+the recipe calls -> no : 1
+recipe calls no -> so : 1
+calls no so -> all : 1
+no so all -> of : 1
+so all of -> the : 1
+all of the -> tasty : 1
+of the tasty -> juices : 1
+the tasty juices -> stay : 1
+tasty juices stay -> right : 1
+juices stay right -> in : 1
+stay right in -> the : 1
+in the cooking -> time : 1
+the cooking time -> can : 1
+cooking time can -> increase : 1
+time can increase -> by : 1
+can increase by -> to : 1
+increase by to -> minutes : 1
+by to minutes -> every : 1
+to minutes every -> time : 1
+minutes every time -> the : 1
+every time the -> lid : 1
+time the lid -> is : 1
+the lid is -> the : 1
+lid is the -> end : 1
+is the end -> of : 1
+the end of -> cooking : 1
+the end of -> a : 1
+end of cooking -> taste : 1
+of cooking taste -> and : 1
+cooking taste and -> adjust : 1
+taste and adjust -> the : 1
+and adjust the -> flavor : 1
+adjust the flavor -> of : 1
+the flavor of -> herbs : 1
+flavor of herbs -> tends : 1
+of herbs tends -> to : 1
+herbs tends to -> grow : 1
+tends to grow -> milder : 1
+to grow milder -> with : 1
+grow milder with -> long : 1
+milder with long -> so : 1
+with long so -> you : 1
+long so you -> may : 1
+so you may -> want : 1
+you may want -> to : 1
+may want to -> add : 1
+want to add -> a : 1
+to add a -> little : 1
+add a little -> high : 1
+a little high -> slow : 1
+little high slow -> cooking : 1
+high slow cooking -> will : 1
+slow cooking will -> take : 1
+cooking will take -> a : 1
+will take a -> little : 1
+take a little -> add : 1
+a little add -> an : 1
+little add an -> extra : 1
+add an extra -> minutes : 1
+an extra minutes -> of : 1
+extra minutes of -> cooking : 1
+minutes of cooking -> time : 1
+of cooking time -> to : 1
+cooking time to -> each : 1
+time to each -> hour : 1
+to each hour -> in : 1
+each hour in -> a : 1
+hour in a -> bold : 1
+in a bold -> with : 1
+a bold with -> bold : 1
+bold with bold -> pork : 1
+with bold pork -> over : 1
+bold pork over -> corn : 1
+pork over corn -> hearty : 1
+pork over corn -> roast : 1
+over corn hearty -> dish : 1
+corn hearty dish -> that : 1
+hearty dish that -> feeds : 1
+dish that feeds -> a : 1
+that feeds a -> crowd : 1
+feeds a crowd -> of : 1
+a crowd of -> hungry : 1
+crowd of hungry -> dried : 1
+of hungry dried -> pinto : 1
+hungry dried pinto -> pork : 1
+dried pinto pork -> loin : 1
+pinto pork loin -> can : 1
+pork loin can -> chopped : 1
+loin can chopped -> green : 1
+can chopped green -> cloves : 1
+can chopped green -> hot : 1
+chopped green cloves -> chili : 1
+green cloves chili -> ground : 1
+cloves chili ground -> dried : 1
+chili ground dried -> corn : 1
+chili ground dried -> sour : 1
+ground dried corn -> sour : 1
+dried corn sour -> shredded : 1
+corn sour shredded -> cheddar : 1
+sour shredded cheddar -> chopped : 1
+sour shredded cheddar -> shredded : 1
+shredded cheddar chopped -> shredded : 1
+cheddar chopped shredded -> beans : 1
+chopped shredded beans -> with : 1
+shredded beans with -> water : 1
+beans with water -> in : 4
+with water in -> a : 5
+water in a -> large : 4
+water in a -> mixing : 1
+water in a -> cook : 1
+in a large -> soup : 4
+in a large -> mix : 2
+in a large -> add : 1
+in a large -> blend : 1
+in a large -> plastic : 1
+a large soup -> soak : 3
+a large soup -> bring : 1
+a large soup -> pot : 1
+large soup soak -> add : 1
+large soup soak -> combine : 2
+soup soak add -> beans : 1
+soak add beans -> and : 1
+add beans and -> remaining : 1
+beans and remaining -> ingredients : 1
+and remaining ingredients -> except : 1
+and remaining ingredients -> in : 3
+remaining ingredients except -> garnish : 2
+remaining ingredients except -> sesame : 1
+remaining ingredients except -> cover : 4
+remaining ingredients except -> tortillas : 1
+remaining ingredients except -> whipped : 1
+remaining ingredients except -> parmesan : 1
+remaining ingredients except -> rice : 1
+remaining ingredients except -> shrimp : 1
+remaining ingredients except -> toss : 1
+remaining ingredients except -> pour : 1
+remaining ingredients except -> reserved : 1
+ingredients except garnish -> to : 1
+ingredients except garnish -> in : 2
+except garnish to -> a : 1
+garnish to a -> slow : 1
+to a slow -> cover : 1
+to a slow -> combine : 1
+to a slow -> cooker : 1
+to a slow -> arrange : 1
+to a slow -> do : 1
+a slow cover -> and : 23
+slow cover and -> cook : 27
+slow cover and -> keep : 1
+cover and cook -> on : 105
+cover and cook -> for : 6
+cover and cook -> an : 2
+and cook on -> low : 84
+and cook on -> high : 23
+cook on low -> setting : 83
+cook on low -> for : 2
+on low setting -> for : 81
+on low setting -> until : 2
+on low setting -> to : 1
+low setting for -> remove : 1
+low setting for -> to : 54
+low setting for -> about : 3
+low setting for -> one : 2
+low setting for -> an : 3
+low setting for -> until : 1
+low setting for -> or : 6
+low setting for -> serve : 2
+low setting for -> garnish : 1
+low setting for -> stir : 2
+low setting for -> measure : 1
+low setting for -> just : 1
+low setting for -> sprinkle : 1
+low setting for -> stirring : 2
+low setting for -> discard : 1
+setting for remove -> discarding : 1
+for remove discarding -> return : 1
+remove discarding return -> to : 1
+discarding return to -> slow : 1
+return to slow -> for : 1
+return to slow -> cooker : 1
+return to slow -> add : 2
+return to slow -> stir : 2
+return to slow -> drop : 1
+return to slow -> sprinkle : 1
+return to slow -> discard : 1
+return to slow -> garnish : 1
+to slow for -> until : 1
+slow for until -> serve : 1
+for until serve -> over : 1
+until serve over -> corn : 1
+serve over corn -> garnish : 1
+over corn garnish -> as : 1
+corn garnish as -> makes : 1
+garnish as makes -> bold : 1
+as makes bold -> buffalo : 1
+makes bold buffalo -> of : 1
+bold buffalo of -> my : 1
+buffalo of my -> favorite : 1
+of my favorite -> party : 1
+my favorite party -> easy : 1
+favorite party easy -> to : 1
+party easy to -> make : 1
+easy to make -> and : 1
+easy to make -> this : 1
+to make and -> we : 1
+make and we -> all : 1
+and we all -> love : 1
+we all love -> to : 1
+all love to -> skinless : 1
+love to skinless -> chicken : 1
+to skinless chicken -> cooked : 1
+to skinless chicken -> cans : 1
+skinless chicken cooked -> and : 1
+chicken cooked and -> hot : 1
+cooked and hot -> wing : 1
+and hot wing -> cream : 1
+hot wing cream -> cubed : 1
+wing cream cubed -> and : 1
+cream cubed and -> shredded : 1
+cubed and shredded -> cheddar : 2
+and shredded cheddar -> blue : 1
+and shredded cheddar -> bowtie : 1
+shredded cheddar blue -> cheese : 1
+cheddar blue cheese -> salad : 1
+blue cheese salad -> celery : 1
+cheese salad celery -> a : 1
+salad celery a -> slow : 1
+celery a slow -> mix : 1
+a slow mix -> together : 2
+a slow mix -> cover : 6
+a slow mix -> spoon : 1
+slow mix together -> all : 1
+slow mix together -> sauce : 1
+mix together all -> ingredients : 2
+together all ingredients -> except : 3
+all ingredients except -> corn : 1
+all ingredients except -> tortilla : 2
+all ingredients except -> nuts : 1
+all ingredients except -> rice : 1
+all ingredients except -> potatoes : 1
+all ingredients except -> transfer : 1
+all ingredients except -> garnish : 1
+all ingredients except -> evaporated : 1
+all ingredients except -> cheese : 1
+all ingredients except -> pasta : 1
+all ingredients except -> cook : 1
+all ingredients except -> ice : 2
+all ingredients except -> apples : 1
+all ingredients except -> place : 1
+all ingredients except -> sausages : 1
+ingredients except corn -> chips : 1
+except corn chips -> and : 1
+corn chips and -> celery : 2
+chips and celery -> cover : 1
+chips and celery -> stalks : 1
+and celery cover -> and : 1
+celery cover and -> cook : 1
+setting for to -> serve : 4
+setting for to -> or : 15
+setting for to -> arrange : 1
+setting for to -> remove : 8
+setting for to -> makes : 4
+setting for to -> spoon : 1
+setting for to -> until : 10
+setting for to -> add : 1
+setting for to -> with : 1
+setting for to -> uncover : 1
+setting for to -> stir : 2
+setting for to -> stirring : 2
+setting for to -> drain : 1
+setting for to -> serves : 9
+setting for to -> about : 2
+setting for to -> top : 1
+setting for to -> to : 3
+setting for to -> pudding : 1
+setting for to -> allow : 1
+setting for to -> during : 1
+setting for to -> ladle : 1
+setting for to -> shortly : 1
+setting for to -> mix : 1
+setting for to -> in : 1
+setting for to -> shred : 2
+setting for to -> basting : 1
+setting for to -> discard : 1
+for to serve -> with : 1
+for to serve -> hot : 1
+for to serve -> garnished : 1
+for to serve -> over : 1
+to serve with -> corn : 1
+serve with corn -> chips : 1
+with corn chips -> and : 1
+and celery stalks -> for : 1
+celery stalks for -> makes : 1
+stalks for makes -> to : 1
+for makes to -> bold : 1
+makes to bold -> sesame : 1
+makes to bold -> crowd : 1
+makes to bold -> sure : 1
+makes to bold -> dip : 1
+makes to bold -> spiced : 1
+makes to bold -> sloppy : 1
+makes to bold -> fruit : 1
+makes to bold -> bread : 2
+makes to bold -> year : 1
+makes to bold -> like : 1
+makes to bold -> favorite : 1
+makes to bold -> roast : 1
+makes to bold -> thyme : 1
+makes to bold -> turkey : 1
+makes to bold -> herbed : 1
+makes to bold -> short : 1
+makes to bold -> corn : 2
+makes to bold -> chicken : 1
+makes to bold -> west : 1
+makes to bold -> beef : 1
+makes to bold -> scallion : 1
+makes to bold -> is : 1
+makes to bold -> joe : 1
+makes to bold -> sauce : 1
+makes to bold -> pecan : 1
+to bold sesame -> a : 1
+bold sesame a -> hit : 1
+sesame a hit -> with : 1
+a hit with -> young : 1
+hit with young -> old : 1
+with young old -> wings : 1
+young old wings -> are : 1
+old wings are -> sweet : 1
+wings are sweet -> and : 1
+are sweet and -> but : 1
+sweet and but -> not : 1
+and but not -> too : 1
+but not too -> we : 1
+not too we -> just : 1
+too we just -> love : 1
+we just love -> chicken : 1
+just love chicken -> and : 1
+love chicken and -> pepper : 1
+chicken and pepper -> to : 3
+and pepper to -> soy : 1
+and pepper to -> sandwich : 1
+and pepper to -> stir : 1
+and pepper to -> to : 2
+and pepper to -> egg : 1
+and pepper to -> onion : 1
+and pepper to -> peeled : 1
+and pepper to -> potatoes : 1
+and pepper to -> cover : 1
+and pepper to -> slivered : 1
+and pepper to -> cans : 1
+and pepper to -> hickory : 1
+and pepper to -> sausages : 1
+and pepper to -> pork : 1
+and pepper to -> a : 1
+and pepper to -> sleeve : 1
+pepper to soy -> cloves : 1
+to soy cloves -> sesame : 1
+soy cloves sesame -> chicken : 1
+cloves sesame chicken -> wings : 1
+sesame chicken wings -> on : 1
+chicken wings on -> an : 1
+wings on an -> ungreased : 1
+on an ungreased -> broiler : 1
+an ungreased broiler -> sprinkle : 1
+ungreased broiler sprinkle -> with : 1
+broiler sprinkle with -> salt : 1
+sprinkle with salt -> and : 3
+with salt and -> place : 2
+with salt and -> heat : 1
+with salt and -> top : 1
+with salt and -> serves : 1
+salt and place -> pan : 1
+salt and place -> in : 1
+and place pan -> to : 1
+place pan to -> inches : 1
+pan to inches -> under : 1
+to inches under -> broil : 1
+inches under broil -> for : 1
+under broil for -> minutes : 1
+broil for minutes -> on : 1
+for minutes on -> each : 1
+minutes on each -> or : 1
+on each or -> until : 1
+each or until -> chicken : 1
+or until chicken -> is : 2
+until chicken is -> transfer : 1
+until chicken is -> very : 1
+chicken is transfer -> wings : 1
+is transfer wings -> to : 1
+transfer wings to -> a : 1
+wings to a -> slow : 1
+a slow combine -> remaining : 4
+a slow combine -> juice : 1
+a slow combine -> onion : 3
+a slow combine -> cream : 1
+a slow combine -> brown : 1
+a slow combine -> vegetables : 1
+slow combine remaining -> ingredients : 3
+slow combine remaining -> water : 1
+slow combine remaining -> pour : 1
+combine remaining ingredients -> except : 3
+ingredients except sesame -> pour : 1
+except sesame pour -> over : 1
+sesame pour over -> cover : 1
+pour over cover -> and : 10
+over cover and -> cook : 18
+for to or -> high : 1
+for to or -> on : 14
+to or high -> setting : 1
+or high setting -> for : 1
+high setting for -> to : 23
+high setting for -> about : 1
+high setting for -> turn : 1
+high setting for -> stir : 3
+high setting for -> one : 3
+high setting for -> serve : 1
+high setting for -> an : 2
+high setting for -> shred : 2
+high setting for -> serves : 1
+for to arrange -> on : 1
+to arrange on -> a : 1
+arrange on a -> serving : 1
+on a serving -> sprinkle : 1
+a serving sprinkle -> with : 1
+serving sprinkle with -> sesame : 1
+sprinkle with sesame -> makes : 1
+with sesame makes -> about : 1
+sesame makes about -> bold : 1
+makes about bold -> rice : 1
+makes about bold -> crab : 1
+makes about bold -> peachy : 1
+makes about bold -> chili : 1
+makes about bold -> cheesy : 1
+about bold rice -> saint : 1
+bold rice saint -> served : 1
+rice saint served -> warm : 1
+saint served warm -> or : 1
+served warm or -> can : 1
+warm or can -> cream : 1
+or can cream -> of : 1
+can cream of -> can : 1
+can cream of -> celery : 1
+can cream of -> chicken : 3
+can cream of -> mushroom : 2
+can cream of -> potato : 1
+cream of can -> evaporated : 1
+of can evaporated -> dark : 1
+can evaporated dark -> sweetened : 1
+evaporated dark sweetened -> flaked : 1
+dark sweetened flaked -> a : 1
+sweetened flaked a -> slow : 1
+flaked a slow -> stir : 1
+a slow stir -> cream : 1
+a slow stir -> cover : 2
+a slow stir -> in : 3
+slow stir cream -> of : 1
+stir cream of -> evaporated : 1
+cream of evaporated -> milk : 1
+of evaporated milk -> and : 1
+evaporated milk and -> water : 1
+evaporated milk and -> stir : 1
+milk and water -> until : 1
+and water until -> cover : 1
+water until cover -> and : 1
+until cover and -> cook : 1
+for to remove -> crock : 1
+for to remove -> roast : 2
+for to remove -> slice : 1
+for to remove -> cut : 1
+for to remove -> ham : 1
+for to remove -> short : 1
+for to remove -> chicken : 1
+for to remove -> cinnamon : 1
+to remove crock -> from : 1
+remove crock from -> slow : 1
+crock from slow -> stir : 1
+from slow stir -> in : 1
+slow stir in -> if : 1
+slow stir in -> cheese : 1
+slow stir in -> remaining : 2
+slow stir in -> sauce : 1
+slow stir in -> flour : 1
+slow stir in -> cover : 1
+slow stir in -> cans : 1
+stir in if -> let : 1
+in if let -> pudding : 1
+if let pudding -> cool : 1
+let pudding cool -> for : 1
+pudding cool for -> heat : 1
+cool for heat -> a : 1
+for heat a -> small : 1
+heat a small -> skillet : 1
+a small skillet -> over : 1
+small skillet over -> medium : 1
+skillet over medium -> add : 2
+skillet over medium -> onion : 1
+skillet over medium -> cook : 2
+skillet over medium -> chicken : 1
+skillet over medium -> drain : 1
+skillet over medium -> brown : 1
+skillet over medium -> place : 1
+over medium add -> cook : 2
+medium add cook -> and : 1
+medium add cook -> for : 1
+add cook and -> stir : 1
+cook and stir -> for : 2
+cook and stir -> until : 1
+cook and stir -> over : 1
+and stir for -> to : 1
+and stir for -> until : 1
+stir for to -> until : 1
+for to until -> transfer : 1
+for to until -> very : 1
+for to until -> do : 1
+for to until -> edges : 2
+for to until -> potatoes : 1
+for to until -> rice : 1
+for to until -> biscuits : 1
+for to until -> chicken : 1
+for to until -> stir : 1
+for to until -> shred : 1
+for to until -> remove : 1
+to until transfer -> coconut : 1
+until transfer coconut -> to : 1
+transfer coconut to -> a : 1
+coconut to a -> spoon : 1
+to a spoon -> pudding : 1
+a spoon pudding -> into : 1
+spoon pudding into -> dessert : 1
+spoon pudding into -> individual : 1
+pudding into dessert -> sprinkle : 1
+into dessert sprinkle -> with : 1
+dessert sprinkle with -> makes : 1
+sprinkle with makes -> to : 1
+sprinkle with makes -> bold : 1
+with makes to -> bold : 3
+with makes to -> buns : 1
+to bold crowd -> i : 1
+bold crowd i -> have : 1
+crowd i have -> learned : 1
+i have learned -> to : 1
+have learned to -> carry : 1
+learned to carry -> a : 1
+to carry a -> copy : 1
+carry a copy -> of : 1
+a copy of -> the : 1
+of the recipe -> with : 1
+the recipe with -> me : 1
+recipe with me -> whenever : 1
+with me whenever -> i : 1
+me whenever i -> serve : 1
+whenever i serve -> because : 1
+i serve because -> people : 1
+serve because people -> are : 1
+because people are -> always : 1
+people are always -> asking : 1
+are always asking -> for : 1
+always asking for -> sliced : 1
+asking for sliced -> into : 1
+for sliced into -> can : 1
+sliced into can -> crushed : 1
+into can crushed -> bottle : 1
+can crushed bottle -> barbecue : 1
+crushed bottle barbecue -> brown : 1
+bottle barbecue brown -> ground : 1
+barbecue brown ground -> onion : 1
+brown ground onion -> garlic : 1
+ground onion garlic -> all : 1
+onion garlic all -> ingredients : 1
+garlic all ingredients -> in : 1
+all ingredients in -> a : 8
+ingredients in a -> slow : 10
+ingredients in a -> small : 1
+ingredients in a -> large : 1
+in a slow -> mix : 7
+in a slow -> add : 10
+in a slow -> cover : 21
+in a slow -> cooker : 7
+in a slow -> pour : 3
+in a slow -> wrap : 1
+in a slow -> top : 8
+in a slow -> stir : 4
+in a slow -> combine : 7
+in a slow -> place : 1
+in a slow -> hot : 1
+in a slow -> sprinkle : 3
+in a slow -> set : 1
+in a slow -> in : 1
+in a slow -> layer : 1
+slow mix cover -> and : 7
+mix cover and -> cook : 9
+setting for about -> until : 2
+setting for about -> makes : 1
+setting for about -> ladle : 1
+for about until -> warmed : 1
+for about until -> combine : 1
+for about until -> makes : 1
+about until warmed -> or : 1
+until warmed or -> on : 1
+warmed or on -> high : 1
+or on high -> setting : 18
+or on high -> for : 1
+on high setting -> for : 36
+on high setting -> until : 2
+on high setting -> to : 1
+for about makes -> to : 1
+about makes to -> bold : 1
+to bold sure -> to : 1
+bold sure to -> serve : 1
+sure to serve -> this : 1
+to serve this -> yummy : 1
+serve this yummy -> dip : 1
+this yummy dip -> with : 1
+yummy dip with -> hearty : 1
+dip with hearty -> want : 1
+with hearty want -> to : 1
+hearty want to -> get : 1
+want to get -> every : 1
+to get every -> stalks : 1
+get every stalks -> thinly : 1
+every stalks thinly -> can : 1
+stalks thinly can -> sliced : 1
+thinly can sliced -> can : 1
+can sliced can -> cream : 1
+sliced can cream -> of : 2
+cream of celery -> shredded : 1
+of celery shredded -> cheddar : 1
+celery shredded cheddar -> frozen : 1
+shredded cheddar frozen -> chopped : 1
+cheddar frozen chopped -> butter : 1
+frozen chopped butter -> in : 1
+chopped butter in -> a : 1
+butter in a -> skillet : 2
+butter in a -> slow : 1
+in a skillet -> over : 6
+a skillet over -> medium : 8
+a skillet over -> brown : 1
+over medium onion -> and : 1
+medium onion and -> stir : 1
+onion and stir -> in : 2
+and stir in -> mix : 1
+and stir in -> tomatoes : 1
+and stir in -> enough : 1
+stir in mix -> transfer : 1
+in mix transfer -> mixture : 1
+mix transfer mixture -> to : 1
+transfer mixture to -> a : 1
+mixture to a -> lightly : 1
+mixture to a -> slow : 1
+to a lightly -> greased : 1
+a lightly greased -> slow : 7
+lightly greased slow -> mix : 1
+lightly greased slow -> combine : 1
+lightly greased slow -> stir : 1
+lightly greased slow -> arrange : 1
+lightly greased slow -> add : 1
+lightly greased slow -> cooker : 1
+lightly greased slow -> with : 1
+greased slow mix -> in : 1
+slow mix in -> remaining : 1
+mix in remaining -> cover : 1
+in remaining cover -> and : 3
+remaining cover and -> cook : 6
+cook on high -> setting : 20
+cook on high -> for : 2
+cook on high -> check : 1
+high setting until -> cheese : 1
+high setting until -> pour : 1
+setting until cheese -> is : 2
+until cheese is -> stirring : 1
+until cheese is -> about : 1
+until cheese is -> serves : 1
+until cheese is -> bubbly : 1
+cheese is stirring -> every : 1
+is stirring every -> continue : 1
+stirring every continue -> on : 1
+every continue on -> low : 1
+continue on low -> setting : 1
+for to makes -> to : 4
+for to makes -> bold : 1
+to makes to -> bold : 4
+to bold dip -> the : 1
+bold dip the -> savory : 1
+dip the savory -> broth : 1
+the savory broth -> from : 1
+savory broth from -> the : 1
+broth from the -> slow : 1
+from the slow -> cooker : 1
+slow cooker in -> small : 1
+cooker in small -> cups : 1
+in small cups -> for : 1
+small cups for -> beef : 1
+cups for beef -> chuck : 1
+for beef chuck -> soy : 1
+beef chuck soy -> dried : 1
+chuck soy dried -> dried : 1
+soy dried dried -> garlic : 1
+dried dried garlic -> bay : 1
+dried dried garlic -> minced : 1
+dried garlic bay -> to : 1
+garlic bay to -> whole : 1
+bay to whole -> french : 1
+to whole french -> roast : 1
+whole french roast -> in : 1
+french roast in -> a : 1
+roast in a -> slow : 9
+a slow add -> remaining : 1
+a slow add -> salt : 1
+a slow add -> onion : 1
+a slow add -> undrained : 1
+a slow add -> enough : 2
+a slow add -> pour : 1
+a slow add -> soup : 1
+a slow add -> pepper : 1
+a slow add -> cover : 2
+a slow add -> sprinkle : 1
+slow add remaining -> ingredients : 2
+add remaining ingredients -> except : 5
+ingredients except cover -> and : 4
+except cover and -> cook : 4
+on high for -> to : 2
+on high for -> reduce : 1
+high for to -> remove : 1
+high for to -> stirring : 1
+to remove roast -> from : 1
+to remove roast -> and : 1
+remove roast from -> shred : 1
+roast from shred -> with : 1
+from shred with -> forks : 1
+shred with forks -> and : 1
+with forks and -> keep : 1
+forks and keep -> discard : 1
+and keep discard -> bay : 1
+keep discard bay -> serve : 1
+discard bay serve -> beef : 1
+bay serve beef -> on : 1
+serve beef on -> makes : 1
+beef on makes -> to : 1
+on makes to -> bold : 1
+to bold spiced -> small : 1
+to bold spiced -> hot : 1
+bold spiced small -> bags : 1
+spiced small bags -> with : 1
+small bags with -> these : 1
+bags with these -> delightful : 1
+with these delightful -> nuts : 1
+these delightful nuts -> to : 1
+delightful nuts to -> send : 1
+nuts to send -> home : 1
+to send home -> with : 1
+send home with -> love : 1
+home with love -> pecan : 1
+with love pecan -> chili : 1
+love pecan chili -> dried : 1
+pecan chili dried -> dried : 1
+chili dried dried -> dried : 1
+dried dried dried -> onion : 1
+dried dried onion -> garlic : 1
+dried onion garlic -> cayenne : 1
+onion garlic cayenne -> all : 1
+garlic cayenne all -> ingredients : 1
+cayenne all ingredients -> in : 1
+setting for turn -> to : 1
+for turn to -> low : 1
+turn to low -> setting : 1
+to low setting -> and : 3
+low setting and -> for : 1
+low setting and -> cook : 2
+setting and for -> stirring : 1
+and for stirring -> transfer : 1
+for stirring transfer -> nuts : 1
+stirring transfer nuts -> to : 1
+transfer nuts to -> a : 1
+nuts to a -> baking : 1
+to a baking -> cool : 1
+a baking cool -> store : 1
+baking cool store -> in : 1
+cool store in -> an : 1
+store in an -> airtight : 2
+in an airtight -> makes : 2
+an airtight makes -> to : 1
+an airtight makes -> bold : 1
+airtight makes to -> bold : 1
+to bold sloppy -> a : 1
+bold sloppy a -> quick : 1
+sloppy a quick -> easy : 1
+a quick easy -> ladle : 1
+quick easy ladle -> leftovers : 1
+easy ladle leftovers -> over : 1
+ladle leftovers over -> cooked : 1
+leftovers over cooked -> rotini : 1
+over cooked rotini -> ground : 1
+cooked rotini ground -> green : 1
+rotini ground green -> cloves : 1
+ground green cloves -> cider : 1
+green cloves cider -> worcestershire : 1
+cloves cider worcestershire -> chili : 1
+cider worcestershire chili -> hamburger : 1
+worcestershire chili hamburger -> a : 1
+chili hamburger a -> skillet : 1
+hamburger a skillet -> over : 1
+over medium cook -> ground : 1
+over medium cook -> onion : 1
+medium cook ground -> pepper : 1
+cook ground pepper -> and : 1
+ground pepper and -> garlic : 1
+pepper and garlic -> until : 1
+and garlic until -> browned : 1
+garlic until browned -> and : 1
+until browned and -> combine : 1
+browned and combine -> in : 1
+and combine in -> a : 1
+combine in a -> slow : 1
+a slow cooker -> with : 2
+a slow cooker -> that : 4
+a slow cooker -> primarily : 1
+a slow cooker -> and : 3
+slow cooker with -> remaining : 1
+slow cooker with -> vegetable : 1
+cooker with remaining -> ingredients : 1
+with remaining ingredients -> except : 3
+to or on -> high : 14
+for to spoon -> onto : 1
+to spoon onto -> makes : 1
+spoon onto makes -> bold : 2
+onto makes bold -> hot : 1
+onto makes bold -> beef : 1
+makes bold hot -> corn : 1
+bold hot corn -> husband : 1
+hot corn husband -> calls : 1
+corn husband calls -> this : 1
+husband calls this -> dip : 1
+calls this dip -> the : 1
+this dip the -> last : 1
+dip the last -> time : 1
+the last time -> i : 1
+last time i -> made : 1
+time i made -> this : 1
+i made this -> people : 1
+made this people -> were : 1
+this people were -> eating : 1
+people were eating -> it : 1
+were eating it -> by : 1
+eating it by -> the : 1
+it by the -> cream : 1
+by the cream -> cans : 1
+the cream cans -> all : 1
+cream cans all -> ingredients : 1
+cans all ingredients -> except : 1
+ingredients except tortilla -> chips : 2
+except tortilla chips -> in : 2
+tortilla chips in -> a : 2
+chips in a -> slow : 2
+chips in a -> small : 1
+setting for stir -> until : 1
+setting for stir -> mash : 1
+setting for stir -> in : 1
+setting for stir -> makes : 1
+setting for stir -> again : 1
+for stir until -> reduce : 1
+stir until reduce -> setting : 1
+until reduce setting -> to : 1
+reduce setting to -> low : 1
+reduce setting to -> cover : 1
+setting to low -> to : 1
+to low to -> keep : 1
+low to keep -> the : 1
+to keep the -> longer : 1
+keep the longer -> it : 1
+the longer it -> the : 1
+longer it the -> spicier : 1
+it the spicier -> it : 1
+the spicier it -> will : 1
+spicier it will -> serve : 1
+it will serve -> with : 1
+will serve with -> tortilla : 1
+serve with tortilla -> makes : 2
+with tortilla makes -> bold : 1
+with tortilla makes -> to : 1
+tortilla makes bold -> italian : 1
+makes bold italian -> beef : 1
+bold italian beef -> sandwiches : 1
+italian beef sandwiches -> are : 1
+beef sandwiches are -> zesty : 1
+sandwiches are zesty -> and : 1
+are zesty and -> easy : 1
+zesty and easy -> to : 1
+and easy to -> beef : 1
+easy to beef -> chuck : 1
+easy to beef -> dry : 1
+to beef chuck -> jar : 1
+beef chuck jar -> pepperoncini : 1
+chuck jar pepperoncini -> drained : 1
+jar pepperoncini drained -> and : 1
+pepperoncini drained and -> juice : 1
+drained and juice -> au : 1
+and juice au -> jus : 1
+juice au jus -> to : 1
+au jus to -> hoagie : 1
+jus to hoagie -> roast : 1
+to hoagie roast -> in : 1
+hoagie roast in -> a : 1
+a slow pour -> reserved : 1
+a slow pour -> sauce : 2
+slow pour reserved -> pepper : 1
+pour reserved pepper -> juice : 1
+reserved pepper juice -> over : 1
+pepper juice over -> cover : 1
+juice over cover -> and : 1
+to until very -> remove : 1
+until very remove -> roast : 1
+very remove roast -> and : 1
+remove roast and -> shred : 1
+remove roast and -> place : 1
+roast and shred -> with : 1
+and shred with -> stir : 1
+shred with stir -> back : 1
+with stir back -> into : 1
+stir back into -> juice : 1
+stir back into -> makes : 1
+stir back into -> slow : 1
+back into juice -> in : 1
+into juice in -> slow : 1
+juice in slow -> add : 1
+in slow add -> peppers : 1
+slow add peppers -> and : 1
+add peppers and -> blend : 1
+peppers and blend -> au : 1
+and blend au -> jus : 1
+blend au jus -> mix : 1
+au jus mix -> with : 1
+jus mix with -> a : 1
+mix with a -> little : 1
+mix with a -> pastry : 1
+with a little -> of : 1
+a little of -> the : 1
+little of the -> juice : 1
+of the juice -> from : 1
+the juice from -> slow : 1
+juice from slow -> cooker : 1
+from slow cooker -> until : 1
+from slow cooker -> over : 1
+from slow cooker -> into : 1
+from slow cooker -> and : 1
+slow cooker until -> pour : 1
+cooker until pour -> over : 1
+until pour over -> add : 1
+pour over add -> water : 1
+over add water -> if : 1
+add water if -> needed : 1
+water if needed -> to : 1
+if needed to -> cover : 1
+needed to cover -> cover : 1
+to cover cover -> and : 2
+cover cover and -> cook : 2
+and cook for -> an : 5
+and cook for -> serve : 1
+and cook for -> minutes : 1
+and cook for -> another : 1
+and cook for -> to : 1
+cook for an -> additional : 5
+for an additional -> serve : 2
+for an additional -> until : 2
+for an additional -> stir : 1
+for an additional -> to : 1
+for an additional -> serves : 1
+for an additional -> or : 2
+for an additional -> spoon : 1
+an additional serve -> beef : 1
+an additional serve -> over : 1
+additional serve beef -> spooned : 1
+serve beef spooned -> onto : 1
+beef spooned onto -> makes : 1
+spooned onto makes -> to : 1
+onto makes to -> bold : 1
+to bold fruit -> in : 1
+bold fruit in -> from : 1
+fruit in from -> ice : 1
+in from ice -> we : 1
+from ice we -> were : 1
+ice we were -> chilled : 1
+we were chilled -> to : 1
+were chilled to -> the : 1
+chilled to the -> luckily : 1
+to the luckily -> mom : 1
+the luckily mom -> had : 1
+luckily mom had -> this : 1
+mom had this -> wonderful : 1
+had this wonderful -> juice : 1
+this wonderful juice -> blend : 1
+wonderful juice blend -> warming : 1
+juice blend warming -> in : 1
+blend warming in -> the : 1
+warming in the -> slow : 1
+the slow bottle -> juice : 1
+slow bottle juice -> apple : 1
+bottle juice apple -> pomegranate : 1
+juice apple pomegranate -> orange : 1
+apple pomegranate orange -> cinnamon : 1
+pomegranate orange cinnamon -> whole : 1
+orange cinnamon whole -> orange : 1
+cinnamon whole orange -> juices : 1
+whole orange juices -> and : 1
+orange juices and -> honey : 1
+juices and honey -> in : 1
+and honey in -> a : 1
+honey in a -> slow : 1
+a slow wrap -> cinnamon : 1
+slow wrap cinnamon -> sticks : 1
+wrap cinnamon sticks -> and : 1
+cinnamon sticks and -> cloves : 1
+sticks and cloves -> in : 1
+and cloves in -> a : 1
+cloves in a -> double : 1
+in a double -> thickness : 1
+a double thickness -> of : 1
+double thickness of -> bring : 1
+thickness of bring -> up : 1
+of bring up -> corners : 1
+bring up corners -> of : 1
+up corners of -> cloth : 1
+corners of cloth -> and : 1
+of cloth and -> tie : 1
+cloth and tie -> with : 1
+and tie with -> kitchen : 1
+tie with kitchen -> string : 1
+with kitchen string -> to : 1
+kitchen string to -> form : 1
+string to form -> a : 1
+to form a -> add : 1
+form a add -> to : 1
+a add to -> slow : 1
+add to slow -> cooker : 1
+add to slow -> stirring : 1
+add to slow -> spread : 1
+to slow cooker -> along : 1
+to slow cooker -> and : 3
+slow cooker along -> with : 2
+cooker along with -> cover : 2
+along with cover -> and : 2
+with cover and -> cook : 7
+setting for one -> to : 1
+setting for one -> reduce : 3
+setting for one -> serve : 1
+for one to -> discard : 1
+one to discard -> spice : 1
+to discard spice -> bag : 1
+discard spice bag -> before : 1
+spice bag before -> makes : 1
+bag before makes -> bold : 1
+before makes bold -> chicken : 1
+before makes bold -> bean : 1
+makes bold chicken -> is : 1
+makes bold chicken -> how : 1
+makes bold chicken -> gave : 1
+makes bold chicken -> stuffing : 1
+bold chicken is -> so : 1
+chicken is so -> quick : 1
+is so quick -> easy : 1
+so quick easy -> to : 1
+quick easy to -> put : 1
+easy to put -> a : 1
+easy to put -> skinless : 1
+to put a -> recipe : 1
+put a recipe -> i : 1
+a recipe i -> can : 1
+recipe i can -> count : 1
+i can count -> on : 2
+can count on -> for : 1
+can count on -> when : 1
+count on for -> every : 1
+on for every -> large : 1
+for every large -> can : 1
+every large can -> dark : 1
+large can dark -> and : 1
+can dark and -> white : 1
+dark and white -> boned : 1
+and white boned -> drained : 1
+white boned drained -> and : 1
+boned drained and -> can : 1
+drained and can -> cream : 1
+drained and can -> chopped : 1
+drained and can -> black : 1
+drained and can -> yellow : 1
+and can cream -> of : 1
+cream of chicken -> and : 1
+cream of chicken -> balsamic : 1
+cream of chicken -> skinless : 1
+cream of chicken -> can : 1
+cream of chicken -> broccoli : 1
+cream of chicken -> to : 1
+of chicken and -> pepper : 1
+pepper to sandwich -> pickle : 1
+to sandwich pickle -> chicken : 1
+sandwich pickle chicken -> and : 1
+pickle chicken and -> soup : 1
+chicken and soup -> in : 1
+and soup in -> a : 1
+soup in a -> slow : 1
+for to add -> salt : 1
+to add salt -> and : 1
+add salt and -> pepper : 2
+add salt and -> mix : 1
+salt and pepper -> to : 3
+pepper to stir -> spoon : 1
+to stir spoon -> onto : 1
+stir spoon onto -> buns : 1
+spoon onto buns -> and : 1
+onto buns and -> garnish : 1
+buns and garnish -> with : 1
+and garnish with -> pickle : 1
+garnish with pickle -> if : 1
+with pickle if -> makes : 1
+pickle if makes -> about : 1
+if makes about -> bold : 1
+about bold crab -> be : 1
+bold crab be -> easier : 1
+crab be easier -> to : 1
+be easier to -> whip : 1
+easier to whip -> the : 1
+to whip the -> slow : 1
+whip the slow -> cooker : 1
+slow cooker keeps -> it : 1
+cooker keeps it -> warm : 1
+keeps it warm -> and : 1
+it warm and -> creamy : 1
+warm and creamy -> until : 1
+and creamy until -> the : 1
+creamy until the -> party : 1
+until the party -> cream : 1
+the party cream -> bunch : 1
+party cream bunch -> green : 1
+cream bunch green -> and : 1
+bunch green and -> garlic : 1
+green and garlic -> salt : 1
+and garlic salt -> to : 1
+garlic salt to -> melba : 1
+salt to melba -> a : 1
+to melba a -> mix : 1
+melba a mix -> all : 1
+a mix all -> ingredients : 1
+mix all ingredients -> together : 1
+all ingredients together -> except : 1
+ingredients together except -> melba : 1
+together except melba -> microwave : 1
+except melba microwave -> on : 1
+melba microwave on -> high : 1
+microwave on high -> setting : 1
+setting until pour -> into : 1
+until pour into -> a : 1
+pour into a -> slow : 1
+pour into a -> lightly : 1
+into a slow -> cover : 1
+into a slow -> add : 2
+into a slow -> combine : 1
+into a slow -> mix : 1
+into a slow -> stir : 1
+cover and keep -> warm : 1
+and keep warm -> on : 1
+keep warm on -> low : 1
+warm on low -> serve : 1
+on low serve -> with : 1
+low serve with -> melba : 1
+serve with melba -> makes : 1
+with melba makes -> bold : 1
+melba makes bold -> shredded : 1
+makes bold shredded -> family : 1
+bold shredded family -> asks : 1
+shredded family asks -> for : 1
+family asks for -> this : 1
+asks for this -> smells : 1
+for this smells -> so : 1
+this smells so -> good : 1
+smells so good -> while : 1
+so good while -> add : 1
+good while add -> a : 1
+while add a -> side : 1
+add a side -> of : 1
+a side of -> beans : 1
+side of beans -> and : 1
+of beans and -> dinner : 1
+beans and dinner -> is : 1
+and dinner is -> beef : 1
+dinner is beef -> chuck : 1
+is beef chuck -> can : 1
+beef chuck can -> diced : 1
+chuck can diced -> can : 1
+can diced can -> chipotle : 1
+can diced can -> tomato : 1
+can diced can -> sliced : 1
+can diced can -> kidney : 1
+diced can chipotle -> can : 1
+can chipotle can -> diced : 1
+chipotle can diced -> green : 1
+can diced green -> chili : 1
+can diced green -> cloves : 1
+can diced green -> sliced : 1
+diced green chili -> ground : 1
+green chili ground -> beef : 1
+green chili ground -> dried : 1
+chili ground beef -> and : 1
+ground beef and -> pepper : 1
+ground beef and -> italian : 1
+beef and pepper -> to : 1
+pepper to to -> corn : 1
+pepper to to -> cooked : 1
+to to corn -> shredded : 1
+to corn shredded -> cheddar : 1
+corn shredded cheddar -> shredded : 1
+corn shredded cheddar -> hot : 1
+shredded cheddar shredded -> sliced : 1
+shredded cheddar shredded -> beef : 1
+shredded cheddar shredded -> monterey : 1
+cheddar shredded sliced -> black : 1
+shredded sliced black -> chopped : 1
+sliced black chopped -> roast : 1
+black chopped roast -> in : 1
+chopped roast in -> a : 1
+a slow top -> with : 8
+slow top with -> remaining : 2
+slow top with -> mix : 1
+slow top with -> hashbrowns : 1
+slow top with -> add : 1
+slow top with -> beans : 1
+slow top with -> one : 1
+slow top with -> cover : 1
+top with remaining -> ingredients : 1
+top with remaining -> pie : 1
+top with remaining -> cover : 2
+ingredients except tortillas -> and : 1
+except tortillas and -> cover : 1
+tortillas and cover -> and : 1
+and cover and -> cook : 6
+for to with -> shred : 1
+to with shred -> roast : 1
+with shred roast -> in : 1
+shred roast in -> slow : 1
+roast in slow -> stir : 1
+in slow stir -> spoon : 1
+slow stir spoon -> into : 1
+stir spoon into -> warmed : 1
+spoon into warmed -> add : 1
+into warmed add -> desired : 1
+warmed add desired -> makes : 1
+add desired makes -> to : 1
+desired makes to -> bold : 1
+to bold bread -> is : 1
+to bold bread -> deliciously : 1
+bold bread is -> the : 1
+bread is the -> bread : 1
+is the bread -> pudding : 1
+the bread pudding -> and : 1
+bread pudding and -> so : 1
+pudding and so -> much : 1
+and so much -> easier : 1
+so much easier -> than : 1
+much easier than -> making : 1
+easier than making -> it : 1
+than making it -> in : 1
+making it in -> the : 1
+it in the -> brown : 1
+in the brown -> slices : 1
+the brown slices -> buttered : 1
+brown slices buttered -> and : 1
+slices buttered and -> vanilla : 1
+buttered and vanilla -> whipped : 1
+and vanilla whipped -> brown : 1
+vanilla whipped brown -> sugar : 1
+whipped brown sugar -> in : 1
+brown sugar in -> a : 1
+sugar in a -> slow : 1
+slow cooker that -> has : 4
+cooker that has -> been : 4
+that has been -> sprayed : 4
+has been sprayed -> with : 4
+been sprayed with -> vegetable : 4
+sprayed with vegetable -> add : 1
+sprayed with vegetable -> set : 1
+sprayed with vegetable -> cover : 1
+sprayed with vegetable -> in : 1
+with vegetable add -> bread : 1
+with vegetable add -> all : 1
+vegetable add bread -> to : 1
+add bread to -> slow : 1
+bread to slow -> whisk : 1
+to slow whisk -> together : 1
+slow whisk together -> remaining : 1
+whisk together remaining -> ingredients : 1
+together remaining ingredients -> except : 1
+ingredients except whipped -> pour : 1
+except whipped pour -> over : 1
+whipped pour over -> cover : 1
+to until do -> not : 1
+until do not -> spoon : 1
+do not spoon -> pudding : 1
+not spoon pudding -> into : 1
+pudding into individual -> drizzle : 1
+into individual drizzle -> brown : 1
+individual drizzle brown -> sugar : 1
+drizzle brown sugar -> sauce : 1
+brown sugar sauce -> from : 1
+sugar sauce from -> slow : 1
+sauce from slow -> cooker : 1
+slow cooker over -> garnish : 1
+cooker over garnish -> with : 1
+over garnish with -> dollops : 1
+garnish with dollops -> of : 1
+with dollops of -> whipped : 2
+with dollops of -> sour : 1
+dollops of whipped -> makes : 2
+of whipped makes -> to : 2
+whipped makes to -> bold : 3
+to bold year -> standby : 1
+bold year standby -> for : 1
+year standby for -> summer : 1
+standby for summer -> yet : 1
+for summer yet -> hearty : 1
+summer yet hearty -> and : 1
+yet hearty and -> satisfying : 1
+hearty and satisfying -> during : 1
+and satisfying during -> cold : 1
+satisfying during cold -> weather : 1
+during cold weather -> hot : 1
+cold weather hot -> cans : 1
+weather hot cans -> pork : 1
+hot cans pork -> all : 1
+cans pork all -> ingredients : 1
+pork all ingredients -> in : 1
+slow stir cover -> and : 2
+stir cover and -> cook : 2
+to bold like -> to : 1
+bold like to -> spice : 1
+like to spice -> these : 1
+to spice these -> up : 1
+spice these up -> with : 1
+these up with -> shredded : 1
+up with shredded -> pepper : 1
+with shredded pepper -> jack : 1
+shredded pepper jack -> guacamole : 1
+pepper jack guacamole -> and : 1
+jack guacamole and -> sour : 1
+guacamole and sour -> boneless : 1
+and sour boneless -> pork : 1
+sour boneless pork -> loin : 1
+boneless pork loin -> thinly : 1
+boneless pork loin -> bottle : 1
+pork loin thinly -> barbecue : 1
+loin thinly barbecue -> chunky : 1
+thinly barbecue chunky -> chili : 1
+barbecue chunky chili -> ground : 1
+chunky chili ground -> frozen : 1
+chili ground frozen -> peppers : 1
+ground frozen peppers -> and : 1
+frozen peppers and -> to : 1
+peppers and to -> flour : 1
+and to flour -> roast : 1
+to flour roast -> in : 1
+flour roast in -> a : 1
+top with mix -> salsa : 1
+with mix salsa -> and : 1
+mix salsa and -> pour : 1
+salsa and pour -> over : 1
+and pour over -> cover : 3
+and pour over -> sausage : 1
+and pour over -> hot : 1
+roast and place -> on : 1
+and place on -> a : 1
+place on a -> cutting : 1
+on a cutting -> using : 1
+a cutting using -> return : 1
+cutting using return -> to : 1
+using return to -> slow : 1
+slow cooker and -> mix : 2
+slow cooker and -> invert : 1
+slow cooker and -> set : 3
+slow cooker and -> return : 1
+slow cooker and -> cover : 1
+slow cooker and -> cook : 1
+cooker and mix -> add : 1
+cooker and mix -> with : 1
+and mix add -> vegetables : 1
+and mix add -> cream : 1
+mix add vegetables -> and : 1
+add vegetables and -> increase : 1
+vegetables and increase -> setting : 1
+and increase setting -> to : 1
+increase setting to -> cover : 1
+setting to cover -> and : 2
+to cover and -> cook : 7
+an additional until -> hot : 1
+an additional until -> warmed : 1
+additional until hot -> and : 1
+until hot and -> vegetables : 1
+hot and vegetables -> are : 1
+and vegetables are -> with : 1
+vegetables are with -> a : 1
+are with a -> slotted : 1
+with a slotted -> fill : 1
+with a slotted -> shred : 1
+with a slotted -> spoon : 1
+a slotted fill -> each : 1
+slotted fill each -> warmed : 1
+fill each warmed -> tortilla : 1
+each warmed tortilla -> with : 1
+warmed tortilla with -> cup : 1
+tortilla with cup -> pork : 1
+with cup pork -> makes : 1
+cup pork makes -> bold : 1
+pork makes bold -> queso : 1
+makes bold queso -> will : 1
+bold queso will -> love : 1
+queso will love -> this : 1
+will love this -> they : 1
+love this they -> sample : 1
+this they sample -> be : 1
+they sample be -> ready : 1
+sample be ready -> to : 1
+be ready to -> share : 1
+ready to share -> the : 1
+to share the -> hot : 1
+share the hot -> ground : 1
+the hot ground -> pork : 1
+hot ground pork -> browned : 1
+ground pork browned -> and : 1
+pork browned and -> pasteurized : 1
+browned and pasteurized -> process : 1
+and pasteurized process -> cheese : 1
+pasteurized process cheese -> can : 1
+pasteurized process cheese -> minced : 1
+process cheese can -> diced : 1
+cheese can diced -> tomatoes : 1
+can diced tomatoes -> with : 1
+diced tomatoes with -> green : 2
+tomatoes with green -> corn : 1
+tomatoes with green -> can : 1
+with green corn -> tortilla : 1
+green corn tortilla -> all : 1
+corn tortilla all -> ingredients : 1
+tortilla all ingredients -> except : 1
+low setting until -> cheese : 1
+low setting until -> to : 1
+cheese is about -> serve : 1
+is about serve -> with : 1
+about serve with -> tortilla : 1
+tortilla makes to -> bold : 1
+to bold favorite -> party : 1
+to bold favorite -> vegetable : 1
+bold favorite party -> fix : 1
+favorite party fix -> forget : 1
+party fix forget -> version : 1
+fix forget version -> of : 1
+forget version of -> this : 1
+version of this -> crunchy : 1
+of this crunchy -> party : 1
+this crunchy party -> crispy : 1
+crunchy party crispy -> wheat : 1
+party crispy wheat -> cereal : 1
+crispy wheat cereal -> crispy : 1
+wheat cereal crispy -> rice : 1
+cereal crispy rice -> cereal : 1
+crispy rice cereal -> crispy : 1
+rice cereal crispy -> corn : 1
+cereal crispy corn -> cereal : 1
+crispy corn cereal -> pretzel : 1
+corn cereal pretzel -> worcestershire : 1
+cereal pretzel worcestershire -> seasoned : 1
+pretzel worcestershire seasoned -> garlic : 1
+worcestershire seasoned garlic -> nuts : 1
+seasoned garlic nuts -> and : 1
+garlic nuts and -> pretzels : 1
+nuts and pretzels -> in : 1
+and pretzels in -> a : 1
+pretzels in a -> slow : 1
+mix together sauce -> and : 1
+together sauce and -> gently : 1
+sauce and gently -> stir : 1
+and gently stir -> into : 1
+and gently stir -> to : 1
+gently stir into -> cereal : 1
+stir into cereal -> cover : 1
+into cereal cover -> and : 1
+cereal cover and -> cook : 1
+for to uncover -> and : 1
+to uncover and -> cook : 1
+uncover and cook -> on : 1
+setting for an -> additional : 5
+an additional stir -> drain : 1
+additional stir drain -> on : 1
+stir drain on -> paper : 1
+drain on paper -> baking : 1
+on paper baking -> transfer : 1
+paper baking transfer -> to : 1
+baking transfer to -> a : 1
+transfer to a -> large : 1
+transfer to a -> slow : 1
+to a large -> add : 1
+a large add -> chocolates : 1
+a large add -> bring : 1
+large add chocolates -> and : 1
+add chocolates and -> toss : 1
+chocolates and toss -> to : 1
+and toss to -> store : 1
+and toss to -> pour : 1
+toss to store -> in : 1
+to store in -> an : 1
+airtight makes bold -> dipping : 1
+makes bold dipping -> warm : 1
+bold dipping warm -> bread : 1
+dipping warm bread -> sticks : 1
+warm bread sticks -> or : 1
+bread sticks or -> crisp : 1
+sticks or crisp -> pretzel : 1
+or crisp pretzel -> rods : 1
+crisp pretzel rods -> into : 1
+pretzel rods into -> this : 1
+rods into this -> jar : 1
+into this jar -> spaghetti : 1
+this jar spaghetti -> shredded : 1
+jar spaghetti shredded -> mozzarella : 1
+spaghetti shredded mozzarella -> grated : 1
+shredded mozzarella grated -> parmesan : 2
+mozzarella grated parmesan -> dried : 1
+mozzarella grated parmesan -> vegetables : 1
+grated parmesan dried -> dried : 1
+parmesan dried dried -> garlic : 1
+dried garlic minced -> bread : 1
+garlic minced bread -> pepperoni : 1
+minced bread pepperoni -> whole : 1
+bread pepperoni whole -> green : 1
+pepperoni whole green -> pepper : 1
+whole green pepper -> cheeses : 1
+green pepper cheeses -> and : 1
+pepper cheeses and -> seasonings : 1
+cheeses and seasonings -> in : 1
+and seasonings in -> a : 3
+seasonings in a -> slow : 3
+setting for until -> warmed : 1
+for until warmed -> through : 1
+until warmed through -> and : 1
+warmed through and -> cheese : 1
+through and cheese -> is : 1
+and cheese is -> serve : 1
+cheese is serve -> with : 1
+is serve with -> desired : 1
+serve with desired -> makes : 1
+with desired makes -> bold : 1
+desired makes bold -> a : 1
+desired makes bold -> chicken : 1
+makes bold a -> special : 1
+bold a special -> drop : 1
+a special drop -> by : 1
+special drop by -> spoonfuls : 1
+drop by spoonfuls -> into : 1
+by spoonfuls into -> mini : 1
+spoonfuls into mini -> paper : 1
+into mini paper -> muffin : 1
+mini paper muffin -> cup : 1
+paper muffin cup -> white : 1
+muffin cup white -> melting : 1
+cup white melting -> bittersweet : 1
+white melting bittersweet -> baking : 1
+melting bittersweet baking -> chocolate : 1
+bittersweet baking chocolate -> jar : 1
+baking chocolate jar -> all : 1
+chocolate jar all -> ingredients : 1
+jar all ingredients -> except : 1
+ingredients except nuts -> in : 1
+except nuts in -> a : 1
+nuts in a -> slow : 1
+for one reduce -> setting : 1
+for one reduce -> to : 2
+one reduce setting -> to : 1
+and cook an -> additional : 2
+cook an additional -> or : 2
+an additional or -> until : 4
+additional or until -> chocolates : 1
+additional or until -> heated : 1
+additional or until -> pasta : 1
+additional or until -> broccoli : 1
+or until chocolates -> are : 1
+until chocolates are -> stirring : 1
+chocolates are stirring -> every : 1
+are stirring every -> stir : 1
+stirring every stir -> in : 1
+every stir in -> drop : 1
+stir in drop -> by : 1
+in drop by -> teaspoonfuls : 1
+drop by teaspoonfuls -> onto : 1
+by teaspoonfuls onto -> wax : 1
+teaspoonfuls onto wax -> let : 1
+onto wax let -> stand : 1
+wax let stand -> until : 1
+let stand until -> store : 1
+stand until store -> covered : 1
+until store covered -> at : 1
+store covered at -> room : 1
+covered at room -> makes : 1
+at room makes -> to : 1
+room makes to -> dozen : 1
+makes to dozen -> bold : 1
+to dozen bold -> perfect : 1
+dozen bold perfect -> for : 1
+bold perfect for -> sharing : 1
+perfect for sharing -> with : 1
+for sharing with -> try : 1
+sharing with try -> dipping : 1
+with try dipping -> pretzel : 1
+try dipping pretzel -> twists : 1
+dipping pretzel twists -> combo : 1
+pretzel twists combo -> is : 1
+twists combo is -> strong : 1
+combo is strong -> black : 1
+is strong black -> milk : 1
+strong black milk -> chocolate : 1
+black milk chocolate -> banana : 1
+milk chocolate banana -> angel : 1
+chocolate banana angel -> food : 1
+banana angel food -> cake : 1
+angel food cake -> together : 1
+food cake together -> coffee : 1
+cake together coffee -> and : 1
+together coffee and -> chocolate : 1
+coffee and chocolate -> chips : 1
+and chocolate chips -> in : 1
+chocolate chips in -> a : 1
+in a small -> slow : 1
+in a small -> bring : 1
+in a small -> mix : 2
+a small slow -> cover : 1
+small slow cover -> and : 1
+setting until to -> stir : 1
+until to stir -> serve : 1
+to stir serve -> with : 1
+stir serve with -> marshmallows : 1
+serve with marshmallows -> and : 1
+with marshmallows and -> cake : 1
+marshmallows and cake -> cubes : 1
+and cake cubes -> for : 1
+cake cubes for -> makes : 1
+cubes for makes -> about : 1
+for makes about -> bold : 1
+about bold peachy -> ran : 1
+bold peachy ran -> across : 1
+peachy ran across -> this : 1
+ran across this -> little : 1
+across this little -> farm : 1
+this little farm -> stand : 1
+little farm stand -> with : 1
+farm stand with -> all : 1
+stand with all -> varieties : 1
+with all varieties -> of : 1
+all varieties of -> peach : 1
+varieties of peach -> and : 1
+of peach and -> cinnamon : 1
+peach and cinnamon -> cans : 1
+and cinnamon cans -> peach : 1
+cinnamon cans peach -> apple : 1
+cans peach apple -> pumpkin : 1
+peach apple pumpkin -> pie : 1
+apple pumpkin pie -> slices : 1
+pumpkin pie slices -> a : 1
+pie slices a -> slow : 1
+slices a slow -> combine : 1
+slow combine juice -> and : 1
+combine juice and -> top : 1
+juice and top -> with : 1
+and top with -> orange : 1
+and top with -> corned : 1
+and top with -> add : 1
+and top with -> cover : 2
+and top with -> remaining : 1
+top with orange -> cover : 1
+with orange cover -> and : 1
+orange cover and -> cook : 1
+for to stir -> before : 1
+for to stir -> in : 1
+to stir before -> serves : 1
+stir before serves -> bold : 1
+before serves bold -> seed : 1
+before serves bold -> pork : 1
+serves bold seed -> cake : 1
+bold seed cake -> that : 1
+seed cake that -> makes : 1
+cake that makes -> its : 1
+that makes its -> own : 1
+makes its own -> seed : 1
+its own seed -> bread : 1
+own seed bread -> container : 1
+seed bread container -> sour : 1
+bread container sour -> lemon : 1
+container sour lemon -> bread : 1
+sour lemon bread -> sour : 1
+lemon bread sour -> cream : 1
+bread sour cream -> and : 1
+sour cream and -> cup : 1
+sour cream and -> diced : 1
+cream and cup -> water : 1
+and cup water -> in : 1
+cup water in -> a : 1
+in a mixing -> stir : 1
+a mixing stir -> until : 1
+mixing stir until -> well : 1
+stir until well -> spread : 1
+until well spread -> in : 1
+well spread in -> a : 1
+spread in a -> lightly : 1
+in a lightly -> greased : 3
+greased slow combine -> remaining : 1
+combine remaining water -> and : 1
+remaining water and -> other : 1
+water and other -> ingredients : 1
+and other ingredients -> in : 1
+other ingredients in -> a : 1
+a small bring -> to : 1
+small bring to -> a : 1
+bring to a -> pour : 1
+bring to a -> boil : 2
+bring to a -> mix : 1
+to a pour -> boiling : 1
+a pour boiling -> mixture : 1
+pour boiling mixture -> over : 1
+boiling mixture over -> batter : 1
+mixture over batter -> in : 1
+over batter in -> slow : 1
+batter in slow -> cover : 1
+in slow cover -> and : 1
+to until edges -> are : 2
+until edges are -> turn : 1
+until edges are -> golden : 1
+edges are turn -> off : 1
+are turn off -> slow : 1
+turn off slow -> let : 1
+off slow let -> cake : 1
+slow let cake -> cool : 1
+let cake cool -> in : 1
+cake cool in -> slow : 1
+cool in slow -> cooker : 1
+in slow cooker -> for : 1
+in slow cooker -> on : 1
+slow cooker for -> about : 1
+cooker for about -> minutes : 1
+for about minutes -> with : 1
+about minutes with -> lid : 1
+minutes with lid -> when : 1
+with lid when -> cool : 1
+lid when cool -> enough : 1
+when cool enough -> to : 1
+cool enough to -> hold : 1
+enough to hold -> a : 1
+to hold a -> large : 1
+hold a large -> plate : 1
+a large plate -> over : 1
+large plate over -> top : 1
+plate over top -> of : 1
+over top of -> slow : 1
+top of slow -> cooker : 1
+of slow cooker -> and : 1
+cooker and invert -> to : 1
+and invert to -> turn : 1
+invert to turn -> out : 1
+to turn out -> serves : 1
+turn out serves -> to : 1
+out serves to -> bold : 1
+serves to bold -> comfort : 1
+serves to bold -> pork : 1
+serves to bold -> baking : 1
+serves to bold -> slow : 1
+serves to bold -> roast : 1
+serves to bold -> apple : 1
+serves to bold -> time : 1
+serves to bold -> is : 1
+serves to bold -> ranch : 1
+serves to bold -> chicken : 1
+serves to bold -> corn : 1
+serves to bold -> wagon : 1
+serves to bold -> help : 1
+serves to bold -> noodle : 1
+serves to bold -> pea : 1
+serves to bold -> favorite : 1
+serves to bold -> bold : 1
+serves to bold -> fair : 1
+serves to bold -> a : 1
+serves to bold -> spicy : 1
+serves to bold -> sandwich : 1
+serves to bold -> fruity : 1
+serves to bold -> chili : 1
+serves to bold -> spiced : 1
+to bold comfort -> bold : 1
+bold comfort bold -> beef : 1
+comfort bold beef -> and : 1
+bold beef and -> potatoes : 1
+beef and potatoes -> with : 1
+and potatoes with -> beef : 1
+potatoes with beef -> my : 1
+with beef my -> idea : 1
+beef my idea -> of : 1
+my idea of -> heaven : 1
+idea of heaven -> on : 1
+of heaven on -> a : 1
+heaven on a -> beef : 1
+on a beef -> chuck : 1
+a beef chuck -> beef : 1
+beef chuck beef -> onion : 1
+chuck beef onion -> garlic : 1
+beef onion garlic -> dried : 1
+onion garlic dried -> and : 1
+garlic dried and -> pepper : 1
+dried and pepper -> to : 3
+pepper to egg -> roast : 1
+to egg roast -> in : 1
+egg roast in -> a : 1
+slow combine onion -> and : 3
+combine onion and -> pour : 1
+combine onion and -> cover : 1
+combine onion and -> top : 1
+onion and pour -> over : 1
+onion and pour -> in : 1
+to remove slice -> and : 1
+remove slice and -> return : 1
+slice and return -> to : 1
+and return to -> slow : 6
+to slow add -> noodles : 1
+to slow add -> broth : 1
+slow add noodles -> to : 1
+add noodles to -> slow : 1
+noodles to slow -> heat : 1
+to slow heat -> serve : 1
+slow heat serve -> over : 1
+heat serve over -> mashed : 1
+serve over mashed -> serves : 1
+over mashed serves -> bold : 1
+mashed serves bold -> baby : 1
+serves bold baby -> orange : 1
+bold baby orange -> brown : 1
+baby orange brown -> carrots : 1
+orange brown carrots -> with : 1
+brown carrots with -> water : 1
+carrots with water -> in : 1
+in a cook -> until : 1
+a cook until -> add : 1
+cook until add -> juice : 1
+until add juice -> to : 1
+add juice to -> simmer : 1
+juice to simmer -> until : 1
+to simmer until -> almost : 1
+simmer until almost -> stir : 1
+until almost stir -> in : 1
+almost stir in -> remaining : 1
+stir in remaining -> cook : 1
+stir in remaining -> cover : 2
+stir in remaining -> ingredients : 1
+in remaining cook -> until : 1
+remaining cook until -> well : 1
+cook until well -> blended : 1
+until well blended -> and : 1
+well blended and -> serves : 1
+blended and serves -> bold : 1
+and serves bold -> tweaked : 1
+and serves bold -> chicken : 1
+and serves bold -> bbq : 1
+serves bold tweaked -> this : 1
+bold tweaked this -> recipe : 1
+tweaked this recipe -> over : 1
+this recipe over -> the : 1
+recipe over the -> just : 1
+over the just -> the : 1
+the just the -> way : 1
+just the way -> my : 1
+the way my -> family : 1
+way my family -> likes : 1
+my family likes -> skinless : 1
+family likes skinless -> chicken : 1
+likes skinless chicken -> cans : 1
+skinless chicken cans -> diced : 1
+skinless chicken cans -> stewed : 1
+chicken cans diced -> can : 1
+cans diced can -> cream : 1
+diced can cream -> of : 1
+of chicken balsamic -> minced : 1
+chicken balsamic minced -> dried : 1
+balsamic minced dried -> dried : 1
+minced dried dried -> shredded : 1
+dried dried shredded -> cheddar : 1
+dried shredded cheddar -> sour : 1
+shredded cheddar sour -> bowtie : 1
+shredded cheddar sour -> chicken : 1
+cheddar sour bowtie -> a : 1
+sour bowtie a -> slow : 1
+bowtie a slow -> combine : 1
+onion and cover -> and : 1
+to remove cut -> into : 1
+remove cut into -> pieces : 1
+cut into pieces -> and : 1
+into pieces and -> return : 2
+pieces and return -> to : 2
+to slow stir -> in : 3
+stir in cheese -> and : 1
+in cheese and -> sour : 1
+cheese and sour -> cover : 1
+and sour cover -> and : 1
+sour cover and -> cook : 1
+an additional to -> spoon : 1
+additional to spoon -> over : 1
+to spoon over -> cooked : 2
+spoon over cooked -> serves : 1
+spoon over cooked -> garnish : 1
+over cooked serves -> bold : 2
+over cooked serves -> to : 3
+cooked serves bold -> mac : 1
+cooked serves bold -> cola : 1
+serves bold mac -> cheesy : 1
+bold mac cheesy -> and : 1
+mac cheesy and -> a : 1
+cheesy and a -> snap : 1
+and a snap -> to : 1
+a snap to -> put : 1
+snap to put -> elbow : 1
+to put elbow -> can : 1
+put elbow can -> evaporated : 1
+elbow can evaporated -> pasteurized : 1
+can evaporated pasteurized -> process : 1
+evaporated pasteurized process -> cheese : 1
+process cheese minced -> cooked : 1
+cheese minced cooked -> macaroni : 1
+minced cooked macaroni -> and : 1
+cooked macaroni and -> toss : 1
+macaroni and toss -> to : 1
+toss to pour -> into : 1
+to pour into -> a : 1
+into a lightly -> greased : 3
+greased slow stir -> in : 1
+for to stirring -> serves : 2
+for to stirring -> garnish : 1
+to stirring serves -> to : 2
+stirring serves to -> bold : 3
+to bold pork -> tasty : 1
+bold pork tasty -> pork : 1
+pork tasty pork -> chops : 1
+tasty pork chops -> feature : 1
+pork chops feature -> all : 1
+chops feature all -> the : 1
+feature all the -> flavors : 1
+all the flavors -> of : 1
+the flavors of -> your : 1
+flavors of your -> favorite : 1
+of your favorite -> mexican : 1
+your favorite mexican -> pork : 1
+favorite mexican pork -> inches : 1
+mexican pork inches -> can : 1
+pork inches can -> chili : 1
+inches can chili -> beans : 1
+can chili beans -> with : 1
+chili beans with -> chili : 1
+beans with chili -> green : 1
+with chili green -> chiles : 1
+chili green chiles -> to : 1
+green chiles to -> fresh : 1
+green chiles to -> your : 1
+chiles to fresh -> a : 1
+to fresh a -> slow : 1
+fresh a slow -> layer : 1
+a slow layer -> pork : 1
+a slow layer -> chiles : 1
+slow layer pork -> corn : 1
+layer pork corn -> and : 1
+pork corn and -> if : 1
+corn and if -> cover : 1
+and if cover -> and : 2
+if cover and -> cook : 2
+setting for or -> on : 4
+setting for or -> until : 2
+for or on -> high : 4
+setting for serve -> over : 3
+for serve over -> cooked : 3
+serve over cooked -> garnish : 1
+serve over cooked -> serves : 2
+serve over cooked -> sprinkle : 1
+serve over cooked -> makes : 1
+over cooked garnish -> with : 2
+cooked garnish with -> serves : 1
+cooked garnish with -> olives : 1
+garnish with serves -> bold : 1
+with serves bold -> sugar : 1
+serves bold sugar -> delicious : 1
+bold sugar delicious -> with : 1
+sugar delicious with -> roast : 1
+delicious with roast -> i : 1
+with roast i -> like : 1
+roast i like -> to : 1
+i like to -> use : 1
+i like to -> top : 1
+like to use -> granny : 1
+to use granny -> smith : 1
+use granny smith -> apples : 1
+granny smith apples -> for : 1
+smith apples for -> this : 1
+apples for this -> cooking : 1
+for this cooking -> peeled : 1
+this cooking peeled -> and : 1
+cooking peeled and -> brown : 1
+cooking peeled and -> cut : 1
+peeled and brown -> lemon : 1
+peeled and brown -> chilled : 1
+and brown lemon -> all : 1
+brown lemon all -> ingredients : 1
+lemon all ingredients -> in : 1
+for stir mash -> with : 1
+stir mash with -> a : 1
+mash with a -> potato : 1
+with a potato -> masher : 2
+a potato masher -> to : 1
+a potato masher -> or : 1
+potato masher to -> desired : 1
+masher to desired -> sprinkle : 1
+to desired sprinkle -> portions : 1
+desired sprinkle portions -> with : 1
+sprinkle portions with -> makes : 1
+portions with makes -> to : 2
+to bold roast -> is : 1
+to bold roast -> pork : 1
+bold roast is -> one : 1
+roast is one -> of : 1
+is one of -> our : 1
+is one of -> my : 1
+one of our -> favorite : 1
+one of our -> redskin : 1
+of our favorite -> meals : 1
+our favorite meals -> on : 1
+favorite meals on -> a : 1
+meals on a -> chilly : 1
+on a chilly -> the : 1
+a chilly the -> end : 1
+chilly the end -> of : 1
+end of a -> busy : 1
+of a busy -> dinner : 1
+a busy dinner -> is : 1
+busy dinner is -> practically : 1
+dinner is practically -> baby : 1
+is practically baby -> peeled : 1
+practically baby peeled -> and : 1
+baby peeled and -> beef : 1
+peeled and beef -> chuck : 2
+and beef chuck -> salt : 1
+and beef chuck -> dried : 1
+beef chuck salt -> and : 1
+chuck salt and -> pepper : 1
+pepper to onion -> soup : 1
+to onion soup -> carrots : 1
+onion soup carrots -> and : 1
+soup carrots and -> potatoes : 1
+carrots and potatoes -> in : 1
+and potatoes in -> a : 1
+potatoes in a -> slow : 4
+potatoes in a -> large : 2
+a slow place -> roast : 1
+slow place roast -> on : 1
+place roast on -> sprinkle : 1
+roast on sprinkle -> with : 1
+on sprinkle with -> garlic : 1
+on sprinkle with -> remaining : 1
+sprinkle with garlic -> salt : 1
+with garlic salt -> and : 1
+garlic salt and -> stir : 1
+salt and stir -> together : 1
+and stir together -> water : 1
+stir together water -> and : 1
+together water and -> soup : 1
+together water and -> cornstarch : 1
+water and soup -> pour : 1
+and soup pour -> over : 1
+soup pour over -> cover : 1
+for to drain -> most : 1
+to drain most -> of : 1
+drain most of -> broth : 1
+most of broth -> from : 1
+of broth from -> slow : 1
+broth from slow -> cooker : 1
+slow cooker into -> a : 1
+cooker into a -> large : 1
+into a large -> soup : 1
+large soup bring -> to : 1
+soup bring to -> a : 1
+to a boil -> over : 2
+a boil over -> drop : 1
+a boil over -> medium : 1
+boil over drop -> dumpling : 1
+over drop dumpling -> batter : 1
+drop dumpling batter -> into : 1
+dumpling batter into -> boiling : 1
+batter into boiling -> broth : 1
+into boiling broth -> by : 1
+boiling broth by -> cover : 1
+broth by cover -> and : 1
+by cover and -> cook : 1
+cook for serve -> dumplings : 1
+for serve dumplings -> with : 1
+serve dumplings with -> roast : 1
+dumplings with roast -> and : 1
+with roast and -> serves : 1
+roast and serves -> to : 1
+and serves to -> bold : 2
+to bold baking -> light : 1
+bold baking light -> together : 1
+baking light together -> dry : 1
+light together dry -> add : 1
+together dry add -> cream : 1
+dry add cream -> and : 1
+add cream and -> stir : 1
+cream and stir -> quickly : 1
+and stir quickly -> to : 1
+stir quickly to -> make : 1
+quickly to make -> a : 1
+to make a -> bold : 1
+to make a -> glaze : 1
+make a bold -> smashed : 1
+a bold smashed -> convenient : 1
+bold smashed convenient -> recipe : 1
+smashed convenient recipe -> has : 1
+convenient recipe has -> become : 1
+recipe has become -> one : 1
+has become one -> of : 1
+become one of -> our : 1
+of our redskin -> cloves : 1
+our redskin cloves -> olive : 1
+redskin cloves olive -> spreadable : 1
+cloves olive spreadable -> cream : 1
+olive spreadable cream -> cheese : 1
+spreadable cream cheese -> with : 1
+cream cheese with -> chives : 1
+cheese with chives -> and : 1
+with chives and -> to : 1
+chives and to -> potatoes : 1
+and to potatoes -> in : 1
+to potatoes in -> a : 2
+slow add salt -> and : 1
+salt and mix -> well : 1
+and mix well -> to : 1
+mix well to -> coat : 1
+well to coat -> cover : 1
+well to coat -> add : 1
+to coat cover -> and : 1
+coat cover and -> cook : 1
+to until potatoes -> are : 1
+until potatoes are -> mash : 1
+potatoes are mash -> potatoes : 1
+are mash potatoes -> with : 1
+mash potatoes with -> a : 1
+potatoes with a -> potato : 1
+potato masher or -> stir : 1
+masher or stir -> in : 1
+or stir in -> cream : 1
+or stir in -> green : 1
+stir in cream -> cheese : 1
+in cream cheese -> until : 1
+cream cheese until -> well : 1
+cheese until well -> add : 1
+until well add -> enough : 1
+well add enough -> milk : 1
+add enough milk -> for : 1
+enough milk for -> a : 1
+milk for a -> soft : 1
+for a soft -> serve : 1
+a soft serve -> or : 1
+soft serve or -> keep : 1
+serve or keep -> warm : 1
+or keep warm -> for : 1
+keep warm for -> up : 1
+warm for up -> hours : 1
+for up hours -> in : 1
+up hours in -> slow : 1
+hours in slow -> cooker : 1
+slow cooker on -> low : 1
+slow cooker on -> football : 1
+cooker on low -> makes : 1
+on low makes -> to : 1
+low makes to -> bold : 1
+to bold thyme -> family : 1
+bold thyme family -> loves : 1
+thyme family loves -> this : 1
+family loves this -> made : 1
+family loves this -> dish : 1
+family loves this -> recipe : 1
+loves this made -> with : 1
+this made with -> fresh : 1
+made with fresh -> herbs : 1
+with fresh herbs -> from : 1
+fresh herbs from -> my : 1
+herbs from my -> roasting : 1
+from my roasting -> to : 1
+my roasting to -> salt : 1
+roasting to salt -> to : 1
+to salt to -> sliced : 1
+salt to sliced -> into : 1
+to sliced into -> sprigs : 1
+sliced into sprigs -> fresh : 1
+into sprigs fresh -> sprigs : 1
+sprigs fresh sprigs -> fresh : 1
+fresh sprigs fresh -> salt : 1
+sprigs fresh salt -> to : 1
+fresh salt to -> inside : 1
+salt to inside -> of : 1
+to inside of -> chicken : 1
+inside of chicken -> with : 1
+of chicken with -> garlic : 1
+chicken with garlic -> and : 1
+with garlic and -> kosher : 1
+garlic and kosher -> stuff : 1
+and kosher stuff -> with : 1
+kosher stuff with -> onion : 1
+stuff with onion -> wedges : 1
+with onion wedges -> and : 1
+onion wedges and -> herb : 1
+wedges and herb -> sprinkle : 1
+and herb sprinkle -> seasoning : 1
+herb sprinkle seasoning -> salt : 1
+sprinkle seasoning salt -> on : 1
+seasoning salt on -> the : 1
+salt on the -> outside : 1
+on the outside -> of : 1
+the outside of -> place : 1
+outside of place -> in : 1
+of place in -> a : 1
+place in a -> slow : 7
+place in a -> lightly : 1
+place in a -> large : 1
+for to serves -> bold : 5
+for to serves -> to : 4
+to serves bold -> chicken : 1
+to serves bold -> chile : 1
+to serves bold -> onion : 1
+to serves bold -> red : 1
+to serves bold -> sticky : 1
+serves bold chicken -> homemade : 1
+serves bold chicken -> filling : 1
+bold chicken homemade -> almost : 1
+chicken homemade almost -> no : 1
+homemade almost no -> cans : 1
+almost no cans -> cream : 1
+no cans cream -> of : 1
+cans cream of -> chicken : 3
+of chicken skinless -> chicken : 1
+chicken skinless chicken -> tubes : 1
+skinless chicken tubes -> refrigerated : 1
+chicken tubes refrigerated -> soup : 1
+tubes refrigerated soup -> into : 1
+refrigerated soup into -> a : 1
+soup into a -> slow : 1
+slow add onion -> and : 1
+add onion and -> pour : 1
+and pour in -> enough : 1
+pour in enough -> water : 1
+in enough water -> to : 1
+enough water to -> cover : 2
+enough water to -> obtain : 1
+water to cover -> cover : 1
+water to cover -> and : 1
+for to about -> minutes : 2
+to about minutes -> before : 2
+about minutes before -> turn : 1
+about minutes before -> cooking : 1
+minutes before turn -> slow : 1
+before turn slow -> cooker : 1
+turn slow cooker -> to : 1
+slow cooker to -> high : 1
+cooker to high -> remove : 1
+to high remove -> chicken : 1
+high remove chicken -> with : 1
+remove chicken with -> a : 1
+chicken with a -> slotted : 1
+a slotted shred -> into : 1
+slotted shred into -> pieces : 1
+shred into pieces -> and : 1
+to slow drop -> biscuit : 1
+slow drop biscuit -> quarters : 1
+drop biscuit quarters -> into : 1
+biscuit quarters into -> slow : 1
+quarters into slow -> stir : 1
+into slow stir -> replace : 1
+slow stir replace -> lid : 1
+stir replace lid -> and : 1
+replace lid and -> cook : 1
+lid and cook -> for : 1
+cook for minutes -> or : 1
+for minutes or -> until : 1
+minutes or until -> dumplings : 1
+or until dumplings -> are : 1
+until dumplings are -> stir : 1
+dumplings are stir -> and : 1
+are stir and -> serves : 1
+stir and serves -> to : 1
+to bold slow -> cooker : 1
+bold slow cooker -> always : 1
+slow cooker always -> seems : 1
+cooker always seems -> to : 1
+always seems to -> be : 1
+seems to be -> going : 1
+to be going -> at : 1
+be going at -> our : 1
+going at our -> this : 1
+at our this -> is : 1
+our this is -> one : 1
+this is one -> of : 1
+one of my -> so : 1
+of my so -> easy : 1
+my so easy -> to : 1
+so easy to -> put : 1
+so easy to -> the : 1
+so easy to -> beef : 1
+so easy to -> make : 1
+to put skinless -> chicken : 1
+put skinless chicken -> can : 1
+skinless chicken can -> chicken : 4
+skinless chicken can -> can : 1
+skinless chicken can -> tomato : 1
+chicken can chicken -> can : 1
+chicken can chicken -> wide : 1
+chicken can chicken -> cloves : 1
+chicken can chicken -> baby : 1
+chicken can chicken -> dried : 1
+can chicken can -> diced : 1
+chicken can diced -> can : 1
+diced can tomato -> smoked : 1
+can tomato smoked -> pork : 1
+tomato smoked pork -> cooked : 1
+smoked pork cooked -> cajun : 1
+pork cooked cajun -> pepper : 1
+cooked cajun pepper -> sauce : 1
+cajun pepper sauce -> to : 1
+pepper sauce to -> all : 3
+sauce to all -> ingredients : 3
+to all ingredients -> except : 1
+to all ingredients -> to : 1
+to all ingredients -> in : 1
+ingredients except rice -> in : 1
+ingredients except rice -> and : 1
+except rice in -> a : 1
+rice in a -> slow : 1
+cooked serves to -> bold : 3
+bold roast pork -> delicious : 1
+roast pork delicious -> dinner : 1
+pork delicious dinner -> for : 1
+delicious dinner for -> new : 1
+dinner for new -> day : 1
+for new day -> or : 1
+new day or -> any : 1
+day or any -> time : 1
+or any time -> of : 1
+any time of -> to : 1
+any time of -> the : 2
+time of to -> boneless : 1
+of to boneless -> pork : 1
+to boneless pork -> and : 1
+boneless pork and -> pepper : 1
+pork and pepper -> to : 1
+pepper to peeled -> and : 1
+to peeled and -> apple : 1
+to peeled and -> skinless : 1
+peeled and apple -> juice : 1
+and apple juice -> or : 1
+apple juice or -> frozen : 1
+juice or frozen -> roast : 1
+or frozen roast -> with : 1
+frozen roast with -> salt : 1
+roast with salt -> and : 1
+salt and heat -> shortening : 1
+and heat shortening -> in : 1
+heat shortening in -> a : 1
+shortening in a -> skillet : 1
+skillet over brown -> roast : 1
+over brown roast -> on : 1
+brown roast on -> all : 1
+roast on all -> place : 1
+on all place -> in : 1
+all place in -> a : 1
+slow add undrained -> apples : 1
+add undrained apples -> and : 1
+undrained apples and -> juice : 1
+apples and juice -> or : 1
+and juice or -> gently : 1
+juice or gently -> add : 1
+or gently add -> pierogies : 1
+gently add pierogies -> so : 1
+add pierogies so -> they : 1
+pierogies so they -> are : 1
+so they are -> partly : 1
+they are partly -> submerged : 1
+are partly submerged -> in : 1
+partly submerged in -> the : 1
+submerged in the -> sauerkraut : 1
+in the sauerkraut -> the : 1
+the sauerkraut the -> roast : 1
+sauerkraut the roast -> more : 1
+the roast more -> liquid : 1
+roast more liquid -> will : 1
+more liquid will -> cover : 1
+liquid will cover -> the : 1
+will cover the -> cover : 1
+cover the cover -> and : 1
+the cover and -> cook : 1
+to serves to -> bold : 4
+to bold apple -> more : 1
+bold apple more -> comforting : 1
+apple more comforting -> than : 1
+more comforting than -> warm : 1
+comforting than warm -> apple : 1
+than warm apple -> i : 1
+warm apple i -> often : 1
+apple i often -> make : 1
+i often make -> this : 1
+often make this -> for : 1
+make this for -> potlucks : 1
+this for potlucks -> or : 1
+for potlucks or -> granny : 1
+potlucks or granny -> smith : 1
+or granny smith -> or : 1
+granny smith or -> braeburn : 1
+smith or braeburn -> peeled : 1
+or braeburn peeled -> and : 1
+braeburn peeled and -> brown : 1
+and brown chilled -> chopped : 1
+brown chilled chopped -> toffee : 1
+chilled chopped toffee -> baking : 1
+chopped toffee baking -> whipped : 1
+toffee baking whipped -> together : 1
+baking whipped together -> apples : 1
+whipped together apples -> and : 1
+together apples and -> place : 1
+apples and place -> in : 1
+and place in -> a : 3
+and place in -> the : 1
+with vegetable set -> combine : 1
+vegetable set combine -> brown : 1
+set combine brown -> flour : 1
+combine brown flour -> and : 1
+brown flour and -> mix : 1
+flour and mix -> with : 1
+and mix with -> a : 1
+and mix with -> cover : 1
+with a pastry -> cutter : 1
+a pastry cutter -> or : 1
+pastry cutter or -> fork : 1
+cutter or fork -> until : 1
+or fork until -> stir : 1
+fork until stir -> in : 1
+until stir in -> pecans : 1
+until stir in -> sugar : 1
+stir in pecans -> and : 1
+in pecans and -> toffee : 1
+pecans and toffee -> sprinkle : 1
+and toffee sprinkle -> over : 1
+toffee sprinkle over -> cover : 1
+sprinkle over cover -> and : 2
+for to top -> with : 1
+to top with -> whipped : 1
+to top with -> cheese : 1
+top with whipped -> if : 1
+with whipped if -> makes : 1
+whipped if makes -> bold : 1
+if makes bold -> is : 1
+if makes bold -> chocolate : 1
+makes bold is -> such : 1
+makes bold is -> an : 1
+bold is such -> a : 1
+is such a -> comforting : 1
+such a comforting -> dish : 1
+a comforting dish -> and : 1
+comforting dish and -> so : 1
+dish and so -> nice : 1
+dish and so -> easy : 1
+and so nice -> to : 1
+so nice to -> come : 1
+nice to come -> home : 1
+to come home -> the : 1
+come home the -> meatloaf : 1
+home the meatloaf -> is : 1
+the meatloaf is -> so : 1
+meatloaf is so -> very : 1
+is so very -> flavorful : 1
+so very flavorful -> and : 1
+very flavorful and -> really : 1
+flavorful and really -> ground : 1
+and really ground -> green : 1
+really ground green -> saltine : 1
+ground green saltine -> cracker : 1
+green saltine cracker -> brown : 1
+saltine cracker brown -> gravy : 1
+cracker brown gravy -> to : 1
+brown gravy to -> new : 1
+gravy to new -> redskin : 1
+to new redskin -> all : 1
+new redskin all -> ingredients : 1
+redskin all ingredients -> except : 1
+ingredients except potatoes -> in : 1
+except potatoes in -> a : 1
+a large mix -> well : 1
+a large mix -> spoon : 1
+large mix well -> and : 1
+mix well and -> form : 1
+well and form -> into : 1
+and form into -> a : 1
+form into a -> place : 1
+into a place -> in : 1
+a place in -> a : 1
+greased slow arrange -> potatoes : 1
+slow arrange potatoes -> around : 1
+arrange potatoes around -> cover : 1
+potatoes around cover -> and : 1
+around cover and -> cook : 1
+to bold time -> i : 1
+bold time i -> make : 1
+time i make -> my : 1
+i make my -> family : 1
+make my family -> just : 1
+my family just -> it : 1
+family just it -> is : 1
+just it is -> delicious : 1
+it is delicious -> any : 1
+it is delicious -> year : 1
+is delicious any -> time : 1
+delicious any time -> of : 1
+time of the -> year : 1
+time of the -> easy : 1
+of the year -> and : 1
+the year and -> is : 1
+year and is -> so : 1
+and is so -> skinless : 1
+is so skinless -> chicken : 1
+so skinless chicken -> jar : 1
+skinless chicken jar -> chunky : 1
+chicken jar chunky -> garden : 1
+jar chunky garden -> vegetable : 1
+chunky garden vegetable -> spaghetti : 1
+garden vegetable spaghetti -> green : 1
+vegetable spaghetti green -> sweet : 1
+spaghetti green sweet -> rotini : 1
+green sweet rotini -> chopped : 1
+sweet rotini chopped -> black : 1
+rotini chopped black -> shredded : 1
+chopped black shredded -> parmesan : 1
+black shredded parmesan -> chicken : 1
+shredded parmesan chicken -> in : 1
+parmesan chicken in -> a : 1
+chicken in a -> slow : 6
+chicken in a -> large : 1
+slow pour sauce -> over : 2
+pour sauce over -> add : 1
+pour sauce over -> top : 1
+sauce over add -> cover : 1
+over add cover -> and : 1
+add cover and -> cook : 4
+for to to -> spoon : 1
+for to to -> top : 1
+for to to -> place : 1
+to to spoon -> over : 1
+garnish with olives -> and : 1
+with olives and -> parmesan : 1
+olives and parmesan -> serves : 1
+and parmesan serves -> bold : 1
+parmesan serves bold -> rice : 1
+parmesan serves bold -> pie : 1
+serves bold rice -> lake : 1
+bold rice lake -> blend : 1
+rice lake blend -> of : 1
+lake blend of -> wild : 1
+blend of wild -> and : 1
+of wild and -> brown : 1
+wild and brown -> rice : 1
+and brown rice -> make : 1
+brown rice make -> this : 1
+rice make this -> a : 1
+make this a -> great : 1
+this a great -> side : 1
+a great side -> dish : 1
+great side dish -> for : 1
+side dish for -> seafood : 1
+dish for seafood -> or : 1
+for seafood or -> wild : 1
+seafood or wild -> brown : 1
+or wild brown -> portabella : 1
+wild brown portabella -> sliced : 1
+brown portabella sliced -> can : 1
+portabella sliced can -> cream : 1
+cream of mushroom -> soup : 2
+of mushroom soup -> with : 2
+mushroom soup with -> roasted : 2
+soup with roasted -> all : 1
+soup with roasted -> sausage : 1
+with roasted all -> ingredients : 1
+roasted all ingredients -> in : 1
+to until rice -> is : 1
+until rice is -> serves : 1
+rice is serves -> to : 1
+is serves to -> bold : 1
+to bold is -> a : 2
+bold is a -> easy : 1
+bold is a -> scrumptious : 1
+is a easy -> recipe : 1
+a easy recipe -> for : 1
+easy recipe for -> homestyle : 1
+easy recipe for -> me : 1
+recipe for homestyle -> add : 1
+for homestyle add -> garlic : 1
+homestyle add garlic -> bread : 1
+add garlic bread -> and : 1
+garlic bread and -> a : 1
+bread and a -> tossed : 1
+and a tossed -> ground : 1
+a tossed ground -> browned : 1
+tossed ground browned -> and : 1
+ground browned and -> italian : 1
+ground browned and -> carton : 1
+ground browned and -> to : 1
+browned and italian -> lasagna : 1
+and italian lasagna -> uncooked : 1
+italian lasagna uncooked -> and : 1
+lasagna uncooked and -> broken : 1
+uncooked and broken -> into : 1
+and broken into -> jar : 1
+broken into jar -> spaghetti : 1
+into jar spaghetti -> can : 1
+jar spaghetti can -> sliced : 1
+spaghetti can sliced -> container : 1
+can sliced container -> ricotta : 1
+sliced container ricotta -> shredded : 1
+container ricotta shredded -> mozzarella : 1
+ricotta shredded mozzarella -> shredded : 1
+shredded mozzarella shredded -> parmesan : 1
+mozzarella shredded parmesan -> ground : 1
+shredded parmesan ground -> beef : 1
+parmesan ground beef -> and : 1
+beef and italian -> arrange : 1
+and italian arrange -> half : 1
+italian arrange half -> of : 1
+arrange half of -> the : 1
+half of the -> lasagna : 1
+half of the -> ground : 1
+of the lasagna -> noodles : 1
+the lasagna noodles -> in : 1
+lasagna noodles in -> a : 1
+noodles in a -> greased : 1
+in a greased -> slow : 1
+in a greased -> baking : 1
+a greased slow -> spread : 1
+greased slow spread -> half : 1
+slow spread half -> of : 1
+spread half of -> the : 1
+spread half of -> pie : 1
+of the ground -> beef : 1
+the ground beef -> mixture : 1
+ground beef mixture -> over : 1
+beef mixture over -> top : 1
+mixture over top -> with : 1
+over top with -> half : 1
+top with half -> each : 1
+with half each -> of : 1
+half each of -> remaining : 1
+each of remaining -> ingredients : 1
+of remaining ingredients -> except : 1
+ingredients except parmesan -> repeat : 1
+except parmesan repeat -> layering : 1
+parmesan repeat layering -> cover : 1
+repeat layering cover -> and : 1
+layering cover and -> cook : 1
+setting for garnish -> with : 1
+for garnish with -> parmesan : 1
+garnish with parmesan -> serves : 1
+with parmesan serves -> bold : 1
+serves bold pie -> received : 1
+bold pie received -> this : 1
+pie received this -> recipe : 1
+received this recipe -> from : 1
+this recipe from -> a : 1
+recipe from a -> friend : 1
+from a friend -> i : 1
+a friend i -> met : 1
+friend i met -> it : 1
+i met it -> is : 1
+met it is -> very : 1
+it is very -> can : 1
+is very can -> can : 1
+very can can -> evaporated : 1
+can can evaporated -> biscuit : 1
+can evaporated biscuit -> baking : 1
+evaporated biscuit baking -> pumpkin : 1
+biscuit baking pumpkin -> pie : 1
+baking pumpkin pie -> vanilla : 1
+pumpkin pie vanilla -> whipped : 1
+pie vanilla whipped -> a : 1
+vanilla whipped a -> mix : 1
+whipped a mix -> together : 1
+a mix together -> all : 1
+a mix together -> water : 1
+ingredients except transfer -> to : 1
+except transfer to -> a : 1
+with vegetable cover -> and : 1
+vegetable cover and -> cook : 1
+for to pudding -> will : 1
+to pudding will -> start : 1
+pudding will start -> to : 1
+will start to -> pull : 1
+start to pull -> away : 1
+to pull away -> from : 1
+pull away from -> sides : 1
+away from sides -> of : 1
+from sides of -> slow : 1
+sides of slow -> test : 1
+of slow test -> for : 1
+slow test for -> doneness : 1
+test for doneness -> with : 1
+for doneness with -> a : 1
+doneness with a -> toothpick : 1
+with a toothpick -> inserted : 1
+a toothpick inserted -> in : 1
+toothpick inserted in -> serve : 1
+inserted in serve -> topped : 1
+in serve topped -> with : 1
+serve topped with -> dollops : 1
+topped with dollops -> of : 1
+to bold turkey -> son : 1
+bold turkey son -> requested : 1
+turkey son requested -> a : 1
+son requested a -> slow : 1
+requested a slow -> cooker : 1
+slow cooker primarily -> for : 1
+cooker primarily for -> this : 1
+primarily for this -> he : 1
+for this he -> has : 1
+this he has -> also : 1
+he has also -> shared : 1
+has also shared -> the : 1
+also shared the -> recipe : 1
+shared the recipe -> as : 1
+the recipe as -> well : 1
+recipe as well -> as : 1
+as well as -> the : 1
+well as the -> meal : 1
+as the meal -> with : 1
+the meal with -> to : 1
+meal with to -> boneless : 1
+with to boneless -> turkey : 1
+to boneless turkey -> orange : 1
+boneless turkey orange -> onion : 1
+turkey orange onion -> soup : 1
+orange onion soup -> can : 1
+onion soup can -> cranberry : 1
+soup can cranberry -> turkey : 1
+can cranberry turkey -> breast : 1
+cranberry turkey breast -> in : 1
+turkey breast in -> a : 1
+breast in a -> slow : 1
+combine remaining pour -> over : 1
+remaining pour over -> cover : 1
+one reduce to -> low : 2
+reduce to low -> setting : 2
+setting and cook -> for : 2
+an additional serves -> bold : 1
+additional serves bold -> beef : 1
+serves bold beef -> any : 1
+bold beef any -> time : 1
+beef any time -> of : 1
+of the easy -> to : 1
+the easy to -> prepare : 1
+easy to prepare -> in : 1
+to prepare in -> a : 1
+prepare in a -> slow : 1
+a slow hot -> cider : 1
+slow hot cider -> peeled : 1
+hot cider peeled -> and : 1
+cider peeled and -> cut : 1
+peeled and cut -> in : 1
+peeled and cut -> into : 2
+and cut in -> corned : 1
+and cut in -> shredded : 1
+cut in corned -> beef : 1
+in corned beef -> with : 1
+corned beef with -> spice : 1
+beef with spice -> redskin : 1
+with spice redskin -> head : 1
+spice redskin head -> cut : 1
+redskin head cut -> into : 1
+head cut into -> a : 1
+cut into a -> slow : 1
+onion and top -> with : 1
+top with corned -> contents : 1
+with corned contents -> of : 1
+corned contents of -> spice : 1
+contents of spice -> potatoes : 1
+of spice potatoes -> and : 1
+spice potatoes and -> cover : 1
+potatoes and cover -> and : 1
+to bold ranch -> family : 1
+bold ranch family -> loves : 1
+ranch family loves -> this : 1
+loves this dish -> and : 1
+this dish and -> so : 1
+and so easy -> to : 2
+easy to the -> dressing : 1
+to the dressing -> mix : 1
+the dressing mix -> gives : 1
+dressing mix gives -> it : 1
+mix gives it -> a : 1
+gives it a -> wonderful : 1
+it a wonderful -> redskin : 1
+a wonderful redskin -> peeled : 1
+wonderful redskin peeled -> and : 1
+redskin peeled and -> cream : 1
+peeled and cream -> buttermilk : 1
+and cream buttermilk -> ranch : 1
+cream buttermilk ranch -> salad : 1
+buttermilk ranch salad -> dressing : 1
+ranch salad dressing -> can : 1
+ranch salad dressing -> shredded : 1
+salad dressing can -> cream : 1
+dressing can cream -> of : 1
+cream of potato -> cooked : 1
+of potato cooked -> shredded : 1
+potato cooked shredded -> cheddar : 1
+cooked shredded cheddar -> and : 1
+cooked shredded cheddar -> stuffing : 1
+shredded cheddar and -> pepper : 1
+cheddar and pepper -> to : 1
+pepper to potatoes -> in : 1
+slow combine cream -> cheese : 1
+combine cream cheese -> and : 1
+cream cheese and -> dressing : 1
+cheese and dressing -> add : 1
+and dressing add -> soup : 1
+dressing add soup -> and : 1
+add soup and -> mix : 1
+add soup and -> stir : 1
+soup and mix -> add : 1
+mix add cream -> cheese : 1
+add cream cheese -> mixture : 1
+cream cheese mixture -> to : 1
+cheese mixture to -> slow : 1
+mixture to slow -> cooker : 2
+mix with cover -> and : 1
+for stir in -> ham : 1
+stir in ham -> and : 1
+in ham and -> top : 1
+ham and top -> with : 1
+top with add -> salt : 1
+top with add -> sprinkle : 1
+with add salt -> and : 1
+pepper to cover -> and : 1
+cook for another -> to : 1
+for another to -> until : 1
+another to until -> cheese : 1
+to until cheese -> is : 1
+cheese is serves -> bold : 1
+is serves bold -> discovered : 1
+is serves bold -> wild : 1
+serves bold discovered -> this : 1
+bold discovered this -> dish : 1
+discovered this dish -> with : 1
+this dish with -> the : 1
+dish with the -> unusual : 1
+with the unusual -> name : 1
+the unusual name -> on : 1
+unusual name on -> a : 1
+name on a -> trip : 1
+on a trip -> to : 1
+a trip to -> southern : 1
+trip to southern -> olive : 1
+to southern olive -> quartered : 1
+southern olive quartered -> and : 1
+olive quartered and -> skin : 1
+quartered and skin -> cloves : 1
+and skin cloves -> green : 1
+skin cloves green -> curry : 1
+cloves green curry -> currants : 1
+green curry currants -> or : 1
+curry currants or -> can : 1
+currants or can -> whole : 1
+or can whole -> and : 1
+can whole and -> pepper : 1
+whole and pepper -> to : 1
+pepper to slivered -> oil : 1
+to slivered oil -> in : 1
+slivered oil in -> a : 1
+oil in a -> skillet : 1
+oil in a -> saucepan : 1
+over medium chicken -> just : 1
+medium chicken just -> until : 1
+chicken just until -> place : 1
+just until place -> in : 1
+until place in -> a : 1
+cooker and set -> add : 1
+cooker and set -> combine : 2
+and set add -> green : 1
+set add green -> celery : 1
+add green celery -> and : 1
+green celery and -> curry : 1
+celery and curry -> powder : 1
+and curry powder -> to : 1
+curry powder to -> remove : 1
+powder to remove -> from : 1
+to remove from -> stir : 1
+remove from stir -> in : 1
+from stir in -> remaining : 1
+in remaining ingredients -> except : 1
+except rice and -> pour : 1
+rice and pour -> over : 1
+over cooked sprinkle -> with : 1
+cooked sprinkle with -> makes : 1
+with makes bold -> hearty : 1
+makes bold hearty -> dish : 1
+bold hearty dish -> is : 1
+hearty dish is -> sure : 1
+dish is sure -> to : 1
+is sure to -> be : 1
+sure to be -> a : 1
+sure to be -> found : 1
+to be a -> hit : 1
+be a hit -> at : 1
+a hit at -> any : 1
+hit at any -> never : 1
+at any never -> know : 1
+any never know -> it : 1
+never know it -> only : 1
+know it only -> took : 1
+it only took -> you : 1
+only took you -> minutes : 1
+took you minutes -> to : 1
+you minutes to -> put : 1
+minutes to put -> it : 1
+to put it -> to : 1
+put it to -> beef : 1
+it to beef -> round : 1
+to beef round -> cut : 1
+beef round cut -> into : 1
+round cut into -> green : 1
+cut into green -> red : 1
+into green red -> can : 1
+green red can -> diced : 1
+red can diced -> can : 1
+diced can sliced -> soy : 1
+can sliced soy -> roast : 1
+sliced soy roast -> in : 1
+soy roast in -> a : 1
+a slow sprinkle -> with : 3
+slow sprinkle with -> flour : 1
+slow sprinkle with -> salt : 2
+slow sprinkle with -> cover : 1
+sprinkle with flour -> and : 1
+with flour and -> stir : 1
+flour and stir -> well : 1
+and stir well -> to : 1
+stir well to -> coat : 1
+to coat add -> remaining : 1
+coat add remaining -> ingredients : 1
+additional serve over -> cooked : 1
+over cooked makes -> to : 1
+cooked makes to -> bold : 1
+to bold herbed -> pork : 1
+bold herbed pork -> recipe : 1
+herbed pork recipe -> is : 1
+pork recipe is -> one : 1
+recipe is one -> i : 1
+is one i -> know : 1
+one i know -> i : 1
+i know i -> can : 1
+know i can -> count : 1
+count on when -> i : 1
+on when i -> want : 1
+when i want -> a : 1
+i want a -> dinner : 1
+want a dinner -> really : 1
+a dinner really -> to : 1
+dinner really to -> pork : 1
+really to pork -> cloves : 1
+to pork cloves -> dried : 1
+pork cloves dried -> dried : 1
+cloves dried dried -> ground : 1
+cloves dried dried -> italian : 1
+dried dried ground -> lemon : 1
+dried ground lemon -> cold : 1
+ground lemon cold -> small : 1
+lemon cold small -> pockets : 1
+cold small pockets -> into : 1
+small pockets into -> roast : 1
+pockets into roast -> with : 1
+into roast with -> a : 1
+roast with a -> knife : 1
+roast with a -> meat : 1
+with a knife -> insert : 1
+a knife insert -> garlic : 1
+knife insert garlic -> combine : 1
+insert garlic combine -> seasonings : 1
+garlic combine seasonings -> and : 1
+combine seasonings and -> rub : 1
+seasonings and rub -> over : 1
+and rub over -> place : 1
+rub over place -> roast : 1
+over place roast -> in : 1
+place roast in -> a : 1
+for to allow -> roast : 1
+to allow roast -> to : 1
+allow roast to -> stand : 1
+roast to stand -> to : 1
+to stand to -> minutes : 1
+stand to minutes -> before : 1
+to minutes before -> remove : 1
+minutes before remove -> and : 1
+before remove and -> discard : 1
+remove and discard -> garlic : 1
+and discard garlic -> strain : 1
+discard garlic strain -> juices : 1
+garlic strain juices -> into : 1
+strain juices into -> a : 1
+juices into a -> saucepan : 1
+into a saucepan -> over : 1
+a saucepan over -> medium : 2
+saucepan over medium -> bring : 1
+saucepan over medium -> stirring : 1
+over medium bring -> to : 1
+medium bring to -> a : 1
+to a mix -> together : 1
+mix together water -> and : 1
+water and cornstarch -> until : 1
+and cornstarch until -> gradually : 1
+cornstarch until gradually -> add : 1
+until gradually add -> to : 1
+gradually add to -> cook : 1
+add to cook -> until : 1
+to cook until -> about : 1
+to cook until -> combine : 1
+cook until about -> serve : 1
+until about serve -> gravy : 1
+about serve gravy -> over : 1
+serve gravy over -> sliced : 1
+gravy over sliced -> serves : 1
+over sliced serves -> to : 1
+sliced serves to -> bold : 1
+to bold chicken -> family : 1
+to bold chicken -> version : 1
+bold chicken family -> just : 1
+chicken family just -> loves : 1
+family just loves -> this : 1
+just loves this -> tastes : 1
+loves this tastes -> like : 1
+this tastes like -> been : 1
+tastes like been -> cooking : 1
+like been cooking -> all : 1
+been cooking all -> skinless : 1
+cooking all skinless -> chicken : 1
+all skinless chicken -> and : 1
+skinless chicken and -> pepper : 1
+pepper to cans -> cream : 1
+to cans cream -> of : 1
+of chicken can -> chicken : 1
+can chicken wide -> egg : 1
+chicken wide egg -> chicken : 1
+wide egg chicken -> in : 1
+egg chicken in -> a : 1
+salt and top -> with : 1
+top with cover -> and : 3
+for or until -> chicken : 1
+for or until -> stirring : 1
+chicken is very -> remove : 1
+is very remove -> chicken : 1
+very remove chicken -> from : 1
+remove chicken from -> slow : 1
+chicken from slow -> cooker : 1
+cooker and return -> to : 1
+slow add broth -> and : 1
+add broth and -> cooked : 1
+broth and cooked -> mix : 1
+and cooked mix -> cover : 1
+cooked mix cover -> and : 1
+or until heated -> serves : 1
+until heated serves -> bold : 1
+heated serves bold -> blueberry : 1
+serves bold blueberry -> i : 1
+bold blueberry i -> always : 1
+blueberry i always -> loved : 1
+i always loved -> still : 1
+always loved still -> mom : 1
+loved still mom -> would : 1
+still mom would -> make : 1
+mom would make -> this : 1
+would make this -> easy : 1
+make this easy -> recipe : 1
+this easy recipe -> for : 1
+recipe for me -> year : 1
+for me year -> tubes : 1
+me year tubes -> refrigerated : 1
+year tubes refrigerated -> quartered : 1
+tubes refrigerated quartered -> and : 1
+refrigerated quartered and -> brown : 1
+quartered and brown -> can : 1
+and brown can -> blueberry : 1
+brown can blueberry -> pie : 1
+can blueberry pie -> one : 1
+blueberry pie one -> tube : 1
+pie one tube -> of : 1
+one tube of -> biscuits : 1
+tube of biscuits -> in : 1
+of biscuits in -> a : 1
+biscuits in a -> slow : 1
+with vegetable in -> a : 1
+vegetable in a -> small : 1
+a small mix -> together : 1
+a small mix -> rub : 1
+small mix together -> brown : 1
+mix together brown -> cinnamon : 1
+together brown cinnamon -> and : 1
+brown cinnamon and -> butter : 1
+cinnamon and butter -> just : 1
+and butter just -> until : 1
+butter just until -> sprinkle : 1
+just until sprinkle -> half : 1
+until sprinkle half -> of : 1
+sprinkle half of -> mixture : 1
+half of mixture -> over : 1
+half of mixture -> in : 1
+of mixture over -> spread : 1
+mixture over spread -> half : 1
+over spread half -> of : 1
+half of pie -> filling : 1
+of pie filling -> over : 1
+pie filling over -> layer : 1
+filling over layer -> with : 1
+over layer with -> remaining : 1
+layer with remaining -> sprinkle : 1
+with remaining sprinkle -> with : 1
+remaining sprinkle with -> remaining : 1
+sprinkle with remaining -> brown : 1
+sprinkle with remaining -> cover : 1
+with remaining brown -> sugar : 1
+remaining brown sugar -> mixture : 1
+remaining brown sugar -> and : 1
+brown sugar mixture -> and : 1
+sugar mixture and -> top : 1
+mixture and top -> with : 1
+with remaining pie -> cover : 1
+remaining pie cover -> and : 1
+pie cover and -> cook : 1
+to until biscuits -> are : 1
+until biscuits are -> makes : 1
+biscuits are makes -> to : 1
+are makes to -> bold : 1
+to bold short -> the : 1
+bold short the -> fun : 1
+short the fun -> of : 1
+the fun of -> a : 1
+fun of a -> saturday : 1
+of a saturday -> night : 1
+a saturday night -> of : 1
+saturday night of -> the : 1
+night of the -> to : 1
+of the to -> beef : 1
+the to beef -> short : 1
+to beef short -> and : 1
+beef short and -> pepper : 1
+short and pepper -> to : 1
+pepper to hickory -> barbecue : 1
+to hickory barbecue -> dijon : 1
+hickory barbecue dijon -> cloves : 1
+barbecue dijon cloves -> cold : 1
+dijon cloves cold -> ribs : 1
+cloves cold ribs -> with : 1
+cold ribs with -> salt : 1
+ribs with salt -> and : 1
+and set combine -> barbecue : 1
+and set combine -> remaining : 1
+set combine barbecue -> garlic : 1
+combine barbecue garlic -> and : 1
+barbecue garlic and -> additional : 1
+garlic and additional -> salt : 1
+and additional salt -> and : 1
+additional salt and -> if : 1
+salt and if -> pour : 1
+and if pour -> over : 1
+if pour over -> cover : 1
+for to during -> the : 1
+to during the -> last : 1
+during the last -> minutes : 1
+the last minutes -> of : 1
+last minutes of -> whisk : 1
+minutes of whisk -> cornstarch : 1
+of whisk cornstarch -> into : 1
+whisk cornstarch into -> add : 1
+cornstarch into add -> to : 1
+into add to -> slow : 1
+to slow stirring -> until : 1
+slow stirring until -> serves : 1
+stirring until serves -> bold : 1
+until serves bold -> bold : 1
+serves bold bold -> bean : 1
+bold bold bean -> sausage : 1
+bold bean sausage -> a : 1
+bean sausage a -> basket : 1
+sausage a basket -> of : 1
+a basket of -> buttered : 1
+basket of buttered -> biscuits : 1
+of buttered biscuits -> for : 1
+buttered biscuits for -> a : 1
+biscuits for a -> satisfying : 1
+for a satisfying -> soup : 1
+a satisfying soup -> italian : 1
+satisfying soup italian -> pork : 1
+soup italian pork -> sausage : 1
+italian pork sausage -> olive : 1
+pork sausage olive -> clove : 1
+sausage olive clove -> cans : 1
+olive clove cans -> great : 1
+clove cans great -> northern : 1
+cans great northern -> drained : 1
+great northern drained -> and : 2
+northern drained and -> can : 2
+and can chopped -> dried : 1
+can chopped dried -> and : 1
+chopped dried and -> pepper : 1
+pepper to sausages -> and : 1
+to sausages and -> place : 1
+sausages and place -> in : 1
+large add bring -> to : 1
+add bring to -> a : 1
+boil over medium -> reduce : 1
+over medium reduce -> heat : 1
+medium reduce heat -> and : 1
+reduce heat and -> simmer : 1
+heat and simmer -> for : 1
+and simmer for -> turning : 1
+simmer for turning -> transfer : 1
+for turning transfer -> sausages : 1
+turning transfer sausages -> to : 1
+transfer sausages to -> a : 1
+sausages to a -> heat : 1
+to a heat -> oil : 1
+a heat oil -> in : 1
+heat oil in -> skillet : 1
+oil in skillet -> over : 1
+in skillet over -> onion : 1
+skillet over onion -> and : 1
+over onion and -> stir : 1
+stir in tomatoes -> and : 1
+in tomatoes and -> add : 1
+tomatoes and add -> half : 1
+and add half -> of : 1
+add half of -> bean : 1
+half of bean -> mixture : 1
+of bean mixture -> to : 1
+bean mixture to -> a : 1
+a slow arrange -> sausages : 1
+slow arrange sausages -> on : 1
+arrange sausages on -> spread : 1
+sausages on spread -> remaining : 1
+on spread remaining -> bean : 1
+spread remaining bean -> mixture : 1
+remaining bean mixture -> over : 1
+bean mixture over -> cover : 1
+mixture over cover -> and : 1
+on high check -> after : 1
+high check after -> stir : 1
+check after stir -> in : 1
+after stir in -> additional : 1
+stir in additional -> if : 1
+in additional if -> remove : 1
+additional if remove -> slice : 1
+if remove slice -> into : 1
+remove slice into -> thick : 1
+slice into thick -> chunks : 1
+into thick chunks -> and : 1
+thick chunks and -> return : 1
+chunks and return -> to : 1
+to slow sprinkle -> with : 1
+salt and serves -> bold : 1
+bold chicken filling -> meal : 1
+chicken filling meal -> in : 1
+filling meal in -> a : 1
+meal in a -> skinless : 1
+in a skinless -> chicken : 1
+a skinless chicken -> chicken : 1
+skinless chicken chicken -> plum : 1
+chicken chicken plum -> green : 1
+chicken plum green -> canned : 1
+plum green canned -> garbanzo : 1
+green canned garbanzo -> drained : 1
+canned garbanzo drained -> and : 1
+garbanzo drained and -> cloves : 1
+drained and cloves -> bay : 1
+and cloves bay -> shredded : 1
+cloves bay shredded -> monterey : 1
+bay shredded monterey -> jack : 1
+shredded monterey jack -> diced : 1
+shredded monterey jack -> chopped : 1
+shredded monterey jack -> can : 1
+monterey jack diced -> all : 1
+jack diced all -> ingredients : 1
+diced all ingredients -> except : 1
+except garnish in -> a : 2
+garnish in a -> slow : 2
+to until chicken -> and : 1
+until chicken and -> rice : 1
+chicken and rice -> are : 1
+and rice are -> discard : 1
+rice are discard -> bay : 1
+are discard bay -> to : 1
+discard bay to -> place : 1
+bay to place -> a : 1
+to place a -> chicken : 1
+place a chicken -> thigh : 1
+a chicken thigh -> in : 1
+chicken thigh in -> each : 1
+thigh in each -> soup : 1
+in each soup -> top : 1
+each soup top -> with : 1
+soup top with -> soup : 1
+top with soup -> and : 1
+with soup and -> garnish : 1
+soup and garnish -> as : 1
+and garnish as -> serves : 1
+garnish as serves -> bold : 1
+as serves bold -> potato : 1
+serves bold potato -> with : 1
+bold potato with -> a : 1
+potato with a -> sprinkle : 1
+with a sprinkle -> of : 1
+a sprinkle of -> snipped : 1
+sprinkle of snipped -> fresh : 1
+of snipped fresh -> peeled : 1
+snipped fresh peeled -> and : 1
+fresh peeled and -> stalk : 1
+peeled and stalk -> cubes : 1
+and stalk cubes -> chicken : 1
+stalk cubes chicken -> dried : 1
+cubes chicken dried -> can : 1
+chicken dried can -> evaporated : 1
+dried can evaporated -> all : 1
+can evaporated all -> ingredients : 1
+evaporated all ingredients -> except : 1
+ingredients except evaporated -> milk : 1
+except evaporated milk -> in : 1
+evaporated milk in -> a : 1
+milk in a -> slow : 1
+to stir in -> milk : 1
+stir in milk -> during : 1
+in milk during -> last : 1
+milk during last -> hour : 1
+during last hour -> of : 1
+last hour of -> serves : 1
+hour of serves -> bold : 1
+of serves bold -> taco : 1
+serves bold taco -> make : 1
+bold taco make -> this : 1
+taco make this -> soup : 1
+make this soup -> are : 1
+this soup are -> very : 1
+soup are very -> picky : 1
+are very picky -> and : 1
+very picky and -> all : 1
+picky and all -> of : 1
+and all of -> us : 1
+all of us -> like : 1
+of us like -> which : 1
+us like which -> is : 1
+like which is -> ground : 1
+which is ground -> browned : 1
+is ground browned -> and : 1
+browned and carton -> chicken : 1
+and carton chicken -> cans : 1
+carton chicken cans -> petite : 1
+chicken cans petite -> diced : 1
+cans petite diced -> tomatoes : 1
+petite diced tomatoes -> with : 1
+with green can -> great : 1
+green can great -> northern : 1
+can great northern -> drained : 1
+and can black -> drained : 1
+can black drained -> and : 2
+black drained and -> can : 1
+black drained and -> jar : 2
+and can yellow -> can : 1
+can yellow can -> white : 1
+yellow can white -> taco : 1
+can white taco -> seasoning : 1
+white taco seasoning -> ranch : 1
+taco seasoning ranch -> salad : 1
+seasoning ranch salad -> dressing : 1
+salad dressing shredded -> cheddar : 1
+dressing shredded cheddar -> all : 1
+shredded cheddar all -> ingredients : 1
+cheddar all ingredients -> except : 1
+ingredients except cheese -> in : 1
+except cheese in -> a : 1
+cheese in a -> slow : 1
+to to top -> with : 1
+top with cheese -> and : 1
+with cheese and -> tortilla : 1
+cheese and tortilla -> serves : 1
+and tortilla serves -> to : 1
+tortilla serves to -> bold : 1
+to bold corn -> sliced : 1
+to bold corn -> muffin : 1
+to bold corn -> savory : 1
+bold corn sliced -> into : 1
+corn sliced into -> for : 1
+sliced into for -> strips : 1
+into for strips -> in : 1
+for strips in -> oil : 1
+strips in oil -> until : 1
+in oil until -> bold : 1
+oil until bold -> bean : 1
+until bold bean -> a : 1
+bold bean a -> aide : 1
+bean a aide -> with : 1
+a aide with -> winter : 1
+aide with winter -> recess : 1
+with winter recess -> cup : 1
+winter recess cup -> of : 1
+recess cup of -> bean : 1
+cup of bean -> soup : 1
+of bean soup -> warms : 1
+bean soup warms -> the : 1
+soup warms the -> body : 1
+warms the body -> dried : 1
+the body dried -> navy : 1
+body dried navy -> meaty : 1
+dried navy meaty -> ham : 1
+navy meaty ham -> celery : 1
+meaty ham celery -> whole : 1
+ham celery whole -> to : 1
+celery whole to -> bay : 1
+whole to bay -> beans : 1
+to bay beans -> with : 1
+bay beans with -> water : 1
+soup soak combine -> quarts : 1
+soup soak combine -> pepper : 1
+soak combine quarts -> water : 1
+combine quarts water -> and : 1
+quarts water and -> remaining : 1
+water and remaining -> ingredients : 1
+remaining ingredients in -> a : 3
+to remove ham -> dice : 1
+remove ham dice -> meat : 1
+ham dice meat -> and : 1
+dice meat and -> return : 1
+meat and return -> to : 1
+to slow discard -> bay : 1
+slow discard bay -> if : 1
+discard bay if -> makes : 1
+bay if makes -> to : 1
+if makes to -> bold : 1
+bold corn muffin -> yellow : 1
+corn muffin yellow -> cake : 1
+muffin yellow cake -> all : 1
+yellow cake all -> mix : 1
+cake all mix -> spread : 1
+all mix spread -> batter : 1
+mix spread batter -> in : 1
+spread batter in -> a : 1
+batter in a -> greased : 1
+a greased baking -> bake : 1
+greased baking bake -> at : 1
+baking bake at -> degrees : 1
+bake at degrees -> for : 1
+at degrees for -> to : 1
+degrees for to -> makes : 1
+bold corn savory -> chowder : 1
+corn savory chowder -> is : 1
+savory chowder is -> always : 1
+chowder is always -> simmering : 1
+is always simmering -> away : 1
+always simmering away -> in : 1
+simmering away in -> my : 1
+away in my -> slow : 1
+in my slow -> cooker : 1
+my slow cooker -> on : 1
+cooker on football -> saturday : 1
+on football saturday -> mornings : 1
+football saturday mornings -> so : 1
+saturday mornings so -> ready : 1
+mornings so ready -> to : 1
+so ready to -> enjoy : 1
+ready to enjoy -> by : 1
+to enjoy by -> smoked : 1
+enjoy by smoked -> pork : 1
+by smoked pork -> frozen : 1
+smoked pork frozen -> hashbrowns : 1
+smoked pork frozen -> can : 1
+pork frozen hashbrowns -> with : 1
+frozen hashbrowns with -> onions : 1
+hashbrowns with onions -> and : 1
+with onions and -> peeled : 1
+onions and peeled -> and : 1
+and peeled and -> can : 1
+and peeled and -> cut : 1
+peeled and can -> creamed : 1
+peeled and can -> barbecue : 1
+peeled and can -> diced : 1
+and can creamed -> can : 1
+can creamed can -> cream : 1
+creamed can cream -> of : 1
+with roasted sausage -> in : 1
+roasted sausage in -> a : 1
+sausage in a -> skillet : 1
+sausage in a -> slow : 1
+over medium drain -> and : 1
+medium drain and -> cut : 1
+drain and cut -> into : 1
+and cut into -> place : 1
+and cut into -> stew : 1
+and cut into -> slices : 1
+cut into place -> sausage : 1
+into place sausage -> in : 1
+place sausage in -> a : 1
+top with hashbrowns -> and : 1
+with hashbrowns and -> combine : 1
+hashbrowns and combine -> soup : 1
+and combine soup -> and : 1
+combine soup and -> stir : 1
+combine soup and -> pour : 1
+soup and stir -> until : 2
+and stir until -> blended : 1
+and stir until -> add : 1
+and stir until -> coated : 1
+stir until blended -> and : 1
+until blended and -> pour : 1
+blended and pour -> over : 1
+pour over sausage -> cover : 1
+over sausage cover -> and : 1
+sausage cover and -> cook : 1
+serves bold chile -> for : 1
+bold chile for -> a : 1
+chile for a -> cold : 1
+for a cold -> use : 1
+a cold use -> medium : 1
+cold use medium -> or : 1
+use medium or -> mild : 1
+medium or mild -> green : 1
+or mild green -> chiles : 1
+mild green chiles -> according : 1
+green chiles according -> to : 1
+chiles according to -> your : 1
+according to your -> own : 1
+to your own -> to : 1
+your own to -> boneless : 1
+own to boneless -> cans : 1
+to boneless cans -> pinto : 1
+boneless cans pinto -> cans : 1
+cans pinto cans -> diced : 1
+pinto cans diced -> cans : 1
+cans diced cans -> diced : 1
+diced cans diced -> green : 1
+cans diced green -> can : 1
+diced green can -> ground : 1
+green can ground -> and : 1
+can ground and -> pepper : 1
+ground and pepper -> to : 1
+pepper to pork -> in : 1
+to pork in -> a : 1
+pork in a -> slow : 1
+pork in a -> lightly : 1
+with remaining cover -> and : 3
+serves bold onion -> you : 1
+bold onion you -> can : 1
+onion you can -> enjoy : 1
+you can enjoy -> this : 1
+can enjoy this -> elegant : 1
+enjoy this elegant -> soup : 1
+this elegant soup -> any : 1
+elegant soup any -> time : 1
+soup any time -> and : 1
+any time and -> so : 1
+time and so -> easy : 1
+to beef dry -> white : 1
+beef dry white -> wine : 1
+dry white wine -> or : 1
+white wine or -> beef : 1
+wine or beef -> slices : 1
+or beef slices -> french : 1
+beef slices french -> grated : 1
+slices french grated -> parmesan : 1
+french grated parmesan -> shredded : 1
+grated parmesan shredded -> mozzarella : 1
+parmesan shredded mozzarella -> butter : 1
+shredded mozzarella butter -> in : 1
+mozzarella butter in -> a : 1
+add cook for -> to : 1
+cook for to -> until : 1
+cook for to -> hours : 1
+to until stir -> in : 1
+stir in sugar -> and : 1
+in sugar and -> continue : 1
+sugar and continue -> to : 1
+and continue to -> cook : 1
+continue to cook -> and : 1
+to cook and -> stir : 1
+stir until add -> mix : 1
+until add mix -> combine : 1
+add mix combine -> onion : 1
+mix combine onion -> broth : 1
+combine onion broth -> and : 1
+onion broth and -> wine : 1
+broth and wine -> or : 1
+and wine or -> broth : 1
+wine or broth -> in : 1
+or broth in -> a : 1
+broth in a -> slow : 1
+for to ladle -> soup : 1
+to ladle soup -> into : 1
+ladle soup into -> top : 1
+soup into top -> with : 1
+into top with -> bread : 1
+top with bread -> sprinkle : 1
+with bread sprinkle -> with : 1
+bread sprinkle with -> broil : 1
+sprinkle with broil -> until : 1
+with broil until -> cheese : 1
+broil until cheese -> is : 1
+cheese is bubbly -> and : 1
+is bubbly and -> serves : 1
+bubbly and serves -> bold : 1
+serves bold bbq -> bean : 1
+bold bbq bean -> my : 1
+bbq bean my -> daughter : 1
+bean my daughter -> visited : 1
+my daughter visited -> this : 1
+daughter visited this -> was : 1
+visited this was -> one : 1
+this was one -> recipe : 1
+was one recipe -> she : 1
+one recipe she -> brought : 1
+recipe she brought -> becoming : 1
+she brought becoming -> a : 1
+brought becoming a -> family : 1
+becoming a family -> favorite : 1
+a family favorite -> up : 1
+family favorite up -> north : 1
+favorite up north -> great : 1
+up north great -> northern : 1
+north great northern -> beef : 1
+great northern beef -> short : 1
+northern beef short -> cut : 1
+beef short cut -> into : 1
+short cut into -> barbecue : 1
+cut into barbecue -> to : 1
+into barbecue to -> beans : 1
+barbecue to beans -> with : 1
+to beans with -> water : 1
+soak combine pepper -> and : 1
+combine pepper and -> short : 1
+pepper and short -> in : 1
+and short in -> a : 1
+short in a -> slow : 1
+slow add enough -> water : 1
+slow add enough -> broth : 1
+add enough water -> to : 1
+to remove short -> cut : 1
+remove short cut -> meat : 1
+short cut meat -> from : 1
+cut meat from -> return : 1
+meat from return -> meat : 1
+from return meat -> to : 1
+return meat to -> slow : 1
+meat to slow -> stir : 1
+stir in sauce -> and : 1
+in sauce and -> salt : 1
+sauce and salt -> to : 1
+and salt to -> cover : 1
+salt to cover -> and : 1
+additional until warmed -> serves : 1
+until warmed serves -> to : 1
+warmed serves to -> bold : 1
+to bold wagon -> hearty : 1
+bold wagon hearty -> stew : 1
+wagon hearty stew -> is : 1
+hearty stew is -> ideal : 1
+stew is ideal -> for : 1
+is ideal for -> a : 1
+ideal for a -> fall : 1
+for a fall -> social : 1
+a fall social -> or : 1
+fall social or -> a : 1
+social or a -> weekend : 1
+or a weekend -> at : 1
+a weekend at -> the : 1
+weekend at the -> stew : 1
+at the stew -> smoked : 1
+the stew smoked -> pork : 1
+stew smoked pork -> peeled : 1
+smoked pork peeled -> and : 1
+pork peeled and -> can : 1
+and can barbecue -> baked : 1
+can barbecue baked -> onion : 1
+barbecue baked onion -> and : 1
+baked onion and -> potatoes : 1
+onion and potatoes -> into : 1
+and potatoes into -> a : 1
+potatoes into a -> slow : 1
+slow mix spoon -> beans : 1
+mix spoon beans -> over : 1
+spoon beans over -> cover : 1
+beans over cover -> and : 1
+high setting to -> stir : 1
+setting to stir -> again : 1
+to stir again -> before : 1
+stir again before -> makes : 1
+stir again before -> serves : 1
+again before makes -> bold : 1
+makes bold bean -> different : 1
+bold bean different -> kind : 1
+bean different kind -> of : 1
+different kind of -> i : 1
+kind of i -> like : 1
+of i like -> to : 1
+like to top -> the : 1
+to top the -> bowl : 1
+top the bowl -> with : 1
+the bowl with -> a : 1
+bowl with a -> handful : 1
+with a handful -> of : 1
+a handful of -> crushed : 1
+handful of crushed -> tortilla : 1
+of crushed tortilla -> pork : 1
+crushed tortilla pork -> cans : 1
+tortilla pork cans -> black : 1
+pork cans black -> drained : 1
+cans black drained -> and : 1
+drained and jar -> chunky : 1
+drained and jar -> to : 1
+and jar chunky -> chicken : 1
+jar chunky chicken -> green : 1
+chunky chicken green -> chili : 1
+chicken green chili -> ground : 1
+ground dried sour -> diced : 1
+dried sour diced -> pork : 1
+sour diced pork -> in : 1
+diced pork in -> a : 1
+greased slow add -> remaining : 1
+setting for shred -> return : 2
+for shred return -> to : 2
+shred return to -> slow : 2
+to slow garnish -> servings : 1
+slow garnish servings -> with : 1
+garnish servings with -> dollops : 1
+servings with dollops -> of : 1
+dollops of sour -> cream : 1
+of sour cream -> and : 1
+cream and diced -> serves : 1
+and diced serves -> to : 1
+diced serves to -> bold : 1
+to bold help -> but : 1
+bold help but -> smile : 1
+help but smile -> with : 1
+but smile with -> a : 1
+smile with a -> bowl : 1
+with a bowl -> of : 1
+a bowl of -> gumbo : 1
+bowl of gumbo -> in : 1
+of gumbo in -> front : 1
+gumbo in front -> of : 1
+in front of -> chicken : 1
+front of chicken -> smoked : 1
+of chicken smoked -> pork : 1
+chicken smoked pork -> frozen : 1
+pork frozen can -> diced : 1
+frozen can diced -> green : 1
+diced green cloves -> cayenne : 1
+green cloves cayenne -> cooked : 1
+cloves cayenne cooked -> medium : 1
+cayenne cooked medium -> tails : 1
+cooked medium tails -> together : 1
+medium tails together -> flour : 1
+tails together flour -> and : 1
+together flour and -> oil : 1
+together flour and -> pour : 1
+flour and oil -> in : 1
+and oil in -> a : 1
+in a saucepan -> over : 1
+over medium stirring -> for : 1
+medium stirring for -> reduce : 1
+stirring for reduce -> cook : 1
+for reduce cook -> and : 1
+reduce cook and -> stir : 1
+stir for until -> mixture : 1
+for until mixture -> is : 1
+until mixture is -> reddish : 1
+mixture is reddish -> pour : 1
+is reddish pour -> broth : 1
+reddish pour broth -> into : 1
+pour broth into -> a : 1
+broth into a -> slow : 1
+stir in flour -> add : 1
+in flour add -> remaining : 1
+flour add remaining -> ingredients : 1
+ingredients except shrimp -> and : 1
+except shrimp and -> cover : 1
+shrimp and cover -> and : 1
+for to shortly -> before : 1
+to shortly before -> add : 1
+shortly before add -> shrimp : 1
+before add shrimp -> to : 1
+add shrimp to -> slow : 1
+shrimp to slow -> mix : 1
+to slow mix -> cover : 1
+for about ladle -> gumbo : 1
+about ladle gumbo -> over : 1
+ladle gumbo over -> cooked : 1
+gumbo over cooked -> rice : 1
+over cooked rice -> in : 1
+cooked rice in -> soup : 1
+rice in soup -> serves : 1
+in soup serves -> bold : 1
+soup serves bold -> minestrone : 1
+serves bold minestrone -> is : 1
+bold minestrone is -> a : 1
+minestrone is a -> recipe : 1
+is a recipe -> my : 1
+a recipe my -> grandmother : 1
+recipe my grandmother -> used : 1
+my grandmother used -> to : 1
+grandmother used to -> make : 1
+used to make -> on : 1
+to make on -> the : 1
+make on the -> adapted : 1
+on the adapted -> it : 1
+the adapted it -> to : 1
+adapted it to -> the : 1
+it to the -> slow : 1
+to the slow -> zesty : 1
+the slow zesty -> italian : 1
+slow zesty italian -> salad : 1
+zesty italian salad -> peeled : 1
+italian salad peeled -> and : 1
+salad peeled and -> can : 1
+and can diced -> can : 1
+diced can kidney -> drained : 1
+can kidney drained -> and : 1
+kidney drained and -> cans : 1
+drained and cans -> vegetable : 1
+drained and cans -> diced : 1
+and cans vegetable -> italian : 1
+cans vegetable italian -> small : 1
+vegetable italian small -> shell : 1
+italian small shell -> uncooked : 1
+small shell uncooked -> and : 1
+shell uncooked and -> all : 1
+uncooked and all -> ingredients : 1
+and all ingredients -> except : 1
+ingredients except pasta -> in : 1
+except pasta in -> a : 1
+pasta in a -> slow : 1
+setting for measure -> out : 1
+for measure out -> cups : 1
+measure out cups -> reserving : 2
+out cups reserving -> the : 2
+cups reserving the -> rest : 2
+reserving the rest -> for : 2
+the rest for -> another : 2
+rest for another -> stir : 2
+for another stir -> uncooked : 2
+another stir uncooked -> pasta : 1
+another stir uncooked -> noodles : 1
+stir uncooked pasta -> into : 1
+uncooked pasta into -> slow : 1
+pasta into slow -> cover : 1
+into slow cover -> and : 3
+or until pasta -> is : 1
+until pasta is -> serves : 1
+pasta is serves -> bold : 1
+serves bold wild -> rice : 1
+bold wild rice -> hearty : 1
+wild rice hearty -> soup : 1
+rice hearty soup -> is : 1
+hearty soup is -> of : 1
+soup is of -> make : 1
+is of make -> it : 1
+of make it -> even : 1
+make it even -> healthier : 1
+it even healthier -> with : 1
+even healthier with -> broth : 1
+healthier with broth -> and : 1
+with broth and -> evaporated : 1
+broth and evaporated -> if : 1
+and evaporated if -> you : 1
+evaporated if you -> deli : 1
+if you deli -> smoked : 1
+you deli smoked -> peeled : 1
+deli smoked peeled -> and : 1
+smoked peeled and -> wild : 1
+peeled and wild -> dried : 1
+and wild dried -> cans : 1
+wild dried cans -> chicken : 1
+dried cans chicken -> can : 1
+cans chicken can -> evaporated : 1
+chicken can evaporated -> frozen : 1
+can evaporated frozen -> dry : 1
+evaporated frozen dry -> a : 1
+frozen dry a -> skillet : 1
+dry a skillet -> over : 1
+medium cook onion -> in : 1
+cook onion in -> oil : 1
+onion in oil -> for : 1
+in oil for -> about : 1
+oil for about -> until : 1
+about until combine -> onion : 1
+until combine onion -> with : 1
+combine onion with -> rice : 1
+onion with rice -> and : 1
+with rice and -> seasonings : 1
+rice and seasonings -> in : 1
+stir in cover -> and : 1
+in cover and -> cook : 1
+for to mix -> evaporated : 1
+to mix evaporated -> milk : 1
+mix evaporated milk -> and : 1
+milk and stir -> into : 2
+and stir into -> soup : 1
+and stir into -> slow : 1
+stir into soup -> along : 1
+into soup along -> with : 1
+soup along with -> peas : 1
+along with peas -> and : 1
+with peas and -> if : 1
+peas and if -> cover : 1
+about until makes -> bold : 1
+until makes bold -> pea : 1
+makes bold pea -> parents : 1
+bold pea parents -> made : 1
+pea parents made -> this : 1
+parents made this -> soup : 1
+made this soup -> it : 1
+this soup it -> is : 1
+soup it is -> delicious : 1
+is delicious year -> but : 1
+delicious year but -> is : 1
+year but is -> especially : 1
+but is especially -> warming : 1
+is especially warming -> on : 1
+especially warming on -> winter : 1
+warming on winter -> dried : 1
+on winter dried -> split : 1
+winter dried split -> peeled : 1
+dried split peeled -> and : 1
+split peeled and -> bay : 1
+peeled and bay -> and : 1
+and bay and -> pepper : 1
+bay and pepper -> to : 1
+to to cooked -> all : 1
+to cooked all -> ingredients : 1
+cooked all ingredients -> in : 1
+on low for -> to : 1
+on low for -> serve : 1
+low for to -> discard : 1
+for to discard -> bay : 1
+for to discard -> cinnamon : 1
+to discard bay -> leaves : 1
+discard bay leaves -> before : 1
+bay leaves before -> makes : 1
+leaves before makes -> to : 1
+before makes to -> bold : 1
+bold chicken version -> is : 1
+chicken version is -> quicker : 1
+version is quicker -> than : 1
+is quicker than -> grandma : 1
+quicker than grandma -> but : 1
+than grandma but -> it : 1
+grandma but it -> sure : 1
+but it sure -> has : 1
+it sure has -> the : 1
+sure has the -> same : 1
+has the same -> great : 1
+the same great -> to : 1
+same great to -> skinless : 1
+great to skinless -> chicken : 1
+chicken cans stewed -> frozen : 1
+cans stewed frozen -> italian : 1
+stewed frozen italian -> clove : 1
+frozen italian clove -> rigatoni : 1
+italian clove rigatoni -> shredded : 1
+clove rigatoni shredded -> mozzarella : 1
+rigatoni shredded mozzarella -> grated : 1
+grated parmesan vegetables -> and : 1
+parmesan vegetables and -> garlic : 1
+vegetables and garlic -> in : 1
+and garlic in -> a : 1
+garlic in a -> slow : 1
+minutes before cooking -> is : 1
+before cooking is -> top : 1
+cooking is top -> stew : 1
+is top stew -> with : 1
+top stew with -> uncooked : 1
+stew with uncooked -> do : 1
+with uncooked do -> not : 1
+uncooked do not -> cover : 1
+do not cover -> and : 1
+not cover and -> finish : 1
+cover and finish -> pasta : 1
+and finish pasta -> will : 1
+finish pasta will -> thicken : 1
+pasta will thicken -> the : 1
+will thicken the -> stew : 1
+thicken the stew -> as : 1
+the stew as -> it : 1
+stew as it -> garnish : 1
+as it garnish -> portions : 1
+it garnish portions -> with : 1
+garnish portions with -> makes : 1
+garnish portions with -> scoops : 1
+to bold west -> up : 1
+bold west up -> this : 1
+west up this -> recipe : 1
+up this recipe -> by : 1
+this recipe by -> substituting : 1
+recipe by substituting -> canned : 1
+by substituting canned -> need : 1
+substituting canned need -> about : 1
+canned need about -> no : 1
+need about no -> soaking : 1
+about no soaking -> dried : 1
+no soaking dried -> great : 1
+soaking dried great -> northern : 1
+dried great northern -> skinless : 1
+great northern skinless -> chicken : 1
+northern skinless chicken -> can : 1
+can chicken cloves -> cans : 1
+chicken cloves cans -> chopped : 1
+cloves cans chopped -> green : 1
+cans chopped green -> ground : 1
+chopped green ground -> cayenne : 1
+green ground cayenne -> dried : 1
+ground cayenne dried -> shredded : 1
+cayenne dried shredded -> monterey : 1
+dried shredded monterey -> jack : 1
+monterey jack chopped -> green : 1
+jack chopped green -> beans : 1
+chopped green beans -> with : 1
+green beans with -> water : 1
+large soup pot -> and : 1
+soup pot and -> soak : 1
+pot and soak -> combine : 1
+and soak combine -> beans : 1
+soak combine beans -> with : 1
+combine beans with -> remaining : 1
+beans with remaining -> ingredients : 1
+cooker and cover -> and : 1
+to stirring garnish -> individual : 1
+stirring garnish individual -> portions : 1
+garnish individual portions -> as : 1
+individual portions as -> serves : 1
+portions as serves -> to : 1
+as serves to -> bold : 1
+to bold noodle -> the : 1
+bold noodle the -> first : 1
+noodle the first -> sign : 1
+the first sign -> of : 1
+first sign of -> i : 1
+sign of i -> put : 1
+of i put -> this : 1
+i put this -> soup : 1
+put this soup -> on : 1
+this soup on -> to : 1
+soup on to -> it : 1
+on to it -> makes : 1
+to it makes -> me : 1
+it makes me -> feel : 1
+makes me feel -> much : 1
+me feel much -> better : 1
+feel much better -> in : 1
+much better in -> no : 1
+better in no -> peeled : 1
+in no peeled -> and : 1
+no peeled and -> stalks : 1
+peeled and stalks -> bay : 1
+peeled and stalks -> to : 1
+and stalks bay -> dried : 1
+stalks bay dried -> to : 1
+bay dried to -> chicken : 1
+dried to chicken -> broth : 1
+to chicken broth -> or : 1
+chicken broth or -> medium : 1
+broth or medium -> egg : 1
+or medium egg -> uncooked : 1
+medium egg uncooked -> and : 1
+egg uncooked and -> seasonings : 1
+uncooked and seasonings -> and : 1
+and seasonings and -> chicken : 1
+seasonings and chicken -> in : 1
+and chicken in -> a : 1
+add enough broth -> or : 1
+enough broth or -> water : 1
+broth or water -> to : 1
+or water to -> fill : 1
+water to fill -> slow : 1
+to fill slow -> cooker : 1
+fill slow cooker -> cover : 1
+slow cooker cover -> and : 1
+cooker cover and -> cook : 1
+to remove chicken -> and : 1
+remove chicken and -> reserving : 1
+chicken and reserving -> broth : 1
+and reserving broth -> in : 1
+reserving broth in -> slow : 1
+broth in slow -> discard : 1
+in slow discard -> skin : 1
+slow discard skin -> and : 1
+discard skin and -> bay : 1
+skin and bay -> measure : 1
+and bay measure -> out : 1
+bay measure out -> cups : 1
+stir uncooked noodles -> into : 1
+uncooked noodles into -> slow : 1
+noodles into slow -> cover : 1
+to until shred -> chicken : 1
+until shred chicken -> and : 1
+shred chicken and -> stir : 1
+chicken and stir -> back : 1
+and stir back -> into : 1
+back into makes -> bold : 1
+into makes bold -> broccoli : 1
+makes bold broccoli -> you : 1
+bold broccoli you -> right : 1
+broccoli you right -> down : 1
+you right down -> to : 1
+right down to -> your : 1
+down to your -> skinless : 1
+to your skinless -> chicken : 1
+your skinless chicken -> can : 1
+can chicken baby -> sliced : 1
+chicken baby sliced -> garlic : 1
+baby sliced garlic -> dried : 1
+sliced garlic dried -> can : 1
+garlic dried can -> cream : 1
+dried can cream -> of : 1
+of chicken broccoli -> frozen : 1
+chicken broccoli frozen -> chopped : 1
+broccoli frozen chopped -> onion : 1
+frozen chopped onion -> and : 1
+chopped onion and -> seasonings : 1
+onion and seasonings -> in : 1
+for to in -> a : 1
+to in a -> whisk : 1
+in a whisk -> together : 1
+a whisk together -> milk : 1
+whisk together milk -> and : 1
+together milk and -> stir : 1
+stir into slow -> cooker : 1
+into slow cooker -> along : 1
+or until broccoli -> is : 1
+until broccoli is -> makes : 1
+broccoli is makes -> to : 1
+is makes to -> bold : 1
+to bold beef -> night : 1
+bold beef night -> i : 1
+beef night i -> do : 1
+night i do -> all : 1
+i do all -> the : 1
+all the peeling -> and : 1
+the peeling and -> cover : 1
+peeling and cover -> the : 1
+and cover the -> potatoes : 1
+cover the potatoes -> with : 1
+the potatoes with -> water : 1
+potatoes with water -> and : 1
+with water and -> place : 1
+water and place -> in : 1
+place in the -> fridge : 1
+in the fridge -> until : 1
+the fridge until -> peeled : 1
+fridge until peeled -> and : 1
+until peeled and -> peeled : 1
+peeled and peeled -> and : 1
+cut into stew -> cut : 1
+into stew cut -> into : 1
+stew cut into -> inch : 1
+cut into inch -> soy : 1
+into inch soy -> frozen : 1
+inch soy frozen -> chopped : 1
+soy frozen chopped -> can : 1
+frozen chopped can -> beef : 1
+chopped can beef -> can : 1
+can beef can -> tomato : 1
+beef can tomato -> potatoes : 1
+can tomato potatoes -> in : 1
+tomato potatoes in -> a : 1
+with add sprinkle -> with : 1
+add sprinkle with -> soy : 1
+add sprinkle with -> half : 1
+sprinkle with soy -> flour : 1
+with soy flour -> and : 1
+soy flour and -> combine : 1
+flour and combine -> broth : 1
+and combine broth -> and : 1
+combine broth and -> tomato : 1
+broth and tomato -> pour : 1
+and tomato pour -> over : 1
+tomato pour over -> cover : 1
+for to hours -> on : 1
+to hours on -> low : 1
+to hours on -> high : 1
+hours on low -> or : 1
+on low or -> to : 1
+low or to -> hours : 1
+or to hours -> on : 1
+hours on high -> serves : 1
+on high serves -> to : 1
+high serves to -> bold : 1
+to bold pea -> is : 1
+bold pea is -> one : 1
+pea is one -> recipe : 1
+is one recipe -> sure : 1
+one recipe sure -> to : 1
+recipe sure to -> be : 1
+to be found -> in : 1
+be found in -> every : 1
+found in every -> recipe : 1
+in every recipe -> box : 1
+every recipe box -> in : 1
+recipe box in -> our : 1
+box in our -> dried : 1
+in our dried -> can : 1
+our dried can -> bean : 1
+dried can bean -> with : 1
+can bean with -> bacon : 1
+bean with bacon -> peeled : 1
+with bacon peeled -> and : 1
+bacon peeled and -> beef : 1
+beef chuck dried -> peas : 1
+chuck dried peas -> and : 1
+dried peas and -> remaining : 1
+peas and remaining -> ingredients : 1
+to makes bold -> turkey : 1
+makes bold turkey -> combined : 1
+bold turkey combined -> recipes : 1
+turkey combined recipes -> to : 1
+combined recipes to -> make : 1
+recipes to make -> this : 1
+to make this -> wonderful : 1
+to make this -> yummy : 1
+make this wonderful -> now : 1
+this wonderful now -> a : 1
+wonderful now a -> family : 1
+now a family -> the : 1
+a family the -> kids : 1
+family the kids -> love : 1
+the kids love -> can : 1
+kids love can -> drained : 1
+love can drained -> and : 1
+can drained and -> broth : 1
+can drained and -> liquid : 1
+drained and broth -> can : 1
+and broth can -> drained : 1
+broth can drained -> and : 1
+drained and liquid -> frozen : 1
+and liquid frozen -> sliced : 1
+liquid frozen sliced -> can : 1
+frozen sliced can -> chicken : 1
+sliced can chicken -> dill : 1
+can chicken dill -> together : 1
+chicken dill together -> corn : 1
+dill together corn -> and : 1
+together corn and -> carrots : 1
+corn and carrots -> in : 1
+and carrots in -> a : 1
+carrots in a -> slow : 1
+a slow set -> whisk : 1
+slow set whisk -> together : 1
+set whisk together -> reserved : 1
+whisk together reserved -> turkey : 1
+together reserved turkey -> chicken : 1
+reserved turkey chicken -> reserved : 1
+turkey chicken reserved -> corn : 1
+chicken reserved corn -> buttermilk : 1
+reserved corn buttermilk -> and : 1
+corn buttermilk and -> dill : 1
+buttermilk and dill -> pour : 1
+and dill pour -> over : 1
+dill pour over -> turkey : 1
+pour over turkey -> cover : 1
+over turkey cover -> and : 1
+turkey cover and -> cook : 1
+setting for just -> before : 1
+for just before -> stir : 1
+just before stir -> in : 1
+before stir in -> cornstarch : 1
+stir in cornstarch -> and : 1
+in cornstarch and -> cook : 1
+cornstarch and cook -> until : 1
+and cook until -> serves : 1
+cook until serves -> to : 1
+until serves to -> bold : 1
+bold favorite vegetable -> a : 1
+favorite vegetable a -> vegetable : 1
+vegetable a vegetable -> garden : 1
+a vegetable garden -> in : 1
+vegetable garden in -> a : 1
+garden in a -> soup : 1
+in a soup -> my : 1
+a soup my -> likes : 1
+soup my likes -> stew : 1
+my likes stew -> peeled : 1
+likes stew peeled -> and : 1
+stew peeled and -> frozen : 1
+peeled and frozen -> frozen : 1
+and frozen frozen -> baby : 1
+frozen frozen baby -> jars : 1
+frozen baby jars -> beef : 1
+baby jars beef -> cans : 1
+jars beef cans -> tomato : 1
+beef cans tomato -> and : 1
+cans tomato and -> pepper : 1
+tomato and pepper -> to : 1
+pepper to a -> skillet : 1
+to a skillet -> over : 1
+over medium brown -> beef : 1
+medium brown beef -> in : 1
+brown beef in -> add : 1
+beef in add -> potatoes : 1
+in add potatoes -> to : 1
+add potatoes to -> cook : 1
+potatoes to cook -> until : 1
+cook until combine -> beef : 1
+until combine beef -> mixture : 1
+combine beef mixture -> and : 1
+beef mixture and -> remaining : 1
+mixture and remaining -> ingredients : 1
+or until stirring -> makes : 1
+until stirring makes -> bold : 1
+stirring makes bold -> chicken : 1
+bold chicken how -> the : 1
+chicken how the -> aroma : 1
+how the aroma -> of : 1
+the aroma of -> this : 1
+aroma of this -> simmering : 1
+of this simmering -> soup : 1
+this simmering soup -> fills : 1
+simmering soup fills -> the : 1
+soup fills the -> peeled : 1
+fills the peeled -> and : 1
+the peeled and -> stalks : 1
+and stalks to -> peeled : 1
+stalks to peeled -> and : 1
+peeled and skinless -> chicken : 1
+and skinless chicken -> can : 1
+can chicken dried -> dried : 1
+chicken dried dried -> vegetables : 1
+dried dried vegetables -> in : 1
+dried vegetables in -> a : 1
+vegetables in a -> slow : 1
+slow add pour -> in : 1
+add pour in -> broth : 1
+pour in broth -> and : 1
+in broth and -> sprinkle : 1
+broth and sprinkle -> seasonings : 1
+and sprinkle seasonings -> over : 1
+sprinkle seasonings over -> cover : 1
+seasonings over cover -> and : 1
+setting for serves -> to : 1
+for serves to -> bold : 1
+to bold bold -> macaroni : 1
+bold bold macaroni -> this : 1
+bold macaroni this -> recipe : 1
+macaroni this recipe -> extra : 1
+this recipe extra -> cup : 1
+recipe extra cup -> salsa : 1
+extra cup salsa -> or : 1
+cup salsa or -> stir : 1
+salsa or stir -> in : 1
+stir in green -> chiles : 1
+in green chiles -> to : 1
+chiles to your -> elbow : 1
+to your elbow -> pasteurized : 1
+your elbow pasteurized -> processed : 1
+elbow pasteurized processed -> pepper : 1
+pasteurized processed pepper -> jack : 1
+processed pepper jack -> cans : 1
+pepper jack cans -> cheddar : 1
+jack cans cheddar -> cheese : 1
+cans cheddar cheese -> macaroni : 1
+cans cheddar cheese -> cans : 1
+cheddar cheese macaroni -> and : 1
+cheese macaroni and -> cheeses : 1
+macaroni and cheeses -> into : 1
+and cheeses into -> a : 1
+cheeses into a -> slow : 1
+slow add soup -> and : 1
+stir until coated -> add : 1
+until coated add -> cover : 1
+coated add cover -> and : 1
+for stir makes -> to : 1
+stir makes to -> bold : 1
+to bold scallion -> go : 1
+bold scallion go -> wrong : 1
+scallion go wrong -> with : 1
+go wrong with -> this : 1
+wrong with this -> classic : 1
+with this classic -> party : 1
+this classic party -> will : 1
+classic party will -> love : 1
+party will love -> grape : 1
+will love grape -> apple : 1
+love grape apple -> can : 1
+grape apple can -> tomato : 1
+apple can tomato -> frozen : 1
+can tomato frozen -> sliced : 1
+tomato frozen sliced -> green : 1
+frozen sliced green -> a : 1
+sliced green a -> small : 1
+green a small -> combine : 1
+a small combine -> all : 1
+small combine all -> ingredients : 1
+combine all ingredients -> except : 1
+ingredients except cook -> and : 1
+except cook and -> stir : 1
+and stir over -> medium : 1
+stir over medium -> heat : 1
+over medium heat -> until : 1
+medium heat until -> jelly : 1
+heat until jelly -> is : 1
+until jelly is -> remove : 1
+jelly is remove -> from : 1
+is remove from -> place : 1
+remove from place -> meatballs : 1
+from place meatballs -> in : 1
+place meatballs in -> a : 1
+meatballs in a -> slow : 1
+sauce over top -> and : 1
+over top and -> gently : 1
+top and gently -> stir : 1
+gently stir to -> cover : 1
+stir to cover -> and : 2
+setting for sprinkle -> with : 1
+for sprinkle with -> onions : 1
+sprinkle with onions -> at : 1
+with onions at -> serving : 1
+onions at serving -> makes : 1
+at serving makes -> about : 1
+serving makes about -> bold : 1
+about bold chili -> chili : 1
+bold chili chili -> dogs : 1
+chili chili dogs -> are : 1
+chili dogs are -> a : 1
+dogs are a -> thing : 1
+are a thing -> of : 1
+a thing of -> the : 1
+thing of the -> past : 1
+of the past -> at : 1
+the past at -> our : 1
+past at our -> hot : 1
+at our hot -> cans : 1
+our hot cans -> chili : 1
+hot cans chili -> without : 1
+cans chili without -> can : 1
+chili without can -> cheddar : 1
+without can cheddar -> cheese : 1
+can cheddar cheese -> can : 1
+cheddar cheese can -> chopped : 1
+cheese can chopped -> green : 1
+chopped green hot -> dog : 1
+green hot dog -> chopped : 1
+hot dog chopped -> crushed : 1
+dog chopped crushed -> corn : 1
+chopped crushed corn -> shredded : 1
+crushed corn shredded -> cheddar : 1
+shredded cheddar hot -> dogs : 1
+cheddar hot dogs -> in : 1
+hot dogs in -> a : 1
+hot dogs in -> top : 1
+dogs in a -> slow : 1
+a slow in -> a : 1
+slow in a -> separate : 1
+in a separate -> combine : 1
+in a separate -> stir : 1
+a separate combine -> soup : 1
+separate combine soup -> and : 1
+soup and pour -> over : 1
+pour over hot -> cover : 1
+over hot cover -> and : 1
+hot cover and -> cook : 1
+to serve hot -> dogs : 1
+serve hot dogs -> in : 1
+dogs in top -> with : 1
+in top with -> chili : 1
+in top with -> sauce : 1
+top with chili -> mixture : 1
+with chili mixture -> and : 1
+chili mixture and -> desired : 1
+mixture and desired -> makes : 1
+and desired makes -> bold : 1
+bold chicken gave -> me : 1
+chicken gave me -> this : 1
+gave me this -> easy : 1
+me this easy -> love : 1
+this easy love -> it : 1
+easy love it -> more : 1
+love it more -> and : 1
+it more and -> more : 1
+more and more -> each : 1
+and more each -> time : 1
+more each time -> we : 1
+each time we -> make : 1
+time we make -> skinless : 1
+we make skinless -> chicken : 1
+make skinless chicken -> can : 1
+chicken can can -> black : 1
+can can black -> drained : 1
+and jar to -> flour : 1
+jar to flour -> shredded : 1
+to flour shredded -> cheddar : 1
+flour shredded cheddar -> sour : 1
+cheddar sour chicken -> in : 1
+sour chicken in -> a : 1
+top with beans -> and : 1
+with beans and -> cover : 1
+beans and cover -> and : 1
+for to shred -> stir : 1
+for to shred -> serve : 1
+to shred stir -> back : 1
+shred stir back -> into : 1
+back into slow -> to : 1
+into slow to -> spoon : 1
+slow to spoon -> mixture : 1
+to spoon mixture -> onto : 1
+spoon mixture onto -> add : 1
+mixture onto add -> desired : 1
+onto add desired -> garnishes : 1
+add desired garnishes -> and : 1
+desired garnishes and -> roll : 1
+garnishes and roll -> serves : 1
+and roll serves -> to : 1
+roll serves to -> bold : 1
+to bold fair -> italian : 1
+bold fair italian -> family : 1
+fair italian family -> always : 1
+italian family always -> heads : 1
+family always heads -> to : 1
+always heads to -> the : 1
+heads to the -> italian : 1
+to the italian -> sausage : 1
+the italian sausage -> food : 1
+italian sausage food -> tent : 1
+sausage food tent -> at : 1
+food tent at -> the : 1
+tent at the -> this : 1
+at the this -> we : 1
+the this we -> can : 1
+this we can -> have : 1
+we can have -> them : 1
+can have them -> italian : 1
+have them italian -> pork : 1
+them italian pork -> green : 1
+italian pork green -> jar : 1
+pork green jar -> spaghetti : 1
+green jar spaghetti -> sub : 1
+jar spaghetti sub -> slices : 1
+spaghetti sub slices -> provolone : 1
+sub slices provolone -> sausages : 1
+slices provolone sausages -> in : 1
+provolone sausages in -> a : 1
+sausages in a -> skillet : 1
+over medium place -> in : 1
+medium place in -> a : 1
+slow add pepper -> and : 1
+add pepper and -> top : 1
+pepper and top -> with : 1
+to to place -> sausages : 1
+to place sausages -> in : 1
+place sausages in -> top : 1
+sausages in top -> with : 1
+top with sauce -> mixture : 1
+with sauce mixture -> and : 1
+sauce mixture and -> makes : 1
+mixture and makes -> bold : 1
+and makes bold -> brown : 1
+makes bold brown -> a : 1
+bold brown a -> slow : 1
+brown a slow -> so : 1
+a slow so -> easy : 1
+slow so easy -> to : 1
+make this yummy -> cooking : 1
+this yummy cooking -> peeled : 1
+yummy cooking peeled -> and : 1
+cut into slices -> brown : 1
+into slices brown -> whipped : 1
+slices brown whipped -> apples : 1
+brown whipped apples -> in : 1
+whipped apples in -> a : 1
+apples in a -> slow : 2
+ingredients except toss -> together : 1
+except toss together -> and : 1
+toss together and -> sprinkle : 1
+together and sprinkle -> over : 1
+and sprinkle over -> cover : 1
+low setting to -> garnish : 1
+setting to garnish -> with : 1
+to garnish with -> whipped : 1
+garnish with whipped -> makes : 1
+with whipped makes -> to : 1
+is a scrumptious -> side : 1
+a scrumptious side -> for : 1
+scrumptious side for -> any : 1
+side for any -> main : 1
+for any main -> it : 1
+any main it -> to : 1
+main it to -> a : 1
+it to a -> potluck : 1
+to a potluck -> right : 1
+a potluck right -> in : 1
+potluck right in -> the : 1
+in the frozen -> cream : 1
+the frozen cream -> a : 1
+frozen cream a -> slow : 1
+cream a slow -> cooker : 1
+cooker with vegetable -> add : 1
+vegetable add all -> stir : 1
+add all stir -> to : 1
+all stir to -> cover : 1
+setting for stirring -> halfway : 1
+setting for stirring -> serves : 1
+for stirring halfway -> makes : 1
+stirring halfway makes -> to : 1
+halfway makes to -> bold : 1
+to bold joe -> for : 1
+bold joe for -> any : 1
+joe for any -> cooks : 1
+for any cooks -> up : 1
+any cooks up -> while : 1
+cooks up while -> waiting : 1
+up while waiting -> for : 1
+while waiting for -> the : 1
+waiting for the -> next : 1
+for the next -> skinless : 1
+the next skinless -> chicken : 1
+next skinless chicken -> can : 1
+chicken can tomato -> sloppy : 1
+can tomato sloppy -> joe : 1
+tomato sloppy joe -> chicken : 1
+sloppy joe chicken -> in : 1
+joe chicken in -> a : 1
+ingredients except pour -> over : 1
+except pour over -> cover : 1
+setting for discard -> serve : 1
+for discard serve -> chicken : 1
+discard serve chicken -> and : 1
+serve chicken and -> sauce : 1
+chicken and sauce -> over : 1
+and sauce over -> cooked : 1
+sauce over cooked -> serves : 2
+serves bold cola -> a : 1
+bold cola a -> ham : 1
+cola a ham -> basted : 1
+a ham basted -> with : 1
+ham basted with -> cola : 1
+basted with cola -> produces : 1
+with cola produces -> a : 1
+cola produces a -> delicious : 1
+produces a delicious -> will : 1
+a delicious will -> never : 1
+delicious will never -> guess : 1
+will never guess -> your : 1
+never guess your -> to : 1
+guess your to -> fully : 1
+your to fully -> cooked : 1
+to fully cooked -> brown : 1
+fully cooked brown -> dry : 1
+cooked brown dry -> can : 1
+brown dry can -> ham : 1
+dry can ham -> in : 1
+can ham in -> a : 1
+ham in a -> slow : 1
+slow combine brown -> sugar : 1
+combine brown sugar -> and : 1
+brown sugar and -> stir : 1
+brown sugar and -> remaining : 1
+sugar and stir -> in : 1
+stir in enough -> cola : 1
+in enough cola -> to : 1
+enough cola to -> make : 1
+cola to make -> a : 1
+make a glaze -> pour : 1
+a glaze pour -> glaze : 1
+glaze pour glaze -> over : 1
+pour glaze over -> coating : 1
+glaze over coating -> cover : 1
+over coating cover -> and : 1
+coating cover and -> cook : 1
+for to basting -> occasionally : 1
+to basting occasionally -> with : 1
+basting occasionally with -> serves : 1
+occasionally with serves -> to : 1
+with serves to -> bold : 1
+to bold a -> potluck : 1
+bold a potluck -> to : 1
+a potluck to -> us : 1
+potluck to us -> until : 1
+to us until -> someone : 1
+us until someone -> brings : 1
+until someone brings -> the : 1
+someone brings the -> scalloped : 1
+brings the scalloped -> so : 1
+the scalloped so -> good : 1
+scalloped so good -> with : 1
+so good with -> ice : 1
+good with ice -> can : 1
+with ice can -> crushed : 1
+ice can crushed -> slices : 1
+can crushed slices -> vanilla : 1
+crushed slices vanilla -> ice : 1
+slices vanilla ice -> all : 1
+vanilla ice all -> ingredients : 2
+ice all ingredients -> except : 2
+ingredients except ice -> cream : 2
+except ice cream -> in : 2
+ice cream in -> a : 2
+cream in a -> slow : 2
+high for reduce -> heat : 1
+for reduce heat -> to : 1
+reduce heat to -> cook : 1
+heat to cook -> for : 1
+to cook for -> one : 1
+cook for one -> additional : 1
+for one additional -> garnish : 1
+one additional garnish -> portions : 1
+additional garnish portions -> with : 1
+portions with scoops -> of : 1
+with scoops of -> ice : 2
+scoops of ice -> makes : 2
+of ice makes -> bold : 1
+of ice makes -> to : 1
+ice makes bold -> is : 1
+bold is an -> old : 1
+is an old -> family : 1
+an old family -> requested : 1
+old family requested -> at : 1
+family requested at -> all : 1
+requested at all -> of : 1
+at all of -> our : 1
+all of our -> family : 1
+of our family -> ground : 1
+our family ground -> browned : 1
+family ground browned -> and : 1
+browned and to -> crisply : 1
+and to crisply -> cooked : 1
+to crisply cooked -> and : 1
+crisply cooked and -> cans : 1
+cooked and cans -> pork : 1
+and cans pork -> cans : 1
+cans pork cans -> kidney : 1
+pork cans kidney -> cans : 1
+cans kidney cans -> baby : 1
+kidney cans baby -> butter : 1
+cans baby butter -> can : 1
+baby butter can -> navy : 1
+butter can navy -> brown : 1
+can navy brown -> prepared : 1
+navy brown prepared -> worcestershire : 1
+brown prepared worcestershire -> pepper : 1
+prepared worcestershire pepper -> sauce : 1
+worcestershire pepper sauce -> to : 1
+all ingredients to -> a : 1
+ingredients to a -> slow : 1
+a slow do -> not : 1
+slow do not -> drain : 1
+do not drain -> mix : 1
+not drain mix -> cover : 1
+drain mix cover -> and : 1
+for stir again -> before : 1
+again before serves -> bold : 1
+serves bold pork -> whole : 1
+bold pork whole -> family : 1
+pork whole family -> loves : 1
+whole family loves -> this : 1
+loves this recipe -> and : 1
+this recipe and -> my : 1
+recipe and my -> friends : 1
+and my friends -> ask : 1
+my friends ask -> for : 1
+friends ask for -> it : 1
+ask for it -> by : 1
+for it by -> a : 1
+it by a -> great : 1
+by a great -> way : 1
+a great way -> to : 1
+great way to -> serve : 1
+way to serve -> a : 1
+to serve a -> picnic : 1
+serve a picnic -> boneless : 1
+a picnic boneless -> pork : 1
+picnic boneless pork -> loin : 1
+pork loin bottle -> barbecue : 1
+loin bottle barbecue -> worcestershire : 1
+bottle barbecue worcestershire -> to : 1
+barbecue worcestershire to -> hot : 1
+worcestershire to hot -> pepper : 1
+to hot pepper -> brown : 1
+hot pepper brown -> to : 1
+pepper brown to -> mini : 1
+brown to mini -> hamburger : 1
+to mini hamburger -> roast : 1
+mini hamburger roast -> in : 1
+hamburger roast in -> a : 1
+slow add cover -> and : 2
+for one serve -> on : 1
+one serve on -> topped : 1
+serve on topped -> with : 1
+on topped with -> makes : 1
+topped with makes -> to : 1
+makes to buns -> bold : 1
+to buns bold -> head : 1
+buns bold head -> peeled : 1
+bold head peeled -> and : 1
+head peeled and -> cider : 1
+peeled and cider -> cabbage : 1
+and cider cabbage -> and : 1
+cider cabbage and -> blend : 1
+cabbage and blend -> remaining : 1
+and blend remaining -> toss : 1
+blend remaining toss -> with : 1
+remaining toss with -> cabbage : 1
+toss with cabbage -> makes : 1
+with cabbage makes -> bold : 1
+cabbage makes bold -> saint : 1
+makes bold saint -> flavorful : 1
+bold saint flavorful -> casserole : 1
+saint flavorful casserole -> tastes : 1
+flavorful casserole tastes -> just : 1
+casserole tastes just -> like : 1
+tastes just like -> potato : 1
+just like potato -> and : 1
+like potato and -> cheese : 1
+potato and cheese -> all : 1
+and cheese all -> the : 1
+cheese all the -> to : 1
+all the to -> cubed : 1
+the to cubed -> and : 1
+to cubed and -> shredded : 1
+shredded cheddar bowtie -> butter : 1
+cheddar bowtie butter -> and : 1
+bowtie butter and -> onion : 1
+butter and onion -> in : 1
+and onion in -> a : 1
+onion in a -> slow : 1
+slow add sprinkle -> with : 1
+sprinkle with half -> the : 1
+with half the -> spread : 1
+half the spread -> pasta : 1
+the spread pasta -> on : 1
+spread pasta on -> sprinkle : 1
+pasta on sprinkle -> with : 1
+to bold spicy -> cider : 1
+bold spicy cider -> for : 1
+spicy cider for -> a : 2
+cider for a -> of : 1
+cider for a -> peachy : 1
+for a of -> hot : 1
+a of hot -> cider : 1
+of hot cider -> to : 1
+hot cider to -> secret : 1
+cider to secret -> to : 1
+to secret to -> keeping : 1
+secret to keeping -> warm : 1
+to keeping warm -> on : 1
+keeping warm on -> blustery : 1
+warm on blustery -> apple : 1
+on blustery apple -> ground : 1
+blustery apple ground -> cinnamon : 1
+apple ground cinnamon -> orange : 1
+ground cinnamon orange -> apple : 1
+cinnamon orange apple -> all : 1
+orange apple all -> ingredients : 1
+apple all ingredients -> except : 1
+ingredients except apples -> in : 1
+except apples in -> a : 1
+to discard cinnamon -> sticks : 1
+discard cinnamon sticks -> before : 1
+cinnamon sticks before -> if : 1
+sticks before if -> garnish : 1
+before if garnish -> individual : 1
+if garnish individual -> servings : 1
+garnish individual servings -> with : 1
+individual servings with -> apple : 1
+servings with apple -> makes : 1
+with apple makes -> about : 1
+apple makes about -> bold : 1
+about bold cheesy -> recipe : 1
+bold cheesy recipe -> has : 1
+cheesy recipe has -> been : 1
+recipe has been -> in : 1
+has been in -> our : 1
+been in our -> family : 1
+in our family -> for : 1
+our family for -> many : 1
+family for many -> always : 1
+for many always -> requested : 1
+many always requested -> by : 1
+always requested by -> our : 1
+requested by our -> children : 1
+by our children -> at : 1
+our children at -> family : 1
+children at family -> frozen : 1
+at family frozen -> cans : 1
+family frozen cans -> cheddar : 1
+frozen cans cheddar -> cheese : 1
+cheddar cheese cans -> evaporated : 1
+cheese cans evaporated -> cans : 1
+cans evaporated cans -> french : 1
+evaporated cans french -> fried : 1
+cans french fried -> all : 1
+french fried all -> ingredients : 1
+fried all ingredients -> except : 1
+ingredients except place -> half : 1
+except place half -> of : 1
+place half of -> mixture : 1
+of mixture in -> a : 1
+mixture in a -> slow : 1
+top with one -> can : 1
+with one can -> of : 1
+one can of -> add : 1
+can of add -> remaining : 1
+of add remaining -> potato : 1
+add remaining potato -> top : 1
+remaining potato top -> with : 1
+potato top with -> remaining : 1
+for stirring serves -> to : 1
+to bold sandwich -> simple : 1
+bold sandwich simple -> recipe : 1
+sandwich simple recipe -> helped : 1
+simple recipe helped -> my : 1
+recipe helped my -> mom : 1
+helped my mom -> feed : 1
+my mom feed -> our : 1
+mom feed our -> large : 1
+feed our large -> it : 1
+our large it -> was : 1
+large it was -> always : 1
+it was always -> a : 1
+was always a -> welcome : 1
+always a welcome -> meal : 1
+a welcome meal -> on : 1
+welcome meal on -> a : 1
+meal on a -> cold : 1
+on a cold -> winter : 1
+a cold winter -> to : 1
+cold winter to -> pork : 1
+winter to pork -> dried : 1
+to pork dried -> dried : 1
+pork dried dried -> and : 1
+dried dried and -> pepper : 1
+pepper to sleeve -> round : 1
+to sleeve round -> buttery : 1
+sleeve round buttery -> jar : 1
+round buttery jar -> chopped : 1
+buttery jar chopped -> green : 1
+jar chopped green -> sandwich : 1
+chopped green sandwich -> split : 1
+green sandwich split -> and : 1
+sandwich split and -> roast : 1
+split and roast -> in : 1
+and roast in -> a : 1
+sprinkle with cover -> and : 1
+to until remove -> reserve : 1
+until remove reserve -> cup : 1
+remove reserve cup -> cooking : 1
+reserve cup cooking -> grind : 1
+cup cooking grind -> roast : 1
+cooking grind roast -> with : 1
+grind roast with -> a : 1
+with a meat -> add : 1
+a meat add -> remaining : 1
+meat add remaining -> ingredients : 1
+ingredients except reserved -> liquid : 1
+except reserved liquid -> and : 1
+reserved liquid and -> enough : 1
+liquid and enough -> water : 1
+and enough water -> to : 1
+water to obtain -> consistency : 1
+to obtain consistency -> of : 1
+obtain consistency of -> thick : 1
+consistency of thick -> return : 1
+of thick return -> mixture : 1
+thick return mixture -> to : 1
+return mixture to -> slow : 1
+cooker and cook -> on : 1
+an additional spoon -> onto : 1
+additional spoon onto -> makes : 1
+makes bold beef -> are : 1
+bold beef are -> always : 1
+beef are always -> a : 1
+are always a -> favorite : 1
+always a favorite -> for : 1
+a favorite for -> casual : 1
+favorite for casual -> dinner : 1
+for casual dinner -> slow : 1
+casual dinner slow -> cooker : 1
+dinner slow cooker -> does : 1
+slow cooker does -> all : 1
+cooker does all -> the : 1
+does all the -> beef : 1
+all the beef -> round : 1
+the beef round -> can : 1
+beef round can -> diced : 1
+round can diced -> green : 1
+diced green sliced -> into : 1
+green sliced into -> red : 1
+sliced into red -> sliced : 1
+into red sliced -> into : 1
+red sliced into -> cloves : 1
+sliced into cloves -> fresh : 1
+into cloves fresh -> chili : 1
+cloves fresh chili -> ground : 1
+fresh chili ground -> ground : 1
+chili ground ground -> to : 1
+ground ground to -> flour : 1
+ground to flour -> sour : 1
+to flour sour -> shredded : 1
+flour sour shredded -> cheddar : 1
+cheddar shredded beef -> in : 1
+shredded beef in -> a : 1
+beef in a -> slow : 1
+slow combine vegetables -> and : 1
+combine vegetables and -> spoon : 1
+vegetables and spoon -> over : 1
+and spoon over -> cover : 1
+spoon over cover -> and : 1
+to shred serve -> with : 1
+shred serve with -> a : 1
+serve with a -> slotted : 1
+a slotted spoon -> on : 1
+slotted spoon on -> add : 1
+spoon on add -> favorite : 1
+on add favorite -> roll : 1
+add favorite roll -> up : 1
+favorite roll up -> makes : 1
+roll up makes -> to : 1
+up makes to -> bold : 1
+to bold sauce -> for : 1
+bold sauce for -> a : 1
+sauce for a -> is : 1
+sauce for a -> beef : 1
+for a is -> my : 1
+a is my -> daughter : 1
+is my daughter -> think : 1
+my daughter think -> the : 1
+daughter think the -> can : 1
+think the can -> crushed : 1
+the can crushed -> can : 1
+can crushed can -> tomato : 1
+crushed can tomato -> can : 1
+can tomato can -> tomato : 1
+tomato can tomato -> cloves : 1
+can tomato cloves -> dried : 1
+tomato cloves dried -> dried : 1
+dried dried italian -> pork : 1
+dried italian pork -> drained : 1
+italian pork drained -> and : 1
+pork drained and -> together : 1
+drained and together -> all : 1
+and together all -> ingredients : 1
+ingredients except sausages -> and : 1
+except sausages and -> spaghetti : 1
+sausages and spaghetti -> in : 1
+and spaghetti in -> a : 1
+spaghetti in a -> slow : 1
+low for serve -> sauce : 1
+for serve sauce -> over : 1
+serve sauce over -> cooked : 1
+to bold fruity -> up : 1
+bold fruity up -> mugs : 1
+fruity up mugs -> of : 1
+up mugs of -> this : 1
+mugs of this -> punch : 1
+of this punch -> after : 1
+this punch after -> a : 1
+punch after a -> family : 1
+after a family -> outing : 1
+a family outing -> in : 1
+family outing in -> the : 1
+outing in the -> frosty : 1
+in the frosty -> bottle : 1
+the frosty bottle -> cranberry : 1
+frosty bottle cranberry -> juice : 1
+bottle cranberry juice -> can : 1
+cranberry juice can -> pineapple : 1
+juice can pineapple -> red : 1
+can pineapple red -> cinnamon : 1
+pineapple red cinnamon -> cinnamon : 1
+red cinnamon cinnamon -> additional : 1
+cinnamon cinnamon additional -> cinnamon : 1
+cinnamon additional cinnamon -> candies : 1
+additional cinnamon candies -> and : 1
+cinnamon candies and -> cinnamon : 1
+candies and cinnamon -> stick : 1
+and cinnamon stick -> in : 1
+cinnamon stick in -> a : 1
+stick in a -> slow : 1
+to remove cinnamon -> stick : 1
+remove cinnamon stick -> before : 1
+cinnamon stick before -> use : 1
+stick before use -> additional : 1
+before use additional -> cinnamon : 1
+use additional cinnamon -> sticks : 1
+additional cinnamon sticks -> as : 1
+cinnamon sticks as -> if : 1
+sticks as if -> makes : 1
+as if makes -> bold : 1
+makes bold chocolate -> dessert : 1
+bold chocolate dessert -> is : 1
+chocolate dessert is -> a : 1
+dessert is a -> chocolate : 1
+is a chocolate -> chocolate : 1
+a chocolate chocolate -> cake : 1
+chocolate chocolate cake -> container : 1
+chocolate cake container -> sour : 1
+cake container sour -> instant : 1
+container sour instant -> chocolate : 1
+sour instant chocolate -> pudding : 1
+instant chocolate pudding -> chocolate : 1
+chocolate pudding chocolate -> vanilla : 1
+pudding chocolate vanilla -> ice : 1
+chocolate vanilla ice -> all : 1
+to serve garnished -> with : 1
+serve garnished with -> scoops : 1
+garnished with scoops -> of : 1
+ice makes to -> bold : 1
+to bold pecan -> sweet : 1
+bold pecan sweet -> delicious : 1
+pecan sweet delicious -> addition : 1
+sweet delicious addition -> to : 1
+delicious addition to -> a : 1
+addition to a -> holiday : 1
+to a holiday -> always : 1
+a holiday always -> get : 1
+holiday always get -> lots : 1
+always get lots -> of : 1
+get lots of -> cans : 1
+lots of cans -> sweet : 1
+of cans sweet -> plus : 1
+cans sweet plus -> melted : 1
+sweet plus melted -> and : 1
+plus melted and -> plus : 1
+melted and plus -> brown : 1
+and plus brown -> packed : 1
+plus brown packed -> and : 1
+brown packed and -> orange : 1
+packed and orange -> chopped : 1
+and orange chopped -> sweet : 1
+orange chopped sweet -> potatoes : 1
+chopped sweet potatoes -> in : 1
+sweet potatoes in -> a : 1
+a large blend -> in : 1
+large blend in -> cup : 1
+blend in cup -> melted : 1
+in cup melted -> sugar : 1
+cup melted sugar -> and : 1
+melted sugar and -> tablespoons : 1
+sugar and tablespoons -> brown : 1
+and tablespoons brown -> beat : 1
+tablespoons brown beat -> in : 1
+brown beat in -> eggs : 1
+beat in eggs -> and : 1
+in eggs and -> spoon : 1
+eggs and spoon -> into : 1
+and spoon into -> a : 1
+spoon into a -> lightly : 2
+greased slow cooker -> and : 1
+set combine remaining -> brown : 1
+combine remaining brown -> sugar : 1
+sugar and remaining -> spread : 1
+and remaining spread -> mixture : 1
+remaining spread mixture -> over : 1
+spread mixture over -> sweet : 1
+mixture over sweet -> cover : 1
+over sweet cover -> and : 1
+sweet cover and -> cook : 1
+bold bread deliciously -> different : 1
+bread deliciously different -> side : 1
+deliciously different side -> so : 1
+different side so -> simple : 1
+side so simple -> to : 1
+so simple to -> frozen : 1
+simple to frozen -> chopped : 1
+to frozen chopped -> thawed : 1
+frozen chopped thawed -> and : 1
+chopped thawed and -> green : 1
+thawed and green -> red : 1
+and green red -> cornbread : 1
+green red cornbread -> cottage : 1
+red cornbread cottage -> seasoned : 1
+cornbread cottage seasoned -> all : 1
+cottage seasoned all -> ingredients : 1
+seasoned all ingredients -> in : 1
+large mix spoon -> into : 1
+mix spoon into -> a : 1
+greased slow with -> lid : 1
+slow with lid -> slightly : 1
+with lid slightly -> ajar : 1
+lid slightly ajar -> to : 1
+slightly ajar to -> allow : 1
+ajar to allow -> moisture : 1
+to allow moisture -> to : 1
+allow moisture to -> cook : 1
+moisture to cook -> on : 1
+to cook on -> low : 1
+edges are golden -> and : 1
+are golden and -> a : 1
+golden and a -> knife : 1
+and a knife -> tip : 1
+a knife tip -> inserted : 1
+knife tip inserted -> in : 1
+tip inserted in -> center : 1
+inserted in center -> tests : 1
+in center tests -> makes : 1
+center tests makes -> bold : 1
+tests makes bold -> chicken : 1
+bold chicken stuffing -> and : 1
+chicken stuffing and -> so : 1
+stuffing and so -> this : 1
+and so this -> chicken : 1
+so this chicken -> dish : 1
+this chicken dish -> will : 1
+chicken dish will -> be : 1
+dish will be -> the : 1
+will be the -> first : 1
+be the first -> to : 1
+the first to -> disappear : 1
+first to disappear -> at : 1
+to disappear at -> any : 1
+disappear at any -> chicken : 1
+at any chicken -> stuffing : 1
+any chicken stuffing -> cans : 1
+chicken stuffing cans -> cream : 1
+stuffing cans cream -> of : 1
+of chicken to -> cooked : 1
+chicken to cooked -> shredded : 1
+to cooked shredded -> cheddar : 1
+shredded cheddar stuffing -> mix : 1
+cheddar stuffing mix -> according : 1
+stuffing mix according -> to : 1
+mix according to -> package : 1
+according to package -> place : 1
+to package place -> in : 1
+package place in -> a : 1
+stir in cans -> in : 1
+in cans in -> a : 1
+cans in a -> separate : 1
+a separate stir -> together : 1
+separate stir together -> remaining : 1
+stir together remaining -> milk : 1
+together remaining milk -> and : 1
+remaining milk and -> add : 1
+milk and add -> to : 1
+and add to -> slow : 1
+to slow spread -> cheese : 1
+slow spread cheese -> over : 1
+spread cheese over -> cover : 1
+cheese over cover -> and : 1
+serves bold red -> over : 1
+bold red over -> bowls : 1
+red over bowls -> of : 1
+over bowls of -> rice : 1
+bowls of rice -> for : 1
+of rice for -> traditional : 1
+rice for traditional -> red : 1
+for traditional red -> beans : 1
+traditional red beans -> cut : 1
+red beans cut -> into : 1
+beans cut into -> to : 1
+cut into to -> cans : 1
+into to cans -> red : 1
+to cans red -> drained : 1
+cans red drained -> and : 1
+red drained and -> cans : 1
+and cans diced -> pepper : 1
+cans diced pepper -> sauce : 1
+diced pepper sauce -> to : 1
+to bold chili -> husband : 1
+bold chili husband -> fell : 1
+chili husband fell -> in : 1
+husband fell in -> love : 1
+fell in love -> with : 1
+in love with -> this : 1
+love with this -> the : 1
+with this the -> first : 1
+this the first -> time : 1
+the first time -> he : 1
+first time he -> tasted : 1
+time he tasted -> a : 1
+he tasted a -> potluck : 1
+tasted a potluck -> pleaser : 1
+a potluck pleaser -> can : 1
+potluck pleaser can -> whole : 1
+pleaser can whole -> green : 1
+can whole green -> drained : 1
+whole green drained -> and : 1
+green drained and -> cut : 1
+drained and cut -> in : 1
+cut in shredded -> cheddar : 1
+in shredded cheddar -> shredded : 1
+cheddar shredded monterey -> jack : 1
+monterey jack can -> stewed : 1
+jack can stewed -> evaporated : 1
+can stewed evaporated -> butter : 1
+stewed evaporated butter -> in : 1
+evaporated butter in -> a : 1
+slow layer chiles -> and : 1
+layer chiles and -> add : 1
+chiles and add -> stir : 1
+and add stir -> together : 1
+add stir together -> flour : 1
+stir together flour -> and : 1
+flour and pour -> into : 1
+and pour into -> slow : 1
+pour into slow -> cover : 1
+serves bold sticky -> is : 1
+bold sticky is -> so : 1
+sticky is so -> tender : 1
+is so tender -> and : 1
+so tender and -> the : 1
+tender and the -> cayenne : 1
+and the cayenne -> onion : 1
+the cayenne onion -> dried : 1
+cayenne onion dried -> white : 1
+onion dried white -> garlic : 1
+dried white garlic -> chicken : 1
+white garlic chicken -> dry : 1
+garlic chicken dry -> with : 1
+chicken dry with -> paper : 1
+dry with paper -> combine : 1
+with paper combine -> spices : 1
+paper combine spices -> in : 1
+combine spices in -> a : 1
+spices in a -> small : 1
+small mix rub -> spice : 1
+mix rub spice -> mixture : 1
+rub spice mixture -> well : 1
+spice mixture well -> into : 1
+mixture well into -> inside : 1
+well into inside -> and : 1
+into inside and -> place : 1
+inside and place -> chicken : 1
+and place chicken -> in : 1
+place chicken in -> a : 2
+a large plastic -> zipping : 1
+large plastic zipping -> refrigerate : 1
+plastic zipping refrigerate -> in : 1
+zipping refrigerate in -> the : 1
+refrigerate in the -> place : 1
+in the place -> chicken : 1
+the place chicken -> in : 1
+to serve over -> cooked : 1
+bold spiced hot -> corn : 1
+spiced hot corn -> favorite : 1
+hot corn favorite -> party : 1
+corn favorite party -> sesame : 1
+favorite party sesame -> buffalo : 1
+party sesame buffalo -> scallion : 1
+sesame buffalo scallion -> crab : 1
+buffalo scallion crab -> queso : 1
+scallion crab queso -> fruit : 1
+crab queso fruit -> spicy : 1
+queso fruit spicy -> cider : 1
+fruit spicy cider -> for : 1
+for a peachy -> fruity : 1
+a peachy fruity -> brown : 1
+peachy fruity brown -> bread : 1
+fruity brown bread -> seed : 1
+brown bread seed -> blueberry : 1
+bread seed blueberry -> apple : 1
+seed blueberry apple -> pie : 1
+blueberry apple pie -> rice : 1
+apple pie rice -> chocolate : 1
+pie rice chocolate -> sticky : 1
+rice chocolate sticky -> chicken : 1
+chocolate sticky chicken -> shredded : 1
+sticky chicken shredded -> pork : 1
+chicken shredded pork -> beef : 1
+shredded pork beef -> turkey : 1
+pork beef turkey -> chicken : 1
+beef turkey chicken -> herbed : 1
+turkey chicken herbed -> pork : 1
+chicken herbed pork -> roast : 1
+herbed pork roast -> pork : 1
+pork roast pork -> ranch : 1
+roast pork ranch -> short : 1
+pork ranch short -> chicken : 1
+ranch short chicken -> stuffing : 1
+short chicken stuffing -> red : 1
+chicken stuffing red -> pork : 1
+stuffing red pork -> over : 1
+red pork over -> corn : 1
+over corn roast -> thyme : 1
+corn roast thyme -> joe : 1
+roast thyme joe -> cola : 1
+thyme joe cola -> chicken : 1
+joe cola chicken -> sauce : 1
+cola chicken sauce -> for : 1
+chicken sauce for -> a : 1
+for a beef -> beef : 1
+a beef beef -> sloppy : 1
+beef beef sloppy -> fair : 1
+beef sloppy fair -> italian : 1
+sloppy fair italian -> dip : 1
+fair italian dip -> chicken : 1
+italian dip chicken -> italian : 1
+dip chicken italian -> beef : 1
+chicken italian beef -> sandwich : 1
+italian beef sandwich -> pork : 1
+beef sandwich pork -> chili : 1
+sandwich pork chili -> sugar : 1
+pork chili sugar -> cheesy : 1
+chili sugar cheesy -> chili : 1
+sugar cheesy chili -> smashed : 1
+cheesy chili smashed -> pecan : 1
+chili smashed pecan -> sweet : 1
+smashed pecan sweet -> rice : 1
+pecan sweet rice -> mac : 1
+sweet rice mac -> bread : 1
+rice mac bread -> macaroni : 1
+mac bread macaroni -> bean : 1
+bread macaroni bean -> broccoli : 1
+macaroni bean broccoli -> noodle : 1
+bean broccoli noodle -> wagon : 1
+broccoli noodle wagon -> chicken : 1
+noodle wagon chicken -> potato : 1
+wagon chicken potato -> pea : 1
+chicken potato pea -> favorite : 1
+potato pea favorite -> vegetable : 1
+pea favorite vegetable -> onion : 1
+favorite vegetable onion -> corn : 1
+vegetable onion corn -> minestrone : 1
+onion corn minestrone -> chile : 1
+corn minestrone chile -> beef : 1
+minestrone chile beef -> chicken : 1
+chile beef chicken -> pea : 1
+beef chicken pea -> bean : 1
+chicken pea bean -> turkey : 1
+pea bean turkey -> chicken : 1
+bean turkey chicken -> bbq : 1
+turkey chicken bbq -> bean : 1
+chicken bbq bean -> taco : 1
+bbq bean taco -> wild : 1
+bean taco wild -> rice : 1
+taco wild rice -> bean : 1
+wild rice bean -> sausage : 1
+rice bean sausage -> bold : 1
+bean sausage bold -> teaspoon : 1
+sausage bold teaspoon -> teaspoon : 1
+bold teaspoon teaspoon -> teaspoon : 1
+teaspoon teaspoon teaspoon -> tablespoon : 1
+teaspoon teaspoon tablespoon -> teaspoons : 1
+teaspoon tablespoon teaspoons -> tablespoons : 1
+tablespoon teaspoons tablespoons -> fluid : 1
+teaspoons tablespoons fluid -> ounce : 1
+tablespoons fluid ounce -> cup : 1
+fluid ounce cup -> cup : 1
+ounce cup cup -> cup : 1
+cup cup cup -> fluid : 1
+cup cup fluid -> ounces : 1
+cup fluid ounces -> cup : 1
+cup fluid ounces -> cups : 1
+fluid ounces cup -> fluid : 1
+ounces cup fluid -> ounces : 1
+fluid ounces cups -> pint : 1
+fluid ounces cups -> quart : 1
+ounces cups pint -> fluid : 1
+cups pint fluid -> ounces : 1
+pint fluid ounces -> cups : 1
+ounces cups quart -> ounce : 1
+cups quart ounce -> ounces : 1
+quart ounce ounces -> ounces : 1
+ounce ounces ounces -> ounces : 1
+ounces ounces ounces -> pound : 1
+ounces ounces pound -> f : 1
+ounces pound f -> f : 1
+pound f f -> f : 1
+f f f -> f : 3
+f f f -> pan : 1
+f f pan -> inches : 1
+f pan inches -> l : 1
+pan inches l -> inches : 1
+inches l inches -> l : 5
+l inches l -> inches : 4
+l inches l -> bold : 1
+inches l bold -> our : 1
+l bold our -> circle : 1
+bold our circle -> of : 1
+circle of us -> your : 1
+of us your -> favorite : 1
+us your favorite -> the : 1
+your favorite the -> memory : 1
+favorite the memory -> that : 1
+the memory that -> makes : 1
+memory that makes -> it : 1
+that makes it -> special : 1
+makes it special -> for : 1
+it special for -> if : 1
+special for if -> we : 1
+for if we -> select : 1
+select your recipe -> for : 1
+your recipe for -> a : 1
+recipe for a -> your : 1
+for a your -> name : 1
+a your name -> will : 1
+of the your -> recipe : 1
+the your recipe -> on : 1
+your recipe on -> our : 1
+recipe on our -> website : 1
+on our website -> bold : 1
+our website bold -> mail : 1
+website bold mail -> cookbook : 1
+bold mail cookbook -> farmers : 1
+mail cookbook farmers -> oh : 1
+to include your -> phone : 1
+include your phone -> number : 1
+and email address -> so : 1
+email address so -> know : 1
+address so know -> how : 1
+so know how -> to : 1
+know how to -> reach : 1
+how to reach -> you : 1
+to reach you -> for : 1
+reach you for -> your : 1
+you for your -> free : 1
+for your free -> been : 1
+your free been -> publishing : 1
+free been publishing -> country : 1
+been publishing country -> cookbooks : 1
+publishing country cookbooks -> for : 1
+country cookbooks for -> every : 1
+cookbooks for every -> kitchen : 1
+for every kitchen -> and : 1
+every kitchen and -> for : 1
+kitchen and for -> every : 1
+and for every -> meal : 1
+for every meal -> of : 1
+every meal of -> the : 1
+meal of the -> each : 1
+of the each -> has : 1
+the each has -> hundreds : 1
+each has hundreds -> of : 1
+has hundreds of -> using : 1
+hundreds of using -> ingredients : 1
+of using ingredients -> you : 1
+using ingredients you -> already : 1
+ingredients you already -> have : 1
+you already have -> on : 1
+already have on -> their : 1
+have on their -> binding : 1
+on their binding -> makes : 1
+their binding makes -> them : 1
+binding makes them -> easy : 1
+makes them easy -> to : 1
+them easy to -> use : 1
+easy to use -> and : 1
+to use and -> each : 1
+use and each -> is : 1
+and each is -> filled : 1
+each is filled -> with : 1
+is filled with -> artwork : 1
+filled with artwork -> and : 1
+with artwork and -> plenty : 1
+artwork and plenty -> of : 1
+and plenty of -> a : 1
+plenty of a -> taste : 1
+of a taste -> for : 1
+a taste for -> us : 1
+taste for us -> us : 1
+for us us -> here : 1
+us us here -> our : 1
+us here our -> of : 1
+here our of -> and : 1
+on bold of -> to : 1
+bold of to -> our : 1
+our of with -> comfort : 2
+of with comfort -> our : 2
+circle of of -> to : 1
+of of to -> our : 1

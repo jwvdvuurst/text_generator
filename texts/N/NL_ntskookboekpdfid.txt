@@ -1,0 +1,6255 @@
+zelf : 1
+unieke : 1
+receptenboekje : 1
+stand : 1
+gekomen : 1
+werkzaam : 1
+proces : 1
+kennis : 1
+uitwisselen : 1
+informatie : 1
+regel : 1
+betere : 1
+hopen : 1
+boekje : 1
+u : 1
+inspireert : 1
+bijzondere : 1
+prestaties : 1
+land : 1
+toerbrood : 1
+chil : 1
+i : 1
+salad : 1
+vleessaus : 1
+mozzarel : 1
+attendre : 1
+e : 1
+florentines : 1
+bavinck : 1
+doosjes : 1
+zongedroogde : 1
+slankroom : 1
+zachtjes : 1
+filet : 1
+chilipepers : 1
+vooraf : 1
+kw : 1
+x : 1
+zwarte : 1
+eerst : 1
+baranski : 1
+druiven : 1
+apart : 1
+smakelijk : 1
+pepers : 1
+muscadet : 1
+borstfilets : 1
+envelopje : 1
+haase : 1
+sperzieboontjes : 1
+bekertje : 1
+fond : 1
+diepe : 1
+hieraan : 1
+ontstane : 1
+temperatuur : 1
+aardappeltje : 1
+roergebakken : 1
+schaaltje : 1
+vermeng : 1
+spinazie : 1
+wim : 1
+herold : 1
+hepatoloog : 1
+zeguers : 1
+donorregister : 1
+kerkrade : 1
+ontdooiend : 1
+essentieel : 1
+ontdooien : 1
+verliest : 1
+hechting : 1
+patentbloem : 1
+ondiepe : 1
+losjes : 1
+alvorens : 1
+voorbereiden : 1
+serveertip : 1
+lijn : 1
+lekkerder : 1
+toefjes : 1
+vries : 1
+scheid : 1
+ons : 1
+zakjes : 1
+advocaat : 1
+band : 1
+gardes : 1
+spatel : 1
+pakken : 1
+tweede : 1
+herhaal : 1
+opstijven : 1
+erdhuizen : 1
+pro : 1
+kats : 1
+pers : 1
+limoenen : 1
+blikken : 1
+bord : 1
+gele : 1
+fijner : 1
+pond : 1
+stevige : 1
+dik : 1
+erop : 1
+voorkeur : 1
+visbouillonblokje : 1
+slabak : 1
+keizer : 1
+zaken : 1
+anderhalve : 1
+gemengde : 1
+eikenblad : 1
+knapperig : 1
+blanc : 1
+lekkere : 1
+gezouten : 1
+wijnazijn : 1
+chilli : 1
+handen : 1
+fijter : 1
+sectie : 1
+rijpe : 1
+liefst : 1
+verschillende : 1
+kleuren : 1
+plaatsvervangend : 1
+afdelingshoofd : 1
+nierziekten : 1
+kipfilets : 1
+oregano : 1
+leeuwen : 1
+extra : 1
+vergine : 1
+knijper : 1
+bol : 1
+scharrelkipfilet : 1
+roomboter : 1
+schoongemaakte : 1
+romeinse : 1
+besprenkelde : 1
+honey : 1
+roasted : 1
+pecans : 1
+tuinkers : 1
+rozemarijnnaaldjes : 1
+paprikapoeder : 1
+halveer : 1
+chilipoeder : 1
+verkruimelen : 1
+basilicumblaadjes : 1
+wellen : 1
+tomaatmengsel : 1
+appelazijn : 1
+reepjes : 1
+puntje : 1
+aardappelen : 1
+diverse : 1
+soorten : 1
+opstaand : 1
+rub : 1
+marineren : 1
+koelstrooi : 1
+neemt : 1
+pecannoten : 1
+staafmixer : 1
+paar : 1
+sneetjes : 1
+korst : 1
+zon : 1
+versier : 1
+kluts : 1
+ei : 1
+acht : 1
+donatiefunctionaris : 1
+elisabeth : 1
+tilburg : 1
+versiering : 1
+grill : 1
+zeer : 1
+geschikt : 1
+jarig : 1
+smullen : 1
+ieder : 1
+geval : 1
+enorm : 1
+homan : 1
+heide : 1
+kipkarbonade : 1
+ml : 1
+fijngesnipperde : 1
+fijngeperste : 1
+medium : 1
+dry : 1
+marinade : 1
+hierboven : 1
+behalve : 1
+roze : 1
+molen : 1
+korstje : 1
+eet : 1
+busato : 1
+begint : 1
+resterende : 1
+wezel : 1
+donorwerving : 1
+ketoembar : 1
+peter : 1
+hal : 1
+deciliter : 1
+vierkant : 1
+velletje : 1
+later : 1
+kruidenmengsel : 1
+magnetronfolie : 1
+plat : 1
+behulp : 1
+ander : 1
+streepje : 1
+malen : 1
+food : 1
+vleesmengsel : 1
+boemboe : 1
+erbij : 1
+roerbak : 1
+eromheen : 1
+papiertje : 1
+ingepakte : 1
+eenmaal : 1
+ingevroren : 1
+klapper : 1
+gebruikte : 1
+restant : 1
+gekookt : 1
+vingerkootje : 1
+klappermelkoppervlak : 1
+salamblaadjes : 1
+stoom : 1
+heerlijk : 1
+hartig : 1
+hapje : 1
+velletjes : 1
+doormidden : 1
+enigszins : 1
+uithollen : 1
+zilveruitje : 1
+doorregen : 1
+gerookt : 1
+daaraan : 1
+karwijzaad : 1
+voortdurend : 1
+pikant : 1
+juist : 1
+doch : 1
+zodra : 1
+klaar : 1
+legt : 1
+iedere : 1
+oester : 1
+uitjes : 1
+kruislings : 1
+slasaus : 1
+geef : 1
+binnenste : 1
+slabladeren : 1
+opmaak : 1
+snel : 1
+charles : 1
+bijleveld : 1
+rijstrol : 1
+etjes : 1
+gevuld : 1
+gekruid : 1
+zure : 1
+currypasta : 1
+ongezouten : 1
+sap : 1
+mespunt : 1
+pot : 1
+ontpitte : 1
+uitlekgewicht : 1
+oelek : 1
+donkere : 1
+bastersuiker : 1
+amandelschaafsel : 1
+mousse : 1
+tevoren : 1
+stijf : 1
+groot : 1
+croissantdeeg : 1
+belegen : 1
+chinese : 1
+vervang : 1
+toetje : 1
+hoeveelheid : 1
+verpakking : 1
+toef : 1
+glazen : 1
+taartvulling : 1
+kuiltje : 1
+schijfje : 1
+gehakte : 1
+kipblokjes : 1
+kappertjes : 1
+mengen : 1
+draai : 1
+klonten : 1
+bebloem : 1
+friteuse : 1
+pannetje : 1
+rolff : 1
+zijkanten : 1
+knip : 1
+clafoutis : 1
+werkgroeplid : 1
+cirrose : 1
+bovenkant : 1
+dicht : 1
+nadat : 1
+vulling : 1
+erin : 1
+royaal : 1
+wederom : 1
+vormt : 1
+perfecte : 1
+etentje : 1
+vergiet : 1
+tegelijkertijd : 1
+gedeelten : 1
+gegeten : 1
+krokant : 1
+liefland : 1
+maaltijd : 1
+schuimspaan : 1
+uitdruipen : 1
+puntjes : 1
+verdeeld : 1
+joosten : 1
+clinique : 1
+hoofd : 1
+bloedtransfusie : 1
+heuvelen : 1
+lid : 1
+websitecommissie : 1
+recepten : 1
+desserts : 1
+hebben : 1
+ooit : 1
+onze : 1
+calorierijke : 1
+feestmaal : 1
+allebei : 1
+zes : 1
+verkruimeld : 1
+stijfgeklopt : 1
+spijkerboer : 1
+donoraanname : 1
+ketjap : 1
+rundergoulash : 1
+bitterkoekjeskruim : 1
+rond : 1
+gescheiden : 1
+daarin : 1
+tenminste : 1
+geschilde : 1
+panklare : 1
+kastanjechampignons : 1
+hierbij : 1
+blokjes : 1
+eveneens : 1
+proeven : 1
+hoe : 1
+pit : 1
+vriesvak : 1
+aluminiumkraag : 1
+afzonderlijk : 1
+afgieten : 1
+marry : 1
+stamp : 1
+luchtenburg : 1
+gas : 1
+staan : 1
+eroverheen : 1
+fijne : 1
+puree : 1
+roep : 1
+vrouw : 1
+tineke : 1
+wand : 1
+champignonmengsel : 1
+tijd : 1
+doorkoken : 1
+mag : 1
+vaak : 1
+uitgelekte : 1
+zit : 1
+gasfornuis : 1
+diegenen : 1
+geen : 1
+worst : 1
+groeneveld : 1
+taxi : 1
+dakpansgewijs : 1
+gezellig : 1
+thuis : 1
+gasten : 1
+zelfgemaakte : 1
+beleef : 1
+lang : 1
+keuken : 1
+afborstelen : 1
+geopende : 1
+grofgesneden : 1
+knolselderij : 1
+geopend : 1
+favoriete : 1
+sausjes : 1
+gemakkelijk : 1
+schaaltjes : 1
+naast : 1
+aanrecht : 1
+volgt : 1
+kruidenroomkaas : 1
+uitgeperste : 1
+fijnprakken : 1
+fijngehakte : 1
+ongezoete : 1
+daan : 1
+vliet : 1
+umc : 1
+pittige : 1
+keukentouw : 1
+bakken : 1
+geschild : 1
+pikante : 1
+uitje : 1
+omwikkel : 1
+bind : 1
+vast : 1
+kanten : 1
+rusten : 1
+bakvet : 1
+flamberen : 1
+afzuigkap : 1
+metalen : 1
+lepel : 1
+schuin : 1
+gaspit : 1
+brandende : 1
+garneren : 1
+aardappelpuree : 1
+zou : 1
+bourgogne : 1
+nemen : 1
+wijnen : 1
+zullen : 1
+directeur : 1
+kenners : 1
+gelegenheidsdrinkers : 1
+nodig : 1
+hele : 1
+familie : 1
+minstens : 1
+vrienden : 1
+genoemde : 1
+hoeveelheden : 1
+halfhoog : 1
+knoflooktenen : 1
+goudbruin : 1
+verkrijgbaar : 1
+italiaanse : 1
+want : 1
+zuur : 1
+inkoken : 1
+vloeibaar : 1
+wanneer : 1
+kleingehakte : 1
+lilien : 1
+wilhemina : 1
+utrecht : 1
+pino : 1
+grigio : 1
+spreek : 1
+allemaal : 1
+hard : 1
+italiaans : 1
+tijdens : 1
+citroenschil : 1
+hoopjes : 1
+grootte : 1
+doorsnede : 1
+plaat : 1
+helemaal : 1
+dezelfde : 1
+manier : 1
+breek : 1
+florentine : 1
+wacht : 1
+gestold : 1
+mosselman : 1
+week : 1
+eitjes : 1
+rauwe : 1
+aspergevocht : 1
+overlappen : 1
+uiteinden : 1
+radijsjes : 1
+net : 1
+overhangende : 1
+stort : 1
+sprenkel : 1
+rondom : 1
+toast : 1
+kasterop : 1
+administratie : 1
+zeeduivelfilets : 1
+beetgaar : 1
+gebruik : 1
+schorseneer : 1
+dunschiller : 1
+damp : 1
+eraf : 1
+keukenpapier : 1
+afgesloten : 1
+gaargekookte : 1
+laatst : 1
+sieber : 1
+wetenschap : 1
+projectleider : 1
+juni : 1
+bepakt : 1
+bezakt : 1
+vertrokken : 1
+vanaf : 1
+franse : 1
+steken : 1
+spaanse : 1
+lag : 1
+meter : 1
+zoveel : 1
+sneeuw : 1
+raadzaam : 1
+pickel : 1
+stijgijzers : 1
+oversteek : 1
+regen : 1
+harde : 1
+wind : 1
+prachtig : 1
+bootsma : 1
+intensive : 1
+torla : 1
+geparkeerd : 1
+rugzak : 1
+rug : 1
+vol : 1
+moed : 1
+goriz : 1
+delgado : 1
+gelopen : 1
+bleek : 1
+onneembare : 1
+vesting : 1
+daarom : 1
+besloten : 1
+keren : 1
+route : 1
+volkorenmeel : 1
+zelfrijzend : 1
+aanbeland : 1
+riviertje : 1
+besluiten : 1
+bakmeel : 1
+griesmeel : 1
+verder : 1
+voeten : 1
+blaren : 1
+rust : 1
+roggemeel : 1
+schouders : 1
+ontspannen : 1
+strekken : 1
+knie : 1
+abrikozen : 1
+hazelnoten : 1
+margarine : 1
+karnemelk : 1
+scheur : 1
+kokende : 1
+gelukkig : 1
+anno : 1
+assortiment : 1
+kneed : 1
+schemeren : 1
+tent : 1
+genieten : 1
+bakblik : 1
+centimeter : 1
+kiezen : 1
+eindigen : 1
+hotel : 1
+tres : 1
+bieros : 1
+dos : 1
+samenwerking : 1
+tussen : 1
+beste : 1
+hans : 1
+pols : 1
+chef : 1
+mensen : 2
+binnen : 2
+donatie : 2
+delen : 2
+leidt : 2
+eigen : 2
+mediterranee : 2
+ganzenleversaus : 2
+advocaattaart : 2
+knoflooklangoustines : 2
+tomatenroomsaus : 2
+hooge : 2
+rabarbertaart : 2
+tomaat : 2
+visje : 2
+chicken : 2
+a : 2
+bakplaatappeltaart : 2
+moqueca : 2
+peixe : 2
+caribische : 2
+ovenschotel : 2
+kersenclafoutis : 2
+kokoscurry : 2
+roomsaus : 2
+citroenmousse : 2
+kersentaart : 2
+aspergeterrine : 2
+moules : 2
+fazant : 2
+appeltjes : 2
+tomaatjes : 2
+houd : 2
+sausje : 2
+zonnevisfilet : 2
+tagliatelle : 2
+aangegeven : 2
+weinig : 2
+pouilly : 2
+spoel : 2
+maal : 2
+lengte : 2
+wijnsuggestie : 2
+kan : 2
+bijvoorbeeld : 2
+ganzenlever : 2
+keukenmachine : 2
+vul : 2
+koekenpan : 2
+kabeljauwfilet : 2
+rundergehakt : 2
+broccoli : 2
+spekjes : 2
+handje : 2
+cayennepeper : 2
+mengsel : 2
+lage : 2
+afgedekte : 2
+bevroren : 2
+overtollige : 2
+maar : 2
+aparte : 2
+kruimels : 2
+hete : 2
+hoeft : 2
+mixer : 2
+vingers : 2
+dient : 2
+advocaatmengsel : 2
+folie : 2
+dagen : 2
+rotterdam : 2
+koriander : 2
+besprenkel : 2
+ruime : 2
+blok : 2
+santen : 2
+verkruimel : 2
+stukken : 2
+serveren : 2
+rooster : 2
+medische : 2
+grove : 2
+gebonden : 2
+drink : 2
+honing : 2
+basilicum : 2
+niertransplantatie : 2
+afdeling : 2
+nierstichting : 2
+tomaatstukjes : 2
+tomatensaus : 2
+culinair : 2
+krop : 2
+bakje : 2
+custardpoeder : 2
+bitterkoekjes : 2
+witbrood : 2
+snipper : 2
+tijm : 2
+milde : 2
+bekleed : 2
+veel : 2
+schil : 2
+grillpan : 2
+bakpapier : 2
+wrijf : 2
+vijzel : 2
+romige : 2
+croutons : 2
+minuut : 2
+elke : 2
+zoete : 2
+scheutje : 2
+hierover : 2
+regelmatig : 2
+surimisticks : 2
+hapjespan : 2
+dente : 2
+goede : 2
+direct : 2
+kemirienoten : 2
+sereh : 2
+laos : 2
+knijp : 2
+stevig : 2
+stukje : 2
+midden : 2
+rol : 2
+vlees : 2
+ten : 2
+slotte : 2
+verdampt : 2
+zijde : 2
+roeren : 2
+brengen : 2
+kalfsoesters : 2
+halve : 2
+schotel : 2
+kerriesauspoeder : 2
+kokosmelk : 2
+port : 2
+poedersuiker : 2
+ter : 2
+uren : 2
+kaas : 2
+vissaus : 2
+eiermie : 2
+staat : 2
+wok : 2
+uitgeperst : 2
+beslag : 2
+eventuele : 2
+c : 2
+afsluiting : 2
+frituur : 2
+zowel : 2
+allocatie : 2
+erg : 2
+universitair : 2
+medisch : 2
+centrum : 2
+st : 2
+nijmegen : 2
+heerlijke : 2
+mogen : 2
+dooiers : 2
+witten : 2
+sherry : 2
+geklopte : 2
+pak : 2
+viergranen : 2
+stroganoffsaus : 2
+boterhamworst : 2
+tomatenpuree : 2
+neme : 2
+koken : 2
+pas : 2
+opdienen : 2
+andere : 2
+komt : 2
+koude : 2
+nootmuskaat : 2
+blijf : 2
+rookworst : 2
+gare : 2
+toevoegen : 2
+tegen : 2
+mijn : 2
+hond : 2
+langs : 2
+smelt : 2
+recept : 2
+erdoor : 2
+erover : 2
+echte : 2
+per : 2
+ou : 2
+gaat : 2
+mayonaise : 2
+geslagen : 2
+fijngehakt : 2
+hierop : 2
+los : 2
+dikke : 2
+kopje : 2
+antonius : 2
+foelie : 2
+dl : 2
+dille : 2
+nacht : 2
+citroensap : 2
+bieslook : 2
+tien : 2
+doel : 2
+voet : 2
+lopen : 2
+volgende : 2
+terug : 2
+via : 2
+zware : 2
+refugio : 2
+uiteindelijk : 2
+inmiddels : 2
+doet : 2
+pijnlijke : 2
+nederlandse : 3
+uw : 3
+kalfsoester : 3
+gerookte : 3
+zalm : 3
+kwarteleitjes : 3
+amaretto : 3
+vongole : 3
+cassis : 3
+la : 3
+groene : 3
+schoon : 3
+zoals : 3
+daar : 3
+langoustines : 3
+dep : 3
+grof : 3
+hoog : 3
+wit : 3
+open : 3
+filets : 3
+paprika : 3
+prei : 3
+kerriepoeder : 3
+gehakt : 3
+gesneden : 3
+braadpan : 3
+kruiden : 3
+smeer : 3
+academisch : 3
+ziekenhuis : 3
+erasmus : 3
+wel : 3
+kom : 3
+plaats : 3
+afkoelen : 3
+enkele : 3
+springvorm : 3
+eierdooiers : 3
+eiwitten : 3
+gesuikerde : 3
+kant : 3
+ook : 3
+drie : 3
+limoensap : 3
+uien : 3
+laten : 3
+heet : 3
+cashewnoten : 3
+stokbrood : 3
+plakje : 3
+mosterd : 3
+mozzarella : 3
+personen : 3
+bussum : 3
+repen : 3
+eieren : 3
+citroen : 3
+appels : 3
+kaneel : 3
+fruit : 3
+bakplaat : 3
+strooi : 3
+druk : 3
+overgebleven : 3
+derde : 3
+bestrijk : 3
+altijd : 3
+groningen : 3
+koelkast : 3
+bosje : 3
+bruin : 3
+totdat : 3
+flink : 3
+kokos : 3
+klappermelk : 3
+vouw : 3
+rolletje : 3
+wordt : 3
+hierin : 3
+spek : 3
+iets : 3
+sjalotjes : 3
+pure : 3
+potje : 3
+teentje : 3
+groen : 3
+bosuitjes : 3
+zeef : 3
+deksel : 3
+gefrituurde : 3
+kraag : 3
+inhoud : 3
+aardappels : 3
+ontbijtspek : 3
+roquefort : 3
+warme : 3
+neem : 3
+moeten : 3
+kunnen : 3
+gaan : 3
+o : 3
+vermengen : 3
+calvados : 3
+koekjes : 3
+gelatine : 3
+terrine : 3
+gelei : 3
+auto : 3
+transplantatie : 4
+samen : 4
+wij : 4
+krab : 4
+gebakken : 4
+zeeduivel : 4
+pesto : 4
+ongepelde : 4
+droog : 4
+teentjes : 4
+daarna : 4
+dien : 4
+mooie : 4
+verwijder : 4
+hak : 4
+dunne : 4
+vers : 4
+ik : 4
+rozijnen : 4
+intussen : 4
+danish : 4
+walnoten : 4
+laatste : 4
+haal : 4
+moment : 4
+snij : 4
+der : 4
+men : 4
+klontje : 4
+lange : 4
+weer : 4
+plastic : 4
+teen : 4
+gepelde : 4
+garnalen : 4
+sla : 4
+rucola : 4
+kilo : 4
+ondertussen : 4
+bruine : 4
+mogelijk : 4
+deel : 4
+garneer : 4
+ketan : 4
+koenjit : 4
+moet : 4
+snufje : 4
+chocolade : 4
+stichting : 4
+mie : 4
+ham : 4
+alle : 4
+gekonfijte : 4
+couscous : 5
+lempers : 5
+champignons : 5
+borden : 5
+pel : 5
+gedroogde : 5
+beetje : 5
+gerecht : 5
+droge : 5
+zodat : 5
+blue : 5
+heel : 5
+vis : 5
+meer : 5
+roerend : 5
+ovenschaal : 5
+vet : 5
+nu : 5
+pakje : 5
+bedek : 5
+bodem : 5
+boven : 5
+tomaten : 5
+eventueel : 5
+flinke : 5
+room : 5
+bewaar : 5
+voorzichtig : 5
+zonder : 5
+vuur : 5
+je : 5
+sambal : 5
+aluminiumfolie : 5
+blikje : 5
+uitlekken : 5
+melk : 5
+rand : 5
+laagje : 5
+dat : 6
+pasta : 6
+salade : 6
+dressing : 6
+spaghetti : 6
+schenk : 6
+koud : 6
+vier : 6
+fijn : 6
+bestrooi : 6
+voorverwarmde : 6
+tenen : 6
+gekookte : 6
+rabarber : 6
+gesmolten : 6
+dag : 6
+klop : 6
+dek : 6
+fijngesneden : 6
+ruim : 6
+zakje : 6
+plakjes : 6
+scheut : 6
+deeg : 6
+glas : 6
+onder : 6
+geraspte : 6
+vorm : 6
+kersen : 6
+blik : 6
+plakken : 6
+we : 6
+mosselen : 6
+asperges : 6
+die : 7
+macaroni : 7
+linguini : 7
+klein : 7
+elkaar : 7
+was : 7
+stukjes : 7
+gaar : 7
+na : 7
+gedurende : 7
+helft : 7
+serveer : 7
+vocht : 7
+dan : 7
+zo : 7
+liter : 7
+hier : 7
+peterselie : 7
+slagroom : 7
+boerenkool : 7
+kip : 8
+warm : 8
+leiden : 8
+kleine : 8
+circa : 8
+basterdsuiker : 8
+alles : 8
+bloem : 8
+ongeveer : 8
+uur : 8
+fazanten : 8
+kipfilet : 9
+rode : 9
+schorseneren : 9
+verhit : 9
+vervolgens : 9
+wijn : 9
+theelepels : 9
+rest : 9
+geheel : 9
+laag : 9
+zijn : 10
+lekker : 10
+niet : 10
+schaal : 10
+taart : 10
+saus : 10
+rijst : 10
+twee : 10
+grote : 11
+breng : 11
+eetlepel : 11
+al : 12
+doe : 12
+zet : 12
+smaak : 12
+verdeel : 12
+even : 12
+verse : 13
+ui : 13
+giet : 13
+olie : 13
+pan : 13
+roer : 14
+af : 14
+om : 14
+leg : 14
+bij : 14
+als : 14
+verwarm : 14
+suiker : 14
+naar : 14
+boter : 14
+theelepel : 14
+maak : 15
+kook : 15
+goed : 15
+water : 16
+ze : 16
+nog : 16
+wat : 17
+dit : 18
+uit : 18
+witte : 18
+snijd : 18
+meng : 18
+oven : 19
+olijfolie : 19
+schep : 19
+aan : 20
+is : 21
+bak : 21
+over : 21
+peper : 22
+deze : 24
+toe : 25
+knoflook : 26
+eetlepels : 26
+door : 27
+minuten : 28
+of : 29
+er : 29
+zout : 29
+voor : 33
+laat : 33
+tot : 37
+te : 37
+voeg : 42
+op : 65
+gram : 71
+van : 97
+het : 134
+in : 138
+met : 147
+een : 176
+en : 309
+de : 532
+aan de nederlandse -> transplantatie : 1
+de nederlandse transplantatie -> zelf : 1
+nederlandse transplantatie zelf -> aan : 1
+transplantatie zelf aan -> de : 1
+zelf aan de -> samen : 1
+aan de samen -> samen : 1
+de samen samen -> dit : 1
+samen samen dit -> unieke : 1
+samen dit unieke -> receptenboekje : 1
+dit unieke receptenboekje -> is : 1
+unieke receptenboekje is -> tot : 1
+receptenboekje is tot -> stand : 1
+is tot stand -> gekomen : 1
+tot stand gekomen -> door : 1
+stand gekomen door -> mensen : 1
+gekomen door mensen -> die : 1
+door mensen die -> werkzaam : 1
+mensen die werkzaam -> zijn : 1
+die werkzaam zijn -> binnen : 1
+werkzaam zijn binnen -> het : 1
+zijn binnen het -> proces : 1
+binnen het proces -> van : 1
+het proces van -> donatie : 1
+proces van donatie -> tot : 1
+van donatie tot -> het : 1
+donatie tot het -> delen : 1
+tot het delen -> van : 1
+het delen van -> kennis : 1
+delen van kennis -> en : 1
+van kennis en -> uitwisselen : 1
+kennis en uitwisselen -> van : 1
+en uitwisselen van -> informatie : 1
+uitwisselen van informatie -> leidt : 1
+van informatie leidt -> in : 1
+informatie leidt in -> de : 1
+leidt in de -> regel : 1
+in de regel -> tot : 1
+de regel tot -> betere : 1
+regel tot betere -> wij : 1
+tot betere wij -> hopen : 1
+betere wij hopen -> dat : 1
+wij hopen dat -> dit : 1
+hopen dat dit -> boekje : 1
+dat dit boekje -> u : 1
+dit boekje u -> inspireert : 1
+boekje u inspireert -> tot : 1
+u inspireert tot -> bijzondere : 1
+inspireert tot bijzondere -> prestaties : 1
+tot bijzondere prestaties -> in : 1
+bijzondere prestaties in -> uw : 1
+prestaties in uw -> eigen : 1
+in uw eigen -> nederlandse : 1
+uw eigen nederlandse -> transplantatie : 1
+eigen nederlandse transplantatie -> pasta : 1
+nederlandse transplantatie pasta -> mediterranee : 1
+transplantatie pasta mediterranee -> kipfilet : 1
+pasta mediterranee kipfilet -> met : 1
+mediterranee kipfilet met -> ganzenleversaus : 1
+kipfilet met ganzenleversaus -> couscous : 1
+kipfilet met ganzenleversaus -> grote : 1
+met ganzenleversaus couscous -> salade : 1
+ganzenleversaus couscous salade -> met : 1
+couscous salade met -> lempers : 1
+salade met lempers -> advocaattaart : 1
+met lempers advocaattaart -> dressing : 1
+lempers advocaattaart dressing -> knoflooklangoustines : 1
+advocaattaart dressing knoflooklangoustines -> kipfilet : 1
+dressing knoflooklangoustines kipfilet -> met : 1
+knoflooklangoustines kipfilet met -> tomatenroomsaus : 1
+kipfilet met tomatenroomsaus -> kalfsoester : 1
+met tomatenroomsaus kalfsoester -> van : 1
+tomatenroomsaus kalfsoester van -> hooge : 1
+kalfsoester van hooge -> land : 1
+kalfsoester van hooge -> de : 1
+van hooge land -> toerbrood : 1
+hooge land toerbrood -> rabarbertaart : 1
+land toerbrood rabarbertaart -> pasta : 1
+toerbrood rabarbertaart pasta -> met : 1
+rabarbertaart pasta met -> verse : 1
+pasta met verse -> tomaat : 2
+met verse tomaat -> een : 1
+met verse tomaat -> chilli : 1
+verse tomaat een -> visje : 1
+tomaat een visje -> uit : 1
+een visje uit -> de : 2
+visje uit de -> oven : 2
+uit de oven -> chil : 1
+uit de oven -> kipfilet : 1
+de oven chil -> i : 1
+oven chil i -> chicken : 1
+chil i chicken -> salad : 1
+i chicken salad -> macaroni : 1
+chicken salad macaroni -> met : 1
+salad macaroni met -> vleessaus : 1
+macaroni met vleessaus -> en : 1
+met vleessaus en -> mozzarel : 1
+vleessaus en mozzarel -> a : 1
+en mozzarel a -> bakplaatappeltaart : 1
+mozzarel a bakplaatappeltaart -> moqueca : 1
+a bakplaatappeltaart moqueca -> de : 1
+bakplaatappeltaart moqueca de -> peixe : 1
+moqueca de peixe -> caribische : 1
+moqueca de peixe -> verse : 1
+de peixe caribische -> kip : 1
+peixe caribische kip -> ovenschotel : 1
+caribische kip ovenschotel -> met : 1
+kip ovenschotel met -> kersenclafoutis : 1
+ovenschotel met kersenclafoutis -> spaghetti : 1
+met kersenclafoutis spaghetti -> met : 1
+kersenclafoutis spaghetti met -> kip : 1
+spaghetti met kip -> in : 1
+met kip in -> rode : 1
+kip in rode -> kokoscurry : 1
+kip in rode -> kersenclafoutis : 1
+in rode kokoscurry -> in : 1
+rode kokoscurry in -> roomsaus : 1
+kokoscurry in roomsaus -> citroenmousse : 1
+in roomsaus citroenmousse -> krab : 1
+roomsaus citroenmousse krab -> en : 1
+citroenmousse krab en -> gerookte : 1
+krab en gerookte -> zalm : 1
+krab en gerookte -> kilo : 1
+en gerookte zalm -> kersentaart : 1
+gerookte zalm kersentaart -> aspergeterrine : 1
+zalm kersentaart aspergeterrine -> met : 1
+kersentaart aspergeterrine met -> kwarteleitjes : 1
+aspergeterrine met kwarteleitjes -> kersentaart : 1
+met kwarteleitjes kersentaart -> moules : 1
+kwarteleitjes kersentaart moules -> attendre : 1
+kersentaart moules attendre -> fazant : 1
+moules attendre fazant -> met : 1
+attendre fazant met -> gebakken : 1
+fazant met gebakken -> appeltjes : 1
+fazant met gebakken -> kruidenroomkaas : 1
+met gebakken appeltjes -> met : 1
+gebakken appeltjes met -> amaretto : 1
+appeltjes met amaretto -> linguini : 1
+met amaretto linguini -> al : 1
+amaretto linguini al -> e : 1
+linguini al e -> vongole : 1
+al e vongole -> al : 1
+e vongole al -> a : 1
+vongole al a -> de : 1
+al a de -> cassis : 1
+a de cassis -> zeeduivel : 1
+de cassis zeeduivel -> met : 1
+cassis zeeduivel met -> schorseneren : 1
+zeeduivel met schorseneren -> florentines : 1
+zeeduivel met schorseneren -> la : 1
+met schorseneren florentines -> la : 1
+schorseneren florentines la -> en : 1
+florentines la en -> pesto : 1
+la en pesto -> pasta : 1
+en pesto pasta -> mediterranee : 1
+pesto pasta mediterranee -> bavinck : 1
+pasta mediterranee bavinck -> verse : 1
+mediterranee bavinck verse -> pasta : 1
+bavinck verse pasta -> doosjes : 1
+verse pasta doosjes -> champignons : 1
+pasta doosjes champignons -> gram : 1
+doosjes champignons gram -> verse : 1
+champignons gram verse -> zongedroogde : 1
+gram verse zongedroogde -> gram : 1
+verse zongedroogde gram -> verse : 1
+zongedroogde gram verse -> groene : 1
+gram verse groene -> slankroom : 1
+verse groene slankroom -> witte : 1
+groene slankroom witte -> knoflooklangoustines : 1
+slankroom witte knoflooklangoustines -> maak : 1
+witte knoflooklangoustines maak -> de : 1
+knoflooklangoustines maak de -> champignons : 1
+maak de champignons -> schoon : 1
+de champignons schoon -> en : 2
+champignons schoon en -> bak : 1
+champignons schoon en -> snijd : 1
+schoon en bak -> deze : 1
+en bak deze -> met : 1
+bak deze met -> snijd : 1
+deze met snijd -> de : 1
+met snijd de -> tomaatjes : 1
+snijd de tomaatjes -> klein : 1
+de tomaatjes klein -> en : 1
+tomaatjes klein en -> roer : 1
+klein en roer -> deze : 1
+en roer deze -> met : 1
+roer deze met -> de : 1
+deze met de -> groene : 1
+met de groene -> pesto : 1
+de groene pesto -> en : 1
+groene pesto en -> de : 1
+pesto en de -> gebakken : 1
+en de gebakken -> champignons : 1
+de gebakken champignons -> door : 1
+gebakken champignons door -> elkaar : 1
+champignons door elkaar -> tot : 1
+door elkaar tot -> een : 1
+elkaar tot een -> maak : 1
+tot een maak -> het : 1
+een maak het -> af : 1
+maak het af -> met : 1
+het af met -> houd : 1
+het af met -> de : 1
+af met houd -> het : 1
+met houd het -> sausje : 1
+houd het sausje -> zachtjes : 1
+het sausje zachtjes -> gram : 1
+sausje zachtjes gram -> ongepelde : 1
+zachtjes gram ongepelde -> droog : 1
+gram ongepelde droog -> de : 1
+ongepelde droog de -> zonnevisfilet : 1
+droog de zonnevisfilet -> en : 1
+de zonnevisfilet en -> peper : 1
+de zonnevisfilet en -> doe : 1
+zonnevisfilet en peper -> bak : 1
+en peper bak -> de : 1
+peper bak de -> filet : 1
+bak de filet -> om : 1
+de filet om -> en : 1
+filet om en -> rode : 1
+om en rode -> chilipepers : 1
+en rode chilipepers -> of : 1
+rode chilipepers of -> kook : 1
+chilipepers of kook -> de : 1
+of kook de -> verse : 1
+kook de verse -> tagliatelle : 1
+de verse tagliatelle -> zoals : 1
+verse tagliatelle zoals -> aangegeven : 1
+tagliatelle zoals aangegeven -> op : 1
+zoals aangegeven op -> de : 1
+aangegeven op de -> teentjes : 1
+op de teentjes -> maak : 1
+de teentjes maak -> de : 1
+teentjes maak de -> borden : 1
+maak de borden -> vooraf : 1
+de borden vooraf -> warm : 1
+borden vooraf warm -> met : 1
+vooraf warm met -> weinig : 1
+warm met weinig -> water : 1
+met weinig water -> in : 1
+weinig water in -> kw : 1
+water in kw -> x : 1
+in kw x -> zwarte : 1
+kw x zwarte -> leg : 1
+x zwarte leg -> eerst : 1
+zwarte leg eerst -> de : 1
+leg eerst de -> tagliatelle : 1
+eerst de tagliatelle -> op : 1
+de tagliatelle op -> de : 1
+tagliatelle op de -> daarna : 1
+op de daarna -> de : 1
+de daarna de -> zonnevisfilet : 1
+daarna de zonnevisfilet -> en : 1
+zonnevisfilet en doe -> daar : 1
+en doe daar -> het : 1
+doe daar het -> sausje : 1
+daar het sausje -> baranski : 1
+het sausje baranski -> leiden : 1
+sausje baranski leiden -> dien : 1
+baranski leiden dien -> de : 1
+leiden dien de -> druiven : 1
+dien de druiven -> apart : 1
+de druiven apart -> schenk : 1
+druiven apart schenk -> er : 1
+apart schenk er -> een : 1
+schenk er een -> mooie : 1
+er een mooie -> witte : 1
+een mooie witte -> pouilly : 1
+mooie witte pouilly -> smakelijk : 1
+witte pouilly smakelijk -> pel : 1
+pouilly smakelijk pel -> de : 1
+smakelijk pel de -> langoustines : 1
+pel de langoustines -> en : 1
+de langoustines en -> verwijder : 1
+langoustines en verwijder -> de : 1
+en verwijder de -> was : 1
+verwijder de was -> ze : 1
+de was ze -> met : 1
+was ze met -> koud : 1
+ze met koud -> water : 1
+met koud water -> en : 2
+koud water en -> dep : 1
+koud water en -> laat : 1
+water en dep -> ze : 1
+en dep ze -> was : 1
+dep ze was -> de : 1
+ze was de -> verse : 1
+was de verse -> snijd : 1
+de verse snijd -> ze : 1
+verse snijd ze -> in : 1
+snijd ze in -> de : 1
+snijd ze in -> verkruimel : 1
+ze in de -> verwijder : 1
+in de verwijder -> de : 1
+de verwijder de -> spoel : 1
+verwijder de spoel -> de : 1
+de spoel de -> pepers : 1
+spoel de pepers -> uit : 1
+de pepers uit -> en : 1
+pepers uit en -> hak : 1
+uit en hak -> ze : 1
+en hak ze -> in : 1
+hak ze in -> dunne : 1
+ze in dunne -> maal : 1
+in dunne maal -> de : 1
+dunne maal de -> gedroogde : 1
+maal de gedroogde -> grof : 1
+de gedroogde grof -> en : 1
+gedroogde grof en -> hak : 1
+grof en hak -> de : 1
+en hak de -> knoflook : 1
+hak de knoflook -> in : 1
+hak de knoflook -> en : 1
+de knoflook in -> de : 1
+knoflook in de -> lengte : 1
+in de lengte -> in : 1
+de lengte in -> vier : 1
+lengte in vier -> verhit : 1
+in vier verhit -> de : 1
+vier verhit de -> olijfolie : 1
+verhit de olijfolie -> in : 1
+de olijfolie in -> een : 1
+olijfolie in een -> voeg : 1
+olijfolie in een -> pan : 1
+in een voeg -> er : 1
+in een voeg -> de : 2
+een voeg er -> de : 1
+voeg er de -> knoflook : 1
+er de knoflook -> en : 1
+de knoflook en -> de : 3
+de knoflook en -> ui : 1
+de knoflook en -> sjalotjes : 2
+de knoflook en -> het : 1
+knoflook en de -> langoustines : 1
+knoflook en de -> gram : 1
+knoflook en de -> helft : 1
+en de langoustines -> aan : 1
+de langoustines aan -> doe : 1
+langoustines aan doe -> er : 1
+aan doe er -> vervolgens : 1
+doe er vervolgens -> een : 1
+er vervolgens een -> beetje : 1
+vervolgens een beetje -> peper : 1
+een beetje peper -> en : 1
+beetje peper en -> zout : 1
+peper en zout -> bij : 1
+peper en zout -> olijfolie : 1
+peper en zout -> naar : 1
+en zout bij -> en : 1
+zout bij en -> bak : 1
+bij en bak -> de : 1
+en bak de -> langoustines : 1
+en bak de -> spekjes : 1
+en bak de -> ui : 2
+en bak de -> kipfilet : 1
+bak de langoustines -> tot : 1
+de langoustines tot -> minuten : 1
+langoustines tot minuten -> op : 1
+tot minuten op -> een : 1
+minuten op een -> hoog : 1
+minuten op een -> laag : 1
+op een hoog -> dit : 1
+een hoog dit -> gerecht : 1
+hoog dit gerecht -> is : 1
+dit gerecht is -> lekker : 2
+gerecht is lekker -> met : 2
+is lekker met -> vers : 1
+is lekker met -> een : 1
+lekker met vers -> warm : 1
+met vers warm -> wit : 1
+vers warm wit -> als : 1
+warm wit als -> wijnsuggestie : 1
+wit als wijnsuggestie -> kan : 1
+als wijnsuggestie kan -> ik : 1
+wijnsuggestie kan ik -> witte : 1
+kan ik witte -> bijvoorbeeld : 1
+ik witte bijvoorbeeld -> een : 1
+witte bijvoorbeeld een -> pouilly : 1
+bijvoorbeeld een pouilly -> of : 1
+een pouilly of -> een : 1
+pouilly of een -> droge : 1
+of een droge -> muscadet : 1
+een droge muscadet -> een : 1
+droge muscadet een -> visje : 1
+muscadet een visje -> uit : 1
+de oven kipfilet -> met : 1
+oven kipfilet met -> ganzenleversaus : 1
+met ganzenleversaus grote -> rode : 1
+ganzenleversaus grote rode -> gram : 1
+grote rode gram -> verwarm : 1
+rode gram verwarm -> de : 1
+gram verwarm de -> oven : 1
+verwarm de oven -> voor : 8
+de oven voor -> op : 7
+de oven voor -> tot : 1
+oven voor op -> couscous : 1
+oven voor op -> pers : 1
+oven voor op -> giet : 1
+oven voor op -> laat : 1
+oven voor op -> snijd : 1
+oven voor op -> wrijf : 1
+oven voor op -> leg : 1
+voor op couscous -> snijd : 1
+op couscous snijd -> de : 1
+couscous snijd de -> borstfilets : 1
+snijd de borstfilets -> open : 1
+de borstfilets open -> zodat : 1
+borstfilets open zodat -> een : 1
+open zodat een -> envelopje : 1
+zodat een envelopje -> haase : 1
+een envelopje haase -> maak : 1
+envelopje haase maak -> de : 1
+haase maak de -> ganzenlever : 1
+maak de ganzenlever -> fijn : 1
+de ganzenlever fijn -> in : 1
+ganzenlever fijn in -> de : 1
+fijn in de -> keukenmachine : 1
+in de keukenmachine -> en : 1
+in de keukenmachine -> schep : 1
+de keukenmachine en -> vul : 1
+keukenmachine en vul -> de : 1
+en vul de -> filets : 1
+vul de filets -> met : 1
+de filets met -> gram : 1
+de filets met -> peper : 1
+filets met gram -> bestrooi : 1
+met gram bestrooi -> de : 1
+gram bestrooi de -> filets : 1
+bestrooi de filets -> met : 1
+filets met peper -> en : 1
+met peper en -> bak : 1
+met peper en -> stamp : 1
+met peper en -> schep : 1
+met peper en -> roer : 1
+met peper en -> sieber : 1
+peper en bak -> snijd : 1
+en bak snijd -> de : 1
+bak snijd de -> sperzieboontjes : 1
+snijd de sperzieboontjes -> in : 1
+de sperzieboontjes in -> kleine : 1
+sperzieboontjes in kleine -> stukjes : 1
+in kleine stukjes -> en : 2
+kleine stukjes en -> kook : 1
+kleine stukjes en -> smelt : 1
+stukjes en kook -> deze : 1
+en kook deze -> de : 1
+kook deze de -> filets : 1
+deze de filets -> aan : 1
+de filets aan -> in : 1
+filets aan in -> een : 1
+aan in een -> koekenpan : 1
+in een koekenpan -> en : 1
+een koekenpan en -> gaar : 1
+koekenpan en gaar -> ze : 1
+en gaar ze -> na : 1
+gaar ze na -> in : 1
+ze na in -> de : 1
+na in de -> voorverwarmde : 1
+in de voorverwarmde -> gram : 1
+de voorverwarmde gram -> couscous : 1
+voorverwarmde gram couscous -> gram : 1
+gram couscous gram -> rozijnen : 1
+couscous gram rozijnen -> gram : 1
+gram rozijnen gram -> gedurende : 1
+rozijnen gram gedurende -> minuten : 1
+gram gedurende minuten -> zijn : 1
+gedurende minuten zijn -> ze : 1
+minuten zijn ze -> nog : 1
+zijn ze nog -> niet : 1
+ze nog niet -> snijd : 1
+nog niet snijd -> intussen : 1
+niet snijd intussen -> de : 1
+snijd intussen de -> gram : 1
+intussen de gram -> kabeljauwfilet : 1
+de gram kabeljauwfilet -> bekertje : 1
+gram kabeljauwfilet bekertje -> gram : 1
+kabeljauwfilet bekertje gram -> oven : 1
+bekertje gram oven -> gedurende : 1
+gram oven gedurende -> rundergehakt : 1
+oven gedurende rundergehakt -> ui : 1
+gedurende rundergehakt ui -> gram : 1
+rundergehakt ui gram -> champignons : 1
+ui gram champignons -> de : 1
+gram champignons de -> de : 1
+champignons de de -> paprika : 1
+de de paprika -> en : 1
+de paprika en -> de : 1
+paprika en de -> broccoli : 1
+en de broccoli -> in : 1
+de broccoli in -> kleine : 1
+broccoli in kleine -> danish : 1
+in kleine danish -> blue : 1
+kleine danish blue -> gram : 1
+danish blue gram -> spekjes : 1
+blue gram spekjes -> prei : 1
+gram spekjes prei -> een : 1
+spekjes prei een -> handje : 1
+prei een handje -> walnoten : 1
+een handje walnoten -> kook : 1
+handje walnoten kook -> de : 1
+walnoten kook de -> rode : 1
+kook de rode -> wijn : 1
+de rode wijn -> en : 1
+rode wijn en -> de : 1
+wijn en de -> fond : 1
+en de fond -> in : 1
+de fond in -> tot : 1
+fond in tot -> de : 1
+in tot de -> helft : 1
+tot de helft -> en : 1
+tot de helft -> voeg : 1
+de helft en -> voeg : 1
+helft en voeg -> op : 1
+en voeg op -> het : 1
+voeg op het -> laatste : 1
+op het laatste -> theelepels : 1
+op het laatste -> moment : 1
+op het laatste -> groeneveld : 1
+het laatste theelepels -> kerriepoeder : 1
+laatste theelepels kerriepoeder -> theelepels : 1
+theelepels kerriepoeder theelepels -> haal : 1
+kerriepoeder theelepels haal -> de : 1
+theelepels haal de -> knoflook : 1
+haal de knoflook -> door : 1
+de knoflook door -> een : 1
+knoflook door een -> moment : 1
+door een moment -> de : 1
+een moment de -> rest : 1
+moment de rest -> van : 1
+de rest van -> de : 8
+de rest van -> het : 1
+rest van de -> ganzenlever : 1
+rest van de -> blok : 1
+rest van de -> saus : 2
+rest van de -> mie : 1
+rest van de -> boter : 1
+rest van de -> melk : 1
+rest van de -> ou : 1
+van de ganzenlever -> cayennepeper : 1
+de ganzenlever cayennepeper -> bak : 1
+ganzenlever cayennepeper bak -> het : 1
+cayennepeper bak het -> gehakt : 1
+bak het gehakt -> en : 1
+het gehakt en -> de : 1
+gehakt en de -> gesneden : 1
+en de gesneden -> ui : 1
+de gesneden ui -> in : 1
+gesneden ui in -> een : 1
+ui in een -> diepe : 1
+ui in een -> hapjespan : 1
+in een diepe -> braadpan : 1
+een diepe braadpan -> tot : 1
+diepe braadpan tot -> het : 1
+braadpan tot het -> tenen : 1
+tot het tenen -> knoflook : 1
+het tenen knoflook -> prei : 1
+tenen knoflook prei -> gaar : 1
+knoflook prei gaar -> voeg : 1
+prei gaar voeg -> hieraan : 1
+gaar voeg hieraan -> de : 1
+voeg hieraan de -> gesneden : 1
+hieraan de gesneden -> de : 1
+de gesneden de -> knoflook : 1
+gesneden de knoflook -> en : 1
+en de gram -> kruiden : 1
+en de gram -> suiker : 1
+de gram kruiden -> toe : 1
+gram kruiden toe -> en : 1
+kruiden toe en -> bak : 1
+toe en bak -> het : 1
+en bak het -> ontstane : 1
+bak het ontstane -> mengsel : 1
+het ontstane mengsel -> op : 1
+ontstane mengsel op -> lage : 1
+mengsel op lage -> temperatuur : 1
+op lage temperatuur -> leg : 1
+lage temperatuur leg -> de : 1
+temperatuur leg de -> kabeljauwfilet : 1
+leg de kabeljauwfilet -> in : 1
+de kabeljauwfilet in -> een : 1
+kabeljauwfilet in een -> meng : 1
+in een meng -> in : 1
+een meng in -> een : 1
+meng in een -> serveer : 1
+meng in een -> aparte : 1
+in een serveer -> met : 1
+een serveer met -> een : 1
+serveer met een -> gebakken : 1
+serveer met een -> lekker : 1
+met een gebakken -> aardappeltje : 1
+een gebakken aardappeltje -> en : 1
+gebakken aardappeltje en -> roergebakken : 1
+aardappeltje en roergebakken -> gram : 1
+en roergebakken gram -> broccoli : 1
+roergebakken gram broccoli -> door : 1
+gram broccoli door -> tot : 1
+broccoli door tot -> het : 1
+door tot het -> geheel : 1
+tot het geheel -> gaar : 1
+het geheel gaar -> schaaltje : 1
+geheel gaar schaaltje -> de : 1
+gaar schaaltje de -> met : 1
+schaaltje de met -> de : 1
+de met de -> danish : 1
+met de danish -> blue : 1
+de danish blue -> tot : 1
+danish blue tot -> een : 1
+blue tot een -> breng : 1
+tot een breng -> intussen : 1
+een breng intussen -> water : 1
+breng intussen water -> aan : 1
+intussen water aan -> de : 1
+water aan de -> en : 1
+water aan de -> suiker : 1
+aan de en -> voeg : 1
+de en voeg -> de : 1
+en voeg de -> couscous : 1
+en voeg de -> spaghetti : 1
+en voeg de -> bloem : 1
+voeg de couscous -> en : 1
+de couscous en -> snij : 1
+de couscous en -> het : 1
+couscous en snij -> de : 1
+en snij de -> prei : 1
+snij de prei -> heel : 1
+de prei heel -> fijn : 1
+prei heel fijn -> en : 1
+heel fijn en -> bak : 1
+fijn en bak -> de : 1
+bak de spekjes -> smeer : 1
+de spekjes smeer -> de : 1
+spekjes smeer de -> rozijnen : 1
+smeer de rozijnen -> na : 1
+de rozijnen na -> tot : 1
+rozijnen na tot -> minuten : 1
+na tot minuten -> is : 1
+tot minuten is -> het : 1
+minuten is het -> water : 1
+is het water -> het : 1
+het water het -> mengsel : 1
+water het mengsel -> van : 1
+het mengsel van -> en : 1
+mengsel van en -> danish : 1
+van en danish -> blue : 1
+en danish blue -> op : 1
+danish blue op -> de : 1
+blue op de -> vis : 1
+op de vis -> meng : 1
+de vis meng -> de : 1
+vis meng de -> couscous : 1
+meng de couscous -> en : 1
+couscous en het -> en : 1
+en het en -> en : 1
+het en en -> vermeng : 1
+en en vermeng -> het : 1
+en vermeng het -> met : 1
+vermeng het met -> de : 1
+het met de -> walnoten : 1
+met de walnoten -> en : 1
+de walnoten en -> zet : 1
+walnoten en zet -> de : 1
+en zet de -> serveer : 1
+zet de serveer -> dit : 1
+de serveer dit -> op : 1
+serveer dit op -> een : 1
+dit op een -> voorverwarmde : 1
+op een voorverwarmde -> afgedekte : 1
+een voorverwarmde afgedekte -> schaal : 1
+voorverwarmde afgedekte schaal -> circa : 1
+afgedekte schaal circa -> minuten : 1
+schaal circa minuten -> in : 1
+circa minuten in -> de : 1
+circa minuten in -> een : 1
+minuten in de -> serveer : 1
+minuten in de -> oven : 1
+in de serveer -> met : 1
+in de serveer -> de : 1
+de serveer met -> vers : 1
+serveer met vers -> gekookte : 1
+met vers gekookte -> spinazie : 1
+vers gekookte spinazie -> en : 1
+gekookte spinazie en -> wim : 1
+spinazie en wim -> van : 1
+en wim van -> der : 1
+wim van der -> bij : 1
+van der bij -> academisch : 1
+der bij academisch -> ziekenhuis : 1
+bij academisch ziekenhuis -> herold : 1
+academisch ziekenhuis herold -> hepatoloog : 1
+ziekenhuis herold hepatoloog -> en : 1
+herold hepatoloog en -> erasmus : 1
+hepatoloog en erasmus -> rabarbertaart : 1
+en erasmus rabarbertaart -> zeguers : 1
+erasmus rabarbertaart zeguers -> donorregister : 1
+rabarbertaart zeguers donorregister -> kerkrade : 1
+zeguers donorregister kerkrade -> zet : 1
+donorregister kerkrade zet -> de : 1
+kerkrade zet de -> rabarber : 1
+zet de rabarber -> bevroren : 1
+de rabarber bevroren -> op : 1
+de rabarber bevroren -> is : 1
+rabarber bevroren op -> en : 1
+bevroren op en -> giet : 1
+op en giet -> al : 1
+en giet al -> ontdooiend : 1
+giet al ontdooiend -> het : 1
+al ontdooiend het -> overtollige : 1
+ontdooiend het overtollige -> vocht : 1
+het overtollige vocht -> af : 1
+overtollige vocht af -> op : 1
+vocht af op -> een : 1
+af op een -> laag : 1
+op een laag -> het : 1
+op een laag -> voeg : 1
+op een laag -> roer : 1
+op een laag -> vuur : 1
+een laag het -> is : 1
+laag het is -> essentieel : 1
+het is essentieel -> dat : 1
+is essentieel dat -> de : 1
+essentieel dat de -> rabarber : 1
+dat de rabarber -> bevroren : 1
+rabarber bevroren is -> door : 1
+bevroren is door -> het : 1
+is door het -> ontdooien : 1
+door het ontdooien -> verliest : 1
+het ontdooien verliest -> de : 1
+ontdooien verliest de -> rabarber : 1
+verliest de rabarber -> meer : 1
+de rabarber meer -> vocht : 1
+rabarber meer vocht -> dan : 1
+meer vocht dan -> in : 1
+vocht dan in -> voor : 1
+dan in voor -> de : 1
+in voor de -> hechting : 1
+voor de hechting -> is : 1
+de hechting is -> dit : 1
+hechting is dit -> voeg : 1
+is dit voeg -> suiker : 1
+dit voeg suiker -> naar : 1
+voeg suiker naar -> smaak : 1
+suiker naar smaak -> toe : 1
+naar smaak toe -> en : 1
+smaak toe en -> kook : 1
+toe en kook -> de : 2
+en kook de -> rabarber : 1
+en kook de -> besprenkelde : 1
+en kook de -> rijst : 1
+kook de rabarber -> maar : 1
+de rabarber maar -> wel : 1
+rabarber maar wel -> zo : 1
+maar wel zo -> dat : 1
+wel zo dat -> de : 1
+zo dat de -> stukjes : 1
+dat de stukjes -> heel : 1
+de stukjes heel -> gram : 1
+stukjes heel gram -> meng : 1
+heel gram meng -> in : 1
+gram meng in -> een : 1
+in een aparte -> kom : 1
+in een aparte -> klop : 1
+een aparte kom -> de : 1
+aparte kom de -> basterdsuiker : 1
+kom de basterdsuiker -> met : 1
+de basterdsuiker met -> de : 1
+basterdsuiker met de -> gesmolten : 1
+basterdsuiker met de -> mixer : 1
+met de gesmolten -> boter : 1
+met de gesmolten -> chocolade : 1
+de gesmolten boter -> en : 1
+gesmolten boter en -> een : 1
+boter en een -> klein : 1
+en een klein -> beetje : 1
+een klein beetje -> suiker : 1
+een klein beetje -> kook : 1
+een klein beetje -> zout : 1
+klein beetje suiker -> naar : 1
+beetje suiker naar -> voeg : 1
+suiker naar voeg -> al : 1
+naar voeg al -> roerend : 1
+voeg al roerend -> de : 2
+al roerend de -> patentbloem : 1
+al roerend de -> kerriesauspoeder : 1
+roerend de patentbloem -> zodat : 1
+de patentbloem zodat -> er : 1
+patentbloem zodat er -> kruimels : 1
+zodat er kruimels -> gram : 1
+er kruimels gram -> gram : 1
+kruimels gram gram -> gesmolten : 1
+gram gram gesmolten -> schep : 1
+gram gesmolten schep -> de : 1
+gesmolten schep de -> rabarber : 1
+schep de rabarber -> in : 1
+de rabarber in -> een : 1
+rabarber in een -> ondiepe : 1
+in een ondiepe -> ovenschaal : 1
+een ondiepe ovenschaal -> en : 1
+ondiepe ovenschaal en -> verdeel : 1
+ovenschaal en verdeel -> de : 1
+en verdeel de -> kruimels : 1
+en verdeel de -> mozzarella : 1
+en verdeel de -> puree : 1
+en verdeel de -> peterselie : 1
+verdeel de kruimels -> er : 1
+de kruimels er -> losjes : 1
+kruimels er losjes -> plaats : 1
+er losjes plaats -> de : 1
+losjes plaats de -> gram : 1
+plaats de gram -> schaal : 1
+de gram schaal -> minuten : 1
+gram schaal minuten -> in : 1
+schaal minuten in -> een : 1
+minuten in een -> hete : 1
+minuten in een -> liter : 1
+in een hete -> laat : 1
+in een hete -> oven : 1
+een hete laat -> even : 1
+hete laat even -> afkoelen : 1
+laat even afkoelen -> alvorens : 1
+even afkoelen alvorens -> te : 1
+afkoelen alvorens te -> voorbereiden : 1
+alvorens te voorbereiden -> dag : 1
+te voorbereiden dag -> van : 1
+voorbereiden dag van -> serveertip : 1
+dag van serveertip -> als : 1
+van serveertip als -> men : 1
+serveertip als men -> niet : 1
+als men niet -> op : 1
+men niet op -> de : 1
+niet op de -> lijn : 1
+op de lijn -> hoeft : 1
+de lijn hoeft -> te : 1
+lijn hoeft te -> is : 1
+hoeft te is -> de : 1
+te is de -> taart : 1
+is de taart -> nog : 1
+de taart nog -> lekkerder : 1
+taart nog lekkerder -> met : 1
+nog lekkerder met -> enkele : 1
+lekkerder met enkele -> toefjes : 1
+met enkele toefjes -> vries : 1
+enkele toefjes vries -> gram : 1
+toefjes vries gram -> rabarber : 1
+vries gram rabarber -> in : 1
+gram rabarber in -> stukjes : 1
+rabarber in stukjes -> advocaattaart : 1
+in stukjes advocaattaart -> vet : 1
+stukjes advocaattaart vet -> de : 1
+advocaattaart vet de -> springvorm : 1
+vet de springvorm -> scheid : 1
+de springvorm scheid -> de : 1
+springvorm scheid de -> ons : 1
+scheid de ons -> witte : 1
+de ons witte -> meng : 1
+ons witte meng -> de : 1
+witte meng de -> eierdooiers : 1
+meng de eierdooiers -> en : 1
+de eierdooiers en -> basterdsuiker : 1
+eierdooiers en basterdsuiker -> met : 1
+en basterdsuiker met -> de : 1
+met de mixer -> en : 1
+de mixer en -> voeg : 1
+mixer en voeg -> klontje : 1
+en voeg klontje -> voor : 1
+voeg klontje voor -> klontje : 1
+klontje voor klontje -> zakjes : 1
+voor klontje zakjes -> de : 1
+klontje zakjes de -> boter : 1
+zakjes de boter -> voeg : 1
+de boter voeg -> nu : 1
+boter voeg nu -> de : 1
+voeg nu de -> advocaat : 1
+nu de advocaat -> toe : 1
+de advocaat toe -> en : 1
+advocaat toe en -> meng : 1
+toe en meng -> alles : 1
+en meng alles -> pakje : 1
+meng alles pakje -> blue : 1
+alles pakje blue -> band : 1
+pakje blue band -> uit : 1
+blue band uit -> de : 1
+band uit de -> maak : 1
+uit de maak -> de : 1
+de maak de -> gardes : 1
+maak de gardes -> van : 1
+de gardes van -> de : 1
+gardes van de -> mixer : 1
+van de mixer -> goed : 1
+de mixer goed -> schoon : 1
+mixer goed schoon -> en : 1
+goed schoon en -> klop : 1
+schoon en klop -> de : 1
+en klop de -> eiwitten : 1
+klop de eiwitten -> spatel : 1
+klop de eiwitten -> met : 1
+de eiwitten spatel -> deze : 1
+eiwitten spatel deze -> vervolgens : 1
+spatel deze vervolgens -> liter : 1
+deze vervolgens liter -> door : 1
+vervolgens liter door -> het : 1
+liter door het -> pakken : 1
+door het pakken -> lange : 1
+het pakken lange -> grote : 1
+pakken lange grote -> bedek : 1
+lange grote bedek -> de : 1
+grote bedek de -> bodem : 1
+bedek de bodem -> van : 1
+de bodem van -> de : 1
+de bodem van -> schenk : 1
+bodem van de -> springvorm : 1
+van de springvorm -> met : 1
+de springvorm met -> lange : 1
+springvorm met lange -> vingers : 1
+met lange vingers -> gesuikerde : 1
+lange vingers gesuikerde -> kant : 1
+vingers gesuikerde kant -> dient : 1
+gesuikerde kant dient -> naar : 1
+kant dient naar -> boven : 1
+dient naar boven -> te : 1
+naar boven te -> en : 1
+boven te en -> schep : 1
+te en schep -> hier : 1
+en schep hier -> een : 1
+en schep hier -> ook : 1
+schep hier een -> laag : 1
+hier een laag -> van : 1
+een laag van -> het : 1
+een laag van -> twee : 1
+laag van het -> advocaatmengsel : 1
+van het advocaatmengsel -> bedek : 1
+het advocaatmengsel bedek -> deze : 1
+advocaatmengsel bedek deze -> met : 1
+bedek deze met -> een : 1
+deze met een -> tweede : 1
+deze met een -> eetlepel : 1
+met een tweede -> laag : 1
+een tweede laag -> lange : 1
+tweede laag lange -> vingers : 1
+laag lange vingers -> de : 1
+lange vingers de -> gesuikerde : 1
+vingers de gesuikerde -> kant : 1
+de gesuikerde kant -> en : 1
+gesuikerde kant en -> schep : 1
+kant en schep -> hier : 1
+schep hier ook -> weer : 1
+hier ook weer -> een : 1
+ook weer een -> laag : 1
+weer een laag -> advocaatmengsel : 1
+een laag advocaatmengsel -> herhaal : 1
+laag advocaatmengsel herhaal -> dit : 1
+advocaatmengsel herhaal dit -> nog : 1
+herhaal dit nog -> dek : 1
+dit nog dek -> de : 1
+nog dek de -> taart : 1
+dek de taart -> af : 1
+de taart af -> met : 1
+taart af met -> plastic : 1
+af met plastic -> folie : 1
+met plastic folie -> en : 2
+plastic folie en -> laat : 1
+plastic folie en -> bedek : 1
+folie en laat -> de : 1
+en laat de -> taart : 1
+en laat de -> mie : 1
+en laat de -> fazanten : 1
+laat de taart -> drie : 1
+de taart drie -> dagen : 1
+taart drie dagen -> opstijven : 1
+drie dagen opstijven -> in : 1
+dagen opstijven in -> de : 1
+opstijven in de -> serveer : 1
+de serveer de -> taart : 1
+serveer de taart -> met : 1
+de taart met -> erdhuizen : 1
+taart met erdhuizen -> pro : 1
+met erdhuizen pro -> van : 1
+erdhuizen pro van -> kats : 1
+pro van kats -> rotterdam : 1
+van kats rotterdam -> moqueca : 1
+kats rotterdam moqueca -> de : 1
+rotterdam moqueca de -> peixe : 1
+de peixe verse -> koriander : 1
+peixe verse koriander -> en : 1
+verse koriander en -> verwarm : 1
+koriander en verwarm -> de : 1
+en verwarm de -> oven : 1
+en verwarm de -> de : 1
+voor op pers -> de : 1
+op pers de -> limoenen : 1
+pers de limoenen -> en : 1
+de limoenen en -> meng : 1
+limoenen en meng -> met : 1
+en meng met -> een : 1
+en meng met -> de : 1
+meng met een -> teen : 1
+met een teen -> knoflook : 1
+een teen knoflook -> uit : 1
+een teen knoflook -> heel : 1
+teen knoflook uit -> de : 1
+knoflook uit de -> blikken : 1
+knoflook uit de -> knijper : 1
+uit de blikken -> gepelde : 1
+de blikken gepelde -> bestrooi : 1
+blikken gepelde bestrooi -> de : 1
+gepelde bestrooi de -> vis : 1
+bestrooi de vis -> met : 1
+de vis met -> zout : 1
+vis met zout -> en : 1
+met zout en -> leg : 1
+met zout en -> bak : 1
+met zout en -> de : 1
+met zout en -> omwikkel : 1
+zout en leg -> de : 1
+en leg de -> vis : 1
+en leg de -> schorseneren : 1
+leg de vis -> op : 1
+de vis op -> een : 1
+vis op een -> bord : 1
+op een bord -> en : 1
+een bord en -> besprenkel : 1
+bord en besprenkel -> deze : 1
+en besprenkel deze -> met : 1
+besprenkel deze met -> groene : 1
+deze met groene -> en : 1
+met groene en -> gele : 1
+groene en gele -> limoensap : 1
+en gele limoensap -> en : 1
+gele limoensap en -> laat : 1
+limoensap en laat -> even : 1
+en laat even -> snijd : 1
+laat even snijd -> de : 1
+even snijd de -> uien : 1
+snijd de uien -> en : 1
+de uien en -> paprika : 1
+de uien en -> knoflook : 1
+uien en paprika -> en : 1
+en paprika en -> een : 1
+paprika en een -> teen : 1
+en een teen -> knoflook : 1
+teen knoflook heel -> en : 1
+knoflook heel en -> bak : 1
+heel en bak -> dit : 1
+en bak dit -> minuten : 1
+bak dit minuten -> in : 1
+dit minuten in -> wat : 1
+minuten in wat -> olie : 1
+in wat olie -> in : 1
+wat olie in -> een : 1
+olie in een -> ruime : 1
+olie in een -> voeg : 1
+in een ruime -> snijd : 1
+een ruime snijd -> de : 1
+ruime snijd de -> tomaten : 1
+snijd de tomaten -> en : 1
+de tomaten en -> tenen : 1
+tomaten en tenen -> voeg : 1
+en tenen voeg -> deze : 1
+tenen voeg deze -> toe : 1
+voeg deze toe -> aan : 1
+deze toe aan -> het : 1
+toe aan het -> voeg : 1
+aan het voeg -> de : 1
+het voeg de -> fijngesneden : 1
+het voeg de -> eieren : 1
+voeg de fijngesneden -> koriander : 1
+de fijngesneden koriander -> toe : 1
+fijngesneden koriander toe -> en : 1
+koriander toe en -> het : 1
+toe en het -> blok : 1
+en het blok -> santen : 1
+het blok santen -> fijner : 1
+blok santen fijner -> meng : 1
+santen fijner meng -> alles : 1
+fijner meng alles -> goed : 1
+meng alles goed -> op : 1
+alles goed op -> een : 1
+goed op een -> laag : 1
+een laag voeg -> de : 1
+laag voeg de -> garnalen : 1
+voeg de garnalen -> toe : 1
+de garnalen toe -> en : 1
+garnalen toe en -> verkruimel : 1
+toe en verkruimel -> het : 1
+en verkruimel het -> ruim : 1
+verkruimel het ruim -> een : 1
+het ruim een -> pond : 1
+ruim een pond -> stevige : 1
+een pond stevige -> verse : 1
+pond stevige verse -> voeg : 1
+stevige verse voeg -> eventueel : 1
+verse voeg eventueel -> wat : 1
+voeg eventueel wat -> water : 1
+eventueel wat water -> toe : 1
+wat water toe -> om : 1
+water toe om -> de : 1
+toe om de -> saus : 1
+om de saus -> niet : 1
+de saus niet -> te : 1
+saus niet te -> dik : 1
+niet te dik -> te : 1
+te dik te -> laten : 1
+dik te laten -> doe : 1
+te laten doe -> de : 1
+laten doe de -> helft : 1
+doe de helft -> van : 1
+de helft van -> de : 4
+de helft van -> het : 1
+helft van de -> saus : 1
+helft van de -> peterselie : 1
+helft van de -> hoeveelheid : 1
+helft van de -> de : 1
+van de saus -> in : 2
+van de saus -> bedek : 1
+van de saus -> utrecht : 1
+de saus in -> een : 1
+de saus in -> warme : 1
+saus in een -> leg : 1
+in een leg -> de : 1
+een leg de -> stukken : 1
+leg de stukken -> vis : 1
+leg de stukken -> kip : 1
+de stukken vis -> erop : 1
+stukken vis erop -> en : 1
+vis erop en -> dek : 1
+erop en dek -> het : 1
+en dek het -> af : 1
+dek het af -> met : 1
+af met de -> rest : 1
+met de rest -> van : 3
+van de blok -> santen : 1
+de blok santen -> zet : 1
+blok santen zet -> de : 1
+santen zet de -> schaal : 1
+zet de schaal -> in : 1
+de schaal in -> de : 1
+schaal in de -> oven : 1
+in de oven -> en : 1
+in de oven -> bij : 1
+in de oven -> haal : 1
+in de oven -> op : 1
+de oven en -> laat : 1
+oven en laat -> het : 1
+en laat het -> gedurende : 1
+en laat het -> op : 1
+laat het gedurende -> minuten : 1
+het gedurende minuten -> goed : 1
+gedurende minuten goed -> heet : 1
+minuten goed heet -> en : 1
+goed heet en -> gaar : 1
+heet en gaar -> gram : 1
+en gaar gram -> serveren : 1
+gaar gram serveren -> met : 1
+gram serveren met -> rijst : 1
+serveren met rijst -> en : 2
+met rijst en -> olie : 1
+met rijst en -> eet : 1
+rijst en olie -> voorkeur : 1
+en olie voorkeur -> visbouillonblokje : 1
+olie voorkeur visbouillonblokje -> salade : 1
+voorkeur visbouillonblokje salade -> met : 1
+visbouillonblokje salade met -> dressing : 1
+salade met dressing -> snijd : 1
+met dressing snijd -> de : 1
+dressing snijd de -> in : 1
+snijd de in -> kleine : 1
+de in kleine -> rooster : 1
+de in kleine -> puntjes : 1
+in kleine rooster -> de : 1
+kleine rooster de -> cashewnoten : 1
+rooster de cashewnoten -> in : 1
+de cashewnoten in -> droge : 1
+cashewnoten in droge -> doe : 1
+in droge doe -> de : 1
+droge doe de -> sla : 1
+doe de sla -> in : 1
+de sla in -> een : 1
+sla in een -> mooie : 1
+in een mooie -> slabak : 1
+een mooie slabak -> of : 1
+mooie slabak of -> verdeel : 1
+slabak of verdeel -> de : 1
+of verdeel de -> sla : 1
+verdeel de sla -> over : 1
+de sla over -> twee : 1
+sla over twee -> verdeel : 1
+over twee verdeel -> de : 1
+twee verdeel de -> en : 1
+verdeel de en -> cashewnoten : 1
+de en cashewnoten -> meng : 1
+en cashewnoten meng -> voor : 1
+cashewnoten meng voor -> de : 1
+meng voor de -> dressing : 1
+voor de dressing -> witte : 1
+voor de dressing -> met : 1
+de dressing witte -> eetlepels : 1
+dressing witte eetlepels -> theelepels : 1
+witte eetlepels theelepels -> keizer : 1
+eetlepels theelepels keizer -> medische : 1
+theelepels keizer medische -> zaken : 1
+keizer medische zaken -> leiden : 1
+medische zaken leiden -> grove : 1
+zaken leiden grove -> anderhalve : 1
+leiden grove anderhalve -> theelepel : 1
+grove anderhalve theelepel -> zout : 1
+anderhalve theelepel zout -> en : 1
+theelepel zout en -> peper : 1
+zout en peper -> naar : 4
+zout en peper -> stokbrood : 1
+zout en peper -> olie : 1
+en peper naar -> smaak : 2
+en peper naar -> eigen : 1
+en peper naar -> laat : 1
+peper naar smaak -> in : 1
+peper naar smaak -> wellen : 1
+naar smaak in -> een : 1
+smaak in een -> aparte : 1
+een aparte klop -> het : 1
+aparte klop het -> geheel : 1
+klop het geheel -> tot : 1
+het geheel tot -> een : 1
+het geheel tot -> de : 1
+geheel tot een -> mooie : 1
+tot een mooie -> gebonden : 1
+een mooie gebonden -> verdeel : 1
+mooie gebonden verdeel -> de : 1
+gebonden verdeel de -> dressing : 1
+verdeel de dressing -> over : 1
+de dressing over -> de : 1
+dressing over de -> een : 1
+over de een -> zakje : 1
+de een zakje -> gemengde : 1
+een zakje gemengde -> salade : 1
+zakje gemengde salade -> van : 1
+gemengde salade van -> de : 1
+salade van de -> met : 1
+van de met -> rucola : 1
+de met rucola -> of : 1
+met rucola of -> eikenblad : 1
+rucola of eikenblad -> serveer : 1
+of eikenblad serveer -> de : 1
+eikenblad serveer de -> salade : 1
+serveer de salade -> met : 1
+de salade met -> knapperig : 1
+salade met knapperig -> stokbrood : 1
+met knapperig stokbrood -> of : 1
+knapperig stokbrood of -> plakje : 1
+stokbrood of plakje -> van : 1
+of plakje van -> gram : 1
+plakje van gram -> blanc : 1
+van gram blanc -> zakje : 1
+gram blanc zakje -> drink : 1
+blanc zakje drink -> er : 1
+zakje drink er -> een : 1
+drink er een -> lekkere : 1
+er een lekkere -> droge : 1
+een lekkere droge -> witte : 1
+lekkere droge witte -> wijn : 1
+droge witte wijn -> gezouten : 1
+witte wijn gezouten -> cashewnoten : 1
+wijn gezouten cashewnoten -> witte : 1
+gezouten cashewnoten witte -> wijnazijn : 1
+cashewnoten witte wijnazijn -> honing : 1
+witte wijnazijn honing -> grove : 1
+wijnazijn honing grove -> mosterd : 1
+honing grove mosterd -> zout : 1
+grove mosterd zout -> en : 1
+mosterd zout en -> peper : 1
+en peper stokbrood -> of : 1
+peper stokbrood of -> kipfilet : 1
+stokbrood of kipfilet -> met : 1
+of kipfilet met -> bakplaatappeltaart : 1
+kipfilet met bakplaatappeltaart -> pasta : 1
+met bakplaatappeltaart pasta -> met : 1
+bakplaatappeltaart pasta met -> verse : 1
+verse tomaat chilli -> chicken : 1
+tomaat chilli chicken -> tomatenroomsaus : 1
+chilli chicken tomatenroomsaus -> en : 1
+chicken tomatenroomsaus en -> mozzarella : 1
+tomatenroomsaus en mozzarella -> gram : 1
+en mozzarella gram -> spaghetti : 1
+mozzarella gram spaghetti -> flinke : 1
+gram spaghetti flinke -> handen : 1
+spaghetti flinke handen -> verse : 1
+flinke handen verse -> basilicum : 1
+handen verse basilicum -> gram : 1
+verse basilicum gram -> de : 1
+basilicum gram de -> fijter : 1
+gram de fijter -> van : 1
+de fijter van -> de : 1
+fijter van de -> sectie : 1
+van de sectie -> niertransplantatie : 1
+de sectie niertransplantatie -> en : 1
+sectie niertransplantatie en -> personen : 1
+niertransplantatie en personen -> rijpe : 1
+en personen rijpe -> het : 1
+personen rijpe het -> liefst : 1
+rijpe het liefst -> in : 1
+het liefst in -> verschillende : 1
+liefst in verschillende -> kleuren : 1
+in verschillende kleuren -> eetlepels : 1
+verschillende kleuren eetlepels -> plaatsvervangend : 1
+kleuren eetlepels plaatsvervangend -> afdelingshoofd : 1
+eetlepels plaatsvervangend afdelingshoofd -> van : 1
+plaatsvervangend afdelingshoofd van -> de : 1
+afdelingshoofd van de -> afdeling : 1
+van de afdeling -> nierziekten : 1
+de afdeling nierziekten -> leiden : 1
+afdeling nierziekten leiden -> kipfilets : 1
+nierziekten leiden kipfilets -> teentjes : 1
+leiden kipfilets teentjes -> knoflook : 1
+kipfilets teentjes knoflook -> kleine : 1
+teentjes knoflook kleine -> uien : 1
+knoflook kleine uien -> theelepels : 1
+kleine uien theelepels -> oregano : 1
+uien theelepels oregano -> van : 1
+theelepels oregano van -> leeuwen : 1
+oregano van leeuwen -> nierstichting : 1
+van leeuwen nierstichting -> bussum : 1
+leeuwen nierstichting bussum -> extra : 1
+nierstichting bussum extra -> vergine : 1
+bussum extra vergine -> olijfolie : 1
+extra vergine olijfolie -> tenen : 1
+vergine olijfolie tenen -> knoflook : 1
+olijfolie tenen knoflook -> uit : 1
+tenen knoflook uit -> de : 1
+uit de knijper -> ui : 1
+de knijper ui -> zout : 1
+knijper ui zout -> en : 1
+ui zout en -> of : 1
+zout en of -> kruiden : 1
+en of kruiden -> gepelde : 1
+of kruiden gepelde -> tomaten : 1
+kruiden gepelde tomaten -> of : 1
+gepelde tomaten of -> tomaatstukjes : 1
+tomaten of tomaatstukjes -> verse : 1
+of tomaatstukjes verse -> peper : 1
+tomaatstukjes verse peper -> bol : 1
+verse peper bol -> in : 1
+peper bol in -> tomatensaus : 1
+bol in tomatensaus -> room : 1
+in tomatensaus room -> culinair : 1
+tomatensaus room culinair -> peper : 1
+room culinair peper -> en : 1
+culinair peper en -> zout : 1
+en zout olijfolie -> en : 1
+zout olijfolie en -> personen : 1
+olijfolie en personen -> gram : 1
+en personen gram -> scharrelkipfilet : 1
+personen gram scharrelkipfilet -> in : 1
+gram scharrelkipfilet in -> lange : 1
+scharrelkipfilet in lange -> dunne : 1
+in lange dunne -> repen : 1
+lange dunne repen -> eetlepel : 1
+dunne repen eetlepel -> olijfolie : 1
+repen eetlepel olijfolie -> krop : 1
+eetlepel olijfolie krop -> gram : 1
+olijfolie krop gram -> bloem : 1
+krop gram bloem -> gram : 1
+gram bloem gram -> roomboter : 1
+bloem gram roomboter -> gram : 1
+gram roomboter gram -> suiker : 1
+roomboter gram suiker -> eieren : 1
+gram suiker eieren -> schoongemaakte : 1
+suiker eieren schoongemaakte -> romeinse : 1
+eieren schoongemaakte romeinse -> sla : 1
+schoongemaakte romeinse sla -> in : 1
+romeinse sla in -> plakjes : 1
+sla in plakjes -> gesneden : 1
+in plakjes gesneden -> en : 1
+plakjes gesneden en -> met : 1
+gesneden en met -> citroen : 1
+en met citroen -> gram : 1
+met citroen gram -> rozijnen : 1
+citroen gram rozijnen -> kilo : 1
+gram rozijnen kilo -> appels : 1
+rozijnen kilo appels -> of : 1
+kilo appels of -> kaneel : 1
+appels of kaneel -> zet : 1
+of kaneel zet -> een : 1
+kaneel zet een -> grote : 1
+zet een grote -> pan : 1
+een grote pan -> met : 3
+een grote pan -> water : 1
+grote pan met -> ruim : 1
+grote pan met -> met : 1
+grote pan met -> deksel : 1
+pan met ruim -> water : 2
+met ruim water -> en : 2
+ruim water en -> wat : 2
+water en wat -> zout : 1
+water en wat -> giet : 1
+en wat zout -> op : 1
+wat zout op -> en : 1
+zout op en -> kook : 1
+op en kook -> de : 1
+kook de besprenkelde -> gram : 1
+de besprenkelde gram -> honey : 1
+besprenkelde gram honey -> roasted : 1
+gram honey roasted -> pecans : 1
+honey roasted pecans -> bakje : 1
+roasted pecans bakje -> tuinkers : 1
+pecans bakje tuinkers -> en : 1
+bakje tuinkers en -> suiker : 1
+tuinkers en suiker -> custardpoeder : 1
+en suiker custardpoeder -> bitterkoekjes : 1
+suiker custardpoeder bitterkoekjes -> amaretto : 1
+custardpoeder bitterkoekjes amaretto -> witbrood : 1
+bitterkoekjes amaretto witbrood -> voor : 1
+amaretto witbrood voor -> de : 1
+witbrood voor de -> pel : 1
+voor de pel -> de : 1
+de pel de -> uien : 1
+pel de uien -> en : 1
+uien en knoflook -> en : 1
+en knoflook en -> snipper : 1
+knoflook en snipper -> verhit : 1
+en snipper verhit -> de : 1
+snipper verhit de -> olie : 1
+verhit de olie -> en : 1
+verhit de olie -> in : 2
+de olie en -> de : 1
+olie en de -> boter : 1
+en de boter -> in : 1
+de boter in -> hak : 1
+boter in hak -> de : 1
+in hak de -> ui : 1
+in hak de -> knoflook : 1
+hak de ui -> en : 1
+de ui en -> knoflook : 2
+de ui en -> de : 2
+ui en knoflook -> fijn : 1
+ui en knoflook -> bestrooi : 1
+en knoflook fijn -> en : 1
+knoflook fijn en -> snijd : 1
+fijn en snijd -> de : 1
+en snijd de -> mozzarella : 1
+snijd de mozzarella -> en : 1
+de mozzarella en -> basilicum : 1
+mozzarella en basilicum -> de : 1
+en basilicum de -> eetlepels : 1
+basilicum de eetlepels -> gedroogde : 1
+de eetlepels gedroogde -> rozemarijnnaaldjes : 1
+eetlepels gedroogde rozemarijnnaaldjes -> een : 1
+gedroogde rozemarijnnaaldjes een -> fruit : 1
+rozemarijnnaaldjes een fruit -> de : 1
+een fruit de -> ui : 1
+fruit de ui -> en : 1
+en knoflook bestrooi -> ondertussen : 1
+knoflook bestrooi ondertussen -> in : 1
+bestrooi ondertussen in -> giet : 1
+ondertussen in giet -> een : 1
+in giet een -> scheut : 1
+giet een scheut -> olijfolie : 1
+een scheut olijfolie -> in : 1
+scheut olijfolie in -> een : 1
+in een pan -> en : 2
+in een pan -> met : 1
+een pan en -> bak : 1
+een pan en -> verwarm : 1
+pan en bak -> de : 1
+bak de ui -> en : 1
+bak de ui -> in : 1
+bak de ui -> met : 1
+ui en de -> theelepels : 1
+ui en de -> maak : 1
+en de theelepels -> gedroogde : 1
+de theelepels gedroogde -> tijm : 1
+theelepels gedroogde tijm -> eetlepels : 1
+gedroogde tijm eetlepels -> milde : 1
+tijm eetlepels milde -> paprikapoeder : 1
+eetlepels milde paprikapoeder -> eetlepel : 1
+milde paprikapoeder eetlepel -> de : 1
+paprikapoeder eetlepel de -> kipfilet : 1
+eetlepel de kipfilet -> met : 1
+de kipfilet met -> zout : 1
+kipfilet met zout -> en : 1
+zout en bak -> de : 1
+bak de kipfilet -> ongeveer : 1
+bak de kipfilet -> in : 1
+de kipfilet ongeveer -> bekleed : 1
+kipfilet ongeveer bekleed -> de : 1
+ongeveer bekleed de -> grote : 1
+bekleed de grote -> bakplaat : 1
+de grote bakplaat -> van : 1
+grote bakplaat van -> de : 1
+bakplaat van de -> oven : 1
+van de oven -> met : 1
+de oven met -> halveer : 1
+oven met halveer -> de : 1
+met halveer de -> tomaatjes : 1
+halveer de tomaatjes -> en : 1
+de tomaatjes en -> voeg : 1
+tomaatjes en voeg -> deze : 1
+en voeg deze -> voeg : 1
+voeg deze voeg -> ruim : 1
+deze voeg ruim -> peper : 1
+voeg ruim peper -> cayennepeper : 1
+ruim peper cayennepeper -> of : 1
+peper cayennepeper of -> chilipoeder : 1
+cayennepeper of chilipoeder -> eetlepel : 1
+of chilipoeder eetlepel -> bruine : 1
+chilipoeder eetlepel bruine -> basterdsuiker : 1
+eetlepel bruine basterdsuiker -> eetlepel : 1
+bruine basterdsuiker eetlepel -> voeg : 1
+basterdsuiker eetlepel voeg -> de : 1
+eetlepel voeg de -> tomaatstukjes : 1
+voeg de tomaatstukjes -> met : 1
+de tomaatstukjes met -> tomatensaus : 1
+tomaatstukjes met tomatensaus -> en : 1
+met tomatensaus en -> de : 1
+tomatensaus en de -> kruiden : 1
+en de kruiden -> laat : 1
+de kruiden laat -> het : 1
+kruiden laat het -> de : 1
+laat het de -> bitterkoekjes : 1
+het de bitterkoekjes -> verkruimelen : 1
+de bitterkoekjes verkruimelen -> en : 1
+bitterkoekjes verkruimelen en -> samen : 1
+verkruimelen en samen -> met : 1
+en samen met -> de : 1
+samen met de -> rozijnen : 1
+samen met de -> resterende : 1
+met de rozijnen -> circa : 1
+de rozijnen circa -> uur : 1
+rozijnen circa uur -> en : 1
+circa uur en -> zout : 1
+uur en zout -> de : 1
+en zout de -> basilicumblaadjes : 1
+zout de basilicumblaadjes -> en : 1
+de basilicumblaadjes en -> roer : 1
+basilicumblaadjes en roer -> goed : 1
+en roer goed -> door : 2
+roer goed door -> grof : 1
+roer goed door -> eetlepels : 1
+goed door grof -> geheel : 1
+door grof geheel -> circa : 1
+grof geheel circa -> minuten : 1
+geheel circa minuten -> voeg : 1
+circa minuten voeg -> zout : 1
+minuten voeg zout -> en : 1
+voeg zout en -> peper : 1
+naar smaak wellen -> in : 1
+smaak wellen in -> lekker : 1
+wellen in lekker -> veel : 1
+in lekker veel -> verwarm : 1
+lekker veel verwarm -> de : 1
+veel verwarm de -> oven : 1
+voor op giet -> de : 1
+op giet de -> pasta : 1
+giet de pasta -> af : 1
+de pasta af -> en : 1
+pasta af en -> roer : 1
+af en roer -> hier : 1
+en roer hier -> het : 1
+roer hier het -> tomaatmengsel : 1
+hier het tomaatmengsel -> giet : 1
+het tomaatmengsel giet -> nog : 1
+tomaatmengsel giet nog -> een : 1
+giet nog een -> de : 1
+nog een de -> eetlepel : 1
+een de eetlepel -> milde : 1
+de eetlepel milde -> olijfolie : 1
+eetlepel milde olijfolie -> eetlepel : 1
+milde olijfolie eetlepel -> appelazijn : 1
+olijfolie eetlepel appelazijn -> voeg : 1
+eetlepel appelazijn voeg -> de : 1
+appelazijn voeg de -> room : 1
+voeg de room -> culinair : 1
+de room culinair -> toe : 1
+room culinair toe -> en : 1
+culinair toe en -> warm : 1
+toe en warm -> even : 1
+en warm even -> goed : 1
+en warm even -> doe : 1
+warm even goed -> schil : 1
+even goed schil -> de : 1
+goed schil de -> snijd : 1
+schil de snijd -> in : 1
+de snijd in -> reepjes : 1
+snijd in reepjes -> en : 1
+in reepjes en -> strooi : 1
+reepjes en strooi -> daar : 1
+en strooi daar -> de : 1
+strooi daar de -> kaneel : 1
+daar de kaneel -> en : 1
+de kaneel en -> de : 1
+kaneel en de -> suiker : 1
+en de suiker -> scheut : 1
+de suiker scheut -> olijfolie : 1
+suiker scheut olijfolie -> toe : 1
+scheut olijfolie toe -> en : 1
+olijfolie toe en -> verdeel : 1
+toe en verdeel -> de : 1
+verdeel de mozzarella -> puntje : 1
+de mozzarella puntje -> danish : 1
+mozzarella puntje danish -> blue : 1
+puntje danish blue -> zout : 1
+danish blue zout -> dien : 1
+blue zout dien -> zo : 1
+zout dien zo -> heet : 1
+dien zo heet -> mogelijk : 1
+zo heet mogelijk -> een : 1
+heet mogelijk een -> grillpan : 1
+mogelijk een grillpan -> lekker : 1
+een grillpan lekker -> met : 1
+grillpan lekker met -> gekookte : 1
+lekker met gekookte -> aardappelen : 1
+met gekookte aardappelen -> of : 1
+gekookte aardappelen of -> diverse : 1
+aardappelen of diverse -> soorten : 1
+of diverse soorten -> rijst : 1
+diverse soorten rijst -> en : 1
+soorten rijst en -> maak : 1
+rijst en maak -> een : 1
+en maak een -> deeg : 1
+en maak een -> kuiltje : 1
+maak een deeg -> van : 1
+een deeg van -> suiker : 1
+deeg van suiker -> en : 1
+van suiker en -> goed : 1
+suiker en goed -> lekker : 1
+en goed lekker -> met : 1
+goed lekker met -> een : 1
+lekker met een -> glas : 1
+lekker met een -> salade : 1
+met een glas -> witte : 1
+een glas witte -> druk : 1
+glas witte druk -> het : 1
+witte druk het -> deeg : 1
+druk het deeg -> op : 1
+het deeg op -> het : 1
+deeg op het -> bakpapier : 1
+op het bakpapier -> van : 1
+het bakpapier van -> de : 1
+bakpapier van de -> bakplaat : 1
+van de bakplaat -> met : 1
+de bakplaat met -> klein : 1
+de bakplaat met -> ongeveer : 1
+bakplaat met klein -> opstaand : 1
+met klein opstaand -> roer : 1
+klein opstaand roer -> de : 1
+opstaand roer de -> olijfolie : 1
+roer de olijfolie -> door : 1
+de olijfolie door -> de : 1
+olijfolie door de -> repen : 1
+door de repen -> wrijf : 1
+de repen wrijf -> de : 1
+repen wrijf de -> voor : 1
+wrijf de voor -> de : 1
+de voor de -> rub : 1
+voor de rub -> fijn : 1
+de rub fijn -> bewaar : 1
+rub fijn bewaar -> een : 1
+fijn bewaar een -> deel : 1
+bewaar een deel -> van : 1
+een deel van -> het : 1
+een deel van -> de : 1
+deel van het -> deeg : 1
+van het deeg -> voor : 1
+het deeg voor -> de : 1
+deeg voor de -> in : 1
+voor de in -> een : 1
+de in een -> vijzel : 1
+in een vijzel -> en : 1
+in een vijzel -> of : 1
+een vijzel en -> meng : 1
+vijzel en meng -> met : 1
+meng met de -> laat : 1
+met de laat -> minuten : 1
+de laat minuten -> marineren : 1
+laat minuten marineren -> in : 1
+minuten marineren in -> de : 1
+marineren in de -> koelstrooi : 1
+in de koelstrooi -> over : 1
+de koelstrooi over -> het : 1
+koelstrooi over het -> deeg : 1
+over het deeg -> wat : 1
+het deeg wat -> custardpoeder : 1
+deeg wat custardpoeder -> neemt : 1
+wat custardpoeder neemt -> het : 1
+custardpoeder neemt het -> overtollige : 1
+neemt het overtollige -> meng : 1
+het overtollige meng -> de : 1
+overtollige meng de -> sla : 1
+meng de sla -> met : 1
+de sla met -> de : 1
+sla met de -> de : 1
+met de de -> pecannoten : 1
+met de de -> opmaak : 1
+de de pecannoten -> en : 1
+de pecannoten en -> de : 1
+pecannoten en de -> meng : 1
+en de meng -> de : 1
+de meng de -> vocht : 1
+meng de vocht -> voor : 1
+de vocht voor -> de : 1
+vocht voor de -> dressing : 1
+de dressing met -> een : 1
+dressing met een -> staafmixer : 1
+met een staafmixer -> of : 1
+een staafmixer of -> in : 1
+staafmixer of in -> de : 1
+of in de -> keukenmachine : 1
+de keukenmachine schep -> de : 1
+keukenmachine schep de -> appels : 1
+schep de appels -> over : 1
+de appels over -> het : 1
+appels over het -> tot : 1
+over het tot -> een : 1
+het tot een -> romige : 1
+tot een romige -> dressing : 1
+tot een romige -> doe : 1
+een romige dressing -> en : 1
+romige dressing en -> meng : 1
+dressing en meng -> voorzichtig : 1
+en meng voorzichtig -> door : 1
+meng voorzichtig door -> de : 1
+voorzichtig door de -> verdeel : 1
+door de verdeel -> over : 1
+de verdeel over -> de : 1
+verdeel over de -> appels : 1
+over de appels -> het : 1
+de appels het -> snij : 1
+appels het snij -> voor : 1
+het snij voor -> de : 1
+snij voor de -> croutons : 1
+voor de croutons -> een : 1
+de croutons een -> paar : 1
+croutons een paar -> sneetjes : 1
+een paar sneetjes -> witbrood : 1
+paar sneetjes witbrood -> zonder : 1
+sneetjes witbrood zonder -> korst : 1
+witbrood zonder korst -> in : 1
+zonder korst in -> van : 1
+korst in van -> zon : 1
+in van zon -> versier : 1
+van zon versier -> met : 1
+zon versier met -> het : 1
+versier met het -> overgebleven : 1
+met het overgebleven -> deeg : 1
+het overgebleven deeg -> de : 1
+overgebleven deeg de -> kluts : 1
+deeg de kluts -> het : 1
+de kluts het -> derde : 1
+kluts het derde -> ei : 1
+het derde ei -> en : 1
+derde ei en -> bestrijk : 1
+ei en bestrijk -> met : 1
+en bestrijk met -> olie : 1
+bestrijk met olie -> en : 1
+met olie en -> zet : 1
+olie en zet -> een : 1
+en zet een -> minuut : 1
+zet een minuut -> of : 1
+een minuut of -> acht : 1
+minuut of acht -> in : 1
+of acht in -> een : 1
+acht in een -> hete : 1
+een hete oven -> donatiefunctionaris : 1
+hete oven donatiefunctionaris -> elisabeth : 1
+oven donatiefunctionaris elisabeth -> tilburg : 1
+donatiefunctionaris elisabeth tilburg -> bestrijk : 1
+elisabeth tilburg bestrijk -> de : 1
+tilburg bestrijk de -> versiering : 1
+bestrijk de versiering -> verhit : 1
+de versiering verhit -> een : 1
+versiering verhit een -> pan : 1
+verhit een pan -> of : 1
+een pan of -> grillpan : 1
+pan of grillpan -> op : 1
+of grillpan op -> hoog : 1
+grillpan op hoog -> vuur : 1
+op hoog vuur -> en : 1
+hoog vuur en -> grill : 1
+vuur en grill -> de : 1
+en grill de -> repen : 1
+grill de repen -> kip : 1
+de repen kip -> aan : 1
+repen kip aan -> elke : 1
+kip aan elke -> de : 1
+aan elke de -> taart : 1
+elke de taart -> is : 1
+de taart is -> zeer : 1
+de taart is -> lekker : 1
+taart is zeer -> geschikt : 1
+is zeer geschikt -> om : 1
+zeer geschikt om -> uit : 1
+geschikt om uit -> te : 1
+om uit te -> delen : 1
+uit te delen -> onder : 1
+te delen onder -> als : 1
+delen onder als -> je : 1
+onder als je -> jarig : 1
+als je jarig -> schep : 1
+je jarig schep -> op : 1
+jarig schep op -> de : 1
+schep op de -> garneer : 1
+op de garneer -> met : 1
+de garneer met -> croutons : 1
+de garneer met -> het : 1
+garneer met croutons -> en : 1
+met croutons en -> serveer : 1
+croutons en serveer -> met : 1
+en serveer met -> een : 1
+met een lekker -> koud : 1
+een lekker koud -> wij : 1
+lekker koud wij -> smullen : 1
+koud wij smullen -> er : 1
+wij smullen er -> in : 1
+smullen er in -> ieder : 1
+er in ieder -> geval : 1
+in ieder geval -> altijd : 1
+ieder geval altijd -> enorm : 1
+geval altijd enorm -> homan : 1
+altijd enorm homan -> van : 1
+enorm homan van -> der : 1
+homan van der -> heide : 1
+van der heide -> academisch : 1
+der heide academisch -> ziekenhuis : 1
+heide academisch ziekenhuis -> groningen : 1
+academisch ziekenhuis groningen -> glas : 1
+academisch ziekenhuis groningen -> rijstrol : 1
+ziekenhuis groningen glas -> witte : 1
+groningen glas witte -> wijn : 1
+glas witte wijn -> of : 1
+witte wijn of -> spaghetti : 1
+wijn of spaghetti -> met : 1
+of spaghetti met -> caribische : 1
+spaghetti met caribische -> kip : 1
+met caribische kip -> krab : 1
+caribische kip krab -> en : 1
+kip krab en -> gerookte : 1
+en gerookte kilo -> kipkarbonade : 1
+gerookte kilo kipkarbonade -> ml : 1
+kilo kipkarbonade ml -> zoete : 1
+kipkarbonade ml zoete -> grote : 1
+ml zoete grote -> fijngesnipperde : 1
+zoete grote fijngesnipperde -> theelepel : 1
+grote fijngesnipperde theelepel -> theelepel : 1
+fijngesnipperde theelepel theelepel -> theelepel : 1
+theelepel theelepel theelepel -> theelepel : 1
+theelepel theelepel theelepel -> sambal : 1
+theelepel theelepel sambal -> naar : 1
+theelepel sambal naar -> theelepel : 1
+sambal naar theelepel -> bruine : 1
+naar theelepel bruine -> eetlepels : 1
+theelepel bruine eetlepels -> fijngeperste : 1
+bruine eetlepels fijngeperste -> tenen : 1
+eetlepels fijngeperste tenen -> scheutje : 1
+fijngeperste tenen scheutje -> medium : 1
+tenen scheutje medium -> dry : 1
+scheutje medium dry -> meng : 1
+medium dry meng -> de : 1
+dry meng de -> marinade : 1
+meng de marinade -> zoals : 1
+de marinade zoals -> hierboven : 1
+marinade zoals hierboven -> behalve : 1
+zoals hierboven behalve -> de : 1
+hierboven behalve de -> leg : 1
+behalve de leg -> de : 1
+de leg de -> stukken : 1
+de leg de -> fazanten : 1
+de stukken kip -> in : 1
+stukken kip in -> een : 1
+kip in een -> schenk : 1
+in een schenk -> hierover : 1
+een schenk hierover -> de : 1
+schenk hierover de -> dek : 1
+hierover de dek -> de : 1
+de dek de -> schaal : 1
+dek de schaal -> af : 2
+de schaal af -> met : 2
+schaal af met -> aluminiumfolie : 1
+schaal af met -> laat : 1
+af met aluminiumfolie -> en : 1
+met aluminiumfolie en -> laat : 1
+aluminiumfolie en laat -> deze : 1
+en laat deze -> tot : 1
+en laat deze -> minuten : 1
+laat deze tot -> uur : 1
+deze tot uur -> in : 2
+tot uur in -> de : 1
+tot uur in -> het : 1
+uur in de -> koelkast : 1
+in de koelkast -> wel : 1
+in de koelkast -> stijf : 1
+in de koelkast -> stort : 1
+de koelkast wel -> regelmatig : 1
+koelkast wel regelmatig -> de : 1
+wel regelmatig de -> kip : 1
+regelmatig de kip -> gram : 1
+de kip gram -> spaghetti : 1
+kip gram spaghetti -> gram : 1
+gram spaghetti gram -> roze : 1
+spaghetti gram roze -> garnalen : 1
+gram roze garnalen -> blikje : 1
+roze garnalen blikje -> krab : 1
+garnalen blikje krab -> of : 1
+blikje krab of -> gram : 1
+krab of gram -> surimisticks : 1
+of gram surimisticks -> gram : 1
+gram surimisticks gram -> zet : 1
+surimisticks gram zet -> de : 1
+gram zet de -> met : 1
+zet de met -> aluminiumfolie : 1
+de met aluminiumfolie -> afgedekte : 1
+met aluminiumfolie afgedekte -> gerookte : 1
+aluminiumfolie afgedekte gerookte -> zalm : 1
+afgedekte gerookte zalm -> bosje : 1
+gerookte zalm bosje -> verse : 1
+zalm bosje verse -> peterselie : 1
+bosje verse peterselie -> tenen : 1
+verse peterselie tenen -> schaal : 1
+peterselie tenen schaal -> in : 1
+tenen schaal in -> een : 1
+schaal in een -> voorverwarmde : 1
+in een voorverwarmde -> oven : 2
+een voorverwarmde oven -> knoflook : 1
+een voorverwarmde oven -> in : 1
+voorverwarmde oven knoflook -> ui : 1
+oven knoflook ui -> peper : 1
+knoflook ui peper -> uit : 1
+ui peper uit -> de : 1
+peper uit de -> molen : 1
+uit de molen -> glas : 1
+de molen glas -> droge : 1
+molen glas droge -> gedurende : 1
+glas droge gedurende -> daarna : 1
+droge gedurende daarna -> nog : 1
+gedurende daarna nog -> witte : 1
+daarna nog witte -> wijn : 1
+nog witte wijn -> olijfolie : 1
+witte wijn olijfolie -> ongepelde : 1
+wijn olijfolie ongepelde -> gekookte : 1
+olijfolie ongepelde gekookte -> minuten : 1
+ongepelde gekookte minuten -> zonder : 1
+gekookte minuten zonder -> de : 1
+minuten zonder de -> zodat : 1
+zonder de zodat -> er : 1
+de zodat er -> een : 1
+zodat er een -> bruin : 1
+er een bruin -> korstje : 1
+een bruin korstje -> serveren : 1
+bruin korstje serveren -> met : 1
+korstje serveren met -> rijst : 1
+rijst en eet -> busato : 1
+en eet busato -> leiden : 1
+eet busato leiden -> verwarm : 1
+busato leiden verwarm -> vier : 1
+leiden verwarm vier -> borden : 1
+verwarm vier borden -> voor : 1
+vier borden voor -> in : 1
+borden voor in -> de : 1
+voor in de -> oven : 1
+voor in de -> keuken : 1
+de oven bij -> een : 1
+oven bij een -> lage : 1
+bij een lage -> laat : 1
+een lage laat -> het : 1
+lage laat het -> blikje : 1
+laat het blikje -> krab : 1
+het blikje krab -> uitlekken : 1
+blikje krab uitlekken -> en : 1
+krab uitlekken en -> bewaar : 1
+uitlekken en bewaar -> het : 1
+uitlekken en bewaar -> tot : 1
+en bewaar het -> vocht : 1
+bewaar het vocht -> of : 1
+het vocht of -> snijd : 1
+vocht of snijd -> de : 1
+of snijd de -> surimisticks : 1
+snijd de surimisticks -> in : 1
+de surimisticks in -> snijd : 1
+surimisticks in snijd -> ook : 1
+in snijd ook -> de : 1
+snijd ook de -> zalm : 1
+ook de zalm -> in : 1
+de zalm in -> hak : 1
+zalm in hak -> de : 1
+knoflook en ui -> heel : 1
+en ui heel -> bak : 1
+ui heel bak -> de : 1
+heel bak de -> ui : 1
+de ui in -> een : 1
+in een hapjespan -> in : 1
+een hapjespan in -> wat : 1
+hapjespan in wat -> olijfolie : 1
+in wat olijfolie -> totdat : 1
+wat olijfolie totdat -> deze : 1
+olijfolie totdat deze -> begint : 1
+totdat deze begint -> te : 1
+deze begint te -> voeg : 1
+begint te voeg -> de : 1
+te voeg de -> knoflook : 1
+voeg de knoflook -> en : 1
+en de helft -> van : 1
+van de peterselie -> roer : 1
+de peterselie roer -> even : 1
+peterselie roer even -> door : 1
+roer even door -> elkaar : 1
+even door elkaar -> en : 1
+door elkaar en -> voeg : 1
+elkaar en voeg -> vervolgens : 1
+en voeg vervolgens -> de : 1
+voeg vervolgens de -> vis : 1
+vervolgens de vis -> schep : 1
+de vis schep -> even : 1
+vis schep even -> om : 1
+schep even om -> en : 1
+even om en -> maal : 1
+om en maal -> er : 1
+en maal er -> flink : 1
+maal er flink -> wat : 1
+er flink wat -> peper : 1
+flink wat peper -> voeg : 1
+wat peper voeg -> de : 1
+peper voeg de -> witte : 1
+voeg de witte -> wijn : 1
+de witte wijn -> toe : 1
+witte wijn toe -> het : 1
+wijn toe het -> vocht : 1
+toe het vocht -> uit : 1
+het vocht uit -> het : 1
+vocht uit het -> blikje : 1
+uit het blikje -> en : 1
+het blikje en -> eventueel : 1
+blikje en eventueel -> een : 1
+en eventueel een -> klein : 1
+eventueel een klein -> beetje : 1
+klein beetje kook -> ondertussen : 1
+beetje kook ondertussen -> de : 1
+kook ondertussen de -> spaghetti : 1
+ondertussen de spaghetti -> al : 1
+de spaghetti al -> dente : 1
+spaghetti al dente -> in : 1
+al dente in -> een : 1
+dente in een -> pan : 1
+een pan met -> ruim : 1
+een pan met -> een : 1
+en wat giet -> af : 1
+wat giet af -> en : 1
+giet af en -> voeg : 1
+af en voeg -> de : 1
+voeg de spaghetti -> toe : 1
+de spaghetti toe -> aan : 1
+spaghetti toe aan -> de : 1
+toe aan de -> roer : 1
+toe aan de -> saus : 1
+aan de roer -> alles : 1
+de roer alles -> goed : 1
+roer alles goed -> door : 2
+alles goed door -> elkaar : 1
+alles goed door -> theelepels : 1
+goed door elkaar -> op : 1
+door elkaar op -> hoog : 1
+elkaar op hoog -> samen : 1
+op hoog samen -> met : 1
+hoog samen met -> de : 1
+met de resterende -> peterselie : 1
+de resterende peterselie -> en : 1
+resterende peterselie en -> een : 1
+peterselie en een -> flinke : 1
+en een flinke -> scheut : 1
+een flinke scheut -> goede : 1
+flinke scheut goede -> warm : 1
+scheut goede warm -> de : 1
+goede warm de -> ongepelde : 1
+warm de ongepelde -> gekookte : 1
+de ongepelde gekookte -> garnalen : 1
+ongepelde gekookte garnalen -> even : 1
+gekookte garnalen even -> dien : 1
+garnalen even dien -> het : 1
+even dien het -> gerecht : 1
+dien het gerecht -> direct : 1
+het gerecht direct -> op : 1
+gerecht direct op -> op : 1
+direct op op -> voorverwarmde : 1
+op op voorverwarmde -> leg : 1
+op voorverwarmde leg -> de : 1
+voorverwarmde leg de -> ongepelde : 1
+leg de ongepelde -> garnalen : 1
+de ongepelde garnalen -> van : 1
+ongepelde garnalen van -> wezel : 1
+garnalen van wezel -> donorwerving : 1
+van wezel donorwerving -> leiden : 1
+wezel donorwerving leiden -> dit : 1
+donorwerving leiden dit -> gerecht : 1
+leiden dit gerecht -> is : 1
+met een salade -> van : 1
+een salade van -> rucola : 1
+salade van rucola -> en : 1
+van rucola en -> lempers : 1
+rucola en lempers -> gram : 1
+en lempers gram -> rundergehakt : 1
+lempers gram rundergehakt -> grote : 1
+gram rundergehakt grote -> en : 1
+rundergehakt grote en -> kleine : 1
+grote en kleine -> ui : 1
+en kleine ui -> kilo : 1
+kleine ui kilo -> ketan : 1
+ui kilo ketan -> gram : 1
+kilo ketan gram -> geraspte : 1
+ketan gram geraspte -> kokos : 1
+gram geraspte kokos -> teentjes : 1
+geraspte kokos teentjes -> knoflook : 1
+kokos teentjes knoflook -> theelepels : 1
+teentjes knoflook theelepels -> ketoembar : 1
+knoflook theelepels ketoembar -> kemirienoten : 1
+theelepels ketoembar kemirienoten -> theelepels : 1
+ketoembar kemirienoten theelepels -> koenjit : 1
+kemirienoten theelepels koenjit -> sereh : 1
+theelepels koenjit sereh -> en : 1
+koenjit sereh en -> laos : 1
+sereh en laos -> vers : 1
+en laos vers -> van : 1
+laos vers van -> de : 1
+vers van de -> zout : 1
+van de zout -> peter : 1
+de zout peter -> van : 1
+zout peter van -> hal : 1
+peter van hal -> erasmus : 1
+van hal erasmus -> rotterdam : 1
+hal erasmus rotterdam -> was : 1
+erasmus rotterdam was -> de : 1
+rotterdam was de -> ketan : 1
+was de ketan -> en : 1
+de ketan en -> laat : 1
+ketan en laat -> deze : 1
+laat deze minuten -> onder : 1
+deze minuten onder -> water : 1
+minuten onder water -> laat : 1
+onder water laat -> de : 1
+water laat de -> ketan : 1
+laat de ketan -> uitlekken : 1
+de ketan uitlekken -> in : 1
+ketan uitlekken in -> een : 1
+uitlekken in een -> verwarm : 1
+in een verwarm -> een : 1
+een verwarm een -> derde : 1
+verwarm een derde -> deel : 1
+een derde deel -> van : 1
+derde deel van -> de : 1
+deel van de -> kokos : 1
+deel van de -> leg : 1
+van de kokos -> in : 1
+de kokos in -> een : 1
+kokos in een -> deciliter : 1
+in een deciliter -> water : 1
+een deciliter water -> en : 1
+deciliter water en -> knijp : 1
+water en knijp -> de : 1
+en knijp de -> kokos : 1
+knijp de kokos -> bewaar : 1
+de kokos bewaar -> het : 1
+kokos bewaar het -> dit : 1
+bewaar het dit -> is : 1
+het dit is -> de : 1
+dit is de -> vorm : 1
+is de vorm -> de : 1
+de vorm de -> lempers : 1
+vorm de lempers -> door : 1
+de lempers door -> een : 1
+lempers door een -> klein : 1
+door een klein -> handje : 1
+een klein handje -> rijst : 1
+klein handje rijst -> op : 1
+handje rijst op -> een : 1
+rijst op een -> vierkant : 1
+op een vierkant -> velletje : 1
+een vierkant velletje -> klappermelk : 1
+vierkant velletje klappermelk -> om : 1
+velletje klappermelk om -> later : 1
+klappermelk om later -> bij : 1
+om later bij -> het : 1
+later bij het -> gehakt : 1
+bij het gehakt -> te : 1
+het gehakt te -> maak : 1
+gehakt te maak -> een : 1
+te maak een -> kruidenmengsel : 1
+maak een kruidenmengsel -> stevig : 1
+een kruidenmengsel stevig -> magnetronfolie : 1
+kruidenmengsel stevig magnetronfolie -> te : 1
+stevig magnetronfolie te -> druk : 1
+magnetronfolie te druk -> de : 1
+te druk de -> rijst : 1
+druk de rijst -> plat : 1
+de rijst plat -> door : 1
+rijst plat door -> de : 1
+plat door de -> de : 1
+door de de -> kemirienoten : 1
+de de kemirienoten -> en : 1
+de kemirienoten en -> koenjit : 1
+kemirienoten en koenjit -> fijn : 1
+en koenjit fijn -> te : 1
+koenjit fijn te -> met : 1
+fijn te met -> behulp : 1
+te met behulp -> van : 1
+met behulp van -> een : 1
+behulp van een -> ander : 1
+van een ander -> stukje : 1
+een ander stukje -> leg : 1
+ander stukje leg -> een : 1
+stukje leg een -> streepje : 1
+leg een streepje -> malen : 1
+een streepje malen -> in : 1
+streepje malen in -> een : 1
+malen in een -> vijzel : 1
+een vijzel of -> food : 1
+vijzel of food -> verhit : 1
+of food verhit -> de : 1
+food verhit de -> olie : 1
+de olie in -> een : 1
+de olie in -> de : 1
+een voeg de -> vleesmengsel : 1
+een voeg de -> eetlepels : 1
+voeg de vleesmengsel -> in : 1
+de vleesmengsel in -> het : 1
+vleesmengsel in het -> midden : 1
+in het midden -> van : 2
+het midden van -> het : 2
+midden van het -> plakje : 1
+midden van het -> schep : 1
+van het plakje -> vouw : 1
+het plakje vouw -> het : 1
+plakje vouw het -> plakje : 1
+vouw het plakje -> boemboe : 1
+het plakje boemboe -> toe : 1
+plakje boemboe toe -> en : 1
+boemboe toe en -> vervolgens : 1
+toe en vervolgens -> de : 1
+en vervolgens de -> rijst : 1
+vervolgens de rijst -> rol : 1
+de rijst rol -> het : 1
+rijst rol het -> uit : 1
+rol het uit -> tot : 1
+het uit tot -> een : 1
+uit tot een -> rolletje : 1
+tot een rolletje -> van : 1
+een rolletje van -> ongeveer : 1
+rolletje van ongeveer -> lengte : 1
+van ongeveer lengte -> en : 1
+ongeveer lengte en -> laos : 1
+lengte en laos -> en : 1
+en laos en -> doe : 1
+laos en doe -> het : 1
+en doe het -> gehakt : 1
+doe het gehakt -> erbij : 1
+het gehakt erbij -> en : 1
+gehakt erbij en -> roerbak : 1
+erbij en roerbak -> tot : 1
+en roerbak tot -> het : 1
+roerbak tot het -> vlees : 1
+tot het vlees -> gaar : 1
+het vlees gaar -> voeg : 1
+vlees gaar voeg -> rol : 1
+gaar voeg rol -> ten : 1
+voeg rol ten -> slotte : 1
+rol ten slotte -> het : 1
+ten slotte het -> plastic : 1
+slotte het plastic -> eromheen : 1
+het plastic eromheen -> als : 1
+plastic eromheen als -> een : 1
+eromheen als een -> papiertje : 1
+als een papiertje -> nu : 1
+een papiertje nu -> de : 1
+papiertje nu de -> klappermelk : 1
+nu de klappermelk -> roer : 1
+de klappermelk roer -> het : 1
+klappermelk roer het -> geheel : 1
+roer het geheel -> tot : 1
+geheel tot de -> klappermelk : 1
+tot de klappermelk -> verdampt : 1
+de klappermelk verdampt -> om : 1
+klappermelk verdampt om -> een : 1
+verdampt om een -> de : 1
+om een de -> ingepakte : 1
+een de ingepakte -> lempers : 1
+de ingepakte lempers -> eenmaal : 1
+ingepakte lempers eenmaal -> voeg : 1
+lempers eenmaal voeg -> theelepel : 1
+eenmaal voeg theelepel -> suiker : 1
+voeg theelepel suiker -> ingevroren : 1
+theelepel suiker ingevroren -> verwarm : 1
+suiker ingevroren verwarm -> de : 1
+ingevroren verwarm de -> lempers : 1
+verwarm de lempers -> in : 1
+de lempers in -> de : 1
+lempers in de -> open : 1
+in de open -> als : 1
+de open als -> ze : 1
+open als ze -> warm : 1
+als ze warm -> zijn : 1
+ze warm zijn -> een : 1
+warm zijn een -> zijde : 1
+zijn een zijde -> maak : 1
+een zijde maak -> nog : 1
+zijde maak nog -> meer : 1
+maak nog meer -> klapper : 1
+nog meer klapper -> van : 1
+meer klapper van -> de : 1
+klapper van de -> gebruikte : 1
+van de gebruikte -> en : 1
+de gebruikte en -> het : 1
+gebruikte en het -> restant : 1
+en het restant -> de : 1
+het restant de -> van : 1
+restant de van -> het : 1
+de van het -> plastic : 1
+van het plastic -> rolletje : 1
+het plastic rolletje -> en : 1
+plastic rolletje en -> knijp : 1
+rolletje en knijp -> vervolgens : 1
+en knijp vervolgens -> het : 1
+knijp vervolgens het -> rolletje : 1
+vervolgens het rolletje -> rijst : 1
+het rolletje rijst -> uit : 1
+rolletje rijst uit -> het : 1
+rijst uit het -> ketan : 1
+uit het ketan -> wordt : 1
+het ketan wordt -> hierin : 1
+ketan wordt hierin -> gekookt : 1
+wordt hierin gekookt -> rijst : 1
+hierin gekookt rijst -> moet : 1
+gekookt rijst moet -> vingerkootje : 1
+rijst moet vingerkootje -> onder : 1
+moet vingerkootje onder -> het : 1
+vingerkootje onder het -> klappermelkoppervlak : 1
+onder het klappermelkoppervlak -> voeg : 1
+het klappermelkoppervlak voeg -> sereh : 1
+klappermelkoppervlak voeg sereh -> en : 1
+voeg sereh en -> salamblaadjes : 1
+sereh en salamblaadjes -> roer : 1
+en salamblaadjes roer -> af : 1
+salamblaadjes roer af -> en : 1
+roer af en -> toe : 1
+af en toe -> en : 1
+af en toe -> verhit : 1
+en toe en -> kook : 1
+kook de rijst -> stoom : 1
+de rijst stoom -> de : 1
+rijst stoom de -> rijst : 1
+stoom de rijst -> heerlijk : 1
+de rijst heerlijk -> als : 1
+rijst heerlijk als -> hartig : 1
+heerlijk als hartig -> hapje : 1
+als hartig hapje -> kalfsoester : 1
+hartig hapje kalfsoester -> van : 1
+hapje kalfsoester van -> hooge : 1
+van hooge de -> tomaten : 1
+hooge de tomaten -> van : 1
+de tomaten van -> velletjes : 1
+tomaten van velletjes -> doormidden : 1
+van velletjes doormidden -> ze : 1
+velletjes doormidden ze -> enigszins : 1
+doormidden ze enigszins -> stukjes : 1
+ze enigszins stukjes -> kalfsoester : 1
+enigszins stukjes kalfsoester -> uithollen : 1
+stukjes kalfsoester uithollen -> en : 1
+kalfsoester uithollen en -> er : 1
+uithollen en er -> een : 1
+en er een -> zilveruitje : 1
+er een zilveruitje -> plakjes : 1
+een zilveruitje plakjes -> doorregen : 1
+zilveruitje plakjes doorregen -> gerookt : 1
+plakjes doorregen gerookt -> maak : 1
+doorregen gerookt maak -> van : 1
+gerookt maak van -> de : 1
+maak van de -> boter : 1
+van de boter -> en : 2
+de boter en -> bloem : 1
+de boter en -> verdeel : 1
+de boter en -> de : 1
+boter en bloem -> een : 1
+en bloem een -> voeg : 1
+bloem een voeg -> daaraan : 1
+een voeg daaraan -> de : 1
+voeg daaraan de -> room : 1
+daaraan de room -> en : 1
+de room en -> het : 1
+room en het -> karwijzaad : 1
+en het karwijzaad -> breng : 1
+het karwijzaad breng -> dit : 1
+karwijzaad breng dit -> onder : 1
+breng dit onder -> voortdurend : 1
+dit onder voortdurend -> roeren : 1
+onder voortdurend roeren -> aan : 1
+voortdurend roeren aan -> de : 1
+roeren aan de -> daarna : 1
+aan de daarna -> op : 1
+de daarna op -> smaak : 1
+daarna op smaak -> brengen : 1
+op smaak brengen -> met : 1
+smaak brengen met -> zout : 1
+brengen met zout -> en : 1
+zout en de -> saus : 1
+en de saus -> moet : 1
+de saus moet -> wel : 1
+saus moet wel -> pikant : 1
+moet wel pikant -> flinke : 1
+wel pikant flinke -> krop : 1
+pikant flinke krop -> bak : 1
+flinke krop bak -> de : 1
+krop bak de -> kalfsoesters : 1
+bak de kalfsoesters -> in : 1
+de kalfsoesters in -> zo : 1
+kalfsoesters in zo -> weinig : 1
+in zo weinig -> mogelijk : 1
+zo weinig mogelijk -> boter : 1
+weinig mogelijk boter -> tot : 1
+mogelijk boter tot -> ze : 1
+boter tot ze -> juist : 1
+tot ze juist -> doch : 1
+ze juist doch -> van : 1
+juist doch van -> gram : 1
+doch van gram -> binnen : 1
+van gram binnen -> nog : 1
+gram binnen nog -> niet : 1
+binnen nog niet -> geheel : 1
+nog niet geheel -> droog : 1
+niet geheel droog -> zijn : 1
+geheel droog zijn -> minuten : 1
+droog zijn minuten -> voor : 1
+zijn minuten voor -> dunne : 1
+minuten voor dunne -> gram : 1
+voor dunne gram -> zodra : 1
+dunne gram zodra -> deze : 1
+gram zodra deze -> klaar : 1
+zodra deze klaar -> zijn : 1
+deze klaar zijn -> legt : 1
+klaar zijn legt -> men : 1
+zijn legt men -> de : 1
+legt men de -> plakjes : 1
+men de plakjes -> spek : 1
+de plakjes spek -> in : 1
+plakjes spek in -> de : 1
+spek in de -> koekenpan : 1
+in de koekenpan -> en : 1
+de koekenpan en -> laat : 1
+koekenpan en laat -> ze : 1
+en laat ze -> even : 1
+laat ze even -> de : 1
+ze even de -> kalfsoesters : 1
+even de kalfsoesters -> op : 1
+de kalfsoesters op -> een : 1
+kalfsoesters op een -> schaal : 1
+op een schaal -> leg : 1
+een schaal leg -> op : 1
+schaal leg op -> iedere : 1
+leg op iedere -> theelepel : 1
+op iedere theelepel -> oester : 1
+iedere theelepel oester -> halve : 1
+theelepel oester halve -> tomaten : 1
+oester halve tomaten -> met : 1
+halve tomaten met -> uitjes : 1
+tomaten met uitjes -> en : 1
+met uitjes en -> kruislings : 1
+uitjes en kruislings -> plakjes : 1
+en kruislings plakjes -> hierover : 1
+kruislings plakjes hierover -> slasaus : 1
+plakjes hierover slasaus -> van : 1
+hierover slasaus van -> olie : 1
+slasaus van olie -> en : 1
+van olie en -> iets : 1
+olie en iets -> van : 1
+en iets van -> de : 1
+iets van de -> geef : 1
+van de geef -> de : 1
+de geef de -> rest : 1
+geef de rest -> van : 1
+de saus bedek -> nu : 1
+saus bedek nu -> de : 1
+bedek nu de -> schotel : 1
+nu de schotel -> geheel : 1
+de schotel geheel -> met : 1
+schotel geheel met -> de : 1
+geheel met de -> binnenste : 1
+met de binnenste -> slabladeren : 1
+de binnenste slabladeren -> en : 1
+binnenste slabladeren en -> besprenkel : 1
+slabladeren en besprenkel -> met : 1
+en besprenkel met -> de : 1
+besprenkel met de -> de : 1
+de de opmaak -> van : 1
+de opmaak van -> de : 1
+opmaak van de -> schotel : 1
+van de schotel -> dient : 1
+de schotel dient -> zo : 1
+schotel dient zo -> snel : 1
+dient zo snel -> mogelijk : 1
+zo snel mogelijk -> te : 1
+snel mogelijk te -> charles : 1
+mogelijk te charles -> bijleveld : 1
+te charles bijleveld -> academisch : 1
+charles bijleveld academisch -> ziekenhuis : 1
+bijleveld academisch ziekenhuis -> groningen : 1
+ziekenhuis groningen rijstrol -> etjes : 1
+groningen rijstrol etjes -> gevuld : 1
+rijstrol etjes gevuld -> met : 1
+etjes gevuld met -> gekruid : 1
+gevuld met gekruid -> kip : 1
+met gekruid kip -> in : 1
+gekruid kip in -> rode : 1
+in rode kersenclafoutis -> gram : 1
+rode kersenclafoutis gram -> kipfilet : 1
+kersenclafoutis gram kipfilet -> teentjes : 1
+gram kipfilet teentjes -> knoflook : 1
+kipfilet teentjes knoflook -> sjalotjes : 1
+teentjes knoflook sjalotjes -> eetlepels : 1
+knoflook sjalotjes eetlepels -> olie : 1
+sjalotjes eetlepels olie -> gram : 1
+eetlepels olie gram -> bloem : 1
+olie gram bloem -> eieren : 1
+gram bloem eieren -> gram : 1
+bloem eieren gram -> basterdsuiker : 1
+eieren gram basterdsuiker -> snufje : 1
+gram basterdsuiker snufje -> zout : 1
+basterdsuiker snufje zout -> pakje : 1
+snufje zout pakje -> citroenmousse : 1
+zout pakje citroenmousse -> citroen : 1
+pakje citroenmousse citroen -> suiker : 1
+citroenmousse citroen suiker -> slagroom : 1
+citroen suiker slagroom -> geraspte : 1
+suiker slagroom geraspte -> pure : 1
+slagroom geraspte pure -> gram : 1
+geraspte pure gram -> kipfilet : 1
+pure gram kipfilet -> potje : 1
+gram kipfilet potje -> zure : 1
+kipfilet potje zure -> room : 1
+potje zure room -> of : 1
+zure room of -> zakje : 1
+room of zakje -> eetlepels : 1
+of zakje eetlepels -> rode : 1
+zakje eetlepels rode -> currypasta : 1
+eetlepels rode currypasta -> in : 1
+rode currypasta in -> potje : 1
+currypasta in potje -> van : 1
+in potje van -> melk : 1
+potje van melk -> gram : 1
+van melk gram -> ongezouten : 1
+melk gram ongezouten -> gesmolten : 1
+gram ongezouten gesmolten -> kerriesauspoeder : 1
+ongezouten gesmolten kerriesauspoeder -> teentje : 1
+gesmolten kerriesauspoeder teentje -> knoflook : 1
+kerriesauspoeder teentje knoflook -> gram : 1
+teentje knoflook gram -> kersen : 1
+knoflook gram kersen -> op : 1
+gram kersen op -> sap : 1
+kersen op sap -> eetlepel : 1
+op sap eetlepel -> kerriepoeder : 1
+sap eetlepel kerriepoeder -> mespunt : 1
+eetlepel kerriepoeder mespunt -> koenjit : 1
+kerriepoeder mespunt koenjit -> kokosmelk : 1
+mespunt koenjit kokosmelk -> het : 1
+koenjit kokosmelk het -> pot : 1
+kokosmelk het pot -> ontpitte : 1
+het pot ontpitte -> uitlekgewicht : 1
+pot ontpitte uitlekgewicht -> ongeveer : 1
+ontpitte uitlekgewicht ongeveer -> gram : 1
+uitlekgewicht ongeveer gram -> rode : 1
+ongeveer gram rode -> theelepels : 1
+gram rode theelepels -> theelepel : 1
+rode theelepels theelepel -> sambal : 1
+theelepels theelepel sambal -> oelek : 1
+theelepel sambal oelek -> groen : 1
+sambal oelek groen -> van : 1
+oelek groen van -> bosuitjes : 1
+groen van bosuitjes -> eetlepels : 1
+van bosuitjes eetlepels -> donkere : 1
+bosuitjes eetlepels donkere -> bastersuiker : 1
+eetlepels donkere bastersuiker -> eetlepels : 1
+donkere bastersuiker eetlepels -> port : 1
+bastersuiker eetlepels port -> theelepel : 1
+eetlepels port theelepel -> kaneel : 1
+port theelepel kaneel -> poedersuiker : 1
+theelepel kaneel poedersuiker -> en : 1
+kaneel poedersuiker en -> amandelschaafsel : 1
+poedersuiker en amandelschaafsel -> ter : 1
+en amandelschaafsel ter -> maak : 1
+amandelschaafsel ter maak -> de : 1
+ter maak de -> mousse : 1
+maak de mousse -> enkele : 1
+de mousse enkele -> uren : 1
+mousse enkele uren -> van : 1
+enkele uren van -> tevoren : 1
+uren van tevoren -> en : 1
+van tevoren en -> laat : 1
+tevoren en laat -> in : 1
+en laat in -> de : 1
+laat in de -> koelkast : 1
+de koelkast stijf -> groot : 1
+koelkast stijf groot -> blik : 1
+stijf groot blik -> croissantdeeg : 1
+groot blik croissantdeeg -> zakje : 1
+blik croissantdeeg zakje -> geraspte : 1
+croissantdeeg zakje geraspte -> belegen : 1
+zakje geraspte belegen -> kaas : 1
+geraspte belegen kaas -> vissaus : 1
+belegen kaas vissaus -> eetlepels : 1
+kaas vissaus eetlepels -> limoensap : 1
+vissaus eetlepels limoensap -> gram : 1
+eetlepels limoensap gram -> dunne : 1
+limoensap gram dunne -> chinese : 1
+gram dunne chinese -> eiermie : 1
+dunne chinese eiermie -> olie : 1
+chinese eiermie olie -> om : 1
+eiermie olie om -> te : 1
+olie om te -> verwarm : 1
+om te verwarm -> de : 1
+te verwarm de -> oven : 1
+voor op laat -> de : 1
+op laat de -> kersen : 1
+laat de kersen -> goed : 1
+laat de kersen -> verhit : 1
+de kersen goed -> uitlekken : 1
+kersen goed uitlekken -> vervang : 1
+goed uitlekken vervang -> voor : 1
+uitlekken vervang voor -> het : 1
+vervang voor het -> toetje : 1
+voor het toetje -> de : 1
+het toetje de -> helft : 1
+toetje de helft -> van : 1
+van de hoeveelheid -> melk : 1
+de hoeveelheid melk -> die : 1
+hoeveelheid melk die -> verwarm : 1
+melk die verwarm -> de : 1
+die verwarm de -> oven : 1
+voor op snijd -> de : 1
+op snijd de -> kip : 1
+snijd de kip -> in : 1
+de kip in -> pel : 1
+kip in pel -> de : 1
+in pel de -> knoflook : 1
+in pel de -> eitjes : 1
+pel de knoflook -> en : 1
+knoflook en sjalotjes -> en : 1
+knoflook en sjalotjes -> bestrooi : 1
+en sjalotjes en -> snijd : 1
+sjalotjes en snijd -> deze : 1
+en snijd deze -> en : 1
+en snijd deze -> in : 1
+snijd deze en -> bak : 1
+deze en bak -> ze : 1
+en bak ze -> even : 1
+bak ze even -> in : 1
+ze even in -> wat : 1
+even in wat -> boter : 1
+in wat boter -> met : 1
+wat boter met -> de : 1
+boter met de -> port : 1
+met de port -> tot : 1
+de port tot -> het : 1
+port tot het -> vocht : 1
+tot het vocht -> verdampt : 1
+het vocht verdampt -> aangegeven : 1
+vocht verdampt aangegeven -> staat : 1
+verdampt aangegeven staat -> op : 1
+aangegeven staat op -> de : 1
+staat op de -> verpakking : 1
+op de verpakking -> door : 1
+de verpakking door -> serveer : 1
+verpakking door serveer -> het : 1
+door serveer het -> met : 1
+serveer het met -> bak : 1
+het met bak -> de : 1
+met bak de -> kipfilet : 1
+met bak de -> fazanten : 1
+de kipfilet in -> eetlepels : 1
+kipfilet in eetlepels -> laat : 1
+in eetlepels laat -> de : 1
+eetlepels laat de -> kersen : 1
+de kersen verhit -> de : 1
+kersen verhit de -> olie : 1
+olie in de -> wok : 1
+in de wok -> of : 1
+de wok of -> braadpan : 1
+wok of braadpan -> en : 1
+of braadpan en -> fruit : 1
+braadpan en fruit -> de : 1
+en fruit de -> knoflook : 1
+fruit de knoflook -> en : 1
+en sjalotjes bestrooi -> de : 1
+sjalotjes bestrooi de -> kersen : 1
+bestrooi de kersen -> met : 1
+de kersen met -> de : 1
+kersen met de -> een : 1
+met de een -> mooie : 1
+de een mooie -> toef : 1
+een mooie toef -> slagroom : 1
+mooie toef slagroom -> in : 1
+toef slagroom in -> aan : 1
+slagroom in aan -> de : 1
+in aan de -> rand : 1
+aan de rand -> gesuikerde : 1
+de rand gesuikerde -> glazen : 1
+rand gesuikerde glazen -> met : 1
+gesuikerde glazen met -> een : 1
+glazen met een -> maak : 1
+met een maak -> een : 1
+een maak een -> taartvulling : 1
+maak een taartvulling -> in : 1
+een taartvulling in -> een : 1
+taartvulling in een -> kom : 1
+in een kom -> door : 1
+een kom door -> de : 1
+kom door de -> gedurende : 1
+door de gedurende -> meng : 1
+de gedurende meng -> de : 1
+gedurende meng de -> kerriepoeder : 1
+meng de kerriepoeder -> en : 1
+de kerriepoeder en -> koenjit : 1
+kerriepoeder en koenjit -> zeef : 1
+en koenjit zeef -> de : 1
+koenjit zeef de -> bloem : 1
+zeef de bloem -> en : 1
+zeef de bloem -> in : 1
+de bloem en -> maak : 1
+bloem en maak -> een : 1
+maak een kuiltje -> in : 1
+een kuiltje in -> het : 1
+kuiltje in het -> voeg : 1
+in het voeg -> de : 1
+voeg de eieren -> toe : 1
+de eieren toe -> schijfje : 1
+eieren toe schijfje -> citroen : 1
+toe schijfje citroen -> er : 1
+schijfje citroen er -> op : 1
+citroen er op -> strooi : 1
+er op strooi -> er : 1
+op strooi er -> wat : 1
+strooi er wat -> gehakte : 1
+er wat gehakte -> pure : 1
+wat gehakte pure -> chocolade : 1
+gehakte pure chocolade -> de : 1
+pure chocolade de -> een : 1
+chocolade de een -> uitgeperst : 1
+de een uitgeperst -> teentje : 1
+een uitgeperst teentje -> de : 1
+uitgeperst teentje de -> het : 1
+teentje de het -> zakje : 1
+de het zakje -> voeg : 1
+het zakje voeg -> de : 1
+zakje voeg de -> kokosmelk : 1
+voeg de kokosmelk -> en : 1
+de kokosmelk en -> kipblokjes : 1
+kokosmelk en kipblokjes -> toe : 1
+en kipblokjes toe -> en : 1
+kipblokjes toe en -> breng : 1
+toe en breng -> het : 1
+toe en breng -> op : 1
+en breng het -> geheel : 1
+breng het geheel -> al : 1
+het geheel al -> roerend : 1
+geheel al roerend -> aan : 1
+al roerend aan -> en : 1
+roerend aan en -> klop : 1
+aan en klop -> alles : 1
+en klop alles -> voeg : 1
+klop alles voeg -> al : 1
+alles voeg al -> roerend : 1
+roerend de kerriesauspoeder -> en : 1
+de kerriesauspoeder en -> eventueel : 1
+kerriesauspoeder en eventueel -> de : 1
+en eventueel de -> kappertjes : 1
+eventueel de kappertjes -> door : 1
+de kappertjes door -> elkaar : 1
+kappertjes door elkaar -> te : 1
+door elkaar te -> mengen : 1
+elkaar te mengen -> de : 1
+te mengen de -> draai : 1
+mengen de draai -> het : 1
+de draai het -> vuur : 1
+draai het vuur -> plaats : 1
+het vuur plaats -> een : 1
+vuur plaats een -> deksel : 1
+plaats een deksel -> op : 1
+een deksel op -> de : 1
+deksel op de -> wok : 1
+deksel op de -> pan : 1
+op de wok -> en : 1
+de wok en -> houd : 1
+wok en houd -> het : 1
+en houd het -> snufje : 1
+houd het snufje -> zout : 1
+het snufje zout -> en : 1
+snufje zout en -> gesmolten : 1
+zout en gesmolten -> boter : 1
+en gesmolten boter -> zeef : 1
+gesmolten boter zeef -> het : 1
+boter zeef het -> beslag : 1
+zeef het beslag -> om : 1
+het beslag om -> eventuele : 1
+beslag om eventuele -> en : 1
+om eventuele en -> meng : 1
+eventuele en meng -> dit : 1
+en meng dit -> door : 1
+en meng dit -> met : 1
+meng dit door -> de : 1
+dit door de -> circa : 1
+door de circa -> minuten : 1
+de circa minuten -> aan : 1
+circa minuten aan -> de : 1
+minuten aan de -> schep : 1
+aan de schep -> het : 1
+de schep het -> af : 1
+de schep het -> champignonmengsel : 1
+schep het af -> en : 1
+het af en -> toe : 1
+en toe verhit -> intussen : 1
+toe verhit intussen -> in : 1
+verhit intussen in -> klonten : 1
+intussen in klonten -> te : 1
+in klonten te -> vet : 1
+klonten te vet -> een : 1
+te vet een -> springvorm : 1
+vet een springvorm -> in : 1
+een springvorm in -> met : 1
+springvorm in met -> een : 1
+in met een -> beetje : 1
+met een beetje -> boter : 1
+een beetje boter -> en : 1
+beetje boter en -> bebloem : 1
+boter en bebloem -> deze : 1
+en bebloem deze -> een : 1
+bebloem deze een -> friteuse : 1
+deze een friteuse -> of : 1
+een friteuse of -> pannetje : 1
+friteuse of pannetje -> de : 1
+of pannetje de -> olie : 1
+pannetje de olie -> tot : 1
+de olie tot -> c : 1
+olie tot c -> en : 1
+tot c en -> breng : 1
+c en breng -> in : 1
+en breng in -> een : 1
+breng in een -> grote : 1
+breng in een -> andere : 1
+in een grote -> pan : 2
+in een grote -> twee : 1
+in een grote -> metalen : 1
+grote pan water -> vet : 1
+pan water vet -> een : 1
+water vet een -> ovenschaal : 1
+vet een ovenschaal -> schep : 1
+een ovenschaal schep -> de : 1
+ovenschaal schep de -> kersen : 1
+schep de kersen -> in : 1
+de kersen in -> de : 1
+kersen in de -> schaal : 1
+in de schaal -> en : 2
+de schaal en -> giet : 1
+de schaal en -> zet : 1
+schaal en giet -> het : 1
+en giet het -> rolff : 1
+giet het rolff -> stichting : 1
+het rolff stichting -> verdeel : 1
+rolff stichting verdeel -> het : 1
+stichting verdeel het -> deeg : 1
+verdeel het deeg -> over : 1
+het deeg over -> de : 1
+deeg over de -> bodem : 1
+over de bodem -> en : 1
+over de bodem -> op : 1
+over de bodem -> van : 1
+de bodem en -> vouw : 1
+bodem en vouw -> de : 1
+en vouw de -> zijkanten : 1
+vouw de zijkanten -> aan : 1
+de zijkanten aan -> de : 1
+zijkanten aan de -> knip : 1
+aan de knip -> het : 1
+de knip het -> groen : 1
+knip het groen -> van : 1
+het groen van -> de : 2
+groen van de -> bosuitjes : 2
+van de bosuitjes -> fijn : 1
+van de bosuitjes -> en : 1
+de bosuitjes fijn -> boven : 1
+bosuitjes fijn boven -> een : 1
+fijn boven een -> beslag : 1
+boven een beslag -> bak : 1
+een beslag bak -> de : 1
+beslag bak de -> clafoutis : 1
+bak de clafoutis -> in : 1
+de clafoutis in -> ongeveer : 1
+clafoutis in ongeveer -> minuten : 1
+in ongeveer minuten -> bestrooi : 1
+ongeveer minuten bestrooi -> transplantatie : 1
+minuten bestrooi transplantatie -> en : 1
+bestrooi transplantatie en -> werkgroeplid : 1
+transplantatie en werkgroeplid -> cirrose : 1
+en werkgroeplid cirrose -> van : 1
+werkgroeplid cirrose van -> de : 1
+cirrose van de -> en : 1
+van de en -> de : 1
+de en de -> bovenkant : 1
+de en de -> rest : 1
+en de bovenkant -> dicht : 1
+de bovenkant dicht -> nadat : 1
+bovenkant dicht nadat -> de : 1
+dicht nadat de -> vulling : 1
+nadat de vulling -> erin : 1
+de vulling erin -> is : 1
+vulling erin is -> bestrooi : 1
+erin is bestrooi -> de : 1
+is bestrooi de -> roer : 1
+bestrooi de roer -> de : 1
+de roer de -> vissaus : 1
+roer de vissaus -> en : 1
+de vissaus en -> limoensap : 1
+vissaus en limoensap -> door : 1
+en limoensap door -> de : 1
+limoensap door de -> kokoscurry : 1
+door de kokoscurry -> en : 1
+de kokoscurry en -> verwarm : 1
+kokoscurry en verwarm -> de : 1
+verwarm de de -> taart : 1
+de de taart -> royaal : 1
+de taart royaal -> met : 1
+taart royaal met -> poedersuiker : 1
+royaal met poedersuiker -> en : 1
+met poedersuiker en -> wat : 1
+poedersuiker en wat -> nederlandse : 1
+en wat nederlandse -> bussum : 1
+wat nederlandse bussum -> taart : 1
+nederlandse bussum taart -> met : 1
+bussum taart met -> de : 1
+taart met de -> geraspte : 1
+met de geraspte -> bak : 1
+de geraspte bak -> de : 1
+geraspte bak de -> taart : 1
+bak de taart -> ten : 1
+de taart ten -> slotte : 1
+taart ten slotte -> tot : 1
+ten slotte tot -> minuten : 1
+slotte tot minuten -> saus : 1
+tot minuten saus -> nog : 1
+minuten saus nog -> minuten : 1
+saus nog minuten -> kook : 1
+nog minuten kook -> van : 1
+minuten kook van -> de : 1
+kook van de -> eiermie : 1
+van de eiermie -> deel : 1
+de eiermie deel -> giet : 1
+eiermie deel giet -> in : 1
+deel giet in -> de : 1
+giet in de -> af : 1
+in de af -> en : 1
+de af en -> laat : 1
+af en laat -> spoel : 1
+en laat spoel -> na : 1
+laat spoel na -> met : 1
+spoel na met -> koud : 1
+na met koud -> water : 1
+water en laat -> de : 1
+laat de mie -> wederom : 1
+de mie wederom -> in : 1
+mie wederom in -> dit : 1
+wederom in dit -> gerecht : 1
+in dit gerecht -> vormt : 1
+dit gerecht vormt -> de : 1
+gerecht vormt de -> perfecte : 1
+vormt de perfecte -> afsluiting : 1
+de perfecte afsluiting -> van : 1
+perfecte afsluiting van -> een : 1
+afsluiting van een -> etentje : 1
+afsluiting van een -> feestmaal : 1
+van een etentje -> onder : 1
+een etentje onder -> een : 1
+etentje onder een -> vergiet : 1
+onder een vergiet -> frituur : 1
+een vergiet frituur -> tegelijkertijd : 1
+vergiet frituur tegelijkertijd -> de : 1
+frituur tegelijkertijd de -> rest : 1
+tegelijkertijd de rest -> van : 1
+van de mie -> in : 1
+de mie in -> gedeelten : 1
+mie in gedeelten -> de : 1
+in gedeelten de -> taart : 1
+gedeelten de taart -> kan : 1
+de taart kan -> zowel : 1
+taart kan zowel -> warm : 1
+kan zowel warm -> als : 1
+zowel warm als -> koud : 1
+warm als koud -> gegeten : 1
+als koud gegeten -> de : 1
+koud gegeten de -> taart : 1
+gegeten de taart -> is : 1
+taart is lekker -> in : 1
+is lekker in -> circa : 1
+lekker in circa -> minuut : 1
+in circa minuut -> krokant : 1
+circa minuut krokant -> schep : 1
+minuut krokant schep -> de : 1
+krokant schep de -> gefrituurde : 1
+schep de gefrituurde -> mie : 1
+de gefrituurde mie -> met : 1
+gefrituurde mie met -> een : 1
+mie met een -> van : 1
+met een van -> liefland : 1
+een van liefland -> allocatie : 1
+van liefland allocatie -> stichting : 1
+liefland allocatie stichting -> leiden : 1
+allocatie stichting leiden -> als : 1
+stichting leiden als -> maaltijd : 1
+leiden als maaltijd -> met : 1
+als maaltijd met -> bijvoorbeeld : 1
+maaltijd met bijvoorbeeld -> een : 1
+met bijvoorbeeld een -> salade : 1
+bijvoorbeeld een salade -> en : 1
+een salade en -> een : 1
+salade en een -> glas : 1
+en een glas -> droge : 1
+een glas droge -> witte : 1
+glas droge witte -> schuimspaan : 1
+droge witte schuimspaan -> uit : 1
+witte schuimspaan uit -> de : 1
+schuimspaan uit de -> pan : 1
+uit de pan -> en : 1
+uit de pan -> dep : 1
+de pan en -> laat : 2
+pan en laat -> uitdruipen : 1
+pan en laat -> de : 1
+en laat uitdruipen -> op : 1
+laat uitdruipen op -> verdeel : 1
+uitdruipen op verdeel -> de : 1
+op verdeel de -> in : 1
+verdeel de in -> kleine : 1
+in kleine puntjes -> verdeeld : 1
+kleine puntjes verdeeld -> is : 1
+puntjes verdeeld is -> het : 1
+verdeeld is het -> ook : 1
+is het ook -> erg : 1
+het ook erg -> lekker : 1
+ook erg lekker -> voor : 1
+erg lekker voor -> bij : 1
+lekker voor bij -> de : 1
+voor bij de -> gekookte : 1
+voor bij de -> mosselen : 1
+bij de gekookte -> mie : 1
+de gekookte mie -> over : 1
+gekookte mie over -> vier : 1
+mie over vier -> voorverwarmde : 1
+over vier voorverwarmde -> borden : 1
+vier voorverwarmde borden -> en : 1
+voorverwarmde borden en -> schep : 1
+borden en schep -> de : 1
+borden en schep -> er : 1
+en schep de -> over : 1
+schep de over -> de : 1
+de over de -> garneer : 1
+over de garneer -> met : 1
+garneer met het -> groen : 1
+met het groen -> van : 1
+de bosuitjes en -> de : 1
+bosuitjes en de -> gefrituurde : 1
+en de gefrituurde -> joosten : 1
+de gefrituurde joosten -> de : 1
+gefrituurde joosten de -> clinique : 1
+joosten de clinique -> hoofd : 1
+de clinique hoofd -> afdeling : 1
+clinique hoofd afdeling -> bloedtransfusie : 1
+hoofd afdeling bloedtransfusie -> en : 1
+afdeling bloedtransfusie en -> van : 1
+bloedtransfusie en van -> heuvelen : 1
+en van heuvelen -> en : 1
+van heuvelen en -> universitair : 1
+heuvelen en universitair -> medisch : 1
+en universitair medisch -> centrum : 1
+universitair medisch centrum -> st : 1
+universitair medisch centrum -> borden : 1
+medisch centrum st -> nijmegen : 1
+centrum st nijmegen -> lid : 1
+st nijmegen lid -> websitecommissie : 1
+nijmegen lid websitecommissie -> stichting : 1
+lid websitecommissie stichting -> transplantatie : 1
+websitecommissie stichting transplantatie -> bussum : 1
+stichting transplantatie bussum -> met : 1
+transplantatie bussum met -> amaretto : 1
+bussum met amaretto -> deze : 1
+met amaretto deze -> recepten : 1
+amaretto deze recepten -> van : 1
+deze recepten van -> twee : 1
+recepten van twee -> heerlijke : 1
+van twee heerlijke -> desserts : 1
+twee heerlijke desserts -> hebben : 1
+heerlijke desserts hebben -> wij : 1
+desserts hebben wij -> ooit : 1
+hebben wij ooit -> van : 1
+wij ooit van -> onze : 1
+ooit van onze -> mogen : 1
+van onze mogen -> het : 1
+onze mogen het -> is : 1
+mogen het is -> altijd : 1
+het is altijd -> een : 1
+is altijd een -> heerlijke : 1
+altijd een heerlijke -> calorierijke : 1
+een heerlijke calorierijke -> afsluiting : 1
+heerlijke calorierijke afsluiting -> van : 1
+calorierijke afsluiting van -> een : 1
+van een feestmaal -> en : 1
+een feestmaal en -> allebei : 1
+feestmaal en allebei -> voor : 1
+en allebei voor -> zes : 1
+allebei voor zes -> grof : 1
+voor zes grof -> verkruimeld : 1
+zes grof verkruimeld -> dooiers : 1
+grof verkruimeld dooiers -> en : 1
+verkruimeld dooiers en -> witten : 1
+dooiers en witten -> macaroni : 1
+en witten macaroni -> met : 1
+witten macaroni met -> de : 1
+macaroni met de -> witten : 1
+met de witten -> met : 1
+de witten met -> een : 1
+witten met een -> snufje : 1
+met een snufje -> zout : 1
+met een snufje -> klop : 1
+een snufje zout -> stijfgeklopt : 1
+snufje zout stijfgeklopt -> gram : 1
+zout stijfgeklopt gram -> basterdsuiker : 1
+stijfgeklopt gram basterdsuiker -> eetlepels : 1
+gram basterdsuiker eetlepels -> zoete : 1
+basterdsuiker eetlepels zoete -> sherry : 1
+eetlepels zoete sherry -> geklopte : 1
+zoete sherry geklopte -> slagroom : 1
+sherry geklopte slagroom -> spijkerboer : 1
+geklopte slagroom spijkerboer -> donoraanname : 1
+slagroom spijkerboer donoraanname -> stichting : 1
+spijkerboer donoraanname stichting -> leiden : 1
+donoraanname stichting leiden -> pak : 1
+stichting leiden pak -> viergranen : 1
+leiden pak viergranen -> macaroni : 1
+pak viergranen macaroni -> scheut : 1
+pak viergranen macaroni -> aluminiumfolie : 1
+viergranen macaroni scheut -> ketjap : 1
+macaroni scheut ketjap -> pakje : 1
+scheut ketjap pakje -> stroganoffsaus : 1
+ketjap pakje stroganoffsaus -> klop : 1
+pakje stroganoffsaus klop -> de : 1
+stroganoffsaus klop de -> eierdooiers : 1
+klop de eierdooiers -> met : 2
+de eierdooiers met -> de : 2
+eierdooiers met de -> basterdsuiker : 1
+eierdooiers met de -> ui : 1
+met de basterdsuiker -> wit : 1
+de basterdsuiker wit -> en : 1
+basterdsuiker wit en -> voeg : 1
+wit en voeg -> het : 1
+en voeg het -> de : 1
+voeg het de -> blik : 1
+het de blik -> rundergoulash : 1
+de blik rundergoulash -> blik : 1
+blik rundergoulash blik -> ham : 1
+rundergoulash blik ham -> blik : 1
+blik ham blik -> boterhamworst : 1
+ham blik boterhamworst -> bitterkoekjeskruim : 1
+blik boterhamworst bitterkoekjeskruim -> en : 1
+boterhamworst bitterkoekjeskruim en -> de : 1
+bitterkoekjeskruim en de -> sherry : 1
+en de sherry -> toe : 1
+de sherry toe -> en : 1
+sherry toe en -> roer : 1
+toe en roer -> alles : 1
+toe en roer -> goed : 1
+en roer alles -> goed : 1
+goed door theelepels -> sambal : 1
+door theelepels sambal -> blikje : 1
+theelepels sambal blikje -> tomatenpuree : 1
+sambal blikje tomatenpuree -> schep : 1
+blikje tomatenpuree schep -> er : 1
+tomatenpuree schep er -> de : 1
+schep er de -> slagroom : 1
+schep er de -> linguini : 1
+er de slagroom -> en : 1
+de slagroom en -> vervolgens : 1
+slagroom en vervolgens -> voorzichtig : 1
+en vervolgens voorzichtig -> de : 1
+vervolgens voorzichtig de -> eiwitten : 1
+voorzichtig de eiwitten -> ovenschotel : 1
+de eiwitten ovenschotel -> met : 1
+eiwitten ovenschotel met -> geraspte : 1
+ovenschotel met geraspte -> doe : 1
+met geraspte doe -> een : 1
+geraspte doe een -> kraag : 1
+doe een kraag -> van : 1
+een kraag van -> aluminiumfolie : 2
+kraag van aluminiumfolie -> rond : 1
+kraag van aluminiumfolie -> in : 1
+van aluminiumfolie rond -> een : 1
+aluminiumfolie rond een -> met : 1
+rond een met -> een : 1
+een met een -> inhoud : 1
+met een inhoud -> van : 1
+een inhoud van -> de : 1
+inhoud van de -> kraag : 1
+van de kraag -> moet : 1
+de kraag moet -> boven : 1
+kraag moet boven -> de : 1
+moet boven de -> rand : 1
+boven de rand -> van : 2
+de rand van -> de : 2
+rand van de -> cassis : 1
+rand van de -> schaal : 1
+van de cassis -> dooiers : 1
+de cassis dooiers -> van : 1
+cassis dooiers van -> het : 1
+dooiers van het -> wit : 1
+van het wit -> gescheiden : 1
+het wit gescheiden -> boerenkool : 1
+wit gescheiden boerenkool -> in : 1
+gescheiden boerenkool in -> roomsaus : 1
+boerenkool in roomsaus -> de : 1
+in roomsaus de -> vorm : 1
+roomsaus de vorm -> schenk : 1
+de vorm schenk -> het : 1
+vorm schenk het -> in : 1
+schenk het in -> de : 1
+het in de -> vorm : 1
+het in de -> schaal : 1
+in de vorm -> en : 2
+de vorm en -> zout : 1
+de vorm en -> schenk : 1
+vorm en zout -> gram : 1
+en zout gram -> basterdsuiker : 1
+zout gram basterdsuiker -> men : 1
+gram basterdsuiker men -> neme : 1
+basterdsuiker men neme -> een : 1
+men neme een -> grote : 1
+men neme een -> liter : 1
+neme een grote -> pan : 1
+pan met met -> daarin : 1
+met met daarin -> een : 1
+met daarin een -> scheut : 1
+daarin een scheut -> zet : 1
+een scheut zet -> het : 1
+scheut zet het -> geheel : 1
+zet het geheel -> tenminste : 1
+het geheel tenminste -> vier : 1
+geheel tenminste vier -> uur : 1
+tenminste vier uur -> in : 1
+vier uur in -> het : 1
+uur in het -> verwijder : 1
+uur in het -> kook : 1
+in het verwijder -> de : 1
+het verwijder de -> personen : 1
+verwijder de personen -> laat : 1
+de personen laat -> het : 1
+personen laat het -> water : 1
+laat het water -> koken : 1
+het water koken -> en : 1
+water koken en -> doe : 1
+koken en doe -> er : 1
+en doe er -> dan : 1
+en doe er -> twee : 1
+doe er dan -> een : 1
+er dan een -> pak : 1
+dan een pak -> viergranen : 1
+een pak viergranen -> macaroni : 1
+viergranen macaroni aluminiumfolie -> pas : 1
+macaroni aluminiumfolie pas -> op : 1
+aluminiumfolie pas op -> het : 1
+pas op het -> laatste : 1
+het laatste moment -> voor : 1
+laatste moment voor -> het : 1
+moment voor het -> gram : 1
+voor het gram -> geschilde : 1
+het gram geschilde -> aardappels : 1
+gram geschilde aardappels -> gram : 1
+geschilde aardappels gram -> panklare : 1
+aardappels gram panklare -> boerenkool : 1
+gram panklare boerenkool -> zout : 1
+panklare boerenkool zout -> haal : 1
+boerenkool zout haal -> de : 1
+zout haal de -> uur : 1
+haal de uur -> voor : 2
+de uur voor -> het : 2
+uur voor het -> opdienen : 2
+voor het opdienen -> uit : 2
+het opdienen uit -> het : 2
+opdienen uit het -> klop : 1
+opdienen uit het -> de : 1
+uit het klop -> de : 1
+het klop de -> eiwitten : 1
+de eiwitten met -> een : 1
+eiwitten met een -> snufje : 1
+een snufje klop -> de : 1
+snufje klop de -> eierdooiers : 1
+met de ui -> teen : 1
+de ui teen -> knoflook : 1
+ui teen knoflook -> gram : 1
+teen knoflook gram -> kastanjechampignons : 1
+knoflook gram kastanjechampignons -> gram : 1
+gram kastanjechampignons gram -> breng : 1
+kastanjechampignons gram breng -> in : 1
+gram breng in -> een : 1
+in een andere -> pan : 1
+een andere pan -> een : 1
+andere pan een -> halve : 1
+pan een halve -> liter : 1
+een halve liter -> water : 1
+halve liter water -> aan : 1
+liter water aan -> de : 1
+aan de suiker -> tot : 1
+de suiker tot -> een : 1
+suiker tot een -> romige : 1
+een romige doe -> er : 1
+romige doe er -> de : 1
+doe er de -> de : 1
+er de de -> cassis : 1
+de de cassis -> bij : 1
+de cassis bij -> ontbijtspek : 1
+cassis bij ontbijtspek -> gram : 1
+bij ontbijtspek gram -> roquefort : 1
+ontbijtspek gram roquefort -> scheutje : 1
+gram roquefort scheutje -> olijfolie : 1
+roquefort scheutje olijfolie -> gram : 1
+scheutje olijfolie gram -> boter : 1
+olijfolie gram boter -> daar : 1
+gram boter daar -> komt : 1
+boter daar komt -> een : 1
+daar komt een -> pakje : 1
+komt een pakje -> stroganoffsaus : 1
+een pakje stroganoffsaus -> voeg : 1
+pakje stroganoffsaus voeg -> hierbij : 1
+stroganoffsaus voeg hierbij -> de : 1
+voeg hierbij de -> inhoud : 1
+hierbij de inhoud -> van : 1
+de inhoud van -> en : 1
+inhoud van en -> meng : 1
+van en meng -> die : 1
+en meng die -> er : 1
+meng die er -> goed : 1
+die er goed -> schep : 1
+er goed schep -> er : 1
+goed schep er -> dan : 1
+schep er dan -> de : 1
+er dan de -> slagroom : 1
+dan de slagroom -> voorzichtig : 1
+de slagroom voorzichtig -> peper : 1
+slagroom voorzichtig peper -> warme : 1
+voorzichtig peper warme -> en : 1
+peper warme en -> koude : 1
+warme en koude -> melk : 1
+en koude melk -> nootmuskaat : 1
+koude melk nootmuskaat -> gram : 1
+melk nootmuskaat gram -> bloem : 1
+nootmuskaat gram bloem -> een : 1
+gram bloem een -> blik : 1
+bloem een blik -> blijf : 1
+een blik blijf -> alles : 1
+blik blijf alles -> al : 1
+blijf alles al -> roerend : 1
+alles al roerend -> door : 1
+al roerend door -> en : 1
+roerend door en -> het : 1
+door en het -> geklopte : 1
+en het geklopte -> gram : 1
+het geklopte gram -> walnoten : 1
+geklopte gram walnoten -> eventueel : 1
+gram walnoten eventueel -> een : 1
+walnoten eventueel een -> rookworst : 1
+eventueel een rookworst -> snijd : 1
+een rookworst snijd -> de : 1
+rookworst snijd de -> ham : 1
+snijd de ham -> en : 1
+de ham en -> de : 1
+ham en de -> boterhamworst : 1
+en de boterhamworst -> in : 1
+de boterhamworst in -> blokjes : 1
+boterhamworst in blokjes -> en : 1
+in blokjes en -> voeg : 1
+blokjes en voeg -> dit : 1
+en voeg dit -> eveneens : 1
+voeg dit eveneens -> neem : 1
+dit eveneens neem -> een : 1
+eveneens neem een -> van : 1
+neem een van -> inhoud : 1
+een van inhoud -> en : 1
+van inhoud en -> zet : 1
+inhoud en zet -> er : 1
+en zet er -> een : 1
+zet er een -> kraag : 1
+er een kraag -> van : 1
+van aluminiumfolie in -> die : 1
+aluminiumfolie in die -> boven : 1
+in die boven -> de : 1
+die boven de -> rand : 1
+van de schaal -> blijf : 1
+de schaal blijf -> roeren : 1
+schaal blijf roeren -> en : 1
+blijf roeren en -> voeg : 1
+roeren en voeg -> dan : 1
+en voeg dan -> een : 1
+voeg dan een -> theelepel : 1
+dan een theelepel -> sambal : 1
+een theelepel sambal -> nu : 1
+een theelepel sambal -> vriesvak : 1
+theelepel sambal nu -> even : 1
+sambal nu even -> proeven : 1
+nu even proeven -> giet : 1
+even proeven giet -> het : 1
+proeven giet het -> in : 1
+giet het in -> de : 1
+schaal en zet -> deze : 1
+en zet deze -> tot : 1
+zet deze tot -> uur : 1
+in het kook -> de : 1
+het kook de -> aardappels : 1
+kook de aardappels -> en : 1
+de aardappels en -> de : 1
+aardappels en de -> boerenkool : 1
+en de boerenkool -> in : 1
+de boerenkool in -> water : 1
+boerenkool in water -> met : 1
+in water met -> zout : 1
+water met zout -> naar : 1
+met zout naar -> smaak : 1
+zout naar smaak -> hoe : 1
+naar smaak hoe -> het : 1
+smaak hoe het -> voor : 1
+hoe het voor -> meer : 1
+het voor meer -> pit : 1
+voor meer pit -> nog : 1
+meer pit nog -> een : 1
+pit nog een -> theelepel : 1
+nog een theelepel -> sambal : 1
+theelepel sambal vriesvak -> van : 1
+sambal vriesvak van -> uw : 1
+vriesvak van uw -> verwijder : 1
+van uw verwijder -> de : 1
+uw verwijder de -> aluminiumkraag : 1
+verwijder de aluminiumkraag -> voor : 1
+de aluminiumkraag voor -> het : 1
+aluminiumkraag voor het -> afzonderlijk : 1
+voor het afzonderlijk -> pel : 1
+het afzonderlijk pel -> en : 1
+afzonderlijk pel en -> snipper : 1
+pel en snipper -> ondertussen : 1
+en snipper ondertussen -> de : 1
+snipper ondertussen de -> ui : 1
+ondertussen de ui -> en : 1
+en de maak -> giet : 1
+de maak giet -> de : 1
+maak giet de -> gare : 1
+giet de gare -> macaroni : 1
+de gare macaroni -> haal : 1
+de gare macaroni -> en : 1
+gare macaroni haal -> de : 1
+macaroni haal de -> uur : 1
+uit het de -> champignons : 1
+het de champignons -> schoon : 1
+schoon en snijd -> ze : 1
+en snijd ze -> in : 1
+ze in verkruimel -> de : 1
+in verkruimel de -> roquefort : 1
+verkruimel de roquefort -> en : 1
+de roquefort en -> na : 1
+de roquefort en -> de : 1
+roquefort en na -> het : 1
+en na het -> afgieten : 1
+na het afgieten -> direct : 1
+het afgieten direct -> een : 1
+afgieten direct een -> klontje : 1
+direct een klontje -> boter : 1
+een klontje boter -> toevoegen : 1
+klontje boter toevoegen -> om : 1
+boter toevoegen om -> het : 1
+toevoegen om het -> eventuele : 1
+om het eventuele -> snijd : 1
+het eventuele snijd -> het : 1
+eventuele snijd het -> ontbijtspek : 1
+snijd het ontbijtspek -> in : 1
+het ontbijtspek in -> verhit : 1
+ontbijtspek in verhit -> een : 1
+in verhit een -> scheut : 1
+verhit een scheut -> olie : 1
+een scheut olie -> en : 1
+scheut olie en -> bak : 1
+olie en bak -> de : 1
+de ui met -> de : 1
+ui met de -> plakken : 1
+met de plakken -> van : 1
+de plakken van -> de : 1
+plakken van de -> macaroni : 1
+van de macaroni -> tegen : 1
+de macaroni tegen -> te : 1
+macaroni tegen te -> de : 1
+tegen te de -> knoflook : 1
+te de knoflook -> en : 1
+knoflook en het -> ontbijtspek : 1
+en het ontbijtspek -> minuten : 1
+het ontbijtspek minuten -> op : 1
+ontbijtspek minuten op -> een : 1
+een laag roer -> een : 1
+laag roer een -> blikje : 1
+roer een blikje -> tomatenpuree : 1
+een blikje tomatenpuree -> door : 1
+blikje tomatenpuree door -> de : 1
+tomatenpuree door de -> gare : 1
+door de gare -> macaroni : 1
+gare macaroni en -> schep : 1
+macaroni en schep -> het : 1
+en schep het -> marry : 1
+schep het marry -> de : 1
+het marry de -> breng : 1
+marry de breng -> op : 1
+de breng op -> smaak : 1
+breng op smaak -> met : 4
+op smaak met -> peper : 4
+smaak met peper -> en : 4
+peper en stamp -> de : 1
+en stamp de -> gekookte : 1
+stamp de gekookte -> aardappels : 1
+de gekookte aardappels -> vlees : 1
+gekookte aardappels vlees -> door : 1
+aardappels vlees door -> de : 1
+vlees door de -> goed : 1
+door de goed -> luchtenburg : 1
+de goed luchtenburg -> met : 1
+goed luchtenburg met -> de : 1
+luchtenburg met de -> warme : 1
+met de warme -> een : 1
+de warme een -> klontje : 1
+warme een klontje -> nootmuskaat : 1
+een klontje nootmuskaat -> en : 1
+klontje nootmuskaat en -> peper : 1
+nootmuskaat en peper -> en : 1
+en peper en -> zout : 1
+en zout naar -> even : 1
+zout naar even -> op : 1
+naar even op -> het : 1
+even op het -> gas : 1
+op het gas -> laten : 1
+het gas laten -> staan : 1
+gas laten staan -> en : 1
+laten staan en -> wat : 1
+staan en wat -> geraspte : 1
+en wat geraspte -> kaas : 1
+wat geraspte kaas -> eroverheen : 1
+geraspte kaas eroverheen -> niertransplantatie : 1
+kaas eroverheen niertransplantatie -> smaak : 1
+eroverheen niertransplantatie smaak -> tot : 1
+niertransplantatie smaak tot -> een : 1
+smaak tot een -> fijne : 1
+tot een fijne -> verwarm : 1
+een fijne verwarm -> de : 1
+fijne verwarm de -> oven : 1
+oven voor tot -> vet : 1
+voor tot vet -> een : 1
+tot vet een -> ruime : 1
+vet een ruime -> erasmus : 1
+een ruime erasmus -> ovenschaal : 1
+ruime erasmus ovenschaal -> in : 1
+erasmus ovenschaal in -> met : 1
+ovenschaal in met -> de : 1
+in met de -> rest : 2
+in met de -> helft : 1
+boter en verdeel -> de : 1
+verdeel de puree -> over : 1
+de puree over -> de : 1
+puree over de -> bodem : 1
+de bodem op -> dat : 1
+bodem op dat -> moment : 1
+op dat moment -> roep : 1
+dat moment roep -> ik : 1
+moment roep ik -> mijn : 1
+roep ik mijn -> vrouw : 1
+ik mijn vrouw -> tineke : 1
+mijn vrouw tineke -> en : 1
+vrouw tineke en -> de : 1
+tineke en de -> hond : 1
+en de hond -> hond : 1
+de hond hond -> staat : 1
+hond hond staat -> en : 1
+hond staat en -> langs : 1
+staat en langs -> de : 1
+en langs de -> wand : 1
+langs de wand -> van : 1
+de wand van -> de : 1
+wand van de -> schep : 1
+van de schep -> het : 1
+schep het champignonmengsel -> al : 1
+het champignonmengsel al -> die : 1
+champignonmengsel al die -> tijd : 1
+al die tijd -> al : 1
+die tijd al -> bij : 1
+tijd al bij -> wij : 1
+al bij wij -> moeten : 1
+bij wij moeten -> regelmatig : 1
+wij moeten regelmatig -> en : 1
+moeten regelmatig en -> dan : 1
+regelmatig en dan -> kunnen : 1
+en dan kunnen -> smelt : 1
+dan kunnen smelt -> gram : 1
+kunnen smelt gram -> boter : 1
+smelt gram boter -> en : 1
+gram boter en -> voeg : 1
+boter en voeg -> de : 1
+voeg de bloem -> laat : 1
+de bloem laat -> de : 1
+bloem laat de -> bloem : 1
+laat de bloem -> in : 1
+de bloem in -> ongeveer : 1
+de bloem in -> een : 1
+bloem in ongeveer -> we : 1
+in ongeveer we -> gaan : 1
+ongeveer we gaan -> minuten : 1
+we gaan minuten -> gaar : 1
+gaan minuten gaar -> voeg : 1
+minuten gaar voeg -> de : 1
+gaar voeg de -> en : 1
+voeg de en -> de : 1
+en de rest -> van : 2
+van de melk -> toe : 1
+de melk toe -> recept : 1
+melk toe recept -> is : 1
+toe recept is -> maar : 1
+recept is maar -> o : 1
+is maar o -> zo : 1
+maar o zo -> met : 1
+o zo met -> en : 1
+zo met en -> laat : 1
+met en laat -> het : 1
+laat het op -> een : 1
+het op een -> laag : 1
+een laag vuur -> doorkoken : 1
+laag vuur doorkoken -> tot : 1
+vuur doorkoken tot -> een : 1
+doorkoken tot een -> gebonden : 1
+tot een gebonden -> schep : 1
+een gebonden schep -> de : 1
+gebonden schep de -> mag : 1
+schep de mag -> het : 1
+de mag het -> niet : 1
+mag het niet -> te : 1
+het niet te -> vaak : 1
+niet te vaak -> op : 1
+te vaak op -> de : 1
+vaak op de -> een : 1
+op de een -> of : 1
+de een of -> de : 1
+een of de -> uitgelekte : 1
+of de uitgelekte -> boerenkool : 1
+de uitgelekte boerenkool -> erdoor : 1
+uitgelekte boerenkool erdoor -> en : 1
+boerenkool erdoor en -> breng : 1
+erdoor en breng -> op : 1
+en breng op -> smaak : 3
+peper en schep -> zit : 1
+en schep zit -> het : 1
+schep zit het -> gasfornuis : 1
+zit het gasfornuis -> altijd : 1
+het gasfornuis altijd -> onder : 1
+gasfornuis altijd onder -> de : 1
+altijd onder de -> rode : 1
+onder de rode -> de : 1
+de rode de -> boerenkool : 1
+rode de boerenkool -> op : 1
+de boerenkool op -> de : 1
+boerenkool op de -> strooi : 1
+op de strooi -> de : 1
+de strooi de -> roquefort : 1
+strooi de roquefort -> en : 1
+roquefort en de -> walnoten : 1
+en de walnoten -> erover : 1
+de walnoten erover -> en : 1
+walnoten erover en -> dek : 1
+erover en dek -> de : 1
+en dek de -> schaal : 1
+af met laat -> het : 1
+met laat het -> gerecht : 1
+laat het gerecht -> in : 1
+het gerecht in -> een : 1
+gerecht in een -> voorverwarmde : 1
+voorverwarmde oven in -> minuten : 1
+oven in minuten -> diegenen : 1
+in minuten diegenen -> die : 1
+minuten diegenen die -> geen : 1
+diegenen die geen -> boerenkool : 1
+die geen boerenkool -> zonder : 1
+geen boerenkool zonder -> worst : 1
+boerenkool zonder worst -> kunnen : 1
+zonder worst kunnen -> op : 1
+worst kunnen op -> het : 1
+kunnen op het -> laatste : 1
+het laatste groeneveld -> taxi : 1
+laatste groeneveld taxi -> groningen : 1
+groeneveld taxi groningen -> moment : 1
+taxi groningen moment -> een : 1
+groningen moment een -> rookworst : 1
+moment een rookworst -> dakpansgewijs : 1
+een rookworst dakpansgewijs -> langs : 1
+rookworst dakpansgewijs langs -> de : 1
+dakpansgewijs langs de -> boerenkool : 1
+langs de boerenkool -> gezellig : 1
+de boerenkool gezellig -> thuis : 1
+boerenkool gezellig thuis -> met : 1
+gezellig thuis met -> gasten : 1
+thuis met gasten -> mosselen : 1
+met gasten mosselen -> met : 1
+gasten mosselen met -> een : 1
+mosselen met een -> goed : 1
+met een goed -> glas : 1
+een goed glas -> witte : 1
+goed glas witte -> vers : 1
+glas witte vers -> stokbrood : 1
+witte vers stokbrood -> en : 1
+vers stokbrood en -> zelfgemaakte : 1
+stokbrood en zelfgemaakte -> dan : 1
+en zelfgemaakte dan -> beleef : 1
+zelfgemaakte dan beleef -> je : 1
+dan beleef je -> het : 1
+beleef je het -> echte : 1
+je het echte -> en : 1
+het echte en -> je : 1
+echte en je -> hoeft : 1
+en je hoeft -> er : 1
+je hoeft er -> niet : 1
+hoeft er niet -> lang : 1
+er niet lang -> voor : 1
+niet lang voor -> in : 1
+lang voor in -> de : 1
+in de keuken -> te : 1
+de keuken te -> de : 1
+keuken te de -> mosselen : 1
+te de mosselen -> kilo : 1
+de mosselen kilo -> per : 1
+mosselen kilo per -> moet : 1
+kilo per moet -> je : 1
+per moet je -> stevig : 1
+moet je stevig -> afborstelen : 1
+je stevig afborstelen -> in : 1
+stevig afborstelen in -> ruim : 1
+afborstelen in ruim -> koud : 1
+in ruim koud -> water : 1
+ruim koud water -> of : 1
+koud water of -> geheel : 1
+water of geheel -> geopende : 1
+of geheel geopende -> mosselen : 1
+geheel geopende mosselen -> moules : 1
+geopende mosselen moules -> kook : 1
+mosselen moules kook -> vervolgens : 1
+moules kook vervolgens -> de : 1
+kook vervolgens de -> mosselen : 1
+vervolgens de mosselen -> in : 1
+de mosselen in -> een : 1
+mosselen in een -> grote : 1
+pan met deksel -> met : 1
+met deksel met -> circa : 1
+deksel met circa -> witte : 1
+met circa witte -> wijn : 1
+circa witte wijn -> en : 1
+witte wijn en -> een : 1
+wijn en een -> grofgesneden : 1
+en een grofgesneden -> ou : 1
+een grofgesneden ou -> en : 1
+grofgesneden ou en -> knolselderij : 1
+ou en knolselderij -> en : 1
+en knolselderij en -> paprika : 1
+knolselderij en paprika -> ongeveer : 1
+en paprika ongeveer -> minuten : 1
+paprika ongeveer minuten -> tot : 1
+ongeveer minuten tot -> alle : 1
+minuten tot alle -> mosselen : 1
+tot alle mosselen -> geopend : 1
+alle mosselen geopend -> mijn : 1
+mosselen geopend mijn -> favoriete : 1
+geopend mijn favoriete -> sausjes : 1
+mijn favoriete sausjes -> voor : 1
+favoriete sausjes voor -> bij : 1
+sausjes voor bij -> de : 1
+bij de mosselen -> zijn : 1
+de mosselen zijn -> heel : 1
+mosselen zijn heel -> gemakkelijk : 1
+zijn heel gemakkelijk -> te : 1
+heel gemakkelijk te -> je : 1
+gemakkelijk te je -> zet : 1
+te je zet -> drie : 1
+je zet drie -> schaaltjes : 1
+zet drie schaaltjes -> naast : 1
+drie schaaltjes naast -> elkaar : 1
+schaaltjes naast elkaar -> op : 1
+naast elkaar op -> het : 1
+elkaar op het -> aanrecht : 1
+op het aanrecht -> en : 1
+het aanrecht en -> gaat : 1
+aanrecht en gaat -> als : 1
+en gaat als -> volgt : 1
+gaat als volgt -> te : 1
+als volgt te -> een : 1
+volgt te een -> klein : 1
+te een klein -> pakje : 1
+een klein pakje -> fazant : 1
+klein pakje fazant -> met : 1
+pakje fazant met -> gebakken : 1
+met gebakken kruidenroomkaas -> met : 1
+gebakken kruidenroomkaas met -> een : 1
+kruidenroomkaas met een -> flinke : 1
+met een flinke -> uitgeperste : 1
+een flinke uitgeperste -> teen : 1
+flinke uitgeperste teen -> knoflook : 1
+uitgeperste teen knoflook -> fijnprakken : 1
+teen knoflook fijnprakken -> en : 1
+knoflook fijnprakken en -> vermengen : 1
+fijnprakken en vermengen -> met : 1
+en vermengen met -> twee : 1
+vermengen met twee -> eetlepels : 2
+met twee eetlepels -> fijngehakte : 1
+met twee eetlepels -> een : 1
+twee eetlepels fijngehakte -> peterselie : 1
+eetlepels fijngehakte peterselie -> en : 1
+fijngehakte peterselie en -> liter : 1
+peterselie en liter -> ongezoete : 1
+en liter ongezoete -> daan : 1
+liter ongezoete daan -> van : 1
+ongezoete daan van -> der : 1
+daan van der -> vliet : 1
+van der vliet -> umc : 1
+der vliet umc -> st : 1
+vliet umc st -> nijmegen : 1
+umc st nijmegen -> twee : 1
+st nijmegen twee -> eetlepels : 1
+nijmegen twee eetlepels -> pittige : 1
+twee eetlepels pittige -> mosterd : 1
+eetlepels pittige mosterd -> vermengen : 1
+pittige mosterd vermengen -> met : 1
+mosterd vermengen met -> vier : 1
+vermengen met vier -> eetlepels : 1
+met vier eetlepels -> mayonaise : 1
+vier eetlepels mayonaise -> en : 1
+eetlepels mayonaise en -> twee : 1
+mayonaise en twee -> eetlepels : 1
+en twee eetlepels -> iets : 1
+twee eetlepels iets -> fazanten : 1
+twee eetlepels iets -> geslagen : 1
+eetlepels iets fazanten -> gram : 1
+iets fazanten gram -> vet : 1
+fazanten gram vet -> keukentouw : 1
+gram vet keukentouw -> zout : 1
+vet keukentouw zout -> en : 1
+keukentouw zout en -> peper : 1
+en peper olie -> geslagen : 1
+peper olie geslagen -> om : 1
+olie geslagen om -> te : 1
+geslagen om te -> bakken : 1
+om te bakken -> geschild : 1
+te bakken geschild -> en : 1
+bakken geschild en -> in : 1
+geschild en in -> stukjes : 1
+en in stukjes -> eetlepels : 1
+in stukjes eetlepels -> calvados : 1
+stukjes eetlepels calvados -> bakje : 1
+eetlepels calvados bakje -> verse : 1
+calvados bakje verse -> fijngehakt : 1
+bakje verse fijngehakt -> pikante : 1
+verse fijngehakt pikante -> vier : 1
+fijngehakt pikante vier -> eetlepels : 1
+pikante vier eetlepels -> eetlepel : 1
+vier eetlepels eetlepel -> mosterd : 1
+eetlepels eetlepel mosterd -> ovenschaal : 1
+eetlepel mosterd ovenschaal -> met : 1
+mosterd ovenschaal met -> mayonaise : 1
+ovenschaal met mayonaise -> vermengen : 1
+met mayonaise vermengen -> met : 1
+mayonaise vermengen met -> twee : 1
+twee eetlepels een -> fijngehakt : 1
+eetlepels een fijngehakt -> uitje : 1
+een fijngehakt uitje -> en : 1
+fijngehakt uitje en -> een : 1
+uitje en een -> verwarm : 1
+en een verwarm -> de : 1
+een verwarm de -> oven : 1
+voor op wrijf -> de : 1
+op wrijf de -> fazanten : 1
+wrijf de fazanten -> in : 1
+de fazanten in -> met : 3
+de fazanten in -> een : 1
+fazanten in met -> zout : 1
+fazanten in met -> de : 2
+in met zout -> en : 1
+zout en omwikkel -> uitgeperst : 1
+en omwikkel uitgeperst -> teentje : 1
+omwikkel uitgeperst teentje -> knoflook : 1
+uitgeperst teentje knoflook -> erdoor : 1
+teentje knoflook erdoor -> de : 1
+knoflook erdoor de -> fazanten : 1
+erdoor de fazanten -> met : 1
+de fazanten met -> het : 1
+fazanten met het -> spek : 1
+met het spek -> en : 1
+het spek en -> bind : 1
+spek en bind -> het : 1
+en bind het -> vast : 1
+bind het vast -> met : 1
+het vast met -> bak : 1
+vast met bak -> de : 1
+bak de fazanten -> in : 1
+fazanten in een -> grote : 1
+een grote twee -> eetlepels : 1
+grote twee eetlepels -> iets : 1
+eetlepels iets geslagen -> braadpan : 1
+iets geslagen braadpan -> of : 1
+geslagen braadpan of -> hapjespan : 1
+braadpan of hapjespan -> totdat : 1
+of hapjespan totdat -> deze : 1
+hapjespan totdat deze -> aan : 1
+totdat deze aan -> alle : 1
+deze aan alle -> kanten : 1
+aan alle kanten -> bruin : 1
+alle kanten bruin -> laat : 1
+kanten bruin laat -> even : 1
+bruin laat even -> rusten : 1
+laat even rusten -> op : 1
+even rusten op -> een : 1
+rusten op een -> room : 1
+op een room -> bak : 1
+een room bak -> ondertussen : 1
+room bak ondertussen -> in : 1
+bak ondertussen in -> het : 1
+ondertussen in het -> bakvet : 1
+in het bakvet -> de : 1
+het bakvet de -> zet : 1
+bakvet de zet -> voor : 1
+de zet voor -> het : 1
+zet voor het -> flamberen : 1
+voor het flamberen -> de : 1
+het flamberen de -> afzuigkap : 1
+flamberen de afzuigkap -> uit : 1
+de afzuigkap uit -> en : 1
+afzuigkap uit en -> giet : 1
+uit en giet -> de : 1
+en giet de -> calvados : 1
+giet de calvados -> in : 1
+de calvados in -> een : 1
+calvados in een -> grote : 1
+een grote metalen -> zout : 1
+grote metalen zout -> en : 1
+metalen zout en -> peper : 1
+peper naar eigen -> smaak : 1
+naar eigen smaak -> toevoegen : 1
+eigen smaak toevoegen -> verwarm : 1
+smaak toevoegen verwarm -> de : 1
+toevoegen verwarm de -> lepel : 1
+verwarm de lepel -> voorzichtig : 1
+de lepel voorzichtig -> door : 1
+lepel voorzichtig door -> deze : 1
+voorzichtig door deze -> schuin : 1
+door deze schuin -> op : 1
+deze schuin op -> een : 1
+schuin op een -> gaspit : 1
+op een gaspit -> te : 1
+een gaspit te -> giet : 1
+gaspit te giet -> de : 1
+te giet de -> brandende : 1
+giet de brandende -> en : 1
+de brandende en -> garneren : 1
+brandende en garneren -> met : 1
+en garneren met -> calvados : 1
+garneren met calvados -> over : 1
+met calvados over -> de : 1
+calvados over de -> bedek : 1
+over de bedek -> een : 1
+de bedek een -> ovenschaal : 1
+bedek een ovenschaal -> met : 1
+een ovenschaal met -> een : 1
+ovenschaal met een -> deel : 1
+met een deel -> van : 1
+van de leg -> de : 1
+leg de fazanten -> hierop : 1
+de fazanten hierop -> en : 1
+fazanten hierop en -> de : 1
+hierop en de -> rest : 1
+van de ou -> en : 1
+de ou en -> appeltjes : 1
+ou en appeltjes -> hier : 1
+en appeltjes hier -> roer : 1
+appeltjes hier roer -> de : 1
+hier roer de -> los : 1
+roer de los -> met : 1
+de los met -> de : 1
+los met de -> tijm : 1
+met de tijm -> en : 1
+de tijm en -> voeg : 1
+tijm en voeg -> een : 1
+en voeg een -> klein : 1
+voeg een klein -> beetje : 1
+klein beetje zout -> en : 1
+beetje zout en -> ruim : 1
+zout en ruim -> peper : 1
+en ruim peper -> toe : 1
+ruim peper toe -> en : 1
+peper toe en -> smeer : 1
+toe en smeer -> de : 1
+en smeer de -> fazanten : 1
+smeer de fazanten -> in : 2
+met de helft -> van : 2
+helft van het -> doe : 1
+van het doe -> het : 1
+het doe het -> deksel : 1
+doe het deksel -> op : 1
+het deksel op -> de : 1
+op de pan -> en : 1
+laat de fazanten -> minuten : 1
+de fazanten minuten -> in : 1
+fazanten minuten in -> de : 1
+de oven haal -> nu : 1
+oven haal nu -> het : 1
+haal nu het -> spek : 1
+nu het spek -> van : 1
+het spek van -> de : 1
+spek van de -> smeer : 1
+van de smeer -> de : 1
+de smeer de -> fazanten : 1
+rest van het -> en : 1
+van het en -> laat : 1
+het en laat -> nog : 1
+en laat nog -> tot : 1
+laat nog tot -> minuten : 1
+nog tot minuten -> lekker : 1
+tot minuten lekker -> met : 1
+minuten lekker met -> aardappelpuree : 1
+lekker met aardappelpuree -> en : 1
+met aardappelpuree en -> als : 1
+aardappelpuree en als -> wijnsuggestie : 1
+en als wijnsuggestie -> zou : 1
+als wijnsuggestie zou -> ik : 1
+wijnsuggestie zou ik -> een : 1
+zou ik een -> witte : 1
+ik een witte -> bourgogne : 1
+een witte bourgogne -> nemen : 1
+witte bourgogne nemen -> zoals : 1
+bourgogne nemen zoals -> een : 1
+nemen zoals een -> of : 1
+zoals een of -> een : 1
+een of een -> deze : 1
+of een deze -> wijnen : 1
+een deze wijnen -> zullen : 1
+deze wijnen zullen -> zowel : 1
+wijnen zullen zowel -> bij : 1
+zullen zowel bij -> echte : 1
+zowel bij echte -> directeur : 1
+bij echte directeur -> nierstichting : 1
+echte directeur nierstichting -> kenners : 1
+directeur nierstichting kenners -> als : 1
+nierstichting kenners als -> bij : 1
+kenners als bij -> gelegenheidsdrinkers : 1
+als bij gelegenheidsdrinkers -> in : 1
+bij gelegenheidsdrinkers in -> de : 1
+gelegenheidsdrinkers in de -> smaak : 1
+in de smaak -> linguini : 1
+de smaak linguini -> alle : 1
+smaak linguini alle -> linguini : 1
+linguini alle linguini -> gram : 1
+alle linguini gram -> per : 1
+linguini gram per -> nodig : 1
+gram per nodig -> uw : 1
+per nodig uw -> hele : 1
+nodig uw hele -> familie : 1
+uw hele familie -> of : 1
+hele familie of -> minstens : 1
+familie of minstens -> vrienden : 1
+of minstens vrienden -> uit : 1
+minstens vrienden uit -> de : 1
+vrienden uit de -> tenen : 1
+uit de tenen -> knoflook : 1
+de tenen knoflook -> genoemde : 1
+tenen knoflook genoemde -> hoeveelheden : 1
+knoflook genoemde hoeveelheden -> hierop : 1
+genoemde hoeveelheden hierop -> neem : 1
+hoeveelheden hierop neem -> een : 1
+hierop neem een -> pan : 1
+neem een pan -> met : 1
+pan met een -> blik : 1
+met een blik -> gepelde : 1
+een blik gepelde -> dikke : 1
+blik gepelde dikke -> plaats : 1
+gepelde dikke plaats -> op : 1
+dikke plaats op -> een : 1
+plaats op een -> halfhoog : 1
+op een halfhoog -> vuur : 1
+een halfhoog vuur -> en : 1
+halfhoog vuur en -> doe : 1
+vuur en doe -> er : 1
+doe er twee -> eetlepels : 1
+er twee eetlepels -> potje : 1
+twee eetlepels potje -> vongole : 1
+eetlepels potje vongole -> olijfolie : 1
+potje vongole olijfolie -> fruit : 1
+vongole olijfolie fruit -> de : 1
+olijfolie fruit de -> knoflooktenen : 1
+fruit de knoflooktenen -> goudbruin : 1
+de knoflooktenen goudbruin -> als : 1
+knoflooktenen goudbruin als -> de : 1
+goudbruin als de -> olie : 1
+als de olie -> heet : 1
+de olie heet -> verkrijgbaar : 1
+olie heet verkrijgbaar -> bij : 1
+heet verkrijgbaar bij -> italiaanse : 1
+verkrijgbaar bij italiaanse -> laat : 1
+bij italiaanse laat -> de : 1
+italiaanse laat de -> knoflook : 1
+laat de knoflook -> niet : 1
+de knoflook niet -> te : 1
+knoflook niet te -> bruin : 1
+niet te bruin -> want : 1
+te bruin want -> dan : 1
+bruin want dan -> wordt : 1
+want dan wordt -> deze : 1
+dan wordt deze -> glas : 1
+wordt deze glas -> witte : 1
+deze glas witte -> voeg : 1
+glas witte voeg -> de : 1
+witte voeg de -> gepelde : 1
+voeg de gepelde -> het : 1
+de gepelde het -> vocht : 1
+gepelde het vocht -> van : 1
+het vocht van -> de : 1
+vocht van de -> de : 1
+van de de -> wijn : 1
+van de de -> plakjes : 1
+de de wijn -> en : 1
+de wijn en -> bosje : 1
+wijn en bosje -> wat : 1
+en bosje wat -> van : 1
+bosje wat van -> de : 1
+wat van de -> peper : 1
+wat van de -> saus : 1
+van de peper -> toe : 1
+de peper toe -> op : 1
+peper toe op -> voor : 1
+toe op voor -> het : 1
+op voor het -> voeg : 1
+voor het voeg -> eventueel : 1
+het voeg eventueel -> gedroogde : 1
+voeg eventueel gedroogde -> rode : 1
+eventueel gedroogde rode -> wat : 1
+gedroogde rode wat -> suiker : 1
+rode wat suiker -> aan : 1
+wat suiker aan -> de : 1
+suiker aan de -> saus : 1
+aan de saus -> toe : 1
+aan de saus -> en : 1
+de saus toe -> als : 1
+saus toe als -> de : 1
+toe als de -> tomaten : 1
+als de tomaten -> te : 1
+de tomaten te -> zuur : 1
+tomaten te zuur -> laat : 1
+te zuur laat -> de : 1
+zuur laat de -> saus : 1
+laat de saus -> inkoken : 1
+de saus inkoken -> tot : 1
+saus inkoken tot -> deze : 1
+inkoken tot deze -> nog : 1
+tot deze nog -> vloeibaar : 1
+deze nog vloeibaar -> kook : 1
+nog vloeibaar kook -> intussen : 1
+vloeibaar kook intussen -> de : 1
+kook intussen de -> linguini : 1
+intussen de linguini -> al : 1
+de linguini al -> dente : 1
+linguini al dente -> en : 1
+al dente en -> giet : 1
+dente en giet -> er : 1
+en giet er -> wat : 1
+giet er wat -> olijfolie : 1
+er wat olijfolie -> over : 1
+wat olijfolie over -> wanneer : 1
+olijfolie over wanneer -> de : 1
+over wanneer de -> linguini : 1
+wanneer de linguini -> zijn : 1
+de linguini zijn -> voeg : 1
+linguini zijn voeg -> de : 1
+zijn voeg de -> vongole : 1
+voeg de vongole -> en : 1
+de vongole en -> flink : 1
+vongole en flink -> wat : 1
+en flink wat -> kleingehakte : 1
+flink wat kleingehakte -> peterselie : 1
+wat kleingehakte peterselie -> lilien : 1
+kleingehakte peterselie lilien -> wilhemina : 1
+peterselie lilien wilhemina -> toe : 1
+lilien wilhemina toe -> aan : 1
+wilhemina toe aan -> de : 1
+de saus en -> warm : 1
+saus en warm -> even : 1
+warm even doe -> wat : 1
+even doe wat -> van : 1
+doe wat van -> de : 1
+saus in warme -> universitair : 1
+in warme universitair -> medisch : 1
+warme universitair medisch -> centrum : 1
+medisch centrum borden -> en : 1
+centrum borden en -> schep : 1
+en schep er -> de : 1
+er de linguini -> schep : 1
+de linguini schep -> de : 1
+linguini schep de -> rest : 1
+schep de rest -> van : 1
+de saus utrecht -> over : 1
+saus utrecht over -> de : 1
+utrecht over de -> linguini : 1
+over de linguini -> en : 1
+de linguini en -> dien : 1
+linguini en dien -> warm : 1
+en dien warm -> drink : 1
+dien warm drink -> er : 1
+warm drink er -> pino : 1
+drink er pino -> grigio : 1
+er pino grigio -> bij : 1
+pino grigio bij -> en : 1
+grigio bij en -> spreek : 1
+bij en spreek -> allemaal : 1
+en spreek allemaal -> zo : 1
+spreek allemaal zo -> hard : 1
+allemaal zo hard -> mogelijk : 1
+zo hard mogelijk -> italiaans : 1
+hard mogelijk italiaans -> door : 1
+mogelijk italiaans door -> elkaar : 1
+italiaans door elkaar -> tijdens : 1
+door elkaar tijdens -> het : 1
+elkaar tijdens het -> kopje : 1
+tijdens het kopje -> verwarm : 1
+het kopje verwarm -> de : 1
+kopje verwarm de -> oven : 1
+voor op leg -> bakpapier : 1
+op leg bakpapier -> op : 1
+leg bakpapier op -> een : 1
+bakpapier op een -> eetlepels : 1
+op een eetlepels -> fijngesneden : 1
+een eetlepels fijngesneden -> eetlepels : 1
+eetlepels fijngesneden eetlepels -> fijngesneden : 1
+fijngesneden eetlepels fijngesneden -> zeef : 1
+eetlepels fijngesneden zeef -> de : 1
+fijngesneden zeef de -> bloem : 1
+bloem in een -> voeg : 1
+voeg de eetlepels -> fijngesneden : 1
+de eetlepels fijngesneden -> gekonfijte : 1
+eetlepels fijngesneden gekonfijte -> gekonfijte : 1
+eetlepels fijngesneden gekonfijte -> doe : 1
+fijngesneden gekonfijte gekonfijte -> kersen : 1
+gekonfijte gekonfijte kersen -> en : 1
+gekonfijte kersen en -> gekonfijte : 1
+kersen en gekonfijte -> citroenschil : 1
+en gekonfijte citroenschil -> toe : 1
+gekonfijte citroenschil toe -> en : 1
+citroenschil toe en -> roer : 1
+goed door eetlepels -> fijngesneden : 1
+door eetlepels fijngesneden -> gekonfijte : 1
+fijngesneden gekonfijte doe -> de : 1
+gekonfijte doe de -> boter : 1
+doe de boter -> en : 1
+boter en de -> bruine : 1
+en de bruine -> basterdsuiker : 1
+de bruine basterdsuiker -> in : 1
+bruine basterdsuiker in -> een : 1
+basterdsuiker in een -> pan : 1
+pan en verwarm -> al : 1
+en verwarm al -> roerend : 1
+verwarm al roerend -> op : 1
+al roerend op -> laag : 1
+roerend op laag -> vuur : 1
+op laag vuur -> tot : 1
+laag vuur tot -> de : 1
+vuur tot de -> boter : 1
+tot de boter -> gesmolten : 1
+de boter gesmolten -> is : 1
+boter gesmolten is -> en : 1
+gesmolten is en -> de : 1
+is en de -> gram : 1
+de gram suiker -> giet : 1
+gram suiker giet -> dit : 1
+suiker giet dit -> over : 1
+giet dit over -> het : 1
+dit over het -> kopje : 1
+over het kopje -> bruine : 1
+het kopje bruine -> en : 1
+kopje bruine en -> meng : 1
+bruine en meng -> vorm : 1
+en meng vorm -> hoopjes : 1
+meng vorm hoopjes -> ter : 1
+vorm hoopjes ter -> grootte : 1
+hoopjes ter grootte -> van : 1
+ter grootte van -> een : 1
+grootte van een -> flinke : 1
+van een flinke -> theelepel : 1
+een flinke theelepel -> gram : 1
+flinke theelepel gram -> pure : 1
+theelepel gram pure -> op : 1
+gram pure op -> de : 1
+pure op de -> bakplaat : 1
+op de bakplaat -> met : 1
+bakplaat met ongeveer -> druk : 1
+met ongeveer druk -> aan : 1
+ongeveer druk aan -> tot : 1
+druk aan tot -> ze : 1
+aan tot ze -> eetlepel : 1
+tot ze eetlepel -> in : 1
+ze eetlepel in -> doorsnede : 1
+eetlepel in doorsnede -> bak : 1
+in doorsnede bak -> de : 1
+doorsnede bak de -> koekjes : 1
+bak de koekjes -> gedurende : 1
+de koekjes gedurende -> minuten : 1
+koekjes gedurende minuten -> en : 1
+gedurende minuten en -> laat : 1
+minuten en laat -> daarna : 1
+en laat daarna -> minuten : 1
+laat daarna minuten -> op : 1
+daarna minuten op -> de : 1
+minuten op de -> plaat : 1
+op de plaat -> leg : 1
+de plaat leg -> de : 1
+plaat leg de -> koekjes : 1
+leg de koekjes -> voorzichtig : 1
+de koekjes voorzichtig -> op : 1
+koekjes voorzichtig op -> een : 1
+voorzichtig op een -> rooster : 1
+op een rooster -> om : 1
+een rooster om -> helemaal : 1
+rooster om helemaal -> af : 1
+om helemaal af -> te : 1
+helemaal af te -> laten : 1
+af te laten -> maak : 1
+te laten maak -> op : 1
+laten maak op -> dezelfde : 1
+maak op dezelfde -> manier : 1
+op dezelfde manier -> nog : 1
+dezelfde manier nog -> meer : 1
+manier nog meer -> koekjes : 1
+nog meer koekjes -> van : 1
+meer koekjes van -> het : 1
+koekjes van het -> overgebleven : 1
+van het overgebleven -> breek : 1
+het overgebleven breek -> de : 1
+overgebleven breek de -> chocolade : 1
+breek de chocolade -> in : 1
+de chocolade in -> kleine : 1
+chocolade in kleine -> stukjes : 1
+stukjes en smelt -> deze : 1
+en smelt deze -> met : 1
+smelt deze met -> een : 1
+met een eetlepel -> bestrijk : 1
+een eetlepel bestrijk -> kant : 1
+eetlepel bestrijk kant -> van : 1
+bestrijk kant van -> elke : 1
+kant van elke -> florentine : 1
+van elke florentine -> met : 1
+elke florentine met -> de : 1
+florentine met de -> gesmolten : 1
+de gesmolten chocolade -> en : 1
+gesmolten chocolade en -> wacht : 1
+chocolade en wacht -> tot : 1
+en wacht tot -> de : 1
+wacht tot de -> chocolade : 1
+tot de chocolade -> gestold : 1
+de chocolade gestold -> mosselman : 1
+chocolade gestold mosselman -> erg : 1
+gestold mosselman erg -> antonius : 1
+mosselman erg antonius -> aspergeterrine : 1
+erg antonius aspergeterrine -> met : 1
+antonius aspergeterrine met -> niet : 1
+aspergeterrine met niet -> te : 1
+met niet te -> dikke : 1
+niet te dikke -> witte : 1
+te dikke witte -> asperges : 1
+dikke witte asperges -> zout : 1
+witte asperges zout -> laat : 1
+asperges zout laat -> de : 1
+zout laat de -> asperges : 1
+laat de asperges -> minuten : 1
+de asperges minuten -> koken : 1
+asperges minuten koken -> met : 1
+minuten koken met -> suiker : 1
+koken met suiker -> en : 1
+met suiker en -> foelie : 1
+suiker en foelie -> en : 1
+en foelie en -> laat : 1
+foelie en laat -> afkoelen : 1
+en laat afkoelen -> in : 1
+en laat afkoelen -> zonder : 1
+laat afkoelen in -> het : 1
+afkoelen in het -> theelepel : 1
+in het theelepel -> suiker : 1
+het theelepel suiker -> stukje : 1
+theelepel suiker stukje -> foelie : 1
+suiker stukje foelie -> gram : 1
+stukje foelie gram -> week : 1
+foelie gram week -> de : 1
+gram week de -> gelatine : 1
+week de gelatine -> in : 1
+de gelatine in -> koud : 1
+gelatine in koud -> kook : 1
+in koud kook -> de : 1
+koud kook de -> kwarteleitjes : 1
+kook de kwarteleitjes -> in : 1
+de kwarteleitjes in -> pel : 1
+kwarteleitjes in pel -> de : 1
+pel de eitjes -> en : 1
+de eitjes en -> dep : 1
+eitjes en dep -> deze : 1
+en dep deze -> gelatine : 1
+dep deze gelatine -> kwarteleitjes : 1
+deze gelatine kwarteleitjes -> dl : 1
+gelatine kwarteleitjes dl -> witte : 1
+kwarteleitjes dl witte -> wijn : 1
+dl witte wijn -> gram : 1
+witte wijn gram -> rauwe : 1
+wijn gram rauwe -> ham : 1
+gram rauwe ham -> in : 1
+rauwe ham in -> plakjes : 1
+ham in plakjes -> peterselie : 1
+in plakjes peterselie -> breng : 1
+plakjes peterselie breng -> de : 1
+peterselie breng de -> wijn : 1
+breng de wijn -> met : 1
+de wijn met -> dl : 1
+wijn met dl -> aspergevocht : 1
+met dl aspergevocht -> aan : 1
+dl aspergevocht aan -> de : 1
+aspergevocht aan de -> kook : 1
+aan de kook -> en : 1
+de kook en -> los : 1
+kook en los -> de : 1
+en los de -> gelatine : 1
+los de gelatine -> er : 1
+de gelatine er -> in : 1
+gelatine er in -> voeg : 1
+er in voeg -> flink : 1
+in voeg flink -> veel : 1
+voeg flink veel -> dille : 1
+flink veel dille -> kleine : 1
+veel dille kleine -> terrine : 1
+dille kleine terrine -> van : 1
+kleine terrine van -> zout : 1
+terrine van zout -> toe : 1
+van zout toe -> en : 1
+zout toe en -> laat : 1
+toe en laat -> afkoelen : 1
+laat afkoelen zonder -> dat : 1
+afkoelen zonder dat -> het : 1
+zonder dat het -> gaat : 1
+dat het gaat -> ongeveer : 1
+het gaat ongeveer -> liter : 1
+gaat ongeveer liter -> bekleed : 1
+ongeveer liter bekleed -> de : 1
+liter bekleed de -> vorm : 1
+bekleed de vorm -> met : 1
+de vorm met -> plastic : 1
+vorm met plastic -> folie : 1
+folie en bedek -> vervolgens : 1
+en bedek vervolgens -> de : 1
+bedek vervolgens de -> bodem : 1
+vervolgens de bodem -> met : 1
+de bodem met -> de : 1
+bodem met de -> helft : 1
+de de plakjes -> moeten : 1
+de plakjes moeten -> elkaar : 1
+plakjes moeten elkaar -> overlappen : 1
+moeten elkaar overlappen -> en : 1
+elkaar overlappen en -> de : 1
+overlappen en de -> uiteinden : 1
+en de uiteinden -> mogen : 1
+de uiteinden mogen -> over : 1
+uiteinden mogen over -> de : 1
+mogen over de -> rand : 1
+over de rand -> de : 1
+de rand de -> neem : 1
+rand de neem -> de : 1
+de neem de -> asperges : 1
+neem de asperges -> uit : 1
+de asperges uit -> de : 1
+asperges uit de -> pan : 1
+de pan dep -> ze : 1
+pan dep ze -> verdeel : 1
+dep ze verdeel -> ze : 1
+ze verdeel ze -> over : 1
+verdeel ze over -> de : 1
+ze over de -> bodem : 1
+bodem van schenk -> hier : 1
+van schenk hier -> een : 1
+schenk hier een -> rucola : 1
+hier een rucola -> radijsjes : 1
+een rucola radijsjes -> olijfolie : 1
+rucola radijsjes olijfolie -> laagje : 1
+radijsjes olijfolie laagje -> gelei : 1
+olijfolie laagje gelei -> over : 1
+laagje gelei over -> en : 2
+gelei over en -> dek : 2
+over en dek -> af : 1
+over en dek -> weer : 1
+en dek af -> met : 1
+dek af met -> een : 1
+af met een -> laagje : 2
+met een laagje -> maak : 1
+met een laagje -> leg : 1
+een laagje maak -> nog : 1
+laagje maak nog -> een : 1
+maak nog een -> laagje : 1
+nog een laagje -> asperges : 1
+een laagje asperges -> en : 1
+laagje asperges en -> verdeel : 1
+asperges en verdeel -> de : 1
+verdeel de peterselie -> en : 1
+de peterselie en -> dille : 1
+peterselie en dille -> schenk : 1
+en dille schenk -> hier : 1
+dille schenk hier -> weer : 1
+schenk hier weer -> een : 1
+hier weer een -> laagje : 1
+weer een laagje -> gelei : 1
+een laagje gelei -> over : 1
+en dek weer -> af : 1
+dek weer af -> met : 1
+weer af met -> een : 1
+een laagje leg -> de : 1
+laagje leg de -> laatste : 1
+leg de laatste -> asperges : 1
+de laatste asperges -> in : 1
+laatste asperges in -> de : 1
+asperges in de -> vorm : 1
+vorm en schenk -> de : 1
+en schenk de -> gelei : 1
+schenk de gelei -> er : 1
+de gelei er -> over : 1
+gelei er over -> zodat : 1
+er over zodat -> ze : 1
+over zodat ze -> net : 1
+zodat ze net -> vouw : 1
+ze net vouw -> de : 1
+net vouw de -> overhangende : 1
+vouw de overhangende -> ham : 1
+de overhangende ham -> erover : 1
+overhangende ham erover -> zodat : 1
+ham erover zodat -> de : 1
+erover zodat de -> asperges : 1
+zodat de asperges -> zijn : 1
+de asperges zijn -> laat : 1
+asperges zijn laat -> de : 1
+zijn laat de -> terrine : 1
+laat de terrine -> nacht : 1
+de terrine nacht -> in : 1
+terrine nacht in -> de : 1
+nacht in de -> koelkast : 1
+de koelkast stort -> de : 1
+koelkast stort de -> terrine : 1
+stort de terrine -> en : 1
+de terrine en -> snij : 1
+terrine en snij -> er : 1
+en snij er -> plakken : 1
+en snij er -> zout : 1
+snij er plakken -> van : 1
+er plakken van -> verdeel : 1
+plakken van verdeel -> de : 1
+van verdeel de -> plakken : 1
+verdeel de plakken -> over : 1
+de plakken over -> de : 1
+plakken over de -> borden : 1
+over de borden -> en : 1
+de borden en -> garneer : 1
+borden en garneer -> met : 1
+en garneer met -> rucola : 1
+garneer met rucola -> en : 1
+met rucola en -> sprenkel : 1
+rucola en sprenkel -> rondom : 1
+en sprenkel rondom -> olijfolie : 1
+sprenkel rondom olijfolie -> en : 1
+rondom olijfolie en -> lekker : 1
+olijfolie en lekker -> met : 1
+en lekker met -> toast : 1
+lekker met toast -> met : 1
+met toast met -> olijfolie : 1
+toast met olijfolie -> of : 1
+met olijfolie of -> van : 1
+olijfolie of van -> kasterop : 1
+of van kasterop -> medische : 1
+van kasterop medische -> administratie : 1
+kasterop medische administratie -> en : 1
+medische administratie en -> allocatie : 1
+administratie en allocatie -> leiden : 1
+en allocatie leiden -> zeeduivel : 1
+allocatie leiden zeeduivel -> met : 1
+leiden zeeduivel met -> schorseneren : 1
+met schorseneren la -> en : 1
+schorseneren la en -> zeeduivelfilets : 1
+la en zeeduivelfilets -> gram : 1
+en zeeduivelfilets gram -> schorseneren : 1
+zeeduivelfilets gram schorseneren -> schil : 1
+gram schorseneren schil -> schorseneren : 1
+schorseneren schil schorseneren -> en : 1
+schil schorseneren en -> snijd : 1
+schorseneren en snijd -> deze : 1
+snijd deze in -> stukjes : 1
+deze in stukjes -> van : 1
+in stukjes van -> kook : 1
+stukjes van kook -> de : 1
+van kook de -> schorseneren : 1
+kook de schorseneren -> beetgaar : 1
+de schorseneren beetgaar -> melk : 1
+schorseneren beetgaar melk -> eetlepels : 1
+beetgaar melk eetlepels -> citroensap : 1
+melk eetlepels citroensap -> in : 1
+eetlepels citroensap in -> circa : 1
+citroensap in circa -> minuten : 1
+in circa minuten -> in : 1
+in circa minuten -> gaar : 1
+in een liter -> de : 1
+een liter de -> citroensap : 1
+liter de citroensap -> en : 1
+de citroensap en -> zout : 1
+citroensap en zout -> en : 1
+en zout en -> peper : 1
+peper naar laat -> slagroom : 1
+naar laat slagroom -> bosje : 1
+laat slagroom bosje -> bieslook : 1
+slagroom bosje bieslook -> olijfolie : 1
+bosje bieslook olijfolie -> pesto : 1
+bieslook olijfolie pesto -> uitlekken : 1
+olijfolie pesto uitlekken -> en : 1
+pesto uitlekken en -> bewaar : 1
+en bewaar tot -> gebruik : 1
+bewaar tot gebruik -> in : 1
+tot gebruik in -> de : 1
+gebruik in de -> was : 1
+in de was -> de : 1
+de was de -> overgebleven : 1
+was de overgebleven -> schorseneer : 1
+de overgebleven schorseneer -> goed : 1
+overgebleven schorseneer goed -> en : 1
+schorseneer goed en -> snij : 1
+goed en snij -> er : 1
+snij er zout -> en : 1
+er zout en -> met : 1
+zout en met -> een : 1
+en met een -> dunschiller : 1
+met een dunschiller -> plakken : 1
+een dunschiller plakken -> was : 1
+dunschiller plakken was -> de : 1
+plakken was de -> plakken : 1
+was de plakken -> en : 1
+de plakken en -> droog : 1
+plakken en droog -> goed : 1
+en droog goed -> verhit : 1
+droog goed verhit -> olijfolie : 1
+goed verhit olijfolie -> tot : 1
+verhit olijfolie tot -> de : 1
+olijfolie tot de -> damp : 1
+tot de damp -> eraf : 1
+de damp eraf -> komt : 1
+damp eraf komt -> en : 1
+eraf komt en -> frituur : 1
+komt en frituur -> hierin : 1
+en frituur hierin -> de : 1
+frituur hierin de -> laat : 1
+hierin de laat -> uitlekken : 1
+de laat uitlekken -> op : 1
+laat uitlekken op -> keukenpapier : 1
+uitlekken op keukenpapier -> en : 1
+op keukenpapier en -> bewaar : 1
+keukenpapier en bewaar -> de : 1
+en bewaar de -> plakken : 1
+bewaar de plakken -> in : 1
+de plakken in -> een : 1
+plakken in een -> afgesloten : 1
+in een afgesloten -> kook : 1
+een afgesloten kook -> de : 1
+afgesloten kook de -> slagroom : 1
+kook de slagroom -> tot : 1
+de slagroom tot -> de : 1
+slagroom tot de -> helft : 1
+de helft voeg -> de : 1
+helft voeg de -> gaargekookte : 1
+voeg de gaargekookte -> schorseneren : 1
+de gaargekookte schorseneren -> toe : 1
+gaargekookte schorseneren toe -> en : 1
+schorseneren toe en -> breng : 1
+peper en roer -> op : 1
+en roer op -> laatst : 1
+roer op laatst -> de : 1
+op laatst de -> fijngesneden : 1
+laatst de fijngesneden -> bieslook : 1
+de fijngesneden bieslook -> verhit : 1
+fijngesneden bieslook verhit -> olijfolie : 1
+bieslook verhit olijfolie -> en : 1
+verhit olijfolie en -> bak : 1
+olijfolie en bak -> hierin : 1
+en bak hierin -> de : 1
+bak hierin de -> zeeduivel : 1
+hierin de zeeduivel -> in : 1
+de zeeduivel in -> circa : 1
+zeeduivel in circa -> minuten : 1
+circa minuten gaar -> en : 1
+minuten gaar en -> breng : 1
+gaar en breng -> op : 1
+peper en sieber -> wetenschap : 1
+en sieber wetenschap -> en : 1
+sieber wetenschap en -> leg : 1
+wetenschap en leg -> de : 1
+leg de schorseneren -> la : 1
+de schorseneren la -> in : 1
+schorseneren la in -> het : 1
+la in het -> midden : 1
+van het schep -> er : 1
+het schep er -> een : 1
+schep er een -> rand : 1
+er een rand -> pesto : 1
+een rand pesto -> projectleider : 1
+rand pesto projectleider -> donatie : 1
+pesto projectleider donatie -> leg : 1
+projectleider donatie leg -> de : 1
+donatie leg de -> zeeduivel : 1
+leg de zeeduivel -> op : 1
+de zeeduivel op -> de : 1
+zeeduivel op de -> schorseneren : 1
+op de schorseneren -> en : 1
+de schorseneren en -> garneer : 1
+schorseneren en garneer -> dit : 1
+en garneer dit -> alles : 1
+garneer dit alles -> met : 1
+dit alles met -> de : 1
+alles met de -> gefrituurde : 1
+met de gefrituurde -> schorseneren : 1
+de gefrituurde schorseneren -> en : 1
+gefrituurde schorseneren en -> enkele : 1
+schorseneren en enkele -> juni : 1
+en enkele juni -> bepakt : 1
+enkele juni bepakt -> en : 1
+juni bepakt en -> bezakt : 1
+bepakt en bezakt -> voor : 1
+en bezakt voor -> tien : 1
+bezakt voor tien -> dagen : 1
+voor tien dagen -> vertrokken : 1
+tien dagen vertrokken -> we : 1
+dagen vertrokken we -> met : 1
+vertrokken we met -> drie : 1
+we met drie -> het : 1
+met drie het -> doel : 1
+drie het doel -> was : 1
+het doel was -> om : 1
+doel was om -> vanaf : 1
+was om vanaf -> de : 1
+om vanaf de -> franse : 1
+vanaf de franse -> zijde : 1
+de franse zijde -> van : 1
+franse zijde van -> de : 1
+zijde van de -> te : 1
+van de te -> voet : 1
+de te voet -> over : 1
+te voet over -> te : 1
+voet over te -> steken : 1
+over te steken -> naar : 1
+te steken naar -> de : 1
+steken naar de -> spaanse : 1
+naar de spaanse -> na : 1
+de spaanse na -> dag : 1
+spaanse na dag -> lopen : 1
+na dag lopen -> lag : 1
+dag lopen lag -> er : 1
+lopen lag er -> boven : 1
+lag er boven -> de : 1
+er boven de -> meter : 1
+boven de meter -> nog : 1
+de meter nog -> zoveel : 1
+meter nog zoveel -> sneeuw : 1
+nog zoveel sneeuw -> dat : 1
+zoveel sneeuw dat -> het : 1
+sneeuw dat het -> niet : 1
+dat het niet -> raadzaam : 1
+het niet raadzaam -> was : 1
+niet raadzaam was -> om : 1
+raadzaam was om -> zonder : 1
+was om zonder -> pickel : 1
+om zonder pickel -> en : 1
+zonder pickel en -> stijgijzers : 1
+pickel en stijgijzers -> de : 1
+en stijgijzers de -> oversteek : 1
+stijgijzers de oversteek -> te : 1
+de oversteek te -> de : 1
+oversteek te de -> volgende : 1
+te de volgende -> dag : 1
+de volgende dag -> in : 1
+volgende dag in -> de : 1
+dag in de -> regen : 1
+in de regen -> en : 1
+de regen en -> harde : 1
+regen en harde -> wind : 1
+en harde wind -> terug : 1
+harde wind terug -> naar : 1
+wind terug naar -> de : 1
+terug naar de -> vervolgens : 1
+terug naar de -> twee : 1
+naar de vervolgens -> met : 1
+de vervolgens met -> de : 1
+vervolgens met de -> auto : 1
+met de auto -> de : 1
+de auto de -> pas : 1
+auto de pas -> over : 1
+de pas over -> prachtig : 1
+pas over prachtig -> bootsma : 1
+over prachtig bootsma -> intensive : 1
+prachtig bootsma intensive -> de : 1
+bootsma intensive de -> derde : 1
+intensive de derde -> dag : 1
+de derde dag -> via : 1
+derde dag via -> torla : 1
+dag via torla -> de : 1
+via torla de -> auto : 1
+torla de auto -> geparkeerd : 1
+de auto geparkeerd -> bij : 1
+auto geparkeerd bij -> de : 1
+geparkeerd bij de -> de : 1
+bij de de -> en : 1
+de de en -> met : 1
+de en met -> antonius : 1
+en met antonius -> de : 1
+met antonius de -> te : 1
+antonius de te -> zware : 1
+de te zware -> rugzak : 1
+de te zware -> daarom : 1
+te zware rugzak -> weer : 1
+zware rugzak weer -> op : 1
+rugzak weer op -> de : 1
+weer op de -> rug : 1
+op de rug -> en : 1
+de rug en -> vol : 1
+rug en vol -> goede : 1
+en vol goede -> moed : 1
+vol goede moed -> te : 1
+goede moed te -> voet : 1
+moed te voet -> met : 1
+te voet met -> als : 1
+voet met als -> doel : 1
+met als doel -> die : 1
+als doel die -> dag : 1
+doel die dag -> de : 1
+die dag de -> de : 1
+dag de de -> goriz : 1
+de de goriz -> o : 1
+de goriz o -> delgado : 1
+goriz o delgado -> na : 1
+o delgado na -> uren : 1
+delgado na uren -> gelopen : 1
+na uren gelopen -> te : 1
+uren gelopen te -> bleek : 1
+gelopen te bleek -> de : 1
+te bleek de -> de : 1
+bleek de de -> een : 1
+de de een -> onneembare : 1
+de een onneembare -> vesting : 1
+een onneembare vesting -> te : 1
+onneembare vesting te -> zijn : 1
+vesting te zijn -> met : 1
+te zijn met -> de : 1
+zijn met de -> te : 1
+met de te -> zware : 1
+te zware daarom -> besloten : 1
+zware daarom besloten -> we : 1
+daarom besloten we -> om : 1
+besloten we om -> te : 1
+we om te -> keren : 1
+om te keren -> en : 1
+te keren en -> via : 1
+keren en via -> een : 1
+en via een -> andere : 1
+via een andere -> route : 1
+een andere route -> de : 1
+andere route de -> refugio : 1
+route de refugio -> te : 1
+de refugio te -> uiteindelijk : 1
+refugio te uiteindelijk -> zijn : 1
+te uiteindelijk zijn -> en : 1
+uiteindelijk zijn en -> inmiddels : 1
+zijn en inmiddels -> gram : 1
+en inmiddels gram -> volkorenmeel : 1
+inmiddels gram volkorenmeel -> gram : 1
+gram volkorenmeel gram -> zelfrijzend : 1
+volkorenmeel gram zelfrijzend -> is : 1
+gram zelfrijzend is -> het : 1
+zelfrijzend is het -> aanbeland : 1
+is het aanbeland -> bij : 1
+het aanbeland bij -> een : 1
+aanbeland bij een -> riviertje : 1
+bij een riviertje -> en : 1
+een riviertje en -> besluiten : 1
+riviertje en besluiten -> hier : 1
+en besluiten hier -> de : 1
+besluiten hier de -> nacht : 1
+hier de nacht -> door : 1
+de nacht door -> te : 1
+nacht door te -> brengen : 1
+door te brengen -> en : 1
+te brengen en -> de : 1
+brengen en de -> bakmeel : 1
+en de bakmeel -> gram : 1
+de bakmeel gram -> griesmeel : 1
+bakmeel gram griesmeel -> gram : 1
+gram griesmeel gram -> volgende : 1
+griesmeel gram volgende -> dag : 1
+gram volgende dag -> verder : 1
+volgende dag verder -> te : 1
+dag verder te -> de : 1
+verder te de -> voeten : 1
+te de voeten -> met : 1
+de voeten met -> blaren : 1
+voeten met blaren -> gaan : 1
+met blaren gaan -> in : 1
+blaren gaan in -> het : 1
+gaan in het -> koude : 1
+in het koude -> rust : 1
+het koude rust -> doet : 1
+koude rust doet -> de : 1
+rust doet de -> roggemeel : 1
+doet de roggemeel -> eetlepel : 1
+de roggemeel eetlepel -> zout : 1
+roggemeel eetlepel zout -> gedroogde : 1
+eetlepel zout gedroogde -> pijnlijke : 1
+zout gedroogde pijnlijke -> schouders : 1
+gedroogde pijnlijke schouders -> ontspannen : 1
+pijnlijke schouders ontspannen -> en : 1
+schouders ontspannen en -> het : 1
+ontspannen en het -> strekken : 1
+en het strekken -> van : 1
+het strekken van -> de : 1
+strekken van de -> pijnlijke : 1
+van de pijnlijke -> knie : 1
+de pijnlijke knie -> doet : 1
+pijnlijke knie doet -> abrikozen : 1
+knie doet abrikozen -> gram : 1
+doet abrikozen gram -> hazelnoten : 1
+abrikozen gram hazelnoten -> gram : 1
+gram hazelnoten gram -> margarine : 1
+hazelnoten gram margarine -> gram : 1
+gram margarine gram -> honing : 1
+margarine gram honing -> gram : 1
+gram honing gram -> suiker : 1
+honing gram suiker -> liter : 1
+gram suiker liter -> karnemelk : 1
+suiker liter karnemelk -> men : 1
+liter karnemelk men -> neme : 1
+karnemelk men neme -> een : 1
+neme een liter -> water : 1
+een liter water -> uit : 1
+liter water uit -> de : 1
+water uit de -> breng : 1
+uit de breng -> dit : 1
+de breng dit -> aan : 1
+breng dit aan -> de : 1
+dit aan de -> scheur : 1
+aan de scheur -> het : 1
+de scheur het -> zakje : 1
+scheur het zakje -> met : 1
+het zakje met -> droog : 1
+zakje met droog -> open : 1
+met droog open -> en : 1
+droog open en -> meng : 1
+open en meng -> dit : 1
+meng dit met -> het : 1
+dit met het -> kokende : 1
+met het kokende -> na : 1
+het kokende na -> tien : 1
+kokende na tien -> minuten : 1
+na tien minuten -> is : 1
+tien minuten is -> alles : 1
+minuten is alles -> op : 1
+is alles op -> en : 1
+alles op en -> gelukkig : 1
+op en gelukkig -> kom : 1
+en gelukkig kom -> ik : 1
+gelukkig kom ik -> de : 1
+kom ik de -> anno : 1
+ik de anno -> niet : 1
+de anno niet -> meer : 1
+anno niet meer -> tegen : 1
+niet meer tegen -> in : 1
+meer tegen in -> het : 1
+tegen in het -> assortiment : 1
+in het assortiment -> van : 1
+het assortiment van -> kneed : 1
+assortiment van kneed -> alle : 1
+van kneed alle -> tot : 1
+kneed alle tot -> een : 1
+alle tot een -> het : 1
+tot een het -> is : 1
+een het is -> inmiddels : 1
+het is inmiddels -> gaan : 1
+is inmiddels gaan -> schemeren : 1
+inmiddels gaan schemeren -> en : 1
+gaan schemeren en -> de : 1
+schemeren en de -> tent : 1
+en de tent -> wordt : 1
+de tent wordt -> genieten : 1
+tent wordt genieten -> totdat : 1
+wordt genieten totdat -> de : 1
+genieten totdat de -> vul : 1
+totdat de vul -> het : 1
+de vul het -> bakblik : 1
+vul het bakblik -> met : 1
+het bakblik met -> een : 1
+bakblik met een -> laag : 1
+met een laag -> van : 1
+laag van twee -> we : 1
+van twee we -> moeten : 1
+twee we moeten -> of : 1
+we moeten of -> door : 1
+moeten of door -> naar : 1
+of door naar -> de : 1
+door naar de -> refugio : 1
+naar de refugio -> wat : 1
+de refugio wat -> nog : 1
+refugio wat nog -> uur : 1
+wat nog uur -> lopen : 1
+nog uur lopen -> is : 1
+uur lopen is -> in : 1
+lopen is in -> het : 1
+is in het -> of : 1
+in het of -> centimeter : 1
+het of centimeter -> en : 1
+of centimeter en -> zet : 1
+centimeter en zet -> dit : 1
+en zet dit -> in : 1
+zet dit in -> de : 1
+dit in de -> oven : 1
+de oven op -> c : 1
+oven op c -> we : 1
+op c we -> kunnen : 1
+c we kunnen -> terug : 1
+we kunnen terug -> naar : 1
+kunnen terug naar -> de : 1
+naar de twee -> uur : 1
+de twee uur -> uiteindelijk : 1
+twee uur uiteindelijk -> kiezen : 1
+uur uiteindelijk kiezen -> we : 1
+uiteindelijk kiezen we -> voor : 1
+kiezen we voor -> de : 1
+we voor de -> auto : 1
+voor de auto -> en : 1
+de auto en -> eindigen : 1
+auto en eindigen -> gedurende : 1
+en eindigen gedurende -> in : 1
+eindigen gedurende in -> een : 1
+gedurende in een -> hotel : 1
+in een hotel -> met : 1
+een hotel met -> tres : 1
+hotel met tres -> bieros : 1
+met tres bieros -> en : 1
+tres bieros en -> dos : 1
+bieros en dos -> samenwerking : 1
+en dos samenwerking -> tussen : 1
+dos samenwerking tussen -> mensen : 1
+samenwerking tussen mensen -> leidt : 1
+tussen mensen leidt -> tot : 1
+mensen leidt tot -> de : 1
+leidt tot de -> beste : 1
+tot de beste -> en : 1
+de beste en -> zo : 1
+beste en zo -> is : 1
+en zo is -> o : 1
+zo is o -> nog : 1
+is o nog -> een : 1
+o nog een -> recept : 1
+nog een recept -> voor : 1
+een recept voor -> een : 1
+recept voor een -> hans : 1
+voor een hans -> pols : 1
+een hans pols -> chef : 1
+hans pols chef -> de : 1
+pols chef de -> van : 1
+chef de van -> der : 1

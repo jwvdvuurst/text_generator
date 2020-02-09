@@ -1,0 +1,3162 @@
+verzoek : 1
+aantal : 1
+leden : 1
+volgt : 1
+stuks : 1
+volgende : 1
+bovengenoemde : 1
+ingredienten : 1
+handigst : 1
+dag : 1
+voren : 1
+gepelde : 1
+groene : 1
+pistache : 1
+kuiltje : 1
+rond : 1
+daarna : 1
+scherp : 1
+kruiselings : 1
+makkelijkste : 1
+cornflakeskoekje : 1
+weinig : 1
+tijd : 1
+wil : 1
+knabbelen : 1
+fout : 1
+altijd : 1
+doosje : 1
+breek : 1
+chocoladestukjes : 1
+schaal : 1
+alvast : 1
+geheel : 1
+vult : 1
+uitharden : 1
+plaats : 1
+vandaag : 1
+el : 1
+oorspronkelijke : 1
+cuisine : 1
+draai : 1
+makkelijker : 1
+geprobeerd : 1
+potje : 1
+gebakken : 1
+behalve : 1
+helpen : 1
+eerste : 1
+moeders : 1
+betreft : 1
+dek : 1
+voorkom : 1
+vind : 1
+gaat : 1
+rollen : 1
+bijna : 1
+heen : 1
+dunner : 1
+mooier : 1
+stand : 1
+steviger : 1
+uitzien : 1
+jet : 1
+strak : 1
+afgestreken : 1
+mengen : 1
+breng : 1
+dunne : 1
+meelpapje : 1
+buitenste : 1
+helemaal : 1
+opgerold : 1
+schone : 1
+begin : 1
+schuin : 1
+anderhalve : 1
+heet : 1
+weten : 1
+donkere : 1
+terwijl : 1
+man : 1
+spatel : 1
+uitlekken : 1
+warm : 1
+zeker : 1
+glijden : 1
+zitten : 1
+nacht : 1
+daarom : 1
+vindt : 1
+voorverwarmen : 1
+amandelschaafsel : 1
+gedaan : 1
+verdelen : 1
+schuiven : 1
+keukenblad : 1
+leggen : 1
+schuine : 1
+halverwege : 1
+omkeren : 1
+koelen : 1
+luchtdichte : 1
+doos : 1
+frambozenjam : 1
+marsepeinen : 1
+eetbare : 1
+mixen : 1
+mixer : 1
+citroenrasp : 1
+kom : 1
+aluminiumfolie : 1
+krijgt : 1
+royaal : 1
+zesde : 1
+buitenkant : 1
+bestrijken : 1
+bestrooien : 1
+cakejes : 1
+lauwe : 1
+diepe : 1
+melk : 1
+gist : 1
+sinasappelsap : 1
+natte : 1
+toegevoegd : 1
+zolang : 1
+aanm : 1
+plak : 1
+centimeter : 1
+ronds : 1
+kleiner : 1
+hierop : 1
+omgeving : 1
+leuke : 1
+jammie : 1
+per : 1
+nougatine : 1
+koekkruiden : 1
+staaf : 1
+bepalen : 1
+doop : 1
+mespunt : 1
+koud : 1
+geschaafde : 1
+geklutste : 1
+lauw : 1
+zout : 1
+plasticfolie : 1
+rusten : 1
+was : 1
+schil : 1
+dep : 1
+citroensap : 1
+let : 1
+erop : 1
+blijft : 1
+cm : 1
+theeglas : 1
+vet : 1
+prik : 1
+best : 1
+walnoot : 1
+taartjes : 1
+bovenstaande : 1
+steel : 1
+ingedrukt : 1
+indrukken : 1
+klein : 1
+enkele : 1
+zilveren : 1
+gekleurde : 1
+suikerballetjes : 1
+maizena : 1
+misschien : 1
+nodig : 1
+gelijke : 1
+egale : 1
+flessendopje : 1
+dopje : 1
+stroop : 1
+juiste : 1
+bord : 1
+zoek : 1
+gekleurd : 1
+wit : 1
+qua : 1
+puntje : 1
+weerskanten : 1
+verwijderen : 1
+zit : 1
+straks : 1
+dompel : 1
+dubbel : 1
+vork : 1
+afdruipen : 1
+choclade : 1
+smakelijk : 1
+geniale : 1
+helaas : 1
+dochters : 1
+complimenten : 1
+komen : 1
+inshaallah : 1
+doorroeren : 1
+smeer : 1
+ruimte : 1
+bobbelig : 1
+werken : 1
+vlot : 1
+seconden : 1
+smullen : 1
+jezelf : 1
+wilt : 1
+chocoladesaus : 1
+cacao : 1
+papieren : 1
+bakvormpjes : 1
+voorverwarmde : 1
+cakjes : 1
+sateprikker : 1
+anders : 1
+krijg : 1
+buikpijn : 1
+broodachtige : 1
+speciaal : 1
+mama : 1
+vanille : 1
+stevig : 1
+bepaalt : 1
+inkepingen : 1
+staafje : 1
+uiteinden : 1
+tegen : 1
+zij : 1
+goudachtig : 1
+bel : 1
+zes : 1
+vellen : 1
+klare : 1
+staan : 1
+precieze : 1
+hoeveelheden : 1
+lang : 1
+ben : 1
+gegaan : 1
+proberen : 1
+haast : 1
+deze : 1
+toekomst : 1
+steeds : 1
+millimeter : 1
+vergemakkelijkt : 1
+horizontaal : 1
+langer : 1
+oprollen : 1
+eerder : 1
+komt : 1
+slakkenhuisje : 1
+geeft : 1
+ingedompeld : 1
+hebben : 1
+valt : 1
+goudbruin : 1
+hoeveelheid : 1
+melkchocolade : 1
+beide : 1
+tulbandje : 1
+hoopje : 1
+sla : 1
+manier : 1
+verdeelt : 1
+zich : 1
+opstijven : 1
+knip : 1
+rechthoek : 1
+papier : 1
+we : 1
+walnoten : 1
+tien : 1
+walnotenmengsel : 1
+verspreid : 1
+bolle : 1
+randjes : 1
+vrij : 1
+pizzasnijder : 1
+hier : 2
+vooral : 2
+om : 2
+zoveel : 2
+rozewater : 2
+mes : 2
+zijkanten : 2
+ook : 2
+wel : 2
+toch : 2
+gebruik : 2
+bonbonpapiertjes : 2
+zodat : 2
+alleen : 2
+eigen : 2
+hoop : 2
+koekenpan : 2
+aldi : 2
+water : 2
+grote : 2
+af : 2
+pizzapan : 2
+laag : 2
+zie : 2
+houdt : 2
+vloeibaar : 2
+pan : 2
+fekkas : 2
+samen : 2
+toevoegen : 2
+stukken : 2
+geraspte : 2
+rode : 2
+keuze : 2
+elke : 2
+beslag : 2
+deel : 2
+lichte : 2
+andere : 2
+roze : 2
+boven : 2
+handen : 2
+weer : 2
+donuts : 2
+uur : 2
+donut : 2
+helft : 2
+krakelingen : 2
+krakeling : 2
+eruit : 2
+chocola : 2
+ter : 2
+rozijntjes : 2
+droog : 2
+namelijk : 2
+dikte : 2
+vormpjes : 2
+gaatjes : 2
+vul : 2
+taartje : 2
+onderkant : 2
+ziet : 2
+eet : 2
+minder : 2
+kleurstof : 2
+koop : 2
+kleur : 2
+precies : 2
+grootte : 2
+zal : 2
+eerlijk : 2
+kaneel : 2
+tussen : 2
+worden : 2
+eerst : 2
+chocoladebolletjes : 2
+schep : 2
+filodeeg : 2
+kant : 2
+amandelspijs : 2
+slang : 2
+gebroken : 2
+lekker : 3
+kwartiertje : 3
+stop : 3
+mooi : 3
+gaan : 3
+theelepeltje : 3
+uurtje : 3
+maken : 3
+kunnen : 3
+succes : 3
+snufje : 3
+licht : 3
+moeder : 3
+kneden : 3
+neem : 3
+dun : 3
+des : 3
+twee : 3
+olie : 3
+vuur : 3
+erg : 3
+makkelijk : 3
+echt : 3
+zachte : 3
+eieren : 3
+sesamzaad : 3
+want : 3
+ene : 3
+giet : 3
+gaar : 3
+drie : 3
+zonnebloemolie : 3
+bovenstaand : 3
+steek : 3
+warme : 3
+circa : 3
+theelepel : 3
+boter : 3
+bakken : 3
+hard : 3
+bak : 3
+appel : 3
+zacht : 3
+pollepel : 3
+gaatje : 3
+omdat : 3
+roer : 3
+over : 3
+bakpapier : 3
+plaatkoek : 3
+net : 4
+balletje : 4
+daar : 4
+gehakte : 4
+wordt : 4
+snel : 4
+die : 4
+witte : 4
+bruin : 4
+alle : 4
+jouw : 4
+keer : 4
+bal : 4
+bestuif : 4
+werkblad : 4
+hele : 4
+mag : 4
+meteen : 4
+bekleed : 4
+reep : 4
+cake : 4
+nog : 4
+decoreer : 4
+kneed : 4
+rondje : 4
+afkoelen : 4
+vorm : 4
+eetlepel : 4
+veel : 4
+elk : 4
+geen : 4
+recept : 5
+soepel : 5
+druppels : 5
+amandelen : 5
+vanillesuiker : 5
+kleine : 5
+balletjes : 5
+groot : 5
+cornflakes : 5
+gesmolten : 5
+pak : 5
+bestrooi : 5
+elkaar : 5
+stuk : 5
+mijn : 5
+zakjes : 5
+staven : 5
+laten : 5
+verdeel : 5
+lange : 5
+snijd : 5
+bestrijk : 5
+eventueel : 5
+halve : 5
+na : 5
+toe : 6
+vulling : 6
+zet : 6
+hebt : 6
+mengsel : 6
+zijn : 6
+hoe : 6
+maar : 6
+tot : 6
+werk : 6
+zelf : 6
+lichtbruin : 6
+naar : 6
+even : 6
+midden : 6
+stap : 6
+gemalen : 6
+kan : 7
+koekje : 7
+repen : 7
+chocolade : 7
+smelt : 7
+al : 7
+dus : 7
+ze : 7
+dan : 7
+jam : 7
+suiker : 7
+ei : 7
+rondjes : 7
+bakplaat : 7
+schuif : 7
+zakje : 8
+vervolgens : 8
+iets : 8
+shebakia : 8
+wat : 8
+nu : 8
+bakpoeder : 8
+druk : 8
+door : 9
+paar : 9
+half : 9
+ml : 9
+totdat : 10
+er : 10
+of : 10
+moet : 10
+honing : 10
+rol : 10
+stukjes : 10
+minuten : 10
+doe : 11
+ik : 11
+aan : 11
+haal : 11
+verwarm : 11
+meer : 11
+is : 12
+ongeveer : 12
+heb : 12
+dit : 12
+maak : 12
+leg : 12
+bakblik : 12
+zo : 13
+oven : 13
+ga : 13
+eetlepels : 14
+heel : 14
+meel : 16
+bij : 16
+als : 17
+dat : 18
+niet : 18
+goed : 19
+uit : 20
+voorzichtig : 20
+voeg : 22
+beetje : 23
+meng : 23
+koekjes : 24
+te : 27
+laat : 27
+voor : 33
+deeg : 38
+op : 38
+van : 48
+gram : 48
+je : 55
+en : 59
+in : 71
+met : 73
+een : 123
+het : 161
+de : 243
+verzoek van een -> aantal : 1
+van een aantal -> leden : 1
+een aantal leden -> volgt : 1
+aantal leden volgt -> hier : 1
+leden volgt hier -> het : 1
+volgt hier het -> recept : 1
+hier het recept -> van : 1
+het recept van -> de : 1
+het recept van -> shebakia : 1
+recept van de -> het : 1
+van de het -> is : 1
+de het is -> vooral : 1
+het is vooral -> voor : 1
+is vooral voor -> ongeveer : 1
+vooral voor ongeveer -> stuks : 1
+voor ongeveer stuks -> heb : 1
+ongeveer stuks heb -> je : 1
+stuks heb je -> het : 1
+heb je het -> volgende : 1
+je het volgende -> het : 1
+het volgende het -> gram : 1
+volgende het gram -> eetlepels : 1
+het gram eetlepels -> zakje : 1
+gram eetlepels zakje -> bovengenoemde : 1
+gram eetlepels zakje -> paar : 1
+eetlepels zakje bovengenoemde -> ingredienten : 1
+zakje bovengenoemde ingredienten -> door : 1
+bovengenoemde ingredienten door -> meel : 1
+ingredienten door meel -> toe : 1
+door meel toe -> totdat : 1
+meel toe totdat -> het : 1
+toe totdat het -> deeg : 1
+totdat het deeg -> lekker : 2
+het deeg lekker -> soepel : 2
+deeg lekker soepel -> vulling : 1
+deeg lekker soepel -> is : 1
+lekker soepel vulling -> van : 1
+soepel vulling van -> de : 1
+vulling van de -> is : 1
+van de is -> het : 1
+de is het -> handigst : 1
+is het handigst -> om : 1
+het handigst om -> de : 1
+handigst om de -> vulling : 1
+om de vulling -> een : 1
+de vulling een -> dag : 1
+de vulling een -> kwartiertje : 1
+vulling een dag -> van : 1
+een dag van -> te : 1
+dag van te -> voren : 1
+van te voren -> te : 1
+te voren te -> gram : 1
+voren te gram -> gepelde : 1
+te gram gepelde -> gram : 1
+gram gepelde gram -> eetlepels : 1
+gepelde gram eetlepels -> zakje : 1
+eetlepels zakje paar -> druppels : 1
+zakje paar druppels -> groene : 1
+paar druppels groene -> de : 1
+druppels groene de -> pistache : 1
+groene de pistache -> en : 1
+de pistache en -> de : 1
+pistache en de -> amandelen : 1
+en de amandelen -> heel : 1
+de amandelen heel -> vervolgens : 1
+amandelen heel vervolgens -> met : 1
+heel vervolgens met -> vanillesuiker : 1
+vervolgens met vanillesuiker -> en : 1
+met vanillesuiker en -> net : 1
+vanillesuiker en net -> zoveel : 1
+en net zoveel -> rozewater : 1
+net zoveel rozewater -> toe : 1
+zoveel rozewater toe -> totdat : 1
+rozewater toe totdat -> je : 1
+toe totdat je -> van : 1
+toe totdat je -> een : 1
+totdat je van -> de : 1
+je van de -> vulling : 1
+van de vulling -> kleine : 1
+van de vulling -> balletjes : 1
+de vulling kleine -> balletjes : 1
+vulling kleine balletjes -> kan : 1
+kleine balletjes kan -> de : 1
+balletjes kan de -> vulling : 1
+kan de vulling -> een : 1
+vulling een kwartiertje -> van : 1
+een kwartiertje van -> de : 1
+kwartiertje van de -> vulling : 1
+de vulling balletjes -> zo : 1
+vulling balletjes zo -> groot : 1
+balletjes zo groot -> als : 2
+zo groot als -> een : 3
+groot als een -> van : 1
+groot als een -> kleine : 1
+groot als een -> dek : 1
+als een van -> het : 1
+een van het -> deeg : 1
+van het deeg -> balletjes : 1
+van het deeg -> een : 2
+het deeg balletjes -> zo : 1
+deeg balletjes zo -> groot : 1
+als een kleine -> een : 1
+een kleine een -> kuiltje : 1
+kleine een kuiltje -> in : 1
+een kuiltje in -> het : 1
+kuiltje in het -> balletje : 1
+in het balletje -> deeg : 1
+het balletje deeg -> en : 1
+balletje deeg en -> stop : 1
+balletje deeg en -> een : 1
+deeg en stop -> daar : 1
+en stop daar -> het : 1
+stop daar het -> balletje : 1
+daar het balletje -> het : 1
+het balletje het -> balletje : 1
+balletje het balletje -> mooi : 1
+het balletje mooi -> rond : 1
+balletje mooi rond -> en : 1
+mooi rond en -> daarna : 1
+rond en daarna -> een : 1
+en daarna een -> beetje : 1
+daarna een beetje -> het : 1
+een beetje het -> koekje : 1
+beetje het koekje -> met : 1
+het koekje met -> een : 2
+koekje met een -> scherp : 1
+koekje met een -> laat : 1
+met een scherp -> mes : 1
+een scherp mes -> kruiselings : 1
+scherp mes kruiselings -> de : 1
+mes kruiselings de -> koekjes : 1
+kruiselings de koekjes -> op : 1
+de koekjes op -> de : 1
+de koekjes op -> een : 1
+koekjes op de -> de : 1
+op de de -> koekjes : 1
+de de koekjes -> een : 1
+de de koekjes -> zijn : 1
+de koekjes een -> kwartiertje : 1
+de koekjes een -> half : 1
+koekjes een kwartiertje -> op : 1
+een kwartiertje op -> de : 1
+kwartiertje op de -> koekjes : 1
+op de koekjes -> uit : 1
+de koekjes uit -> de : 1
+koekjes uit de -> oven : 1
+uit de oven -> de : 1
+uit de oven -> laat : 1
+de oven de -> zijkanten : 1
+oven de zijkanten -> in : 1
+de zijkanten in -> met : 1
+zijkanten in met -> de : 1
+in met de -> zijkanten : 1
+met de zijkanten -> door : 1
+de zijkanten door -> de : 1
+zijkanten door de -> gehakte : 1
+door de gehakte -> is : 1
+de gehakte is -> het : 1
+gehakte is het -> makkelijkste : 1
+is het makkelijkste -> koekje : 1
+het makkelijkste koekje -> dat : 1
+makkelijkste koekje dat -> er : 1
+koekje dat er -> het : 1
+dat er het -> wordt : 1
+er het wordt -> ook : 1
+het wordt ook -> wel : 1
+wordt ook wel -> het : 1
+ook wel het -> cornflakeskoekje : 1
+wel het cornflakeskoekje -> je : 1
+het cornflakeskoekje je -> weinig : 1
+cornflakeskoekje je weinig -> tijd : 1
+je weinig tijd -> en : 1
+weinig tijd en -> wil : 1
+tijd en wil -> je : 1
+en wil je -> toch : 1
+wil je toch -> snel : 1
+je toch snel -> iets : 1
+toch snel iets -> te : 1
+snel iets te -> knabbelen : 1
+iets te knabbelen -> kan : 1
+te knabbelen kan -> niet : 1
+knabbelen kan niet -> fout : 1
+kan niet fout -> gaan : 1
+niet fout gaan -> gram : 1
+fout gaan gram -> cornflakes : 1
+gaan gram cornflakes -> gebruik : 1
+gram cornflakes gebruik -> altijd : 1
+cornflakes gebruik altijd -> die : 1
+gebruik altijd die -> van : 1
+altijd die van -> de : 1
+die van de -> repen : 1
+van de repen -> witte : 1
+de repen witte -> doosje : 1
+repen witte doosje -> ga : 1
+witte doosje ga -> je : 1
+doosje ga je -> te : 1
+ga je te -> breek : 1
+ga je te -> verwarm : 7
+ga je te -> smelt : 1
+ga je te -> doe : 1
+ga je te -> beide : 1
+je te breek -> de : 1
+te breek de -> chocolade : 1
+breek de chocolade -> in : 1
+de chocolade in -> doe : 1
+chocolade in doe -> de : 1
+in doe de -> chocoladestukjes : 1
+doe de chocoladestukjes -> in : 1
+de chocoladestukjes in -> een : 1
+chocoladestukjes in een -> schaal : 1
+in een schaal -> of : 1
+een schaal of -> smelt : 1
+schaal of smelt -> de : 1
+of smelt de -> chocolade : 1
+smelt de chocolade -> met : 3
+de chocolade met -> eetlepels : 1
+de chocolade met -> de : 2
+chocolade met eetlepels -> zet : 1
+met eetlepels zet -> alvast : 1
+eetlepels zet alvast -> de : 1
+zet alvast de -> bonbonpapiertjes : 1
+alvast de bonbonpapiertjes -> als : 1
+de bonbonpapiertjes als -> de : 1
+bonbonpapiertjes als de -> chocolade : 1
+als de chocolade -> geheel : 1
+de chocolade geheel -> gesmolten : 1
+chocolade geheel gesmolten -> meng : 1
+geheel gesmolten meng -> je : 1
+gesmolten meng je -> beetje : 1
+meng je beetje -> voor : 1
+je beetje voor -> beetje : 1
+beetje voor beetje -> de : 1
+beetje voor beetje -> meel : 1
+voor beetje de -> cornflakes : 1
+beetje de cornflakes -> door : 1
+de cornflakes door -> doe : 1
+cornflakes door doe -> dit : 1
+door doe dit -> voorzichtig : 1
+doe dit voorzichtig -> zodat : 1
+dit voorzichtig zodat -> de : 1
+voorzichtig zodat de -> cornflakes : 1
+zodat de cornflakes -> niet : 1
+de cornflakes niet -> als : 1
+cornflakes niet als -> je : 1
+niet als je -> al : 1
+als je al -> de : 1
+je al de -> cornflakes : 1
+al de cornflakes -> hebt : 1
+de cornflakes hebt -> moet : 1
+cornflakes hebt moet -> het : 1
+hebt moet het -> mengsel : 1
+moet het mengsel -> er : 1
+het mengsel er -> ongeveer : 1
+mengsel er ongeveer -> zo : 1
+er ongeveer zo -> vervolgens : 1
+ongeveer zo vervolgens -> pak : 1
+zo vervolgens pak -> je : 1
+vervolgens pak je -> een : 1
+pak je een -> theelepeltje : 1
+je een theelepeltje -> en : 1
+een theelepeltje en -> vult : 1
+theelepeltje en vult -> de : 1
+en vult de -> bonbonpapiertjes : 1
+vult de bonbonpapiertjes -> voorzichtig : 1
+de bonbonpapiertjes voorzichtig -> met : 1
+bonbonpapiertjes voorzichtig met -> bestrooi : 1
+voorzichtig met bestrooi -> de : 1
+met bestrooi de -> koekjes : 1
+bestrooi de koekjes -> met : 1
+de koekjes met -> laat : 1
+de koekjes met -> een : 1
+koekjes met laat -> de : 1
+met laat de -> koekjes : 1
+laat de koekjes -> een : 1
+laat de koekjes -> in : 1
+laat de koekjes -> je : 1
+laat de koekjes -> doe : 1
+laat de koekjes -> meteen : 1
+koekjes een half -> uurtje : 1
+een half uurtje -> uitharden : 1
+een half uurtje -> in : 1
+een half uurtje -> bakken : 1
+half uurtje uitharden -> in : 1
+uurtje uitharden in -> de : 1
+uitharden in de -> plaats : 1
+in de plaats -> vandaag : 1
+de plaats vandaag -> het : 1
+plaats vandaag het -> recept : 1
+vandaag het recept -> van : 1
+recept van shebakia -> el : 1
+van shebakia el -> het : 1
+shebakia el het -> oorspronkelijke : 1
+el het oorspronkelijke -> recept : 1
+het oorspronkelijke recept -> heb : 1
+oorspronkelijke recept heb -> ik : 1
+recept heb ik -> een : 1
+heb ik een -> van : 1
+ik een van -> cuisine : 1
+een van cuisine -> ik : 1
+van cuisine ik -> heb : 1
+cuisine ik heb -> er : 1
+ik heb er -> alleen : 1
+heb er alleen -> een : 1
+er alleen een -> beetje : 1
+alleen een beetje -> een : 1
+een beetje een -> eigen : 1
+beetje een eigen -> draai : 1
+een eigen draai -> aan : 1
+eigen draai aan -> het : 1
+draai aan het -> wat : 1
+aan het wat -> makkelijker : 1
+het wat makkelijker -> te : 1
+wat makkelijker te -> maken : 1
+makkelijker te maken -> heb : 1
+te maken heb -> ik : 1
+maken heb ik -> geprobeerd : 1
+heb ik geprobeerd -> te : 1
+ik geprobeerd te -> ik : 1
+geprobeerd te ik -> hoop : 1
+te ik hoop -> dat : 1
+ik hoop dat -> het : 1
+hoop dat het -> voor : 1
+dat het voor -> kunnen : 1
+het voor kunnen -> dit : 1
+voor kunnen dit -> succes : 1
+kunnen dit succes -> voor : 1
+dit succes voor -> het : 1
+succes voor het -> gram : 1
+voor het gram -> gram : 1
+voor het gram -> boter : 1
+voor het gram -> meel : 1
+het gram gram -> gesmolten : 1
+gram gram gesmolten -> ml : 1
+gram gesmolten ml -> snufje : 1
+gram gesmolten ml -> lauwe : 1
+gesmolten ml snufje -> voor : 1
+ml snufje voor -> het : 1
+snufje voor het -> een : 1
+voor het een -> koekenpan : 1
+het een koekenpan -> met : 1
+een koekenpan met -> voor : 1
+koekenpan met voor -> de : 1
+met voor de -> potje : 1
+voor de potje -> honing : 1
+de potje honing -> van : 1
+potje honing van -> aldi : 1
+honing van aldi -> is : 1
+van aldi is -> ml : 1
+aldi is ml -> licht : 1
+is ml licht -> bruin : 1
+ml licht bruin -> gebakken : 1
+licht bruin gebakken -> meng : 1
+bruin gebakken meng -> alle : 1
+gebakken meng alle -> door : 1
+meng alle door -> elkaar : 1
+alle door elkaar -> behalve : 1
+door elkaar behalve -> het : 1
+elkaar behalve het -> voeg : 1
+behalve het voeg -> beetje : 1
+het voeg beetje -> bij : 3
+het voeg beetje -> voor : 1
+voeg beetje bij -> beetje : 4
+beetje bij beetje -> water : 1
+beetje bij beetje -> bij : 1
+beetje bij beetje -> het : 5
+bij beetje water -> toe : 1
+beetje water toe -> totdat : 1
+water toe totdat -> je : 1
+totdat je een -> wat : 1
+totdat je een -> rechthoek : 1
+je een wat -> soepel : 1
+een wat soepel -> deeg : 1
+wat soepel deeg -> laat : 1
+soepel deeg laat -> je : 1
+deeg laat je -> moeder : 1
+laat je moeder -> helpen : 1
+je moeder helpen -> als : 1
+moeder helpen als -> dit : 1
+helpen als dit -> jouw : 1
+als dit jouw -> eerste : 1
+dit jouw eerste -> keer : 1
+jouw eerste keer -> moeders : 1
+eerste keer moeders -> zijn : 1
+keer moeders zijn -> wat : 1
+moeders zijn wat -> betreft : 1
+zijn wat betreft -> kneden : 1
+wat betreft kneden -> maak : 1
+betreft kneden maak -> van : 1
+kneden maak van -> het : 1
+maak van het -> deeg : 2
+maak van het -> bovenstaande : 1
+maak van het -> staafje : 1
+het deeg een -> grote : 1
+het deeg een -> nacht : 1
+het deeg een -> lange : 1
+deeg een grote -> maak : 1
+een grote maak -> van : 1
+grote maak van -> de : 1
+maak van de -> grote : 1
+maak van de -> stukjes : 1
+van de grote -> bal : 1
+de grote bal -> kleine : 1
+grote bal kleine -> ongeveer : 1
+bal kleine ongeveer -> zo : 1
+kleine ongeveer zo -> groot : 1
+ongeveer zo groot -> als : 1
+als een dek -> de : 1
+een dek de -> balletjes : 1
+dek de balletjes -> af : 1
+de balletjes af -> met : 1
+balletjes af met -> zo : 1
+af met zo -> voorkom : 1
+met zo voorkom -> je : 1
+zo voorkom je -> bestuif : 1
+voorkom je bestuif -> het : 1
+je bestuif het -> werkblad : 1
+bestuif het werkblad -> met : 2
+bestuif het werkblad -> goed : 1
+het werkblad met -> neem : 1
+het werkblad met -> veel : 1
+werkblad met neem -> een : 1
+met neem een -> balletje : 1
+neem een balletje -> deeg : 1
+een balletje deeg -> en : 1
+deeg en een -> dit : 1
+en een dit -> is : 1
+een dit is -> het : 1
+dit is het -> vind : 1
+is het vind -> van : 1
+het vind van -> het : 1
+vind van het -> hele : 1
+van het hele -> je : 1
+het hele je -> gaat : 1
+hele je gaat -> het : 1
+je gaat het -> deeg : 1
+gaat het deeg -> rollen : 1
+het deeg rollen -> het : 1
+deeg rollen het -> deeg : 1
+rollen het deeg -> heel : 1
+het deeg heel -> dun : 1
+het deeg heel -> maak : 1
+deeg heel dun -> je : 1
+heel dun je -> moet : 1
+dun je moet -> bijna : 1
+je moet bijna -> door : 1
+moet bijna door -> het : 1
+bijna door het -> deeg : 1
+door het deeg -> heen : 1
+het deeg heen -> kunnen : 1
+deeg heen kunnen -> hoe : 1
+heen kunnen hoe -> dunner : 1
+kunnen hoe dunner -> het : 1
+hoe dunner het -> des : 1
+dunner het des -> te : 1
+het des te -> mooier : 1
+des te mooier -> de : 1
+te mooier de -> zet : 1
+mooier de zet -> de : 1
+de zet de -> pizzapan : 1
+de zet de -> cakejes : 1
+zet de pizzapan -> op : 1
+de pizzapan op -> stand : 1
+pizzapan op stand -> pak : 1
+op stand pak -> het : 1
+stand pak het -> deeg : 1
+pak het deeg -> voorzichtig : 1
+het deeg voorzichtig -> op : 1
+het deeg voorzichtig -> rol : 1
+het deeg voorzichtig -> let : 1
+het deeg voorzichtig -> uit : 1
+deeg voorzichtig op -> en : 1
+voorzichtig op en -> leg : 1
+op en leg -> het : 1
+en leg het -> in : 1
+leg het in -> de : 1
+het in de -> het : 1
+in de het -> deeg : 1
+de het deeg -> moet : 1
+het deeg moet -> heel : 1
+het deeg moet -> niet : 1
+deeg moet heel -> licht : 1
+moet heel licht -> het : 1
+heel licht het -> moet : 1
+licht het moet -> alleen : 1
+het moet alleen -> wat : 1
+moet alleen wat -> steviger : 1
+alleen wat steviger -> laat : 1
+wat steviger laat -> het : 1
+steviger laat het -> vooral : 1
+laat het vooral -> niet : 1
+het vooral niet -> bruin : 1
+vooral niet bruin -> zo : 1
+niet bruin zo -> moet : 1
+bruin zo moet -> het : 1
+zo moet het -> er : 1
+moet het er -> ongeveer : 1
+het er ongeveer -> uitzien : 1
+er ongeveer uitzien -> als : 1
+ongeveer uitzien als -> jet : 1
+uitzien als jet -> het : 1
+als jet het -> uit : 1
+jet het uit -> de : 1
+het uit de -> pizzapan : 1
+uit de pizzapan -> vervolgens : 1
+de pizzapan vervolgens -> ga : 1
+pizzapan vervolgens ga -> je : 1
+vervolgens ga je -> het : 1
+ga je het -> deeg : 1
+je het deeg -> voorzichtig : 1
+deeg voorzichtig rol -> het : 1
+voorzichtig rol het -> niet : 1
+rol het niet -> te : 1
+het niet te -> strak : 1
+niet te strak -> op : 1
+te strak op -> maar : 1
+strak op maar -> heel : 1
+op maar heel -> maak : 1
+maar heel maak -> een : 1
+heel maak een -> dat : 1
+maak een dat -> doe : 1
+een dat doe -> je : 1
+dat doe je -> door : 1
+doe je door -> twee : 1
+je door twee -> afgestreken : 1
+door twee afgestreken -> eetlepels : 1
+twee afgestreken eetlepels -> meel : 1
+afgestreken eetlepels meel -> te : 1
+eetlepels meel te -> mengen : 1
+meel te mengen -> met : 1
+te mengen met -> een : 1
+mengen met een -> breng : 1
+met een breng -> een : 1
+een breng een -> dunne : 1
+breng een dunne -> laag : 1
+een dunne laag -> meelpapje : 1
+dunne laag meelpapje -> aan : 1
+laag meelpapje aan -> op : 1
+meelpapje aan op -> de : 1
+aan op de -> buitenste : 1
+op de buitenste -> zie : 1
+de buitenste zie -> vervolgens : 1
+buitenste zie vervolgens -> rol : 1
+zie vervolgens rol -> je : 1
+vervolgens rol je -> het : 1
+rol je het -> helemaal : 1
+je het helemaal -> nu : 1
+het helemaal nu -> heb : 1
+helemaal nu heb -> je : 1
+nu heb je -> dus : 2
+heb je dus -> een : 2
+je dus een -> opgerold : 1
+je dus een -> lange : 1
+dus een opgerold -> stuk : 1
+een opgerold stuk -> pak : 1
+opgerold stuk pak -> vervolgens : 1
+stuk pak vervolgens -> een : 1
+pak vervolgens een -> schone : 1
+vervolgens een schone -> pak : 1
+een schone pak -> de : 1
+schone pak de -> rol : 1
+pak de rol -> en : 1
+de rol en -> begin : 1
+rol en begin -> schuin : 1
+en begin schuin -> stukjes : 1
+begin schuin stukjes -> te : 1
+schuin stukjes te -> maak : 1
+stukjes te maak -> stukjes : 1
+te maak stukjes -> van : 1
+maak stukjes van -> ongeveer : 1
+stukjes van ongeveer -> tot : 1
+van ongeveer tot -> anderhalve : 1
+ongeveer tot anderhalve -> leg : 1
+tot anderhalve leg -> alle : 1
+anderhalve leg alle -> stukjes : 1
+leg alle stukjes -> bij : 1
+alle stukjes bij -> elkaar : 1
+stukjes bij elkaar -> op : 1
+bij elkaar op -> een : 1
+elkaar op een -> werk : 1
+op een werk -> zo : 1
+een werk zo -> al : 1
+werk zo al -> het : 4
+zo al het -> deeg : 4
+al het deeg -> de : 1
+al het deeg -> schuif : 1
+al het deeg -> doe : 1
+al het deeg -> leg : 1
+het deeg de -> met : 1
+deeg de met -> de : 1
+de met de -> olie : 1
+met de olie -> de : 1
+met de olie -> doop : 1
+de olie de -> olie : 1
+olie de olie -> goed : 1
+de olie goed -> heet : 1
+olie goed heet -> de : 1
+goed heet de -> shebakia : 1
+heet de shebakia -> er : 1
+de shebakia er -> voorzichtig : 1
+de shebakia er -> met : 1
+shebakia er voorzichtig -> de : 1
+er voorzichtig de -> shebakia : 1
+voorzichtig de shebakia -> mooi : 1
+de shebakia mooi -> mag : 1
+shebakia mooi mag -> je : 1
+mooi mag je -> zelf : 1
+mag je zelf -> weten : 1
+je zelf weten -> hoe : 1
+zelf weten hoe -> mijn : 1
+weten hoe mijn -> moeder : 1
+hoe mijn moeder -> houdt : 1
+mijn moeder houdt -> van : 1
+moeder houdt van -> donkere : 1
+houdt van donkere -> shebakia : 1
+van donkere shebakia -> terwijl : 1
+donkere shebakia terwijl -> mijn : 1
+shebakia terwijl mijn -> man : 1
+terwijl mijn man -> shebakia : 1
+mijn man shebakia -> licht : 1
+man shebakia licht -> moet : 1
+shebakia licht moet -> de : 1
+licht moet de -> shebakia : 1
+moet de shebakia -> er : 1
+shebakia er met -> een : 1
+er met een -> spatel : 1
+met een spatel -> uit : 1
+een spatel uit -> en : 1
+spatel uit en -> laat : 1
+uit en laat -> uitlekken : 1
+en laat uitlekken -> op : 1
+laat uitlekken op -> een : 1
+uitlekken op een -> stuk : 1
+op een stuk -> de : 1
+op een stuk -> decoreer : 1
+een stuk de -> honing : 1
+stuk de honing -> met : 1
+de honing met -> de : 1
+de honing met -> een : 1
+honing met de -> rozewater : 1
+met de rozewater -> op : 1
+de rozewater op -> een : 1
+rozewater op een -> laag : 1
+op een laag -> vuur : 1
+een laag vuur -> warm : 1
+laag vuur warm -> en : 1
+vuur warm en -> vloeibaar : 1
+warm en vloeibaar -> honing : 1
+en vloeibaar honing -> mag : 1
+vloeibaar honing mag -> zeker : 1
+honing mag zeker -> niet : 1
+mag zeker niet -> de : 1
+zeker niet de -> honing : 1
+niet de honing -> vloeibaar : 1
+de honing vloeibaar -> haal : 1
+honing vloeibaar haal -> je : 1
+vloeibaar haal je -> de : 1
+haal je de -> pan : 1
+je de pan -> van : 1
+de pan van -> het : 1
+pan van het -> nu : 1
+van het nu -> de : 1
+het nu de -> shebakia : 1
+nu de shebakia -> in : 1
+de shebakia in -> de : 1
+shebakia in de -> honing : 1
+in de honing -> glijden : 1
+in de honing -> valt : 1
+de honing glijden -> en : 1
+honing glijden en -> laat : 1
+glijden en laat -> het : 1
+en laat het -> ongeveer : 1
+laat het ongeveer -> minuten : 1
+het ongeveer minuten -> de : 1
+ongeveer minuten de -> shebakia : 1
+minuten de shebakia -> uit : 1
+de shebakia uit -> de : 1
+shebakia uit de -> pan : 1
+uit de pan -> en : 1
+de pan en -> doe : 1
+pan en doe -> ze : 1
+en doe ze -> in : 1
+doe ze in -> een : 1
+ze in een -> meteen : 1
+in een meteen -> met : 1
+een meteen met -> moeder : 1
+meteen met moeder -> houdt : 1
+met moeder houdt -> heel : 1
+moeder houdt heel -> erg : 1
+houdt heel erg -> van : 1
+heel erg van -> maar : 1
+erg van maar -> ik : 1
+van maar ik -> zie : 1
+maar ik zie -> het : 1
+ik zie het -> niet : 1
+zie het niet -> zitten : 1
+het niet zitten -> om : 1
+niet zitten om -> het : 1
+zitten om het -> deeg : 1
+om het deeg -> een : 1
+deeg een nacht -> te : 1
+een nacht te -> dus : 1
+nacht te dus -> daarom : 1
+te dus daarom -> hier : 1
+dus daarom hier -> een : 1
+daarom hier een -> makkelijk : 1
+hier een makkelijk -> fekkas : 1
+een makkelijk fekkas -> is : 1
+makkelijk fekkas is -> echt : 1
+fekkas is echt -> een : 1
+is echt een -> makkelijk : 1
+echt een makkelijk -> succes : 1
+een makkelijk succes -> heb : 1
+makkelijk succes heb -> je : 1
+succes heb je -> gram : 1
+heb je gram -> zachte : 1
+je gram zachte -> gram : 1
+gram zachte gram -> zakjes : 1
+gram zachte gram -> gram : 1
+gram zachte gram -> zakje : 1
+zachte gram zakjes -> gram : 1
+gram zakjes gram -> zakje : 1
+zakjes gram zakje -> stukjes : 1
+gram zakje stukjes -> je : 1
+zakje stukjes je -> zelf : 1
+stukjes je zelf -> lekker : 1
+je zelf lekker -> vindt : 1
+zelf lekker vindt -> oven : 1
+lekker vindt oven -> voorverwarmen : 1
+vindt oven voorverwarmen -> op : 1
+oven voorverwarmen op -> vanillesuiker : 1
+voorverwarmen op vanillesuiker -> heel : 1
+op vanillesuiker heel -> goed : 1
+vanillesuiker heel goed -> eieren : 1
+heel goed eieren -> goed : 1
+goed eieren goed -> meel : 1
+eieren goed meel -> en : 1
+goed meel en -> bakpoeder : 1
+meel en bakpoeder -> samen : 1
+en bakpoeder samen -> toevoegen : 1
+bakpoeder samen toevoegen -> aan : 1
+samen toevoegen aan -> sesamzaad : 1
+toevoegen aan sesamzaad -> en : 1
+aan sesamzaad en -> amandelschaafsel : 1
+sesamzaad en amandelschaafsel -> toevoegen : 1
+en amandelschaafsel toevoegen -> heb : 1
+amandelschaafsel toevoegen heb -> ik : 1
+toevoegen heb ik -> gedaan : 1
+heb ik gedaan -> in : 1
+ik gedaan in -> mijn : 1
+gedaan in mijn -> maar : 1
+in mijn maar -> dat : 1
+mijn maar dat -> kan : 1
+maar dat kan -> zelf : 1
+dat kan zelf -> tot : 1
+kan zelf tot -> soepel : 1
+zelf tot soepel -> deeg : 1
+tot soepel deeg -> het : 1
+soepel deeg het -> deeg : 1
+deeg het deeg -> verdelen : 1
+het deeg verdelen -> in : 1
+deeg verdelen in -> stukken : 1
+verdelen in stukken -> en : 1
+in stukken en -> staven : 1
+stukken en staven -> van : 1
+en staven van -> bakblik : 1
+staven van bakblik -> in : 1
+van bakblik in -> oven : 1
+bakblik in oven -> schuiven : 1
+in oven schuiven -> en : 1
+oven schuiven en -> in : 1
+schuiven en in -> minuten : 1
+en in minuten -> lichtbruin : 1
+in minuten lichtbruin -> bakblik : 1
+minuten lichtbruin bakblik -> uit : 1
+lichtbruin bakblik uit -> oven : 1
+bakblik uit oven -> staven : 1
+uit oven staven -> op : 1
+oven staven op -> keukenblad : 1
+staven op keukenblad -> leggen : 1
+op keukenblad leggen -> en : 1
+keukenblad leggen en -> in : 1
+leggen en in -> schuine : 1
+en in schuine -> stukjes : 1
+in schuine stukjes -> fekkas : 1
+schuine stukjes fekkas -> op : 1
+stukjes fekkas op -> bakblik : 1
+fekkas op bakblik -> minuten : 1
+op bakblik minuten -> laten : 1
+bakblik minuten laten -> halverwege : 1
+minuten laten halverwege -> omkeren : 1
+laten halverwege omkeren -> met : 1
+halverwege omkeren met -> koekjes : 1
+omkeren met koekjes -> af : 1
+met koekjes af -> laten : 1
+koekjes af laten -> koelen : 1
+af laten koelen -> en : 1
+laten koelen en -> dan : 1
+koelen en dan -> in : 1
+en dan in -> een : 1
+dan in een -> luchtdichte : 1
+in een luchtdichte -> doos : 1
+een luchtdichte doos -> goed : 1
+luchtdichte doos goed -> want : 1
+doos goed want -> ik : 1
+goed want ik -> heb : 1
+want ik heb -> niet : 1
+ik heb niet -> zoveel : 1
+heb niet zoveel -> het : 1
+niet zoveel het -> ml : 1
+zoveel het ml -> gram : 1
+het ml gram -> zakjes : 1
+ml gram zakjes -> zakje : 2
+ml gram zakjes -> vanille : 1
+gram zakjes zakje -> gram : 2
+zakjes zakje gram -> wat : 1
+zakjes zakje gram -> eetlepels : 1
+zakje gram wat -> geraspte : 1
+gram wat geraspte -> rode : 1
+wat geraspte rode -> de : 1
+geraspte rode de -> jam : 1
+rode de jam -> naar : 1
+de jam naar -> keuze : 1
+jam naar keuze -> heb : 1
+naar keuze heb -> frambozenjam : 1
+keuze heb frambozenjam -> marsepeinen : 1
+heb frambozenjam marsepeinen -> eetbare : 1
+frambozenjam marsepeinen eetbare -> ga : 1
+marsepeinen eetbare ga -> je : 1
+eetbare ga je -> te : 1
+je te verwarm -> de : 7
+te verwarm de -> oven : 6
+te verwarm de -> over : 1
+verwarm de oven -> voor : 8
+de oven voor -> op : 8
+oven voor op -> meng : 5
+oven voor op -> vet : 1
+oven voor op -> snijd : 1
+oven voor op -> maken : 1
+voor op meng -> de : 5
+op meng de -> suiker : 2
+op meng de -> boter : 1
+op meng de -> het : 1
+op meng de -> vanillesuiker : 1
+meng de suiker -> en : 2
+de suiker en -> de : 3
+de suiker en -> het : 1
+de suiker en -> honing : 1
+suiker en de -> vanillesuiker : 2
+suiker en de -> honing : 1
+en de vanillesuiker -> heel : 1
+en de vanillesuiker -> voeg : 1
+de vanillesuiker heel -> erg : 1
+vanillesuiker heel erg -> voeg : 1
+heel erg voeg -> dan : 1
+erg voeg dan -> een : 1
+voeg dan een -> voor : 1
+dan een voor -> een : 1
+een voor een -> de : 1
+voor een de -> eieren : 1
+een de eieren -> elke : 1
+de eieren elke -> keer : 1
+eieren elke keer -> heel : 1
+elke keer heel -> goed : 1
+keer heel goed -> mixen : 1
+heel goed mixen -> mixer : 1
+goed mixen mixer -> is : 1
+mixen mixer is -> voeg : 1
+mixer is voeg -> de : 1
+is voeg de -> citroenrasp : 1
+voeg de citroenrasp -> meng : 1
+de citroenrasp meng -> de : 1
+citroenrasp meng de -> bakpoeder : 1
+meng de bakpoeder -> samen : 1
+meng de bakpoeder -> met : 4
+de bakpoeder samen -> met : 1
+bakpoeder samen met -> het : 1
+samen met het -> de : 1
+met het de -> bakpoeder : 1
+het de bakpoeder -> moet : 1
+het de bakpoeder -> en : 1
+de bakpoeder moet -> je : 1
+bakpoeder moet je -> niet : 1
+moet je niet -> meer : 1
+je niet meer -> kunnen : 1
+niet meer kunnen -> in : 1
+meer kunnen in -> het : 1
+kunnen in het -> voeg : 1
+in het voeg -> het : 1
+het voeg het -> meel : 2
+voeg het meel -> beetje : 1
+voeg het meel -> stap : 1
+het meel beetje -> bij : 1
+meel beetje bij -> beetje : 1
+bij beetje bij -> het : 1
+beetje bij het -> verdeel : 1
+bij het verdeel -> het : 1
+het verdeel het -> beslag : 1
+verdeel het beslag -> in : 1
+het beslag in -> doe : 1
+beslag in doe -> in : 1
+in doe in -> de : 1
+doe in de -> ene : 1
+in de ene -> kom : 1
+de ene kom -> een : 1
+ene kom een -> paar : 1
+kom een paar -> druppels : 1
+een paar druppels -> rode : 1
+een paar druppels -> ter : 1
+een paar druppels -> kleurstof : 1
+paar druppels rode -> goed : 1
+druppels rode goed -> bekleed : 1
+rode goed bekleed -> een : 1
+goed bekleed een -> bakblik : 1
+bekleed een bakblik -> met : 1
+een bakblik met -> verdeel : 1
+bakblik met verdeel -> het : 1
+met verdeel het -> bakblik : 1
+verdeel het bakblik -> met : 1
+het bakblik met -> een : 1
+bakblik met een -> lange : 1
+met een lange -> reep : 1
+een lange reep -> aluminiumfolie : 1
+lange reep aluminiumfolie -> in : 1
+reep aluminiumfolie in -> giet : 1
+aluminiumfolie in giet -> in : 1
+in giet in -> het : 1
+giet in het -> ene : 1
+in het ene -> deel : 1
+het ene deel -> het : 1
+ene deel het -> lichte : 1
+deel het lichte -> beslag : 1
+het lichte beslag -> en : 1
+lichte beslag en -> in : 1
+beslag en in -> het : 1
+en in het -> andere : 1
+in het andere -> deel : 1
+het andere deel -> het : 1
+andere deel het -> roze : 1
+deel het roze -> zet : 1
+het roze zet -> het : 1
+roze zet het -> bakblik : 1
+zet het bakblik -> voor : 1
+het bakblik voor -> ongeveer : 1
+bakblik voor ongeveer -> een : 1
+voor ongeveer een -> half : 1
+ongeveer een half -> uurtje : 1
+half uurtje in -> de : 1
+uurtje in de -> als : 1
+in de als -> de : 1
+de als de -> cake : 1
+als de cake -> gaar : 1
+de cake gaar -> haal : 1
+cake gaar haal -> je : 1
+gaar haal je -> het : 1
+haal je het -> voorzichtig : 1
+je het voorzichtig -> uit : 1
+het voorzichtig uit -> het : 1
+voorzichtig uit het -> snijd : 1
+uit het snijd -> elke : 1
+het snijd elke -> cake : 1
+snijd elke cake -> in : 1
+elke cake in -> drie : 1
+cake in drie -> lange : 1
+in drie lange -> je : 1
+drie lange je -> krijgt : 1
+lange je krijgt -> dus : 1
+je krijgt dus -> drie : 1
+krijgt dus drie -> lichte : 1
+dus drie lichte -> staven : 1
+drie lichte staven -> en : 1
+lichte staven en -> drie : 1
+staven en drie -> roze : 1
+en drie roze -> bestrijk : 1
+drie roze bestrijk -> staven : 1
+roze bestrijk staven -> royaal : 1
+bestrijk staven royaal -> met : 1
+staven royaal met -> de : 1
+royaal met de -> zesde : 1
+met de zesde -> niet : 1
+de zesde niet -> want : 1
+zesde niet want -> dat : 1
+niet want dat -> wordt : 1
+want dat wordt -> de : 1
+dat wordt de -> druk : 1
+wordt de druk -> de : 1
+de druk de -> staven : 1
+de druk de -> vulling : 1
+druk de staven -> boven : 1
+de staven boven -> op : 1
+staven boven op -> je : 1
+boven op je -> hebt : 1
+op je hebt -> nu : 1
+je hebt nu -> dus : 1
+hebt nu dus -> een : 1
+nu dus een -> hele : 1
+dus een hele -> lange : 1
+een hele lange -> eventueel : 1
+hele lange eventueel -> kan : 1
+lange eventueel kan -> je : 1
+eventueel kan je -> de : 1
+kan je de -> buitenkant : 1
+je de buitenkant -> van : 1
+de buitenkant van -> de : 1
+buitenkant van de -> cake : 1
+van de cake -> nog : 1
+de cake nog -> dun : 1
+cake nog dun -> bestrijken : 1
+nog dun bestrijken -> met : 1
+dun bestrijken met -> jam : 1
+bestrijken met jam -> en : 1
+met jam en -> bestrooien : 1
+jam en bestrooien -> snijd : 1
+en bestrooien snijd -> de : 1
+bestrooien snijd de -> cake : 1
+snijd de cake -> in : 1
+de cake in -> stukken : 1
+cake in stukken -> van : 1
+in stukken van -> ongeveer : 1
+stukken van ongeveer -> decoreer : 1
+van ongeveer decoreer -> de : 1
+ongeveer decoreer de -> zet : 1
+decoreer de zet -> de : 1
+zet de cakejes -> in : 1
+de cakejes in -> gram : 1
+cakejes in gram -> gesmolten : 1
+in gram gesmolten -> ml : 1
+gesmolten ml lauwe -> gram : 1
+ml lauwe gram -> gram : 1
+lauwe gram gram -> zakjes : 1
+gram gram zakjes -> ml : 1
+gram zakjes ml -> een : 1
+zakjes ml een -> half : 1
+ml een half -> zakje : 1
+een half zakje -> gram : 1
+een half zakje -> een : 1
+half zakje gram -> een : 1
+zakje gram een -> diepe : 1
+gram een diepe -> koekenpan : 1
+een diepe koekenpan -> en : 1
+diepe koekenpan en -> zonnebloemolie : 1
+koekenpan en zonnebloemolie -> ga : 1
+en zonnebloemolie ga -> je : 1
+zonnebloemolie ga je -> te : 1
+je te smelt -> de : 1
+te smelt de -> verwarm : 1
+smelt de verwarm -> de : 1
+de verwarm de -> meng : 1
+verwarm de meng -> de : 1
+de meng de -> melk : 1
+meng de melk -> en : 1
+de melk en -> gist : 1
+melk en gist -> goed : 1
+en gist goed -> voeg : 1
+gist goed voeg -> aan : 1
+goed voeg aan -> bovenstaand : 1
+voeg aan bovenstaand -> sinasappelsap : 1
+voeg aan bovenstaand -> mengsel : 1
+aan bovenstaand sinasappelsap -> en : 1
+bovenstaand sinasappelsap en -> ei : 1
+sinasappelsap en ei -> meng : 1
+en ei meng -> meng : 1
+ei meng meng -> de : 2
+meng meng de -> bakpoeder : 2
+meng meng de -> gemalen : 1
+de bakpoeder met -> de : 2
+de bakpoeder met -> het : 2
+bakpoeder met de -> voeg : 1
+bakpoeder met de -> cacao : 1
+met de voeg -> aan : 1
+met de voeg -> het : 1
+de voeg aan -> het : 1
+voeg aan het -> natte : 1
+aan het natte -> mengsel : 1
+het natte mengsel -> beetje : 1
+natte mengsel beetje -> bij : 1
+mengsel beetje bij -> beetje : 2
+bij beetje het -> meel : 5
+beetje het meel -> als : 1
+beetje het meel -> bij : 1
+beetje het meel -> maak : 1
+beetje het meel -> goed : 2
+het meel als -> al : 1
+meel als al -> het : 1
+als al het -> meel : 1
+al het meel -> toegevoegd : 1
+het meel toegevoegd -> kneden : 1
+meel toegevoegd kneden -> en : 1
+toegevoegd kneden en -> en : 1
+kneden en en -> kneden : 1
+en en kneden -> kneed : 1
+en kneden kneed -> net : 1
+kneden kneed net -> zolang : 1
+kneed net zolang -> totdat : 1
+net zolang totdat -> het : 1
+zolang totdat het -> deeg : 1
+lekker soepel is -> en : 1
+soepel is en -> niet : 1
+is en niet -> meer : 1
+en niet meer -> aanm : 1
+niet meer aanm -> jouw : 1
+meer aanm jouw -> handen : 1
+aanm jouw handen -> bestuif : 1
+jouw handen bestuif -> jouw : 1
+handen bestuif jouw -> werkblad : 1
+bestuif jouw werkblad -> met : 1
+jouw werkblad met -> rol : 1
+werkblad met rol -> het : 1
+met rol het -> deeg : 2
+rol het deeg -> uit : 2
+rol het deeg -> voorzichtig : 2
+het deeg uit -> tot : 1
+het deeg uit -> de : 1
+het deeg uit -> totdat : 1
+deeg uit tot -> een : 1
+uit tot een -> plak : 1
+uit tot een -> dikte : 1
+tot een plak -> van : 1
+een plak van -> iets : 1
+plak van iets -> meer : 1
+van iets meer -> dan : 1
+iets meer dan -> een : 1
+iets meer dan -> de : 1
+meer dan een -> halve : 1
+dan een halve -> centimeter : 1
+een halve centimeter -> steek : 1
+halve centimeter steek -> met : 1
+centimeter steek met -> iets : 1
+steek met iets -> ronds : 1
+met iets ronds -> rondjes : 1
+iets ronds rondjes -> uit : 1
+ronds rondjes uit -> het : 1
+rondjes uit het -> steek : 1
+uit het steek -> uit : 1
+het steek uit -> dat : 1
+steek uit dat -> rondje : 1
+uit dat rondje -> met : 1
+dat rondje met -> een : 1
+rondje met een -> iets : 1
+met een iets -> kleiner : 1
+een iets kleiner -> rondje : 1
+iets kleiner rondje -> weer : 1
+kleiner rondje weer -> een : 1
+rondje weer een -> rondje : 1
+weer een rondje -> uit : 1
+een rondje uit -> wat : 1
+rondje uit wat -> een : 1
+uit wat een -> hoop : 1
+wat een hoop -> een : 1
+een hoop een -> bakplaat : 1
+hoop een bakplaat -> met : 1
+een bakplaat met -> leg : 1
+een bakplaat met -> vul : 1
+bakplaat met leg -> hierop : 1
+met leg hierop -> de : 1
+leg hierop de -> laat : 1
+hierop de laat -> de : 1
+de laat de -> donuts : 1
+de laat de -> koekjes : 1
+de laat de -> plaatkoek : 1
+laat de donuts -> in : 1
+laat de donuts -> afkoelen : 1
+de donuts in -> een : 1
+donuts in een -> warme : 1
+in een warme -> omgeving : 1
+een warme omgeving -> na : 1
+warme omgeving na -> circa : 1
+omgeving na circa -> twee : 1
+na circa twee -> uur : 1
+circa twee uur -> mag : 1
+twee uur mag -> je : 1
+uur mag je -> ze : 1
+mag je ze -> gaan : 1
+je ze gaan -> laat : 1
+ze gaan laat -> de : 1
+gaan laat de -> donuts : 1
+de donuts afkoelen -> en : 1
+donuts afkoelen en -> bestrooi : 1
+afkoelen en bestrooi -> met : 1
+en bestrooi met -> een : 1
+bestrooi met een -> leuke : 1
+met een leuke -> smelt : 1
+een leuke smelt -> witte : 1
+leuke smelt witte -> chocolade : 1
+smelt witte chocolade -> druk : 1
+witte chocolade druk -> een : 1
+chocolade druk een -> donut : 1
+druk een donut -> voor : 1
+een donut voor -> ongeveer : 1
+donut voor ongeveer -> de : 1
+voor ongeveer de -> helft : 1
+ongeveer de helft -> in : 1
+de helft in -> de : 1
+helft in de -> witte : 1
+in de witte -> druk : 1
+de witte druk -> vervolgens : 1
+witte druk vervolgens -> de : 1
+druk vervolgens de -> donut : 1
+vervolgens de donut -> in : 1
+de donut in -> de : 1
+donut in de -> jammie : 1
+in de jammie -> gram : 1
+de jammie gram -> gram : 1
+jammie gram gram -> theelepel : 1
+gram gram theelepel -> gram : 1
+gram theelepel gram -> repen : 1
+theelepel gram repen -> gram : 1
+gram repen gram -> per : 1
+repen gram per -> eetlepels : 1
+gram per eetlepels -> gehakte : 1
+per eetlepels gehakte -> nougatine : 1
+eetlepels gehakte nougatine -> ga : 1
+gehakte nougatine ga -> je : 1
+nougatine ga je -> te : 1
+meng de boter -> en : 1
+meng de boter -> met : 1
+de boter en -> de : 1
+boter en de -> voeg : 1
+en de voeg -> het : 1
+de voeg het -> ei : 1
+de voeg het -> halve : 1
+voeg het ei -> meng : 1
+het ei meng -> de : 1
+ei meng de -> koekkruiden : 1
+meng de koekkruiden -> met : 1
+de koekkruiden met -> het : 1
+koekkruiden met het -> voeg : 1
+met het voeg -> beetje : 2
+met het voeg -> het : 1
+met het voeg -> aan : 1
+het meel bij -> het : 1
+meel bij het -> kneed : 1
+bij het kneed -> het : 1
+het kneed het -> deeg : 1
+kneed het deeg -> heel : 1
+kneed het deeg -> zodat : 1
+kneed het deeg -> pak : 1
+deeg heel maak -> van : 1
+heel maak van -> het : 1
+deeg een lange -> snijd : 1
+een lange snijd -> de : 1
+lange snijd de -> staaf : 1
+snijd de staaf -> in : 1
+de staaf in -> je : 1
+staaf in je -> kan : 1
+in je kan -> zelf : 1
+je kan zelf -> bepalen : 1
+kan zelf bepalen -> hoe : 1
+zelf bepalen hoe -> groot : 1
+bepalen hoe groot -> jouw : 1
+hoe groot jouw -> krakelingen : 1
+groot jouw krakelingen -> maak : 1
+jouw krakelingen maak -> van : 1
+krakelingen maak van -> de : 1
+van de stukjes -> vorm : 1
+de stukjes vorm -> daar : 1
+stukjes vorm daar -> vervolgens : 1
+vorm daar vervolgens -> een : 1
+daar vervolgens een -> krakeling : 1
+vervolgens een krakeling -> werk : 1
+een krakeling werk -> zo : 1
+krakeling werk zo -> al : 1
+het deeg schuif -> de : 1
+deeg schuif de -> bakplaat : 1
+schuif de bakplaat -> in : 3
+de bakplaat in -> de : 1
+de bakplaat in -> het : 4
+bakplaat in de -> laat : 1
+in de laat -> circa : 1
+in de laat -> de : 1
+de laat circa -> minuten : 1
+laat circa minuten -> bakken : 1
+circa minuten bakken -> of : 1
+minuten bakken of -> tot : 1
+bakken of tot -> de : 1
+of tot de -> koekjes : 1
+tot de koekjes -> lichtbruin : 1
+de koekjes lichtbruin -> smelt : 1
+de koekjes lichtbruin -> van : 1
+koekjes lichtbruin smelt -> de : 1
+lichtbruin smelt de -> chocolade : 1
+chocolade met de -> olie : 1
+chocolade met de -> zonnebloemolie : 1
+de olie doop -> een : 1
+olie doop een -> krakeling : 1
+doop een krakeling -> voorzichtig : 1
+een krakeling voorzichtig -> in : 1
+krakeling voorzichtig in -> de : 1
+voorzichtig in de -> haal : 1
+voorzichtig in de -> warme : 1
+in de haal -> de : 1
+in de haal -> het : 1
+de haal de -> krakelingen : 1
+haal de krakelingen -> eruit : 1
+de krakelingen eruit -> met : 1
+krakelingen eruit met -> een : 1
+eruit met een -> bestrooi : 1
+met een bestrooi -> meteen : 1
+een bestrooi meteen -> met : 1
+bestrooi meteen met -> een : 1
+meteen met een -> naar : 1
+met een naar -> laat : 1
+een naar laat -> de : 1
+naar laat de -> chocola : 1
+laat de chocola -> hard : 1
+de chocola hard -> voor : 1
+chocola hard voor -> het : 1
+hard voor het -> gram : 1
+het gram boter -> op : 1
+gram boter op -> gram : 1
+boter op gram -> mespunt : 1
+op gram mespunt -> gram : 1
+gram mespunt gram -> een : 1
+mespunt gram een -> half : 1
+gram een half -> theelepeltje : 1
+gram een half -> voor : 1
+een half theelepeltje -> eetlepel : 1
+half theelepeltje eetlepel -> koud : 1
+theelepeltje eetlepel koud -> voor : 1
+eetlepel koud voor -> de : 1
+koud voor de -> gram : 1
+voor de gram -> gram : 1
+voor de gram -> gebroken : 1
+de gram gram -> gehakte : 1
+gram gram gehakte -> eetlepels : 1
+gram gehakte eetlepels -> theelepel : 1
+gehakte eetlepels theelepel -> een : 1
+eetlepels theelepel een -> paar : 1
+theelepel een paar -> druppels : 1
+paar druppels ter -> geschaafde : 1
+druppels ter geschaafde -> halve : 1
+ter geschaafde halve -> geklutste : 1
+geschaafde halve geklutste -> het : 1
+halve geklutste het -> doe : 1
+geklutste het doe -> de : 1
+het doe de -> rozijntjes : 1
+doe de rozijntjes -> in : 1
+de rozijntjes in -> een : 1
+rozijntjes in een -> bak : 1
+in een bak -> met : 1
+een bak met -> lauw : 1
+bak met lauw -> laat : 1
+met lauw laat -> een : 1
+lauw laat een -> kwartiertje : 1
+laat een kwartiertje -> meng : 1
+een kwartiertje meng -> de : 1
+kwartiertje meng de -> zout : 1
+meng de zout -> en : 1
+de zout en -> het : 1
+zout en het -> ei : 1
+en het ei -> goed : 1
+en het ei -> voeg : 1
+het ei goed -> door : 1
+ei goed door -> voeg : 1
+goed door voeg -> het : 1
+goed door voeg -> voor : 1
+door voeg het -> de : 1
+voeg het de -> bakpoeder : 1
+de bakpoeder en -> de : 1
+bakpoeder en de -> eetlepel : 1
+en de eetlepel -> water : 1
+de eetlepel water -> meng : 1
+eetlepel water meng -> maak : 1
+water meng maak -> een : 1
+meng maak een -> bal : 1
+maak een bal -> van : 1
+een bal van -> het : 1
+bal van het -> bekleed : 1
+van het bekleed -> de : 1
+het bekleed de -> bal : 1
+bekleed de bal -> met : 1
+de bal met -> plasticfolie : 1
+bal met plasticfolie -> en : 1
+met plasticfolie en -> laat : 1
+plasticfolie en laat -> de : 1
+en laat de -> bal : 1
+laat de bal -> een : 1
+de bal een -> half : 1
+bal een half -> uur : 1
+een half uur -> rusten : 1
+half uur rusten -> in : 1
+uur rusten in -> de : 1
+rusten in de -> was : 1
+in de was -> en : 1
+de was en -> schil : 1
+was en schil -> de : 1
+en schil de -> snijd : 1
+schil de snijd -> de : 1
+de snijd de -> appel : 1
+snijd de appel -> in : 1
+de appel in -> hele : 1
+appel in hele -> kleine : 1
+in hele kleine -> haal : 1
+in hele kleine -> leg : 1
+hele kleine haal -> de : 1
+kleine haal de -> rozijntjes : 1
+haal de rozijntjes -> uit : 1
+de rozijntjes uit -> het : 1
+rozijntjes uit het -> dep : 1
+uit het dep -> droog : 1
+het dep droog -> met : 1
+dep droog met -> voeg : 1
+droog met voeg -> de : 1
+met voeg de -> citroensap : 1
+voeg de citroensap -> en : 1
+de citroensap en -> amandelen : 1
+citroensap en amandelen -> toe : 1
+en amandelen toe -> aan : 1
+amandelen toe aan -> de : 1
+toe aan de -> stukjes : 1
+aan de stukjes -> meng : 1
+de stukjes meng -> even : 1
+stukjes meng even -> neem : 1
+meng even neem -> het : 1
+even neem het -> deeg : 1
+neem het deeg -> uit : 1
+deeg uit de -> een : 1
+uit de een -> half : 1
+de een half -> bestuif : 1
+de een half -> uurtje : 1
+een half bestuif -> het : 1
+half bestuif het -> werkblad : 1
+werkblad met veel -> het : 1
+met veel het -> is : 1
+veel het is -> namelijk : 1
+het is namelijk -> rol : 1
+is namelijk rol -> het : 1
+namelijk rol het -> deeg : 1
+deeg voorzichtig let -> erop : 1
+voorzichtig let erop -> dat : 1
+let erop dat -> het : 1
+erop dat het -> niet : 1
+dat het niet -> blijft : 1
+het niet blijft -> het : 1
+niet blijft het -> deeg : 1
+blijft het deeg -> moet : 1
+deeg moet niet -> heel : 1
+moet niet heel -> dun : 1
+niet heel dun -> een : 1
+heel dun een -> dikte : 1
+dun een dikte -> van : 1
+een dikte van -> een : 1
+een dikte van -> ongeveer : 1
+dikte van een -> halve : 1
+van een halve -> cm : 1
+een halve cm -> haal : 1
+halve cm haal -> met : 1
+cm haal met -> een : 1
+haal met een -> theeglas : 1
+met een theeglas -> rondjes : 1
+een theeglas rondjes -> verwarm : 1
+theeglas rondjes verwarm -> de : 1
+rondjes verwarm de -> oven : 1
+voor op vet -> het : 1
+op vet het -> bakblik : 1
+vet het bakblik -> in : 1
+het bakblik in -> met : 1
+het bakblik in -> de : 1
+het bakblik in -> het : 2
+bakblik in met -> bekleed : 1
+in met bekleed -> de : 1
+met bekleed de -> vormpjes : 1
+bekleed de vormpjes -> met : 1
+de vormpjes met -> de : 2
+vormpjes met de -> rondjes : 1
+vormpjes met de -> druk : 1
+met de rondjes -> prik : 1
+de rondjes prik -> in : 1
+rondjes prik in -> elk : 1
+prik in elk -> rondje : 1
+in elk rondje -> gaatjes : 1
+elk rondje gaatjes -> met : 1
+rondje gaatjes met -> een : 1
+gaatjes met een -> vul : 1
+met een vul -> de : 1
+een vul de -> vormpjes : 1
+vul de vormpjes -> met : 1
+met de druk -> de : 1
+druk de vulling -> voorzichtig : 1
+de vulling voorzichtig -> het : 1
+vulling voorzichtig het -> mag : 1
+voorzichtig het mag -> best : 1
+het mag best -> wel : 1
+mag best wel -> veel : 1
+best wel veel -> appel : 1
+wel veel appel -> wordt : 1
+veel appel wordt -> namelijk : 1
+appel wordt namelijk -> in : 1
+wordt namelijk in -> bestrijk : 1
+namelijk in bestrijk -> de : 1
+in bestrijk de -> appel : 1
+bestrijk de appel -> heel : 1
+de appel heel -> voorzichtig : 1
+appel heel voorzichtig -> met : 1
+heel voorzichtig met -> druk : 1
+heel voorzichtig met -> schuif : 1
+voorzichtig met druk -> op : 1
+met druk op -> elk : 1
+druk op elk -> taartje : 1
+op elk taartje -> een : 1
+elk taartje een -> walnoot : 1
+taartje een walnoot -> of : 1
+een walnoot of -> bestrooi : 1
+walnoot of bestrooi -> met : 1
+of bestrooi met -> bestrijk : 1
+bestrooi met bestrijk -> nu : 1
+met bestrijk nu -> het : 1
+bestrijk nu het -> taartje : 1
+nu het taartje -> weer : 1
+het taartje weer -> heel : 1
+taartje weer heel -> voorzichtig : 1
+weer heel voorzichtig -> met : 1
+voorzichtig met schuif -> de : 1
+met schuif de -> bakplaat : 1
+bakplaat in het -> midden : 4
+in het midden -> van : 6
+het midden van -> de : 6
+midden van de -> een : 1
+midden van de -> laat : 2
+midden van de -> de : 1
+midden van de -> bak : 2
+van de een -> half : 1
+half uurtje bakken -> of : 1
+uurtje bakken of -> totdat : 1
+bakken of totdat -> de : 1
+of totdat de -> taartjes : 1
+totdat de taartjes -> mooi : 1
+de taartjes mooi -> bruin : 1
+taartjes mooi bruin -> laten : 1
+mooi bruin laten -> afkoelen : 1
+bruin laten afkoelen -> en : 2
+laten afkoelen en -> gram : 1
+laten afkoelen en -> bel : 1
+afkoelen en gram -> zachte : 1
+en gram zachte -> gram : 1
+zachte gram gram -> jam : 1
+gram gram jam -> naar : 1
+gram jam naar -> ga : 1
+jam naar ga -> je : 1
+naar ga je -> te : 1
+suiker en het -> ei : 1
+het ei voeg -> beetje : 1
+ei voeg beetje -> bij : 1
+het meel maak -> van : 1
+meel maak van -> het : 1
+van het bovenstaande -> een : 1
+het bovenstaande een -> zacht : 1
+bovenstaande een zacht -> vorm : 1
+een zacht vorm -> leg : 1
+zacht vorm leg -> de : 1
+vorm leg de -> balletjes : 1
+leg de balletjes -> op : 1
+de balletjes op -> de : 1
+balletjes op de -> druk : 1
+op de druk -> met : 1
+de druk met -> de : 1
+druk met de -> steel : 1
+met de steel -> van : 1
+de steel van -> een : 1
+steel van een -> pollepel : 1
+van een pollepel -> gaatjes : 1
+een pollepel gaatjes -> in : 1
+pollepel gaatjes in -> de : 1
+gaatjes in de -> schuif : 1
+in de schuif -> de : 1
+de schuif de -> bakplaat : 1
+van de laat -> de : 1
+van de laat -> het : 1
+de koekjes in -> ongeveer : 1
+de koekjes in -> een : 1
+koekjes in ongeveer -> minuten : 1
+in ongeveer minuten -> gaar : 1
+ongeveer minuten gaar -> als : 1
+minuten gaar als -> de : 1
+gaar als de -> onderkant : 1
+als de onderkant -> lichtbruin : 1
+als de onderkant -> van : 1
+de onderkant lichtbruin -> is : 1
+onderkant lichtbruin is -> kan : 1
+lichtbruin is kan -> je : 1
+is kan je -> ze : 1
+kan je ze -> uit : 1
+je ze uit -> de : 1
+ze uit de -> oven : 1
+de oven laat -> de : 1
+oven laat de -> koekjes : 1
+de koekjes je -> ziet : 1
+koekjes je ziet -> dat : 1
+je ziet dat -> het : 1
+je ziet dat -> de : 1
+ziet dat het -> gaatje : 1
+dat het gaatje -> dat : 1
+het gaatje dat -> je : 1
+gaatje dat je -> er : 1
+dat je er -> met : 1
+je er met -> de : 1
+er met de -> pollepel : 1
+met de pollepel -> hebt : 1
+met de pollepel -> maak : 1
+de pollepel hebt -> ingedrukt : 1
+pollepel hebt ingedrukt -> niet : 1
+hebt ingedrukt niet -> echt : 1
+ingedrukt niet echt -> meer : 1
+niet echt meer -> een : 1
+echt meer een -> gaatje : 1
+meer een gaatje -> je : 1
+een gaatje je -> dat : 1
+gaatje je dat -> nog : 1
+je dat nog -> een : 1
+dat nog een -> keer : 1
+nog een keer -> indrukken : 1
+een keer indrukken -> met : 1
+keer indrukken met -> de : 1
+indrukken met de -> pollepel : 1
+de pollepel maak -> de : 1
+pollepel maak de -> jam : 1
+maak de jam -> giet : 1
+de jam giet -> in : 1
+jam giet in -> elk : 1
+giet in elk -> klein : 1
+in elk klein -> gaatje : 1
+elk klein gaatje -> een : 1
+klein gaatje een -> beetje : 1
+gaatje een beetje -> laat : 1
+een beetje laat -> en : 1
+beetje laat en -> eet : 1
+laat en eet -> met : 1
+en eet met -> gram : 1
+eet met gram -> zachte : 1
+met gram zachte -> gram : 1
+zachte gram zakje -> gram : 1
+gram zakje gram -> gram : 1
+zakje gram gram -> meel : 1
+gram gram meel -> iets : 1
+gram meel iets -> meer : 2
+meel iets meer -> of : 2
+iets meer of -> minder : 1
+iets meer of -> gram : 1
+meer of minder -> een : 1
+of minder een -> halve : 1
+minder een halve -> theelepel : 1
+een halve theelepel -> enkele : 1
+halve theelepel enkele -> druppels : 1
+theelepel enkele druppels -> kleurstof : 1
+enkele druppels kleurstof -> naar : 1
+druppels kleurstof naar -> repen : 1
+druppels kleurstof naar -> keuze : 1
+kleurstof naar repen -> eetlepels : 1
+naar repen eetlepels -> zilveren : 1
+repen eetlepels zilveren -> of : 1
+eetlepels zilveren of -> gekleurde : 1
+zilveren of gekleurde -> suikerballetjes : 1
+of gekleurde suikerballetjes -> koop : 1
+gekleurde suikerballetjes koop -> bij : 1
+suikerballetjes koop bij -> de : 1
+koop bij de -> ga : 1
+bij de ga -> je : 1
+de ga je -> te : 2
+meng de het -> de : 1
+de het de -> suiker : 1
+het de suiker -> en : 1
+de vanillesuiker voeg -> de : 1
+vanillesuiker voeg de -> maizena : 1
+voeg de maizena -> meng : 1
+de maizena meng -> meng : 1
+maizena meng meng -> de : 1
+bakpoeder met het -> voeg : 2
+het meel stap -> voor : 1
+meel stap voor -> stap : 1
+stap voor stap -> toe : 1
+stap voor stap -> omdat : 1
+stap voor stap -> maar : 1
+voor stap toe -> aan : 1
+stap toe aan -> bovenstaand : 1
+toe aan bovenstaand -> stap : 1
+aan bovenstaand stap -> voor : 1
+bovenstaand stap voor -> stap : 1
+voor stap omdat -> je : 1
+stap omdat je -> misschien : 1
+omdat je misschien -> wat : 1
+je misschien wat -> minder : 1
+misschien wat minder -> of : 1
+wat minder of -> meer : 1
+minder of meer -> meel : 1
+of meer meel -> nodig : 1
+meer meel nodig -> hebt : 1
+meel nodig hebt -> dan : 1
+nodig hebt dan -> maak : 1
+hebt dan maak -> er : 1
+dan maak er -> een : 1
+maak er een -> zacht : 1
+er een zacht -> en : 1
+een zacht en -> soepel : 1
+zacht en soepel -> deeg : 1
+en soepel deeg -> van : 1
+soepel deeg van -> dat : 1
+deeg van dat -> niet : 1
+van dat niet -> meer : 1
+dat niet meer -> aan : 1
+dat niet meer -> als : 1
+niet meer aan -> de : 1
+meer aan de -> handen : 1
+aan de handen -> verdeel : 1
+de handen verdeel -> het : 1
+handen verdeel het -> deeg : 1
+verdeel het deeg -> in : 1
+het deeg in -> twee : 1
+deeg in twee -> gelijke : 1
+in twee gelijke -> voeg : 1
+twee gelijke voeg -> aan : 1
+gelijke voeg aan -> stuk : 1
+voeg aan stuk -> deeg : 1
+aan stuk deeg -> een : 1
+stuk deeg een -> paar : 1
+deeg een paar -> druppels : 1
+paar druppels kleurstof -> naar : 1
+kleurstof naar keuze -> kneed : 1
+naar keuze kneed -> het : 1
+keuze kneed het -> deeg : 1
+het deeg zodat -> het : 1
+deeg zodat het -> een : 1
+zodat het een -> egale : 1
+het een egale -> kleur : 1
+een egale kleur -> bestuif : 1
+egale kleur bestuif -> het : 1
+kleur bestuif het -> werkblad : 1
+het werkblad goed -> met : 1
+werkblad goed met -> rol : 1
+goed met rol -> het : 1
+deeg voorzichtig uit -> tot : 1
+voorzichtig uit tot -> een : 1
+tot een dikte -> van : 1
+dikte van ongeveer -> steek : 1
+van ongeveer steek -> met : 1
+ongeveer steek met -> een : 1
+steek met een -> flessendopje : 1
+met een flessendopje -> rondjes : 1
+een flessendopje rondjes -> heb : 1
+flessendopje rondjes heb -> het : 1
+rondjes heb het -> dopje : 1
+heb het dopje -> van : 1
+het dopje van -> de : 1
+dopje van de -> stroop : 1
+van de stroop -> uit : 1
+de stroop uit -> de : 1
+stroop uit de -> aldi : 1
+uit de aldi -> precies : 1
+de aldi precies -> de : 1
+aldi precies de -> juiste : 1
+precies de juiste -> leg : 1
+de juiste leg -> de : 1
+juiste leg de -> rondjes : 1
+leg de rondjes -> voorzichtig : 1
+de rondjes voorzichtig -> op : 1
+rondjes voorzichtig op -> de : 1
+voorzichtig op de -> werk : 1
+op de werk -> zo : 1
+de werk zo -> al : 1
+de werk zo -> alle : 1
+het deeg doe -> de : 1
+deeg doe de -> bakplaat : 1
+doe de bakplaat -> in : 1
+van de de -> koekjes : 1
+de koekjes zijn -> in : 1
+koekjes zijn in -> circa : 1
+zijn in circa -> minuten : 1
+in circa minuten -> gaar : 1
+circa minuten gaar -> of : 1
+minuten gaar of -> als : 1
+gaar of als -> de : 1
+of als de -> onderkant : 1
+of als de -> koekjes : 1
+de onderkant van -> het : 1
+onderkant van het -> koekje : 1
+van het koekje -> lichtbruin : 1
+het koekje lichtbruin -> laat : 1
+koekje lichtbruin laat -> de : 1
+lichtbruin laat de -> koekjes : 1
+de koekjes doe -> de : 1
+koekjes doe de -> jam : 1
+doe de jam -> in : 1
+de jam in -> een : 1
+jam in een -> bord : 1
+in een bord -> en : 1
+een bord en -> roer : 1
+bord en roer -> het : 1
+en roer het -> even : 1
+roer het even -> zoek : 1
+het even zoek -> een : 1
+even zoek een -> gekleurd : 1
+zoek een gekleurd -> en : 1
+een gekleurd en -> wit : 1
+gekleurd en wit -> koekje : 1
+en wit koekje -> bij : 1
+wit koekje bij -> elkaar : 1
+koekje bij elkaar -> dat : 1
+bij elkaar dat -> qua : 1
+elkaar dat qua -> grootte : 1
+dat qua grootte -> met : 1
+qua grootte met -> elkaar : 1
+grootte met elkaar -> leg : 1
+met elkaar leg -> met : 1
+elkaar leg met -> het : 1
+leg met het -> puntje : 1
+met het puntje -> van : 1
+het puntje van -> ene : 1
+puntje van ene -> theelepeltje : 1
+van ene theelepeltje -> een : 1
+ene theelepeltje een -> beetje : 1
+theelepeltje een beetje -> jam : 1
+een beetje jam -> op : 1
+beetje jam op -> een : 1
+jam op een -> druk : 1
+op een druk -> het : 1
+een druk het -> andere : 1
+druk het andere -> koekjes : 1
+het andere koekjes -> daar : 1
+andere koekjes daar -> de : 1
+koekjes daar de -> jam : 1
+daar de jam -> die : 1
+de jam die -> aan : 1
+jam die aan -> weerskanten : 1
+die aan weerskanten -> verwijderen : 1
+aan weerskanten verwijderen -> zit : 1
+weerskanten verwijderen zit -> dit : 1
+verwijderen zit dit -> straks : 1
+zit dit straks -> in : 1
+dit straks in -> de : 1
+straks in de -> werk : 1
+in de werk -> zo : 1
+werk zo alle -> koekjes : 1
+zo alle koekjes -> smelt : 1
+alle koekjes smelt -> de : 1
+koekjes smelt de -> chocola : 1
+smelt de chocola -> met : 1
+de chocola met -> de : 1
+chocola met de -> eetlepels : 1
+met de eetlepels -> zonnebloemolie : 1
+de eetlepels zonnebloemolie -> dompel : 1
+eetlepels zonnebloemolie dompel -> een : 1
+zonnebloemolie dompel een -> dubbel : 1
+dompel een dubbel -> koekje : 1
+een dubbel koekje -> in : 1
+dubbel koekje in -> de : 1
+koekje in de -> haal : 1
+de haal het -> koekje : 1
+haal het koekje -> er : 1
+het koekje er -> voorzichtig : 1
+koekje er voorzichtig -> met : 1
+er voorzichtig met -> een : 1
+voorzichtig met een -> vork : 1
+met een vork -> laat : 1
+een vork laat -> even : 1
+vork laat even -> afdruipen : 1
+laat even afdruipen -> en : 1
+even afdruipen en -> zet : 1
+afdruipen en zet -> het : 1
+en zet het -> vervolgens : 1
+zet het vervolgens -> op : 1
+het vervolgens op -> een : 1
+vervolgens op een -> stuk : 1
+een stuk decoreer -> het : 1
+stuk decoreer het -> koekje : 1
+decoreer het koekje -> met : 1
+met een laat -> de : 1
+een laat de -> choclade : 1
+een laat de -> randjes : 1
+laat de choclade -> hard : 1
+de choclade hard -> eet : 1
+choclade hard eet -> smakelijk : 1
+hard eet smakelijk -> zal : 1
+eet smakelijk zal -> het : 1
+smakelijk zal het -> eerlijk : 1
+zal het eerlijk -> geniale : 1
+het eerlijk geniale -> koekjes : 1
+eerlijk geniale koekjes -> zijn : 1
+geniale koekjes zijn -> helaas : 1
+koekjes zijn helaas -> niet : 1
+zijn helaas niet -> mijn : 1
+helaas niet mijn -> eigen : 1
+niet mijn eigen -> maar : 1
+mijn eigen maar -> van : 1
+eigen maar van -> de : 1
+maar van de -> dochters : 1
+van de dochters -> van : 1
+de dochters van -> mijn : 1
+dochters van mijn -> ik : 1
+van mijn ik -> zal : 1
+mijn ik zal -> de : 1
+ik zal de -> complimenten : 1
+zal de complimenten -> eerlijk : 1
+de complimenten eerlijk -> geen : 1
+complimenten eerlijk geen -> stap : 1
+eerlijk geen stap -> voor : 1
+geen stap voor -> stap : 1
+voor stap maar -> die : 1
+stap maar die -> komen : 1
+maar die komen -> inshaallah : 1
+die komen inshaallah -> gram : 1
+komen inshaallah gram -> gram : 1
+inshaallah gram gram -> eetlepels : 1
+gram gram eetlepels -> gram : 1
+gram gram eetlepels -> ga : 1
+gram eetlepels gram -> snufje : 1
+eetlepels gram snufje -> kaneel : 1
+gram snufje kaneel -> ga : 1
+snufje kaneel ga -> je : 1
+kaneel ga je -> te : 1
+verwarm de over -> voor : 1
+de over voor -> op : 1
+over voor op -> smelt : 1
+voor op smelt -> de : 1
+op smelt de -> de : 1
+smelt de de -> suiker : 1
+de de suiker -> en : 1
+en de honing -> in : 1
+de honing in -> een : 1
+honing in een -> laat : 2
+in een laat -> dit : 2
+in een laat -> steeds : 1
+een laat dit -> mengsel : 1
+een laat dit -> boven : 1
+laat dit mengsel -> lichtbruin : 1
+dit mengsel lichtbruin -> haal : 1
+mengsel lichtbruin haal -> het : 1
+lichtbruin haal het -> mengsel : 1
+haal het mengsel -> van : 1
+het mengsel van -> het : 1
+mengsel van het -> voeg : 1
+mengsel van het -> vuur : 1
+van het voeg -> meteen : 1
+het voeg meteen -> het : 1
+voeg meteen het -> meel : 1
+meteen het meel -> en : 1
+het meel en -> de : 1
+meel en de -> kaneel : 1
+en de kaneel -> even : 1
+de kaneel even -> goed : 1
+kaneel even goed -> doorroeren : 1
+even goed doorroeren -> totdat : 1
+goed doorroeren totdat -> je : 1
+doorroeren totdat je -> geen : 1
+totdat je geen -> stukjes : 1
+je geen stukjes -> meer : 1
+geen stukjes meer -> bekleed : 1
+stukjes meer bekleed -> een : 1
+meer bekleed een -> bakplaat : 1
+bekleed een bakplaat -> met : 1
+bakplaat met vul -> een : 1
+met vul een -> eetlepel : 1
+vul een eetlepel -> met : 1
+een eetlepel met -> het : 1
+eetlepel met het -> deeg : 1
+met het deeg -> en : 1
+het deeg en -> maak : 1
+deeg en maak -> rondjes : 1
+en maak rondjes -> op : 1
+maak rondjes op -> het : 1
+rondjes op het -> smeer : 1
+op het smeer -> de : 1
+het smeer de -> rondjes : 1
+smeer de rondjes -> goed : 1
+de rondjes goed -> hoe : 1
+rondjes goed hoe -> des : 1
+goed hoe des -> te : 1
+hoe des te -> laat : 1
+des te laat -> veel : 1
+te laat veel -> ruimte : 1
+laat veel ruimte -> tussen : 1
+veel ruimte tussen -> de : 1
+ruimte tussen de -> schuif : 1
+tussen de schuif -> het : 1
+de schuif het -> bakblik : 1
+schuif het bakblik -> in : 3
+bakblik in de -> de : 1
+in de de -> worden : 1
+de de worden -> eerst : 1
+de worden eerst -> heel : 1
+worden eerst heel -> erg : 1
+eerst heel erg -> bobbelig : 1
+heel erg bobbelig -> en : 1
+erg bobbelig en -> dan : 1
+bobbelig en dan -> gaan : 1
+en dan gaan -> ze : 1
+dan gaan ze -> haal : 1
+gaan ze haal -> ze : 1
+ze haal ze -> na : 1
+haal ze na -> minuten : 1
+ze na minuten -> uit : 1
+na minuten uit -> de : 1
+minuten uit de -> of : 1
+minuten uit de -> giet : 1
+uit de of -> als : 1
+de of als -> de : 1
+als de koekjes -> lichtbruin : 1
+koekjes lichtbruin van -> kleur : 1
+lichtbruin van kleur -> nu : 1
+van kleur nu -> moet : 1
+kleur nu moet -> je : 1
+nu moet je -> snel : 1
+moet je snel -> werken : 1
+je snel werken -> neem : 1
+snel werken neem -> een : 1
+werken neem een -> en : 1
+neem een en -> rol : 1
+een en rol -> het : 1
+en rol het -> snel : 1
+rol het snel -> de : 1
+het snel de -> echt : 1
+snel de echt -> snel : 1
+de echt snel -> hard : 1
+echt snel hard -> dus : 1
+snel hard dus -> je : 1
+hard dus je -> moet : 1
+dus je moet -> dit : 1
+je moet dit -> vlot : 1
+moet dit vlot -> zijn : 1
+dit vlot zijn -> de : 1
+vlot zijn de -> koekjes : 1
+zijn de koekjes -> net : 1
+de koekjes net -> niet : 1
+koekjes net niet -> te : 1
+net niet te -> stop : 1
+niet te stop -> ze : 1
+te stop ze -> dan : 1
+stop ze dan -> nog : 1
+ze dan nog -> voor : 1
+dan nog voor -> een : 1
+nog voor een -> paar : 1
+voor een paar -> seconden : 1
+een paar seconden -> in : 1
+paar seconden in -> de : 1
+seconden in de -> warme : 1
+in de warme -> smullen : 1
+in de warme -> honing : 1
+de warme smullen -> ml : 1
+warme smullen ml -> gram : 1
+smullen ml gram -> zakjes : 1
+zakje gram eetlepels -> eetlepel : 1
+gram eetlepels eetlepel -> chocoladebolletjes : 1
+eetlepels eetlepel chocoladebolletjes -> veel : 1
+eetlepel chocoladebolletjes veel -> als : 1
+chocoladebolletjes veel als -> jezelf : 1
+veel als jezelf -> wilt : 1
+als jezelf wilt -> ga : 1
+jezelf wilt ga -> je : 1
+wilt ga je -> verwarm : 1
+ga je verwarm -> de : 1
+je verwarm de -> oven : 1
+meng de vanillesuiker -> en : 1
+de vanillesuiker en -> suiker : 1
+vanillesuiker en suiker -> heel : 1
+en suiker heel -> goed : 1
+suiker heel goed -> door : 1
+heel goed door -> voeg : 1
+door voeg voor -> de : 1
+voeg voor de -> eieren : 1
+voor de eieren -> goed : 1
+de eieren goed -> voeg : 1
+eieren goed voeg -> de : 1
+goed voeg de -> chocoladesaus : 1
+voeg de chocoladesaus -> en : 1
+de chocoladesaus en -> de : 1
+chocoladesaus en de -> chocoladebolletjes : 1
+en de chocoladebolletjes -> goed : 1
+de chocoladebolletjes goed -> meng : 1
+chocoladebolletjes goed meng -> de : 1
+goed meng de -> bakpoeder : 2
+met de cacao -> en : 1
+de cacao en -> het : 1
+cacao en het -> voeg : 1
+en het voeg -> beetje : 1
+het meel goed -> schep : 1
+het meel goed -> het : 1
+meel goed schep -> papieren : 1
+goed schep papieren -> bakvormpjes : 1
+schep papieren bakvormpjes -> voor : 1
+papieren bakvormpjes voor -> iets : 1
+bakvormpjes voor iets -> meer : 1
+voor iets meer -> dan : 1
+meer dan de -> helft : 1
+dan de helft -> zet : 1
+de helft zet -> in : 1
+helft zet in -> de : 1
+zet in de -> voorverwarmde : 1
+in de voorverwarmde -> haal : 1
+de voorverwarmde haal -> de : 1
+voorverwarmde haal de -> cakjes : 1
+haal de cakjes -> eruit : 1
+de cakjes eruit -> als : 1
+cakjes eruit als -> een : 1
+eruit als een -> sateprikker : 1
+als een sateprikker -> er : 1
+een sateprikker er -> droog : 1
+sateprikker er droog -> goed : 1
+er droog goed -> laten : 1
+droog goed laten -> afkoelen : 1
+goed laten afkoelen -> anders : 1
+laten afkoelen anders -> krijg : 1
+afkoelen anders krijg -> je : 1
+anders krijg je -> buikpijn : 1
+krijg je buikpijn -> broodachtige : 1
+je buikpijn broodachtige -> koekjes : 1
+buikpijn broodachtige koekjes -> uit : 1
+broodachtige koekjes uit -> koekjes : 1
+koekjes uit koekjes -> zijn : 1
+uit koekjes zijn -> speciaal : 1
+koekjes zijn speciaal -> voor : 1
+zijn speciaal voor -> mama : 1
+speciaal voor mama -> ml : 1
+voor mama ml -> ml : 1
+mama ml ml -> ml : 1
+ml ml ml -> gram : 1
+ml ml gram -> zakjes : 1
+gram zakjes vanille -> een : 1
+zakjes vanille een -> half : 1
+vanille een half -> zakje : 1
+half zakje een -> snufje : 1
+zakje een snufje -> eetlepels : 1
+een snufje eetlepels -> geraspte : 1
+snufje eetlepels geraspte -> gram : 1
+eetlepels geraspte gram -> gemalen : 1
+geraspte gram gemalen -> gram : 1
+gram gemalen gram -> gemalen : 2
+gram gemalen gram -> ei : 1
+gemalen gram gemalen -> gram : 2
+gemalen gram ei -> voor : 1
+gram ei voor -> het : 1
+ei voor het -> ga : 1
+voor het ga -> je : 1
+het ga je -> te : 1
+je te doe -> het : 1
+te doe het -> de : 1
+doe het de -> de : 1
+het de de -> de : 1
+de de de -> de : 4
+de de de -> sesamzaad : 1
+de de sesamzaad -> en : 1
+de sesamzaad en -> amandelen : 1
+sesamzaad en amandelen -> in : 1
+en amandelen in -> een : 1
+amandelen in een -> roer : 1
+in een roer -> goed : 1
+een roer goed -> meng : 1
+roer goed meng -> de : 1
+het voeg aan -> bovenstaand : 1
+aan bovenstaand mengsel -> beetje : 1
+bovenstaand mengsel beetje -> bij : 1
+meel goed het -> wordt : 1
+goed het wordt -> een : 1
+het wordt een -> stevig : 1
+wordt een stevig -> gebruik : 1
+een stevig gebruik -> al : 1
+stevig gebruik al -> het : 1
+gebruik al het -> eventueel : 1
+al het eventueel -> iets : 1
+het eventueel iets -> vorm : 1
+eventueel iets vorm -> je : 1
+iets vorm je -> bepaalt : 1
+vorm je bepaalt -> zelf : 1
+je bepaalt zelf -> hoe : 1
+bepaalt zelf hoe -> groot : 1
+zelf hoe groot -> de : 1
+hoe groot de -> koekjes : 1
+groot de koekjes -> met : 1
+koekjes met een -> mes : 1
+met een mes -> inkepingen : 1
+een mes inkepingen -> in : 1
+mes inkepingen in -> het : 1
+inkepingen in het -> maak : 1
+in het maak -> van : 1
+het maak van -> het : 1
+van het staafje -> een : 1
+het staafje een -> druk : 1
+staafje een druk -> de : 1
+een druk de -> uiteinden : 1
+druk de uiteinden -> goed : 1
+de uiteinden goed -> tegen : 1
+uiteinden goed tegen -> elkaar : 1
+goed tegen elkaar -> werk : 1
+tegen elkaar werk -> zo : 1
+elkaar werk zo -> al : 1
+het deeg leg -> de : 1
+deeg leg de -> koekjes : 1
+leg de koekjes -> op : 1
+leg de koekjes -> in : 1
+koekjes op een -> bestrijk : 1
+op een bestrijk -> met : 1
+een bestrijk met -> ei : 1
+bestrijk met ei -> en : 1
+met ei en -> decoreer : 1
+ei en decoreer -> eventueel : 1
+en decoreer eventueel -> met : 1
+decoreer eventueel met -> schuif : 1
+decoreer eventueel met -> laat : 1
+eventueel met schuif -> het : 1
+met schuif het -> bakblik : 1
+bakblik in het -> midden : 2
+van de bak -> de : 2
+de bak de -> koekjes : 2
+bak de koekjes -> totdat : 2
+de koekjes totdat -> zij : 1
+de koekjes totdat -> ze : 1
+koekjes totdat zij -> goudachtig : 1
+totdat zij goudachtig -> bruin : 1
+zij goudachtig bruin -> laten : 1
+goudachtig bruin laten -> afkoelen : 1
+afkoelen en bel -> maar : 1
+en bel maar -> zes : 1
+bel maar zes -> een : 1
+maar zes een -> paar : 1
+zes een paar -> vellen : 1
+een paar vellen -> filodeeg : 1
+paar vellen filodeeg -> kant : 1
+vellen filodeeg kant -> en : 1
+filodeeg kant en -> klare : 1
+kant en klare -> gesmolten : 1
+en klare gesmolten -> sesamzaad : 1
+klare gesmolten sesamzaad -> staan : 1
+gesmolten sesamzaad staan -> geen : 1
+sesamzaad staan geen -> precieze : 1
+staan geen precieze -> hoeveelheden : 1
+geen precieze hoeveelheden -> bij : 1
+precieze hoeveelheden bij -> dit : 1
+hoeveelheden bij dit -> recept : 1
+bij dit recept -> omdat : 2
+dit recept omdat -> ik : 2
+recept omdat ik -> net : 1
+recept omdat ik -> haast : 1
+omdat ik net -> zo : 1
+ik net zo -> lang : 1
+net zo lang -> door : 1
+zo lang door -> ben : 1
+lang door ben -> gegaan : 1
+door ben gegaan -> totdat : 1
+ben gegaan totdat -> op : 1
+gegaan totdat op -> dus : 1
+totdat op dus -> zelf : 1
+op dus zelf -> een : 1
+dus zelf een -> beetje : 1
+zelf een beetje -> proberen : 1
+een beetje proberen -> in : 1
+beetje proberen in -> te : 1
+proberen in te -> heb : 1
+in te heb -> ik : 1
+te heb ik -> ook : 1
+heb ik ook -> geen : 1
+ik ook geen -> bij : 1
+ook geen bij -> dit : 1
+geen bij dit -> recept : 1
+omdat ik haast -> worden : 1
+ik haast worden -> deze : 1
+haast worden deze -> in : 1
+worden deze in -> de : 1
+deze in de -> toekomst : 1
+in de toekomst -> ga : 1
+de toekomst ga -> je : 1
+toekomst ga je -> te : 1
+voor op snijd -> de : 1
+op snijd de -> filodeeg : 1
+snijd de filodeeg -> in : 1
+de filodeeg in -> repen : 1
+filodeeg in repen -> van : 1
+in repen van -> ongeveer : 1
+repen van ongeveer -> bestrijk : 1
+van ongeveer bestrijk -> een : 1
+ongeveer bestrijk een -> reep : 1
+bestrijk een reep -> voorzichtig : 1
+een reep voorzichtig -> met : 1
+reep voorzichtig met -> gesmolten : 1
+voorzichtig met gesmolten -> verdeel : 1
+met gesmolten verdeel -> de : 1
+gesmolten verdeel de -> amandelspijs : 1
+verdeel de amandelspijs -> in : 1
+de amandelspijs in -> hele : 1
+amandelspijs in hele -> kleine : 1
+hele kleine leg -> op : 1
+kleine leg op -> de : 1
+leg op de -> reep : 1
+op de reep -> de : 1
+de reep de -> stukjes : 1
+reep de stukjes -> amandelspijs : 1
+de stukjes amandelspijs -> in : 1
+stukjes amandelspijs in -> een : 1
+amandelspijs in een -> laat : 1
+een laat steeds -> een : 1
+laat steeds een -> paar : 1
+steeds een paar -> millimeter : 1
+een paar millimeter -> tussen : 1
+paar millimeter tussen -> de : 1
+millimeter tussen de -> stukjes : 1
+tussen de stukjes -> dat : 1
+de stukjes dat -> vergemakkelijkt : 1
+stukjes dat vergemakkelijkt -> het : 1
+dat vergemakkelijkt het -> rol : 1
+vergemakkelijkt het rol -> de : 1
+het rol de -> reep : 1
+rol de reep -> nu : 1
+de reep nu -> horizontaal : 1
+reep nu horizontaal -> nu : 1
+nu horizontaal nu -> heb : 1
+horizontaal nu heb -> je : 1
+dus een lange -> rol : 1
+een lange rol -> de : 1
+lange rol de -> slang : 1
+rol de slang -> nu : 1
+de slang nu -> op : 1
+slang nu op -> als : 1
+nu op als -> een : 1
+op als een -> werk : 1
+als een werk -> want : 1
+een werk want -> hoe : 1
+werk want hoe -> langer : 1
+want hoe langer -> je : 1
+hoe langer je -> over : 1
+langer je over -> het : 1
+je over het -> oprollen : 1
+over het oprollen -> des : 1
+het oprollen des -> te : 1
+oprollen des te -> eerder : 1
+des te eerder -> kan : 1
+te eerder kan -> de : 1
+eerder kan de -> slang : 1
+kan de slang -> het : 1
+de slang het -> komt : 1
+slang het komt -> voor : 1
+het komt voor -> dat : 1
+komt voor dat -> het : 1
+voor dat het -> slakkenhuisje : 1
+dat het slakkenhuisje -> wat : 1
+het slakkenhuisje wat -> dat : 1
+slakkenhuisje wat dat -> geeft : 1
+wat dat geeft -> na : 1
+dat geeft na -> het : 1
+geeft na het -> ingedompeld : 1
+na het ingedompeld -> te : 1
+het ingedompeld te -> hebben : 1
+ingedompeld te hebben -> in : 1
+te hebben in -> de : 1
+hebben in de -> honing : 1
+de honing valt -> dat : 1
+honing valt dat -> niet : 1
+valt dat niet -> meer : 1
+niet meer als -> je : 1
+meer als je -> alle : 1
+als je alle -> repen : 1
+je alle repen -> hebt : 1
+alle repen hebt -> schuif : 1
+repen hebt schuif -> je : 1
+hebt schuif je -> de : 1
+schuif je de -> bakplaat : 1
+je de bakplaat -> in : 1
+koekjes totdat ze -> goudbruin : 1
+totdat ze goudbruin -> verwarm : 1
+ze goudbruin verwarm -> de : 1
+goudbruin verwarm de -> honing : 1
+verwarm de honing -> met : 1
+honing met een -> hoeveelheid : 1
+met een hoeveelheid -> laat : 1
+een hoeveelheid laat -> de : 1
+hoeveelheid laat de -> koekjes : 1
+de koekjes meteen -> na : 1
+koekjes meteen na -> het : 1
+meteen na het -> bakken : 1
+na het bakken -> voorzichtig : 1
+het bakken voorzichtig -> in : 1
+bakken voorzichtig in -> de : 1
+de warme honing -> laat : 1
+warme honing laat -> even : 1
+honing laat even -> leg : 1
+laat even leg -> de : 1
+even leg de -> koekjes : 1
+koekjes in een -> bestrooi : 1
+in een bestrooi -> eventueel : 1
+een bestrooi eventueel -> met : 1
+bestrooi eventueel met -> makkelijk : 1
+eventueel met makkelijk -> en : 1
+met makkelijk en -> succes : 1
+makkelijk en succes -> repen : 1
+en succes repen -> witte : 1
+succes repen witte -> eetlepels : 1
+repen witte eetlepels -> gemalen : 1
+witte eetlepels gemalen -> cornflakes : 1
+eetlepels gemalen cornflakes -> naar : 1
+gemalen cornflakes naar -> repen : 1
+cornflakes naar repen -> melkchocolade : 1
+naar repen melkchocolade -> met : 1
+repen melkchocolade met -> eetlepels : 1
+melkchocolade met eetlepels -> gehakte : 1
+met eetlepels gehakte -> te : 1
+eetlepels gehakte te -> koop : 1
+gehakte te koop -> in : 1
+te koop in -> de : 1
+koop in de -> ga : 1
+in de ga -> je : 1
+je te beide -> smelt : 1
+te beide smelt -> de : 1
+beide smelt de -> chocolade : 1
+met de zonnebloemolie -> voeg : 1
+de zonnebloemolie voeg -> de : 1
+zonnebloemolie voeg de -> meng : 1
+voeg de meng -> schep : 1
+de meng schep -> in : 1
+meng schep in -> elk : 1
+schep in elk -> tulbandje : 1
+in elk tulbandje -> een : 1
+elk tulbandje een -> hoopje : 1
+tulbandje een hoopje -> sla : 1
+een hoopje sla -> een : 1
+hoopje sla een -> paar : 1
+sla een paar -> voorzichtig : 1
+een paar voorzichtig -> met : 1
+paar voorzichtig met -> de : 1
+voorzichtig met de -> vorm : 1
+met de vorm -> op : 1
+de vorm op -> het : 1
+vorm op het -> op : 1
+op het op -> die : 1
+het op die -> manier : 1
+op die manier -> verdeelt : 1
+die manier verdeelt -> de : 1
+manier verdeelt de -> chocolade : 1
+verdeelt de chocolade -> zich : 1
+de chocolade zich -> over : 1
+chocolade zich over -> de : 1
+zich over de -> decoreer : 1
+over de decoreer -> eventueel : 1
+de decoreer eventueel -> met : 1
+eventueel met laat -> opstijven : 1
+met laat opstijven -> in : 1
+laat opstijven in -> de : 1
+opstijven in de -> voor : 1
+in de voor -> het : 1
+de voor het -> gram : 1
+het gram meel -> iets : 1
+meer of gram -> gemalen : 1
+of gram gemalen -> amandelen : 1
+gram gemalen amandelen -> gram : 1
+gemalen amandelen gram -> gram : 1
+amandelen gram gram -> een : 1
+gram gram een -> half : 1
+een half voor -> de : 1
+half voor de -> gram : 1
+de gram gebroken -> gram : 1
+gram gebroken gram -> gram : 1
+gebroken gram gram -> eetlepels : 1
+gram eetlepels ga -> je : 1
+eetlepels ga je -> te : 1
+voor op maken -> eerst : 1
+op maken eerst -> het : 1
+maken eerst het -> meng : 1
+eerst het meng -> de : 1
+het meng de -> boter : 1
+de boter met -> de : 1
+boter met de -> voeg : 1
+voeg het halve -> ei : 1
+het halve ei -> meng : 1
+halve ei meng -> meng : 1
+meng de gemalen -> amandelen : 1
+de gemalen amandelen -> met : 1
+gemalen amandelen met -> het : 1
+amandelen met het -> voeg : 1
+voeg beetje voor -> beetje : 1
+voor beetje meel -> toe : 1
+beetje meel toe -> tot : 1
+meel toe tot -> kneed : 1
+toe tot kneed -> het : 1
+tot kneed het -> deeg : 1
+het deeg pak -> een : 1
+deeg pak een -> bakblik : 1
+pak een bakblik -> bakblik : 1
+een bakblik bakblik -> is : 1
+bakblik bakblik is -> bij : 1
+bakblik is bij -> knip : 1
+is bij knip -> een : 1
+bij knip een -> stuk : 1
+knip een stuk -> bakpapier : 1
+een stuk bakpapier -> uit : 1
+stuk bakpapier uit -> ter : 1
+bakpapier uit ter -> grootte : 1
+uit ter grootte -> van : 1
+ter grootte van -> het : 1
+grootte van het -> leg : 1
+van het leg -> het : 1
+het leg het -> bakpapier : 1
+leg het bakpapier -> op : 1
+het bakpapier op -> het : 1
+bakpapier op het -> leg : 1
+op het leg -> daar : 1
+het leg daar -> het : 1
+leg daar het -> deeg : 1
+daar het deeg -> rol : 1
+het deeg rol -> het : 1
+deeg rol het -> deeg : 1
+deeg uit totdat -> je : 1
+uit totdat je -> een : 1
+je een rechthoek -> hebt : 1
+een rechthoek hebt -> dat : 1
+rechthoek hebt dat -> precies : 1
+hebt dat precies -> op : 1
+dat precies op -> het : 1
+precies op het -> papier : 1
+op het papier -> leg : 1
+het papier leg -> het : 1
+papier leg het -> deeg : 1
+leg het deeg -> met : 1
+het deeg met -> bakpapier : 1
+deeg met bakpapier -> voorzichtig : 1
+met bakpapier voorzichtig -> in : 1
+bakpapier voorzichtig in -> het : 1
+voorzichtig in het -> schuif : 1
+in het schuif -> het : 1
+het schuif het -> bakblik : 1
+de laat het -> deeg : 1
+laat het deeg -> minuten : 1
+het deeg minuten -> maken : 1
+deeg minuten maken -> we : 1
+minuten maken we -> de : 1
+maken we de -> doe : 1
+we de doe -> de : 1
+de doe de -> suiker : 1
+doe de suiker -> en : 1
+suiker en honing -> in : 1
+en honing in -> een : 1
+laat dit boven -> een : 1
+dit boven een -> zacht : 1
+boven een zacht -> vuur : 1
+een zacht vuur -> haal : 1
+zacht vuur haal -> dit : 1
+vuur haal dit -> mengsel : 1
+haal dit mengsel -> van : 1
+dit mengsel van -> het : 1
+van het vuur -> als : 1
+het vuur als -> je : 1
+vuur als je -> ziet : 1
+als je ziet -> dat : 1
+ziet dat de -> suiker : 1
+dat de suiker -> is : 1
+de suiker is -> doe : 1
+suiker is doe -> de : 1
+is doe de -> gebroken : 1
+doe de gebroken -> walnoten : 1
+de gebroken walnoten -> bij : 1
+gebroken walnoten bij -> dit : 1
+walnoten bij dit -> roer : 1
+bij dit roer -> een : 1
+dit roer een -> paar : 1
+roer een paar -> keer : 1
+een paar keer -> voorzichtig : 1
+paar keer voorzichtig -> haal : 1
+keer voorzichtig haal -> het : 1
+voorzichtig haal het -> deeg : 1
+haal het deeg -> na : 1
+het deeg na -> tien : 1
+deeg na tien -> minuten : 1
+na tien minuten -> uit : 1
+tien minuten uit -> de : 1
+uit de giet -> voorzichtig : 1
+de giet voorzichtig -> het : 1
+giet voorzichtig het -> walnotenmengsel : 1
+voorzichtig het walnotenmengsel -> op : 1
+het walnotenmengsel op -> het : 1
+walnotenmengsel op het -> verspreid : 1
+op het verspreid -> met : 1
+het verspreid met -> de : 1
+verspreid met de -> bolle : 1
+met de bolle -> kant : 1
+de bolle kant -> van : 1
+bolle kant van -> een : 1
+kant van een -> laat : 1
+van een laat -> de : 1
+laat de randjes -> vrij : 1
+de randjes vrij -> zijn : 1
+randjes vrij zijn -> toch : 1
+vrij zijn toch -> niet : 1
+zijn toch niet -> zo : 1
+toch niet zo -> stop : 1
+niet zo stop -> de : 1
+zo stop de -> plaatkoek : 1
+stop de plaatkoek -> nog : 1
+de plaatkoek nog -> voor : 1
+plaatkoek nog voor -> minuten : 1
+nog voor minuten -> in : 1
+voor minuten in -> de : 1
+minuten in de -> laat : 1
+laat de plaatkoek -> even : 1
+de plaatkoek even -> verdeel : 1
+plaatkoek even verdeel -> de : 1
+even verdeel de -> plaatkoek : 1
+verdeel de plaatkoek -> met : 1
+de plaatkoek met -> een : 1
+plaatkoek met een -> pizzasnijder : 1
+met een pizzasnijder -> in : 1
+een pizzasnijder in -> en : 1

@@ -1,0 +1,2565 @@
+o : 1
+maker : 1
+uitgever : 1
+betuigen : 1
+hierbij : 1
+erkentelijkheid : 1
+jegens : 1
+onderstaanden : 1
+vriendelijke : 1
+toestemming : 1
+enkele : 1
+reeds : 1
+verschenen : 1
+deze : 1
+bundel : 1
+gezamenlijk : 1
+groene : 1
+bruna : 1
+jan : 1
+jaar : 1
+moet : 1
+geleden : 1
+belangstelling : 1
+werd : 1
+gewekt : 1
+vreemd : 1
+soort : 1
+nederlands : 1
+aangetrokken : 1
+macaronische : 1
+humor : 1
+dichtwerk : 1
+stelde : 1
+redaktie : 1
+weekblad : 1
+verbinding : 1
+engelse : 1
+dichter : 1
+engelsman : 1
+doch : 1
+zuiver : 1
+nederlandse : 1
+rijks : 1
+achter : 1
+ierse : 1
+vertaling : 1
+naam : 1
+aandrang : 1
+vrienden : 1
+overgegaan : 1
+samenstelde : 1
+blunders : 1
+leerlingen : 1
+vermake : 1
+uitgegroeid : 1
+bekendheid : 1
+uitgeverij : 1
+andries : 1
+doen : 1
+besluiten : 1
+bundelen : 1
+boekvorm : 1
+geven : 1
+doet : 1
+drie : 1
+allereerst : 1
+beleefd : 1
+omdat : 1
+bewijst : 1
+fijne : 1
+neus : 1
+aandacht : 1
+trok : 1
+namelijk : 1
+derde : 1
+gepubliceerd : 1
+ben : 1
+helaas : 1
+zich : 1
+moge : 1
+amuseren : 1
+bundeltje : 1
+zelf : 1
+gedaan : 1
+daarom : 1
+wens : 1
+let : 1
+der : 1
+kramen : 1
+volk : 1
+autobestuurder : 1
+zien : 1
+eindhoven : 1
+will : 1
+pulled : 1
+husband : 1
+into : 1
+muisjes : 1
+kleine : 1
+gestampte : 1
+want : 1
+keep : 1
+love : 1
+frambosy : 1
+breakfast : 1
+home : 1
+clinking : 1
+silver : 1
+princesser : 1
+supper : 1
+should : 1
+make : 1
+plate : 1
+rice : 1
+go : 1
+still : 1
+wrong : 1
+coal : 1
+dolle : 1
+herstelde : 1
+lady : 1
+fanatic : 1
+coming : 1
+near : 1
+sidder : 1
+grabs : 1
+bites : 1
+pruimpjes : 1
+eieren : 1
+tuinman : 1
+bolle : 1
+gapper : 1
+sceptic : 1
+convinced : 1
+mother : 1
+nature : 1
+this : 1
+angry : 1
+rest : 1
+sticker : 1
+unjolly : 1
+zou : 1
+komen : 1
+onthouden : 1
+onthoudt : 1
+ons : 1
+took : 1
+day : 1
+nothing : 1
+i : 1
+woman : 1
+unhappy : 1
+spread : 1
+keatled : 1
+grijsaard : 1
+vreugd : 1
+steeds : 1
+levenswens : 1
+dolgraag : 1
+jong : 1
+crimpen : 1
+fantastic : 1
+early : 1
+last : 1
+started : 1
+corners : 1
+around : 1
+lang : 1
+rustig : 1
+twee : 1
+suffe : 1
+oudste : 1
+gesnurk : 1
+soms : 1
+married : 1
+tidefordrive : 1
+never : 1
+hiermee : 1
+buldog : 1
+maag : 1
+hart : 1
+boebie : 1
+feest : 1
+mogen : 1
+gaarne : 1
+kluifje : 1
+durven : 1
+spreken : 1
+schat : 1
+jat : 1
+raadt : 1
+schillenbord : 1
+bankstel : 1
+spillebeen : 1
+staat : 1
+raakt : 1
+eindelijk : 1
+klein : 1
+beetje : 1
+geit : 1
+three : 1
+pots : 1
+vrouw : 1
+chirche : 1
+dore : 1
+fyve : 1
+houshande : 1
+hadde : 1
+lig : 1
+echt : 1
+donder : 1
+vieze : 1
+ligt : 1
+slechte : 1
+wilt : 1
+naast : 1
+name : 1
+orange : 1
+throw : 1
+care : 1
+command : 1
+lum : 1
+gates : 1
+or : 1
+stand : 1
+harmonie : 1
+god : 1
+grootse : 1
+kroon : 1
+wezen : 1
+simfonie : 1
+lijn : 1
+satan : 1
+vol : 1
+afgunst : 1
+geest : 1
+machten : 1
+top : 1
+zocht : 1
+vond : 1
+kwade : 1
+vervuld : 1
+hels : 1
+hot : 1
+headed : 1
+drent : 1
+always : 1
+waitress : 1
+lell : 1
+mieters : 1
+road : 1
+stoops : 1
+but : 1
+thinks : 1
+himself : 1
+culls : 1
+jaren : 1
+oom : 1
+walker : 1
+caught : 1
+neck : 1
+just : 1
+slentered : 1
+proves : 1
+very : 1
+rare : 1
+british : 1
+inch : 1
+vraagt : 1
+geboren : 1
+biedt : 1
+excuses : 1
+blijft : 1
+doodsgefluister : 1
+milord : 1
+excuse : 1
+rigor : 1
+bottom : 1
+burnt : 1
+lapped : 1
+burn : 1
+sit : 1
+arische : 1
+dierenpsycholoog : 1
+jonge : 1
+neemt : 1
+zieleproeven : 1
+sluit : 1
+wapens : 1
+klaar : 1
+staan : 1
+dier : 1
+herr : 1
+doktor : 1
+spanning : 1
+knielt : 1
+ziet : 1
+ernstig : 1
+sleutelgat : 1
+terrible : 1
+father : 1
+hold : 1
+pack : 1
+loved : 1
+streelt : 1
+lieve : 1
+leef : 1
+vreugde : 1
+bedienen : 1
+gedachten : 1
+doorschouw : 1
+diepste : 1
+glimlach : 1
+terstond : 1
+iets : 1
+speur : 1
+rust : 1
+zachte : 1
+antwoord : 1
+maken : 1
+geluk : 1
+hersens : 1
+get : 1
+no : 1
+wetholders : 1
+city : 1
+generals : 1
+bugle : 1
+actors : 1
+curtain : 1
+tarts : 1
+box : 1
+tovercalls : 1
+moths : 1
+tanige : 1
+sproeten : 1
+grootte : 1
+hevig : 1
+barstte : 1
+miss : 1
+silly : 1
+fellow : 1
+maiden : 1
+mistake : 1
+later : 1
+passed : 1
+jonkvrouwe : 1
+poetst : 1
+vult : 1
+autumn : 1
+by : 1
+bockbeer : 1
+aunt : 1
+nobody : 1
+cold : 1
+temperature : 1
+abruptly : 1
+koddebeier : 1
+dergelijk : 1
+wind : 1
+dead : 1
+roytan : 1
+both : 1
+feil : 1
+fore : 1
+clarvar : 1
+sheriff : 1
+heard : 1
+kept : 1
+missed : 1
+drunken : 1
+blood : 1
+ended : 1
+scobban : 1
+zuiderbuur : 1
+drolleke : 1
+onderlijf : 1
+billekes : 1
+papenvreter : 1
+rooms : 1
+bittere : 1
+end : 1
+kruis : 1
+laten : 1
+boller : 1
+greedy : 1
+guys : 1
+so : 1
+much : 1
+boor : 1
+acoal : 1
+grew : 1
+gulzy : 1
+freightsack : 1
+ballade : 1
+arie : 1
+gevolge : 1
+verderflijke : 1
+gewoonte : 1
+nagels : 1
+schade : 1
+onverstand : 1
+hapjes : 1
+verslaafd : 1
+vergaat : 1
+lekker : 1
+alle : 1
+extase : 1
+bleef : 1
+kwaad : 1
+kloof : 1
+zette : 1
+weldra : 1
+stompjes : 1
+ontzetting : 1
+bovenarm : 1
+keek : 1
+sprak : 1
+overvolle : 1
+hief : 1
+been : 1
+hoorde : 1
+vraatzuchtig : 1
+pezen : 1
+zalig : 1
+beet : 1
+kreeg : 1
+happen : 1
+uw : 1
+price : 1
+ergens : 1
+wordt : 1
+vooral : 1
+mag : 1
+groep : 1
+kapot : 1
+hemel : 1
+krijgt : 1
+vredig : 1
+eind : 1
+ministerschap : 1
+soe : 1
+toeng : 1
+noseful : 1
+honey : 1
+crashing : 1
+drumfleece : 1
+ours : 1
+soff : 1
+leave : 1
+homes : 1
+weeroak : 1
+locks : 1
+costers : 1
+wives : 1
+wandered : 1
+further : 1
+sweethearts : 1
+speed : 1
+custombuilt : 1
+can : 1
+violate : 1
+rage : 1
+deaf : 1
+food : 1
+air : 1
+yelled : 1
+slaughtered : 1
+flickering : 1
+danced : 1
+reached : 1
+rocked : 1
+basterds : 1
+stung : 1
+cousins : 1
+altijd : 1
+lief : 1
+oplette : 1
+braafste : 1
+hoebe : 1
+blijde : 1
+henk : 1
+daglicht : 1
+meent : 1
+ordinair : 1
+gekrijs : 1
+levens : 1
+zoet : 1
+mondje : 1
+opgetekend : 1
+luier : 1
+gummi : 1
+zeil : 1
+voorkeur : 1
+gaf : 1
+direct : 1
+hand : 1
+beste : 1
+getreuzeld : 1
+zure : 1
+zult : 1
+smaak : 1
+mosterd : 1
+waar : 1
+kippen : 1
+dichterlijke : 1
+looprek : 1
+lopen : 1
+kwam : 1
+sinterklaas : 1
+vroeg : 1
+doelloos : 1
+speelgoed : 1
+suikergoed : 1
+leerboek : 1
+plaats : 1
+autoped : 1
+verzameld : 1
+werk : 1
+zat : 1
+knaap : 1
+hoogste : 1
+ging : 1
+leerde : 1
+docentencorps : 1
+buitenlandse : 1
+proffen : 1
+dacht : 1
+tevens : 1
+hulde : 1
+zit : 1
+braaf : 1
+ever : 1
+heil : 1
+here : 1
+there : 1
+clunse : 1
+along : 1
+shamefully : 1
+than : 1
+voer : 1
+scheepje : 1
+oogje : 1
+eventjes : 1
+ondeugend : 1
+koning : 1
+nachts : 1
+harem : 1
+onthutst : 1
+hoe : 1
+eunuchs : 1
+slem : 1
+schoppen : 1
+mouses : 1
+peeped : 1
+saw : 1
+holes : 1
+kitchen : 1
+filled : 1
+drunk : 1
+donkey : 1
+trek : 1
+ezel : 1
+dauw : 1
+mos : 1
+gil : 1
+snik : 1
+niemand : 1
+zonlicht : 1
+steekt : 1
+laat : 1
+blitz : 2
+hun : 2
+versje : 2
+engels : 2
+via : 2
+john : 2
+bleek : 2
+leraar : 2
+publicatie : 2
+hebben : 2
+plezier : 2
+zoals : 2
+zoveel : 2
+grote : 2
+liefst : 2
+said : 2
+up : 2
+bed : 2
+gek : 2
+such : 2
+young : 2
+vuile : 2
+old : 2
+had : 2
+good : 2
+vaak : 2
+they : 2
+were : 2
+laatst : 2
+man : 2
+je : 2
+heel : 2
+hebt : 2
+toen : 2
+little : 2
+do : 2
+honger : 2
+knaagt : 2
+alleen : 2
+bought : 2
+other : 2
+them : 2
+zonder : 2
+vind : 2
+anna : 2
+slapen : 2
+open : 2
+know : 2
+boven : 2
+mens : 2
+tegen : 2
+too : 2
+gave : 2
+weet : 2
+flower : 2
+tante : 2
+sleep : 2
+back : 2
+daar : 2
+groot : 2
+onze : 2
+called : 2
+got : 2
+slechts : 2
+vraag : 2
+kon : 2
+chaps : 2
+even : 2
+have : 2
+yodeling : 2
+broek : 2
+hier : 2
+song : 2
+voice : 2
+lover : 2
+heart : 2
+fel : 2
+eerste : 2
+menig : 2
+verder : 2
+weer : 2
+ouders : 2
+dom : 2
+foolish : 2
+bookwhite : 2
+came : 2
+mad : 2
+lickbearding : 2
+be : 2
+out : 2
+their : 2
+goed : 2
+bij : 2
+boek : 2
+versjes : 3
+redactie : 3
+klas : 3
+er : 3
+toch : 3
+over : 3
+it : 3
+ter : 3
+when : 3
+are : 3
+hond : 3
+eens : 3
+an : 3
+hard : 3
+that : 3
+pot : 3
+armen : 3
+waterguys : 3
+ran : 3
+feit : 3
+down : 3
+leven : 3
+traan : 3
+nog : 3
+ook : 3
+widow : 3
+naar : 3
+zichzelf : 3
+ie : 3
+scent : 3
+voor : 4
+nu : 4
+heb : 4
+ooit : 4
+alles : 4
+like : 4
+men : 4
+she : 4
+zag : 4
+from : 4
+maar : 4
+one : 4
+kan : 4
+meer : 4
+wil : 4
+as : 4
+ars : 4
+eigen : 4
+henkie : 4
+tot : 5
+ten : 5
+om : 5
+u : 5
+nooit : 5
+haar : 5
+we : 5
+dit : 6
+ze : 6
+at : 6
+he : 6
+not : 6
+my : 6
+kind : 6
+mij : 7
+your : 7
+him : 7
+our : 7
+als : 7
+dan : 7
+mijn : 8
+geen : 8
+al : 8
+you : 8
+all : 8
+hem : 8
+zo : 9
+wat : 9
+with : 9
+niet : 9
+on : 9
+for : 9
+ge : 9
+us : 9
+aan : 10
+her : 10
+die : 11
+heeft : 11
+uit : 12
+door : 12
+met : 12
+hij : 12
+to : 12
+te : 13
+was : 13
+his : 14
+ik : 15
+dat : 16
+op : 16
+is : 17
+of : 19
+a : 26
+and : 30
+en : 32
+zijn : 32
+het : 34
+een : 34
+in : 43
+the : 50
+van : 53
+de : 73
+blitz o maker -> van : 1
+o maker van -> de : 1
+maker van de -> versjes : 1
+van de versjes -> en : 1
+de versjes en -> de : 1
+versjes en de -> uitgever : 1
+en de uitgever -> van : 1
+de uitgever van -> dit : 1
+uitgever van dit -> betuigen : 1
+van dit betuigen -> hierbij : 1
+dit betuigen hierbij -> hun : 1
+betuigen hierbij hun -> erkentelijkheid : 1
+hierbij hun erkentelijkheid -> jegens : 1
+hun erkentelijkheid jegens -> onderstaanden : 1
+erkentelijkheid jegens onderstaanden -> voor : 1
+jegens onderstaanden voor -> hun : 1
+onderstaanden voor hun -> vriendelijke : 1
+voor hun vriendelijke -> toestemming : 1
+hun vriendelijke toestemming -> de : 1
+vriendelijke toestemming de -> enkele : 1
+toestemming de enkele -> reeds : 1
+de enkele reeds -> verschenen : 1
+enkele reeds verschenen -> versjes : 1
+reeds verschenen versjes -> in : 1
+verschenen versjes in -> deze : 1
+versjes in deze -> bundel : 1
+in deze bundel -> gezamenlijk : 1
+deze bundel gezamenlijk -> uit : 1
+bundel gezamenlijk uit -> te : 1
+gezamenlijk uit te -> redactie : 1
+uit te redactie -> van : 1
+te redactie van -> redactie : 1
+redactie van redactie -> van : 1
+van redactie van -> de : 1
+redactie van de -> groene : 1
+redactie van de -> jan : 1
+van de groene -> mij : 1
+de groene mij -> bruna : 1
+groene mij bruna -> redactie : 1
+mij bruna redactie -> van : 1
+bruna redactie van -> de : 1
+van de jan -> jaar : 1
+de jan jaar -> moet : 1
+jan jaar moet -> het : 1
+jaar moet het -> nu : 1
+moet het nu -> zo : 1
+het nu zo -> wat : 1
+nu zo wat -> geleden : 1
+zo wat geleden -> dat : 1
+wat geleden dat -> mijn : 1
+geleden dat mijn -> belangstelling : 1
+dat mijn belangstelling -> werd : 1
+mijn belangstelling werd -> gewekt : 1
+belangstelling werd gewekt -> door : 1
+werd gewekt door -> een : 1
+gewekt door een -> versje : 1
+door een versje -> in : 1
+een versje in -> een : 1
+versje in een -> vreemd : 1
+in een vreemd -> soort : 1
+een vreemd soort -> engels : 1
+vreemd soort engels -> in : 1
+soort engels in -> een : 1
+engels in een -> nederlands : 1
+in een nederlands -> aangetrokken : 1
+een nederlands aangetrokken -> door : 1
+nederlands aangetrokken door -> de : 1
+aangetrokken door de -> macaronische : 1
+door de macaronische -> humor : 1
+de macaronische humor -> van : 1
+macaronische humor van -> dit : 1
+humor van dit -> dichtwerk : 1
+van dit dichtwerk -> stelde : 1
+dit dichtwerk stelde -> ik : 1
+dichtwerk stelde ik -> mij : 1
+stelde ik mij -> via : 1
+ik mij via -> de : 1
+mij via de -> redaktie : 1
+via de redaktie -> van : 1
+de redaktie van -> het : 1
+redaktie van het -> weekblad : 1
+van het weekblad -> in : 1
+het weekblad in -> verbinding : 1
+weekblad in verbinding -> met : 1
+in verbinding met -> de : 1
+verbinding met de -> engelse : 1
+met de engelse -> dichter : 1
+de engelse dichter -> john : 1
+engelse dichter john -> het : 1
+dichter john het -> bleek : 1
+john het bleek -> geen : 1
+het bleek geen -> engelsman : 1
+bleek geen engelsman -> te : 1
+geen engelsman te -> geen : 1
+engelsman te geen -> geen : 1
+te geen geen -> geen : 1
+geen geen geen -> en : 1
+geen geen en -> geen : 1
+geen en geen -> doch : 1
+en geen doch -> een : 1
+geen doch een -> zuiver : 1
+doch een zuiver -> nederlandse : 1
+een zuiver nederlandse -> leraar : 1
+zuiver nederlandse leraar -> engels : 1
+nederlandse leraar engels -> aan : 1
+leraar engels aan -> de : 1
+engels aan de -> rijks : 1
+aan de rijks -> te : 1
+de rijks te -> achter : 1
+rijks te achter -> de : 1
+te achter de -> ierse : 1
+achter de ierse -> vertaling : 1
+de ierse vertaling -> van : 1
+ierse vertaling van -> zijn : 1
+vertaling van zijn -> naam : 1
+van zijn naam -> was : 1
+zijn naam was -> hij : 1
+naam was hij -> op : 1
+was hij op -> aandrang : 1
+hij op aandrang -> van : 1
+op aandrang van -> vrienden : 1
+aandrang van vrienden -> en : 1
+van vrienden en -> overgegaan : 1
+vrienden en overgegaan -> tot : 1
+en overgegaan tot -> publicatie : 1
+overgegaan tot publicatie -> van : 1
+tot publicatie van -> de : 1
+publicatie van de -> die : 1
+van de die -> hij : 1
+van de die -> niemand : 1
+de die hij -> samenstelde : 1
+die hij samenstelde -> uit : 1
+hij samenstelde uit -> de : 1
+samenstelde uit de -> blunders : 1
+uit de blunders -> van : 1
+de blunders van -> zijn : 1
+blunders van zijn -> leerlingen : 1
+van zijn leerlingen -> ten : 1
+zijn leerlingen ten -> vermake : 1
+leerlingen ten vermake -> van : 1
+ten vermake van -> zijn : 1
+vermake van zijn -> ze : 1
+van zijn ze -> de : 1
+zijn ze de -> klas : 1
+ze de klas -> uitgegroeid : 1
+de klas uitgegroeid -> zijn : 1
+klas uitgegroeid zijn -> en : 1
+uitgegroeid zijn en -> via : 1
+zijn en via -> publicatie : 1
+en via publicatie -> en : 1
+via publicatie en -> de : 1
+publicatie en de -> bekendheid : 1
+en de bekendheid -> hebben : 1
+de bekendheid hebben -> die : 1
+bekendheid hebben die -> de : 1
+hebben die de -> uitgeverij : 1
+die de uitgeverij -> andries : 1
+de uitgeverij andries -> blitz : 1
+uitgeverij andries blitz -> heeft : 1
+andries blitz heeft -> doen : 1
+blitz heeft doen -> besluiten : 1
+heeft doen besluiten -> ze : 1
+doen besluiten ze -> te : 1
+besluiten ze te -> bundelen : 1
+ze te bundelen -> en : 1
+te bundelen en -> in : 1
+bundelen en in -> boekvorm : 1
+en in boekvorm -> uit : 1
+in boekvorm uit -> te : 1
+boekvorm uit te -> geven : 1
+uit te geven -> doet : 1
+te geven doet -> mij : 1
+geven doet mij -> plezier : 1
+doet mij plezier -> om : 1
+mij plezier om -> drie : 1
+plezier om drie -> allereerst : 1
+om drie allereerst -> om : 1
+drie allereerst om -> het : 1
+allereerst om het -> plezier : 1
+om het plezier -> dat : 1
+het plezier dat -> ik : 1
+plezier dat ik -> er : 1
+dat ik er -> aan : 1
+ik er aan -> beleefd : 1
+er aan beleefd -> ten : 1
+aan beleefd ten -> omdat : 1
+beleefd ten omdat -> het : 1
+ten omdat het -> bewijst : 1
+omdat het bewijst -> wat : 1
+het bewijst wat -> een : 1
+bewijst wat een -> fijne : 1
+wat een fijne -> neus : 1
+een fijne neus -> ik : 1
+fijne neus ik -> toch : 1
+neus ik toch -> heb : 1
+ik toch heb -> versje : 1
+toch heb versje -> dat : 1
+heb versje dat -> mijn : 1
+versje dat mijn -> aandacht : 1
+dat mijn aandacht -> trok : 1
+mijn aandacht trok -> was : 1
+aandacht trok was -> namelijk : 1
+trok was namelijk -> het : 1
+was namelijk het -> derde : 1
+namelijk het derde -> dat : 1
+het derde dat -> ooit : 1
+derde dat ooit -> gepubliceerd : 1
+dat ooit gepubliceerd -> en : 1
+ooit gepubliceerd en -> ten : 1
+gepubliceerd en ten -> ben : 1
+en ten ben -> ik : 1
+ten ben ik -> helaas : 1
+ben ik helaas -> u : 1
+ik helaas u -> zich : 1
+helaas u zich -> moge : 1
+u zich moge -> amuseren : 1
+zich moge amuseren -> met : 1
+moge amuseren met -> de : 1
+amuseren met de -> versjes : 1
+met de versjes -> uit : 1
+de versjes uit -> dit : 1
+versjes uit dit -> bundeltje : 1
+uit dit bundeltje -> zoals : 1
+dit bundeltje zoals -> ik : 1
+bundeltje zoals ik -> zelf : 1
+zoals ik zelf -> dat : 1
+ik zelf dat -> gedaan : 1
+zelf dat gedaan -> heb : 1
+dat gedaan heb -> is : 1
+gedaan heb is -> daarom : 1
+heb is daarom -> de : 1
+is daarom de -> wens : 1
+daarom de wens -> let : 1
+de wens let -> der : 1
+wens let der -> kramen : 1
+let der kramen -> op : 1
+der kramen op -> de : 1
+kramen op de -> zoveel : 1
+op de zoveel -> volk : 1
+de zoveel volk -> te : 1
+zoveel volk te -> voor : 1
+volk te voor -> van : 1
+te voor van -> john : 1
+voor van john -> de : 1
+van john de -> grote : 1
+john de grote -> autobestuurder : 1
+de grote autobestuurder -> in : 1
+grote autobestuurder in -> die : 1
+autobestuurder in die -> alles : 1
+in die alles -> zo : 1
+die alles zo -> al : 1
+alles zo al -> het : 1
+zo al het -> zien : 1
+al het zien -> van : 1
+het zien van -> dat : 1
+zien van dat -> liefst : 1
+van dat liefst -> over : 1
+dat liefst over -> eindhoven : 1
+liefst over eindhoven -> will : 1
+over eindhoven will -> is : 1
+eindhoven will is -> said : 1
+will is said -> pulled : 1
+is said pulled -> her : 1
+said pulled her -> husband : 1
+pulled her husband -> into : 1
+her husband into -> and : 1
+husband into and -> muisjes : 1
+into and muisjes -> hebben : 1
+and muisjes hebben -> kleine : 1
+muisjes hebben kleine -> met : 1
+hebben kleine met -> gestampte : 1
+kleine met gestampte -> you : 1
+met gestampte you -> want : 1
+gestampte you want -> to : 1
+you want to -> keep : 1
+want to keep -> your : 1
+to keep your -> him : 1
+keep your him -> all : 1
+your him all -> the : 1
+him all the -> love : 1
+all the love -> you : 1
+the love you -> it : 1
+love you it -> like : 1
+you it like -> frambosy : 1
+it like frambosy -> his : 1
+like frambosy his -> breakfast : 1
+frambosy his breakfast -> home : 1
+his breakfast home -> at : 1
+breakfast home at -> with : 1
+home at with -> a : 1
+at with a -> clinking : 1
+with a clinking -> him : 1
+a clinking him -> with : 1
+clinking him with -> a : 1
+him with a -> silver : 1
+with a silver -> and : 1
+a silver and -> princesser : 1
+silver and princesser -> at : 1
+and princesser at -> supper : 1
+princesser at supper -> he : 1
+at supper he -> should : 1
+supper he should -> a : 1
+he should a -> him : 1
+should a him -> up : 1
+a him up -> and : 1
+him up and -> make : 1
+up and make -> him : 1
+and make him -> a : 1
+make him a -> plate : 1
+him a plate -> of : 1
+a plate of -> rice : 1
+plate of rice -> ter : 1
+of rice ter -> when : 1
+rice ter when -> you : 1
+ter when you -> go : 1
+when you go -> to : 1
+you go to -> bed : 1
+go to bed -> at : 1
+to bed at -> him : 1
+bed at him -> still : 1
+at him still -> with : 1
+him still with -> all : 1
+still with all -> our : 1
+with all our -> you : 1
+all our you -> are : 1
+our you are -> wrong : 1
+you are wrong -> and : 1
+are wrong and -> he : 1
+wrong and he -> is : 1
+and he is -> the : 1
+he is the -> coal : 1
+is the coal -> and : 1
+the coal and -> the : 1
+coal and the -> is : 1
+and the is -> de : 1
+the is de -> gek : 1
+is de gek -> van : 1
+de gek van -> een : 1
+gek van een -> dolle : 1
+van een dolle -> hond : 1
+een dolle hond -> gek : 1
+dolle hond gek -> herstelde : 1
+hond gek herstelde -> van : 1
+gek herstelde van -> de : 1
+herstelde van de -> was : 1
+van de was -> de : 1
+de was de -> hond : 1
+was de hond -> die : 1
+de hond die -> a : 1
+hond die a -> lady : 1
+die a lady -> in : 1
+a lady in -> such : 1
+lady in such -> a : 1
+in such a -> fanatic : 1
+such a fanatic -> young : 1
+a fanatic young -> men : 1
+fanatic young men -> coming : 1
+young men coming -> near : 1
+men coming near -> all : 1
+coming near all -> sidder : 1
+near all sidder -> with : 1
+all sidder with -> she : 1
+sidder with she -> grabs : 1
+with she grabs -> and : 1
+she grabs and -> she : 1
+grabs and she -> bites : 1
+and she bites -> and : 1
+she bites and -> she : 1
+bites and she -> zag : 1
+and she zag -> eens : 1
+she zag eens -> pruimpjes : 1
+zag eens pruimpjes -> als : 1
+eens pruimpjes als -> eieren : 1
+pruimpjes als eieren -> zo : 1
+als eieren zo -> tuinman : 1
+eieren zo tuinman -> zag : 1
+zo tuinman zag -> zijn : 1
+tuinman zag zijn -> bolle : 1
+zag zijn bolle -> de : 1
+zijn bolle de -> vuile : 1
+bolle de vuile -> gapper : 1
+de vuile gapper -> van : 1
+vuile gapper van -> an : 1
+gapper van an -> old : 1
+van an old -> sceptic : 1
+an old sceptic -> in : 1
+old sceptic in -> convinced : 1
+sceptic in convinced -> mother : 1
+in convinced mother -> nature : 1
+convinced mother nature -> had : 1
+mother nature had -> this : 1
+nature had this -> angry : 1
+had this angry -> the : 1
+this angry the -> not : 1
+angry the not -> good : 1
+the not good -> the : 1
+not good the -> rest : 1
+good the rest -> is : 1
+the rest is -> hard : 1
+rest is hard -> sticker : 1
+is hard sticker -> het : 1
+hard sticker het -> unjolly : 1
+sticker het unjolly -> zou : 1
+het unjolly zou -> het : 1
+unjolly zou het -> komen : 1
+zou het komen -> dat : 1
+het komen dat -> de : 1
+komen dat de -> al : 1
+dat de al -> die : 1
+de al die -> onthouden : 1
+al die onthouden -> niet : 1
+die onthouden niet -> onthoudt : 1
+onthouden niet onthoudt -> met : 1
+niet onthoudt met -> geen : 1
+onthoudt met geen -> vaak : 1
+met geen vaak -> hij : 1
+geen vaak hij -> ons : 1
+vaak hij ons -> al : 1
+hij ons al -> heeft : 1
+ons al heeft -> het : 1
+al heeft het -> that : 1
+heeft het that -> she : 1
+het that she -> he : 1
+that she he -> took : 1
+she he took -> her : 1
+he took her -> to : 1
+took her to -> the : 1
+her to the -> day : 1
+to the day -> they : 1
+the day they -> were : 1
+day they were -> nothing : 1
+they were nothing -> i : 1
+were nothing i -> a : 1
+nothing i a -> woman : 1
+i a woman -> of : 1
+a woman of -> unhappy : 1
+woman of unhappy -> the : 1
+of unhappy the -> spread : 1
+unhappy the spread -> from : 1
+the spread from -> her : 1
+spread from her -> keatled : 1
+from her keatled -> her : 1
+her keatled her -> grijsaard : 1
+keatled her grijsaard -> heeft : 1
+her grijsaard heeft -> mij : 1
+grijsaard heeft mij -> laatst : 1
+heeft mij laatst -> hem : 1
+mij laatst hem -> de : 1
+laatst hem de -> vreugd : 1
+hem de vreugd -> steeds : 1
+de vreugd steeds -> heeft : 1
+vreugd steeds heeft -> levenswens : 1
+steeds heeft levenswens -> is : 1
+heeft levenswens is -> nooit : 1
+levenswens is nooit -> was : 1
+is nooit was -> zo : 1
+nooit was zo -> dolgraag : 1
+was zo dolgraag -> jong : 1
+zo dolgraag jong -> het : 1
+dolgraag jong het -> man : 1
+jong het man -> in : 1
+het man in -> crimpen : 1
+man in crimpen -> on : 1
+in crimpen on -> the : 1
+crimpen on the -> such : 1
+on the such -> a : 1
+the such a -> fantastic : 1
+such a fantastic -> early : 1
+a fantastic early -> last : 1
+fantastic early last -> he : 1
+early last he -> started : 1
+last he started -> to : 1
+he started to -> corners : 1
+started to corners -> met : 1
+to corners met -> around : 1
+corners met around -> his : 1
+met around his -> lang : 1
+around his lang -> je : 1
+his lang je -> maar : 1
+lang je maar -> niet : 1
+je maar niet -> je : 1
+maar niet je -> rustig : 1
+niet je rustig -> de : 1
+je rustig de -> leraar : 1
+rustig de leraar -> twee : 1
+de leraar twee -> heel : 1
+leraar twee heel -> suffe : 1
+twee heel suffe -> hebt : 1
+heel suffe hebt -> toen : 1
+suffe hebt toen -> de : 1
+hebt toen de -> oudste : 1
+toen de oudste -> dat : 1
+de oudste dat -> gesnurk : 1
+oudste dat gesnurk -> van : 1
+dat gesnurk van -> heel : 1
+gesnurk van heel -> de : 1
+van heel de -> klas : 1
+heel de klas -> soms : 1
+de klas soms -> married : 1
+klas soms married -> my : 1
+soms married my -> tidefordrive : 1
+married my tidefordrive -> little : 1
+my tidefordrive little -> for : 1
+tidefordrive little for -> my : 1
+little for my -> good : 1
+for my good -> my : 1
+my good my -> never : 1
+good my never -> do : 1
+my never do -> hond : 1
+never do hond -> in : 1
+do hond in -> de : 1
+hond in de -> ik : 1
+in de ik -> hiermee : 1
+de ik hiermee -> tot : 1
+ik hiermee tot -> het : 1
+hiermee tot het -> laatst : 1
+tot het laatst -> heb : 1
+het laatst heb -> ik : 1
+laatst heb ik -> nu : 1
+heb ik nu -> van : 1
+ik nu van -> de : 1
+nu van de -> honger : 1
+van de honger -> mijn : 1
+de honger mijn -> buldog : 1
+honger mijn buldog -> maag : 1
+mijn buldog maag -> is : 1
+buldog maag is -> maar : 1
+maag is maar -> mijn : 1
+is maar mijn -> hart : 1
+maar mijn hart -> is : 1
+mijn hart is -> het : 1
+hart is het -> knaagt : 1
+is het knaagt -> niet : 1
+het knaagt niet -> de : 1
+knaagt niet de -> nu : 1
+niet de nu -> knaagt : 1
+de nu knaagt -> het : 1
+nu knaagt het -> boebie : 1
+knaagt het boebie -> dit : 1
+het boebie dit -> feest : 1
+boebie dit feest -> niet : 1
+dit feest niet -> heeft : 1
+feest niet heeft -> mogen : 1
+niet heeft mogen -> had : 1
+heeft mogen had -> hem : 1
+mogen had hem -> zo : 1
+had hem zo -> gaarne : 1
+hem zo gaarne -> zijn : 1
+zo gaarne zijn -> kluifje : 1
+gaarne zijn kluifje -> het : 1
+zijn kluifje het -> durven : 1
+kluifje het durven -> zijn : 1
+het durven zijn -> spreken : 1
+durven zijn spreken -> een : 1
+zijn spreken een -> schat : 1
+spreken een schat -> van : 1
+een schat van -> een : 1
+schat van een -> jat : 1
+van een jat -> van : 1
+een jat van -> een : 1
+jat van een -> ge : 1
+van een ge -> raadt : 1
+een ge raadt -> wat : 1
+ge raadt wat -> schillenbord : 1
+raadt wat schillenbord -> ge : 1
+wat schillenbord ge -> ge : 1
+schillenbord ge ge -> een : 1
+ge ge een -> bankstel : 1
+ge ge een -> klein : 1
+ge een bankstel -> u : 1
+een bankstel u -> ge : 1
+bankstel u ge -> ge : 1
+u ge ge -> alleen : 1
+ge ge alleen -> maar : 1
+ge alleen maar -> die : 1
+alleen maar die -> een : 1
+maar die een -> spillebeen : 1
+die een spillebeen -> staat : 1
+een spillebeen staat -> raakt : 1
+spillebeen staat raakt -> eindelijk : 1
+staat raakt eindelijk -> op : 1
+raakt eindelijk op -> ge : 1
+eindelijk op ge -> ge : 1
+op ge ge -> een : 1
+ge een klein -> beetje : 1
+een klein beetje -> de : 1
+klein beetje de -> en : 1
+beetje de en -> geit : 1
+de en geit -> in : 1
+en geit in -> de : 1
+geit in de -> niet : 1
+in de niet -> is : 1
+de niet is -> al : 1
+niet is al -> bought : 1
+is al bought -> three : 1
+al bought three -> pots : 1
+bought three pots -> the : 1
+three pots the -> other : 1
+pots the other -> bought : 1
+the other bought -> them : 1
+other bought them -> for : 1
+bought them for -> a : 1
+them for a -> pot : 1
+for a pot -> for : 2
+a pot for -> a : 2
+pot for a -> pot : 1
+pot for a -> little : 1
+for a little -> pot : 1
+a little pot -> for : 1
+little pot for -> op : 1
+pot for op -> de : 1
+for op de -> vrouw : 1
+op de vrouw -> uit : 1
+de vrouw uit -> chirche : 1
+vrouw uit chirche -> dore : 1
+uit chirche dore -> fyve : 1
+chirche dore fyve -> houshande : 1
+dore fyve houshande -> hadde : 1
+fyve houshande hadde -> lig : 1
+houshande hadde lig -> ik : 1
+hadde lig ik -> dan : 1
+lig ik dan -> eens : 1
+ik dan eens -> zonder : 1
+dan eens zonder -> vind : 1
+eens zonder vind -> er : 1
+zonder vind er -> echt : 1
+vind er echt -> geen : 1
+er echt geen -> donder : 1
+echt geen donder -> vieze : 1
+geen donder vieze -> ligt : 1
+donder vieze ligt -> anna : 1
+vieze ligt anna -> de : 1
+ligt anna de -> armen : 1
+anna de armen -> van : 1
+de armen van -> de : 2
+de armen van -> een : 1
+armen van de -> dat : 1
+armen van de -> vuile : 1
+van de dat -> ze : 1
+de dat ze -> nu : 1
+dat ze nu -> slapen : 1
+ze nu slapen -> de : 1
+nu slapen de -> armen : 1
+slapen de armen -> van : 1
+armen van een -> de : 1
+van een de -> in : 1
+van een de -> snik : 1
+een de in -> de : 1
+de in de -> armen : 1
+in de armen -> van : 1
+van de vuile -> anna : 1
+de vuile anna -> wat : 1
+vuile anna wat -> hebt : 1
+anna wat hebt -> ge : 1
+wat hebt ge -> slechte : 1
+hebt ge slechte -> ge : 1
+ge slechte ge -> wilt : 1
+slechte ge wilt -> slapen : 1
+ge wilt slapen -> naast : 1
+wilt slapen naast -> waterguys : 1
+slapen naast waterguys -> at : 1
+naast waterguys at -> the : 1
+waterguys at the -> the : 1
+at the the -> name : 1
+the the name -> of : 1
+the name of -> an : 1
+name of an -> orange : 1
+of an orange -> throw : 1
+an orange throw -> open : 1
+orange throw open -> your : 1
+throw open your -> waterguys : 1
+open your waterguys -> are : 1
+your waterguys are -> at : 1
+waterguys are at -> your : 1
+are at your -> know : 1
+at your know -> that : 1
+your know that -> us : 1
+know that us -> not : 1
+that us not -> know : 1
+us not know -> care : 1
+not know care -> not : 1
+know care not -> for : 1
+care not for -> not : 1
+not for not -> a : 1
+for not a -> is : 1
+not a is -> a : 1
+a is a -> command : 1
+is a command -> of : 1
+a command of -> lum : 1
+command of lum -> our : 1
+of lum our -> open : 1
+lum our open -> your : 1
+our open your -> gates : 1
+open your gates -> or : 1
+your gates or -> you : 1
+gates or you -> to : 1
+or you to -> waterguys : 1
+you to waterguys -> stand : 1
+to waterguys stand -> for : 1
+waterguys stand for -> the : 1
+stand for the -> harmonie : 1
+for the harmonie -> van : 1
+the harmonie van -> tot : 1
+harmonie van tot -> god : 1
+van tot god -> in : 1
+tot god in -> grootse : 1
+god in grootse -> kroon : 1
+in grootse kroon -> op : 1
+grootse kroon op -> zijn : 1
+kroon op zijn -> wezen : 1
+op zijn wezen -> boven : 1
+zijn wezen boven -> mens : 1
+wezen boven mens -> en : 1
+boven mens en -> en : 1
+mens en en -> simfonie : 1
+en en simfonie -> van : 1
+en simfonie van -> lijn : 1
+simfonie van lijn -> en : 1
+van lijn en -> de : 1
+lijn en de -> satan : 1
+en de satan -> zag : 1
+de satan zag -> vol : 1
+satan zag vol -> afgunst : 1
+zag vol afgunst -> zoveel : 1
+vol afgunst zoveel -> geest : 1
+afgunst zoveel geest -> en : 1
+zoveel geest en -> al : 1
+geest en al -> zijn : 1
+en al zijn -> machten : 1
+al zijn machten -> in : 1
+zijn machten in -> tegen : 1
+machten in tegen -> top : 1
+in tegen top -> zocht : 1
+tegen top zocht -> en : 1
+top zocht en -> vond : 1
+zocht en vond -> een : 1
+en vond een -> tegen : 1
+vond een tegen -> kwade : 1
+een tegen kwade -> zonder : 1
+tegen kwade zonder -> vervuld : 1
+kwade zonder vervuld -> van : 1
+zonder vervuld van -> hels : 1
+vervuld van hels -> de : 1
+van hels de -> hot : 1
+hels de hot -> headed : 1
+de hot headed -> drent : 1
+hot headed drent -> in : 1
+headed drent in -> ter : 1
+drent in ter -> always : 1
+in ter always -> ran : 1
+ter always ran -> too : 1
+always ran too -> hard : 1
+ran too hard -> from : 1
+too hard from -> his : 1
+hard from his -> the : 1
+from his the -> waitress : 1
+his the waitress -> was : 1
+the waitress was -> gave : 1
+waitress was gave -> her : 1
+was gave her -> a : 1
+gave her a -> lell : 1
+her a lell -> with : 1
+a lell with -> the : 1
+lell with the -> te : 1
+with the te -> liefst : 1
+the te liefst -> is : 1
+te liefst is -> mij : 1
+liefst is mij -> ik : 1
+is mij ik -> en : 1
+mij ik en -> ik : 1
+ik en ik -> vaak : 1
+en ik vaak -> ik : 1
+ik vaak ik -> die : 1
+vaak ik die -> grote : 1
+ik die grote -> mieters : 1
+die grote mieters -> weet : 1
+grote mieters weet -> te : 1
+mieters weet te -> flower : 1
+weet te flower -> the : 1
+te flower the -> road : 1
+flower the road -> to : 1
+the road to -> the : 1
+road to the -> flower : 1
+to the flower -> stoops : 1
+the flower stoops -> but : 1
+flower stoops but -> thinks : 1
+stoops but thinks -> himself : 1
+but thinks himself -> too : 1
+thinks himself too -> culls : 1
+himself too culls -> it : 1
+too culls it -> the : 1
+culls it the -> tante : 1
+it the tante -> jaren : 1
+the tante jaren -> oom : 1
+tante jaren oom -> door : 1
+jaren oom door -> sleep : 1
+oom door sleep -> of : 1
+door sleep of -> the : 1
+sleep of the -> sleep : 1
+of the sleep -> walker : 1
+the sleep walker -> caught : 1
+sleep walker caught -> in : 1
+walker caught in -> a : 1
+caught in a -> his : 1
+in a his -> neck : 1
+a his neck -> and : 1
+his neck and -> his : 1
+neck and his -> back : 1
+and his back -> and : 1
+his back and -> his : 1
+back and his -> he : 1
+and his he -> just : 1
+his he just -> slentered : 1
+he just slentered -> his : 1
+just slentered his -> old : 1
+slentered his old -> proves : 1
+his old proves -> him : 1
+old proves him -> a : 1
+proves him a -> very : 1
+him a very -> rare : 1
+a very rare -> british : 1
+very rare british -> inch : 1
+rare british inch -> a : 1
+british inch a -> vraagt : 1
+inch a vraagt -> u : 1
+a vraagt u -> feit : 1
+vraagt u feit -> dat : 1
+u feit dat -> hij : 1
+feit dat hij -> geboren : 1
+feit dat hij -> blijft : 1
+dat hij geboren -> biedt : 1
+hij geboren biedt -> zijn : 1
+geboren biedt zijn -> excuses : 1
+biedt zijn excuses -> feit : 1
+zijn excuses feit -> dat : 1
+excuses feit dat -> hij : 1
+dat hij blijft -> het : 1
+hij blijft het -> doodsgefluister : 1
+blijft het doodsgefluister -> van : 1
+het doodsgefluister van -> milord : 1
+doodsgefluister van milord -> excuse : 1
+van milord excuse -> my : 1
+milord excuse my -> rigor : 1
+excuse my rigor -> bottom : 1
+my rigor bottom -> burnt : 1
+rigor bottom burnt -> your : 1
+bottom burnt your -> you : 1
+burnt your you -> were : 1
+your you were -> lapped : 1
+you were lapped -> it : 1
+were lapped it -> on : 1
+lapped it on -> your : 1
+it on your -> burn : 1
+on your burn -> your : 1
+your burn your -> you : 1
+burn your you -> are : 1
+your you are -> sit : 1
+you are sit -> down : 1
+are sit down -> on : 1
+sit down on -> the : 1
+down on the -> arische : 1
+on the arische -> dierenpsycholoog : 1
+the arische dierenpsycholoog -> in : 1
+arische dierenpsycholoog in -> de : 1
+dierenpsycholoog in de -> heeft : 1
+in de heeft -> een : 1
+de heeft een -> jonge : 1
+heeft een jonge -> neemt : 1
+een jonge neemt -> daar : 1
+jonge neemt daar -> zieleproeven : 1
+neemt daar zieleproeven -> sluit : 1
+daar zieleproeven sluit -> op : 1
+zieleproeven sluit op -> in : 1
+sluit op in -> wapens : 1
+op in wapens -> klaar : 1
+in wapens klaar -> staan : 1
+wapens klaar staan -> in : 1
+klaar staan in -> daar : 1
+staan in daar -> het : 1
+in daar het -> dier : 1
+daar het dier -> op : 1
+het dier op -> wat : 1
+dier op wat -> herr : 1
+op wat herr -> doktor : 1
+wat herr doktor -> spanning : 1
+herr doktor spanning -> knielt : 1
+doktor spanning knielt -> hij : 1
+spanning knielt hij -> op : 1
+knielt hij op -> de : 1
+hij op de -> ziet : 1
+op de ziet -> dan : 1
+de ziet dan -> door : 1
+ziet dan door -> groot : 1
+dan door groot -> en : 1
+door groot en -> ernstig : 1
+groot en ernstig -> onze : 1
+en ernstig onze -> maar : 1
+ernstig onze maar -> toch : 1
+onze maar toch -> sleutelgat : 1
+maar toch sleutelgat -> heeft : 1
+toch sleutelgat heeft -> terrible : 1
+sleutelgat heeft terrible -> called : 1
+heeft terrible called -> his : 1
+terrible called his -> bed : 1
+called his bed -> with : 1
+his bed with -> a : 1
+bed with a -> father : 1
+with a father -> got : 1
+a father got -> hold : 1
+father got hold -> of : 1
+got hold of -> a : 1
+hold of a -> gave : 1
+of a gave -> him : 1
+a gave him -> a : 1
+gave him a -> pack : 1
+him a pack -> on : 1
+a pack on -> his : 1
+pack on his -> loved : 1
+on his loved -> one : 1
+his loved one -> streelt : 1
+loved one streelt -> alleen : 1
+one streelt alleen -> zijn : 1
+streelt alleen zijn -> lieve : 1
+alleen zijn lieve -> leef : 1
+zijn lieve leef -> mijn : 1
+lieve leef mijn -> leven : 1
+leef mijn leven -> slechts : 1
+mijn leven slechts -> voor : 1
+leven slechts voor -> kan : 1
+slechts voor kan -> mij : 1
+voor kan mij -> meer : 1
+kan mij meer -> vreugde : 1
+mij meer vreugde -> hem : 1
+meer vreugde hem -> bedienen : 1
+vreugde hem bedienen -> op : 1
+hem bedienen op -> zijn : 1
+bedienen op zijn -> kan : 1
+op zijn kan -> zijn : 1
+zijn kan zijn -> gedachten : 1
+kan zijn gedachten -> doorschouw : 1
+zijn gedachten doorschouw -> zijn : 1
+gedachten doorschouw zijn -> diepste : 1
+doorschouw zijn diepste -> een : 1
+zijn diepste een -> glimlach : 1
+diepste een glimlach -> om : 1
+een glimlach om -> zijn : 1
+glimlach om zijn -> weet : 1
+om zijn weet -> terstond : 1
+zijn weet terstond -> de : 1
+weet terstond de -> als : 1
+terstond de als -> hem : 1
+de als hem -> ooit : 1
+als hem ooit -> eens : 1
+hem ooit eens -> iets : 1
+ooit eens iets -> speur : 1
+eens iets speur -> ik : 1
+iets speur ik -> en : 1
+speur ik en -> dan : 1
+ik en dan -> rust : 1
+en dan rust -> ik : 1
+dan rust ik -> ik : 1
+rust ik ik -> door : 1
+ik ik door -> traan : 1
+ik door traan -> en : 1
+door traan en -> zachte : 1
+traan en zachte -> antwoord : 1
+en zachte antwoord -> op : 1
+zachte antwoord op -> mijn : 1
+antwoord op mijn -> vraag : 1
+op mijn vraag -> wil : 1
+mijn vraag wil -> hem : 1
+vraag wil hem -> maken : 1
+wil hem maken -> zo : 1
+hem maken zo -> ik : 1
+maken zo ik -> dan : 1
+zo ik dan -> ooit : 1
+ik dan ooit -> een : 1
+dan ooit een -> kon : 1
+ooit een kon -> hij : 1
+een kon hij -> geluk : 1
+kon hij geluk -> niet : 1
+hij geluk niet -> haar : 1
+geluk niet haar -> de : 1
+niet haar de -> hersens : 1
+haar de hersens -> do : 1
+de hersens do -> us : 1
+hersens do us -> chaps : 1
+do us chaps -> in : 1
+us chaps in -> get : 1
+us chaps in -> tanige : 1
+chaps in get -> no : 1
+in get no -> wetholders : 1
+get no wetholders -> in : 1
+no wetholders in -> city : 1
+wetholders in city -> up : 1
+in city up -> all : 1
+city up all -> the : 1
+up all the -> generals : 1
+all the generals -> when : 1
+the generals when -> the : 1
+generals when the -> bugle : 1
+when the bugle -> actors : 1
+the bugle actors -> when : 1
+bugle actors when -> the : 1
+actors when the -> curtain : 1
+when the curtain -> tarts : 1
+the curtain tarts -> in : 1
+curtain tarts in -> box : 1
+tarts in box -> and : 1
+in box and -> tovercalls : 1
+box and tovercalls -> with : 1
+and tovercalls with -> even : 1
+tovercalls with even -> moths : 1
+with even moths -> have : 1
+even moths have -> not : 1
+moths have not -> us : 1
+have not us -> chaps : 1
+not us chaps -> in : 1
+chaps in tanige -> tante : 1
+in tanige tante -> in : 1
+tanige tante in -> sproeten : 1
+tante in sproeten -> ter : 1
+in sproeten ter -> grootte : 1
+sproeten ter grootte -> van : 1
+ter grootte van -> met : 1
+grootte van met -> haar : 1
+van met haar -> nog : 1
+met haar nog -> hevig : 1
+haar nog hevig -> in : 1
+nog hevig in -> ze : 1
+hevig in ze -> barstte : 1
+in ze barstte -> dan : 1
+ze barstte dan -> ook : 1
+barstte dan ook -> van : 1
+dan ook van -> de : 1
+ook van de -> and : 1
+van de and -> miss : 1
+de and miss -> silly : 1
+and miss silly -> young : 1
+miss silly young -> fellow : 1
+silly young fellow -> in : 1
+young fellow in -> a : 1
+fellow in a -> maiden : 1
+in a maiden -> an : 1
+a maiden an -> her : 1
+maiden an her -> was : 1
+an her was -> a : 1
+her was a -> mistake : 1
+was a mistake -> as : 1
+a mistake as -> later : 1
+mistake as later -> on : 1
+as later on -> he : 1
+later on he -> passed : 1
+on he passed -> them : 1
+he passed them -> on : 1
+passed them on -> to : 1
+them on to -> the : 1
+on to the -> jonkvrouwe : 1
+to the jonkvrouwe -> tot : 1
+the jonkvrouwe tot -> in : 1
+jonkvrouwe tot in -> poetst : 1
+tot in poetst -> haar : 1
+in poetst haar -> vult : 1
+poetst haar vult -> haar : 1
+haar vult haar -> autumn : 1
+vult haar autumn -> my : 1
+haar autumn my -> by : 1
+autumn my by -> yodeling : 1
+my by yodeling -> bockbeer : 1
+by yodeling bockbeer -> and : 1
+yodeling bockbeer and -> aunt : 1
+bockbeer and aunt -> nobody : 1
+and aunt nobody -> down : 1
+aunt nobody down -> in : 1
+nobody down in -> her : 1
+down in her -> not : 1
+in her not -> in : 1
+her not in -> her : 1
+not in her -> cold : 1
+in her cold -> her : 1
+her cold her -> temperature : 1
+cold her temperature -> abruptly : 1
+her temperature abruptly -> my : 1
+temperature abruptly my -> his : 1
+abruptly my his -> yodeling : 1
+my his yodeling -> koddebeier : 1
+his yodeling koddebeier -> van : 1
+yodeling koddebeier van -> geen : 1
+koddebeier van geen -> broek : 1
+van geen broek -> meer : 1
+geen broek meer -> aan : 1
+broek meer aan -> een : 1
+meer aan een -> dergelijk : 1
+aan een dergelijk -> men : 1
+een dergelijk men -> hier : 1
+dergelijk men hier -> nog : 1
+men hier nog -> nooit : 1
+hier nog nooit -> song : 1
+nog nooit song -> of : 1
+nooit song of -> the : 1
+song of the -> wind : 1
+song of the -> foolish : 1
+of the wind -> was : 1
+the wind was -> in : 1
+wind was in -> the : 1
+was in the -> widow : 1
+in the widow -> on : 1
+the widow on -> the : 1
+widow on the -> dead : 1
+on the dead -> man : 1
+the dead man -> at : 1
+dead man at -> the : 1
+man at the -> roytan : 1
+at the roytan -> ars : 1
+the roytan ars -> was : 1
+roytan ars was -> called : 1
+ars was called -> for : 1
+was called for -> voice : 1
+called for voice -> both : 1
+for voice both -> hard : 1
+voice both hard -> and : 1
+both hard and -> widow : 1
+hard and widow -> feil : 1
+and widow feil -> fore : 1
+widow feil fore -> clarvar : 1
+feil fore clarvar -> ars : 1
+fore clarvar ars -> was : 1
+clarvar ars was -> sheriff : 1
+ars was sheriff -> heard : 1
+was sheriff heard -> the : 1
+sheriff heard the -> lover : 1
+heard the lover -> kept : 1
+the lover kept -> widow : 1
+lover kept widow -> missed : 1
+kept widow missed -> her : 1
+widow missed her -> heart : 1
+missed her heart -> and : 1
+her heart and -> ars : 1
+heart and ars -> was : 1
+and ars was -> drunken : 1
+ars was drunken -> blood : 1
+was drunken blood -> lover : 1
+drunken blood lover -> ended : 1
+blood lover ended -> scobban : 1
+lover ended scobban -> ars : 1
+ended scobban ars -> was : 1
+scobban ars was -> zuiderbuur : 1
+ars was zuiderbuur -> uit : 1
+was zuiderbuur uit -> drolleke : 1
+zuiderbuur uit drolleke -> in : 1
+uit drolleke in -> de : 1
+drolleke in de -> de : 1
+in de de -> het : 1
+de de het -> onderlijf : 1
+de het onderlijf -> de : 1
+het onderlijf de -> billekes : 1
+onderlijf de billekes -> in : 1
+de billekes in -> de : 1
+billekes in de -> naar : 1
+in de naar -> fel : 1
+de naar fel -> papenvreter : 1
+naar fel papenvreter -> in : 1
+fel papenvreter in -> alles : 1
+papenvreter in alles -> wat : 1
+in alles wat -> rooms : 1
+alles wat rooms -> is : 1
+wat rooms is -> wil : 1
+rooms is wil -> ook : 1
+is wil ook -> het : 1
+wil ook het -> bittere : 1
+ook het bittere -> end : 1
+het bittere end -> kruis : 1
+bittere end kruis -> uit : 1
+end kruis uit -> zijn : 1
+kruis uit zijn -> broek : 1
+uit zijn broek -> laten : 1
+zijn broek laten -> boller : 1
+broek laten boller -> greedy : 1
+laten boller greedy -> guys : 1
+boller greedy guys -> in : 1
+greedy guys in -> so : 1
+guys in so -> much : 1
+in so much -> boor : 1
+so much boor -> acoal : 1
+much boor acoal -> with : 1
+boor acoal with -> one : 1
+acoal with one -> grew : 1
+with one grew -> got : 1
+one grew got -> the : 1
+grew got the -> the : 1
+got the the -> other : 1
+the the other -> gulzy : 1
+the other gulzy -> freightsack : 1
+other gulzy freightsack -> ballade : 1
+gulzy freightsack ballade -> van : 1
+freightsack ballade van -> arie : 1
+ballade van arie -> ten : 1
+van arie ten -> gevolge : 1
+arie ten gevolge -> van : 1
+ten gevolge van -> een : 1
+gevolge van een -> verderflijke : 1
+van een verderflijke -> gewoonte : 1
+een verderflijke gewoonte -> om : 1
+verderflijke gewoonte om -> het : 1
+gewoonte om het -> leven : 1
+om het leven -> het : 1
+het leven het -> fel : 1
+leven het fel -> en : 1
+het fel en -> een : 1
+fel en een -> dat : 1
+en een dat -> op : 1
+een dat op -> nagels : 1
+dat op nagels -> dat : 1
+op nagels dat -> met : 1
+nagels dat met -> eigen : 1
+dat met eigen -> zijn : 1
+met eigen zijn -> schade : 1
+eigen zijn schade -> en : 1
+zijn schade en -> zijn : 1
+schade en zijn -> van : 1
+en zijn van -> zichzelf : 1
+zijn van zichzelf -> op : 1
+van zichzelf op -> in : 1
+zichzelf op in -> zijn : 1
+op in zijn -> onverstand : 1
+in zijn onverstand -> als : 1
+zijn onverstand als -> die : 1
+onverstand als die -> eerste : 1
+als die eerste -> hapjes : 1
+die eerste hapjes -> aan : 1
+eerste hapjes aan -> zichzelf : 1
+hapjes aan zichzelf -> verslaafd : 1
+aan zichzelf verslaafd -> kan : 1
+zichzelf verslaafd kan -> vergaat : 1
+verslaafd kan vergaat -> het : 1
+kan vergaat het -> menig : 1
+vergaat het menig -> zichzelf : 1
+het menig zichzelf -> zo : 1
+menig zichzelf zo -> lekker : 1
+zichzelf zo lekker -> het : 1
+zo lekker het -> kind : 1
+lekker het kind -> uit : 1
+het kind uit -> dit : 1
+kind uit dit -> zo : 1
+uit dit zo -> van : 1
+dit zo van -> zijn : 1
+zo van zijn -> eigen : 1
+van zijn eigen -> het : 1
+zijn eigen het -> verder : 1
+eigen het verder -> alle : 1
+het verder alle -> extase : 1
+verder alle extase -> door : 1
+alle extase door -> bleef : 1
+extase door bleef -> was : 1
+door bleef was -> het : 1
+bleef was het -> kwaad : 1
+was het kwaad -> niet : 1
+het kwaad niet -> meer : 1
+kwaad niet meer -> te : 1
+niet meer te -> kloof : 1
+meer te kloof -> ie : 1
+te kloof ie -> aan : 1
+kloof ie aan -> zijn : 1
+ie aan zijn -> zette : 1
+aan zijn zette -> weldra : 1
+zijn zette weldra -> ook : 1
+zette weldra ook -> zijn : 1
+weldra ook zijn -> de : 1
+ook zijn de -> stompjes : 1
+zijn de stompjes -> van : 1
+de stompjes van -> zijn : 1
+stompjes van zijn -> tot : 1
+van zijn tot -> ontzetting : 1
+zijn tot ontzetting -> van : 1
+tot ontzetting van -> zijn : 1
+ontzetting van zijn -> zijn : 1
+van zijn zijn -> bovenarm : 1
+zijn zijn bovenarm -> en : 1
+zijn bovenarm en -> keek : 1
+bovenarm en keek -> hij : 1
+en keek hij -> toen : 1
+keek hij toen -> in : 1
+hij toen in -> het : 1
+toen in het -> sprak : 1
+in het sprak -> met : 1
+het sprak met -> overvolle : 1
+sprak met overvolle -> vind : 1
+met overvolle vind -> als : 1
+overvolle vind als -> u : 1
+vind als u -> wil : 1
+als u wil -> een : 1
+u wil een -> kind : 1
+wil een kind -> om : 1
+een kind om -> op : 1
+kind om op -> te : 1
+om op te -> hief : 1
+op te hief -> al : 1
+te hief al -> weer : 1
+hief al weer -> een : 1
+al weer een -> been : 1
+weer een been -> aan : 1
+een been aan -> zijn : 1
+been aan zijn -> hoorde : 1
+aan zijn hoorde -> hem : 1
+zijn hoorde hem -> vraatzuchtig : 1
+hoorde hem vraatzuchtig -> de : 1
+hem vraatzuchtig de -> pezen : 1
+vraatzuchtig de pezen -> van : 1
+de pezen van -> zijn : 1
+pezen van zijn -> hem : 1
+van zijn hem -> zalig : 1
+zijn hem zalig -> hij : 1
+hem zalig hij -> beet : 1
+zalig hij beet -> kreeg : 1
+hij beet kreeg -> aan : 1
+beet kreeg aan -> happen : 1
+kreeg aan happen -> naar : 1
+aan happen naar -> zijn : 1
+happen naar zijn -> hij : 1
+naar zijn hij -> kon : 1
+zijn hij kon -> er : 1
+hij kon er -> niet : 1
+kon er niet -> meer : 1
+er niet meer -> de : 1
+niet meer de -> honger : 1
+meer de honger -> is : 1
+de honger is -> hier : 1
+honger is hier -> de : 1
+is hier de -> nooit : 1
+hier de nooit -> uw : 1
+de nooit uw -> eigen : 1
+nooit uw eigen -> price : 1
+uw eigen price -> ergens : 1
+eigen price ergens -> een : 1
+price ergens een -> kind : 1
+ergens een kind -> wordt : 1
+een kind wordt -> de : 1
+kind wordt de -> ouders : 1
+wordt de ouders -> het : 1
+de ouders het -> kind : 1
+ouders het kind -> toch : 1
+het kind toch -> vooral : 1
+kind toch vooral -> mag : 1
+toch vooral mag -> de : 1
+vooral mag de -> groep : 1
+mag de groep -> van : 1
+de groep van -> het : 1
+groep van het -> die : 1
+van het die -> met : 1
+het die met -> leven : 1
+die met leven -> kapot : 1
+met leven kapot -> heb : 1
+leven kapot heb -> dat : 1
+kapot heb dat -> de : 1
+heb dat de -> hemel : 1
+dat de hemel -> het : 1
+de hemel het -> dom : 1
+hemel het dom -> is : 1
+het dom is -> zo : 1
+dom is zo -> dom : 1
+is zo dom -> als : 1
+zo dom als -> de : 1
+dom als de -> krijgt : 1
+als de krijgt -> het : 1
+de krijgt het -> een : 1
+krijgt het een -> vredig : 1
+het een vredig -> aan : 1
+een vredig aan -> eind : 1
+vredig aan eind -> ministerschap : 1
+aan eind ministerschap -> soe : 1
+eind ministerschap soe -> toeng : 1
+ministerschap soe toeng -> song : 1
+soe toeng song -> of : 1
+toeng song of -> the : 1
+of the foolish -> scent : 1
+the foolish scent -> of : 1
+foolish scent of -> bookwhite : 1
+scent of bookwhite -> and : 1
+of bookwhite and -> all : 1
+of bookwhite and -> honey : 1
+bookwhite and all -> us : 1
+and all us -> noseful : 1
+all us noseful -> of : 1
+us noseful of -> bookwhite : 1
+noseful of bookwhite -> and : 1
+bookwhite and honey -> and : 1
+and honey and -> crashing : 1
+honey and crashing -> we : 1
+and crashing we -> came : 1
+crashing we came -> down : 1
+we came down -> the : 1
+came down the -> scent : 1
+down the scent -> and : 1
+the scent and -> a : 1
+scent and a -> the : 1
+and a the -> drumfleece : 1
+a the drumfleece -> of : 1
+the drumfleece of -> ours : 1
+drumfleece of ours -> scent : 1
+of ours scent -> and : 1
+ours scent and -> the : 1
+scent and the -> soff : 1
+and the soff -> of : 1
+the soff of -> that : 1
+soff of that -> us : 1
+of that us -> in : 1
+that us in -> mad : 1
+us in mad -> all : 1
+in mad all -> us : 1
+mad all us -> lickbearding : 1
+all us lickbearding -> leave : 1
+all us lickbearding -> weeroak : 1
+us lickbearding leave -> our : 1
+lickbearding leave our -> homes : 1
+leave our homes -> in : 1
+our homes in -> the : 1
+homes in the -> all : 1
+in the all -> us : 1
+the all us -> lickbearding : 1
+us lickbearding weeroak -> locks : 1
+lickbearding weeroak locks -> costers : 1
+weeroak locks costers -> to : 1
+locks costers to -> from : 1
+costers to from -> our : 1
+to from our -> wives : 1
+from our wives -> and : 1
+our wives and -> our : 1
+wives and our -> wandered : 1
+and our wandered -> further : 1
+our wandered further -> from : 1
+wandered further from -> our : 1
+further from our -> sweethearts : 1
+from our sweethearts -> and : 1
+our sweethearts and -> the : 1
+sweethearts and the -> speed : 1
+and the speed -> of : 1
+the speed of -> a : 1
+speed of a -> custombuilt : 1
+of a custombuilt -> one : 1
+a custombuilt one -> can : 1
+custombuilt one can -> violate : 1
+one can violate -> the : 1
+can violate the -> rage : 1
+violate the rage -> of : 1
+the rage of -> his : 1
+rage of his -> one : 1
+of his one -> be : 1
+his one be -> deaf : 1
+one be deaf -> to : 1
+be deaf to -> his : 1
+deaf to his -> food : 1
+to his food -> in : 1
+his food in -> the : 1
+food in the -> air : 1
+in the air -> to : 1
+the air to -> be : 1
+air to be -> yelled : 1
+to be yelled -> as : 1
+be yelled as -> we : 1
+yelled as we -> slaughtered : 1
+as we slaughtered -> the : 1
+we slaughtered the -> like : 1
+slaughtered the like -> flickering : 1
+the like flickering -> danced : 1
+like flickering danced -> on : 1
+flickering danced on -> the : 1
+danced on the -> like : 1
+on the like -> of : 1
+the like of -> the : 1
+like of the -> we : 1
+of the we -> reached : 1
+the we reached -> for : 1
+we reached for -> the : 1
+reached for the -> rocked : 1
+for the rocked -> and : 1
+the rocked and -> we : 1
+rocked and we -> ran : 1
+and we ran -> as : 1
+we ran as -> the : 1
+ran as the -> basterds : 1
+as the basterds -> came : 1
+the basterds came -> out : 1
+basterds came out -> of : 1
+came out of -> their : 1
+out of their -> stung : 1
+out of their -> holes : 1
+of their stung -> us : 1
+their stung us -> like : 1
+stung us like -> mad : 1
+us like mad -> in : 1
+like mad in -> our : 1
+mad in our -> we : 1
+in our we -> ran : 1
+our we ran -> back : 1
+we ran back -> to : 1
+ran back to -> cousins : 1
+back to cousins -> and : 1
+to cousins and -> van : 1
+cousins and van -> henkie : 1
+and van henkie -> altijd : 1
+van henkie altijd -> lief : 1
+henkie altijd lief -> was : 1
+altijd lief was -> voor : 1
+lief was voor -> ouders : 1
+was voor ouders -> en : 1
+voor ouders en -> goed : 1
+ouders en goed -> oplette : 1
+en goed oplette -> in : 1
+goed oplette in -> de : 1
+oplette in de -> braafste : 1
+in de braafste -> kind : 1
+de braafste kind -> dat : 1
+braafste kind dat -> ooit : 1
+kind dat ooit -> henkie : 1
+dat ooit henkie -> hoebe : 1
+ooit henkie hoebe -> uit : 1
+henkie hoebe uit -> bleek : 1
+hoebe uit bleek -> al : 1
+uit bleek al -> op : 1
+bleek al op -> de : 1
+al op de -> blijde : 1
+op de blijde -> henk : 1
+de blijde henk -> zijn : 1
+blijde henk zijn -> eerste : 1
+henk zijn eerste -> daglicht : 1
+zijn eerste daglicht -> zoals : 1
+eerste daglicht zoals -> men : 1
+daglicht zoals men -> meent : 1
+zoals men meent -> te : 1
+men meent te -> ordinair : 1
+meent te ordinair -> gekrijs : 1
+te ordinair gekrijs -> met : 1
+ordinair gekrijs met -> levens : 1
+gekrijs met levens -> henkie : 1
+met levens henkie -> zoet : 1
+levens henkie zoet -> mondje : 1
+henkie zoet mondje -> is : 1
+zoet mondje is -> verder : 1
+mondje is verder -> opgetekend : 1
+is verder opgetekend -> nooit : 1
+verder opgetekend nooit -> een : 1
+opgetekend nooit een -> luier : 1
+nooit een luier -> heeft : 1
+een luier heeft -> boven : 1
+luier heeft boven -> gummi : 1
+heeft boven gummi -> zeil : 1
+boven gummi zeil -> en : 1
+gummi zeil en -> voorkeur : 1
+zeil en voorkeur -> gaf : 1
+en voorkeur gaf -> aan : 1
+voorkeur gaf aan -> het : 1
+gaf aan het -> dat : 1
+aan het dat -> direct : 1
+het dat direct -> en : 1
+dat direct en -> eigen : 1
+direct en eigen -> hand : 1
+en eigen hand -> heeft : 1
+eigen hand heeft -> kind : 1
+hand heeft kind -> bij : 1
+heeft kind bij -> mijn : 1
+kind bij mijn -> beste : 1
+bij mijn beste -> nooit : 1
+mijn beste nooit -> getreuzeld : 1
+beste nooit getreuzeld -> met : 1
+nooit getreuzeld met -> zijn : 1
+getreuzeld met zijn -> zure : 1
+met zijn zure -> zult : 1
+zijn zure zult -> en : 1
+zure zult en -> smaak : 1
+zult en smaak -> en : 1
+en smaak en -> mosterd : 1
+smaak en mosterd -> waar : 1
+en mosterd waar -> als : 1
+mosterd waar als -> de : 1
+waar als de -> kippen : 1
+als de kippen -> bij : 1
+de kippen bij -> slechts : 1
+kippen bij slechts -> een : 1
+bij slechts een -> dichterlijke : 1
+slechts een dichterlijke -> looprek : 1
+een dichterlijke looprek -> heeft : 1
+dichterlijke looprek heeft -> hij : 1
+looprek heeft hij -> het : 1
+heeft hij het -> lopen : 1
+hij het lopen -> uit : 1
+het lopen uit -> een : 1
+lopen uit een -> boek : 1
+uit een boek -> even : 1
+een boek even -> over : 1
+boek even over -> uit : 1
+even over uit -> wil : 1
+over uit wil -> boek : 1
+uit wil boek -> kwam : 1
+wil boek kwam -> van : 1
+boek kwam van -> uit : 1
+kwam van uit -> sinterklaas : 1
+van uit sinterklaas -> vroeg : 1
+uit sinterklaas vroeg -> onze : 1
+sinterklaas vroeg onze -> doelloos : 1
+vroeg onze doelloos -> speelgoed : 1
+onze doelloos speelgoed -> ten : 1
+doelloos speelgoed ten -> suikergoed : 1
+speelgoed ten suikergoed -> of : 1
+ten suikergoed of -> leerboek : 1
+suikergoed of leerboek -> van : 1
+of leerboek van -> de : 1
+leerboek van de -> plaats : 1
+van de plaats -> van : 1
+de plaats van -> autoped : 1
+plaats van autoped -> of : 1
+van autoped of -> verzameld : 1
+autoped of verzameld -> werk : 1
+of verzameld werk -> van : 1
+verzameld werk van -> zat : 1
+werk van zat -> ie : 1
+van zat ie -> dan : 1
+zat ie dan -> als : 1
+ie dan als -> knaap : 1
+dan als knaap -> van : 1
+als knaap van -> de : 1
+knaap van de -> hoogste : 1
+van de hoogste -> klas : 1
+de hoogste klas -> van : 1
+hoogste klas van -> de : 1
+klas van de -> ging : 1
+van de ging -> alles : 1
+de ging alles -> wat : 1
+ging alles wat -> hij : 1
+alles wat hij -> leerde : 1
+wat hij leerde -> docentencorps : 1
+hij leerde docentencorps -> menig : 1
+leerde docentencorps menig -> feit : 1
+docentencorps menig feit -> van : 1
+menig feit van -> hem : 1
+feit van hem -> buitenlandse : 1
+van hem buitenlandse -> proffen : 1
+hem buitenlandse proffen -> naar : 1
+buitenlandse proffen naar -> alles : 1
+proffen naar alles -> wat : 1
+naar alles wat -> ie : 1
+alles wat ie -> heeft : 1
+wat ie heeft -> his : 1
+ie heeft his -> voice : 1
+heeft his voice -> is : 1
+his voice is -> men : 1
+voice is men -> dacht : 1
+is men dacht -> aan : 1
+men dacht aan -> tevens : 1
+dacht aan tevens -> henkie : 1
+aan tevens henkie -> hulde : 1
+tevens henkie hulde -> zit : 1
+henkie hulde zit -> in : 1
+hulde zit in -> dit : 1
+zit in dit -> u : 1
+in dit u -> en : 1
+dit u en -> mij : 1
+u en mij -> nog : 1
+en mij nog -> een : 1
+mij nog een -> kan : 1
+nog een kan -> een : 1
+een kan een -> mens : 1
+kan een mens -> al : 1
+een mens al -> niet : 1
+mens al niet -> braaf : 1
+al niet braaf -> te : 1
+niet braaf te -> zijn : 1
+braaf te zijn -> en : 1
+te zijn en -> goed : 1
+zijn en goed -> te : 1
+en goed te -> you : 1
+goed te you -> ever : 1
+te you ever -> the : 1
+you ever the -> heil : 1
+ever the heil -> and : 1
+the heil and -> have : 1
+heil and have -> the : 1
+and have the -> heart : 1
+have the heart -> to : 1
+the heart to -> here : 1
+heart to here -> and : 1
+to here and -> there : 1
+here and there -> and : 1
+and there and -> over : 1
+there and over -> us : 1
+and over us -> and : 1
+over us and -> clunse : 1
+us and clunse -> along : 1
+and clunse along -> and : 1
+clunse along and -> shamefully : 1
+along and shamefully -> than : 1
+and shamefully than -> is : 1
+shamefully than is -> voer : 1
+than is voer -> een : 1
+is voer een -> scheepje : 1
+voer een scheepje -> op : 1
+een scheepje op -> de : 1
+scheepje op de -> een : 1
+op de een -> oogje : 1
+de een oogje -> in : 1
+een oogje in -> het : 1
+oogje in het -> eventjes : 1
+in het eventjes -> ondeugend : 1
+het eventjes ondeugend -> de : 1
+eventjes ondeugend de -> koning : 1
+ondeugend de koning -> van : 1
+de koning van -> nachts : 1
+koning van nachts -> zijn : 1
+van nachts zijn -> harem : 1
+nachts zijn harem -> onthutst : 1
+zijn harem onthutst -> een : 1
+harem onthutst een -> traan : 1
+onthutst een traan -> het : 1
+een traan het -> zag : 1
+traan het zag -> hoe : 1
+het zag hoe -> de : 1
+zag hoe de -> eunuchs : 1
+hoe de eunuchs -> groot : 1
+de eunuchs groot -> slem : 1
+eunuchs groot slem -> schoppen : 1
+groot slem schoppen -> said : 1
+slem schoppen said -> the : 1
+schoppen said the -> the : 1
+said the the -> all : 1
+the the all -> the : 1
+the all the -> mouses : 1
+all the mouses -> peeped : 1
+the mouses peeped -> and : 1
+mouses peeped and -> saw : 1
+peeped and saw -> and : 1
+and saw and -> out : 1
+saw and out -> of : 1
+and out of -> their : 1
+of their holes -> they : 1
+their holes they -> on : 1
+holes they on -> the : 1
+they on the -> his : 1
+on the his -> the : 1
+the his the -> kitchen : 1
+his the kitchen -> a : 1
+the kitchen a -> foolish : 1
+kitchen a foolish -> filled : 1
+a foolish filled -> with : 1
+foolish filled with -> drunk : 1
+filled with drunk -> as : 1
+with drunk as -> a : 1
+drunk as a -> donkey : 1
+as a donkey -> trek : 1
+a donkey trek -> met : 1
+donkey trek met -> mijn : 1
+trek met mijn -> ezel : 1
+met mijn ezel -> door : 1
+mijn ezel door -> weer : 1
+ezel door weer -> en : 1
+door weer en -> door : 1
+weer en door -> door : 1
+en door door -> dauw : 1
+en door door -> mos : 1
+door door dauw -> en : 1
+door dauw en -> door : 1
+dauw en door -> door : 1
+door door mos -> en : 1
+door mos en -> door : 1
+mos en door -> de : 1
+en door de -> gil : 1
+door de gil -> van : 1
+de gil van -> en : 1
+gil van en -> de : 1
+van en de -> traan : 1
+en de traan -> van : 1
+de traan van -> een : 1
+traan van een -> de : 1
+een de snik -> van : 1
+de snik van -> de : 1
+snik van de -> die : 1
+de die niemand -> de : 1
+die niemand de -> van : 1
+niemand de van -> die : 1
+de van die -> zonlicht : 1
+van die zonlicht -> vraag : 1
+die zonlicht vraag -> wat : 1
+zonlicht vraag wat -> van : 1
+vraag wat van -> dan : 1
+wat van dan -> steekt : 1
+van dan steekt -> ze : 1
+dan steekt ze -> haar : 1
+steekt ze haar -> op : 1
+ze haar op -> en : 1
+haar op en -> laat : 1
+op en laat -> ze : 1
+en laat ze -> een : 1

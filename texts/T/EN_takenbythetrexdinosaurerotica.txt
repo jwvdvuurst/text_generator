@@ -1,0 +1,6341 @@
+sims : 1
+alara : 1
+rights : 1
+publication : 1
+reproduced : 1
+electronic : 1
+prior : 1
+consent : 1
+copyright : 1
+owner : 1
+publisher : 1
+places : 1
+product : 1
+imagination : 1
+band : 1
+hunters : 1
+devastation : 1
+bite : 1
+marks : 1
+limbs : 1
+twenty : 1
+destroying : 1
+escaped : 1
+spotted : 1
+sides : 1
+devastated : 1
+entered : 1
+rises : 1
+houses : 1
+nests : 1
+great : 1
+shut : 1
+defenseless : 1
+old : 1
+tangled : 1
+anguish : 1
+savagely : 1
+crushed : 1
+walls : 1
+gone : 1
+wept : 1
+ruined : 1
+keening : 1
+sound : 1
+hunted : 1
+families : 1
+weeping : 1
+bellowing : 1
+slick : 1
+loops : 1
+purple : 1
+innards : 1
+pair : 1
+tripped : 1
+known : 1
+demanded : 1
+blankly : 1
+streaming : 1
+repeated : 1
+coherent : 1
+moved : 1
+else : 1
+remaining : 1
+built : 1
+fire : 1
+dulled : 1
+srad : 1
+fruit : 1
+mildly : 1
+tonight : 1
+ingested : 1
+flames : 1
+dance : 1
+patterns : 1
+shadow : 1
+lizards : 1
+relied : 1
+vam : 1
+pack : 1
+skinned : 1
+gripped : 1
+valuable : 1
+drop : 1
+basically : 1
+forearm : 1
+harder : 1
+sprung : 1
+launched : 1
+spear : 1
+imagined : 1
+cresting : 1
+log : 1
+grow : 1
+lengthening : 1
+rapidly : 1
+uselessly : 1
+morphed : 1
+gnawed : 1
+insides : 1
+gained : 1
+smash : 1
+life : 1
+panting : 1
+glassy : 1
+burned : 1
+vines : 1
+snagged : 1
+slapped : 1
+serrated : 1
+leaf : 1
+painfully : 1
+sharp : 1
+dragging : 1
+hallucination : 1
+chased : 1
+landscape : 1
+surroundings : 1
+changed : 1
+blurring : 1
+altering : 1
+rocky : 1
+mountain : 1
+pebbles : 1
+viciously : 1
+bare : 1
+skin : 1
+bared : 1
+bloodied : 1
+curled : 1
+fetal : 1
+whimpering : 1
+none : 1
+longer : 1
+function : 1
+damage : 1
+wrought : 1
+grey : 1
+wrath : 1
+altered : 1
+intact : 1
+warning : 1
+friends : 1
+home : 1
+dashed : 1
+engaged : 1
+pointless : 1
+continued : 1
+mindless : 1
+roar : 1
+eastern : 1
+terror : 1
+outside : 1
+savaged : 1
+slavering : 1
+mince : 1
+maw : 1
+dying : 1
+screams : 1
+rent : 1
+causing : 1
+groan : 1
+drug : 1
+morning : 1
+dawned : 1
+bright : 1
+birds : 1
+singing : 1
+breeze : 1
+ruffled : 1
+waking : 1
+shake : 1
+effects : 1
+pert : 1
+hungrily : 1
+dipped : 1
+cool : 1
+splashed : 1
+drinking : 1
+asked : 1
+ask : 1
+know : 1
+traveled : 1
+curves : 1
+muscular : 1
+exactly : 1
+offers : 1
+share : 1
+beds : 1
+various : 1
+allowed : 1
+younger : 1
+experience : 1
+thoroughly : 1
+boring : 1
+painful : 1
+bothered : 1
+needed : 1
+shoved : 1
+talking : 1
+blank : 1
+pathetic : 1
+fools : 1
+safe : 1
+happens : 1
+comment : 1
+greeted : 1
+grumbling : 1
+responses : 1
+priceless : 1
+want : 1
+pitiful : 1
+meal : 1
+scraps : 1
+scavenged : 1
+berries : 1
+ruling : 1
+elders : 1
+preside : 1
+promoted : 1
+here : 1
+thirty : 1
+named : 1
+thirteen : 1
+speak : 1
+mind : 1
+guiding : 1
+lives : 1
+helping : 1
+future : 1
+turning : 1
+slow : 1
+revolution : 1
+eye : 1
+contact : 1
+reduced : 1
+punctuate : 1
+speech : 1
+sitting : 1
+chief : 1
+second : 1
+thrust : 1
+grumble : 1
+assembled : 1
+whom : 1
+finish : 1
+grumbles : 1
+punctuated : 1
+repeat : 1
+sure : 1
+does : 1
+grieve : 1
+family : 1
+goes : 1
+injure : 1
+gruff : 1
+everyone : 1
+bulging : 1
+battle : 1
+scars : 1
+uproar : 1
+statement : 1
+followed : 1
+whispers : 1
+murmuring : 1
+unknown : 1
+explained : 1
+settlers : 1
+moving : 1
+hopefully : 1
+packed : 1
+meager : 1
+belongings : 1
+nights : 1
+shuffling : 1
+detect : 1
+dawning : 1
+fifth : 1
+dispossessed : 1
+middle : 1
+butterflies : 1
+jumping : 1
+insects : 1
+aimed : 1
+flew : 1
+graceful : 1
+weighted : 1
+point : 1
+ramming : 1
+delivering : 1
+blow : 1
+settling : 1
+carrying : 1
+dumped : 1
+carcass : 1
+forming : 1
+settlement : 1
+others : 1
+butcher : 1
+strip : 1
+useful : 1
+hide : 1
+tools : 1
+entrails : 1
+since : 1
+spoke : 1
+responsible : 1
+elder : 1
+pity : 1
+pay : 1
+settle : 1
+da : 1
+ago : 1
+ma : 1
+nobody : 1
+saddened : 1
+weeks : 1
+leading : 1
+hunts : 1
+fish : 1
+discovered : 1
+nutrients : 1
+added : 1
+diet : 1
+provided : 1
+memories : 1
+became : 1
+short : 1
+bedfellows : 1
+ensuring : 1
+population : 1
+complacency : 1
+crept : 1
+psyche : 1
+individuals : 1
+sneered : 1
+dire : 1
+predictions : 1
+concerning : 1
+sidelong : 1
+glances : 1
+accompanied : 1
+months : 1
+struck : 1
+summer : 1
+darkening : 1
+skies : 1
+forcing : 1
+hardiest : 1
+makeshift : 1
+hiding : 1
+hammered : 1
+flattened : 1
+pouring : 1
+forests : 1
+nearby : 1
+whipped : 1
+frothy : 1
+fair : 1
+plastered : 1
+shoulders : 1
+marveled : 1
+power : 1
+contained : 1
+lightning : 1
+illuminating : 1
+cold : 1
+chest : 1
+stalking : 1
+wordlessly : 1
+shared : 1
+living : 1
+space : 1
+annoyance : 1
+interruption : 1
+rutting : 1
+erection : 1
+pointing : 1
+noticed : 1
+deathly : 1
+pale : 1
+shook : 1
+sprang : 1
+threw : 1
+ordered : 1
+news : 1
+rousing : 1
+taking : 1
+opportunity : 1
+survivors : 1
+attack : 1
+soaked : 1
+shaking : 1
+nerves : 1
+sign : 1
+death : 1
+duration : 1
+heavy : 1
+petered : 1
+doing : 1
+lowered : 1
+met : 1
+disappointed : 1
+moment : 1
+deadwood : 1
+grassy : 1
+ten : 1
+six : 1
+underbelly : 1
+indicated : 1
+attempting : 1
+mark : 1
+violently : 1
+overlapping : 1
+ranged : 1
+color : 1
+depending : 1
+positioned : 1
+revealing : 1
+frightening : 1
+varying : 1
+pitched : 1
+yell : 1
+bringing : 1
+beat : 1
+tattoo : 1
+fled : 1
+grimly : 1
+determined : 1
+take : 1
+mist : 1
+cautiously : 1
+nostrils : 1
+flared : 1
+saliva : 1
+freely : 1
+cavern : 1
+every : 1
+shuddered : 1
+wave : 1
+covering : 1
+stuck : 1
+straight : 1
+fore : 1
+horizontal : 1
+line : 1
+extended : 1
+beady : 1
+comparison : 1
+size : 1
+keenest : 1
+three : 1
+accurate : 1
+human : 1
+situated : 1
+front : 1
+giving : 1
+round : 1
+step : 1
+leapt : 1
+jabbing : 1
+dodged : 1
+thrusts : 1
+ease : 1
+hoping : 1
+instead : 1
+strode : 1
+entering : 1
+taunted : 1
+gaped : 1
+help : 1
+stated : 1
+track : 1
+narrow : 1
+snaked : 1
+setting : 1
+breathing : 1
+plenty : 1
+especially : 1
+often : 1
+shoulder : 1
+bypass : 1
+weakest : 1
+bent : 1
+tied : 1
+sharpened : 1
+wrist : 1
+stamping : 1
+poised : 1
+slash : 1
+holding : 1
+tie : 1
+soon : 1
+snout : 1
+poke : 1
+hearing : 1
+grunting : 1
+realized : 1
+preparation : 1
+scaled : 1
+cover : 1
+downward : 1
+keen : 1
+flint : 1
+gut : 1
+biting : 1
+roaring : 1
+connected : 1
+sharply : 1
+actual : 1
+served : 1
+jump : 1
+lose : 1
+temper : 1
+clenched : 1
+delicious : 1
+exited : 1
+outsmarting : 1
+ever : 1
+shivered : 1
+woods : 1
+glimpse : 1
+fast : 1
+week : 1
+digging : 1
+quarter : 1
+thin : 1
+trail : 1
+trodden : 1
+cut : 1
+laying : 1
+latticework : 1
+leaves : 1
+growing : 1
+formed : 1
+blend : 1
+contain : 1
+enough : 1
+cause : 1
+snap : 1
+happen : 1
+speed : 1
+traversed : 1
+marveling : 1
+barely : 1
+difference : 1
+further : 1
+wait : 1
+quite : 1
+challenge : 1
+sight : 1
+pounding : 1
+miss : 1
+keep : 1
+tyrannosaur : 1
+headed : 1
+caused : 1
+legged : 1
+walking : 1
+knot : 1
+concern : 1
+developed : 1
+within : 1
+tiny : 1
+awareness : 1
+dismay : 1
+slowed : 1
+slightly : 1
+backed : 1
+preparing : 1
+missed : 1
+atop : 1
+framework : 1
+twigs : 1
+pitching : 1
+beneath : 1
+forwards : 1
+toes : 1
+pit : 1
+gigantic : 1
+claws : 1
+forearms : 1
+springing : 1
+horny : 1
+urge : 1
+possibly : 1
+due : 1
+climbing : 1
+sandstone : 1
+hilly : 1
+region : 1
+climb : 1
+curved : 1
+smooth : 1
+surface : 1
+rock : 1
+mingling : 1
+arousal : 1
+create : 1
+entirely : 1
+knowing : 1
+escape : 1
+dribbled : 1
+knee : 1
+calmly : 1
+studied : 1
+caution : 1
+reptilian : 1
+low : 1
+sounds : 1
+throat : 1
+slowly : 1
+scenting : 1
+reaction : 1
+immensely : 1
+strong : 1
+forelegs : 1
+clamping : 1
+unbreakable : 1
+seized : 1
+squeezing : 1
+rending : 1
+tear : 1
+muscle : 1
+fountaining : 1
+decreased : 1
+minutely : 1
+suspended : 1
+erect : 1
+hot : 1
+breath : 1
+caressed : 1
+sending : 1
+exquisite : 1
+sniffed : 1
+ripped : 1
+shocked : 1
+actions : 1
+curls : 1
+pubic : 1
+object : 1
+arm : 1
+blunt : 1
+realization : 1
+punch : 1
+shove : 1
+cried : 1
+eat : 1
+preferable : 1
+lowering : 1
+stilled : 1
+moist : 1
+bobbing : 1
+waiting : 1
+surely : 1
+split : 1
+dampen : 1
+cheeks : 1
+emotions : 1
+boiled : 1
+vain : 1
+far : 1
+hanging : 1
+drove : 1
+too : 1
+fit : 1
+slid : 1
+spreading : 1
+lips : 1
+stroking : 1
+super : 1
+tissues : 1
+penetrate : 1
+result : 1
+rough : 1
+clitoris : 1
+effect : 1
+nice : 1
+vile : 1
+arousing : 1
+better : 1
+merely : 1
+dampening : 1
+stiff : 1
+get : 1
+situation : 1
+alive : 1
+particularly : 1
+enjoyed : 1
+reaching : 1
+girth : 1
+increasing : 1
+nerve : 1
+endings : 1
+appreciate : 1
+growled : 1
+moan : 1
+pound : 1
+penis : 1
+swollen : 1
+world : 1
+wrapped : 1
+locking : 1
+ankles : 1
+dick : 1
+becoming : 1
+solidness : 1
+relentlessly : 1
+top : 1
+spread : 1
+waves : 1
+pulsing : 1
+sensations : 1
+system : 1
+eventually : 1
+brink : 1
+orgasm : 1
+crying : 1
+registering : 1
+hammering : 1
+stabbing : 1
+upward : 1
+liquid : 1
+thighs : 1
+smelling : 1
+understood : 1
+worried : 1
+spray : 1
+feelings : 1
+shooting : 1
+issuing : 1
+battered : 1
+resolved : 1
+energetic : 1
+bedfellow : 1
+show : 1
+clutched : 1
+tightening : 1
+loudly : 1
+pints : 1
+white : 1
+then : 1
+third : 1
+rammed : 1
+shaft : 1
+naked : 1
+semen : 1
+ejaculated : 1
+wetting : 1
+soaking : 1
+hitting : 1
+dirt : 1
+grabbed : 1
+hoisted : 1
+yelling : 1
+mating : 1
+anything : 1
+try : 1
+aid : 1
+exhausted : 1
+batted : 1
+powerful : 1
+together : 1
+stand : 1
+chance : 1
+stayed : 1
+chewed : 1
+briefly : 1
+picking : 1
+swallowing : 1
+appetite : 1
+remained : 1
+considering : 1
+dusk : 1
+draw : 1
+tattered : 1
+securing : 1
+retrieved : 1
+beside : 1
+pool : 1
+told : 1
+story : 1
+cornered : 1
+heroically : 1
+yet : 1
+interest : 1
+rejoined : 1
+community : 1
+scanning : 1
+suitable : 1
+service : 1
+questions : 1
+comments : 1
+regarding : 1
+chatting : 1
+send : 1
+email : 1
+love : 1
+fans : 1
+answer : 1
+question : 1
+part : 2
+may : 2
+events : 2
+newsletter : 2
+visit : 2
+promise : 2
+fill : 2
+your : 2
+sale : 2
+gift : 2
+follow : 2
+us : 2
+littered : 2
+valley : 2
+lay : 2
+throughout : 2
+partially : 2
+stamped : 2
+party : 2
+returned : 2
+same : 2
+direction : 2
+kicking : 2
+huts : 2
+women : 2
+half : 2
+building : 2
+taken : 2
+bitten : 2
+splash : 2
+rocked : 2
+severed : 2
+torso : 2
+among : 2
+reached : 2
+offered : 2
+pushing : 2
+someone : 2
+finally : 2
+senses : 2
+quantities : 2
+order : 2
+watching : 2
+drugged : 2
+animals : 2
+chasing : 2
+loosely : 2
+other : 2
+handle : 2
+tightly : 2
+axe : 2
+hard : 2
+exact : 2
+spot : 2
+bring : 2
+clear : 2
+fallen : 2
+soft : 2
+begin : 2
+odd : 2
+lungs : 2
+headlong : 2
+hair : 2
+face : 2
+driving : 2
+jagged : 2
+slashed : 2
+rage : 2
+scrabbled : 2
+beginning : 2
+hobble : 2
+torn : 2
+position : 2
+mates : 2
+scene : 2
+task : 2
+shouted : 2
+coming : 2
+snapped : 2
+wide : 2
+induced : 2
+gentle : 2
+stretched : 2
+water : 2
+fingers : 2
+bowl : 2
+burly : 2
+over : 2
+saying : 2
+words : 2
+whole : 2
+happy : 2
+rose : 2
+quietly : 2
+stares : 2
+why : 2
+these : 2
+meat : 2
+collected : 2
+washed : 2
+circle : 2
+alongside : 2
+either : 2
+idea : 2
+shape : 2
+center : 2
+called : 2
+am : 2
+tell : 2
+say : 2
+because : 2
+calls : 2
+plans : 2
+last : 2
+heart : 2
+children : 2
+bed : 2
+pointed : 2
+revenge : 2
+understand : 2
+never : 2
+anywhere : 2
+muscles : 2
+showed : 2
+led : 2
+confused : 2
+scanned : 2
+good : 2
+easily : 2
+voted : 2
+decided : 2
+set : 2
+spent : 2
+four : 2
+days : 2
+flat : 2
+immediately : 2
+grazing : 2
+neck : 2
+twine : 2
+said : 2
+again : 2
+except : 2
+passed : 2
+rolled : 2
+got : 2
+chosen : 2
+blown : 2
+shelter : 2
+violent : 2
+rain : 2
+nearest : 2
+yelled : 2
+crossing : 2
+fright : 2
+brought : 2
+dead : 2
+go : 2
+thrown : 2
+tail : 2
+feathers : 2
+coating : 2
+opened : 2
+wet : 2
+monster : 2
+allow : 2
+approach : 2
+times : 2
+amazing : 2
+using : 2
+nowhere : 2
+scream : 2
+traps : 2
+although : 2
+springy : 2
+cedar : 2
+backwards : 2
+hoped : 2
+close : 2
+final : 2
+nose : 2
+break : 2
+sticks : 2
+deep : 2
+happened : 2
+leg : 2
+crashing : 2
+smashing : 2
+thrashing : 2
+struggle : 2
+free : 2
+suddenly : 2
+touch : 2
+box : 2
+approaching : 2
+growling : 2
+attempt : 2
+hung : 2
+below : 2
+unable : 2
+let : 2
+save : 2
+hurt : 2
+while : 2
+pussy : 2
+grinding : 2
+cunt : 2
+fat : 2
+seemed : 2
+started : 2
+sliding : 2
+clit : 2
+feeling : 2
+fluid : 2
+onto : 2
+work : 3
+christie : 3
+bodies : 3
+pieces : 3
+floor : 3
+scattered : 3
+severing : 3
+homes : 3
+hunting : 3
+tears : 3
+jaws : 3
+killed : 3
+fall : 3
+fell : 3
+remains : 3
+foot : 3
+carried : 3
+red : 3
+several : 3
+numerous : 3
+response : 3
+narcotic : 3
+chase : 3
+held : 3
+trotted : 3
+after : 3
+green : 3
+hit : 3
+forward : 3
+ground : 3
+turn : 3
+air : 3
+edge : 3
+still : 3
+teeth : 3
+though : 3
+took : 3
+until : 3
+move : 3
+those : 3
+heard : 3
+end : 3
+stepped : 3
+hut : 3
+vast : 3
+trying : 3
+breasts : 3
+wished : 3
+waited : 3
+older : 3
+our : 3
+angry : 3
+believe : 3
+comes : 3
+shouts : 3
+lost : 3
+hunt : 3
+might : 3
+huntress : 3
+meet : 3
+will : 3
+return : 3
+should : 3
+my : 3
+rest : 3
+many : 3
+think : 3
+raised : 3
+looking : 3
+fight : 3
+died : 3
+caught : 3
+dried : 3
+grass : 3
+stomach : 3
+come : 3
+loincloth : 3
+area : 3
+much : 3
+itself : 3
+high : 3
+remainder : 3
+dark : 3
+believed : 3
+past : 3
+branch : 3
+animal : 3
+thick : 3
+height : 3
+hear : 3
+drew : 3
+full : 3
+pleasure : 3
+trap : 3
+completely : 3
+clawed : 3
+push : 3
+arms : 3
+tapered : 3
+able : 3
+sensitive : 3
+intense : 3
+without : 4
+can : 4
+also : 4
+most : 4
+huge : 4
+seen : 4
+summers : 4
+now : 4
+killing : 4
+apart : 4
+snapping : 4
+next : 4
+them : 4
+allowing : 4
+become : 4
+hands : 4
+own : 4
+find : 4
+walked : 4
+going : 4
+massive : 4
+gathered : 4
+large : 4
+saw : 4
+running : 4
+managed : 4
+stone : 4
+flesh : 4
+bones : 4
+thing : 4
+mother : 4
+fear : 4
+run : 4
+both : 4
+tyrannosaurus : 4
+rex : 4
+pain : 4
+rocks : 4
+screaming : 4
+inside : 4
+simply : 4
+shot : 4
+watched : 4
+approached : 4
+stared : 4
+time : 4
+thrill : 4
+about : 4
+river : 4
+least : 4
+member : 4
+than : 4
+has : 4
+right : 4
+almost : 4
+entire : 4
+plain : 4
+covered : 4
+storm : 4
+tried : 4
+little : 4
+behind : 4
+length : 4
+hole : 4
+side : 4
+felt : 4
+smashed : 5
+made : 5
+light : 5
+like : 5
+group : 5
+upon : 5
+found : 5
+nothing : 5
+near : 5
+away : 5
+knew : 5
+began : 5
+branches : 5
+path : 5
+toward : 5
+left : 5
+do : 5
+another : 5
+did : 5
+each : 5
+deer : 5
+towards : 5
+gave : 5
+even : 5
+used : 6
+young : 6
+few : 6
+blood : 6
+men : 6
+feel : 6
+hand : 6
+came : 6
+head : 6
+man : 6
+first : 6
+kill : 6
+him : 6
+how : 6
+thought : 6
+along : 6
+tip : 6
+between : 6
+actually : 6
+any : 7
+i : 7
+only : 7
+new : 7
+woman : 7
+two : 7
+villagers : 7
+must : 7
+beast : 7
+make : 7
+trees : 7
+being : 7
+there : 7
+cock : 7
+is : 8
+when : 8
+screamed : 8
+eyes : 8
+some : 8
+stick : 8
+so : 8
+feet : 8
+more : 8
+stood : 8
+are : 9
+have : 9
+where : 9
+just : 9
+making : 9
+herself : 9
+before : 9
+what : 9
+but : 9
+against : 9
+turned : 9
+legs : 10
+off : 10
+cutter : 10
+see : 10
+you : 11
+looked : 11
+way : 11
+people : 11
+back : 11
+his : 11
+no : 11
+creature : 11
+once : 11
+an : 11
+we : 12
+through : 12
+body : 12
+across : 12
+long : 12
+ran : 12
+srie : 12
+be : 13
+up : 13
+small : 13
+down : 13
+village : 13
+who : 13
+if : 13
+he : 13
+they : 14
+around : 14
+out : 14
+one : 15
+could : 15
+been : 16
+their : 16
+by : 17
+that : 17
+or : 18
+all : 18
+grul : 18
+not : 21
+were : 22
+on : 23
+would : 23
+this : 24
+into : 27
+which : 32
+with : 37
+for : 42
+lizard : 44
+its : 44
+from : 45
+at : 45
+big : 55
+was : 63
+it : 65
+drin : 67
+in : 71
+had : 75
+as : 91
+a : 92
+she : 98
+of : 149
+to : 154
+her : 175
+and : 213
+the : 440
+by the sims -> and : 1
+the sims and -> alara : 1
+sims and alara -> rights : 1
+and alara rights -> part : 1
+alara rights part -> of : 1
+rights part of -> this : 1
+part of this -> publication : 1
+of this publication -> may : 1
+this publication may -> be : 1
+publication may be -> reproduced : 1
+may be reproduced -> in : 1
+be reproduced in -> any : 1
+reproduced in any -> by : 1
+in any by -> any : 1
+any by any -> electronic : 1
+by any electronic -> or : 1
+any electronic or -> without : 1
+electronic or without -> prior : 1
+or without prior -> consent : 1
+without prior consent -> from : 1
+prior consent from -> the : 1
+consent from the -> copyright : 1
+from the copyright -> owner : 1
+the copyright owner -> and : 1
+copyright owner and -> publisher : 1
+owner and publisher -> of : 1
+and publisher of -> this : 1
+publisher of this -> is : 1
+of this is -> a : 1
+this is a -> work : 1
+is a work -> of : 1
+a work of -> all : 1
+work of all -> places : 1
+of all places -> and : 1
+all places and -> events : 1
+places and events -> are : 1
+and events are -> the : 1
+events are the -> product : 1
+are the product -> of : 1
+the product of -> the : 1
+product of the -> imagination : 1
+of the imagination -> or : 1
+the imagination or -> used : 1
+imagination or used -> up : 1
+or used up -> for : 1
+used up for -> the : 1
+up for the -> newsletter : 2
+for the newsletter -> or : 2
+the newsletter or -> visit : 2
+newsletter or visit -> and : 2
+or visit and -> christie : 2
+visit and christie -> and : 2
+and christie and -> i : 2
+christie and i -> promise : 2
+and i promise -> to : 2
+i promise to -> fill : 2
+promise to fill -> your : 2
+to fill your -> only : 2
+fill your only -> when : 2
+your only when -> we : 2
+only when we -> have : 2
+when we have -> a : 2
+we have a -> new : 2
+have a new -> sale : 2
+a new sale -> or : 2
+new sale or -> a : 2
+sale or a -> gift : 2
+or a gift -> for : 2
+a gift for -> you : 2
+gift for you -> can : 2
+for you can -> also : 2
+you can also -> follow : 2
+can also follow -> us : 2
+also follow us -> on : 2
+follow us on -> and : 2
+us on and -> bodies : 1
+us on and -> you : 1
+on and bodies -> and : 1
+and bodies and -> pieces : 1
+bodies and pieces -> of : 1
+and pieces of -> bodies : 1
+pieces of bodies -> littered : 1
+of bodies littered -> the : 1
+bodies littered the -> valley : 1
+littered the valley -> floor : 1
+the valley floor -> as : 1
+valley floor as -> the : 1
+floor as the -> small : 1
+as the small -> band : 1
+the small band -> of : 1
+small band of -> hunters : 1
+band of hunters -> looked : 1
+of hunters looked -> down : 1
+hunters looked down -> on : 1
+looked down on -> the : 1
+down on the -> devastation : 1
+on the devastation -> which : 1
+the devastation which -> the : 1
+devastation which the -> big : 1
+which the big -> lizard : 1
+the big lizard -> had : 4
+the big lizard -> must : 1
+the big lizard -> gained : 1
+the big lizard -> came : 1
+the big lizard -> coming : 1
+the big lizard -> and : 2
+the big lizard -> will : 1
+the big lizard -> does : 1
+the big lizard -> has : 1
+the big lizard -> comes : 1
+the big lizard -> stalking : 1
+the big lizard -> stamped : 1
+the big lizard -> was : 4
+the big lizard -> cautiously : 1
+the big lizard -> off : 1
+the big lizard -> stamping : 1
+the big lizard -> screamed : 1
+the big lizard -> would : 1
+the big lizard -> clawed : 1
+the big lizard -> gave : 1
+the big lizard -> approaching : 2
+the big lizard -> sniffed : 1
+the big lizard -> to : 1
+the big lizard -> tried : 1
+the big lizard -> smashed : 1
+the big lizard -> rammed : 1
+the big lizard -> walked : 1
+big lizard had -> most : 1
+big lizard had -> stamped : 1
+big lizard had -> entered : 1
+big lizard had -> turned : 1
+big lizard had -> lost : 1
+lizard had most -> of : 1
+had most of -> the : 1
+most of the -> bodies : 1
+most of the -> survivors : 1
+of the bodies -> which : 1
+the bodies which -> lay : 1
+bodies which lay -> scattered : 1
+which lay scattered -> throughout : 1
+lay scattered throughout -> the : 1
+scattered throughout the -> village : 1
+throughout the village -> had : 1
+the village had -> been : 1
+village had been -> partially : 1
+had been partially -> huge : 1
+been partially huge -> bite : 1
+partially huge bite -> marks : 1
+huge bite marks -> severing : 1
+bite marks severing -> limbs : 1
+marks severing limbs -> or : 1
+severing limbs or -> the : 1
+limbs or the -> young : 1
+or the young -> woman : 1
+the young woman -> had : 1
+the young woman -> rose : 1
+young woman had -> seen : 1
+woman had seen -> twenty : 1
+had seen twenty -> two : 1
+seen twenty two -> summers : 1
+twenty two summers -> in : 1
+two summers in -> this : 1
+summers in this -> small : 1
+in this small -> village : 1
+this small village -> and : 1
+small village and -> now : 1
+village and now -> it : 1
+and now it -> was : 1
+now it was -> the : 1
+it was the -> big : 1
+was the big -> lizard : 1
+lizard had stamped -> through : 1
+had stamped through -> the : 1
+stamped through the -> destroying : 1
+through the destroying -> homes : 1
+the destroying homes -> and : 1
+destroying homes and -> killing : 1
+homes and killing -> at : 1
+and killing at -> few : 1
+killing at few -> of : 1
+at few of -> the : 1
+few of the -> villagers : 1
+of the villagers -> who : 1
+of the villagers -> to : 1
+the villagers who -> had : 1
+villagers who had -> escaped : 1
+who had escaped -> the : 1
+had escaped the -> big : 1
+escaped the big -> lizard : 1
+big lizard must -> have : 1
+lizard must have -> spotted : 1
+must have spotted -> the : 1
+have spotted the -> hunting : 1
+spotted the hunting -> party : 1
+the hunting party -> and : 1
+hunting party and -> returned : 1
+party and returned -> to : 1
+and returned to -> the : 1
+returned to the -> smashed : 1
+returned to the -> settling : 1
+to the smashed -> homes : 1
+the smashed homes -> from : 1
+smashed homes from -> which : 1
+homes from which -> they : 1
+from which they -> had : 1
+which they had -> the : 1
+they had the -> small : 1
+had the small -> hunting : 1
+the small hunting -> party : 1
+small hunting party -> made : 1
+hunting party made -> their : 1
+party made their -> way : 1
+made their way -> down : 1
+their way down -> the : 1
+way down the -> valley : 1
+down the valley -> sides : 1
+the valley sides -> to : 1
+valley sides to -> the : 1
+sides to the -> devastated : 1
+to the devastated -> village : 1
+the devastated village -> and : 1
+devastated village and -> drin : 1
+village and drin -> looked : 1
+village and drin -> leapt : 1
+and drin looked -> around : 1
+drin looked around -> her : 1
+looked around her -> with : 1
+around her with -> tears : 1
+her with tears -> in : 1
+her with tears -> streaming : 1
+with tears in -> her : 1
+tears in her -> big : 1
+in her big -> lizard : 1
+her big lizard -> had : 1
+lizard had entered -> from : 1
+had entered from -> the : 1
+entered from the -> same : 1
+from the same -> direction : 1
+the same direction -> as : 1
+same direction as -> the : 1
+direction as the -> big : 1
+as the big -> light : 1
+as the big -> lizard : 4
+the big light -> rises : 1
+big light rises -> in : 1
+light rises in -> the : 1
+rises in the -> kicking : 1
+in the kicking -> the : 1
+the kicking the -> houses : 1
+kicking the houses -> apart : 1
+the houses apart -> like : 1
+houses apart like -> nests : 1
+apart like nests -> and : 1
+like nests and -> snapping : 1
+nests and snapping -> its : 1
+and snapping its -> great : 1
+snapping its great -> jaws : 1
+its great jaws -> shut : 1
+great jaws shut -> on : 1
+jaws shut on -> the : 1
+shut on the -> defenseless : 1
+on the defenseless -> people : 1
+the defenseless people -> it : 1
+defenseless people it -> looked : 1
+people it looked -> as : 1
+it looked as -> if : 1
+looked as if -> the : 1
+looked as if -> he : 1
+as if the -> beast : 1
+if the beast -> had : 1
+the beast had -> made : 1
+beast had made -> for : 1
+had made for -> the : 1
+made for the -> next : 1
+for the next -> small : 1
+the next small -> group : 1
+next small group -> of : 1
+small group of -> huts : 1
+group of huts -> where : 1
+of huts where -> it : 1
+huts where it -> had : 1
+where it had -> just : 1
+where it had -> been : 1
+it had just -> killed : 1
+had just killed -> the : 1
+just killed the -> old : 1
+killed the old -> women : 1
+the old women -> snapping : 1
+old women snapping -> them : 1
+women snapping them -> in : 1
+snapping them in -> half : 1
+them in half -> and : 1
+in half and -> allowing : 1
+half and allowing -> the : 1
+and allowing the -> pieces : 1
+allowing the pieces -> to : 1
+the pieces to -> fall : 1
+pieces to fall -> and : 1
+to fall and -> become : 1
+fall and become -> tangled : 1
+and become tangled -> with : 1
+become tangled with -> the : 1
+tangled with the -> building : 1
+with the building -> from : 1
+the building from -> which : 1
+building from which -> it : 1
+from which it -> had : 1
+which it had -> taken : 1
+which it had -> using : 1
+it had taken -> screamed : 1
+had taken screamed -> her : 1
+taken screamed her -> anguish : 1
+screamed her anguish -> as : 1
+her anguish as -> her : 1
+anguish as her -> eyes : 1
+as her eyes -> fell : 1
+her eyes fell -> upon : 1
+eyes fell upon -> the : 1
+fell upon the -> smashed : 1
+upon the smashed -> body : 1
+the smashed body -> of : 1
+smashed body of -> her : 1
+body of her -> her : 1
+of her her -> legs : 1
+her her legs -> had : 1
+her legs had -> been : 1
+legs had been -> savagely : 1
+had been savagely -> bitten : 1
+been savagely bitten -> off : 1
+savagely bitten off -> and : 1
+bitten off and -> allowing : 1
+bitten off and -> was : 1
+off and allowing -> blood : 1
+and allowing blood -> to : 1
+allowing blood to -> splash : 1
+blood to splash -> across : 1
+to splash across -> the : 1
+splash across the -> crushed : 1
+across the crushed -> walls : 1
+the crushed walls -> of : 1
+crushed walls of -> her : 1
+walls of her -> one : 1
+of her one -> of : 1
+her one of -> her : 1
+one of her -> hands : 1
+one of her -> friends : 1
+of her hands -> had : 1
+her hands had -> been : 1
+hands had been -> bitten : 1
+had been bitten -> off : 1
+been bitten off -> and : 1
+off and was -> gone : 1
+and was gone -> drin : 1
+was gone drin -> wept : 1
+gone drin wept -> as : 1
+drin wept as -> she : 1
+wept as she -> rocked : 1
+as she rocked -> the : 1
+she rocked the -> ruined : 1
+rocked the ruined -> body : 1
+the ruined body -> back : 1
+ruined body back -> and : 1
+body back and -> making : 1
+back and making -> a : 1
+and making a -> small : 1
+and making a -> horizontal : 1
+making a small -> keening : 1
+a small keening -> sound : 1
+small keening sound -> in : 1
+keening sound in -> the : 1
+sound in the -> back : 1
+in the back -> of : 1
+the back of -> her : 1
+the back of -> its : 1
+back of her -> some : 1
+of her some -> of : 1
+her some of -> the : 1
+some of the -> men : 1
+of the men -> who : 1
+the men who -> hunted : 1
+men who hunted -> with : 1
+who hunted with -> her : 1
+hunted with her -> had : 1
+with her had -> found : 1
+her had found -> the : 1
+had found the -> remains : 1
+found the remains -> of : 1
+the remains of -> their : 1
+the remains of -> his : 1
+remains of their -> own : 1
+of their own -> families : 1
+their own families -> and : 1
+own families and -> were : 1
+families and were -> weeping : 1
+and were weeping -> grul : 1
+were weeping grul -> could : 1
+weeping grul could -> find : 1
+grul could find -> nothing : 1
+could find nothing -> of : 1
+find nothing of -> his : 1
+nothing of his -> woman : 1
+of his woman -> apart : 1
+his woman apart -> from : 1
+woman apart from -> a : 1
+apart from a -> severed : 1
+from a severed -> foot : 1
+a severed foot -> which : 1
+severed foot which -> he : 1
+foot which he -> carried : 1
+which he carried -> around : 1
+he carried around -> the : 1
+carried around the -> remains : 1
+around the remains -> of : 1
+remains of his -> bellowing : 1
+of his bellowing -> at : 1
+his bellowing at -> the : 1
+bellowing at the -> floor : 1
+at the floor -> was : 1
+the floor was -> slick : 1
+floor was slick -> with : 1
+was slick with -> and : 1
+slick with and -> scattered : 1
+with and scattered -> loops : 1
+and scattered loops -> of : 1
+scattered loops of -> purple : 1
+loops of purple -> and : 1
+of purple and -> red : 1
+purple and red -> innards : 1
+and red innards -> from : 1
+red innards from -> a : 1
+innards from a -> pair : 1
+from a pair -> of : 1
+a pair of -> severed : 1
+pair of severed -> legs : 1
+of severed legs -> without : 1
+severed legs without -> a : 1
+legs without a -> torso : 1
+without a torso -> had : 1
+a torso had -> tripped : 1
+torso had tripped -> several : 1
+had tripped several -> people : 1
+tripped several people -> as : 1
+several people as -> they : 1
+people as they -> walked : 1
+as they walked -> among : 1
+they walked among -> the : 1
+walked among the -> a : 1
+among the a -> a : 1
+the a a -> a : 1
+a a a -> some : 1
+a a some -> drin : 1
+a some drin -> found : 1
+some drin found -> numerous : 1
+drin found numerous -> pieces : 1
+found numerous pieces -> of : 1
+numerous pieces of -> people : 1
+pieces of people -> she : 1
+of people she -> had : 1
+people she had -> known : 1
+she had known -> as : 1
+had known as -> she : 1
+known as she -> walked : 1
+as she walked -> around : 1
+she walked around -> as : 1
+walked around as -> if : 1
+around as if -> in : 1
+as if in -> a : 1
+if in a -> are : 1
+in a are -> we : 1
+a are we -> going : 1
+are we going -> to : 4
+we going to -> drin : 3
+we going to -> do : 1
+going to drin -> demanded : 1
+going to drin -> repeated : 1
+going to drin -> asked : 1
+to drin demanded -> of : 1
+drin demanded of -> grul : 1
+demanded of grul -> as : 1
+of grul as -> she : 1
+grul as she -> reached : 1
+as she reached -> the : 1
+she reached the -> smashed : 1
+reached the smashed -> he : 1
+the smashed he -> offered : 1
+smashed he offered -> the : 1
+he offered the -> foot : 1
+offered the foot -> he : 1
+the foot he -> carried : 1
+foot he carried -> and : 1
+he carried and -> looked : 1
+carried and looked -> blankly : 1
+and looked blankly -> back : 1
+looked blankly back -> at : 1
+blankly back at -> her : 1
+back at her -> with : 1
+at her with -> tears : 1
+with tears streaming -> down : 1
+tears streaming down -> his : 1
+streaming down his -> are : 1
+down his are -> we : 1
+his are we -> going : 1
+to drin repeated -> pushing : 1
+drin repeated pushing -> the : 1
+repeated pushing the -> foot : 1
+pushing the foot -> as : 1
+the foot as -> no : 1
+foot as no -> coherent : 1
+as no coherent -> response : 1
+no coherent response -> was : 1
+coherent response was -> she : 1
+response was she -> moved : 1
+was she moved -> off : 1
+she moved off -> and : 1
+moved off and -> looked : 1
+off and looked -> for : 1
+and looked for -> someone : 1
+looked for someone -> else : 1
+for someone else -> to : 1
+someone else to -> grul : 1
+else to grul -> and : 1
+to grul and -> the : 1
+grul and the -> few : 1
+and the few -> remaining : 1
+the few remaining -> villagers : 1
+few remaining villagers -> had : 1
+remaining villagers had -> finally : 1
+villagers had finally -> built : 1
+had finally built -> a : 1
+finally built a -> massive : 1
+built a massive -> fire : 1
+a massive fire -> and : 1
+massive fire and -> gathered : 1
+fire and gathered -> around : 1
+and gathered around -> their : 1
+gathered around their -> senses : 1
+around their senses -> dulled : 1
+their senses dulled -> by : 1
+senses dulled by -> the : 1
+dulled by the -> events : 1
+by the events -> and : 1
+the events and -> large : 1
+events and large -> quantities : 1
+and large quantities -> of : 1
+large quantities of -> srad : 1
+large quantities of -> it : 1
+quantities of srad -> was : 1
+of srad was -> a : 1
+srad was a -> fruit : 1
+was a fruit -> with : 1
+a fruit with -> mildly : 1
+fruit with mildly -> narcotic : 1
+with mildly narcotic -> tonight : 1
+mildly narcotic tonight -> the : 1
+narcotic tonight the -> villagers : 1
+tonight the villagers -> ingested : 1
+the villagers ingested -> large : 1
+villagers ingested large -> quantities : 1
+ingested large quantities -> of : 1
+quantities of it -> in : 1
+of it in -> order : 1
+it in order -> to : 1
+in order to -> feel : 1
+in order to -> bring : 1
+order to feel -> the : 1
+to feel the -> narcotic : 1
+to feel the -> solidness : 1
+feel the narcotic -> drin : 1
+the narcotic drin -> lay : 1
+narcotic drin lay -> near : 1
+drin lay near -> the : 1
+lay near the -> watching : 1
+near the watching -> the : 1
+the watching the -> light : 1
+watching the light -> from : 1
+the light from -> the : 1
+light from the -> flames : 1
+from the flames -> dance : 1
+the flames dance -> across : 1
+flames dance across -> her : 1
+dance across her -> making : 1
+across her making -> patterns : 1
+her making patterns -> of : 1
+making patterns of -> shadow : 1
+patterns of shadow -> and : 1
+of shadow and -> light : 1
+shadow and light -> which : 1
+and light which -> her : 1
+light which her -> drugged : 1
+which her drugged -> senses : 1
+her drugged senses -> made : 1
+drugged senses made -> into : 1
+senses made into -> animals : 1
+made into animals -> she : 1
+into animals she -> her : 1
+animals she her -> drin : 1
+she her drin -> saw : 1
+her drin saw -> herself : 1
+drin saw herself -> running : 1
+saw herself running -> across : 1
+herself running across -> the : 1
+running across the -> chasing : 1
+across the chasing -> one : 1
+the chasing one -> of : 1
+chasing one of -> the : 1
+one of the -> small : 1
+one of the -> branches : 1
+one of the -> younger : 1
+one of the -> older : 1
+one of the -> gigantic : 1
+of the small -> lizards : 1
+the small lizards -> who : 1
+small lizards who -> the : 1
+lizards who the -> village : 1
+who the village -> relied : 1
+the village relied -> upon : 1
+village relied upon -> for : 1
+relied upon for -> grul : 1
+upon for grul -> and : 1
+for grul and -> two : 1
+grul and two -> vam : 1
+and two vam -> and : 1
+two vam and -> had : 1
+vam and had -> managed : 1
+and had managed -> to : 1
+had managed to -> chase : 1
+managed to chase -> one : 1
+to chase one -> away : 1
+chase one away -> from : 1
+one away from -> its : 1
+away from its -> pack : 1
+from its pack -> and : 1
+its pack and -> now : 1
+pack and now -> she : 1
+and now she -> was : 1
+now she was -> on : 1
+she was on -> its : 1
+was on its -> she : 1
+on its she -> held : 1
+its she held -> her : 1
+she held her -> long : 1
+held her long -> stick : 1
+her long stick -> loosely : 1
+her long stick -> fell : 1
+her long stick -> and : 1
+her long stick -> in : 1
+long stick loosely -> in : 1
+stick loosely in -> her : 1
+loosely in her -> hand : 1
+in her hand -> as : 1
+her hand as -> she : 1
+hand as she -> trotted : 1
+as she trotted -> after : 1
+she trotted after -> the : 1
+trotted after the -> green : 1
+after the green -> skinned : 1
+the green skinned -> her : 1
+green skinned her -> other : 1
+skinned her other -> hand : 1
+her other hand -> gripped : 1
+other hand gripped -> the : 1
+hand gripped the -> handle : 1
+gripped the handle -> of : 1
+the handle of -> her : 1
+handle of her -> valuable : 1
+of her valuable -> cutter : 1
+her valuable cutter -> tightly : 1
+valuable cutter tightly -> so : 1
+cutter tightly so -> she : 1
+tightly so she -> would : 1
+so she would -> not : 1
+she would not -> drop : 1
+would not drop -> the : 1
+not drop the -> cutter : 1
+drop the cutter -> was : 1
+the cutter was -> basically : 1
+cutter was basically -> a : 1
+was basically a -> hand : 1
+basically a hand -> axe : 1
+a hand axe -> with : 1
+hand axe with -> a : 1
+axe with a -> handle : 1
+with a handle -> as : 1
+a handle as -> long : 1
+handle as long -> as : 1
+as long as -> her : 1
+long as her -> forearm : 1
+as her forearm -> and : 1
+her forearm and -> a : 1
+forearm and a -> stone : 1
+and a stone -> axe : 1
+a stone axe -> hard : 1
+stone axe hard -> to : 1
+axe hard to -> make : 1
+hard to make -> and : 1
+to make and -> harder : 1
+make and harder -> to : 1
+and harder to -> drin : 1
+harder to drin -> knew : 1
+to drin knew -> the : 1
+drin knew the -> exact : 1
+knew the exact -> spot : 1
+the exact spot -> she : 1
+exact spot she -> had : 1
+spot she had -> to : 1
+she had to -> hit : 1
+had to hit -> with : 1
+to hit with -> the : 1
+hit with the -> long : 1
+with the long -> stick : 1
+the long stick -> in : 1
+long stick in -> order : 1
+long stick in -> one : 1
+stick in order -> to : 1
+order to bring -> the : 1
+to bring the -> creature : 1
+bring the creature -> when : 1
+the creature when -> the : 1
+creature when the -> lizard : 1
+when the lizard -> sprung : 1
+the lizard sprung -> up : 1
+lizard sprung up -> to : 1
+sprung up to -> clear : 1
+up to clear -> a : 1
+to clear a -> fallen : 1
+clear a fallen -> she : 1
+a fallen she -> launched : 1
+fallen she launched -> the : 1
+she launched the -> spear : 1
+launched the spear -> into : 1
+the spear into -> the : 1
+spear into the -> soft : 1
+into the soft -> flesh : 1
+the soft flesh -> of : 1
+soft flesh of -> its : 1
+flesh of its -> just : 1
+of its just -> forward : 1
+its just forward -> of : 1
+just forward of -> the : 1
+forward of the -> her : 1
+of the her -> drin : 1
+of the her -> head : 1
+the her drin -> imagined : 1
+her drin imagined -> cresting : 1
+drin imagined cresting -> the : 1
+imagined cresting the -> log : 1
+cresting the log -> only : 1
+the log only -> to : 1
+log only to -> see : 1
+only to see -> the : 1
+to see the -> small : 1
+to see the -> bulging : 1
+to see the -> big : 1
+to see the -> curls : 1
+see the small -> lizard : 1
+the small lizard -> begin : 1
+small lizard begin -> to : 1
+lizard begin to -> grow : 1
+begin to grow -> and : 1
+to grow and -> bones : 1
+grow and bones -> lengthening : 1
+and bones lengthening -> rapidly : 1
+bones lengthening rapidly -> and : 1
+lengthening rapidly and -> pushing : 1
+rapidly and pushing -> the : 1
+and pushing the -> flesh : 1
+pushing the flesh -> out : 1
+the flesh out -> at : 1
+flesh out at -> odd : 1
+out at odd -> her : 1
+at odd her -> long : 1
+odd her long -> stick : 1
+long stick fell -> uselessly : 1
+stick fell uselessly -> to : 1
+fell uselessly to -> the : 1
+uselessly to the -> ground : 1
+to the ground -> as : 2
+the ground as -> the : 1
+the ground as -> she : 1
+ground as the -> thing : 1
+as the thing -> morphed : 1
+the thing morphed -> into : 1
+thing morphed into -> a : 1
+morphed into a -> big : 1
+into a big -> big : 1
+a big big -> lizard : 1
+big big lizard -> which : 1
+big lizard which -> had : 1
+lizard which had -> killed : 1
+which had killed -> her : 1
+had killed her -> mother : 1
+killed her mother -> and : 1
+her mother and -> smashed : 1
+mother and smashed -> her : 1
+and smashed her -> fear : 1
+smashed her fear -> gnawed : 1
+her fear gnawed -> at : 1
+fear gnawed at -> her : 1
+gnawed at her -> insides : 1
+at her insides -> as : 1
+her insides as -> finally : 1
+insides as finally -> managed : 1
+as finally managed -> to : 1
+finally managed to -> turn : 1
+managed to turn -> and : 1
+to turn and -> run : 2
+turn and run -> just : 1
+turn and run -> if : 1
+and run just -> as : 1
+run just as -> the : 1
+just as the -> big : 1
+big lizard gained -> its : 1
+lizard gained its -> huge : 1
+gained its huge -> back : 1
+its huge back -> legs : 1
+huge back legs -> and : 1
+back legs and -> the : 1
+legs and the -> feet : 1
+and the feet -> which : 1
+the feet which -> could : 1
+feet which could -> smash : 1
+which could smash -> the : 1
+could smash the -> life : 1
+smash the life -> from : 1
+the life from -> her : 1
+life from her -> with : 1
+from her with -> body : 1
+her with body -> began : 1
+with body began -> panting : 1
+body began panting -> as : 1
+began panting as -> she : 1
+panting as she -> glassy : 1
+as she glassy -> by : 1
+she glassy by -> the : 1
+glassy by the -> in : 1
+by the in -> the : 1
+the in the -> her : 1
+in the her -> lungs : 1
+in the her -> fair : 1
+the her lungs -> burned : 1
+her lungs burned -> for : 1
+lungs burned for -> air : 1
+burned for air -> as : 1
+for air as -> she : 1
+air as she -> ran : 1
+as she ran -> headlong : 1
+as she ran -> and : 1
+she ran headlong -> through : 1
+ran headlong through -> the : 2
+headlong through the -> vines : 1
+headlong through the -> screaming : 1
+through the vines -> snagged : 1
+the vines snagged -> at : 1
+vines snagged at -> her : 1
+snagged at her -> hair : 1
+at her hair -> and : 1
+her hair and -> branches : 1
+hair and branches -> slapped : 1
+and branches slapped -> her : 1
+branches slapped her -> face : 1
+slapped her face -> as : 1
+her face as -> she : 1
+face as she -> one : 1
+as she one -> of : 1
+she one of -> the : 1
+of the branches -> driving : 1
+the branches driving -> the : 1
+branches driving the -> serrated : 1
+driving the serrated -> edge : 1
+the serrated edge -> of : 1
+serrated edge of -> a : 1
+edge of a -> leaf : 1
+of a leaf -> painfully : 1
+a leaf painfully -> into : 1
+leaf painfully into -> her : 1
+painfully into her -> the : 1
+into her the -> sharp : 1
+her the sharp -> edge : 1
+the sharp edge -> dragging : 1
+sharp edge dragging -> across : 1
+edge dragging across -> the : 1
+dragging across the -> soft : 1
+across the soft -> she : 1
+the soft she -> both : 1
+soft she both -> in : 1
+she both in -> the : 1
+both in the -> hallucination : 1
+in the hallucination -> and : 1
+the hallucination and -> in : 1
+hallucination and in -> still : 1
+and in still -> the : 1
+in still the -> tyrannosaurus : 1
+still the tyrannosaurus -> rex : 1
+the tyrannosaurus rex -> chased : 1
+the tyrannosaurus rex -> struck : 1
+the tyrannosaurus rex -> had : 1
+the tyrannosaurus rex -> yelled : 1
+tyrannosaurus rex chased -> her : 1
+rex chased her -> across : 1
+chased her across -> the : 1
+her across the -> landscape : 1
+across the landscape -> of : 1
+the landscape of -> her : 1
+landscape of her -> drugged : 1
+of her drugged -> her : 1
+her drugged her -> surroundings : 1
+drugged her surroundings -> changed : 1
+her surroundings changed -> blurring : 1
+surroundings changed blurring -> and : 1
+changed blurring and -> altering : 1
+blurring and altering -> into : 1
+and altering into -> a : 1
+altering into a -> rocky : 1
+into a rocky -> mountain : 1
+a rocky mountain -> path : 1
+rocky mountain path -> where : 1
+mountain path where -> the : 1
+path where the -> jagged : 1
+where the jagged -> pebbles : 1
+the jagged pebbles -> which : 1
+jagged pebbles which -> littered : 1
+pebbles which littered -> the : 1
+which littered the -> floor : 1
+littered the floor -> slashed : 1
+the floor slashed -> viciously : 1
+floor slashed viciously -> at : 1
+slashed viciously at -> the : 1
+viciously at the -> bare : 1
+at the bare -> skin : 1
+the bare skin -> of : 1
+bare skin of -> her : 1
+skin of her -> the : 1
+of her the -> big : 1
+her the big -> lizard : 1
+big lizard came -> for : 1
+lizard came for -> its : 1
+came for its -> long : 1
+for its long -> teeth : 1
+its long teeth -> bared : 1
+long teeth bared -> in : 1
+teeth bared in -> rage : 1
+bared in rage -> as : 1
+in rage as -> it : 1
+rage as it -> scrabbled : 1
+as it scrabbled -> up : 1
+it scrabbled up -> the : 1
+scrabbled up the -> path : 1
+up the path -> toward : 1
+the path toward -> drin : 1
+path toward drin -> ran : 1
+toward drin ran -> beginning : 1
+drin ran beginning -> to : 1
+ran beginning to -> hobble : 1
+beginning to hobble -> on : 1
+to hobble on -> her : 1
+hobble on her -> bloodied : 1
+on her bloodied -> and : 1
+her bloodied and -> torn : 1
+bloodied and torn -> next : 1
+and torn next -> to : 1
+torn next to -> the : 1
+next to the -> her : 1
+to the her -> body : 1
+to the her -> used : 1
+the her body -> had : 1
+her body had -> curled : 1
+body had curled -> into : 1
+had curled into -> a : 1
+curled into a -> fetal : 1
+into a fetal -> position : 1
+a fetal position -> and : 1
+fetal position and -> was : 1
+position and was -> whimpering : 1
+and was whimpering -> though : 1
+was whimpering though -> none : 1
+whimpering though none -> of : 1
+though none of -> her : 1
+none of her -> village : 1
+of her village -> mates : 2
+of her village -> with : 1
+her village mates -> knew : 1
+her village mates -> to : 1
+village mates knew -> or : 1
+mates knew or -> when : 1
+knew or when -> you : 1
+or when you -> took : 1
+when you took -> the : 1
+you took the -> you : 1
+took the you -> were : 1
+the you were -> left : 1
+you were left -> drin : 1
+were left drin -> ran : 1
+left drin ran -> until : 1
+drin ran until -> her : 1
+ran until her -> legs : 1
+until her legs -> would : 1
+her legs would -> no : 1
+legs would no -> longer : 1
+would no longer -> function : 1
+no longer function -> from : 1
+longer function from -> the : 1
+function from the -> pain : 1
+from the pain -> and : 1
+the pain and -> damage : 1
+pain and damage -> wrought : 1
+and damage wrought -> on : 1
+damage wrought on -> her : 1
+wrought on her -> she : 1
+on her she -> managed : 1
+her she managed -> to : 1
+she managed to -> hobble : 1
+she managed to -> bring : 1
+managed to hobble -> and : 1
+to hobble and -> move : 1
+hobble and move -> up : 1
+and move up -> the : 1
+move up the -> grey : 1
+up the grey -> rocks : 1
+the grey rocks -> of : 1
+grey rocks of -> the : 1
+rocks of the -> away : 1
+of the away -> from : 1
+the away from -> the : 1
+away from the -> wrath : 1
+from the wrath -> of : 1
+the wrath of -> the : 1
+wrath of the -> big : 1
+of the big -> the : 2
+of the big -> lizard : 5
+of the big -> it : 1
+the big the -> scene : 1
+the big the -> light : 1
+big the scene -> altered : 1
+the scene altered -> once : 1
+scene altered once -> more : 1
+altered once more -> and : 1
+once more and -> drin : 1
+more and drin -> found : 1
+and drin found -> herself : 1
+drin found herself -> back : 1
+drin found herself -> climbing : 1
+found herself back -> in : 1
+herself back in -> her : 1
+back in her -> the : 1
+in her the -> huts : 1
+her the huts -> were : 1
+the huts were -> intact : 1
+huts were intact -> and : 1
+were intact and -> her : 1
+intact and her -> people : 1
+and her people -> were : 1
+her people were -> still : 1
+people were still -> for : 1
+were still for -> ran : 1
+still for ran -> headlong : 1
+for ran headlong -> through : 1
+through the screaming -> a : 1
+the screaming a -> warning : 1
+screaming a warning -> to : 1
+a warning to -> all : 1
+warning to all -> those : 1
+to all those -> who : 1
+all those who -> would : 1
+those who would -> not : 1
+who would not -> one : 1
+would not one -> of : 1
+not one of -> her : 1
+of her friends -> took : 1
+her friends took -> any : 1
+friends took any -> she : 1
+took any she -> reached : 1
+any she reached -> her : 1
+she reached her -> home : 1
+reached her home -> and : 1
+her home and -> dashed : 1
+home and dashed -> inside : 1
+and dashed inside -> to : 1
+dashed inside to -> find : 1
+inside to find -> her : 1
+to find her -> mother : 1
+find her mother -> engaged : 1
+her mother engaged -> in : 1
+mother engaged in -> some : 1
+engaged in some -> pointless : 1
+in some pointless -> task : 1
+some pointless task -> and : 1
+pointless task and -> shouted : 1
+task and shouted -> at : 1
+and shouted at -> her : 1
+shouted at her -> to : 1
+at her to -> mother : 1
+her to mother -> simply : 1
+to mother simply -> continued : 1
+mother simply continued -> her : 1
+simply continued her -> mindless : 1
+continued her mindless -> task : 1
+her mindless task -> until : 1
+mindless task until -> she : 1
+task until she -> heard : 1
+until she heard -> the : 1
+she heard the -> screaming : 1
+she heard the -> beast : 1
+heard the screaming -> roar : 1
+the screaming roar -> of : 1
+screaming roar of -> the : 1
+roar of the -> big : 1
+big lizard coming -> from : 1
+lizard coming from -> the : 1
+coming from the -> eastern : 1
+from the eastern -> end : 1
+the eastern end -> of : 1
+eastern end of -> the : 1
+end of the -> her : 1
+the her head -> snapped : 1
+her head snapped -> eyes : 1
+head snapped eyes -> wide : 1
+snapped eyes wide -> as : 1
+eyes wide as -> terror : 1
+wide as terror -> shot : 1
+as terror shot -> through : 1
+terror shot through -> her : 1
+shot through her -> and : 1
+through her and -> drin : 1
+her and drin -> watched : 1
+and drin watched -> as : 1
+drin watched as -> her : 1
+watched as her -> mother : 1
+as her mother -> stepped : 1
+her mother stepped -> outside : 1
+mother stepped outside -> the : 1
+stepped outside the -> hut : 1
+outside the hut -> to : 1
+the hut to -> be : 1
+hut to be -> savaged : 1
+to be savaged -> by : 1
+be savaged by -> the : 1
+savaged by the -> huge : 1
+by the huge -> jaws : 1
+the huge jaws -> of : 1
+huge jaws of -> the : 1
+jaws of the -> slavering : 1
+of the slavering -> drin : 1
+the slavering drin -> screamed : 1
+slavering drin screamed -> and : 1
+drin screamed and -> screamed : 1
+drin screamed and -> cried : 1
+screamed and screamed -> as : 1
+and screamed as -> her : 1
+screamed as her -> body : 1
+as her body -> was : 1
+her body was -> ground : 1
+body was ground -> into : 1
+was ground into -> mince : 1
+ground into mince -> by : 1
+into mince by -> the : 1
+mince by the -> vast : 1
+by the vast -> maw : 1
+the vast maw -> of : 1
+vast maw of -> the : 1
+maw of the -> big : 1
+big the light -> of : 1
+the light of -> the : 1
+light of the -> dying : 1
+of the dying -> screams : 1
+the dying screams -> rent : 1
+dying screams rent -> the : 1
+screams rent the -> causing : 1
+rent the causing -> a : 1
+the causing a -> few : 1
+causing a few -> of : 1
+a few of -> her : 1
+few of her -> village : 1
+village mates to -> groan : 1
+mates to groan -> and : 1
+to groan and -> turn : 1
+groan and turn -> in : 1
+and turn in -> their : 1
+turn in their -> own : 1
+in their own -> drug : 1
+their own drug -> induced : 1
+own drug induced -> morning : 1
+drug induced morning -> dawned : 1
+induced morning dawned -> bright : 1
+morning dawned bright -> and : 1
+dawned bright and -> birds : 1
+bright and birds -> singing : 1
+and birds singing -> in : 1
+birds singing in -> the : 1
+singing in the -> trees : 1
+in the trees -> as : 1
+in the trees -> where : 1
+the trees as -> a : 1
+the trees as -> she : 1
+trees as a -> gentle : 1
+as a gentle -> breeze : 1
+a gentle breeze -> ruffled : 1
+gentle breeze ruffled -> waking : 1
+breeze ruffled waking -> she : 1
+ruffled waking she -> stretched : 1
+waking she stretched -> and : 1
+she stretched and -> trying : 1
+stretched and trying -> to : 1
+and trying to -> shake : 1
+trying to shake -> off : 1
+to shake off -> the : 1
+shake off the -> effects : 1
+off the effects -> of : 1
+the effects of -> her : 1
+effects of her -> narcotic : 1
+of her narcotic -> induced : 1
+her narcotic induced -> grul : 1
+narcotic induced grul -> approached : 1
+induced grul approached -> and : 1
+grul approached and -> stared : 1
+approached and stared -> at : 1
+and stared at -> her : 1
+stared at her -> pert : 1
+stared at her -> are : 1
+at her pert -> breasts : 1
+her pert breasts -> hungrily : 1
+pert breasts hungrily -> before : 1
+breasts hungrily before -> he : 1
+hungrily before he -> offered : 1
+before he offered -> her : 1
+he offered her -> some : 1
+offered her some -> water : 1
+her some water -> in : 1
+some water in -> a : 1
+water in a -> stone : 1
+in a stone -> drin : 1
+a stone drin -> dipped : 1
+stone drin dipped -> her : 1
+drin dipped her -> fingers : 1
+dipped her fingers -> into : 1
+her fingers into -> the : 1
+fingers into the -> cool : 1
+into the cool -> water : 1
+the cool water -> and : 1
+cool water and -> splashed : 1
+water and splashed -> some : 1
+and splashed some -> on : 1
+splashed some on -> her : 1
+some on her -> drinking : 1
+on her drinking -> from : 1
+her drinking from -> the : 1
+drinking from the -> bowl : 1
+from the bowl -> as : 1
+the bowl as -> grul : 1
+bowl as grul -> stared : 1
+as grul stared -> at : 1
+grul stared at -> her : 1
+at her are -> we : 1
+her are we -> going : 1
+to drin asked -> do : 1
+drin asked do -> you : 1
+asked do you -> ask : 1
+do you ask -> the : 1
+you ask the -> burly : 1
+ask the burly -> man : 1
+the burly man -> not : 1
+burly man not -> know : 1
+man not know -> what : 1
+not know what -> to : 1
+know what to -> his : 1
+what to his -> eyes : 1
+to his eyes -> traveled : 1
+his eyes traveled -> over : 1
+eyes traveled over -> her : 1
+traveled over her -> curves : 1
+over her curves -> and : 1
+her curves and -> muscular : 1
+curves and muscular -> saying : 1
+and muscular saying -> without : 1
+muscular saying without -> words : 1
+saying without words -> exactly : 1
+without words exactly -> what : 1
+words exactly what -> he : 1
+exactly what he -> wished : 1
+what he wished -> to : 1
+he wished to -> drin : 1
+wished to drin -> was : 1
+to drin was -> used : 1
+drin was used -> to : 1
+was used to -> being : 1
+used to being -> stared : 1
+to being stared -> at : 1
+being stared at -> by : 1
+stared at by -> from : 1
+at by from -> the : 1
+by from the -> time : 1
+from the time -> of : 1
+the time of -> her : 1
+time of her -> first : 1
+of her first -> blood : 1
+her first blood -> she : 1
+first blood she -> had : 1
+blood she had -> had : 1
+she had had -> offers : 1
+had had offers -> to : 1
+had offers to -> share : 1
+offers to share -> the : 1
+to share the -> beds : 1
+share the beds -> of : 1
+the beds of -> the : 1
+beds of the -> various : 1
+of the various -> men : 1
+the various men -> in : 1
+various men in -> the : 1
+men in the -> she : 1
+in the she -> had : 1
+in the she -> began : 1
+the she had -> waited : 1
+the she had -> covered : 1
+she had waited -> until : 1
+had waited until -> she : 1
+waited until she -> was : 1
+until she was -> older : 1
+she was older -> before : 1
+was older before -> she : 1
+older before she -> had : 1
+before she had -> allowed : 1
+she had allowed -> one : 1
+had allowed one -> of : 1
+allowed one of -> the : 1
+of the younger -> men : 1
+the younger men -> to : 1
+younger men to -> have : 1
+men to have -> the : 1
+to have the -> whole : 1
+have the whole -> experience : 1
+the whole experience -> had : 1
+whole experience had -> been : 1
+experience had been -> thoroughly : 1
+had been thoroughly -> boring : 1
+been thoroughly boring -> and : 1
+thoroughly boring and -> painful : 1
+boring and painful -> to : 1
+and painful to -> drin : 1
+painful to drin -> and : 1
+to drin and -> she : 1
+to drin and -> looked : 1
+drin and she -> had : 1
+and she had -> not : 1
+and she had -> the : 1
+she had not -> bothered : 1
+had not bothered -> to : 1
+not bothered to -> do : 1
+bothered to do -> it : 1
+to do it -> all : 1
+do it all -> that : 1
+it all that -> she : 1
+all that she -> needed : 1
+that she needed -> to : 1
+she needed to -> be : 1
+needed to be -> happy : 1
+to be happy -> was : 1
+be happy was -> the : 1
+happy was the -> thrill : 1
+was the thrill -> of : 1
+the thrill of -> the : 2
+thrill of the -> rose : 1
+thrill of the -> drin : 1
+of the rose -> and : 1
+the rose and -> shoved : 1
+rose and shoved -> the : 1
+and shoved the -> bowl : 1
+shoved the bowl -> back : 1
+the bowl back -> into : 1
+bowl back into -> hands : 1
+back into hands -> before : 1
+into hands before -> making : 1
+hands before making -> her : 1
+before making her -> way : 1
+making her way -> across : 1
+making her way -> along : 1
+her way across -> to : 1
+way across to -> another : 1
+across to another -> group : 1
+to another group -> of : 1
+another group of -> people : 1
+group of people -> who : 1
+of people who -> were : 1
+people who were -> talking : 1
+people who were -> taking : 1
+who were talking -> quietly : 1
+were talking quietly -> among : 1
+talking quietly among -> are : 1
+quietly among are -> we : 1
+among are we -> going : 1
+going to do -> about : 1
+to do about -> the : 1
+do about the -> big : 1
+about the big -> blank : 1
+the big blank -> stares : 1
+big blank stares -> were : 1
+blank stares were -> all : 1
+stares were all -> the : 1
+were all the -> response : 1
+all the response -> she : 1
+the response she -> must : 1
+response she must -> kill : 1
+she must kill -> drin : 1
+must kill drin -> for : 1
+kill drin for -> our : 1
+drin for our -> for : 1
+for our for -> our : 1
+our for our -> drin : 1
+for our drin -> was : 1
+our drin was -> angry : 1
+drin was angry -> why : 1
+was angry why -> did : 1
+angry why did -> these : 1
+why did these -> pathetic : 1
+did these pathetic -> fools : 1
+these pathetic fools -> believe : 1
+pathetic fools believe -> they : 1
+fools believe they -> were : 1
+believe they were -> safe : 1
+they were safe -> happens : 1
+were safe happens -> when : 1
+safe happens when -> it : 1
+happens when it -> comes : 1
+when it comes -> the : 1
+it comes the -> comment : 1
+comes the comment -> was : 1
+the comment was -> greeted : 1
+comment was greeted -> by : 1
+was greeted by -> some : 1
+greeted by some -> grumbling : 1
+by some grumbling -> responses : 1
+some grumbling responses -> and : 1
+grumbling responses and -> a : 1
+responses and a -> few : 1
+and a few -> shouts : 1
+a few shouts -> of : 1
+few shouts of -> drin : 1
+shouts of drin -> held : 1
+of drin held -> up : 1
+drin held up -> her : 1
+held up her -> priceless : 1
+up her priceless -> cutter : 1
+her priceless cutter -> and : 1
+priceless cutter and -> shouted : 1
+cutter and shouted -> want : 1
+and shouted want -> a : 1
+shouted want a -> after : 1
+want a after -> a : 1
+a after a -> pitiful : 1
+after a pitiful -> meal : 1
+a pitiful meal -> of : 1
+pitiful meal of -> a : 1
+meal of a -> few : 1
+of a few -> scraps : 1
+a few scraps -> of : 1
+few scraps of -> scavenged : 1
+scraps of scavenged -> meat : 1
+of scavenged meat -> and : 1
+scavenged meat and -> collected : 1
+meat and collected -> berries : 1
+and collected berries -> washed : 1
+collected berries washed -> down : 1
+berries washed down -> with : 1
+washed down with -> river : 1
+down with river -> drin : 1
+with river drin -> approached : 1
+river drin approached -> the : 1
+drin approached the -> circle : 1
+approached the circle -> of : 1
+the circle of -> men : 1
+circle of men -> and : 1
+of men and -> women : 1
+men and women -> who : 1
+and women who -> had : 1
+women who had -> gathered : 1
+who had gathered -> at : 1
+had gathered at -> her : 1
+gathered at her -> as : 1
+at her as -> the : 1
+at her as -> if : 1
+her as the -> ruling : 1
+as the ruling -> elders : 1
+the ruling elders -> had : 1
+ruling elders had -> all : 1
+elders had all -> been : 1
+had all been -> at : 1
+all been at -> least : 1
+been at least -> there : 1
+at least there -> was : 1
+least there was -> no : 1
+there was no -> one : 1
+there was no -> escape : 1
+there was no -> way : 1
+was no one -> to : 1
+no one to -> preside : 1
+one to preside -> over : 1
+to preside over -> the : 1
+preside over the -> so : 1
+over the so -> grul : 1
+the so grul -> had : 1
+so grul had -> been : 1
+grul had been -> promoted : 1
+grul had been -> drin : 1
+had been promoted -> as : 1
+been promoted as -> one : 1
+promoted as one -> of : 1
+as one of -> the : 1
+of the older -> men : 1
+the older men -> here : 1
+older men here -> and : 1
+men here and -> a : 1
+here and a -> alongside : 1
+and a alongside -> him : 1
+a alongside him -> was : 1
+alongside him was -> a : 1
+him was a -> woman : 1
+was a woman -> of : 1
+a woman of -> thirty : 1
+woman of thirty -> summers : 1
+of thirty summers -> named : 1
+thirty summers named -> srie : 1
+summers named srie -> had : 1
+named srie had -> lost : 1
+srie had lost -> all : 1
+had lost all -> her : 1
+lost all her -> either : 1
+all her either -> on : 1
+her either on -> the : 1
+either on the -> hunt : 1
+on the hunt -> or : 1
+on the hunt -> to : 1
+on the hunt -> many : 1
+the hunt or -> to : 1
+hunt or to -> the : 1
+or to the -> big : 1
+to the big -> lizard : 1
+big lizard and -> drin : 1
+big lizard and -> their : 1
+lizard and drin -> had : 1
+and drin had -> no : 1
+drin had no -> idea : 1
+had no idea -> what : 1
+no idea what -> she : 1
+idea what she -> might : 1
+what she might -> each : 1
+she might each -> member : 1
+might each member -> of : 1
+each member of -> the : 1
+each member of -> her : 1
+member of the -> village : 1
+of the village -> who : 1
+the village who -> had : 1
+village who had -> seen : 1
+who had seen -> more : 1
+had seen more -> than : 1
+seen more than -> thirteen : 1
+more than thirteen -> summers : 1
+than thirteen summers -> could : 1
+thirteen summers could -> speak : 1
+summers could speak -> their : 1
+could speak their -> mind : 1
+speak their mind -> at : 1
+their mind at -> the : 1
+mind at the -> guiding : 1
+at the guiding -> the : 1
+the guiding the -> lives : 1
+guiding the lives -> of : 1
+the lives of -> all : 1
+lives of all -> the : 1
+of all the -> villagers : 1
+all the villagers -> and : 1
+the villagers and -> helping : 1
+villagers and helping -> to : 1
+and helping to -> shape : 1
+helping to shape -> the : 1
+to shape the -> future : 1
+shape the future -> of : 1
+the future of -> stepped : 1
+future of stepped -> into : 1
+of stepped into -> the : 1
+stepped into the -> center : 1
+into the center -> of : 1
+the center of -> the : 2
+center of the -> circle : 1
+center of the -> forming : 1
+of the circle -> and : 1
+the circle and -> held : 1
+circle and held -> her : 1
+and held her -> cutter : 1
+held her cutter -> turning : 1
+her cutter turning -> in : 1
+cutter turning in -> a : 1
+turning in a -> slow : 1
+in a slow -> revolution : 1
+a slow revolution -> and : 1
+slow revolution and -> making : 1
+revolution and making -> eye : 1
+and making eye -> contact : 1
+making eye contact -> with : 1
+eye contact with -> each : 1
+contact with each -> member : 1
+with each member -> of : 1
+member of her -> reduced : 1
+of her reduced -> she : 1
+her reduced she -> used : 1
+reduced she used -> her : 1
+she used her -> cutter : 1
+used her cutter -> to : 1
+her cutter to -> punctuate : 1
+cutter to punctuate -> her : 1
+to punctuate her -> speech : 1
+punctuate her speech -> as : 1
+her speech as -> she : 1
+speech as she -> called : 1
+as she called -> to : 1
+she called to -> the : 1
+called to the -> small : 1
+to the small -> group : 1
+the small group -> sitting : 1
+small group sitting -> around : 1
+group sitting around -> am : 1
+sitting around am -> chief : 1
+around am chief -> huntress : 1
+am chief huntress -> and : 1
+chief huntress and -> second : 1
+huntress and second -> only : 1
+and second only -> on : 1
+second only on -> the : 1
+only on the -> hunt : 1
+the hunt to -> she : 1
+hunt to she -> thrust : 1
+to she thrust -> her : 1
+she thrust her -> cutter : 1
+thrust her cutter -> at : 1
+her cutter at -> the : 1
+cutter at the -> older : 1
+at the older -> called : 1
+the older called -> this : 1
+older called this -> meet : 1
+called this meet -> to : 1
+this meet to -> tell : 1
+meet to tell -> all : 1
+to tell all -> gathered : 1
+tell all gathered -> that : 1
+all gathered that -> we : 1
+gathered that we -> must : 1
+that we must -> kill : 1
+we must kill -> the : 1
+must kill the -> big : 1
+kill the big -> there : 1
+the big there -> was : 1
+big there was -> a : 1
+there was a -> grumble : 1
+there was a -> hole : 1
+was a grumble -> from : 1
+a grumble from -> the : 1
+grumble from the -> assembled : 1
+from the assembled -> most : 1
+the assembled most -> of : 1
+assembled most of -> whom : 1
+most of whom -> knew : 1
+of whom knew -> why : 1
+whom knew why -> they : 1
+knew why they -> were : 1
+why they were -> drin : 1
+they were drin -> say : 1
+were drin say -> this : 1
+drin say this -> because : 1
+say this because -> the : 1
+this because the -> big : 1
+because the big -> lizard : 1
+big lizard will -> return : 1
+lizard will return -> to : 1
+will return to -> finish : 1
+return to finish -> what : 1
+to finish what -> it : 1
+finish what it -> the : 1
+what it the -> grumbles : 1
+it the grumbles -> came : 1
+the grumbles came -> once : 1
+grumbles came once -> punctuated : 1
+came once punctuated -> now : 1
+once punctuated now -> by : 1
+punctuated now by -> shouts : 1
+now by shouts -> and : 1
+by shouts and -> calls : 1
+shouts and calls -> of : 1
+and calls of -> no : 1
+calls of no -> one : 1
+of no one -> wished : 1
+no one wished -> a : 1
+one wished a -> repeat : 1
+wished a repeat -> of : 1
+a repeat of -> must : 1
+repeat of must -> make : 1
+of must make -> sure : 1
+must make sure -> the : 1
+make sure the -> big : 1
+sure the big -> lizard : 1
+big lizard does -> not : 1
+lizard does not -> return : 1
+does not return -> to : 1
+not return to -> kill : 1
+return to kill -> our : 1
+to kill our -> people : 1
+kill our people -> should : 1
+our people should -> make : 1
+people should make -> plans : 1
+should make plans -> and : 1
+make plans and -> srie : 1
+plans and srie -> have : 1
+and srie have -> no : 1
+srie have no -> one : 1
+have no one -> left : 1
+no one left -> to : 1
+one left to -> grieve : 1
+left to grieve -> the : 1
+to grieve the -> big : 1
+grieve the big -> lizard : 1
+big lizard has -> taken : 1
+big lizard has -> found : 1
+lizard has taken -> the : 1
+has taken the -> last : 1
+taken the last -> of : 1
+the last of -> my : 1
+last of my -> family : 1
+of my family -> and : 1
+my family and -> but : 1
+family and but -> my : 1
+and but my -> heart : 1
+but my heart -> goes : 1
+my heart goes -> out : 1
+heart goes out -> to : 1
+goes out to -> the : 1
+out to the -> rest : 1
+to the rest -> of : 1
+the rest of -> how : 1
+the rest of -> the : 1
+rest of how -> many : 1
+of how many -> more : 1
+how many more -> children : 1
+many more children -> must : 1
+more children must -> how : 1
+children must how -> many : 1
+must how many -> bed : 1
+how many bed -> srie : 1
+many bed srie -> pointed : 1
+bed srie pointed -> at : 1
+srie pointed at -> the : 1
+pointed at the -> huntress : 1
+at the huntress -> calls : 1
+the huntress calls -> for : 1
+huntress calls for -> revenge : 1
+calls for revenge -> and : 1
+for revenge and -> i : 1
+revenge and i -> understand : 1
+and i understand -> her : 1
+i understand her -> but : 1
+understand her but -> i : 1
+her but i -> see : 1
+but i see -> how : 1
+i see how -> we : 1
+see how we -> can : 1
+how we can -> kill : 1
+we can kill -> we : 1
+can kill we -> should : 1
+kill we should -> injure : 1
+we should injure -> it : 1
+should injure it -> so : 1
+injure it so -> that : 1
+it so that -> it : 1
+so that it -> never : 1
+that it never -> comes : 1
+it never comes -> drin : 1
+never comes drin -> what : 1
+comes drin what -> do : 1
+drin what do -> you : 1
+what do you -> the : 1
+do you the -> gruff : 1
+you the gruff -> man : 1
+the gruff man -> looked : 1
+gruff man looked -> as : 1
+man looked as -> if : 1
+as if he -> would : 1
+if he would -> like : 1
+he would like -> to : 1
+would like to -> be : 1
+like to be -> anywhere : 1
+to be anywhere -> but : 1
+be anywhere but -> he : 1
+anywhere but he -> allowing : 1
+but he allowing -> everyone : 1
+he allowing everyone -> to : 1
+allowing everyone to -> see : 1
+everyone to see -> the : 1
+see the bulging -> muscles : 1
+the bulging muscles -> and : 1
+bulging muscles and -> battle : 1
+muscles and battle -> scars : 1
+and battle scars -> which : 1
+battle scars which -> showed : 1
+scars which showed -> he : 1
+which showed he -> had : 1
+showed he had -> led : 1
+he had led -> a : 1
+had led a -> think : 1
+led a think -> drin : 1
+a think drin -> is : 1
+think drin is -> there : 1
+drin is there -> was : 1
+is there was -> uproar : 1
+there was uproar -> at : 1
+was uproar at -> the : 1
+uproar at the -> grul : 1
+at the grul -> raised : 1
+the grul raised -> his : 1
+grul raised his -> hands : 1
+raised his hands -> for : 1
+his hands for -> think : 1
+hands for think -> srie : 1
+for think srie -> is : 1
+think srie is -> right : 1
+srie is right -> statement : 1
+is right statement -> was : 1
+right statement was -> followed : 1
+statement was followed -> by : 1
+was followed by -> confused : 1
+followed by confused -> whispers : 1
+by confused whispers -> and : 1
+confused whispers and -> murmuring : 1
+whispers and murmuring -> before : 1
+and murmuring before -> an : 1
+murmuring before an -> unknown : 1
+before an unknown -> someone : 1
+an unknown someone -> burly : 1
+unknown someone burly -> man : 1
+someone burly man -> scanned : 1
+burly man scanned -> the : 1
+man scanned the -> looking : 1
+scanned the looking -> for : 1
+the looking for -> the : 1
+looking for the -> grul : 1
+for the grul -> grul : 1
+the grul grul -> explained : 1
+grul grul explained -> has : 1
+grul explained has -> good : 1
+explained has good -> thought : 1
+has good thought -> for : 1
+has good thought -> in : 1
+good thought for -> killing : 1
+thought for killing -> big : 1
+for killing big -> srie : 1
+killing big srie -> also : 1
+big srie also -> has : 1
+srie also has -> good : 1
+also has good -> thought : 1
+good thought in -> saying : 1
+thought in saying -> we : 1
+in saying we -> fight : 1
+saying we fight -> big : 1
+we fight big -> we : 1
+fight big we -> are : 1
+big we are -> he : 1
+we are he -> is : 1
+are he is -> we : 1
+he is we -> as : 1
+is we as -> easily : 1
+we as easily -> as : 1
+as easily as -> plans : 1
+easily as plans -> for : 1
+as plans for -> revenge : 1
+plans for revenge -> died : 1
+for revenge died -> as : 1
+revenge died as -> almost : 1
+died as almost -> the : 1
+as almost the -> entire : 1
+almost the entire -> village : 1
+the entire village -> voted : 1
+entire village voted -> against : 1
+village voted against -> hunting : 1
+voted against hunting -> the : 1
+against hunting the -> big : 1
+hunting the big -> group : 1
+the big group -> of : 1
+big group of -> settlers : 1
+group of settlers -> decided : 1
+of settlers decided -> on : 1
+settlers decided on -> moving : 1
+decided on moving -> to : 1
+on moving to -> hopefully : 1
+moving to hopefully -> they : 1
+to hopefully they -> packed : 1
+hopefully they packed -> up : 1
+they packed up -> what : 1
+packed up what -> meager : 1
+up what meager -> belongings : 1
+what meager belongings -> they : 1
+meager belongings they -> could : 1
+belongings they could -> find : 1
+they could find -> and : 1
+could find and -> set : 1
+find and set -> out : 1
+and set out -> on : 1
+set out on -> the : 2
+out on the -> long : 1
+out on the -> chasing : 1
+on the long -> they : 1
+the long they -> spent : 1
+long they spent -> four : 1
+they spent four -> days : 1
+spent four days -> and : 1
+four days and -> four : 1
+days and four -> nights : 1
+and four nights -> in : 1
+four nights in -> the : 1
+nights in the -> shuffling : 1
+in the shuffling -> quietly : 1
+the shuffling quietly -> along : 1
+shuffling quietly along -> so : 1
+quietly along so -> that : 1
+along so that -> the : 1
+so that the -> animals : 1
+that the animals -> around : 1
+the animals around -> them : 1
+animals around them -> did : 1
+around them did -> not : 1
+them did not -> detect : 1
+did not detect -> their : 1
+not detect their -> on : 1
+detect their on -> the : 1
+their on the -> dawning : 1
+on the dawning -> of : 1
+the dawning of -> the : 1
+dawning of the -> fifth : 1
+of the fifth -> the : 1
+the fifth the -> group : 1
+fifth the group -> of : 1
+the group of -> dispossessed : 1
+group of dispossessed -> people : 1
+of dispossessed people -> came : 1
+dispossessed people came -> to : 1
+people came to -> a : 1
+came to a -> flat : 1
+to a flat -> plain : 1
+a flat plain -> with : 1
+flat plain with -> a : 1
+plain with a -> river : 1
+with a river -> running : 1
+a river running -> alongside : 1
+river running alongside -> immediately : 1
+running alongside immediately -> set : 1
+alongside immediately set -> out : 1
+immediately set out -> on : 1
+on the chasing -> a : 1
+the chasing a -> deer : 1
+chasing a deer -> which : 1
+a deer which -> had : 1
+deer which had -> been : 1
+which had been -> grazing : 1
+had been grazing -> in : 1
+been grazing in -> the : 1
+grazing in the -> middle : 1
+in the middle -> of : 1
+the middle of -> the : 1
+middle of the -> butterflies : 1
+of the butterflies -> and : 1
+the butterflies and -> jumping : 1
+butterflies and jumping -> insects : 1
+and jumping insects -> scattered : 1
+jumping insects scattered -> before : 1
+insects scattered before -> her : 1
+scattered before her -> as : 1
+before her as -> she : 1
+her as she -> raised : 1
+her as she -> the : 1
+her as she -> tried : 1
+as she raised -> her : 1
+she raised her -> long : 1
+raised her long -> aimed : 1
+her long aimed -> it : 1
+long aimed it -> at : 1
+aimed it at -> the : 1
+it at the -> deer : 1
+at the deer -> and : 1
+the deer and -> her : 1
+the deer and -> raised : 1
+deer and her -> stick : 1
+and her stick -> flew : 1
+her stick flew -> in : 1
+stick flew in -> a : 1
+flew in a -> graceful : 1
+in a graceful -> the : 1
+a graceful the -> weighted : 1
+graceful the weighted -> stone : 1
+the weighted stone -> point : 1
+weighted stone point -> ramming : 1
+stone point ramming -> down : 1
+point ramming down -> into : 1
+ramming down into -> the : 1
+down into the -> neck : 1
+into the neck -> of : 1
+the neck of -> the : 1
+neck of the -> deer : 1
+of the deer -> which : 1
+the deer which -> fell : 1
+deer which fell -> immediately : 1
+which fell immediately -> to : 1
+fell immediately to -> the : 1
+immediately to the -> drin : 1
+to the drin -> caught : 1
+the drin caught -> up : 1
+drin caught up -> with : 1
+caught up with -> the : 1
+up with the -> deer : 1
+with the deer -> and : 1
+deer and raised -> her : 1
+and raised her -> delivering : 1
+raised her delivering -> a : 1
+her delivering a -> massive : 1
+delivering a massive -> killing : 1
+a massive killing -> blow : 1
+massive killing blow -> to : 1
+killing blow to -> the : 1
+blow to the -> back : 1
+to the back -> of : 1
+back of its -> returned : 1
+of its returned -> to : 1
+its returned to -> the : 1
+to the settling -> covered : 1
+the settling covered -> in : 1
+settling covered in -> blood : 1
+covered in blood -> and : 1
+in blood and -> carrying : 1
+blood and carrying -> the : 1
+and carrying the -> deer : 1
+carrying the deer -> drin : 1
+the deer drin -> dumped : 1
+deer drin dumped -> the : 1
+drin dumped the -> carcass : 1
+dumped the carcass -> in : 1
+the carcass in -> the : 1
+carcass in the -> center : 1
+in the center -> of : 1
+of the forming -> settlement : 1
+the forming settlement -> for : 1
+forming settlement for -> others : 1
+settlement for others -> to : 1
+for others to -> butcher : 1
+others to butcher -> and : 1
+to butcher and -> strip : 1
+butcher and strip -> of : 1
+and strip of -> all : 1
+strip of all -> useful : 1
+of all useful -> the : 1
+all useful the -> hide : 1
+useful the hide -> would : 1
+the hide would -> be : 1
+hide would be -> used : 1
+would be used -> for : 1
+be used for -> bones : 1
+used for bones -> for : 1
+for bones for -> tools : 1
+bones for tools -> and : 1
+for tools and -> all : 1
+tools and all -> the : 1
+and all the -> meat : 1
+all the meat -> would : 1
+the meat would -> be : 1
+meat would be -> and : 1
+would be and -> the : 1
+be and the -> entrails : 1
+and the entrails -> dried : 1
+the entrails dried -> and : 1
+entrails dried and -> used : 1
+dried and used -> as : 1
+and used as -> twine : 1
+used as twine -> for : 1
+as twine for -> srie : 1
+twine for srie -> approached : 1
+for srie approached -> her : 1
+srie approached her -> for : 1
+approached her for -> the : 1
+her for the -> first : 1
+for the first -> time : 1
+the first time -> since : 1
+first time since -> the : 1
+time since the -> meet : 1
+since the meet -> and : 1
+the meet and -> spoke : 1
+meet and spoke -> to : 1
+and spoke to -> can : 1
+spoke to can -> understand : 1
+to can understand -> you : 1
+can understand you -> are : 1
+understand you are -> angry : 1
+you are angry -> with : 1
+are angry with -> srie : 1
+angry with srie -> drin : 1
+with srie drin -> looked : 1
+srie drin looked -> at : 1
+drin looked at -> are : 1
+looked at are -> not : 1
+at are not -> responsible : 1
+are not responsible -> for : 1
+not responsible for -> the : 1
+responsible for the -> village : 1
+for the village -> drin : 1
+the village drin -> am : 1
+village drin am -> not : 1
+drin am not -> angry : 1
+am not angry -> with : 1
+not angry with -> you : 1
+angry with you -> said : 1
+with you said -> what : 1
+you said what -> you : 1
+said what you -> believe : 1
+what you believe -> is : 1
+you believe is -> which : 1
+believe is which -> is : 1
+is which is -> as : 1
+which is as -> a : 1
+is as a -> village : 1
+as a village -> elder : 1
+a village elder -> it : 1
+village elder it -> is : 1
+elder it is -> a : 1
+it is a -> pity : 1
+is a pity -> the : 1
+a pity the -> people : 1
+pity the people -> voted : 1
+the people voted -> to : 1
+people voted to -> move : 1
+voted to move -> and : 1
+to move and -> not : 1
+move and not -> fight : 1
+and not fight -> because : 1
+not fight because -> when : 1
+fight because when -> the : 1
+because when the -> big : 1
+when the big -> lizard : 1
+big lizard comes -> again : 1
+lizard comes again -> it : 1
+comes again it -> is : 1
+again it is -> them : 1
+it is them -> who : 1
+is them who -> will : 1
+them who will -> pay : 1
+who will pay -> the : 1
+will pay the -> srie : 1
+pay the srie -> about : 1
+the srie about -> looked : 1
+srie about looked -> around : 1
+about looked around -> at : 1
+looked around at -> the : 1
+around at the -> plain : 1
+at the plain -> they : 1
+the plain they -> had : 1
+plain they had -> decided : 1
+they had decided -> upon : 1
+had decided upon -> trying : 1
+decided upon trying -> to : 1
+upon trying to -> settle : 1
+trying to settle -> and : 1
+to settle and -> da : 1
+settle and da -> died : 1
+and da died -> on : 1
+da died on -> the : 1
+died on the -> hunt : 1
+the hunt many -> summers : 1
+hunt many summers -> ago : 1
+many summers ago -> and : 1
+summers ago and -> my : 1
+ago and my -> ma : 1
+and my ma -> was : 1
+my ma was -> killed : 1
+ma was killed -> by : 1
+was killed by -> the : 1
+killed by the -> big : 1
+by the big -> i : 1
+the big i -> have : 1
+big i have -> nobody : 1
+i have nobody -> left : 1
+have nobody left -> for : 1
+nobody left for -> it : 1
+left for it -> to : 1
+for it to -> kill : 1
+it to kill -> except : 1
+to kill except -> if : 1
+kill except if -> i : 1
+except if i -> i : 1
+if i i -> will : 1
+i i will -> srie : 1
+i will srie -> was : 1
+will srie was -> saddened : 1
+srie was saddened -> by : 1
+was saddened by -> the : 1
+saddened by the -> young : 1
+by the young -> words : 1
+the young words -> but : 1
+young words but -> said : 1
+words but said -> nothing : 1
+but said nothing -> weeks : 1
+said nothing weeks -> passed : 1
+nothing weeks passed -> with : 1
+weeks passed with -> drin : 1
+passed with drin -> and : 1
+with drin and -> grul : 1
+drin and grul -> leading : 1
+and grul leading -> hunts : 1
+grul leading hunts -> and : 1
+leading hunts and -> the : 1
+hunts and the -> villagers : 1
+and the villagers -> making : 1
+the villagers making -> new : 1
+villagers making new -> fish : 1
+making new fish -> were : 1
+new fish were -> discovered : 1
+fish were discovered -> in : 1
+were discovered in -> the : 1
+discovered in the -> river : 1
+in the river -> and : 1
+the river and -> their : 1
+river and their -> nutrients : 1
+and their nutrients -> were : 1
+their nutrients were -> added : 1
+nutrients were added -> to : 1
+were added to -> the : 1
+added to the -> diet : 1
+to the diet -> provided : 1
+the diet provided -> by : 1
+diet provided by -> the : 1
+provided by the -> memories : 1
+by the memories -> became : 1
+the memories became -> short : 1
+memories became short -> as : 1
+became short as -> the : 1
+short as the -> days : 1
+as the days -> rolled : 1
+the days rolled -> by : 1
+days rolled by -> and : 1
+rolled by and -> people : 1
+by and people -> got : 1
+and people got -> on : 1
+people got on -> with : 1
+got on with -> their : 1
+on with their -> new : 1
+with their new -> bedfellows : 1
+their new bedfellows -> were : 1
+new bedfellows were -> chosen : 1
+bedfellows were chosen -> and : 1
+were chosen and -> ensuring : 1
+chosen and ensuring -> that : 1
+and ensuring that -> the : 1
+ensuring that the -> population : 1
+that the population -> an : 1
+the population an -> air : 1
+population an air -> of : 1
+an air of -> complacency : 1
+air of complacency -> crept : 1
+of complacency crept -> into : 1
+complacency crept into -> the : 1
+crept into the -> psyche : 1
+into the psyche -> of : 1
+the psyche of -> the : 1
+psyche of the -> more : 1
+of the more -> than : 1
+the more than -> a : 1
+more than a -> few : 1
+than a few -> individuals : 1
+a few individuals -> sneered : 1
+few individuals sneered -> at : 1
+individuals sneered at -> drin : 1
+sneered at drin -> and : 1
+at drin and -> her : 1
+drin and her -> dire : 1
+and her dire -> predictions : 1
+her dire predictions -> concerning : 1
+dire predictions concerning -> the : 1
+predictions concerning the -> big : 1
+concerning the big -> lizard : 1
+lizard and their -> sidelong : 1
+and their sidelong -> glances : 1
+their sidelong glances -> were : 1
+sidelong glances were -> accompanied : 1
+glances were accompanied -> by : 1
+were accompanied by -> months : 1
+accompanied by months -> passed : 1
+by months passed -> before : 1
+months passed before -> the : 1
+passed before the -> tyrannosaurus : 1
+before the tyrannosaurus -> rex : 1
+tyrannosaurus rex struck -> summer : 1
+rex struck summer -> storm : 1
+struck summer storm -> had : 1
+summer storm had -> blown : 1
+storm had blown -> darkening : 1
+had blown darkening -> the : 1
+blown darkening the -> skies : 1
+darkening the skies -> and : 1
+the skies and -> forcing : 1
+skies and forcing -> all : 1
+and forcing all -> but : 1
+forcing all but -> the : 1
+all but the -> hardiest : 1
+but the hardiest -> of : 1
+the hardiest of -> the : 1
+hardiest of the -> villagers : 1
+the villagers to -> shelter : 1
+villagers to shelter -> inside : 1
+to shelter inside -> their : 1
+shelter inside their -> makeshift : 1
+inside their makeshift -> hiding : 1
+their makeshift hiding -> from : 1
+makeshift hiding from -> the : 1
+hiding from the -> violent : 1
+from the violent -> rain : 1
+the violent rain -> which : 1
+violent rain which -> hammered : 1
+rain which hammered -> from : 1
+which hammered from -> the : 1
+hammered from the -> from : 1
+from the from -> one : 1
+the from one -> end : 1
+from one end -> of : 1
+one end of -> their : 1
+end of their -> plain : 1
+of their plain -> to : 1
+their plain to -> the : 1
+plain to the -> the : 1
+to the the -> grass : 1
+the the grass -> was : 1
+the grass was -> flattened : 1
+grass was flattened -> by : 1
+was flattened by -> pouring : 1
+flattened by pouring -> branches : 1
+by pouring branches -> were : 1
+pouring branches were -> blown : 1
+branches were blown -> from : 1
+were blown from -> trees : 1
+blown from trees -> in : 1
+from trees in -> the : 1
+trees in the -> forests : 1
+in the forests -> nearby : 1
+the forests nearby -> and : 1
+forests nearby and -> the : 1
+nearby and the -> river : 1
+and the river -> was : 1
+the river was -> whipped : 1
+river was whipped -> into : 1
+was whipped into -> a : 1
+whipped into a -> frothy : 1
+into a frothy -> stood : 1
+a frothy stood -> in : 1
+frothy stood in -> the : 1
+stood in the -> her : 1
+stood in the -> driving : 1
+stood in the -> mist : 1
+the her fair -> hair : 1
+her fair hair -> plastered : 1
+fair hair plastered -> to : 1
+hair plastered to -> her : 1
+plastered to her -> neck : 1
+to her neck -> and : 1
+her neck and -> shoulders : 1
+neck and shoulders -> as : 1
+and shoulders as -> she : 1
+shoulders as she -> marveled : 1
+as she marveled -> at : 1
+she marveled at -> the : 1
+marveled at the -> power : 1
+at the power -> contained : 1
+the power contained -> in : 1
+power contained in -> lightning : 1
+contained in lightning -> illuminating : 1
+in lightning illuminating -> the : 1
+lightning illuminating the -> whole : 1
+illuminating the whole -> and : 1
+the whole and -> cold : 1
+whole and cold -> fear : 1
+and cold fear -> shot : 1
+cold fear shot -> into : 1
+fear shot into -> her : 1
+shot into her -> chest : 1
+into her chest -> and : 1
+her chest and -> stomach : 1
+chest and stomach -> as : 1
+and stomach as -> she : 1
+stomach as she -> saw : 1
+as she saw -> the : 1
+as she saw -> its : 1
+she saw the -> shape : 1
+saw the shape -> of : 1
+the shape of -> the : 1
+shape of the -> big : 1
+big lizard stalking -> across : 1
+lizard stalking across -> the : 1
+stalking across the -> plain : 1
+across the plain -> towards : 1
+the plain towards -> she : 1
+plain towards she -> screamed : 1
+towards she screamed -> wordlessly : 1
+she screamed wordlessly -> and : 1
+screamed wordlessly and -> ran : 1
+wordlessly and ran -> to : 1
+and ran to -> the : 1
+ran to the -> nearest : 1
+to the nearest -> hut : 1
+the nearest hut -> where : 1
+nearest hut where -> grul : 1
+hut where grul -> and : 1
+where grul and -> srie : 1
+grul and srie -> now : 1
+and srie now -> shared : 1
+srie now shared -> a : 1
+now shared a -> come : 1
+shared a come -> for : 1
+a come for -> drin : 1
+come for drin -> yelled : 1
+for drin yelled -> into : 1
+drin yelled into -> the : 1
+yelled into the -> living : 1
+into the living -> space : 1
+the living space -> as : 1
+living space as -> grul : 1
+space as grul -> rolled : 1
+as grul rolled -> off : 1
+grul rolled off -> of : 1
+rolled off of -> annoyance : 1
+off of annoyance -> crossing : 1
+of annoyance crossing -> his : 1
+annoyance crossing his -> face : 1
+crossing his face -> at : 1
+his face at -> her : 1
+face at her -> interruption : 1
+at her interruption -> of : 1
+her interruption of -> his : 1
+interruption of his -> rutting : 1
+of his rutting -> and : 1
+his rutting and -> he : 1
+rutting and he -> stood : 1
+and he stood -> with : 1
+he stood with -> his : 1
+stood with his -> erection : 1
+with his erection -> pointing : 1
+his erection pointing -> at : 1
+erection pointing at -> drin : 1
+pointing at drin -> as : 1
+at drin as -> she : 1
+drin as she -> tried : 1
+as she tried -> to : 2
+she tried to -> make : 1
+she tried to -> climb : 1
+tried to make -> him : 1
+to make him -> it : 1
+make him it -> was : 1
+him it was -> who : 1
+it was who -> noticed : 1
+was who noticed -> drin : 1
+who noticed drin -> had : 1
+noticed drin had -> become : 1
+drin had become -> deathly : 1
+had become deathly -> pale : 1
+become deathly pale -> and : 1
+deathly pale and -> shook : 1
+pale and shook -> like : 1
+and shook like -> an : 1
+shook like an -> the : 1
+like an the -> woman : 1
+an the woman -> who : 1
+the woman who -> had : 2
+woman who had -> stood : 1
+woman who had -> caused : 1
+who had stood -> against : 1
+had stood against -> her : 1
+stood against her -> in : 1
+against her in -> the : 1
+her in the -> meet : 1
+in the meet -> almost : 1
+the meet almost -> sprang : 1
+meet almost sprang -> from : 1
+almost sprang from -> her : 1
+sprang from her -> bed : 1
+from her bed -> and : 1
+her bed and -> threw : 1
+bed and threw -> a : 1
+and threw a -> loincloth : 1
+threw a loincloth -> at : 1
+a loincloth at -> she : 1
+loincloth at she -> ordered : 1
+at she ordered -> big : 1
+she ordered big -> lizard : 1
+ordered big lizard -> has : 1
+lizard has found -> both : 1
+has found both -> she : 1
+found both she -> and : 1
+both she and -> drin : 1
+she and drin -> ran : 1
+and drin ran -> through : 1
+drin ran through -> the : 1
+ran through the -> new : 1
+ran through the -> feathers : 1
+through the new -> screaming : 1
+the new screaming -> the : 1
+new screaming the -> news : 1
+screaming the news -> and : 1
+the news and -> rousing : 1
+news and rousing -> people : 1
+and rousing people -> who : 1
+rousing people who -> were : 1
+who were taking -> the : 1
+were taking the -> opportunity : 1
+taking the opportunity -> of : 1
+the opportunity of -> the : 1
+opportunity of the -> storm : 1
+of the storm -> to : 1
+the storm to -> rest : 1
+storm to rest -> or : 1
+to rest or -> have : 1
+rest or have -> most : 1
+or have most -> of : 1
+have most of -> the : 1
+of the survivors -> of : 1
+the survivors of -> the : 1
+survivors of the -> last : 1
+of the last -> attack : 1
+the last attack -> stood : 1
+last attack stood -> in : 1
+attack stood in -> the : 1
+in the driving -> soaked : 1
+the driving soaked -> and : 1
+driving soaked and -> shaking : 1
+soaked and shaking -> through : 1
+and shaking through -> nerves : 1
+shaking through nerves -> and : 1
+through nerves and -> fright : 1
+nerves and fright -> as : 1
+and fright as -> they : 1
+and fright as -> the : 1
+fright as they -> all : 1
+as they all -> scanned : 1
+they all scanned -> the : 1
+all scanned the -> area : 1
+scanned the area -> around : 1
+the area around -> looking : 1
+area around looking -> for : 1
+around looking for -> any : 1
+looking for any -> sign : 1
+for any sign -> of : 1
+any sign of -> the : 1
+sign of the -> thing : 1
+of the thing -> which : 1
+the thing which -> had : 1
+thing which had -> brought : 1
+which had brought -> so : 1
+had brought so -> much : 1
+brought so much -> death : 1
+so much death -> to : 1
+much death to -> their : 1
+death to their -> nothing : 1
+to their nothing -> showed : 1
+their nothing showed -> itself : 1
+nothing showed itself -> for : 1
+showed itself for -> the : 1
+itself for the -> duration : 1
+for the duration -> of : 1
+the duration of -> the : 1
+duration of the -> heavy : 1
+of the heavy -> as : 1
+the heavy as -> the : 1
+heavy as the -> storm : 1
+as the storm -> petered : 1
+the storm petered -> out : 1
+storm petered out -> to : 1
+petered out to -> become : 1
+out to become -> a : 1
+to become a -> light : 1
+become a light -> several : 1
+a light several -> people : 1
+light several people -> turned : 1
+several people turned -> to : 1
+people turned to -> drin : 1
+turned to drin -> and : 1
+drin and looked -> at : 1
+and looked at -> her : 1
+looked at her -> as : 1
+her as if -> they : 1
+as if they -> wished : 1
+if they wished -> she : 1
+they wished she -> were : 1
+wished she were -> dead : 1
+she were dead -> and : 1
+were dead and -> several : 1
+dead and several -> more : 1
+and several more -> turned : 1
+several more turned -> to : 1
+more turned to -> go : 1
+turned to go -> back : 1
+to go back -> to : 1
+go back to -> the : 1
+back to the -> shelter : 1
+to the shelter -> of : 1
+the shelter of -> their : 1
+shelter of their -> homes : 1
+of their homes -> or : 1
+their homes or -> return : 1
+homes or return -> to : 1
+or return to -> the : 1
+return to the -> work : 1
+to the work -> they : 1
+the work they -> had : 1
+work they had -> been : 1
+they had been -> doing : 1
+had been doing -> before : 1
+been doing before -> the : 1
+doing before the -> storm : 1
+before the storm -> drin : 1
+the storm drin -> lowered : 1
+storm drin lowered -> her : 1
+drin lowered her -> long : 1
+lowered her long -> stick : 1
+long stick and -> met : 1
+long stick and -> the : 1
+stick and met -> the : 1
+and met the -> disappointed : 1
+met the disappointed -> stares : 1
+the disappointed stares -> of : 1
+disappointed stares of -> srie : 1
+stares of srie -> and : 1
+of srie and -> was : 1
+srie and was -> the : 1
+and was the -> exact : 1
+was the exact -> moment : 1
+the exact moment -> when : 1
+exact moment when -> the : 1
+moment when the -> trees : 1
+when the trees -> nearest : 1
+the trees nearest -> them : 1
+trees nearest them -> of : 1
+nearest them of -> deadwood : 1
+them of deadwood -> were : 1
+of deadwood were -> thrown : 1
+deadwood were thrown -> high : 1
+were thrown high -> into : 1
+thrown high into -> the : 1
+high into the -> air : 1
+into the air -> as : 1
+the air as -> the : 1
+air as the -> big : 1
+big lizard stamped -> into : 1
+lizard stamped into -> the : 1
+stamped into the -> grassy : 1
+into the grassy -> area : 1
+the grassy area -> in : 1
+grassy area in -> which : 1
+area in which -> the : 1
+in which the -> villagers : 1
+which the villagers -> had : 1
+the villagers had -> chosen : 1
+villagers had chosen -> to : 1
+had chosen to -> make : 1
+chosen to make -> their : 1
+to make their -> new : 1
+make their new -> the : 1
+their new the -> tyrannosaurus : 1
+new the tyrannosaurus -> rex : 1
+tyrannosaurus rex had -> to : 1
+rex had to -> be : 1
+had to be -> at : 1
+to be at -> least : 1
+be at least -> ten : 1
+at least ten -> feet : 1
+least ten feet -> from : 1
+ten feet from -> head : 1
+feet from head -> to : 1
+from head to -> tail : 1
+head to tail -> and : 1
+to tail and -> stood : 1
+tail and stood -> six : 1
+and stood six -> feet : 1
+stood six feet -> high : 1
+six feet high -> at : 1
+feet high at -> the : 1
+high at the -> it : 1
+at the it -> was : 1
+the it was -> partially : 1
+the it was -> half : 1
+it was partially -> covered : 1
+was partially covered -> in : 1
+partially covered in -> green : 1
+covered in green -> feathers : 1
+in green feathers -> coating : 1
+green feathers coating -> its : 1
+feathers coating its -> underbelly : 1
+coating its underbelly -> and : 1
+its underbelly and -> drin : 1
+underbelly and drin -> knew : 1
+and drin knew -> this : 1
+drin knew this -> indicated : 1
+drin knew this -> would : 1
+knew this indicated -> that : 1
+this indicated that -> it : 1
+indicated that it -> was : 1
+that it was -> an : 1
+it was an -> it : 1
+was an it -> would : 1
+an it would -> be : 1
+it would be -> attempting : 1
+it would be -> enough : 1
+would be attempting -> to : 1
+be attempting to -> mark : 1
+attempting to mark -> out : 1
+to mark out -> its : 1
+mark out its -> making : 1
+out its making -> it : 1
+its making it -> violently : 1
+making it violently -> the : 1
+it violently the -> remainder : 1
+violently the remainder -> of : 1
+the remainder of -> the : 2
+the remainder of -> him : 1
+remainder of the -> big : 1
+remainder of the -> drin : 1
+big lizard was -> covered : 1
+big lizard was -> not : 1
+big lizard was -> upon : 1
+big lizard was -> nowhere : 1
+lizard was covered -> in : 1
+was covered in -> overlapping : 1
+covered in overlapping -> these : 1
+in overlapping these -> ranged : 1
+overlapping these ranged -> in : 1
+these ranged in -> color : 1
+ranged in color -> from : 1
+in color from -> dark : 1
+color from dark -> green : 1
+from dark green -> to : 1
+dark green to -> depending : 1
+green to depending -> upon : 1
+to depending upon -> where : 1
+depending upon where -> they : 1
+upon where they -> were : 1
+where they were -> positioned : 1
+they were positioned -> on : 1
+were positioned on -> the : 1
+positioned on the -> it : 1
+on the it -> opened : 1
+the it opened -> its : 1
+it opened its -> revealing : 1
+opened its revealing -> frightening : 1
+its revealing frightening -> teeth : 1
+revealing frightening teeth -> of : 1
+frightening teeth of -> varying : 1
+teeth of varying -> and : 1
+of varying and -> screamed : 1
+varying and screamed -> a : 1
+and screamed a -> high : 1
+screamed a high -> pitched : 1
+a high pitched -> yell : 1
+high pitched yell -> of : 1
+pitched yell of -> bringing : 1
+yell of bringing -> fear : 1
+of bringing fear -> to : 1
+bringing fear to -> all : 1
+fear to all -> who : 1
+to all who -> heard : 1
+all who heard -> feet : 1
+who heard feet -> beat : 1
+heard feet beat -> a : 1
+feet beat a -> tattoo : 1
+beat a tattoo -> on : 1
+a tattoo on -> the : 1
+tattoo on the -> wet : 1
+on the wet -> grass : 1
+the wet grass -> as : 1
+wet grass as -> and : 1
+grass as and -> children : 1
+as and children -> fled : 1
+and children fled -> the : 1
+children fled the -> monster : 1
+fled the monster -> they : 1
+the monster they -> had : 1
+monster they had -> believed : 1
+they had believed -> would : 1
+had believed would -> not : 1
+believed would not -> come : 1
+would not come -> only : 1
+not come only -> drin : 1
+come only drin -> stood : 1
+only drin stood -> her : 1
+drin stood her -> grimly : 1
+stood her grimly -> determined : 1
+her grimly determined -> not : 1
+grimly determined not -> to : 1
+determined not to -> allow : 1
+not to allow -> this : 1
+to allow this -> big : 1
+allow this big -> monster : 1
+this big monster -> to : 1
+big monster to -> take : 1
+monster to take -> any : 1
+to take any -> more : 1
+take any more -> of : 1
+any more of -> her : 1
+more of her -> village : 1
+her village with -> her : 1
+village with her -> long : 1
+with her long -> stick : 1
+with her long -> the : 1
+stick in one -> hand : 1
+in one hand -> and : 1
+one hand and -> her : 1
+hand and her -> cutter : 1
+and her cutter -> in : 1
+her cutter in -> the : 1
+cutter in the -> drin : 1
+cutter in the -> and : 1
+in the drin -> stood : 1
+in the drin -> could : 1
+the drin stood -> in : 1
+drin stood in -> the : 1
+in the mist -> as : 1
+the mist as -> she : 1
+mist as she -> watched : 1
+as she watched -> the : 1
+she watched the -> big : 1
+watched the big -> lizard : 1
+big lizard cautiously -> approach : 1
+lizard cautiously approach -> the : 1
+cautiously approach the -> nostrils : 1
+approach the nostrils -> flared : 1
+the nostrils flared -> and : 1
+nostrils flared and -> saliva : 1
+flared and saliva -> ran : 1
+and saliva ran -> freely : 1
+saliva ran freely -> from : 1
+ran freely from -> its : 1
+freely from its -> vast : 1
+from its vast -> cavern : 1
+its vast cavern -> of : 1
+vast cavern of -> a : 1
+cavern of a -> every : 1
+of a every -> so : 1
+a every so -> the : 1
+every so the -> creature : 1
+so the creature -> shuddered : 1
+the creature shuddered -> and : 1
+creature shuddered and -> a : 1
+shuddered and a -> wave : 1
+and a wave -> ran : 1
+a wave ran -> through : 1
+wave ran through -> the : 1
+through the feathers -> covering : 1
+the feathers covering -> its : 1
+feathers covering its -> head : 1
+covering its head -> and : 1
+its head and -> tail : 1
+head and tail -> stuck : 1
+and tail stuck -> straight : 1
+tail stuck straight -> out : 1
+stuck straight out -> fore : 1
+straight out fore -> and : 1
+out fore and -> making : 1
+fore and making -> a : 1
+making a horizontal -> line : 1
+a horizontal line -> from : 1
+horizontal line from -> which : 1
+line from which -> the : 1
+from which the -> legs : 1
+from which the -> creature : 1
+which the legs -> extended : 1
+the legs extended -> dead : 1
+legs extended dead -> it : 1
+extended dead it -> had : 1
+dead it had -> beady : 1
+it had beady -> little : 1
+had beady little -> eyes : 1
+beady little eyes -> in : 1
+little eyes in -> comparison : 1
+eyes in comparison -> to : 1
+in comparison to -> the : 1
+comparison to the -> size : 1
+to the size -> of : 1
+the size of -> its : 1
+size of its -> huge : 1
+of its huge -> but : 1
+its huge but -> those : 1
+huge but those -> eyes : 1
+but those eyes -> were : 1
+those eyes were -> the : 1
+eyes were the -> keenest : 1
+were the keenest -> on : 1
+the keenest on -> this : 1
+keenest on this -> entire : 1
+on this entire -> being : 1
+this entire being -> at : 1
+entire being at -> least : 1
+being at least -> three : 1
+at least three -> times : 1
+least three times -> more : 1
+three times more -> accurate : 1
+times more accurate -> than : 1
+more accurate than -> a : 1
+accurate than a -> human : 1
+than a human -> both : 1
+a human both -> small : 1
+human both small -> eyes : 1
+both small eyes -> were : 1
+small eyes were -> situated : 1
+eyes were situated -> at : 1
+were situated at -> the : 1
+situated at the -> front : 1
+at the front -> of : 1
+the front of -> its : 1
+front of its -> giving : 1
+of its giving -> it : 1
+its giving it -> amazing : 1
+giving it amazing -> and : 1
+it amazing and -> all : 1
+amazing and all -> round : 1
+and all round -> took : 1
+all round took -> another : 1
+round took another -> step : 1
+took another step -> towards : 1
+another step towards -> the : 1
+step towards the -> village : 1
+towards the village -> and : 1
+the village and -> drin : 1
+and drin leapt -> from : 1
+drin leapt from -> behind : 1
+leapt from behind -> the : 1
+from behind the -> hut : 1
+behind the hut -> she : 1
+the hut she -> had : 1
+hut she had -> been : 1
+she had been -> using : 1
+she had been -> this : 1
+she had been -> hoisted : 1
+had been using -> for : 1
+been using for -> jabbing : 1
+using for jabbing -> at : 1
+for jabbing at -> the : 1
+jabbing at the -> eyes : 1
+at the eyes -> with : 1
+the eyes with -> her : 1
+eyes with her -> long : 1
+her long the -> stone : 1
+long the stone -> tip : 1
+the stone tip -> came : 1
+stone tip came -> nowhere : 1
+tip came nowhere -> near : 1
+came nowhere near -> the : 1
+nowhere near the -> big : 1
+near the big -> and : 1
+the big and -> it : 1
+big and it -> dodged : 1
+and it dodged -> her : 1
+it dodged her -> thrusts : 1
+dodged her thrusts -> with : 1
+her thrusts with -> ease : 1
+thrusts with ease -> and : 1
+with ease and -> turned : 1
+ease and turned -> to : 1
+and turned to -> scream : 1
+and turned to -> wait : 1
+turned to scream -> at : 1
+to scream at -> her : 1
+scream at her -> in : 1
+at her in -> drin : 1
+her in drin -> trotted : 1
+her in drin -> felt : 1
+in drin trotted -> off : 1
+drin trotted off -> in : 1
+trotted off in -> the : 1
+off in the -> direction : 1
+off in the -> same : 1
+in the direction -> of : 1
+the direction of -> the : 1
+direction of the -> hoping : 1
+of the hoping -> the : 1
+the hoping the -> lizard : 1
+hoping the lizard -> would : 1
+the lizard would -> chase : 1
+lizard would chase -> her : 1
+would chase her -> instead : 1
+chase her instead -> of : 1
+her instead of -> the : 1
+instead of the -> the : 1
+of the the -> strode : 1
+the the strode -> off : 1
+the strode off -> in : 1
+strode off in -> the : 1
+in the same -> entering : 1
+the same entering -> the : 1
+same entering the -> trees : 1
+entering the trees -> as : 1
+trees as she -> taunted : 1
+as she taunted -> the : 1
+she taunted the -> beast : 1
+taunted the beast -> with : 1
+the beast with -> shouts : 1
+beast with shouts -> and : 1
+with shouts and -> thrown : 1
+shouts and thrown -> and : 1
+and thrown and -> srie : 1
+thrown and srie -> gaped : 1
+and srie gaped -> at : 1
+srie gaped at -> the : 1
+gaped at the -> scene : 1
+at the scene -> as : 1
+the scene as -> the : 1
+scene as the -> young : 1
+as the young -> huntress : 1
+the young huntress -> led : 1
+young huntress led -> the : 1
+huntress led the -> big : 1
+led the big -> lizard : 1
+big lizard off -> into : 1
+lizard off into -> the : 1
+off into the -> must : 1
+into the must -> help : 1
+the must help -> grul : 1
+must help grul -> stated : 1
+help grul stated -> almost : 1
+grul stated almost -> was : 1
+stated almost was -> right : 1
+almost was right -> at : 1
+was right at -> with : 1
+right at with -> those : 1
+at with those -> grul : 1
+with those grul -> collected : 1
+those grul collected -> his : 1
+grul collected his -> long : 1
+collected his long -> stick : 1
+his long stick -> and : 1
+stick and the -> only : 1
+and the only -> other : 1
+the only other -> cutter : 1
+only other cutter -> in : 1
+other cutter in -> the : 1
+in the and -> trotted : 1
+the and trotted -> off : 1
+and trotted off -> after : 1
+trotted off after -> the : 1
+off after the -> woman : 1
+after the woman -> and : 1
+the woman and -> was : 1
+woman and was -> making : 1
+and was making -> her : 1
+was making her -> way : 1
+her way along -> a : 1
+her way along -> the : 1
+way along a -> track : 1
+along a track -> toward : 1
+a track toward -> a : 1
+track toward a -> spot : 1
+toward a spot -> where : 1
+a spot where -> the : 1
+spot where the -> narrow : 1
+where the narrow -> path : 1
+the narrow path -> snaked : 1
+narrow path snaked -> between : 1
+path snaked between -> two : 1
+snaked between two -> large : 1
+between two large -> she : 1
+two large she -> had : 1
+large she had -> been : 1
+had been this -> way : 1
+been this way -> numerous : 1
+this way numerous -> times : 1
+way numerous times -> setting : 1
+numerous times setting -> traps : 1
+times setting traps -> for : 1
+setting traps for -> just : 1
+traps for just -> this : 1
+for just this -> although : 1
+just this although -> she : 1
+this although she -> was : 1
+although she was -> breathing : 1
+she was breathing -> she : 1
+was breathing she -> had : 1
+breathing she had -> plenty : 1
+she had plenty -> of : 1
+had plenty of -> the : 1
+plenty of the -> big : 1
+lizard was not -> actually : 1
+was not actually -> that : 1
+not actually that -> she : 1
+actually that she -> could : 1
+that she could -> easily : 1
+she could easily -> out : 1
+could easily out -> run : 1
+easily out run -> especially : 1
+out run especially -> in : 1
+run especially in -> the : 1
+especially in the -> trees : 1
+the trees where -> it : 1
+trees where it -> often : 1
+where it often -> had : 1
+it often had -> to : 1
+often had to -> shoulder : 1
+had to shoulder -> its : 1
+to shoulder its -> way : 1
+shoulder its way -> past : 1
+its way past -> branches : 1
+way past branches -> and : 1
+past branches and -> trees : 1
+branches and trees -> she : 1
+and trees she -> could : 1
+trees she could -> bypass : 1
+she could bypass -> behind : 1
+could bypass behind -> the : 1
+bypass behind the -> drin : 1
+behind the drin -> came : 1
+the drin came -> to : 1
+drin came to -> the : 1
+came to the -> first : 1
+to the first -> of : 1
+the first of -> her : 1
+first of her -> traps : 1
+of her traps -> she : 1
+her traps she -> the : 1
+traps she the -> weakest : 1
+she the weakest -> of : 1
+the weakest of -> it : 1
+weakest of it -> was : 1
+of it was -> simply : 1
+it was simply -> a : 1
+was simply a -> springy : 1
+simply a springy -> cedar : 1
+a springy cedar -> branch : 1
+springy cedar branch -> bent : 1
+cedar branch bent -> backwards : 1
+branch bent backwards -> and : 1
+bent backwards and -> tied : 1
+backwards and tied -> with : 1
+and tied with -> some : 1
+tied with some -> dried : 1
+with some dried -> animal : 1
+some dried animal -> along : 1
+dried animal along -> the : 1
+animal along the -> length : 1
+along the length -> of : 1
+the length of -> this : 1
+the length of -> it : 1
+length of this -> branch : 1
+of this branch -> drin : 1
+this branch drin -> had : 1
+branch drin had -> again : 1
+drin had again -> with : 1
+had again with -> numerous : 1
+again with numerous -> sharpened : 1
+with numerous sharpened -> all : 1
+numerous sharpened all -> about : 1
+sharpened all about -> as : 1
+all about as -> thick : 1
+about as thick -> as : 1
+as thick as -> her : 2
+thick as her -> wrist : 1
+thick as her -> arm : 1
+as her wrist -> and : 1
+her wrist and -> all : 1
+wrist and all -> at : 1
+and all at -> a : 1
+all at a -> height : 1
+at a height -> she : 1
+a height she -> hoped : 1
+height she hoped -> would : 1
+she hoped would -> hit : 1
+hoped would hit -> the : 1
+would hit the -> thing : 1
+hit the thing -> in : 1
+the thing in -> the : 1
+thing in the -> could : 1
+in the could -> hear : 1
+the could hear -> the : 1
+could hear the -> big : 1
+could hear the -> clawed : 1
+hear the big -> lizard : 1
+big lizard stamping -> through : 1
+lizard stamping through -> the : 1
+stamping through the -> trees : 1
+through the trees -> and : 1
+the trees and -> poised : 1
+trees and poised -> herself : 1
+and poised herself -> to : 1
+poised herself to -> slash : 1
+herself to slash -> the : 1
+to slash the -> holding : 1
+slash the holding -> tie : 1
+the holding tie -> with : 1
+holding tie with -> her : 1
+tie with her -> cutter : 1
+with her cutter -> as : 1
+her cutter as -> soon : 1
+cutter as soon -> as : 1
+as soon as -> she : 1
+soon as she -> saw : 1
+she saw its -> snout : 1
+saw its snout -> poke : 1
+its snout poke -> between : 1
+snout poke between -> the : 1
+poke between the -> two : 1
+between the two -> jagged : 1
+the two jagged -> hearing : 1
+two jagged hearing -> a : 1
+jagged hearing a -> grunting : 1
+hearing a grunting -> drin : 1
+a grunting drin -> realized : 1
+grunting drin realized -> the : 1
+drin realized the -> beast : 1
+realized the beast -> was : 1
+the beast was -> close : 1
+beast was close -> and : 1
+was close and -> drew : 1
+close and drew -> back : 1
+and drew back -> her : 1
+drew back her -> hand : 1
+back her hand -> in : 1
+her hand in -> final : 1
+hand in final -> preparation : 1
+in final preparation -> for : 1
+final preparation for -> the : 1
+preparation for the -> she : 1
+for the she -> saw : 1
+the she saw -> a : 1
+she saw a -> scaled : 1
+saw a scaled -> nose : 1
+a scaled nose -> break : 1
+scaled nose break -> from : 1
+nose break from -> the : 1
+break from the -> cover : 1
+from the cover -> of : 1
+the cover of -> the : 1
+cover of the -> rocks : 1
+of the rocks -> and : 1
+the rocks and -> slashed : 1
+rocks and slashed -> downward : 1
+and slashed downward -> with : 1
+slashed downward with -> her : 1
+downward with her -> the : 1
+with her the -> keen : 1
+her the keen -> flint : 1
+the keen flint -> edge : 1
+keen flint edge -> severing : 1
+flint edge severing -> the : 1
+edge severing the -> gut : 1
+severing the gut -> twine : 1
+the gut twine -> and : 1
+gut twine and -> biting : 1
+twine and biting -> into : 1
+and biting into -> the : 1
+biting into the -> cedar : 1
+into the cedar -> big : 1
+the cedar big -> lizard : 1
+cedar big lizard -> gave : 1
+big lizard gave -> a : 1
+big lizard gave -> she : 1
+lizard gave a -> roaring : 1
+gave a roaring -> scream : 1
+a roaring scream -> as : 1
+roaring scream as -> the : 1
+scream as the -> springy : 1
+as the springy -> branch : 1
+the springy branch -> full : 1
+springy branch full -> of : 1
+branch full of -> pointed : 1
+full of pointed -> sticks : 1
+of pointed sticks -> connected : 1
+pointed sticks connected -> sharply : 1
+sticks connected sharply -> with : 1
+connected sharply with -> the : 1
+sharply with the -> tip : 1
+with the tip -> of : 1
+the tip of -> the : 1
+the tip of -> its : 2
+tip of the -> although : 1
+of the although -> it : 1
+the although it -> did : 1
+although it did -> little : 1
+it did little -> actual : 1
+did little actual -> it : 1
+little actual it -> served : 1
+actual it served -> to : 1
+it served to -> make : 1
+served to make -> the : 1
+to make the -> animal : 1
+make the animal -> jump : 1
+the animal jump -> and : 1
+animal jump and -> lose : 1
+jump and lose -> its : 1
+and lose its -> temper : 1
+lose its temper -> even : 1
+its temper even -> stomach : 1
+temper even stomach -> muscles : 1
+even stomach muscles -> clenched : 1
+stomach muscles clenched -> in : 1
+muscles clenched in -> delicious : 1
+clenched in delicious -> pleasure : 1
+in delicious pleasure -> as : 1
+delicious pleasure as -> she : 1
+pleasure as she -> heard : 1
+as she heard -> the : 1
+heard the beast -> this : 1
+the beast this -> was : 1
+beast this was -> what : 1
+this was what -> exited : 1
+was what exited -> outsmarting : 1
+what exited outsmarting -> and : 1
+exited outsmarting and -> her : 1
+outsmarting and her -> gave : 1
+and her gave -> her : 1
+her gave her -> a : 1
+gave her a -> thrill : 1
+her a thrill -> no : 1
+a thrill no -> man : 1
+thrill no man -> could : 1
+no man could -> ever : 1
+man could ever -> she : 1
+could ever she -> shivered : 1
+ever she shivered -> and : 1
+she shivered and -> ran : 1
+shivered and ran -> into : 1
+and ran into -> the : 1
+ran into the -> woods : 1
+ran into the -> box : 1
+into the woods -> toward : 1
+the woods toward -> her : 1
+woods toward her -> next : 1
+toward her next -> allowing : 1
+her next allowing -> the : 1
+next allowing the -> creature : 1
+allowing the creature -> to : 1
+the creature to -> glimpse : 1
+creature to glimpse -> her : 1
+to glimpse her -> as : 1
+glimpse her as -> she : 1
+as she the -> big : 1
+she the big -> lizard : 1
+big lizard screamed -> and : 1
+lizard screamed and -> gave : 1
+screamed and gave -> chase : 1
+and gave chase -> as : 1
+gave chase as -> fast : 1
+chase as fast -> as : 1
+as fast as -> it : 1
+fast as it -> this : 1
+as it this -> had : 1
+it this had -> also : 1
+this had also -> been : 1
+had also been -> part : 1
+also been part -> of : 1
+been part of -> had : 1
+part of had -> spent : 1
+of had spent -> at : 1
+had spent at -> least : 1
+spent at least -> a : 1
+at least a -> week : 1
+least a week -> digging : 1
+a week digging -> the : 1
+week digging the -> it : 1
+digging the it -> was : 1
+it was half -> her : 1
+was half her -> height : 1
+half her height -> deep : 1
+her height deep -> and : 1
+height deep and -> a : 1
+deep and a -> quarter : 1
+and a quarter -> of : 1
+a quarter of -> her : 1
+quarter of her -> height : 1
+of her height -> crossing : 1
+her height crossing -> the : 1
+height crossing the -> thin : 1
+crossing the thin -> trail : 1
+the thin trail -> she : 1
+thin trail she -> had : 1
+trail she had -> trodden : 1
+she had trodden -> and : 1
+had trodden and -> cut : 1
+trodden and cut -> her : 1
+and cut her -> way : 1
+cut her way -> laying : 1
+her way laying -> a : 1
+way laying a -> latticework : 1
+laying a latticework -> of : 1
+a latticework of -> sticks : 1
+latticework of sticks -> and : 1
+of sticks and -> branches : 1
+sticks and branches -> across : 1
+and branches across -> the : 1
+branches across the -> she : 1
+across the she -> had : 1
+she had covered -> the : 1
+had covered the -> hole : 1
+covered the hole -> with : 1
+the hole with -> the : 1
+hole with the -> leaves : 1
+with the leaves -> and : 1
+the leaves and -> even : 1
+leaves and even -> growing : 1
+and even growing -> grass : 1
+even growing grass -> which : 1
+growing grass which -> formed : 1
+grass which formed -> the : 1
+which formed the -> making : 1
+formed the making -> it : 1
+the making it -> blend : 1
+making it blend -> in : 1
+it blend in -> drin : 1
+blend in drin -> knew : 1
+in drin knew -> this : 1
+knew this would -> not : 1
+this would not -> contain : 1
+would not contain -> the : 1
+not contain the -> but : 1
+contain the but -> she : 1
+the but she -> hoped : 1
+but she hoped -> it : 1
+she hoped it -> would : 1
+hoped it would -> be : 1
+would be enough -> to : 1
+be enough to -> cause : 1
+enough to cause -> it : 1
+to cause it -> to : 1
+cause it to -> break : 1
+it to break -> some : 1
+to break some -> bones : 1
+break some bones -> or : 1
+some bones or -> snap : 1
+bones or snap -> a : 1
+or snap a -> that : 1
+snap a that -> would : 1
+a that would -> only : 1
+that would only -> happen : 1
+would only happen -> if : 1
+only happen if -> it : 1
+happen if it -> was : 1
+if it was -> running : 1
+it was running -> at : 1
+was running at -> full : 1
+running at full -> speed : 1
+running at full -> screaming : 1
+at full speed -> and : 1
+full speed and -> it : 1
+speed and it -> happened : 1
+and it happened -> to : 1
+it happened to -> fall : 1
+happened to fall -> into : 1
+to fall into -> the : 1
+fall into the -> traversed : 1
+into the traversed -> the : 1
+the traversed the -> trap : 1
+traversed the trap -> at : 1
+the trap at -> the : 1
+trap at the -> marveling : 1
+at the marveling -> at : 1
+the marveling at -> her : 1
+marveling at her -> own : 1
+at her own -> she : 1
+her own she -> could : 1
+own she could -> barely : 1
+she could barely -> tell : 1
+could barely tell -> the : 1
+barely tell the -> difference : 1
+tell the difference -> between : 1
+the difference between -> the : 1
+difference between the -> trap : 1
+between the trap -> and : 1
+the trap and -> the : 1
+trap and the -> rest : 1
+and the rest -> of : 1
+rest of the -> once : 1
+of the once -> she : 1
+the once she -> made : 1
+once she made -> her : 1
+she made her -> way : 1
+made her way -> along : 1
+way along the -> path : 1
+along the path -> a : 1
+the path a -> little : 1
+path a little -> further : 1
+a little further -> and : 1
+little further and -> turned : 1
+further and turned -> to : 1
+turned to wait -> for : 1
+to wait for -> the : 1
+wait for the -> approach : 1
+for the approach -> of : 1
+the approach of -> the : 1
+approach of the -> big : 1
+the big it -> was : 1
+big it was -> actually : 1
+it was actually -> quite : 1
+was actually quite -> close : 1
+actually quite close -> behind : 1
+quite close behind -> her : 1
+close behind her -> and : 1
+behind her and -> running : 1
+her and running -> at : 1
+and running at -> full : 1
+at full screaming -> a : 1
+full screaming a -> challenge : 1
+screaming a challenge -> as : 1
+a challenge as -> it : 1
+challenge as it -> caught : 1
+as it caught -> sight : 1
+it caught sight -> of : 1
+caught sight of -> her : 1
+sight of her -> once : 1
+of her once -> heart : 1
+her once heart -> was : 1
+once heart was -> pounding : 1
+heart was pounding -> as : 1
+was pounding as -> she : 1
+pounding as she -> waited : 1
+as she waited -> to : 1
+she waited to -> see : 1
+waited to see -> if : 1
+to see if -> the : 1
+see if the -> trap : 1
+if the trap -> would : 1
+the trap would -> actually : 1
+trap would actually -> work : 1
+would actually work -> or : 1
+actually work or -> if : 1
+work or if -> the : 1
+or if the -> big : 1
+if the big -> lizard : 1
+big lizard would -> miss : 1
+lizard would miss -> it : 1
+would miss it -> completely : 1
+miss it completely -> and : 1
+it completely and -> keep : 1
+completely and keep -> coming : 1
+and keep coming -> for : 1
+keep coming for -> the : 1
+coming for the -> tyrannosaur : 1
+for the tyrannosaur -> headed : 1
+the tyrannosaur headed -> towards : 1
+tyrannosaur headed towards -> the : 1
+headed towards the -> woman : 1
+towards the woman -> who : 1
+who had caused -> it : 1
+had caused it -> so : 1
+caused it so -> much : 1
+it so much -> pain : 1
+so much pain -> and : 1
+much pain and -> it : 1
+pain and it -> could : 1
+and it could -> see : 1
+it could see -> the : 1
+could see the -> two : 1
+could see the -> red : 1
+see the two -> legged : 1
+the two legged -> creature : 1
+two legged creature -> walking : 1
+legged creature walking -> backwards : 1
+creature walking backwards -> as : 1
+walking backwards as -> it : 1
+backwards as it -> approached : 1
+as it approached -> and : 1
+it approached and -> a : 1
+approached and a -> small : 1
+and a small -> knot : 1
+a small knot -> of : 1
+small knot of -> concern : 1
+knot of concern -> developed : 1
+of concern developed -> within : 1
+concern developed within -> its : 1
+developed within its -> tiny : 1
+within its tiny -> not : 1
+its tiny not -> but : 1
+tiny not but -> an : 1
+not but an -> awareness : 1
+but an awareness -> of : 1
+an awareness of -> drin : 1
+awareness of drin -> watched : 1
+of drin watched -> in : 1
+drin watched in -> dismay : 1
+watched in dismay -> as : 1
+in dismay as -> the : 1
+dismay as the -> creature : 1
+as the creature -> slowed : 1
+as the creature -> studied : 1
+the creature slowed -> down : 1
+creature slowed down -> slightly : 1
+slowed down slightly -> as : 1
+down slightly as -> she : 1
+slightly as she -> backed : 1
+as she backed -> preparing : 1
+she backed preparing -> to : 1
+backed preparing to -> turn : 1
+preparing to turn -> and : 1
+and run if -> it : 1
+run if it -> missed : 1
+if it missed -> the : 1
+it missed the -> against : 1
+missed the against -> all : 1
+the against all -> the : 1
+against all the -> big : 1
+all the big -> clawed : 1
+the big clawed -> left : 1
+big clawed left -> leg : 1
+clawed left leg -> came : 1
+left leg came -> crashing : 1
+leg came crashing -> down : 1
+came crashing down -> atop : 1
+crashing down atop -> the : 1
+down atop the -> framework : 1
+atop the framework -> of : 1
+the framework of -> twigs : 1
+framework of twigs -> and : 1
+of twigs and -> pitching : 1
+twigs and pitching -> the : 1
+and pitching the -> beast : 1
+pitching the beast -> forward : 1
+the beast forward -> as : 1
+beast forward as -> it : 1
+forward as it -> gave : 1
+as it gave -> way : 1
+it gave way -> beneath : 1
+gave way beneath -> its : 1
+way beneath its -> vast : 1
+beneath its vast -> its : 1
+its vast its -> right : 1
+vast its right -> leg : 1
+its right leg -> stretched : 1
+right leg stretched -> forwards : 1
+leg stretched forwards -> smashing : 1
+stretched forwards smashing -> toes : 1
+forwards smashing toes -> first : 1
+smashing toes first -> into : 1
+toes first into -> the : 1
+first into the -> side : 1
+into the side -> of : 1
+the side of -> the : 1
+the side of -> her : 1
+side of the -> pit : 1
+of the pit -> and : 1
+the pit and -> snapping : 1
+pit and snapping -> one : 1
+and snapping one -> of : 1
+snapping one of -> the : 1
+of the gigantic -> claws : 1
+the gigantic claws -> in : 1
+gigantic claws in -> rage : 1
+claws in rage -> and : 1
+in rage and -> thrashing : 1
+rage and thrashing -> the : 1
+and thrashing the -> big : 1
+thrashing the big -> lizard : 1
+big lizard clawed -> and : 1
+lizard clawed and -> scrabbled : 1
+clawed and scrabbled -> to : 1
+and scrabbled to -> struggle : 1
+scrabbled to struggle -> free : 1
+to struggle free -> of : 1
+struggle free of -> the : 1
+free of the -> hole : 1
+of the hole -> in : 1
+the hole in -> which : 1
+hole in which -> it : 1
+in which it -> had : 1
+it had using -> its : 1
+had using its -> forearms : 1
+using its forearms -> to : 1
+its forearms to -> push : 1
+forearms to push -> itself : 1
+to push itself -> up : 1
+to push itself -> inside : 1
+push itself up -> and : 1
+itself up and -> out : 1
+up and out -> of : 1
+and out of -> the : 1
+out of the -> drin : 1
+of the drin -> turned : 1
+of the drin -> found : 1
+of the drin -> remained : 1
+the drin turned -> and : 1
+drin turned and -> ran : 1
+turned and ran -> for : 1
+and ran for -> her : 1
+ran for her -> next : 1
+for her next -> springing : 1
+her next springing -> along : 1
+next springing along -> the : 1
+springing along the -> suddenly : 1
+along the suddenly -> as : 1
+the suddenly as -> horny : 1
+suddenly as horny -> as : 1
+as horny as -> drin : 1
+horny as drin -> had : 1
+as drin had -> to : 1
+drin had to -> fight : 1
+had to fight -> the : 1
+to fight the -> urge : 1
+fight the urge -> to : 1
+the urge to -> touch : 1
+urge to touch -> herself : 1
+to touch herself -> between : 1
+touch herself between -> the : 1
+herself between the -> legs : 1
+between the legs -> as : 1
+the legs as -> she : 1
+legs as she -> ran : 1
+she ran and -> the : 1
+ran and the -> big : 1
+and the big -> lizard : 1
+lizard gave she -> must : 1
+gave she must -> have : 1
+she must have -> become : 1
+must have become -> confused : 1
+have become confused -> and : 1
+become confused and -> lost : 1
+confused and lost -> her : 1
+and lost her -> possibly : 1
+lost her possibly -> due : 1
+her possibly due -> to : 1
+possibly due to -> the : 1
+due to the -> thrill : 1
+to the thrill -> of : 1
+the drin found -> herself : 1
+found herself climbing -> a : 1
+herself climbing a -> sandstone : 1
+climbing a sandstone -> path : 1
+a sandstone path -> up : 1
+sandstone path up -> into : 1
+path up into -> a : 1
+up into a -> hilly : 1
+into a hilly -> region : 1
+a hilly region -> and : 1
+hilly region and -> what : 1
+region and what -> turned : 1
+and what turned -> out : 1
+what turned out -> to : 1
+turned out to -> be : 1
+out to be -> a : 1
+to be a -> rain : 1
+be a rain -> small : 1
+a rain small -> box : 1
+rain small box -> drin : 1
+small box drin -> could : 1
+box drin could -> hear : 1
+drin could hear -> the : 1
+hear the clawed -> feet : 1
+the clawed feet -> of : 1
+clawed feet of -> the : 1
+feet of the -> big : 1
+big lizard approaching -> from : 1
+big lizard approaching -> her : 1
+lizard approaching from -> behind : 1
+approaching from behind -> her : 1
+from behind her -> as : 1
+behind her as -> she : 1
+tried to climb -> the : 1
+to climb the -> curved : 1
+climb the curved -> and : 1
+the curved and -> smooth : 1
+curved and smooth -> surface : 1
+and smooth surface -> of : 1
+smooth surface of -> the : 1
+surface of the -> rock : 1
+of the rock -> to : 1
+the rock to -> no : 1
+rock to no -> fear : 1
+to no fear -> shot : 1
+no fear shot -> through : 1
+fear shot through -> mingling : 1
+shot through mingling -> with : 1
+through mingling with -> the : 1
+mingling with the -> arousal : 1
+with the arousal -> she : 1
+the arousal she -> felt : 1
+arousal she felt -> to : 1
+she felt to -> create : 1
+felt to create -> a : 1
+to create a -> completely : 1
+create a completely -> new : 1
+a completely new -> one : 1
+completely new one -> which : 1
+new one which -> she : 1
+one which she -> did : 1
+which she did -> not : 1
+she did not -> entirely : 1
+did not entirely -> she : 1
+not entirely she -> turned : 1
+entirely she turned -> to : 1
+she turned to -> see : 1
+turned to see -> the : 1
+see the big -> lizard : 1
+lizard approaching her -> knowing : 1
+approaching her knowing -> there : 1
+her knowing there -> was : 1
+knowing there was -> no : 1
+was no escape -> for : 1
+no escape for -> blood : 1
+escape for blood -> dribbled : 1
+for blood dribbled -> from : 1
+blood dribbled from -> its : 1
+dribbled from its -> left : 1
+from its left -> knee : 1
+its left knee -> right : 1
+left knee right -> and : 1
+knee right and -> a : 1
+right and a -> little : 1
+and a little -> from : 1
+a little from -> its : 1
+little from its -> the : 1
+from its the -> were : 1
+its the were -> as : 1
+the were as -> nothing : 1
+were as nothing -> to : 1
+as nothing to -> this : 1
+nothing to this -> creature : 1
+to this creature -> as : 1
+this creature as -> it : 1
+creature as it -> calmly : 1
+as it calmly -> walked : 1
+it calmly walked -> towards : 1
+calmly walked towards -> watched : 1
+walked towards watched -> as : 1
+towards watched as -> the : 1
+watched as the -> creature : 1
+the creature studied -> was : 1
+creature studied was -> that : 1
+studied was that -> caution : 1
+was that caution -> in : 1
+that caution in -> its : 1
+caution in its -> reptilian : 1
+in its reptilian -> eyes : 1
+its reptilian eyes -> or : 1
+reptilian eyes or -> just : 1
+eyes or just -> her : 1
+or just her -> it : 1
+just her it -> made : 1
+her it made -> low : 1
+it made low -> growling : 1
+made low growling -> sounds : 1
+low growling sounds -> deep : 1
+growling sounds deep -> in : 1
+sounds deep in -> its : 1
+deep in its -> throat : 1
+in its throat -> and : 1
+its throat and -> its : 1
+throat and its -> head : 1
+and its head -> rocked : 1
+its head rocked -> slowly : 1
+head rocked slowly -> from : 1
+rocked slowly from -> side : 1
+slowly from side -> to : 1
+from side to -> scenting : 1
+from side to -> drin : 1
+side to scenting -> it : 1
+to scenting it -> turned : 1
+scenting it turned -> her : 1
+it turned her -> body : 1
+turned her body -> in : 1
+her body in -> an : 1
+her body in -> a : 1
+body in an -> attempt : 1
+in an attempt -> to : 1
+an attempt to -> her : 1
+attempt to her -> or : 1
+to her or -> reaction : 1
+her or reaction -> being : 1
+or reaction being -> in : 1
+reaction being in -> a : 1
+being in a -> the : 1
+in a the -> big : 1
+a the big -> lizard : 1
+lizard was upon -> its : 1
+was upon its -> immensely : 1
+upon its immensely -> strong : 1
+its immensely strong -> forelegs : 1
+immensely strong forelegs -> clamping : 1
+strong forelegs clamping -> her : 1
+forelegs clamping her -> arms : 1
+clamping her arms -> with : 1
+her arms with -> an : 1
+arms with an -> unbreakable : 1
+with an unbreakable -> she : 1
+an unbreakable she -> screamed : 1
+unbreakable she screamed -> in : 1
+she screamed in -> pain : 1
+screamed in pain -> and : 1
+in pain and -> fright : 1
+pain and fright -> as : 1
+fright as the -> two : 1
+as the two -> fingers : 1
+the two fingers -> on : 1
+two fingers on -> each : 1
+fingers on each -> hand : 1
+on each hand -> seized : 1
+each hand seized -> her : 1
+hand seized her -> squeezing : 1
+seized her squeezing -> she : 1
+her squeezing she -> waited : 1
+squeezing she waited -> for : 1
+she waited for -> the : 1
+waited for the -> rending : 1
+for the rending -> teeth : 1
+the rending teeth -> to : 1
+rending teeth to -> tear : 1
+teeth to tear -> her : 1
+to tear her -> flesh : 1
+tear her flesh -> and : 1
+her flesh and -> muscle : 1
+flesh and muscle -> from : 1
+and muscle from -> her : 1
+muscle from her -> snapping : 1
+from her snapping -> bones : 1
+her snapping bones -> and : 1
+snapping bones and -> to : 1
+bones and to -> see : 1
+and to see -> her : 1
+to see her -> blood : 1
+see her blood -> fountaining : 1
+her blood fountaining -> before : 1
+blood fountaining before -> her : 1
+fountaining before her -> the : 1
+before her the -> pain : 1
+her the pain -> from : 1
+the pain from -> her : 1
+pain from her -> arms : 1
+from her arms -> actually : 1
+her arms actually -> decreased : 1
+arms actually decreased -> minutely : 1
+actually decreased minutely -> as : 1
+decreased minutely as -> she : 1
+minutely as she -> hung : 1
+as she hung -> suspended : 1
+she hung suspended -> in : 1
+hung suspended in -> the : 1
+suspended in the -> drin : 1
+the drin could -> see : 1
+drin could see -> down : 1
+could see down -> her : 1
+see down her -> past : 1
+down her past -> her : 1
+her past her -> breasts : 1
+past her breasts -> with : 1
+her breasts with -> their : 1
+her breasts with -> each : 1
+breasts with their -> erect : 1
+with their erect -> past : 1
+their erect past -> her : 1
+erect past her -> flat : 1
+past her flat -> stomach : 1
+her flat stomach -> and : 1
+flat stomach and -> down : 1
+stomach and down -> to : 1
+and down to -> the : 1
+down to the -> loincloth : 1
+to the loincloth -> which : 1
+the loincloth which -> hung : 1
+loincloth which hung -> loosely : 1
+which hung loosely -> from : 1
+hung loosely from -> her : 1
+loosely from her -> hot : 1
+from her hot -> breath : 1
+her hot breath -> caressed : 1
+hot breath caressed -> the : 1
+breath caressed the -> small : 1
+caressed the small -> of : 1
+the small of -> her : 1
+small of her -> sending : 1
+of her sending -> an : 1
+her sending an -> exquisite : 1
+sending an exquisite -> thrill : 1
+an exquisite thrill -> throughout : 1
+exquisite thrill throughout -> her : 1
+thrill throughout her -> body : 1
+throughout her body -> as : 1
+her body as -> the : 1
+body as the -> big : 1
+big lizard sniffed -> without : 1
+lizard sniffed without -> it : 1
+sniffed without it -> ripped : 1
+without it ripped -> her : 1
+it ripped her -> loincloth : 1
+ripped her loincloth -> she : 1
+her loincloth she -> looked : 1
+loincloth she looked -> down : 1
+she looked down -> once : 1
+looked down once -> shocked : 1
+down once shocked -> at : 1
+once shocked at -> the : 1
+shocked at the -> actions : 1
+at the actions -> of : 1
+the actions of -> this : 1
+actions of this -> to : 1
+of this to -> see : 1
+this to see -> the : 1
+see the curls -> of : 1
+the curls of -> her : 1
+curls of her -> own : 1
+of her own -> dark : 1
+her own dark -> pubic : 1
+own dark pubic -> below : 1
+dark pubic below -> her : 1
+pubic below her -> feet : 1
+below her feet -> was : 1
+her feet was -> an : 1
+feet was an -> object : 1
+was an object -> which : 1
+an object which -> she : 1
+object which she -> was : 1
+which she was -> unable : 1
+she was unable -> to : 1
+was unable to -> two : 1
+unable to two -> feet : 1
+to two feet -> in : 1
+two feet in -> length : 1
+feet in length -> at : 1
+in length at -> it : 1
+length at it -> was : 1
+at it was -> as : 1
+it was as -> thick : 1
+was as thick -> as : 1
+as her arm -> at : 1
+her arm at -> the : 1
+arm at the -> except : 1
+at the except -> for : 1
+the except for -> the : 1
+except for the -> end : 1
+for the end -> which : 1
+the end which -> tapered : 1
+end which tapered -> down : 1
+which tapered down -> to : 1
+tapered down to -> a : 1
+down to a -> blunt : 1
+to a blunt -> dark : 1
+a blunt dark -> red : 1
+blunt dark red -> and : 1
+dark red and -> the : 1
+red and the -> realization : 1
+and the realization -> hit : 1
+the realization hit -> her : 1
+realization hit her -> like : 1
+hit her like -> a : 1
+her like a -> punch : 1
+like a punch -> in : 1
+a punch in -> the : 1
+punch in the -> she : 1
+the she began -> to : 1
+she began to -> struggle : 1
+began to struggle -> and : 1
+to struggle and -> there : 1
+struggle and there -> was : 1
+and there was -> no : 1
+was no way -> that : 1
+no way that -> this : 1
+way that this -> creature : 1
+that this creature -> would : 1
+this creature would -> be : 1
+creature would be -> able : 1
+would be able -> to : 1
+be able to -> shove : 1
+able to shove -> that : 1
+to shove that -> massive : 1
+shove that massive -> member : 1
+that massive member -> inside : 1
+massive member inside -> legs : 1
+member inside legs -> kicking : 1
+inside legs kicking -> and : 1
+legs kicking and -> head : 1
+kicking and head -> thrashing : 1
+and head thrashing -> from : 1
+head thrashing from -> side : 1
+thrashing from side -> to : 1
+side to drin -> screamed : 1
+to drin screamed -> and : 1
+screamed and cried -> out : 1
+and cried out -> for : 1
+cried out for -> the : 1
+out for the -> big : 1
+for the big -> lizard : 1
+big lizard to -> let : 1
+lizard to let -> her : 1
+to let her -> go : 1
+let her go -> or : 1
+her go or -> just : 1
+go or just -> kill : 1
+or just kill -> and : 1
+just kill and -> eat : 1
+kill and eat -> either : 1
+and eat either -> of : 1
+eat either of -> which : 1
+either of which -> would : 1
+of which would -> be : 1
+which would be -> preferable : 1
+would be preferable -> to : 1
+be preferable to -> being : 1
+preferable to being -> torn : 1
+to being torn -> apart : 1
+being torn apart -> by : 1
+torn apart by -> its : 1
+apart by its -> was : 1
+by its was -> no : 1
+its was no -> response : 1
+was no response -> from : 1
+no response from -> the : 1
+response from the -> creature : 1
+from the creature -> save : 1
+the creature save -> for : 1
+creature save for -> a : 1
+save for a -> gentle : 1
+for a gentle -> lowering : 1
+a gentle lowering -> of : 1
+gentle lowering of -> her : 1
+lowering of her -> body : 1
+of her body -> toward : 1
+of her body -> becoming : 1
+her body toward -> that : 1
+body toward that -> massive : 1
+toward that massive -> drin : 1
+that massive drin -> stilled : 1
+massive drin stilled -> as : 1
+drin stilled as -> she : 1
+stilled as she -> felt : 1
+as she felt -> the : 1
+she felt the -> first : 1
+felt the first -> touch : 1
+the first touch -> of : 1
+first touch of -> the : 1
+touch of the -> moist : 1
+of the moist -> flesh : 1
+the moist flesh -> bobbing : 1
+moist flesh bobbing -> against : 1
+flesh bobbing against -> her : 1
+bobbing against her -> waiting : 1
+against her waiting -> for : 1
+her waiting for -> the : 1
+waiting for the -> final : 1
+for the final -> push : 1
+the final push -> which : 1
+final push which -> would : 1
+push which would -> surely : 1
+which would surely -> split : 1
+would surely split -> her : 1
+surely split her -> in : 1
+split her in -> drin : 1
+in drin felt -> tears : 1
+drin felt tears -> dampen : 1
+felt tears dampen -> the : 1
+tears dampen the -> side : 1
+dampen the side -> of : 1
+side of her -> nose : 1
+of her nose -> and : 1
+her nose and -> cheeks : 1
+nose and cheeks -> as : 1
+and cheeks as -> her : 1
+cheeks as her -> emotions : 1
+as her emotions -> boiled : 1
+her emotions boiled -> a : 1
+emotions boiled a -> vain : 1
+boiled a vain -> attempt : 1
+a vain attempt -> to : 1
+vain attempt to -> make : 1
+attempt to make -> it : 1
+to make it -> hurt : 1
+make it hurt -> drin : 1
+it hurt drin -> opened : 1
+hurt drin opened -> her : 1
+drin opened her -> legs : 1
+opened her legs -> as : 1
+her legs as -> far : 1
+legs as far -> as : 1
+as far as -> she : 1
+far as she -> was : 1
+as she was -> able : 1
+she was able -> to : 1
+was able to -> while : 1
+able to while -> hanging : 1
+to while hanging -> in : 1
+while hanging in -> the : 1
+hanging in the -> creature : 1
+in the creature -> drove : 1
+the creature drove -> smashing : 1
+creature drove smashing -> the : 1
+drove smashing the -> tip : 1
+smashing the tip -> of : 1
+tip of its -> tapered : 1
+tip of its -> thick : 1
+tip of its -> fat : 1
+of its tapered -> cock : 1
+its tapered cock -> into : 1
+tapered cock into -> her : 1
+cock into her -> sensitive : 1
+into her sensitive -> it : 1
+her sensitive it -> was : 1
+sensitive it was -> way : 1
+it was way -> too : 1
+was way too -> big : 1
+way too big -> to : 1
+too big to -> actually : 1
+big to actually -> fit : 1
+to actually fit -> and : 1
+actually fit and -> so : 1
+fit and so -> the : 1
+and so the -> length : 1
+so the length -> of : 1
+length of it -> slid : 1
+of it slid -> along : 1
+it slid along -> her : 1
+slid along her -> spreading : 1
+along her spreading -> her : 1
+her spreading her -> pussy : 1
+spreading her pussy -> lips : 1
+her pussy lips -> wide : 1
+pussy lips wide -> and : 1
+lips wide and -> stroking : 1
+wide and stroking -> across : 1
+and stroking across -> the : 1
+stroking across the -> super : 1
+across the super -> sensitive : 1
+the super sensitive -> tissues : 1
+super sensitive tissues -> drin : 1
+sensitive tissues drin -> even : 1
+tissues drin even -> though : 1
+drin even though -> it : 1
+even though it -> had : 1
+though it had -> not : 1
+it had not -> hurt : 1
+had not hurt -> anywhere : 1
+not hurt anywhere -> near : 1
+hurt anywhere near -> as : 1
+anywhere near as -> much : 1
+near as much -> as : 1
+as much as -> she : 1
+much as she -> had : 1
+as she had -> believed : 1
+as she had -> been : 1
+she had believed -> it : 1
+had believed it -> the : 1
+believed it the -> drew : 1
+it the drew -> back : 1
+the drew back -> and : 1
+drew back and -> tried : 1
+back and tried -> to : 1
+and tried to -> penetrate : 1
+tried to penetrate -> her : 1
+to penetrate her -> the : 1
+penetrate her the -> result : 1
+her the result -> being : 1
+the result being -> the : 1
+result being the -> its : 1
+being the its -> rough : 1
+the its rough -> member : 1
+its rough member -> grazing : 1
+rough member grazing -> across : 1
+member grazing across -> her : 1
+grazing across her -> clitoris : 1
+across her clitoris -> as : 1
+her clitoris as -> it : 1
+clitoris as it -> the : 1
+as it the -> effect : 1
+it the effect -> was : 1
+the effect was -> actually : 1
+effect was actually -> beginning : 1
+was actually beginning -> to : 1
+actually beginning to -> feel : 1
+beginning to feel -> nice : 1
+to feel nice -> to : 1
+feel nice to -> even : 1
+nice to even -> though : 1
+to even though -> the : 1
+even though the -> thought : 1
+though the thought -> of : 1
+the thought of -> this : 1
+thought of this -> vile : 1
+of this vile -> beast : 1
+this vile beast -> arousing : 1
+vile beast arousing -> her : 1
+beast arousing her -> was : 1
+arousing her was -> it : 1
+her was it -> was : 1
+was it was -> better : 1
+it was better -> than : 1
+was better than -> being : 1
+better than being -> once : 1
+than being once -> the : 1
+being once the -> big : 1
+once the big -> lizard : 1
+big lizard tried -> to : 1
+lizard tried to -> push : 1
+tried to push -> itself : 1
+push itself inside -> her : 1
+itself inside her -> and : 1
+inside her and -> was : 1
+her and was -> unable : 1
+and was unable -> merely : 1
+was unable merely -> grinding : 1
+unable merely grinding -> her : 1
+merely grinding her -> dampening : 1
+grinding her dampening -> cunt : 1
+her dampening cunt -> hard : 1
+dampening cunt hard -> against : 1
+cunt hard against -> its : 1
+hard against its -> stiff : 1
+against its stiff -> had : 1
+its stiff had -> a : 1
+stiff had a -> thought : 1
+had a thought -> a : 1
+a thought a -> thought : 1
+thought a thought -> which : 1
+a thought which -> might : 1
+thought which might -> allow : 1
+which might allow -> her : 1
+might allow her -> to : 1
+allow her to -> get : 1
+her to get -> away : 1
+to get away -> from : 1
+get away from -> this : 1
+away from this -> situation : 1
+from this situation -> alive : 1
+this situation alive -> and : 1
+situation alive and -> in : 1
+alive and in -> one : 1
+and in one -> it : 1
+in one it -> was : 1
+one it was -> not : 1
+it was not -> a : 1
+was not a -> thought : 1
+not a thought -> that : 1
+a thought that -> drin : 1
+thought that drin -> particularly : 1
+that drin particularly -> enjoyed : 1
+drin particularly enjoyed -> but : 1
+particularly enjoyed but -> she : 1
+enjoyed but she -> believed : 1
+but she believed -> that : 1
+she believed that -> her : 1
+believed that her -> idea : 1
+that her idea -> might : 1
+her idea might -> just : 1
+idea might just -> reaching : 1
+might just reaching -> down : 1
+just reaching down -> as : 1
+reaching down as -> the : 1
+down as the -> big : 1
+big lizard smashed -> forward : 1
+lizard smashed forward -> once : 1
+smashed forward once -> she : 1
+forward once she -> caught : 1
+once she caught -> the : 1
+she caught the -> girth : 1
+caught the girth -> of : 1
+the girth of -> its : 1
+girth of its -> fat : 1
+of its fat -> cock : 2
+its fat cock -> in : 1
+its fat cock -> to : 1
+fat cock in -> her : 1
+cock in her -> hands : 1
+in her hands -> and : 1
+her hands and -> drew : 1
+hands and drew -> it : 1
+and drew it -> towards : 1
+drew it towards -> her : 1
+it towards her -> increasing : 1
+towards her increasing -> the : 1
+her increasing the -> area : 1
+increasing the area -> of : 1
+the area of -> nerve : 1
+area of nerve -> endings : 1
+of nerve endings -> which : 1
+nerve endings which -> were : 1
+endings which were -> being : 1
+which were being -> the : 1
+were being the -> seemed : 1
+being the seemed -> to : 1
+the seemed to -> appreciate : 1
+seemed to appreciate -> the : 1
+to appreciate the -> it : 1
+appreciate the it -> growled : 1
+the it growled -> out : 1
+it growled out -> a : 1
+growled out a -> moan : 1
+out a moan -> of : 1
+a moan of -> pleasure : 1
+moan of pleasure -> and : 1
+of pleasure and -> started : 1
+pleasure and started -> to : 1
+and started to -> pound : 1
+started to pound -> away : 1
+to pound away -> at : 1
+pound away at -> her : 1
+away at her -> the : 1
+at her the -> tapered : 1
+her the tapered -> tip : 1
+the tapered tip -> of : 1
+tapered tip of -> his : 1
+tip of his -> penis : 1
+of his penis -> sliding : 1
+his penis sliding -> between : 1
+penis sliding between -> her : 1
+sliding between her -> swollen : 1
+between her swollen -> seemed : 1
+her swollen seemed -> as : 1
+swollen seemed as -> if : 1
+seemed as if -> time : 1
+as if time -> stood : 1
+if time stood -> there : 1
+time stood there -> was : 1
+stood there was -> nothing : 1
+there was nothing -> in : 1
+was nothing in -> the : 1
+nothing in the -> entire : 1
+in the entire -> world : 1
+the entire world -> apart : 1
+entire world apart -> from : 1
+world apart from -> this : 1
+apart from this -> growling : 1
+from this growling -> lizard : 1
+this growling lizard -> and : 1
+growling lizard and -> wrapped : 1
+lizard and wrapped -> around : 1
+and wrapped around -> its : 1
+wrapped around its -> she : 1
+around its she -> managed : 1
+its she managed -> to : 1
+managed to bring -> her : 1
+to bring her -> legs : 1
+bring her legs -> locking : 1
+her legs locking -> her : 1
+legs locking her -> ankles : 1
+locking her ankles -> around : 1
+her ankles around -> its : 1
+ankles around its -> wet : 1
+around its wet -> dick : 1
+its wet dick -> as : 1
+wet dick as -> the : 1
+dick as the -> entire : 1
+as the entire -> length : 1
+the entire length -> of : 1
+entire length of -> her : 1
+length of her -> body : 1
+her body becoming -> a : 1
+body becoming a -> cunt : 1
+becoming a cunt -> for : 1
+a cunt for -> this : 1
+cunt for this -> animal : 1
+for this animal -> to : 1
+this animal to -> she : 1
+animal to she -> was : 1
+to she was -> still : 1
+she was still -> able : 1
+was still able -> to : 1
+still able to -> feel : 1
+able to feel -> the : 1
+feel the solidness -> of : 1
+the solidness of -> its : 1
+solidness of its -> cock : 1
+of its cock -> relentlessly : 1
+its cock relentlessly -> sliding : 1
+cock relentlessly sliding -> across : 1
+relentlessly sliding across -> the : 1
+sliding across the -> top : 1
+across the top -> of : 1
+the top of -> her : 1
+top of her -> clit : 1
+of her clit -> and : 1
+her clit and -> pussy : 1
+clit and pussy -> the : 1
+and pussy the -> feeling : 1
+pussy the feeling -> of : 1
+the feeling of -> pleasure : 1
+feeling of pleasure -> began : 1
+of pleasure began -> to : 1
+pleasure began to -> spread : 1
+began to spread -> from : 1
+to spread from -> her : 1
+spread from her -> most : 1
+from her most -> sensitive : 1
+her most sensitive -> waves : 1
+most sensitive waves -> of : 1
+sensitive waves of -> intense : 1
+waves of intense -> feeling : 1
+of intense feeling -> pulsing : 1
+intense feeling pulsing -> through : 1
+feeling pulsing through -> her : 1
+pulsing through her -> body : 1
+through her body -> in : 1
+through her body -> and : 1
+body in a -> way : 1
+in a way -> she : 1
+a way she -> had : 1
+way she had -> never : 1
+she had never -> felt : 1
+had never felt -> sensations : 1
+never felt sensations -> crashing : 1
+felt sensations crashing -> through : 1
+sensations crashing through -> her : 1
+crashing through her -> system : 1
+through her system -> eventually : 1
+her system eventually -> brought : 1
+system eventually brought -> her : 1
+eventually brought her -> to : 1
+brought her to -> the : 1
+her to the -> brink : 1
+to the brink -> and : 1
+the brink and -> she : 1
+brink and she -> had : 1
+she had the -> first : 1
+had the first -> orgasm : 1
+the first orgasm -> of : 1
+first orgasm of -> her : 1
+orgasm of her -> grinding : 1
+of her grinding -> herself : 1
+her grinding herself -> against : 1
+grinding herself against -> the : 1
+herself against the -> cock : 1
+against the cock -> as : 1
+the cock as -> she : 1
+cock as she -> did : 1
+as she did -> and : 1
+she did and -> crying : 1
+did and crying -> out : 1
+and crying out -> with : 1
+crying out with -> intense : 1
+out with intense -> the : 1
+with intense the -> big : 1
+intense the big -> lizard : 1
+lizard was nowhere -> near : 1
+was nowhere near -> and : 1
+nowhere near and -> carried : 1
+near and carried -> on : 1
+and carried on -> not : 1
+carried on not -> registering : 1
+on not registering -> she : 1
+not registering she -> had : 1
+registering she had -> hammering : 1
+she had hammering -> its : 1
+had hammering its -> cock : 1
+hammering its cock -> against : 1
+its cock against -> she : 1
+cock against she -> could : 1
+against she could -> see : 1
+she could see -> the : 1
+see the red -> tip : 1
+the red tip -> of : 1
+red tip of -> its : 1
+of its thick -> cock : 1
+its thick cock -> stabbing : 1
+thick cock stabbing -> upward : 1
+cock stabbing upward -> between : 1
+stabbing upward between -> her : 1
+upward between her -> breasts : 1
+between her breasts -> with : 1
+breasts with each -> she : 1
+with each she -> stared : 1
+each she stared -> at : 1
+she stared at -> the : 1
+stared at the -> there : 1
+at the there -> was : 1
+the there was -> a : 1
+was a hole -> in : 1
+a hole in -> it : 1
+hole in it -> from : 1
+in it from -> which : 1
+it from which -> a : 1
+from which a -> clear : 1
+which a clear -> liquid : 1
+a clear liquid -> was : 1
+clear liquid was -> coating : 1
+liquid was coating -> her : 1
+was coating her -> torso : 1
+coating her torso -> and : 1
+her torso and -> thighs : 1
+torso and thighs -> with : 1
+and thighs with -> an : 1
+thighs with an -> odd : 1
+with an odd -> smelling : 1
+an odd smelling -> drin : 1
+odd smelling drin -> understood : 1
+smelling drin understood -> that : 1
+drin understood that -> this : 1
+understood that this -> would : 1
+that this would -> be : 1
+this would be -> the : 1
+would be the -> hole : 1
+be the hole -> from : 1
+the hole from -> which : 1
+hole from which -> the : 1
+which the creature -> would : 1
+the creature would -> come : 1
+creature would come -> and : 1
+would come and -> looked : 1
+come and looked -> suddenly : 1
+and looked suddenly -> worried : 1
+looked suddenly worried -> that : 1
+suddenly worried that -> it : 1
+worried that it -> would : 1
+that it would -> spray : 1
+it would spray -> its : 1
+would spray its -> fluid : 1
+spray its fluid -> into : 1
+its fluid into -> her : 1
+fluid into her -> could : 1
+into her could -> not : 1
+her could not -> believe : 1
+could not believe -> the : 1
+not believe the -> amazing : 1
+believe the amazing -> feelings : 1
+the amazing feelings -> which : 1
+amazing feelings which -> were : 1
+feelings which were -> shooting : 1
+which were shooting -> through : 1
+were shooting through -> her : 1
+shooting through her -> body : 1
+her body and -> issuing : 1
+body and issuing -> from : 1
+and issuing from -> her : 1
+issuing from her -> battered : 1
+from her battered -> clit : 1
+her battered clit -> and : 1
+battered clit and -> if : 1
+clit and if -> she : 1
+and if she -> got : 1
+if she got -> out : 1
+she got out -> of : 1
+got out of -> she : 1
+out of she -> resolved : 1
+of she resolved -> to : 1
+she resolved to -> find : 1
+resolved to find -> herself : 1
+to find herself -> a : 1
+find herself a -> young : 1
+herself a young -> and : 1
+a young and -> energetic : 1
+young and energetic -> bedfellow : 1
+and energetic bedfellow -> and : 1
+energetic bedfellow and -> show : 1
+bedfellow and show -> him : 1
+and show him -> how : 1
+show him how -> to : 1
+him how to -> do : 1
+how to do -> this : 1
+to do this -> to : 1
+do this to -> drin : 1
+this to drin -> started : 1
+to drin started -> to : 1
+drin started to -> feel : 1
+started to feel -> herself : 1
+to feel herself -> building : 1
+feel herself building -> up : 1
+herself building up -> toward : 1
+building up toward -> another : 1
+up toward another -> intense : 1
+toward another intense -> as : 1
+another intense as -> she : 1
+intense as she -> she : 1
+as she she -> clutched : 1
+she she clutched -> tightly : 1
+she clutched tightly -> onto : 1
+clutched tightly onto -> the : 1
+tightly onto the -> big : 1
+onto the big -> her : 1
+the big her -> arms : 1
+big her arms -> and : 1
+her arms and -> legs : 1
+arms and legs -> tightening : 1
+and legs tightening -> on : 1
+legs tightening on -> the : 1
+tightening on the -> the : 1
+on the the -> tyrannosaurus : 1
+the the tyrannosaurus -> rex : 1
+tyrannosaurus rex yelled -> loudly : 1
+rex yelled loudly -> as : 1
+yelled loudly as -> pints : 1
+loudly as pints -> of : 1
+as pints of -> white : 1
+pints of white -> fluid : 1
+of white fluid -> shot : 1
+white fluid shot -> from : 1
+fluid shot from -> the : 1
+shot from the -> tip : 1
+from the tip -> of : 1
+fat cock to -> splash : 1
+cock to splash -> onto : 1
+to splash onto -> the : 1
+splash onto the -> rocks : 1
+onto the rocks -> below : 1
+the rocks below -> and : 1
+rocks below and -> then : 1
+below and then -> a : 1
+and then a -> third : 1
+then a third -> the : 1
+a third the -> big : 1
+third the big -> lizard : 1
+big lizard rammed -> its : 1
+lizard rammed its -> shaft : 1
+rammed its shaft -> against : 1
+its shaft against -> her : 1
+shaft against her -> naked : 1
+against her naked -> each : 1
+her naked each -> time : 1
+naked each time -> more : 1
+each time more -> of : 1
+time more of -> its : 1
+more of its -> semen : 1
+of its semen -> ejaculated : 1
+its semen ejaculated -> across : 1
+semen ejaculated across -> the : 1
+ejaculated across the -> wetting : 1
+across the wetting -> the : 1
+the wetting the -> rocks : 1
+wetting the rocks -> the : 1
+the rocks the -> simply : 1
+rocks the simply -> let : 1
+the simply let -> drin : 1
+simply let drin -> fall : 1
+let drin fall -> to : 1
+drin fall to -> the : 1
+fall to the -> her : 1
+the her used -> and : 1
+her used and -> soaking : 1
+used and soaking -> body : 1
+and soaking body -> hitting : 1
+soaking body hitting -> the : 1
+body hitting the -> dirt : 1
+hitting the dirt -> near : 1
+the dirt near -> its : 1
+dirt near its -> feet : 1
+near its feet -> as : 1
+its feet as -> it : 1
+feet as it -> stepped : 1
+as it stepped -> back : 1
+it stepped back -> and : 1
+stepped back and -> began : 1
+back and began -> to : 1
+and began to -> drin : 1
+began to drin -> grabbed : 1
+to drin grabbed -> for : 1
+drin grabbed for -> her : 1
+grabbed for her -> which : 1
+for her which -> had : 1
+her which had -> fallen : 1
+which had fallen -> to : 1
+had fallen to -> the : 1
+fallen to the -> ground : 1
+ground as she -> had : 1
+had been hoisted -> into : 1
+been hoisted into -> the : 1
+hoisted into the -> the : 1
+into the the -> big : 1
+the the big -> lizard : 1
+lizard had turned -> almost : 1
+had turned almost -> completely : 1
+turned almost completely -> around : 1
+almost completely around -> and : 1
+completely around and -> was : 1
+around and was -> just : 1
+and was just -> about : 1
+was just about -> to : 1
+just about to -> move : 1
+about to move -> off : 1
+to move off -> when : 1
+move off when -> grul : 1
+off when grul -> ran : 1
+when grul ran -> into : 1
+grul ran into -> the : 1
+into the box -> yelling : 1
+the box yelling -> his : 1
+box yelling his -> lungs : 1
+yelling his lungs -> drin : 1
+his lungs drin -> was : 1
+lungs drin was -> if : 1
+drin was if -> he : 1
+was if he -> had : 1
+if he had -> seen : 1
+if he had -> not : 1
+he had seen -> her : 1
+had seen her -> mating : 1
+seen her mating -> with : 1
+her mating with -> the : 1
+mating with the -> would : 1
+with the would -> he : 1
+the would he -> say : 1
+would he say -> anything : 1
+he say anything -> to : 1
+say anything to -> the : 1
+anything to the -> if : 1
+to the if -> he : 1
+the if he -> had : 1
+he had not -> seen : 1
+had not seen -> should : 1
+not seen should -> she : 1
+seen should she -> try : 1
+should she try -> and : 1
+she try and -> aid : 1
+try and aid -> him : 1
+and aid him -> in : 1
+aid him in -> killing : 1
+him in killing -> the : 1
+in killing the -> was : 1
+killing the was -> exhausted : 1
+the was exhausted -> and : 1
+was exhausted and -> watching : 1
+exhausted and watching -> the : 1
+and watching the -> lizard : 1
+watching the lizard -> as : 1
+the lizard as -> it : 1
+lizard as it -> batted : 1
+as it batted -> long : 1
+it batted long -> stick : 1
+batted long stick -> away : 1
+long stick away -> and : 1
+stick away and -> snapped : 1
+away and snapped -> its : 1
+and snapped its -> powerful : 1
+snapped its powerful -> jaws : 1
+its powerful jaws -> together : 1
+powerful jaws together -> around : 1
+jaws together around -> severing : 1
+together around severing -> the : 1
+around severing the -> man : 1
+severing the man -> in : 1
+the man in -> drin : 1
+man in drin -> could : 1
+in drin could -> not : 1
+drin could not -> even : 1
+could not even -> begin : 1
+not even begin -> to : 1
+even begin to -> think : 1
+begin to think -> she : 1
+to think she -> would : 1
+think she would -> stand : 1
+she would stand -> a : 1
+would stand a -> chance : 1
+stand a chance -> against : 1
+a chance against -> the : 1
+chance against the -> violent : 1
+against the violent -> beast : 1
+the violent beast -> and : 1
+violent beast and -> simply : 1
+beast and simply -> stayed : 1
+and simply stayed -> where : 1
+simply stayed where -> she : 1
+stayed where she -> was : 1
+where she was -> while : 1
+she was while -> the : 1
+was while the -> thing : 1
+while the thing -> chewed : 1
+the thing chewed -> on : 1
+thing chewed on -> head : 1
+chewed on head -> briefly : 1
+on head briefly -> before : 1
+head briefly before -> picking : 1
+briefly before picking -> the : 1
+before picking the -> remainder : 1
+picking the remainder -> of : 1
+remainder of him -> up : 1
+of him up -> and : 1
+him up and -> swallowing : 1
+up and swallowing -> him : 1
+and swallowing him -> once : 1
+swallowing him once -> its : 1
+him once its -> appetite : 1
+once its appetite -> had : 1
+its appetite had -> been : 1
+appetite had been -> the : 1
+had been the -> big : 1
+been the big -> lizard : 1
+big lizard walked -> the : 1
+lizard walked the -> remainder : 1
+walked the remainder -> of : 1
+the drin remained -> where : 1
+drin remained where -> she : 1
+remained where she -> considering : 1
+where she considering -> all : 1
+she considering all -> which : 1
+considering all which -> had : 1
+all which had -> happened : 1
+which had happened -> that : 1
+had happened that -> once : 1
+happened that once -> dusk : 1
+that once dusk -> began : 1
+once dusk began -> to : 1
+dusk began to -> draw : 1
+began to draw -> the : 1
+to draw the -> young : 1
+draw the young -> woman : 1
+young woman rose -> from : 1
+woman rose from -> her : 1
+rose from her -> position : 1
+from her position -> and : 1
+her position and -> gathered : 1
+position and gathered -> up : 1
+and gathered up -> the : 1
+gathered up the -> tattered : 1
+up the tattered -> remains : 1
+the tattered remains -> of : 1
+tattered remains of -> her : 1
+remains of her -> securing : 1
+of her securing -> it : 1
+her securing it -> around : 1
+securing it around -> her : 1
+it around her -> once : 1
+around her once -> she : 1
+her once she -> retrieved : 1
+once she retrieved -> cutter : 1
+she retrieved cutter -> from : 1
+retrieved cutter from -> beside : 1
+cutter from beside -> the : 1
+from beside the -> pool : 1
+beside the pool -> of : 1
+the pool of -> dried : 1
+pool of dried -> blood : 1
+of dried blood -> where : 1
+dried blood where -> it : 1
+blood where it -> had : 1
+it had been -> in : 1
+had been in -> the : 1
+been in the -> village : 1
+in the village -> she : 1
+the village she -> told : 1
+village she told -> the : 1
+she told the -> story : 1
+told the story -> of : 1
+the story of -> how : 1
+story of how -> she : 1
+of how she -> had : 1
+how she had -> run : 1
+she had run -> and : 1
+had run and -> been : 1
+run and been -> cornered : 1
+and been cornered -> and : 1
+been cornered and -> how : 1
+cornered and how -> grul : 1
+and how grul -> had : 1
+how grul had -> died : 1
+grul had died -> heroically : 1
+had died heroically -> trying : 1
+died heroically trying -> to : 1
+heroically trying to -> save : 1
+trying to save -> yet : 1
+to save yet -> the : 1
+save yet the -> big : 1
+yet the big -> lizard : 1
+lizard had lost -> interest : 1
+had lost interest -> once : 1
+lost interest once -> grul : 1
+interest once grul -> had : 1
+once grul had -> been : 1
+had been drin -> had : 1
+been drin had -> washed : 1
+drin had washed -> herself : 1
+had washed herself -> down : 1
+washed herself down -> and : 1
+herself down and -> rejoined : 1
+down and rejoined -> the : 1
+and rejoined the -> small : 1
+rejoined the small -> community : 1
+the small community -> around : 1
+small community around -> another : 1
+community around another -> large : 1
+around another large -> scanning : 1
+another large scanning -> the : 1
+large scanning the -> young : 1
+scanning the young -> men : 1
+the young men -> for : 1
+young men for -> a : 1
+men for a -> suitable : 1
+for a suitable -> looking : 1
+a suitable looking -> man : 1
+suitable looking man -> to : 1
+looking man to -> service : 1
+man to service -> up : 1
+to service up -> for : 1
+service up for -> the : 1
+on and you -> have : 1
+and you have -> any : 1
+you have any -> questions : 1
+have any questions -> or : 1
+any questions or -> comments : 1
+questions or comments -> regarding : 1
+or comments regarding -> this : 1
+comments regarding this -> another : 1
+regarding this another -> or : 1
+this another or -> you : 1
+another or you -> just : 1
+or you just -> feel : 1
+you just feel -> like : 1
+just feel like -> chatting : 1
+feel like chatting -> with : 1
+like chatting with -> the : 1
+chatting with the -> feel : 1
+with the feel -> free : 1
+the feel free -> to : 1
+feel free to -> send : 1
+free to send -> an : 1
+to send an -> email : 1
+send an email -> to : 1
+an email to -> and : 1
+email to and -> christie : 1
+to and christie -> both : 1
+and christie both -> love : 1
+christie both love -> to : 1
+both love to -> hear : 1
+love to hear -> from : 1
+to hear from -> their : 1
+hear from their -> fans : 1
+from their fans -> and : 1
+their fans and -> are : 1
+fans and are -> happy : 1
+and are happy -> to : 1
+are happy to -> answer : 1
+happy to answer -> any : 1
+to answer any -> question : 1
+answer any question -> they : 1
+any question they -> may : 1

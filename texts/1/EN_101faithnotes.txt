@@ -1,0 +1,3565 @@
+meditations : 1
+part : 1
+publication : 1
+reproduced : 1
+transmitted : 1
+commercial : 1
+except : 1
+brief : 1
+printed : 1
+interests : 1
+reproduce : 1
+express : 1
+provided : 1
+exceed : 1
+ten : 1
+percent : 1
+entire : 1
+reproducing : 1
+please : 1
+include : 1
+following : 1
+credit : 1
+unless : 1
+otherwise : 1
+amp : 1
+amplified : 1
+lockman : 1
+nkjv : 1
+king : 1
+james : 1
+version : 1
+creeden : 1
+avid : 1
+training : 1
+riders : 1
+reviews : 1
+nelson : 1
+articles : 1
+published : 1
+quotes : 1
+throughout : 1
+note : 1
+husband : 1
+continued : 1
+support : 1
+friends : 1
+writers : 1
+encouragement : 1
+reader : 1
+taking : 1
+deeper : 1
+understanding : 1
+relationship : 1
+common : 1
+misconceptions : 1
+covered : 1
+bad : 1
+difference : 1
+fall : 1
+pit : 1
+stay : 1
+falls : 1
+rises : 1
+wicked : 1
+brought : 1
+calamity : 1
+master : 1
+wondered : 1
+search : 1
+confident : 1
+began : 1
+good : 1
+carry : 1
+completion : 1
+whether : 1
+willful : 1
+response : 1
+ninevites : 1
+believed : 1
+declared : 1
+greatest : 1
+repentance : 1
+stop : 1
+reasoning : 1
+confess : 1
+sins : 1
+purify : 1
+children : 1
+unfortunately : 1
+addictive : 1
+quality : 1
+becomes : 1
+tries : 1
+calling : 1
+learn : 1
+free : 1
+justification : 1
+obtain : 1
+looked : 1
+problem : 1
+bigger : 1
+break : 1
+creation : 1
+create : 1
+ah : 1
+sovereign : 1
+outstretched : 1
+eyes : 1
+enlightened : 1
+riches : 1
+inheritance : 1
+incomparably : 1
+same : 1
+exerted : 1
+dead : 1
+seated : 1
+heavenly : 1
+realms : 1
+born : 1
+parents : 1
+although : 1
+claim : 1
+heritage : 1
+demons : 1
+believes : 1
+died : 1
+was : 1
+resurrected : 1
+historical : 1
+facts : 1
+save : 1
+declare : 1
+profess : 1
+miraculous : 1
+event : 1
+single : 1
+confidence : 1
+assurance : 1
+overcomes : 1
+act : 1
+interior : 1
+something : 1
+false : 1
+filled : 1
+inexpressible : 1
+absentee : 1
+hearts : 1
+also : 1
+adversity : 1
+loss : 1
+rudder : 1
+steered : 1
+closer : 1
+discover : 1
+really : 1
+shallow : 1
+unworthy : 1
+suffering : 1
+cause : 1
+whom : 1
+guard : 1
+entrusted : 1
+separated : 1
+child : 1
+anymore : 1
+angels : 1
+present : 1
+any : 1
+height : 1
+anything : 1
+else : 1
+shed : 1
+cares : 1
+number : 1
+different : 1
+very : 1
+almost : 1
+its : 1
+root : 1
+busy : 1
+trying : 1
+replace : 1
+heal : 1
+comfort : 1
+divided : 1
+attempt : 1
+serve : 1
+rely : 1
+undivided : 1
+compassionate : 1
+gracious : 1
+slow : 1
+abounding : 1
+grace : 1
+highly : 1
+sober : 1
+accordance : 1
+distributed : 1
+proud : 1
+solutions : 1
+trust : 1
+lean : 1
+humble : 1
+lets : 1
+understands : 1
+realizes : 1
+looks : 1
+direct : 1
+run : 1
+path : 1
+narrow : 1
+wide : 1
+gate : 1
+broad : 1
+road : 1
+leads : 1
+assume : 1
+doubts : 1
+wave : 1
+blown : 1
+tossed : 1
+whatever : 1
+received : 1
+strong : 1
+less : 1
+remain : 1
+plank : 1
+clearly : 1
+remove : 1
+speck : 1
+falsehood : 1
+lies : 1
+poverty : 1
+poor : 1
+dishonor : 1
+psalm : 1
+their : 1
+unfaithfulness : 1
+nullify : 1
+testing : 1
+produces : 1
+taught : 1
+fellowship : 1
+needs : 1
+surely : 1
+rising : 1
+waters : 1
+reach : 1
+send : 1
+lead : 1
+where : 1
+joyful : 1
+patient : 1
+oh : 1
+keeping : 1
+witness : 1
+cultivate : 1
+upon : 1
+wholly : 1
+evident : 1
+demolish : 1
+arguments : 1
+pretension : 1
+itself : 1
+obedient : 1
+hours : 1
+unfruitful : 1
+raising : 1
+necessary : 1
+fruitful : 1
+branches : 1
+vine : 1
+cuts : 1
+bears : 1
+prunes : 1
+obedience : 1
+prune : 1
+foot : 1
+cut : 1
+maimed : 1
+crippled : 1
+hands : 1
+feet : 1
+thrown : 1
+eternal : 1
+might : 1
+occupy : 1
+remote : 1
+corner : 1
+approval : 1
+huge : 1
+courts : 1
+thousand : 1
+doorkeeper : 1
+house : 1
+dwell : 1
+tents : 1
+contend : 1
+constantly : 1
+proof : 1
+here : 1
+trusting : 1
+massah : 1
+meribah : 1
+quarreled : 1
+tested : 1
+among : 1
+respect : 1
+loves : 1
+mean : 1
+lambs : 1
+lion : 1
+could : 1
+easily : 1
+lie : 1
+contends : 1
+almighty : 1
+correct : 1
+accuses : 1
+count : 1
+inconvenience : 1
+bringing : 1
+after : 1
+deny : 1
+twice : 1
+church : 1
+sunday : 1
+reading : 1
+chapter : 1
+week : 1
+delight : 1
+meditates : 1
+depart : 1
+careful : 1
+prosperous : 1
+tranquility : 1
+change : 1
+behavior : 1
+outside : 1
+prayer : 1
+hour : 1
+devotional : 1
+morning : 1
+evening : 1
+heathen : 1
+rest : 1
+crucified : 1
+lives : 1
+loved : 1
+freedom : 1
+knowing : 1
+answers : 1
+extended : 1
+matthew : 1
+shall : 1
+brother : 1
+pigpen : 1
+carries : 1
+most : 1
+sounds : 1
+praising : 1
+makes : 1
+powers : 1
+darkness : 1
+gives : 1
+victory : 1
+higher : 1
+reaches : 1
+ordinary : 1
+went : 1
+places : 1
+wondrous : 1
+simply : 1
+decided : 1
+obey : 1
+others : 1
+crowd : 1
+rebuked : 1
+shouted : 1
+mercy : 1
+grocery : 1
+store : 1
+entrances : 1
+seem : 1
+judah : 1
+face : 1
+chronicles : 1
+opens : 1
+door : 1
+moses : 1
+answered : 1
+egyptians : 1
+crying : 1
+move : 1
+fail : 1
+eventually : 1
+win : 1
+weary : 1
+proper : 1
+reap : 1
+harvest : 1
+temporary : 1
+pain : 1
+misery : 1
+remember : 1
+promised : 1
+threshing : 1
+crush : 1
+thresh : 1
+driven : 1
+cartwheel : 1
+scatters : 1
+having : 1
+crushed : 1
+beauty : 1
+inside : 1
+revealed : 1
+bruised : 1
+reed : 1
+smoldering : 1
+wick : 1
+snuff : 1
+forth : 1
+justice : 1
+thoughts : 1
+books : 1
+prodigal : 1
+coming : 1
+way : 1
+home : 1
+november : 1
+reserved : 2
+author : 2
+other : 2
+portions : 2
+scripture : 2
+new : 2
+international : 2
+used : 2
+marked : 2
+thomas : 2
+she : 2
+horses : 2
+show : 2
+her : 2
+blessed : 2
+means : 2
+christians : 2
+longer : 2
+righteous : 2
+far : 2
+away : 2
+call : 2
+work : 2
+agree : 2
+sinned : 2
+knowledge : 2
+least : 2
+put : 2
+first : 2
+john : 2
+did : 2
+receive : 2
+gave : 2
+right : 2
+hard : 2
+why : 2
+should : 2
+everyone : 2
+set : 2
+impossible : 2
+powerful : 2
+heavens : 2
+overcome : 2
+made : 2
+earth : 2
+nothing : 2
+too : 2
+order : 2
+which : 2
+glorious : 2
+mighty : 2
+strength : 2
+raised : 2
+hand : 2
+there : 2
+anyone : 2
+came : 2
+these : 2
+mouth : 2
+given : 2
+takes : 2
+now : 2
+told : 2
+yet : 2
+believing : 2
+causes : 2
+corinthians : 2
+peter : 2
+often : 2
+come : 2
+remains : 2
+convinced : 2
+separate : 2
+death : 2
+head : 2
+rather : 2
+each : 2
+care : 2
+got : 2
+find : 2
+problems : 2
+father : 2
+therefore : 2
+full : 2
+daily : 2
+disown : 2
+name : 2
+today : 2
+while : 2
+thought : 2
+captive : 2
+progress : 2
+meditate : 2
+throw : 2
+sets : 2
+against : 2
+spend : 2
+resources : 2
+instead : 2
+bear : 2
+off : 2
+branch : 2
+fruit : 2
+everything : 2
+farthest : 2
+israelites : 2
+cross : 2
+comes : 2
+himself : 2
+per : 2
+word : 2
+bread : 2
+peace : 2
+decision : 2
+back : 2
+seventy : 2
+burden : 2
+easy : 2
+yoke : 2
+always : 2
+praise : 2
+people : 2
+minute : 2
+fight : 2
+stand : 2
+firm : 2
+deliverance : 2
+go : 2
+loser : 2
+worth : 2
+notes : 3
+quotations : 3
+written : 3
+permission : 3
+book : 3
+text : 3
+taken : 3
+holy : 3
+copyright : 3
+those : 3
+thank : 3
+pick : 3
+hope : 3
+about : 3
+once : 3
+into : 3
+get : 3
+going : 3
+though : 3
+matter : 3
+being : 3
+were : 3
+forgive : 3
+teach : 3
+through : 3
+able : 3
+under : 3
+help : 3
+great : 3
+power : 3
+pray : 3
+called : 3
+person : 3
+true : 3
+before : 3
+son : 3
+some : 3
+want : 3
+timothy : 3
+hairs : 3
+ourselves : 3
+solve : 3
+fear : 3
+o : 3
+enter : 3
+better : 3
+ask : 3
+answer : 3
+tell : 3
+light : 3
+place : 3
+two : 3
+doors : 3
+over : 3
+faith : 4
+rights : 4
+bible : 4
+christian : 4
+down : 4
+think : 4
+doing : 4
+step : 4
+yourself : 4
+law : 4
+things : 4
+enough : 4
+say : 4
+seen : 4
+out : 4
+keep : 4
+bring : 4
+eat : 4
+said : 4
+pauline : 5
+without : 5
+an : 5
+many : 5
+never : 5
+time : 5
+until : 5
+must : 5
+just : 5
+become : 5
+more : 5
+heart : 5
+live : 5
+neither : 5
+feel : 5
+need : 5
+much : 5
+follow : 6
+been : 6
+would : 6
+sin : 6
+make : 6
+man : 6
+seven : 6
+day : 6
+christ : 6
+believe : 6
+cannot : 6
+own : 6
+life : 6
+am : 6
+at : 7
+does : 7
+how : 7
+they : 7
+know : 7
+as : 7
+like : 7
+can : 7
+only : 7
+see : 7
+then : 7
+nor : 7
+no : 8
+love : 8
+them : 8
+even : 8
+take : 8
+so : 9
+give : 9
+let : 9
+may : 10
+one : 10
+has : 10
+than : 10
+lord : 10
+times : 10
+our : 13
+him : 13
+jesus : 13
+when : 14
+who : 14
+every : 14
+because : 14
+what : 15
+do : 15
+or : 16
+up : 16
+all : 17
+me : 17
+my : 18
+if : 18
+on : 20
+by : 20
+this : 20
+with : 21
+but : 22
+us : 22
+from : 23
+his : 24
+are : 25
+it : 25
+a : 26
+god : 27
+have : 32
+be : 33
+for : 33
+will : 33
+we : 37
+i : 40
+your : 41
+he : 43
+not : 46
+in : 55
+that : 59
+of : 65
+is : 68
+you : 78
+to : 102
+and : 117
+the : 156
+faith notes and -> meditations : 1
+notes and meditations -> on : 1
+and meditations on -> by : 1
+meditations on by -> pauline : 1
+on by pauline -> all : 1
+by pauline all -> rights : 1
+pauline all rights -> reserved : 1
+all rights reserved -> by : 1
+all rights reserved -> quotations : 1
+rights reserved by -> the : 1
+reserved by the -> author : 1
+by the author -> pauline : 1
+the author pauline -> the : 1
+author pauline the -> author : 1
+pauline the author -> at : 1
+the author at -> follow : 1
+author at follow -> me : 1
+at follow me -> on : 1
+follow me on -> rights : 1
+me on rights -> no : 1
+on rights no -> part : 1
+rights no part -> of : 1
+no part of -> this : 1
+part of this -> publication : 1
+of this publication -> may : 1
+this publication may -> be : 1
+publication may be -> reproduced : 1
+may be reproduced -> or : 1
+be reproduced or -> transmitted : 1
+reproduced or transmitted -> for : 1
+or transmitted for -> commercial : 1
+transmitted for commercial -> except : 1
+for commercial except -> for : 1
+commercial except for -> brief : 1
+except for brief -> quotations : 1
+for brief quotations -> in : 1
+brief quotations in -> printed : 1
+quotations in printed -> without : 1
+in printed without -> written : 1
+printed without written -> permission : 1
+without written permission -> of : 1
+written permission of -> the : 2
+permission of the -> and : 1
+permission of the -> provided : 1
+of the and -> other : 1
+of the and -> on : 1
+the and other -> interests : 1
+and other interests -> my : 1
+other interests my -> reproduce : 1
+interests my reproduce -> portions : 1
+my reproduce portions -> of : 1
+reproduce portions of -> this : 1
+portions of this -> book : 1
+of this book -> without : 1
+this book without -> the : 1
+book without the -> express : 1
+without the express -> written : 1
+the express written -> permission : 1
+express written permission -> of : 1
+of the provided -> that : 1
+the provided that -> the : 1
+provided that the -> text : 1
+that the text -> does : 1
+the text does -> not : 1
+text does not -> exceed : 1
+does not exceed -> ten : 1
+not exceed ten -> percent : 1
+exceed ten percent -> of : 1
+ten percent of -> the : 1
+percent of the -> entire : 1
+of the entire -> when : 1
+the entire when -> reproducing : 1
+entire when reproducing -> text : 1
+when reproducing text -> from : 1
+reproducing text from -> this : 1
+text from this -> please : 1
+from this please -> include : 1
+this please include -> the : 1
+please include the -> following : 1
+include the following -> credit : 1
+the following credit -> faith : 1
+following credit faith -> notes : 1
+credit faith notes -> by : 1
+faith notes by -> pauline : 1
+notes by pauline -> scripture : 1
+by pauline scripture -> unless : 1
+pauline scripture unless -> otherwise : 1
+scripture unless otherwise -> are : 1
+unless otherwise are -> taken : 1
+otherwise are taken -> from : 1
+are taken from -> the : 3
+taken from the -> holy : 1
+taken from the -> amplified : 1
+taken from the -> new : 1
+from the holy -> new : 1
+the holy new -> international : 1
+holy new international -> copyright : 1
+new international copyright -> by : 1
+international copyright by -> international : 1
+copyright by international -> bible : 1
+by international bible -> used : 1
+international bible used -> by : 1
+bible used by -> permission : 1
+used by permission -> of : 1
+by permission of -> all : 1
+permission of all -> rights : 1
+of all rights -> reserved : 1
+rights reserved quotations -> marked : 1
+reserved quotations marked -> amp : 1
+quotations marked amp -> are : 1
+marked amp are -> taken : 1
+amp are taken -> from : 1
+from the amplified -> bible : 1
+the amplified bible -> copyright : 1
+amplified bible copyright -> by : 1
+bible copyright by -> the : 1
+copyright by the -> lockman : 1
+by the lockman -> quotations : 1
+the lockman quotations -> marked : 1
+lockman quotations marked -> nkjv : 1
+quotations marked nkjv -> are : 1
+marked nkjv are -> taken : 1
+nkjv are taken -> from : 1
+from the new -> king : 1
+the new king -> james : 1
+new king james -> version : 1
+king james version -> copyright : 1
+james version copyright -> by : 1
+version copyright by -> thomas : 1
+copyright by thomas -> all : 1
+by thomas all -> rights : 1
+thomas all rights -> used : 1
+all rights used -> by : 1
+rights used by -> the : 1
+used by the -> pauline : 1
+by the pauline -> creeden : 1
+the pauline creeden -> is : 1
+pauline creeden is -> an : 1
+creeden is an -> avid : 1
+is an avid -> and : 1
+an avid and -> when : 1
+avid and when -> she : 1
+and when she -> is : 1
+when she is -> not : 1
+she is not -> training : 1
+is not training -> horses : 1
+not training horses -> and : 1
+training horses and -> riders : 1
+horses and riders -> for : 1
+and riders for -> the : 1
+riders for the -> show : 1
+for the show -> she : 1
+the show she -> reviews : 1
+show she reviews -> for : 1
+she reviews for -> thomas : 1
+reviews for thomas -> nelson : 1
+for thomas nelson -> and : 1
+thomas nelson and -> many : 1
+nelson and many -> her : 1
+and many her -> articles : 1
+many her articles -> have : 1
+her articles have -> been : 1
+articles have been -> published : 1
+have been published -> in : 1
+been published in -> christian : 1
+published in christian -> and : 1
+in christian and -> on : 1
+christian and on -> her : 1
+and on her -> the : 1
+on her the -> quotes : 1
+her the quotes -> throughout : 1
+the quotes throughout -> this : 1
+quotes throughout this -> text : 1
+throughout this text -> are : 1
+this text are -> portions : 1
+text are portions -> of : 1
+are portions of -> those : 1
+portions of those -> and : 1
+of those and -> note : 1
+those and note -> from : 1
+and note from -> the : 1
+note from the -> thank : 1
+from the thank -> you : 1
+the thank you -> to : 1
+thank you to -> my : 1
+you to my -> husband : 1
+to my husband -> for : 1
+my husband for -> his : 1
+husband for his -> continued : 1
+for his continued -> support : 1
+his continued support -> and : 1
+continued support and -> love : 1
+support and love -> for : 1
+and love for -> i : 1
+love for i -> have : 1
+for i have -> to : 1
+i have to -> thank : 1
+have to thank -> my : 1
+to thank my -> friends : 1
+thank my friends -> at : 1
+my friends at -> christian : 1
+friends at christian -> writers : 1
+at christian writers -> and : 1
+christian writers and -> without : 1
+writers and without -> your : 1
+and without your -> encouragement : 1
+without your encouragement -> and : 1
+your encouragement and -> this : 1
+encouragement and this -> book : 1
+and this book -> would : 1
+this book would -> never : 1
+book would never -> have : 1
+would never have -> been : 1
+never have been -> thank : 1
+have been thank -> you : 1
+been thank you -> reader : 1
+thank you reader -> for : 1
+you reader for -> taking : 1
+reader for taking -> the : 1
+for taking the -> time : 1
+taking the time -> to : 1
+the time to -> pick : 1
+time to pick -> up : 1
+to pick up -> this : 1
+to pick up -> our : 1
+pick up this -> is : 1
+up this is -> my : 1
+this is my -> hope : 1
+is my hope -> that : 1
+my hope that -> you : 1
+hope that you -> will : 1
+that you will -> be : 1
+you will be -> blessed : 1
+you will be -> for : 1
+you will be -> prosperous : 1
+will be blessed -> with : 1
+be blessed with -> a : 1
+blessed with a -> deeper : 1
+with a deeper -> understanding : 1
+a deeper understanding -> and : 1
+deeper understanding and -> relationship : 1
+understanding and relationship -> with : 1
+and relationship with -> your : 1
+relationship with your -> it : 1
+with your it -> means : 1
+your it means -> to : 1
+it means to -> be : 1
+means to be -> a : 1
+to be a -> one : 1
+be a one -> of : 1
+a one of -> the : 1
+one of the -> common : 1
+of the common -> misconceptions : 1
+the common misconceptions -> about : 1
+common misconceptions about -> christians : 1
+misconceptions about christians -> is : 1
+about christians is -> that : 1
+christians is that -> once : 1
+is that once -> been : 1
+that once been -> covered : 1
+once been covered -> by : 1
+been covered by -> you : 1
+covered by you -> no : 1
+by you no -> longer : 1
+you no longer -> sin : 1
+no longer sin -> or : 1
+longer sin or -> make : 1
+sin or make -> bad : 1
+or make bad -> but : 1
+make bad but -> not : 1
+bad but not -> the : 1
+but not the -> difference : 1
+not the difference -> is : 1
+the difference is -> that : 1
+difference is that -> when : 1
+is that when -> we : 1
+that when we -> fall : 1
+when we fall -> down : 1
+we fall down -> into : 1
+fall down into -> the : 1
+down into the -> pit : 1
+into the pit -> of : 1
+the pit of -> we : 1
+pit of we -> stay : 1
+of we stay -> christians : 1
+we stay christians -> get : 1
+stay christians get -> up : 1
+christians get up -> and : 1
+get up and -> get : 1
+up and get -> going : 1
+and get going -> for : 1
+get going for -> though : 1
+going for though -> the : 1
+for though the -> righteous : 1
+though the righteous -> man : 1
+the righteous man -> falls : 1
+righteous man falls -> seven : 1
+man falls seven -> he : 1
+falls seven he -> rises : 1
+seven he rises -> but : 1
+he rises but -> the : 1
+rises but the -> wicked : 1
+but the wicked -> are : 1
+the wicked are -> brought : 1
+wicked are brought -> down : 1
+are brought down -> by : 1
+brought down by -> calamity : 1
+down by calamity -> no : 1
+by calamity no -> matter : 1
+calamity no matter -> how : 1
+no matter how -> far : 1
+no matter how -> many : 1
+matter how far -> away : 1
+how far away -> from : 1
+far away from -> the : 1
+away from the -> master : 1
+away from the -> but : 1
+from the master -> we : 1
+the master we -> have : 1
+master we have -> wondered : 1
+we have wondered -> he : 1
+have wondered he -> will : 1
+wondered he will -> search : 1
+he will search -> for : 1
+will search for -> us : 1
+search for us -> and : 1
+for us and -> call : 1
+us and call -> us : 1
+and call us -> until : 1
+call us until -> his : 1
+us until his -> work : 1
+until his work -> is : 1
+his work is -> being : 1
+work is being -> confident : 1
+is being confident -> in : 1
+being confident in -> that : 1
+confident in that -> he : 1
+in that he -> who : 1
+that he who -> began : 1
+he who began -> a : 1
+who began a -> good : 1
+began a good -> work : 1
+a good work -> in : 1
+good work in -> you : 1
+work in you -> will : 1
+in you will -> carry : 1
+you will carry -> it : 1
+will carry it -> on : 1
+carry it on -> to : 1
+it on to -> completion : 1
+on to completion -> until : 1
+to completion until -> the : 1
+completion until the -> day : 1
+until the day -> of : 1
+the day of -> christ : 1
+day of christ -> you : 1
+of christ you -> have : 1
+christ you have -> to : 1
+you have to -> think : 1
+you have to -> see : 1
+you have to -> eat : 2
+have to think -> and : 1
+to think and -> agree : 1
+think and agree -> with : 1
+and agree with -> god : 1
+agree with god -> that : 2
+with god that -> what : 1
+with god that -> you : 1
+god that what -> you : 1
+that what you -> have : 1
+what you have -> been : 1
+you have been -> doing : 1
+have been doing -> is : 1
+been doing is -> it : 1
+doing is it -> does : 1
+is it does -> not : 1
+it does not -> matter : 1
+does not matter -> whether : 1
+not matter whether -> you : 1
+matter whether you -> were : 1
+whether you were -> willful : 1
+you were willful -> in : 1
+were willful in -> your : 1
+willful in your -> sin : 1
+in your sin -> or : 1
+your sin or -> if : 1
+sin or if -> you : 1
+or if you -> sinned : 1
+if you sinned -> the : 1
+you sinned the -> response : 1
+sinned the response -> to : 1
+the response to -> the : 1
+response to the -> knowledge : 1
+to the knowledge -> of : 1
+the knowledge of -> the : 1
+the knowledge of -> and : 1
+knowledge of the -> sin : 1
+of the sin -> must : 1
+the sin must -> be : 1
+sin must be -> the : 1
+must be the -> the : 1
+be the the -> ninevites : 1
+the the ninevites -> believed : 1
+the ninevites believed -> they : 1
+ninevites believed they -> declared : 1
+believed they declared -> a : 1
+they declared a -> and : 1
+declared a and -> all : 1
+a and all -> of : 1
+and all of -> from : 1
+all of from -> the : 1
+of from the -> greatest : 1
+from the greatest -> to : 1
+the greatest to -> the : 1
+greatest to the -> least : 1
+to the least -> put : 1
+the least put -> on : 1
+least put on -> the : 1
+put on the -> first : 1
+on the first -> step : 1
+the first step -> in : 1
+first step in -> repentance : 1
+step in repentance -> is : 1
+in repentance is -> to : 1
+repentance is to -> agree : 1
+is to agree -> with : 1
+to agree with -> god : 1
+god that you -> have : 1
+that you have -> sinned : 1
+that you have -> received : 1
+you have sinned -> and : 1
+have sinned and -> stop : 1
+sinned and stop -> reasoning : 1
+and stop reasoning -> with : 1
+stop reasoning with -> yourself : 1
+reasoning with yourself -> that : 1
+with yourself that -> you : 1
+yourself that you -> are : 1
+that you are -> that : 1
+you are that -> what : 1
+are that what -> doing : 1
+that what doing -> is : 1
+what doing is -> not : 1
+doing is not -> if : 1
+is not if -> we : 1
+not if we -> confess : 1
+if we confess -> our : 1
+we confess our -> he : 1
+confess our he -> is : 1
+our he is -> and : 1
+he is and -> just : 1
+is and just -> and : 1
+and just and -> will : 1
+just and will -> forgive : 1
+and will forgive -> us : 1
+will forgive us -> our : 1
+forgive us our -> sins : 1
+us our sins -> and : 1
+our sins and -> purify : 1
+sins and purify -> us : 1
+and purify us -> from : 1
+purify us from -> all : 1
+us from all -> john : 1
+from all john -> to : 1
+all john to -> all : 1
+john to all -> who : 1
+to all who -> did : 1
+all who did -> receive : 1
+who did receive -> to : 1
+did receive to -> those : 1
+receive to those -> who : 1
+to those who -> in : 1
+those who in -> his : 1
+who in his -> he : 1
+in his he -> gave : 1
+his he gave -> the : 1
+he gave the -> right : 1
+gave the right -> to : 1
+the right to -> become : 1
+right to become -> children : 1
+to become children -> of : 1
+become children of -> unfortunately : 1
+children of unfortunately -> sin : 1
+of unfortunately sin -> has : 1
+unfortunately sin has -> this : 1
+sin has this -> addictive : 1
+has this addictive -> quality : 1
+this addictive quality -> to : 1
+addictive quality to -> once : 1
+quality to once -> you : 1
+to once you -> it : 1
+once you it -> becomes : 1
+you it becomes -> so : 1
+it becomes so -> hard : 1
+becomes so hard -> to : 1
+so hard to -> this : 1
+hard to this -> is : 1
+to this is -> why : 1
+this is why -> god : 1
+is why god -> tries : 1
+why god tries -> to : 1
+god tries to -> teach : 1
+tries to teach -> us : 1
+to teach us -> what : 1
+teach us what -> we : 1
+us what we -> should : 1
+what we should -> calling : 1
+we should calling -> it : 1
+should calling it -> so : 1
+calling it so -> that : 1
+it so that -> we : 1
+so that we -> never : 1
+that we never -> have : 1
+we never have -> to : 1
+never have to -> learn : 1
+have to learn -> to : 1
+to learn to -> through : 1
+learn to through -> him : 1
+to through him -> everyone : 1
+through him everyone -> who : 1
+him everyone who -> is : 1
+everyone who is -> set : 1
+who is set -> free : 1
+is set free -> from : 1
+set free from -> every : 1
+free from every -> a : 1
+from every a -> justification : 1
+every a justification -> you : 1
+a justification you -> were : 1
+justification you were -> not : 1
+you were not -> able : 1
+were not able -> to : 1
+not able to -> obtain : 1
+able to obtain -> under : 1
+to obtain under -> the : 1
+obtain under the -> law : 1
+under the law -> of : 1
+the law of -> jesus : 1
+the law of -> the : 1
+law of jesus -> looked : 1
+of jesus looked -> at : 1
+jesus looked at -> them : 1
+looked at them -> and : 1
+at them and -> man : 1
+them and man -> this : 1
+and man this -> is : 1
+man this is -> but : 1
+this is but -> with : 1
+is but with -> god : 1
+but with god -> all : 1
+with god all -> things : 1
+god all things -> are : 1
+all things are -> is : 1
+things are is -> your : 1
+are is your -> problem : 1
+is your problem -> bigger : 1
+your problem bigger -> than : 1
+problem bigger than -> the : 1
+bigger than the -> or : 1
+than the or -> more : 1
+the or more -> impossible : 1
+or more impossible -> to : 1
+more impossible to -> break : 1
+impossible to break -> than : 1
+to break than -> the : 1
+break than the -> creation : 1
+than the creation -> of : 1
+the creation of -> if : 1
+creation of if -> god : 1
+of if god -> is : 1
+if god is -> powerful : 1
+god is powerful -> enough : 1
+is powerful enough -> to : 1
+powerful enough to -> create : 1
+powerful enough to -> help : 1
+enough to create -> the : 1
+to create the -> heavens : 1
+create the heavens -> and : 1
+the heavens and -> the : 2
+heavens and the -> he : 1
+heavens and the -> earth : 1
+and the he -> powerful : 1
+the he powerful -> enough : 1
+he powerful enough -> to : 1
+enough to help -> you : 1
+to help you -> overcome : 1
+help you overcome -> your : 1
+you overcome your -> ah : 1
+overcome your ah -> sovereign : 1
+your ah sovereign -> you : 1
+ah sovereign you -> have : 1
+sovereign you have -> made : 1
+you have made -> the : 1
+have made the -> heavens : 1
+made the heavens -> and : 1
+and the earth -> by : 1
+the earth by -> your : 1
+earth by your -> great : 1
+by your great -> power : 1
+your great power -> and : 1
+great power and -> outstretched : 1
+power and outstretched -> nothing : 1
+and outstretched nothing -> is : 1
+outstretched nothing is -> too : 1
+nothing is too -> hard : 1
+is too hard -> for : 1
+too hard for -> i : 1
+hard for i -> pray : 1
+for i pray -> that : 1
+i pray that -> the : 1
+pray that the -> eyes : 1
+that the eyes -> of : 1
+the eyes of -> your : 1
+eyes of your -> heart : 1
+of your heart -> may : 1
+your heart may -> be : 1
+heart may be -> enlightened : 1
+may be enlightened -> in : 1
+be enlightened in -> order : 1
+enlightened in order -> that : 1
+in order that -> you : 1
+order that you -> may : 1
+that you may -> know : 1
+that you may -> be : 1
+you may know -> the : 1
+may know the -> hope : 1
+know the hope -> to : 1
+the hope to -> which : 1
+hope to which -> he : 1
+to which he -> has : 1
+which he has -> called : 1
+he has called -> the : 1
+has called the -> riches : 1
+called the riches -> of : 1
+the riches of -> his : 1
+riches of his -> glorious : 1
+of his glorious -> inheritance : 1
+his glorious inheritance -> in : 1
+glorious inheritance in -> his : 1
+inheritance in his -> holy : 1
+in his holy -> and : 1
+his holy and -> his : 1
+holy and his -> incomparably : 1
+and his incomparably -> great : 1
+his incomparably great -> power : 1
+incomparably great power -> for : 1
+great power for -> us : 1
+power for us -> who : 1
+for us who -> that : 1
+us who that -> power : 1
+who that power -> is : 1
+that power is -> the : 1
+power is the -> same : 1
+is the same -> as : 1
+the same as -> the : 1
+same as the -> mighty : 1
+as the mighty -> strength : 1
+the mighty strength -> he : 1
+mighty strength he -> exerted : 1
+strength he exerted -> when : 1
+he exerted when -> he : 1
+exerted when he -> raised : 1
+when he raised -> christ : 1
+he raised christ -> from : 1
+raised christ from -> the : 1
+christ from the -> dead : 1
+from the dead -> and : 1
+the dead and -> seated : 1
+dead and seated -> him : 1
+and seated him -> at : 1
+seated him at -> his : 1
+him at his -> right : 1
+at his right -> hand : 1
+his right hand -> in : 1
+right hand in -> the : 1
+hand in the -> heavenly : 1
+in the heavenly -> realms : 1
+the heavenly realms -> a : 1
+heavenly realms a -> person : 1
+realms a person -> born : 1
+a person born -> to : 1
+person born to -> christian : 1
+born to christian -> parents : 1
+to christian parents -> is : 1
+christian parents is -> not : 1
+parents is not -> a : 1
+is not a -> christian : 1
+not a christian -> he : 1
+a christian he -> is : 1
+christian he is -> a : 1
+he is a -> although : 1
+is a although -> he : 1
+a although he -> would : 1
+although he would -> like : 1
+he would like -> to : 1
+would like to -> claim : 1
+like to claim -> a : 1
+to claim a -> a : 1
+claim a a -> heritage : 1
+a a heritage -> will : 1
+a heritage will -> not : 1
+heritage will not -> give : 1
+will not give -> him : 1
+not give him -> you : 1
+give him you -> believe : 1
+him you believe -> that : 1
+you believe that -> there : 1
+believe that there -> is : 1
+that there is -> one : 1
+there is one -> even : 1
+is one even -> the : 1
+one even the -> demons : 1
+even the demons -> believe : 1
+the demons believe -> anyone : 1
+demons believe anyone -> can : 1
+believe anyone can -> say : 1
+anyone can say -> that : 1
+can say that -> he : 1
+say that he -> believes : 1
+that he believes -> jesus : 1
+he believes jesus -> came : 1
+believes jesus came -> to : 1
+jesus came to -> earth : 1
+came to earth -> and : 1
+to earth and -> died : 1
+earth and died -> on : 1
+and died on -> a : 1
+died on a -> he : 1
+on a he -> can : 1
+a he can -> even : 1
+he can even -> believe : 1
+can even believe -> that : 1
+even believe that -> jesus : 1
+believe that jesus -> was : 1
+that jesus was -> resurrected : 1
+jesus was resurrected -> but : 1
+was resurrected but -> these : 1
+resurrected but these -> are : 1
+but these are -> only : 1
+these are only -> historical : 1
+are only historical -> facts : 1
+only historical facts -> and : 1
+historical facts and -> they : 1
+facts and they -> cannot : 1
+and they cannot -> save : 1
+they cannot save -> and : 1
+cannot save and -> they : 1
+save and they -> do : 1
+and they do -> not : 1
+they do not -> make : 1
+do not make -> him : 1
+do not make -> if : 1
+not make him -> a : 1
+make him a -> true : 1
+him a true -> you : 1
+a true you -> declare : 1
+true you declare -> with : 1
+you declare with -> your : 1
+declare with your -> is : 1
+with your is -> and : 1
+your is and -> in : 1
+is and in -> your : 1
+and in your -> heart : 1
+in your heart -> that : 1
+your heart that -> god : 1
+your heart that -> you : 1
+heart that god -> raised : 1
+that god raised -> him : 1
+god raised him -> from : 1
+raised him from -> the : 1
+him from the -> you : 1
+from the you -> will : 1
+the you will -> be : 1
+will be for -> it : 1
+be for it -> is : 1
+for it is -> with : 1
+it is with -> your : 2
+is with your -> heart : 1
+is with your -> mouth : 1
+with your heart -> that : 1
+heart that you -> and : 1
+that you and -> are : 1
+you and are -> and : 1
+and are and -> it : 1
+are and it -> is : 1
+and it is -> with : 1
+with your mouth -> that : 1
+your mouth that -> you : 1
+mouth that you -> profess : 1
+that you profess -> your : 1
+you profess your -> faith : 1
+profess your faith -> and : 1
+your faith and -> are : 1
+faith and are -> if : 1
+and are if -> you : 1
+are if you -> have : 1
+if you have -> to : 1
+have to see -> before : 1
+to see before -> you : 1
+see before you -> than : 1
+before you than -> you : 1
+you than you -> call : 1
+than you call -> that : 1
+you call that -> faith : 1
+call that faith -> is : 1
+that faith is -> given : 1
+faith is given -> before : 1
+is given before -> the : 1
+given before the -> miraculous : 1
+before the miraculous -> event : 1
+the miraculous event -> takes : 1
+miraculous event takes -> every : 1
+event takes every -> single : 1
+takes every single -> now : 1
+every single now -> is : 1
+single now is -> confidence : 1
+now is confidence -> in : 1
+is confidence in -> what : 1
+confidence in what -> we : 1
+in what we -> hope : 1
+what we hope -> for : 1
+we hope for -> and : 1
+hope for and -> assurance : 1
+for and assurance -> about : 1
+and assurance about -> what : 1
+assurance about what -> we : 1
+about what we -> do : 1
+what we do -> not : 1
+we do not -> then : 1
+we do not -> give : 1
+do not then -> jesus : 1
+not then jesus -> told : 1
+then jesus told -> you : 1
+jesus told you -> have : 1
+told you have -> seen : 1
+you have seen -> you : 1
+have seen you -> have : 1
+seen you have -> blessed : 1
+you have blessed -> are : 1
+have blessed are -> those : 1
+blessed are those -> who : 1
+are those who -> have : 1
+those who have -> not : 1
+who have not -> seen : 1
+have not seen -> and : 1
+have not seen -> you : 1
+not seen and -> yet : 1
+seen and yet -> have : 1
+and yet have -> who : 1
+yet have who -> is : 1
+have who is -> it : 1
+who is it -> that : 1
+is it that -> overcomes : 1
+it that overcomes -> the : 1
+that overcomes the -> only : 1
+overcomes the only -> the : 1
+the only the -> one : 1
+only the one -> who : 1
+the one who -> that : 1
+the one who -> doubts : 1
+the one who -> contends : 1
+one who that -> jesus : 1
+who that jesus -> is : 1
+that jesus is -> the : 1
+jesus is the -> son : 1
+is the son -> of : 1
+the son of -> john : 1
+the son of -> who : 1
+the son of -> have : 1
+son of john -> believing : 1
+of john believing -> is : 1
+john believing is -> the : 1
+believing is the -> act : 1
+is the act -> of : 1
+the act of -> believing : 1
+act of believing -> is : 1
+of believing is -> an : 1
+believing is an -> interior : 1
+is an interior -> it : 1
+an interior it -> is : 1
+interior it is -> what : 1
+it is what -> causes : 1
+is what causes -> something : 1
+what causes something -> to : 1
+causes something to -> be : 1
+something to be -> true : 1
+to be true -> or : 1
+be true or -> false : 1
+true or false -> at : 1
+or false at -> least : 1
+false at least -> in : 1
+at least in -> our : 1
+least in our -> own : 1
+in our own -> we : 1
+our own we -> live : 1
+our own we -> become : 1
+own we live -> by : 1
+we live by -> not : 1
+live by not -> by : 1
+by not by -> corinthians : 1
+not by corinthians -> though : 1
+by corinthians though -> you : 1
+corinthians though you -> have : 1
+though you have -> not : 1
+you have not -> seen : 1
+not seen you -> love : 1
+seen you love -> and : 1
+you love and -> even : 1
+love and even -> though : 1
+and even though -> you : 1
+even though you -> do : 1
+though you do -> not : 1
+you do not -> see : 1
+you do not -> eat : 1
+you do not -> make : 1
+do not see -> him : 1
+not see him -> you : 1
+see him you -> in : 1
+him you in -> him : 1
+you in him -> and : 1
+in him and -> are : 1
+him and are -> filled : 1
+and are filled -> with : 1
+are filled with -> an : 1
+filled with an -> inexpressible : 1
+with an inexpressible -> and : 1
+an inexpressible and -> glorious : 1
+inexpressible and glorious -> peter : 1
+and glorious peter -> god : 1
+glorious peter god -> is : 1
+peter god is -> not : 1
+god is not -> some : 1
+is not some -> absentee : 1
+not some absentee -> he : 1
+some absentee he -> is : 1
+absentee he is -> he : 1
+he is he -> and : 1
+is he and -> he : 1
+he and he -> want : 1
+he and he -> called : 1
+and he want -> you : 1
+he want you -> to : 1
+want you to -> not : 1
+you to not -> let : 1
+to not let -> your : 1
+not let your -> hearts : 1
+let your hearts -> be : 1
+your hearts be -> you : 1
+hearts be you -> in : 1
+be you in -> god : 1
+you in god -> also : 1
+in god also -> in : 1
+god also in -> adversity : 1
+also in adversity -> and : 1
+in adversity and -> loss : 1
+adversity and loss -> can : 1
+and loss can -> often : 1
+loss can often -> become : 1
+can often become -> the : 1
+often become the -> rudder : 1
+become the rudder -> by : 1
+the rudder by -> which : 1
+rudder by which -> our : 1
+by which our -> life : 1
+which our life -> is : 1
+our life is -> steered : 1
+life is steered -> to : 1
+is steered to -> come : 1
+steered to come -> closer : 1
+to come closer -> to : 1
+come closer to -> we : 1
+closer to we -> and : 1
+to we and -> discover : 1
+we and discover -> what : 1
+and discover what -> really : 1
+discover what really -> has : 1
+what really has -> and : 1
+really has and -> what : 1
+has and what -> remains : 1
+and what remains -> shallow : 1
+what remains shallow -> and : 1
+remains shallow and -> unworthy : 1
+shallow and unworthy -> of : 1
+and unworthy of -> our : 1
+unworthy of our -> time : 1
+of our time -> and : 1
+our time and -> that : 1
+time and that -> is : 1
+and that is -> why : 1
+that is why -> i : 1
+is why i -> am : 1
+why i am -> suffering : 1
+i am suffering -> as : 1
+am suffering as -> i : 1
+suffering as i -> yet : 1
+as i yet -> this : 1
+i yet this -> is : 1
+yet this is -> no : 1
+this is no -> cause : 1
+this is no -> life : 1
+is no cause -> for : 1
+no cause for -> because : 1
+cause for because -> i : 1
+for because i -> know : 1
+because i know -> whom : 1
+i know whom -> i : 1
+know whom i -> have : 1
+whom i have -> and : 1
+i have and -> am : 1
+have and am -> convinced : 1
+and am convinced -> that : 1
+am convinced that -> he : 1
+am convinced that -> neither : 1
+convinced that he -> is : 1
+that he is -> able : 1
+that he is -> not : 1
+he is able -> to : 1
+is able to -> guard : 1
+able to guard -> what : 1
+to guard what -> i : 1
+guard what i -> have : 1
+what i have -> entrusted : 1
+i have entrusted -> to : 1
+have entrusted to -> him : 1
+entrusted to him -> until : 1
+to him until -> that : 1
+him until that -> timothy : 1
+until that timothy -> we : 1
+that timothy we -> cannot : 1
+timothy we cannot -> be : 1
+we cannot be -> separated : 1
+cannot be separated -> from : 1
+be separated from -> from : 1
+separated from from -> from : 1
+from from from -> his : 1
+from from his -> from : 1
+from his from -> being : 1
+his from being -> his : 1
+from being his -> child : 1
+being his child -> and : 1
+his child and -> not : 1
+child and not -> even : 1
+and not even -> life : 1
+not even life -> cannot : 1
+even life cannot -> separate : 1
+life cannot separate -> us : 1
+cannot separate us -> from : 1
+separate us from -> it : 1
+separate us from -> the : 1
+us from it -> anymore : 1
+from it anymore -> than : 1
+it anymore than -> death : 1
+anymore than death -> for : 1
+than death for -> i : 1
+death for i -> am : 1
+for i am -> convinced : 1
+i am convinced -> that : 1
+convinced that neither -> death : 1
+that neither death -> nor : 1
+neither death nor -> neither : 1
+death nor neither -> angels : 1
+nor neither angels -> nor : 1
+neither angels nor -> neither : 1
+angels nor neither -> the : 1
+nor neither the -> present : 1
+neither the present -> nor : 1
+the present nor -> the : 1
+present nor the -> nor : 1
+nor the nor -> any : 1
+the nor any -> neither : 1
+nor any neither -> height : 1
+any neither height -> nor : 1
+neither height nor -> nor : 1
+height nor nor -> anything : 1
+nor nor anything -> else : 1
+nor anything else -> in : 1
+anything else in -> all : 1
+else in all -> will : 1
+in all will -> be : 1
+all will be -> able : 1
+will be able -> to : 1
+be able to -> separate : 1
+able to separate -> us : 1
+to separate us -> from : 1
+us from the -> love : 1
+from the love -> of : 1
+the love of -> god : 1
+love of god -> that : 1
+of god that -> is : 1
+god that is -> in : 1
+that is in -> christ : 1
+is in christ -> jesus : 1
+in christ jesus -> our : 1
+christ jesus our -> that : 1
+jesus our that -> your : 1
+our that your -> hairs : 1
+that your hairs -> are : 1
+your hairs are -> i : 1
+hairs are i -> know : 1
+are i know -> about : 1
+i know about -> but : 1
+know about but -> every : 1
+about but every -> day : 1
+but every day -> i : 1
+every day i -> shed : 1
+day i shed -> this : 1
+i shed this -> means : 1
+shed this means -> that : 1
+this means that -> god : 1
+means that god -> cares : 1
+that god cares -> enough : 1
+god cares enough -> to : 1
+cares enough to -> know : 1
+enough to know -> how : 1
+to know how -> many : 1
+know how many -> hairs : 1
+how many hairs -> are : 1
+many hairs are -> on : 1
+hairs are on -> my : 1
+are on my -> head : 1
+on my head -> because : 1
+my head because -> the : 1
+head because the -> number : 1
+because the number -> is : 1
+the number is -> different : 1
+number is different -> than : 1
+is different than -> and : 1
+different than and -> even : 1
+than and even -> the : 1
+and even the -> very : 1
+even the very -> hairs : 1
+the very hairs -> of : 1
+very hairs of -> your : 1
+hairs of your -> head : 1
+of your head -> are : 1
+your head are -> all : 1
+head are all -> almost : 1
+are all almost -> every : 1
+all almost every -> sin : 1
+almost every sin -> has : 1
+every sin has -> its : 1
+sin has its -> root : 1
+has its root -> in : 1
+its root in -> we : 1
+root in we -> are : 1
+in we are -> busy : 1
+we are busy -> trying : 1
+are busy trying -> to : 1
+busy trying to -> replace : 1
+trying to replace -> heal : 1
+to replace heal -> make : 1
+replace heal make -> ourselves : 1
+heal make ourselves -> feel : 1
+make ourselves feel -> comfort : 1
+ourselves feel comfort -> or : 1
+feel comfort or -> solve : 1
+comfort or solve -> our : 1
+or solve our -> own : 1
+solve our own -> we : 1
+own we become -> divided : 1
+we become divided -> in : 1
+become divided in -> our : 1
+divided in our -> attempt : 1
+in our attempt -> to : 1
+our attempt to -> serve : 1
+attempt to serve -> ourselves : 1
+to serve ourselves -> and : 1
+serve ourselves and -> this : 1
+ourselves and this -> is : 1
+and this is -> all : 1
+this is all -> teach : 1
+is all teach -> me : 1
+all teach me -> your : 1
+teach me your -> that : 1
+teach me your -> seven : 1
+me your that -> i : 1
+your that i -> may : 1
+that i may -> rely : 1
+that i may -> fear : 1
+i may rely -> on : 1
+may rely on -> your : 1
+rely on your -> give : 1
+on your give -> me : 1
+your give me -> an : 1
+give me an -> undivided : 1
+me an undivided -> that : 1
+an undivided that -> i : 1
+undivided that i -> may : 1
+i may fear -> your : 1
+may fear your -> but : 1
+fear your but -> are : 1
+your but are -> a : 1
+but are a -> compassionate : 1
+are a compassionate -> and : 1
+a compassionate and -> gracious : 1
+compassionate and gracious -> slow : 1
+and gracious slow -> to : 1
+gracious slow to -> abounding : 1
+slow to abounding -> in : 1
+to abounding in -> love : 1
+abounding in love -> and : 1
+in love and -> for : 1
+love and for -> by : 1
+and for by -> the : 1
+for by the -> grace : 1
+by the grace -> given : 1
+the grace given -> me : 1
+grace given me -> i : 1
+given me i -> say : 1
+me i say -> to : 1
+i say to -> every : 1
+say to every -> one : 1
+to every one -> of : 1
+every one of -> do : 1
+one of do -> not : 1
+of do not -> think : 1
+do not think -> of : 1
+not think of -> yourself : 1
+think of yourself -> more : 1
+think of yourself -> with : 1
+of yourself more -> highly : 1
+yourself more highly -> than : 1
+more highly than -> you : 1
+highly than you -> but : 1
+than you but -> rather : 1
+you but rather -> think : 1
+but rather think -> of : 1
+rather think of -> yourself : 1
+of yourself with -> sober : 1
+yourself with sober -> in : 1
+with sober in -> accordance : 1
+sober in accordance -> with : 1
+in accordance with -> the : 1
+accordance with the -> god : 1
+with the god -> has : 1
+the god has -> distributed : 1
+god has distributed -> to : 1
+has distributed to -> each : 1
+distributed to each -> of : 1
+to each of -> the : 1
+each of the -> proud : 1
+of the proud -> man : 1
+the proud man -> can : 1
+proud man can -> take : 1
+man can take -> care : 1
+can take care -> of : 1
+take care of -> got : 1
+care of got -> things : 1
+of got things -> under : 1
+got things under -> he : 1
+things under he -> can : 1
+under he can -> find : 1
+he can find -> the : 1
+can find the -> solutions : 1
+find the solutions -> to : 1
+the solutions to -> all : 1
+solutions to all -> his : 1
+to all his -> he : 1
+all his he -> need : 1
+his he need -> trust : 1
+he need trust -> in : 1
+need trust in -> the : 1
+trust in the -> lord : 1
+in the lord -> with : 1
+the lord with -> all : 1
+lord with all -> your : 1
+with all your -> heart : 1
+all your heart -> and : 1
+your heart and -> lean : 1
+heart and lean -> not : 1
+and lean not -> on : 1
+lean not on -> your : 1
+not on your -> own : 1
+on your own -> the : 1
+your own the -> humble : 1
+own the humble -> man : 1
+the humble man -> lets : 1
+humble man lets -> god : 1
+man lets god -> he : 1
+lets god he -> understands : 1
+god he understands -> that : 1
+he understands that -> he : 1
+understands that he -> is : 1
+he is not -> god : 1
+is not god -> and : 1
+not god and -> god : 1
+god and god -> is : 1
+and god is -> the : 1
+god is the -> one : 1
+is the one -> in : 1
+the one in -> he : 1
+one in he -> realizes : 1
+in he realizes -> that : 1
+he realizes that -> he : 1
+realizes that he -> cannot : 1
+that he cannot -> solve : 1
+he cannot solve -> his : 1
+cannot solve his -> own : 1
+solve his own -> problems : 1
+his own problems -> but : 1
+own problems but -> looks : 1
+problems but looks -> to : 1
+but looks to -> god : 1
+looks to god -> for : 1
+to god for -> i : 1
+god for i -> o : 1
+for i o -> that : 1
+i o that -> a : 1
+o that a -> life : 1
+that a life -> is : 1
+a life is -> not : 1
+life is not -> his : 1
+is not his -> it : 1
+not his it -> is : 1
+his it is -> not : 1
+it is not -> for : 1
+it is not -> fruit : 1
+is not for -> man : 1
+not for man -> to : 1
+for man to -> direct : 1
+man to direct -> his : 1
+to direct his -> i : 1
+direct his i -> run : 1
+his i run -> in : 1
+i run in -> the : 1
+run in the -> path : 1
+in the path -> of : 1
+the path of -> your : 1
+path of your -> for : 1
+of your for -> you : 1
+your for you -> have : 1
+for you have -> set : 1
+you have set -> my : 1
+have set my -> heart : 1
+set my heart -> enter : 1
+my heart enter -> through : 1
+heart enter through -> the : 1
+enter through the -> narrow : 1
+through the narrow -> for : 1
+the narrow for -> wide : 1
+narrow for wide -> is : 1
+for wide is -> the : 1
+wide is the -> gate : 1
+is the gate -> and : 1
+the gate and -> broad : 1
+gate and broad -> is : 1
+and broad is -> the : 1
+broad is the -> road : 1
+is the road -> that : 1
+the road that -> leads : 1
+road that leads -> to : 1
+that leads to -> and : 1
+leads to and -> many : 1
+to and many -> enter : 1
+and many enter -> through : 1
+many enter through -> better : 1
+enter through better -> to : 1
+through better to -> ask : 1
+better to ask -> and : 1
+to ask and -> receive : 1
+ask and receive -> the : 1
+and receive the -> answer : 1
+receive the answer -> then : 1
+the answer then -> to : 1
+answer then to -> assume : 1
+then to assume -> the : 1
+to assume the -> answer : 1
+assume the answer -> is : 1
+the answer is -> going : 1
+answer is going -> to : 1
+is going to -> be : 1
+going to be -> and : 1
+to be and -> never : 1
+be and never -> but : 1
+and never but -> when : 1
+never but when -> you : 1
+but when you -> you : 1
+when you you -> must : 1
+you you must -> and : 1
+you must and -> not : 1
+must and not -> because : 1
+and not because -> the : 1
+not because the -> one : 1
+because the one -> who : 1
+one who doubts -> is : 1
+who doubts is -> like : 1
+doubts is like -> a : 1
+is like a -> wave : 1
+like a wave -> of : 1
+a wave of -> the : 1
+wave of the -> blown : 1
+of the blown -> and : 1
+the blown and -> tossed : 1
+blown and tossed -> by : 1
+and tossed by -> the : 1
+tossed by the -> the : 1
+by the the -> father : 1
+the the father -> do : 1
+the father do -> help : 1
+father do help -> me : 1
+do help me -> overcome : 1
+help me overcome -> my : 1
+me overcome my -> therefore : 1
+overcome my therefore -> i : 1
+my therefore i -> tell : 1
+therefore i tell -> whatever : 1
+i tell whatever -> you : 1
+tell whatever you -> ask : 1
+whatever you ask -> for : 1
+you ask for -> in : 1
+ask for in -> that : 1
+for in that -> you : 1
+in that you -> have : 1
+you have received -> and : 1
+have received and -> it : 1
+received and it -> will : 1
+and it will -> be : 1
+it will be -> we : 1
+it will be -> more : 1
+will be we -> are : 1
+be we are -> not : 1
+we are not -> strong : 1
+are not strong -> enough : 1
+not strong enough -> to : 1
+strong enough to -> solve : 1
+enough to solve -> all : 1
+to solve all -> our : 1
+solve all our -> own : 1
+all our own -> problems : 1
+our own problems -> much : 1
+own problems much -> less : 1
+problems much less -> everyone : 1
+much less everyone -> jesus : 1
+less everyone jesus -> i : 1
+everyone jesus i -> want : 1
+jesus i want -> him : 1
+i want him -> to : 1
+want him to -> remain : 1
+want him to -> we : 1
+him to remain -> until : 1
+to remain until -> i : 1
+remain until i -> what : 1
+until i what -> is : 1
+i what is -> that : 1
+what is that -> to : 1
+is that to -> you : 1
+that to you -> must : 1
+to you must -> follow : 1
+you must follow -> you : 1
+must follow you -> first : 1
+follow you first -> take : 1
+you first take -> the : 1
+first take the -> plank : 1
+take the plank -> out : 1
+the plank out -> of : 1
+plank out of -> your : 1
+out of your -> own : 1
+of your own -> and : 1
+your own and -> then : 1
+own and then -> you : 1
+and then you -> will : 1
+then you will -> see : 1
+then you will -> be : 1
+you will see -> clearly : 1
+you will see -> the : 1
+will see clearly -> to : 1
+see clearly to -> remove : 1
+clearly to remove -> the : 1
+to remove the -> speck : 1
+remove the speck -> from : 1
+the speck from -> your : 1
+speck from your -> you : 1
+from your you -> believe : 1
+your you believe -> in : 1
+you believe in -> me : 1
+you believe in -> and : 1
+believe in me -> when : 1
+in me when -> i : 1
+me when i -> give : 1
+me when i -> feel : 1
+when i give -> up : 1
+i give up -> on : 1
+give up on -> but : 1
+up on but -> will : 1
+on but will -> i : 1
+but will i -> believe : 1
+but will i -> love : 1
+will i believe -> in : 1
+i believe in -> you : 1
+believe in you -> when : 1
+in you when -> i : 1
+you when i -> am : 1
+you when i -> feel : 1
+when i am -> full : 1
+i am full -> of : 1
+am full of -> keep : 1
+full of keep -> falsehood : 1
+of keep falsehood -> and : 1
+keep falsehood and -> lies : 1
+falsehood and lies -> far : 1
+and lies far -> from : 1
+lies far from -> give : 1
+far from give -> me : 1
+from give me -> neither : 1
+give me neither -> poverty : 1
+me neither poverty -> nor : 1
+neither poverty nor -> but : 1
+poverty nor but -> give : 1
+nor but give -> me : 1
+but give me -> only : 1
+give me only -> my : 1
+me only my -> daily : 1
+only my daily -> i : 1
+my daily i -> may : 1
+daily i may -> have : 1
+i may have -> too : 1
+may have too -> much : 1
+have too much -> and : 1
+too much and -> disown : 1
+much and disown -> you : 1
+and disown you -> and : 1
+disown you and -> say : 1
+you and say -> is : 1
+and say is -> the : 1
+say is the -> or : 1
+is the or -> i : 1
+the or i -> may : 1
+or i may -> become : 1
+i may become -> poor : 1
+may become poor -> and : 1
+become poor and -> and : 1
+poor and and -> so : 1
+and and so -> dishonor : 1
+and so dishonor -> the : 1
+so dishonor the -> name : 1
+dishonor the name -> of : 1
+the name of -> my : 1
+name of my -> psalm : 1
+of my psalm -> you : 1
+my psalm you -> love : 1
+psalm you love -> me : 1
+you love me -> when : 1
+love me when -> i : 1
+when i feel -> that : 1
+when i feel -> what : 1
+i feel that -> i : 1
+feel that i -> am : 1
+that i am -> but : 1
+i am but -> will : 1
+am but will -> i : 1
+will i love -> you : 1
+i love you -> when : 1
+love you when -> i : 1
+i feel what -> if : 1
+feel what if -> some : 1
+what if some -> were : 1
+if some were -> will : 1
+some were will -> their : 1
+were will their -> unfaithfulness : 1
+will their unfaithfulness -> nullify : 1
+their unfaithfulness nullify -> if : 1
+unfaithfulness nullify if -> we : 1
+nullify if we -> are : 1
+if we are -> he : 1
+we are he -> remains : 1
+are he remains -> for : 1
+he remains for -> he : 1
+remains for he -> cannot : 1
+for he cannot -> disown : 1
+he cannot disown -> timothy : 1
+cannot disown timothy -> because : 1
+disown timothy because -> you : 1
+timothy because you -> know : 1
+because you know -> that : 1
+you know that -> the : 1
+know that the -> testing : 1
+that the testing -> of : 1
+the testing of -> your : 1
+testing of your -> produces : 1
+of your produces -> today : 1
+your produces today -> god : 1
+produces today god -> has : 1
+today god has -> taught : 1
+god has taught -> me : 1
+has taught me -> that : 1
+taught me that -> i : 1
+me that i -> fellowship : 1
+that i fellowship -> with : 1
+i fellowship with -> the : 1
+fellowship with the -> lord : 1
+with the lord -> because : 1
+the lord because -> he : 1
+lord because he -> needs : 1
+because he needs -> but : 1
+he needs but -> because : 1
+needs but because -> i : 1
+but because i -> therefore : 1
+because i therefore -> let : 1
+i therefore let -> all : 1
+therefore let all -> the : 1
+let all the -> pray : 1
+all the pray -> to : 1
+the pray to -> you : 1
+pray to you -> while : 1
+to you while -> you : 1
+you while you -> may : 1
+while you may -> be : 1
+you may be -> surely : 1
+you may be -> careful : 1
+may be surely -> the : 1
+be surely the -> rising : 1
+surely the rising -> of : 1
+the rising of -> the : 1
+rising of the -> mighty : 1
+of the mighty -> waters : 1
+the mighty waters -> will : 1
+mighty waters will -> not : 1
+waters will not -> reach : 1
+will not reach -> send : 1
+not reach send -> me : 1
+reach send me -> your : 1
+send me your -> light : 1
+me your light -> and : 1
+your light and -> your : 1
+light and your -> let : 1
+and your let -> them : 1
+your let them -> lead : 1
+let them lead -> let : 1
+them lead let -> them : 1
+lead let them -> bring : 1
+let them bring -> me : 1
+them bring me -> to : 1
+bring me to -> your : 1
+me to your -> holy : 1
+to your holy -> to : 1
+your holy to -> the : 1
+holy to the -> place : 1
+to the place -> where : 1
+the place where -> you : 1
+place where you -> be : 1
+where you be -> joyful : 1
+you be joyful -> in : 1
+be joyful in -> patient : 1
+joyful in patient -> in : 1
+in patient in -> in : 1
+patient in in -> oh : 1
+in in oh -> lord : 1
+in oh lord -> forgive : 1
+oh lord forgive -> me : 1
+lord forgive me -> for : 1
+forgive me for -> not : 1
+me for not -> keeping : 1
+for not keeping -> my : 1
+not keeping my -> every : 1
+keeping my every -> thought : 1
+my every thought -> captive : 1
+every thought captive -> to : 1
+thought captive to -> your : 1
+captive to your -> how : 1
+to your how -> i : 1
+your how i -> pray : 1
+how i pray -> lord : 1
+i pray lord -> that : 1
+pray lord that -> i : 1
+lord that i -> my : 1
+that i my -> progress : 1
+i my progress -> and : 1
+my progress and -> my : 1
+progress and my -> witness : 1
+and my witness -> will : 1
+my witness will -> be : 1
+witness will be -> seen : 1
+will be seen -> by : 1
+be seen by -> and : 1
+seen by and -> cultivate : 1
+by and cultivate -> and : 1
+and cultivate and -> meditate : 1
+cultivate and meditate -> upon : 1
+and meditate upon -> these : 1
+meditate upon these -> throw : 1
+upon these throw -> yourself : 1
+these throw yourself -> wholly : 1
+throw yourself wholly -> into : 1
+yourself wholly into -> them : 1
+wholly into them -> as : 1
+into them as -> your : 1
+them as your -> so : 1
+as your so -> that : 1
+your so that -> your : 1
+so that your -> progress : 1
+that your progress -> may : 1
+your progress may -> be : 1
+progress may be -> evident : 1
+may be evident -> to : 1
+be evident to -> timothy : 1
+evident to timothy -> we : 1
+to timothy we -> demolish : 1
+timothy we demolish -> arguments : 1
+we demolish arguments -> and : 1
+demolish arguments and -> every : 1
+arguments and every -> pretension : 1
+and every pretension -> that : 1
+every pretension that -> sets : 1
+pretension that sets -> itself : 1
+that sets itself -> up : 1
+sets itself up -> against : 1
+itself up against -> the : 1
+up against the -> knowledge : 1
+against the knowledge -> of : 1
+knowledge of and -> we : 1
+of and we -> take : 1
+and we take -> captive : 1
+we take captive -> every : 1
+take captive every -> thought : 1
+captive every thought -> to : 1
+every thought to -> make : 1
+thought to make -> it : 1
+to make it -> obedient : 1
+make it obedient -> to : 1
+it obedient to -> christ : 1
+obedient to christ -> corinthians : 1
+to christ corinthians -> there : 1
+christ corinthians there -> are : 1
+corinthians there are -> only : 1
+there are only -> so : 1
+are only so -> many : 1
+only so many -> hours : 1
+so many hours -> in : 1
+many hours in -> the : 1
+hours in the -> day : 1
+in the day -> and : 1
+the day and -> we : 1
+day and we -> only : 1
+and we only -> have : 1
+we only have -> so : 1
+only have so -> much : 1
+have so much -> if : 1
+so much if -> we : 1
+much if we -> spend : 1
+if we spend -> our : 1
+we spend our -> resources : 1
+spend our resources -> on : 1
+our resources on -> things : 1
+resources on things -> that : 1
+on things that -> are : 1
+things that are -> unfruitful : 1
+that are unfruitful -> that : 1
+are unfruitful that -> bring : 1
+unfruitful that bring -> us : 1
+that bring us -> down : 1
+bring us down -> instead : 1
+us down instead -> of : 1
+down instead of -> raising : 1
+instead of raising -> us : 1
+of raising us -> we : 1
+raising us we -> have : 1
+us we have -> the : 1
+we have the -> resources : 1
+have the resources -> necessary : 1
+the resources necessary -> in : 1
+resources necessary in -> order : 1
+necessary in order -> to : 1
+in order to -> help : 1
+order to help -> our : 1
+to help our -> fruitful : 1
+help our fruitful -> branches : 1
+our fruitful branches -> bear : 1
+fruitful branches bear -> more : 1
+branches bear more -> the : 1
+bear more the -> true : 1
+more the true -> vine : 1
+the true vine -> and : 1
+true vine and -> my : 1
+vine and my -> father : 1
+and my father -> is : 1
+my father is -> the : 1
+father is the -> he : 1
+is the he -> cuts : 1
+the he cuts -> off : 1
+he cuts off -> every : 1
+cuts off every -> branch : 1
+off every branch -> in : 1
+every branch in -> me : 1
+branch in me -> that : 1
+in me that -> bears : 1
+me that bears -> no : 1
+that bears no -> while : 1
+bears no while -> every : 1
+no while every -> branch : 1
+while every branch -> that : 1
+every branch that -> does : 1
+branch that does -> bear : 1
+that does bear -> fruit : 1
+does bear fruit -> he : 1
+bear fruit he -> prunes : 1
+fruit he prunes -> so : 1
+he prunes so -> that : 1
+prunes so that -> it : 1
+so that it -> will : 1
+that it will -> be : 1
+will be more -> we : 1
+be more we -> need : 1
+more we need -> to : 1
+we need to -> put : 1
+need to put -> everything : 1
+to put everything -> under : 1
+put everything under -> the : 1
+everything under the -> obedience : 1
+under the obedience -> of : 1
+the obedience of -> if : 1
+obedience of if -> it : 1
+of if it -> is : 1
+if it is -> not : 1
+is not fruit -> prune : 1
+not fruit prune -> if : 1
+fruit prune if -> your : 1
+prune if your -> hand : 1
+if your hand -> or : 1
+your hand or -> your : 1
+hand or your -> foot : 1
+or your foot -> causes : 1
+your foot causes -> you : 1
+foot causes you -> to : 1
+causes you to -> cut : 1
+you to cut -> it : 1
+to cut it -> off : 1
+cut it off -> and : 1
+it off and -> throw : 1
+off and throw -> it : 1
+and throw it -> it : 1
+throw it it -> is : 1
+it it is -> better : 1
+it is better -> for : 1
+is better for -> you : 1
+better for you -> to : 1
+for you to -> enter : 1
+for you to -> have : 1
+you to enter -> life : 1
+to enter life -> maimed : 1
+enter life maimed -> or : 1
+life maimed or -> crippled : 1
+maimed or crippled -> than : 1
+or crippled than -> to : 1
+crippled than to -> have : 1
+than to have -> two : 1
+to have two -> hands : 1
+have two hands -> or : 1
+two hands or -> two : 1
+hands or two -> feet : 1
+or two feet -> and : 1
+two feet and -> be : 1
+feet and be -> thrown : 1
+and be thrown -> into : 1
+be thrown into -> eternal : 1
+thrown into eternal -> if : 1
+into eternal if -> i : 1
+eternal if i -> might : 1
+if i might -> occupy : 1
+i might occupy -> some : 1
+might occupy some -> remote : 1
+occupy some remote -> corner : 1
+some remote corner -> of : 1
+remote corner of -> the : 1
+corner of the -> place : 1
+of the place -> farthest : 1
+the place farthest -> away : 1
+place farthest away -> from : 1
+farthest away from -> the : 1
+from the but -> know : 1
+the but know -> that : 1
+but know that -> i : 1
+know that i -> have : 1
+that i have -> his : 1
+i have his -> approval : 1
+have his approval -> that : 1
+his approval that -> would : 1
+approval that would -> be : 1
+that would be -> huge : 1
+would be huge -> better : 1
+be huge better -> is : 1
+huge better is -> one : 1
+better is one -> day : 1
+is one day -> in : 1
+one day in -> your : 1
+day in your -> courts : 1
+in your courts -> than : 1
+your courts than -> a : 1
+courts than a -> thousand : 1
+than a thousand -> i : 1
+a thousand i -> would : 1
+thousand i would -> rather : 1
+i would rather -> be : 1
+would rather be -> a : 1
+rather be a -> doorkeeper : 1
+be a doorkeeper -> in : 1
+a doorkeeper in -> the : 1
+doorkeeper in the -> house : 1
+in the house -> of : 1
+the house of -> my : 1
+house of my -> god : 1
+of my god -> than : 1
+my god than -> dwell : 1
+god than dwell -> in : 1
+than dwell in -> the : 1
+dwell in the -> tents : 1
+in the tents -> of : 1
+the tents of -> the : 1
+tents of the -> god : 1
+of the god -> with : 1
+the god with -> us : 1
+god with us -> or : 1
+with us or -> we : 1
+us or we -> contend : 1
+or we contend -> with : 1
+we contend with -> god : 1
+contend with god -> and : 1
+with god and -> ask : 1
+god and ask -> him : 1
+and ask him -> if : 1
+ask him if -> us : 1
+him if us -> on : 1
+if us on -> our : 1
+us on our -> doing : 1
+on our doing -> what : 1
+our doing what -> we : 1
+doing what we -> want : 1
+what we want -> him : 1
+we want him -> to : 1
+him to we -> constantly : 1
+to we constantly -> need : 1
+we constantly need -> proof : 1
+constantly need proof -> that : 1
+need proof that -> here : 1
+proof that here -> for : 1
+that here for -> us : 1
+here for us -> instead : 1
+for us instead -> of : 1
+us instead of -> just : 1
+instead of just -> trusting : 1
+of just trusting -> that : 1
+just trusting that -> he : 1
+trusting that he -> and : 1
+that he and -> he : 1
+and he called -> the : 1
+he called the -> place : 1
+called the place -> massah : 1
+the place massah -> and : 1
+place massah and -> meribah : 1
+massah and meribah -> because : 1
+and meribah because -> the : 1
+meribah because the -> israelites : 1
+because the israelites -> quarreled : 1
+the israelites quarreled -> and : 1
+israelites quarreled and -> because : 1
+quarreled and because -> they : 1
+and because they -> tested : 1
+because they tested -> the : 1
+they tested the -> lord : 1
+tested the lord -> he : 1
+the lord he -> among : 1
+lord he among -> us : 1
+he among us -> or : 1
+among us or -> god : 1
+us or god -> does : 1
+or god does -> not : 1
+god does not -> and : 1
+does not and -> should : 1
+not and should -> not : 1
+and should not -> fear : 1
+should not fear -> we : 1
+not fear we -> are : 1
+fear we are -> to : 1
+we are to -> fear : 1
+are to fear -> and : 1
+to fear and -> to : 1
+fear and to -> respect : 1
+and to respect -> just : 1
+to respect just -> because : 1
+respect just because -> he : 1
+just because he -> loves : 1
+because he loves -> us : 1
+he loves us -> and : 1
+loves us and -> takes : 1
+us and takes -> care : 1
+and takes care -> of : 1
+takes care of -> mean : 1
+care of mean -> that : 1
+of mean that -> we : 1
+mean that we -> lambs : 1
+that we lambs -> can : 1
+we lambs can -> tell : 1
+lambs can tell -> the : 1
+can tell the -> lion : 1
+tell the lion -> what : 1
+the lion what -> to : 1
+lion what to -> he : 1
+what to he -> could : 1
+to he could -> just : 1
+he could just -> as : 1
+could just as -> easily : 1
+just as easily -> eat : 1
+as easily eat -> us : 1
+easily eat us -> as : 1
+eat us as -> lie : 1
+us as lie -> down : 1
+as lie down -> with : 1
+lie down with -> will : 1
+down with will -> the : 1
+with will the -> one : 1
+will the one -> who : 1
+one who contends -> with : 1
+who contends with -> the : 1
+contends with the -> almighty : 1
+with the almighty -> correct : 1
+the almighty correct -> let : 1
+almighty correct let -> him : 1
+correct let him -> who : 1
+let him who -> accuses : 1
+him who accuses -> god : 1
+who accuses god -> answer : 1
+accuses god answer -> if : 1
+god answer if -> i : 1
+answer if i -> am : 1
+if i am -> to : 1
+i am to -> take : 1
+am to take -> up : 1
+to take up -> my : 1
+take up my -> cross : 1
+up my cross -> and : 1
+my cross and -> follow : 1
+cross and follow -> i : 1
+and follow i -> need : 1
+follow i need -> to : 1
+i need to -> count : 1
+need to count -> the : 1
+to count the -> inconvenience : 1
+count the inconvenience -> as : 1
+the inconvenience as -> nothing : 1
+inconvenience as nothing -> when : 1
+as nothing when -> it : 1
+nothing when it -> comes : 1
+when it comes -> to : 1
+it comes to -> bringing : 1
+comes to bringing -> one : 1
+to bringing one -> person : 1
+bringing one person -> the : 1
+one person the -> love : 1
+person the love -> jesus : 1
+the love jesus -> has : 1
+love jesus has -> for : 1
+jesus has for -> then : 1
+has for then -> jesus : 1
+for then jesus -> said : 1
+then jesus said -> to : 1
+jesus said to -> them : 1
+jesus said to -> do : 1
+said to them -> anyone : 1
+to them anyone -> would : 1
+them anyone would -> come : 1
+anyone would come -> after : 1
+would come after -> he : 1
+come after he -> must : 1
+after he must -> deny : 1
+he must deny -> himself : 1
+must deny himself -> and : 1
+deny himself and -> take : 1
+himself and take -> up : 1
+and take up -> his : 1
+take up his -> cross : 1
+up his cross -> daily : 1
+his cross daily -> and : 1
+cross daily and -> follow : 1
+daily and follow -> you : 1
+and follow you -> do : 1
+follow you do -> not : 1
+do not eat -> only : 1
+not eat only -> once : 1
+eat only once -> or : 1
+only once or -> twice : 1
+once or twice -> per : 1
+or twice per -> if : 1
+twice per if -> you : 1
+per if you -> how : 1
+if you how -> much : 1
+you how much -> strength : 1
+how much strength -> would : 1
+much strength would -> you : 1
+strength would you -> so : 1
+would you so -> think : 1
+you so think -> that : 1
+so think that -> going : 1
+think that going -> to : 1
+that going to -> church : 1
+going to church -> on : 1
+to church on -> sunday : 1
+church on sunday -> or : 1
+on sunday or -> reading : 1
+sunday or reading -> a : 1
+or reading a -> chapter : 1
+reading a chapter -> or : 1
+a chapter or -> two : 1
+chapter or two -> of : 1
+or two of -> the : 1
+two of the -> bible : 1
+of the bible -> per : 1
+the bible per -> week : 1
+bible per week -> is : 1
+per week is -> just : 1
+week is just -> like : 1
+is just like -> you : 1
+just like you -> have : 1
+like you have -> to : 1
+have to eat -> every : 1
+have to eat -> word : 1
+to eat every -> you : 1
+eat every you -> have : 1
+every you have -> to : 1
+to eat word -> every : 1
+eat word every -> jesus : 1
+word every jesus -> is : 1
+every jesus is -> does : 1
+jesus is does -> not : 1
+is does not -> live : 1
+does not live -> on : 1
+not live on -> bread : 1
+live on bread -> but : 1
+on bread but -> on : 1
+bread but on -> every : 1
+but on every -> word : 1
+on every word -> that : 1
+every word that -> comes : 1
+word that comes -> from : 1
+that comes from -> the : 1
+comes from the -> mouth : 1
+from the mouth -> of : 1
+the mouth of -> but : 1
+mouth of but -> his : 1
+of but his -> delight : 1
+but his delight -> is : 1
+his delight is -> in : 1
+delight is in -> the : 1
+is in the -> law : 1
+in the law -> of : 1
+law of the -> and : 1
+the and on -> his : 1
+and on his -> law : 1
+on his law -> he : 1
+his law he -> meditates : 1
+law he meditates -> day : 1
+he meditates day -> and : 1
+meditates day and -> do : 1
+day and do -> not : 1
+and do not -> let : 1
+and do not -> be : 1
+do not let -> this : 1
+not let this -> book : 1
+let this book -> of : 1
+this book of -> the : 1
+book of the -> law : 1
+of the law -> depart : 1
+the law depart -> from : 1
+law depart from -> your : 1
+depart from your -> meditate : 1
+from your meditate -> on : 1
+your meditate on -> it : 1
+meditate on it -> day : 1
+on it day -> and : 1
+it day and -> so : 1
+day and so -> that : 1
+and so that -> you : 1
+so that you -> may : 1
+may be careful -> to : 1
+be careful to -> do : 1
+careful to do -> everything : 1
+to do everything -> written : 1
+do everything written -> in : 1
+everything written in -> then : 1
+written in then -> you : 1
+in then you -> will : 1
+will be prosperous -> and : 1
+be prosperous and -> for : 1
+prosperous and for -> you : 1
+and for you -> to : 1
+you to have -> peace : 1
+to have peace -> and : 1
+have peace and -> tranquility : 1
+peace and tranquility -> in : 1
+and tranquility in -> your : 1
+tranquility in your -> have : 1
+in your have -> to : 1
+your have to -> change : 1
+have to change -> your : 1
+to change your -> behavior : 1
+change your behavior -> outside : 1
+your behavior outside -> of : 1
+behavior outside of -> the : 1
+outside of the -> prayer : 1
+of the prayer -> as : 1
+the prayer as -> you : 1
+prayer as you -> cannot : 1
+as you cannot -> spend : 1
+you cannot spend -> an : 1
+cannot spend an -> hour : 1
+spend an hour -> of : 1
+an hour of -> devotional : 1
+hour of devotional -> time : 1
+of devotional time -> in : 1
+devotional time in -> the : 1
+time in the -> morning : 1
+in the morning -> and : 1
+the morning and -> evening : 1
+morning and evening -> and : 1
+and evening and -> live : 1
+evening and live -> like : 1
+and live like -> a : 1
+live like a -> heathen : 1
+like a heathen -> the : 1
+a heathen the -> rest : 1
+heathen the rest -> of : 1
+the rest of -> the : 1
+rest of the -> this : 1
+of the this -> is : 1
+the this is -> no : 1
+is no life -> have : 1
+no life have -> been : 1
+life have been -> crucified : 1
+have been crucified -> with : 1
+been crucified with -> christ : 1
+crucified with christ -> and : 1
+with christ and -> i : 1
+christ and i -> no : 1
+and i no -> longer : 1
+i no longer -> but : 1
+no longer but -> christ : 1
+longer but christ -> lives : 1
+but christ lives -> in : 1
+christ lives in -> the : 1
+lives in the -> life : 1
+in the life -> i : 1
+the life i -> now : 1
+life i now -> live : 1
+i now live -> in : 1
+now live in -> the : 1
+live in the -> i : 1
+in the i -> live : 1
+the i live -> by : 1
+i live by -> in : 1
+live by in -> the : 1
+by in the -> son : 1
+in the son -> of : 1
+son of who -> loved : 1
+of who loved -> me : 1
+who loved me -> and : 1
+loved me and -> gave : 1
+me and gave -> himself : 1
+and gave himself -> for : 1
+gave himself for -> you : 1
+himself for you -> love : 1
+for you love -> the : 1
+you love the -> freedom : 1
+love the freedom -> of : 1
+the freedom of -> knowing : 1
+freedom of knowing -> that : 1
+of knowing that -> you : 1
+knowing that you -> do : 1
+that you do -> not : 1
+not make if -> you : 1
+make if you -> take : 1
+if you take -> every : 1
+you take every -> decision : 1
+take every decision -> to : 1
+every decision to -> god : 1
+decision to god -> and : 1
+to god and -> he : 1
+god and he -> answers : 1
+and he answers -> how : 1
+he answers how -> each : 1
+answers how each -> decision : 1
+how each decision -> is : 1
+each decision is -> to : 1
+decision is to -> be : 1
+is to be -> made : 1
+to be made -> you : 1
+be made you -> can : 1
+made you can -> be : 1
+you can be -> at : 1
+can be at -> peace : 1
+be at peace -> and : 1
+at peace and -> know : 1
+peace and know -> that : 1
+and know that -> you : 1
+know that you -> make : 1
+that you make -> a : 1
+you make a -> because : 1
+make a because -> all : 1
+a because all -> is : 1
+because all is -> in : 1
+all is in -> his : 1
+is in his -> show : 1
+in his show -> me : 1
+his show me -> your : 1
+show me your -> o : 1
+me your o -> teach : 1
+your o teach -> me : 1
+o teach me -> your : 1
+me your seven -> times : 1
+your seven times -> a : 1
+seven times a -> righteous : 1
+times a righteous -> man : 1
+a righteous man -> will : 1
+righteous man will -> and : 1
+man will and -> seven : 1
+will and seven -> times : 1
+and seven times -> get : 1
+seven times get -> back : 1
+times get back -> up : 1
+get back up -> and : 1
+back up and -> keep : 1
+up and keep -> this : 1
+and keep this -> has : 1
+and keep this -> is : 1
+keep this has -> been : 1
+this has been -> extended : 1
+has been extended -> to : 1
+been extended to -> seventy : 1
+extended to seventy -> times : 1
+to seventy times -> seven : 1
+to seventy times -> no : 1
+seventy times seven -> by : 1
+times seven by -> jesus : 1
+seven by jesus -> in : 1
+by jesus in -> matthew : 1
+jesus in matthew -> then : 1
+in matthew then -> peter : 1
+matthew then peter -> came : 1
+then peter came -> to : 1
+peter came to -> him : 1
+came to him -> and : 1
+to him and -> how : 1
+him and how -> often : 1
+and how often -> shall : 1
+how often shall -> my : 1
+often shall my -> brother : 1
+shall my brother -> sin : 1
+my brother sin -> against : 1
+brother sin against -> and : 1
+sin against and -> i : 1
+against and i -> forgive : 1
+and i forgive -> up : 1
+i forgive up -> to : 1
+forgive up to -> seven : 1
+up to seven -> jesus : 1
+up to seven -> but : 1
+to seven jesus -> said : 1
+seven jesus said -> to : 1
+said to do -> not : 1
+to do not -> say : 1
+do not say -> to : 1
+not say to -> up : 1
+say to up -> to : 1
+to up to -> seven : 1
+to seven but -> up : 1
+seven but up -> to : 1
+but up to -> seventy : 1
+up to seventy -> times : 1
+seventy times no -> matter : 1
+times no matter -> how : 1
+matter how many -> times : 1
+how many times -> we : 1
+many times we -> got : 1
+times we got -> to : 1
+we got to -> pick : 1
+got to pick -> ourselves : 1
+to pick ourselves -> back : 1
+pick ourselves back -> up : 1
+ourselves back up -> out : 1
+back up out -> of : 1
+up out of -> the : 1
+out of the -> pigpen : 1
+of the pigpen -> and : 1
+the pigpen and -> keep : 1
+pigpen and keep -> this : 1
+keep this is -> what : 1
+this is what -> we : 1
+is what we -> are : 1
+what we are -> called : 1
+we are called -> to : 1
+are called to -> do : 1
+called to do -> to : 1
+to do to -> pick : 1
+do to pick -> up : 1
+pick up our -> and : 1
+up our and -> follow : 1
+our and follow -> jesus : 1
+and follow jesus -> for : 1
+follow jesus for -> his : 1
+jesus for his -> burden : 1
+for his burden -> is : 1
+his burden is -> easy : 1
+burden is easy -> and : 1
+is easy and -> his : 1
+is easy and -> my : 1
+easy and his -> yoke : 1
+and his yoke -> is : 1
+his yoke is -> light : 1
+yoke is light -> because : 1
+is light because -> he : 1
+light because he -> carries : 1
+because he carries -> it : 1
+he carries it -> with : 1
+carries it with -> my : 1
+it with my -> yoke : 1
+with my yoke -> is : 1
+my yoke is -> easy : 1
+yoke is easy -> and : 1
+easy and my -> burden : 1
+and my burden -> is : 1
+my burden is -> light : 1
+burden is light -> let : 1
+is light let -> us : 1
+light let us -> always : 1
+let us always -> praise : 1
+us always praise -> his : 1
+always praise his -> name : 1
+praise his name -> in : 1
+his name in -> times : 1
+name in times -> of : 1
+in times of -> in : 3
+in times of -> and : 1
+in times of -> when : 1
+times of in -> times : 3
+of in times -> of : 3
+times of and -> in : 1
+of and in -> times : 1
+and in times -> of : 1
+times of when -> we : 1
+of when we -> feel : 1
+when we feel -> the : 1
+when we feel -> like : 1
+we feel the -> most : 1
+feel the most -> the : 1
+the most the -> farthest : 1
+most the farthest -> from : 1
+the farthest from -> god : 1
+farthest from god -> let : 1
+from god let -> us : 1
+god let us -> praise : 1
+let us praise -> his : 1
+us praise his -> even : 1
+praise his even -> when : 1
+his even when -> we : 1
+even when we -> feel : 1
+we feel like -> it : 1
+feel like it -> because : 1
+like it because -> the : 1
+it because the -> sounds : 1
+because the sounds -> of : 1
+the sounds of -> people : 1
+sounds of people -> praising : 1
+of people praising -> god : 1
+people praising god -> makes : 1
+praising god makes -> the : 1
+god makes the -> powers : 1
+makes the powers -> of : 1
+the powers of -> darkness : 1
+powers of darkness -> and : 1
+of darkness and -> gives : 1
+darkness and gives -> us : 1
+and gives us -> victory : 1
+gives us victory -> we : 1
+us victory we -> for : 1
+victory we for -> great : 1
+we for great -> is : 1
+for great is -> your : 1
+great is your -> higher : 1
+is your higher -> than : 1
+your higher than -> the : 1
+higher than the -> your : 1
+than the your -> reaches : 1
+the your reaches -> to : 1
+your reaches to -> the : 1
+reaches to the -> the : 1
+to the the -> bible : 1
+the the bible -> is : 1
+the bible is -> full : 1
+bible is full -> of : 1
+is full of -> ordinary : 1
+full of ordinary -> people : 1
+of ordinary people -> who : 1
+ordinary people who -> went : 1
+people who went -> to : 1
+who went to -> impossible : 1
+went to impossible -> places : 1
+to impossible places -> and : 1
+impossible places and -> did : 1
+places and did -> wondrous : 1
+and did wondrous -> things : 1
+did wondrous things -> simply : 1
+wondrous things simply -> because : 1
+things simply because -> they : 1
+simply because they -> decided : 1
+because they decided -> to : 1
+they decided to -> obey : 1
+decided to obey -> even : 1
+to obey even -> when : 1
+obey even when -> others : 1
+even when others -> said : 1
+when others said -> do : 1
+others said do -> the : 1
+said do the -> crowd : 1
+do the crowd -> rebuked : 1
+the crowd rebuked -> them : 1
+crowd rebuked them -> and : 1
+rebuked them and -> told : 1
+them and told -> them : 1
+and told them -> to : 1
+told them to -> be : 1
+them to be -> but : 1
+to be but -> they : 1
+be but they -> shouted : 1
+but they shouted -> all : 1
+they shouted all -> the : 1
+shouted all the -> son : 1
+all the son -> of : 1
+son of have -> mercy : 1
+of have mercy -> on : 1
+have mercy on -> the : 1
+mercy on the -> doors : 1
+on the doors -> god : 1
+the doors god -> sets : 1
+doors god sets -> before : 1
+god sets before -> us : 1
+sets before us -> are : 1
+before us are -> much : 1
+us are much -> like : 1
+are much like -> grocery : 1
+much like grocery -> store : 1
+like grocery store -> entrances : 1
+grocery store entrances -> the : 1
+store entrances the -> doors : 1
+entrances the doors -> seem : 1
+the doors seem -> but : 1
+doors seem but -> the : 1
+seem but the -> minute : 1
+but the minute -> you : 1
+the minute you -> step : 1
+minute you step -> up : 1
+you step up -> to : 1
+step up to -> they : 1
+up to they -> you : 1
+to they you -> will : 1
+they you will -> not : 1
+you will not -> have : 1
+will not have -> to : 1
+not have to -> fight : 1
+have to fight -> this : 1
+to fight this -> take : 1
+fight this take -> up : 1
+this take up -> your : 1
+take up your -> stand : 1
+up your stand -> firm : 1
+your stand firm -> and : 1
+stand firm and -> see : 1
+stand firm and -> you : 1
+firm and see -> the : 1
+and see the -> deliverance : 1
+see the deliverance -> the : 2
+the deliverance the -> lord : 2
+deliverance the lord -> will : 2
+the lord will -> give : 1
+the lord will -> be : 1
+the lord will -> bring : 1
+the lord will -> fight : 1
+lord will give -> o : 1
+will give o -> judah : 1
+give o judah -> and : 1
+o judah and -> do : 1
+judah and do -> not : 1
+do not be -> do : 1
+do not be -> go : 1
+not be do -> not : 1
+be do not -> be : 1
+not be go -> out : 1
+be go out -> to : 1
+go out to -> face : 1
+out to face -> them : 1
+to face them -> and : 1
+face them and -> the : 1
+them and the -> lord : 1
+and the lord -> will : 1
+lord will be -> with : 1
+will be with -> chronicles : 1
+be with chronicles -> god : 1
+with chronicles god -> opens : 1
+chronicles god opens -> the : 1
+god opens the -> door : 1
+opens the door -> the : 1
+the door the -> minute : 1
+door the minute -> we : 1
+the minute we -> step : 1
+minute we step -> up : 1
+we step up -> in : 1
+step up in -> but : 1
+up in but -> if : 1
+in but if -> we : 1
+but if we -> never : 1
+if we never -> take : 1
+we never take -> the : 1
+never take the -> step : 1
+take the step -> of : 1
+the step of -> the : 1
+step of the -> doors : 1
+of the doors -> will : 1
+the doors will -> always : 1
+doors will always -> be : 1
+will always be -> moses : 1
+always be moses -> answered : 1
+be moses answered -> the : 1
+moses answered the -> not : 1
+answered the not -> be : 1
+the not be -> stand : 1
+not be stand -> firm : 1
+be stand firm -> and : 1
+firm and you -> will : 1
+and you will -> see : 1
+will see the -> deliverance : 1
+lord will bring -> you : 1
+will bring you -> the : 1
+bring you the -> egyptians : 1
+you the egyptians -> you : 1
+the egyptians you -> see : 1
+egyptians you see -> today : 1
+you see today -> you : 1
+see today you -> will : 1
+today you will -> never : 1
+you will never -> see : 1
+will never see -> the : 1
+never see the -> lord : 1
+see the lord -> will : 1
+lord will fight -> for : 1
+will fight for -> you : 1
+fight for you -> need : 1
+for you need -> only : 1
+you need only -> to : 1
+need only to -> be : 1
+only to be -> then : 1
+to be then -> the : 1
+be then the -> lord : 1
+then the lord -> said : 1
+the lord said -> to : 1
+lord said to -> are : 1
+said to are -> you : 1
+to are you -> crying : 1
+are you crying -> out : 1
+you crying out -> to : 1
+crying out to -> tell : 1
+out to tell -> the : 1
+to tell the -> israelites : 1
+tell the israelites -> to : 1
+the israelites to -> move : 1
+israelites to move -> loser : 1
+to move loser -> is : 1
+move loser is -> a : 1
+loser is a -> person : 1
+is a person -> who : 1
+a person who -> because : 1
+person who because -> if : 1
+who because if -> you : 1
+because if you -> believe : 1
+if you believe -> in : 1
+believe in and -> keep : 1
+in and keep -> even : 1
+and keep even -> if : 1
+keep even if -> you : 1
+even if you -> fail : 1
+if you fail -> over : 1
+you fail over -> and : 1
+fail over and -> over : 1
+over and over -> eventually : 1
+and over eventually -> win : 1
+over eventually win -> not : 1
+eventually win not -> a : 1
+win not a -> loser : 1
+not a loser -> until : 1
+a loser until -> you : 1
+loser until you -> give : 1
+until you give -> let : 1
+you give let -> us : 1
+give let us -> not : 1
+let us not -> become : 1
+us not become -> weary : 1
+not become weary -> in : 1
+become weary in -> doing : 1
+weary in doing -> for : 1
+in doing for -> at : 1
+doing for at -> the : 1
+for at the -> proper : 1
+at the proper -> time : 1
+the proper time -> we : 1
+proper time we -> will : 1
+time we will -> reap : 1
+we will reap -> a : 1
+will reap a -> harvest : 1
+reap a harvest -> if : 1
+a harvest if -> we : 1
+harvest if we -> do : 1
+if we do -> not : 1
+do not give -> the : 1
+not give the -> temporary : 1
+give the temporary -> pain : 1
+the temporary pain -> and : 1
+temporary pain and -> misery : 1
+pain and misery -> of : 1
+and misery of -> this : 1
+misery of this -> time : 1
+of this time -> will : 1
+this time will -> be : 1
+time will be -> worth : 1
+will be worth -> the : 1
+be worth the -> worth : 1
+worth the worth -> the : 1
+the worth the -> the : 1
+worth the the -> and : 1
+the the and -> the : 1
+the and the -> we : 1
+and the we -> must : 1
+the we must -> not : 1
+we must not -> give : 1
+must not give -> we : 1
+not give we -> have : 1
+give we have -> to : 1
+we have to -> remember : 1
+have to remember -> that : 1
+to remember that -> god : 1
+remember that god -> has : 1
+that god has -> promised : 1
+god has promised -> this : 1
+has promised this -> threshing : 1
+promised this threshing -> will : 1
+this threshing will -> not : 1
+threshing will not -> go : 1
+will not go -> on : 1
+not go on -> does : 1
+go on does -> one : 1
+on does one -> crush : 1
+does one crush -> bread : 1
+one crush bread -> he : 1
+crush bread he -> does : 1
+bread he does -> not : 1
+he does not -> thresh : 1
+does not thresh -> it : 1
+not thresh it -> but : 1
+thresh it but -> when : 1
+it but when -> he : 1
+but when he -> has : 1
+when he has -> driven : 1
+he has driven -> his : 1
+has driven his -> cartwheel : 1
+driven his cartwheel -> and : 1
+his cartwheel and -> his : 1
+cartwheel and his -> horses : 1
+and his horses -> over : 1
+his horses over -> he : 1
+horses over he -> scatters : 1
+over he scatters -> it : 1
+he scatters it -> it : 1
+scatters it it -> up : 1
+it it up -> to : 1
+it up to -> the : 1
+up to the -> without : 1
+to the without -> having : 1
+the without having -> crushed : 1
+without having crushed -> the : 1
+having crushed the -> beauty : 1
+crushed the beauty -> of : 1
+the beauty of -> what : 1
+beauty of what -> is : 1
+of what is -> inside : 1
+what is inside -> us : 1
+is inside us -> will : 1
+inside us will -> be : 1
+us will be -> revealed : 1
+will be revealed -> without : 1
+be revealed without -> being : 1
+revealed without being -> or : 1
+without being or -> a : 1
+being or a -> bruised : 1
+or a bruised -> reed : 1
+a bruised reed -> he : 1
+bruised reed he -> will : 1
+reed he will -> not : 1
+he will not -> and : 1
+he will not -> snuff : 1
+will not and -> a : 1
+not and a -> smoldering : 1
+and a smoldering -> wick : 1
+a smoldering wick -> he : 1
+smoldering wick he -> will : 1
+wick he will -> not : 1
+will not snuff -> in : 1
+not snuff in -> he : 1
+snuff in he -> will : 1
+in he will -> bring : 1
+he will bring -> forth : 1
+will bring forth -> justice : 1
+bring forth justice -> you : 1
+forth justice you -> for : 1
+justice you for -> find : 1
+you for find -> more : 1
+for find more -> thoughts : 1
+find more thoughts -> on : 1
+more thoughts on -> scripture : 1
+thoughts on scripture -> like : 1
+on scripture like -> the : 1
+scripture like the -> other : 1
+like the other -> books : 1
+the other books -> by : 1
+other books by -> this : 1
+books by this -> prodigal : 1
+by this prodigal -> coming : 1
+this prodigal coming -> all : 1
+prodigal coming all -> the : 1
+coming all the -> way : 1
+all the way -> home : 1
+the way home -> to : 1
+way home to -> november : 1
+home to november -> notes : 1
+to november notes -> of : 1
+november notes of -> follow : 1
+notes of follow -> pauline : 1

@@ -1,0 +1,7024 @@
+guide : 1
+rights : 1
+share : 1
+book : 1
+please : 1
+purchase : 1
+thank : 1
+respecting : 1
+duplication : 1
+reproduction : 1
+specific : 1
+considered : 1
+illegal : 1
+act : 1
+irrespective : 1
+electronically : 1
+extends : 1
+creating : 1
+secondary : 1
+tertiary : 1
+recorded : 1
+allowed : 1
+express : 1
+written : 1
+consent : 1
+ask : 1
+reality : 1
+lives : 1
+millions : 1
+programming : 1
+computers : 1
+determine : 1
+carry : 1
+words : 1
+phrases : 1
+name : 1
+body : 1
+those : 1
+redo : 1
+until : 1
+results : 1
+maintain : 1
+senders : 1
+word : 1
+update : 1
+starts : 1
+manually : 1
+telling : 1
+measures : 1
+requires : 1
+lists : 1
+simplify : 1
+stable : 1
+depending : 1
+comparing : 1
+human : 1
+supervision : 1
+during : 1
+major : 1
+explained : 1
+desired : 1
+together : 1
+numeric : 1
+price : 1
+classifications : 1
+vice : 1
+trees : 1
+forests : 1
+guess : 1
+hierarchical : 1
+cluster : 1
+apriori : 1
+dimensionality : 1
+kernel : 1
+pca : 1
+visitor : 1
+detecting : 1
+visitors : 1
+males : 1
+love : 1
+watching : 1
+movies : 1
+while : 1
+watch : 1
+plays : 1
+clustering : 1
+group : 1
+unlabeled : 1
+losing : 1
+related : 1
+cmbn : 1
+observe : 1
+receive : 1
+t : 1
+rewards : 1
+ties : 1
+robotics : 1
+walk : 1
+obtain : 1
+needed : 1
+resources : 1
+launch : 1
+available : 1
+continuous : 1
+flow : 1
+quickly : 1
+fast : 1
+changes : 1
+speed : 1
+forget : 1
+old : 1
+simplest : 1
+flagged : 1
+allows : 1
+apples : 1
+oranges : 1
+sorts : 1
+colors : 1
+processing : 1
+unreasonable : 1
+effectiveness : 1
+showing : 1
+ms : 1
+includes : 1
+full : 1
+spend : 1
+cleaning : 1
+up : 1
+enough : 1
+process : 1
+engineering : 1
+goes : 1
+selecting : 1
+existing : 1
+creation : 1
+cases : 1
+putting : 1
+environment : 1
+monitoring : 1
+user : 1
+tell : 1
+badly : 1
+my : 1
+advice : 1
+foreign : 1
+country : 1
+someone : 1
+steals : 1
+might : 1
+everyone : 1
+figure : 1
+high : 1
+degree : 1
+satisfaction : 1
+overfits : 1
+level : 1
+fewer : 1
+underfitting : 1
+encounter : 1
+quality : 1
+real : 1
+yield : 1
+powerful : 1
+referring : 1
+constraints : 1
+covered : 1
+chapters : 1
+answer : 1
+questions : 1
+describe : 1
+offline : 1
+review : 1
+feel : 1
+bit : 1
+lost : 1
+making : 1
+comes : 1
+gather : 1
+irrelevant : 1
+install : 1
+references : 1
+follow : 1
+digits : 1
+handwritten : 1
+students : 1
+beginner : 1
+de : 1
+description : 1
+describes : 1
+pixel : 1
+grab : 1
+display : 1
+imshow : 1
+cmap : 1
+tells : 1
+divided : 1
+follows : 1
+missing : 1
+identify : 1
+vectors : 1
+begin : 1
+advantage : 1
+handling : 1
+deal : 1
+stratified : 1
+sampling : 1
+produces : 1
+folds : 1
+contain : 1
+ration : 1
+iteration : 1
+correct : 1
+single : 1
+less : 1
+skewed : 1
+counting : 1
+classified : 1
+clean : 1
+ready : 1
+positives : 1
+decisions : 1
+regarding : 1
+compares : 1
+greater : 1
+side : 1
+confirm : 1
+plots : 1
+tnr : 1
+thers : 1
+fpr : 1
+bayes : 1
+svm : 1
+classifies : 1
+highest : 1
+pair : 1
+classifierwth : 1
+lines : 1
+ovo : 1
+accurate : 1
+index : 1
+higher : 1
+developing : 1
+explore : 1
+zeros : 1
+spot : 1
+rows : 1
+columns : 1
+practice : 1
+created : 1
+checks : 1
+shift : 1
+own : 1
+convert : 1
+construct : 1
+optimizing : 1
+unfathomable : 1
+black : 1
+optimize : 1
+grasp : 1
+deep : 1
+choosing : 1
+debugging : 1
+encourages : 1
+calculating : 1
+sum : 1
+constant : 1
+vectorized : 1
+minimizes : 1
+np : 1
+algebra : 1
+module : 1
+multiply : 1
+normal : 1
+inversion : 1
+computation : 1
+attain : 1
+great : 1
+news : 1
+memory : 1
+thanks : 1
+optimization : 1
+various : 1
+iterative : 1
+descending : 1
+reach : 1
+size : 1
+slow : 1
+short : 1
+getting : 1
+local : 1
+global : 1
+segment : 1
+join : 1
+occur : 1
+changing : 1
+derivatives : 1
+order : 1
+affect : 1
+randomly : 1
+faster : 1
+randomness : 1
+num : 1
+f : 1
+powers : 1
+known : 1
+never : 1
+efficient : 1
+polynomialfeatures : 1
+properly : 1
+obviously : 1
+being : 1
+regularize : 1
+decrease : 1
+absolute : 1
+shrinkage : 1
+selection : 1
+regularized : 1
+suddenly : 1
+become : 1
+meaning : 1
+computational : 1
+definition : 1
+collecting : 1
+collected : 1
+allow : 1
+lots : 1
+experts : 1
+proper : 1
+robust : 1
+later : 1
+basic : 1
+perception : 1
+ensembles : 1
+typically : 1
+recognized : 1
+yielding : 1
+popular : 1
+principle : 1
+diagram : 1
+illustrates : 1
+symbol : 1
+built : 1
+fitting : 1
+subsets : 1
+merges : 1
+ways : 1
+apply : 1
+assumption : 1
+independent : 1
+statistics : 1
+coefficient : 1
+concrete : 1
+assumptions : 1
+simplified : 1
+treated : 1
+half : 1
+idealistic : 1
+mass : 1
+def : 1
+q : 1
+visualize : 1
+relationship : 1
+er : 1
+guessing : 1
+depicts : 1
+saw : 1
+introduction : 1
+last : 1
+simplicity : 1
+often : 1
+associated : 1
+weights : 1
+stronger : 1
+balances : 1
+weaknesses : 1
+precise : 1
+mathematical : 1
+translate : 1
+convenient : 1
+bincount : 1
+pij : 1
+jth : 1
+continue : 1
+probabilities : 1
+sample : 1
+ex : 1
+p : 1
+shape : 1
+elif : 1
+arg : 1
+total : 1
+probs : 1
+calibrated : 1
+sparse : 1
+labelencoder : 1
+ensure : 1
+comments : 1
+remaining : 1
+quick : 1
+break : 1
+discuss : 1
+confusing : 1
+parent : 1
+baseestimator : 1
+classifiermixin : 1
+functionality : 1
+imported : 1
+six : 1
+compatible : 1
+object : 1
+operator : 1
+area : 1
+under : 1
+curve : 1
+pre : 1
+spar : 1
+sp : 1
+per : 1
+names : 1
+put : 1
+mvc : 1
+prepare : 1
+familiar : 1
+datasets : 1
+csv : 1
+shortcut : 1
+petal : 1
+multiclass : 1
+flower : 1
+sklearn : 1
+le : 1
+shown : 1
+shows : 1
+almost : 1
+wondering : 1
+cause : 1
+euclidean : 1
+distance : 1
+contrast : 1
+advantages : 1
+measured : 1
+habit : 1
+standardized : 1
+move : 1
+exciting : 1
+majorityvotingclassifier : 1
+substantially : 1
+improved : 1
+going : 1
+curves : 1
+check : 1
+unseen : 1
+remember : 1
+report : 1
+estimate : 1
+thresholds : 1
+seems : 1
+show : 1
+region : 1
+actually : 1
+necessary : 1
+standardize : 1
+prior : 1
+pipelines : 1
+care : 1
+scale : 1
+visual : 1
+itertools : 1
+yy : 1
+axarr : 1
+tt : 1
+wid : 1
+hybrid : 1
+neighbor : 1
+orthogonal : 1
+axis : 1
+tune : 1
+essential : 1
+gridsearch : 1
+returned : 1
+depth : 1
+demonstration : 1
+params : 1
+gd : 1
+print : 1
+hyper : 1
+combinations : 1
+ac : 1
+computed : 1
+through : 1
+goals : 1
+benefits : 1
+combining : 1
+additional : 2
+information : 2
+insufficient : 2
+quantity : 2
+i : 2
+robot : 2
+filter : 2
+improve : 2
+introduce : 2
+easily : 2
+referred : 2
+out : 2
+certain : 2
+steps : 2
+rules : 2
+difficult : 2
+developed : 2
+solve : 2
+speech : 2
+say : 2
+no : 2
+incrementally : 2
+points : 2
+build : 2
+according : 2
+four : 2
+feed : 2
+groups : 2
+tasks : 2
+rule : 2
+suppose : 2
+who : 2
+visualization : 2
+give : 2
+possible : 2
+handle : 2
+agent : 2
+require : 2
+thing : 2
+opposite : 2
+mean : 2
+providing : 2
+examples : 2
+whether : 2
+programs : 2
+too : 2
+provide : 2
+sure : 2
+generalize : 2
+evaluation : 2
+testing : 2
+life : 2
+does : 2
+occurs : 2
+difference : 2
+validation : 2
+online : 2
+refers : 2
+such : 2
+clear : 2
+matplotlib : 2
+section : 2
+start : 2
+play : 2
+sgd : 2
+explain : 2
+clone : 2
+count : 2
+fold : 2
+times : 2
+interesting : 2
+both : 2
+result : 2
+stands : 2
+operating : 2
+characteristic : 2
+tpr : 2
+support : 2
+ova : 2
+technique : 2
+execute : 2
+multiple : 2
+step : 2
+face : 2
+odd : 2
+final : 2
+case : 2
+adding : 2
+implemented : 2
+worked : 2
+seem : 2
+understanding : 2
+s : 2
+inside : 2
+details : 2
+nonlinear : 2
+regularization : 2
+reduce : 2
+input : 2
+generate : 2
+complexity : 2
+idea : 2
+equal : 2
+everything : 2
+irregular : 2
+minimum : 2
+line : 2
+theta : 2
+derivative : 2
+gr : 2
+stochastic : 2
+already : 2
+added : 2
+straight : 2
+regularizing : 2
+version : 2
+weight : 2
+illustrate : 2
+term : 2
+settings : 2
+unique : 2
+rates : 2
+binomial : 2
+note : 2
+split : 2
+whereas : 2
+over : 2
+resulting : 2
+particular : 2
+argmax : 2
+previous : 2
+three : 2
+membership : 2
+sh : 2
+add : 2
+initialize : 2
+load : 2
+iris : 2
+sepal : 2
+width : 2
+although : 2
+generalizes : 2
+ir : 2
+performances : 2
+z : 2
+boundary : 2
+grid : 2
+search : 2
+copy : 3
+hard : 3
+done : 3
+supervised : 3
+applications : 3
+sets : 3
+select : 3
+software : 3
+flag : 3
+list : 3
+email : 3
+since : 3
+traditional : 3
+were : 3
+l : 3
+problems : 3
+solution : 3
+adapt : 3
+been : 3
+trained : 3
+classify : 3
+amount : 3
+machines : 3
+similar : 3
+smaller : 3
+goal : 3
+several : 3
+must : 3
+huge : 3
+needs : 3
+large : 3
+part : 3
+project : 3
+second : 3
+generalization : 3
+works : 3
+overfitting : 3
+noise : 3
+even : 3
+fix : 3
+deeper : 3
+digit : 3
+key : 3
+column : 3
+target : 3
+before : 3
+k : 3
+scoring : 3
+measure : 3
+easy : 3
+performs : 3
+returns : 3
+instance : 3
+negative : 3
+makes : 3
+calculates : 3
+assign : 3
+access : 3
+calling : 3
+receiver : 3
+tool : 3
+concept : 3
+next : 3
+represent : 3
+cover : 3
+general : 3
+understand : 3
+inverse : 3
+optimal : 3
+descent : 3
+partial : 3
+lr : 3
+whole : 3
+range : 3
+after : 3
+notice : 3
+classifers : 3
+why : 3
+received : 3
+percent : 3
+where : 3
+python : 3
+majorityvoteclassifier : 3
+average : 3
+samples : 3
+sc : 3
+auc : 3
+regions : 3
+including : 4
+spam : 4
+given : 4
+emails : 4
+again : 4
+long : 4
+uses : 4
+ml : 4
+automatically : 4
+help : 4
+us : 4
+types : 4
+simply : 4
+task : 4
+vector : 4
+may : 4
+output : 4
+its : 4
+lot : 4
+useful : 4
+concepts : 4
+small : 4
+go : 4
+images : 4
+row : 4
+create : 4
+false : 4
+sgdclassifier : 4
+cross : 4
+cv : 4
+score : 4
+roc : 4
+compare : 4
+scores : 4
+functions : 4
+j : 4
+equation : 4
+m : 4
+fit : 4
+mytheta : 4
+lasso : 4
+merge : 4
+plurality : 4
+cl : 4
+dataset : 4
+tree : 4
+systems : 5
+about : 5
+imagine : 5
+something : 5
+above : 5
+able : 5
+assume : 5
+without : 5
+patterns : 5
+detect : 5
+change : 5
+their : 5
+techniques : 5
+distinguish : 5
+develop : 5
+problem : 5
+divide : 5
+because : 5
+keep : 5
+mind : 5
+kind : 5
+always : 5
+do : 5
+instances : 5
+know : 5
+want : 5
+try : 5
+best : 5
+learned : 5
+represents : 5
+array : 5
+x : 5
+true : 5
+ratio : 5
+performance : 5
+predicted : 5
+positive : 5
+plot : 5
+classes : 5
+polynomial : 5
+parameters : 5
+weighted : 5
+compute : 5
+methods : 5
+via : 5
+neighbors : 5
+right : 6
+models : 6
+looks : 6
+these : 6
+combine : 6
+feature : 6
+confusion : 6
+values : 6
+return : 6
+n : 6
+labels : 6
+parameter : 6
+c : 6
+logistic : 6
+probability : 6
+unsupervised : 7
+called : 7
+predict : 7
+perform : 7
+errors : 7
+well : 7
+evaluate : 7
+mnist : 7
+now : 7
+accuracy : 7
+matrix : 7
+precision : 7
+recall : 7
+threshold : 7
+ridge : 7
+voting : 7
+vote : 7
+implement : 8
+would : 8
+another : 8
+forest : 8
+what : 8
+them : 8
+there : 8
+batch : 8
+working : 8
+between : 8
+numpy : 8
+choose : 8
+call : 8
+cost : 8
+important : 9
+write : 9
+used : 9
+good : 9
+contains : 9
+same : 9
+complex : 9
+here : 9
+predictions : 9
+better : 9
+prediction : 9
+algorithms : 10
+random : 10
+first : 10
+program : 10
+they : 10
+means : 10
+example : 10
+y : 10
+most : 11
+train : 11
+other : 11
+look : 11
+two : 11
+code : 11
+time : 11
+some : 11
+image : 11
+has : 11
+base : 11
+all : 12
+see : 12
+new : 12
+rate : 12
+binary : 12
+only : 13
+based : 13
+algorithm : 13
+find : 13
+features : 13
+method : 13
+learn : 14
+need : 14
+our : 14
+system : 14
+just : 14
+any : 15
+simple : 15
+different : 15
+test : 15
+value : 15
+function : 15
+classifer : 15
+each : 16
+classification : 16
+but : 16
+have : 16
+take : 16
+type : 16
+regression : 16
+label : 16
+calculate : 16
+linear : 17
+at : 17
+then : 17
+classifier : 17
+individual : 17
+not : 18
+when : 18
+into : 18
+get : 18
+error : 18
+decision : 18
+how : 19
+so : 19
+very : 19
+more : 19
+classifiers : 19
+gradient : 20
+majority : 20
+many : 20
+every : 20
+also : 21
+than : 21
+set : 22
+number : 23
+ensemble : 23
+from : 24
+which : 24
+should : 25
+model : 25
+or : 26
+machine : 26
+by : 27
+import : 28
+class : 28
+be : 29
+one : 30
+using : 30
+make : 30
+work : 31
+following : 31
+learning : 32
+use : 32
+are : 32
+if : 33
+like : 35
+your : 35
+training : 40
+on : 41
+an : 44
+data : 44
+it : 62
+as : 62
+we : 65
+will : 72
+can : 73
+with : 82
+this : 87
+you : 91
+for : 91
+that : 95
+in : 106
+is : 126
+a : 151
+and : 167
+to : 199
+of : 222
+the : 577
+guide to implement -> learning : 1
+to implement learning -> algorithms : 1
+implement learning algorithms -> with : 1
+learning algorithms with -> all : 1
+algorithms with all -> rights : 1
+with all rights -> you : 1
+all rights you -> would : 1
+rights you would -> like : 1
+you would like -> to : 1
+would like to -> share : 1
+like to share -> this : 1
+to share this -> book : 1
+share this book -> with : 1
+this book with -> another : 1
+book with another -> please : 1
+with another please -> purchase : 1
+another please purchase -> an : 1
+please purchase an -> additional : 1
+purchase an additional -> copy : 1
+an additional copy -> for : 1
+additional copy for -> each : 1
+copy for each -> thank : 1
+for each thank -> you : 1
+each thank you -> for : 1
+thank you for -> respecting : 1
+you for respecting -> the : 1
+for respecting the -> hard : 1
+respecting the hard -> work : 1
+the hard work -> of : 1
+hard work of -> this : 1
+work of this -> the : 1
+of this the -> duplication : 1
+this the duplication -> or : 1
+the duplication or -> reproduction : 1
+duplication or reproduction -> of : 1
+or reproduction of -> any : 1
+reproduction of any -> of : 1
+of any of -> the : 1
+any of the -> following : 1
+any of the -> to : 1
+of the following -> work : 1
+the following work -> including : 1
+following work including -> specific : 1
+work including specific -> information : 1
+including specific information -> will : 1
+specific information will -> be : 1
+information will be -> considered : 1
+will be considered -> an : 1
+be considered an -> illegal : 1
+considered an illegal -> act : 1
+an illegal act -> irrespective : 1
+illegal act irrespective -> of : 1
+act irrespective of -> if : 1
+irrespective of if -> it : 1
+of if it -> is : 1
+if it is -> done : 1
+it is done -> electronically : 1
+is done electronically -> or : 1
+done electronically or -> in : 1
+electronically or in -> this : 1
+or in this -> extends : 1
+in this extends -> to : 1
+this extends to -> creating : 1
+extends to creating -> a : 1
+to creating a -> secondary : 1
+creating a secondary -> or : 1
+a secondary or -> tertiary : 1
+secondary or tertiary -> copy : 1
+or tertiary copy -> of : 1
+tertiary copy of -> the : 1
+copy of the -> work : 1
+of the work -> or : 1
+the work or -> a : 1
+work or a -> recorded : 1
+or a recorded -> copy : 1
+a recorded copy -> and : 1
+recorded copy and -> is : 1
+copy and is -> only : 1
+and is only -> allowed : 1
+is only allowed -> with : 1
+only allowed with -> an : 1
+allowed with an -> express : 1
+with an express -> written : 1
+an express written -> consent : 1
+express written consent -> from : 1
+written consent from -> the : 1
+consent from the -> all : 1
+from the all -> additional : 1
+the all additional -> right : 1
+all additional right -> of : 1
+additional right of -> to : 1
+right of to -> machine : 1
+of to machine -> is : 1
+to machine is -> machine : 1
+machine is machine -> machine : 1
+is machine machine -> should : 1
+machine machine should -> you : 1
+machine should you -> use : 1
+should you use -> machine : 2
+should you use -> to : 1
+you use machine -> of : 1
+you use machine -> when : 1
+use machine of -> systems : 1
+machine of systems -> of : 1
+of systems of -> machine : 2
+systems of machine -> and : 1
+systems of machine -> are : 1
+of machine and -> unsupervised : 1
+machine and unsupervised -> most : 1
+and unsupervised most -> important : 1
+unsupervised most important -> supervised : 1
+most important supervised -> most : 1
+most important supervised -> vector : 1
+important supervised most -> important : 1
+supervised most important -> unsupervised : 1
+most important unsupervised -> based : 1
+most important unsupervised -> hierarchical : 1
+important unsupervised based -> and : 1
+unsupervised based and -> insufficient : 1
+based and insufficient -> quantity : 1
+and insufficient quantity -> of : 2
+insufficient quantity of -> training : 2
+quantity of training -> the : 1
+quantity of training -> systems : 1
+of training the -> the : 1
+training the the -> of : 1
+the the of -> a : 1
+the of a -> random : 1
+of a random -> forest : 1
+a random forest -> to : 1
+a random forest -> you : 1
+a random forest -> classifierwth : 1
+a random forest -> classifier : 1
+random forest to -> train : 1
+forest to train -> a : 1
+to train a -> gradient : 1
+to train a -> binary : 1
+to train a -> random : 1
+to train a -> working : 1
+to train a -> model : 1
+train a gradient -> gradient : 1
+a gradient gradient -> gradient : 1
+gradient gradient gradient -> linear : 1
+gradient gradient linear -> models : 1
+gradient gradient linear -> ridge : 1
+gradient linear models -> a : 1
+linear models a -> simple : 1
+models a simple -> majority : 1
+a simple majority -> different : 1
+a simple majority -> or : 1
+a simple majority -> we : 1
+simple majority different -> algorithms : 1
+majority different algorithms -> for : 1
+different algorithms for -> classification : 2
+algorithms for classification -> with : 2
+for classification with -> majority : 2
+classification with majority -> to : 1
+classification with majority -> it : 1
+with majority to -> machine : 1
+majority to machine -> i : 1
+to machine i -> ask : 1
+machine i ask -> you : 1
+i ask you -> about : 1
+ask you about -> imagine : 1
+you about imagine -> a : 1
+about imagine a -> robot : 1
+imagine a robot -> or : 1
+a robot or -> something : 1
+robot or something -> like : 1
+or something like -> in : 1
+something like in -> reality : 1
+like in reality -> machine : 1
+in reality machine -> learning : 1
+reality machine learning -> is : 1
+machine learning is -> not : 1
+machine learning is -> the : 1
+learning is not -> only : 1
+is not only -> in : 1
+not only in -> but : 1
+only in but -> also : 1
+in but also -> in : 1
+but also in -> many : 1
+also in many -> other : 1
+in many other -> you : 1
+many other you -> can : 1
+other you can -> also : 1
+you can also -> imagine : 1
+can also imagine -> something : 1
+also imagine something -> like : 1
+imagine something like -> a : 1
+something like a -> spam : 1
+like a spam -> filter : 1
+a spam filter -> as : 1
+spam filter as -> one : 1
+filter as one -> of : 1
+as one of -> the : 1
+one of the -> first : 1
+of the first -> applications : 1
+of the first -> thing : 1
+the first applications -> in : 1
+first applications in -> machine : 1
+applications in machine -> improve : 1
+in machine improve -> the : 1
+machine improve the -> lives : 1
+improve the lives -> of : 1
+the lives of -> millions : 1
+lives of millions -> of : 1
+of millions of -> in : 1
+millions of in -> this : 1
+of in this -> introduce : 1
+of in this -> we : 1
+in this introduce -> you : 1
+this introduce you -> what : 1
+introduce you what -> machine : 1
+you what machine -> learning : 1
+what machine learning -> and : 1
+machine learning and -> how : 1
+learning and how -> it : 1
+and how it -> is : 1
+and how it -> makes : 1
+how it is -> machine : 1
+it is machine -> learning : 1
+is machine learning -> is : 1
+learning is the -> of : 1
+learning is the -> opposite : 1
+learning is the -> difference : 1
+is the of -> programming : 1
+the of programming -> computers : 1
+of programming computers -> to : 1
+programming computers to -> learn : 1
+computers to learn -> from : 1
+to learn from -> in : 1
+learn from in -> the : 1
+from in the -> above : 1
+in the above -> the : 1
+in the above -> one : 1
+the above the -> program : 1
+above the program -> easily : 1
+the program easily -> be : 1
+program easily be -> able : 1
+easily be able -> to : 1
+be able to -> determine : 1
+be able to -> maintain : 1
+be able to -> distinguish : 1
+be able to -> initialize : 1
+able to determine -> given : 1
+to determine given -> are : 1
+determine given are -> important : 1
+given are important -> or : 1
+are important or -> in : 1
+important or in -> machine : 1
+or in machine -> data : 1
+in machine data -> referred : 1
+machine data referred -> to : 1
+data referred to -> called : 1
+referred to called -> training : 1
+to called training -> sets : 1
+called training sets -> or : 1
+training sets or -> machine : 1
+sets or machine -> assume : 1
+or machine assume -> that : 1
+machine assume that -> like : 1
+assume that like -> to : 1
+that like to -> write : 1
+that like to -> find : 1
+like to write -> the : 1
+to write the -> filter : 1
+write the filter -> program : 1
+the filter program -> without : 1
+filter program without -> using : 1
+program without using -> machine : 1
+without using machine -> learning : 1
+using machine learning -> in : 1
+machine learning in -> this : 1
+learning in this -> you : 1
+in this you -> would : 1
+this you would -> have : 1
+you would have -> to : 1
+would have to -> carry : 1
+have to carry -> out : 1
+to carry out -> the : 1
+carry out the -> following : 1
+out the following -> in : 1
+the following in -> the : 1
+following in the -> take : 1
+in the take -> a : 1
+the take a -> look : 2
+take a look -> at : 7
+take a look -> from : 1
+a look at -> what : 1
+a look at -> the : 4
+a look at -> a : 1
+a look at -> import : 1
+look at what -> spam : 1
+at what spam -> looks : 1
+what spam looks -> you : 1
+spam looks you -> select : 1
+looks you select -> them : 1
+you select them -> for : 1
+select them for -> words : 1
+them for words -> or : 1
+for words or -> phrases : 1
+words or phrases -> they : 1
+or phrases they -> like : 1
+phrases they like -> and : 1
+they like and -> so : 1
+like and so -> and : 1
+and so and -> also : 1
+so and also -> from : 1
+and also from -> patterns : 1
+also from patterns -> that : 1
+from patterns that -> are : 1
+patterns that are -> used : 1
+that are used -> in : 1
+are used in -> the : 1
+used in the -> name : 1
+in the name -> or : 1
+the name or -> in : 1
+name or in -> the : 1
+or in the -> body : 1
+in the body -> of : 1
+the body of -> the : 1
+body of the -> write : 1
+of the write -> an : 1
+the write an -> algorithm : 1
+write an algorithm -> to : 1
+an algorithm to -> detect : 1
+algorithm to detect -> the : 1
+to detect the -> patterns : 1
+to detect the -> of : 1
+detect the patterns -> that : 1
+the patterns that -> and : 1
+patterns that and -> then : 1
+that and then -> the : 1
+and then the -> software : 1
+and then the -> system : 1
+then the software -> would : 1
+the software would -> flag : 1
+software would flag -> emails : 1
+would flag emails -> as : 1
+flag emails as -> spam : 1
+emails as spam -> if : 1
+as spam if -> a : 1
+spam if a -> certain : 1
+if a certain -> number : 1
+a certain number -> of : 1
+certain number of -> those : 1
+number of those -> patterns : 1
+of those patterns -> are : 1
+those patterns are -> test : 1
+patterns are test -> the : 1
+are test the -> and : 1
+test the and -> then : 1
+the and then -> redo : 1
+the and then -> launch : 1
+the and then -> compare : 1
+and then redo -> the : 1
+then redo the -> first : 1
+redo the first -> two : 1
+the first two -> steps : 1
+first two steps -> again : 1
+two steps again -> until : 1
+steps again until -> the : 1
+again until the -> results : 1
+until the results -> are : 1
+the results are -> good : 1
+results are good -> the : 1
+are good the -> program : 1
+good the program -> is : 1
+the program is -> not : 1
+program is not -> it : 1
+is not it -> contains : 1
+not it contains -> a : 1
+it contains a -> very : 1
+contains a very -> long : 1
+a very long -> list : 1
+very long list -> of : 1
+long list of -> rules : 1
+list of rules -> that : 1
+of rules that -> are : 1
+rules that are -> difficult : 1
+that are difficult -> but : 1
+are difficult but -> if : 1
+difficult but if -> developed : 1
+but if developed -> the : 1
+if developed the -> same : 1
+developed the same -> software : 1
+the same software -> using : 1
+same software using -> be : 1
+software using be -> able : 1
+using be able -> to : 1
+able to maintain -> it : 1
+to maintain it -> the : 1
+maintain it the -> email : 1
+it the email -> senders : 1
+the email senders -> change : 1
+email senders change -> their : 1
+senders change their -> so : 1
+change their so -> that : 1
+their so that -> a : 1
+so that a -> word : 1
+that a word -> like : 1
+a word like -> is : 1
+word like is -> since : 1
+like is since -> their : 1
+is since their -> emails : 1
+since their emails -> have : 1
+their emails have -> to : 1
+emails have to -> be : 1
+have to be -> the : 1
+to be the -> program : 1
+to be the -> training : 1
+be the program -> traditional : 1
+the program traditional -> techniques : 1
+program traditional techniques -> would : 1
+traditional techniques would -> need : 1
+techniques would need -> to : 1
+would need to -> be : 1
+need to be -> which : 1
+to be which -> means : 1
+be which means -> if : 1
+which means if -> there : 1
+means if there -> were : 1
+if there were -> any : 1
+there were any -> other : 1
+were any other -> you : 1
+any other you -> would : 1
+other you would -> l : 1
+you would l -> need : 1
+would l need -> to : 1
+l need to -> update : 1
+need to update -> your : 1
+to update your -> code : 1
+update your code -> again : 1
+your code again -> and : 1
+code again and -> again : 1
+again and again -> and : 1
+and again and -> the : 1
+again and the -> other : 1
+and the other -> program : 1
+the other program -> that : 1
+other program that -> uses : 1
+program that uses -> ml : 1
+that uses ml -> techniques : 1
+uses ml techniques -> will : 1
+ml techniques will -> automatically : 1
+techniques will automatically -> detect : 1
+will automatically detect -> this : 1
+automatically detect this -> change : 1
+detect this change -> by : 1
+this change by -> and : 1
+this change by -> a : 1
+change by and -> it : 1
+by and it -> starts : 1
+and it starts -> to : 1
+it starts to -> flag : 1
+starts to flag -> them : 1
+to flag them -> without : 1
+flag them without -> you : 1
+them without you -> manually : 1
+without you manually -> telling : 1
+you manually telling -> it : 1
+manually telling it -> we : 1
+telling it we -> can : 1
+it we can -> use : 1
+we can use -> learning : 1
+we can use -> convenient : 1
+can use learning -> to : 1
+use learning to -> solve : 1
+learning to solve -> problems : 1
+to solve problems -> that : 1
+solve problems that -> are : 1
+problems that are -> very : 1
+that are very -> complex : 1
+are very complex -> for : 1
+very complex for -> learning : 1
+very complex for -> the : 1
+complex for learning -> for : 1
+for learning for -> speech : 1
+learning for speech -> when : 1
+for speech when -> you : 1
+speech when you -> say : 1
+when you say -> or : 1
+you say or -> the : 1
+say or the -> program : 1
+or the program -> should : 1
+the program should -> be : 1
+program should be -> able : 1
+should be able -> to : 1
+able to distinguish -> the : 1
+to distinguish the -> for : 1
+distinguish the for -> this : 1
+the for this -> need : 1
+for this need -> to : 1
+this need to -> develop : 1
+need to develop -> an : 1
+to develop an -> algorithm : 1
+develop an algorithm -> that : 1
+an algorithm that -> measures : 1
+algorithm that measures -> the : 1
+that measures the -> machine : 1
+measures the machine -> learning : 1
+the machine learning -> will : 1
+machine learning will -> help : 1
+learning will help -> us : 1
+will help us -> to : 1
+help us to -> algorithms : 1
+us to algorithms -> can : 1
+to algorithms can -> help : 1
+algorithms can help -> us : 1
+can help us -> see : 1
+help us see -> what : 1
+us see what -> we : 1
+see what we -> have : 1
+what we have -> should : 1
+we have should -> you : 1
+have should you -> use : 1
+use machine when -> you : 1
+machine when you -> a : 1
+when you a -> problem : 1
+you a problem -> that : 1
+a problem that -> requires : 1
+problem that requires -> long : 1
+that requires long -> lists : 1
+requires long lists -> of : 1
+long lists of -> rules : 1
+lists of rules -> to : 1
+of rules to -> the : 1
+rules to the -> in : 1
+to the in -> this : 1
+the in this -> techniques : 1
+the in this -> by : 1
+the in this -> the : 1
+in this techniques -> can : 1
+this techniques can -> simplify : 1
+techniques can simplify -> your : 1
+can simplify your -> code : 1
+simplify your code -> and : 1
+your code and -> improve : 1
+code and improve -> very : 1
+and improve very -> complex : 1
+improve very complex -> problems : 1
+very complex problems -> for : 1
+complex problems for -> which : 1
+problems for which -> there : 1
+for which there -> is : 1
+which there is -> no : 1
+there is no -> solution : 1
+is no solution -> with : 1
+no solution with -> a : 1
+solution with a -> traditional : 1
+with a traditional -> stable : 1
+a traditional stable -> software : 1
+traditional stable software -> can : 1
+stable software can -> adapt : 1
+software can adapt -> to : 1
+can adapt to -> new : 1
+can adapt to -> any : 1
+adapt to new -> of : 1
+to new of -> systems : 1
+new of systems -> of : 1
+of machine are -> different : 1
+machine are different -> types : 1
+are different types -> of : 1
+different types of -> we : 1
+different types of -> also : 1
+types of we -> can : 1
+of we can -> divide : 1
+we can divide -> them : 1
+can divide them -> into : 1
+divide them into -> depending : 1
+them into depending -> on : 1
+into depending on -> they : 1
+depending on they -> have : 1
+on they have -> been : 1
+they have been -> trained : 1
+have been trained -> with : 1
+been trained with -> or : 1
+been trained with -> many : 1
+trained with or -> not : 1
+with or not -> learning : 1
+or not learning -> if : 1
+not learning if -> they : 1
+learning if they -> can : 1
+if they can -> learn : 1
+they can learn -> incrementally : 1
+can learn incrementally -> if : 1
+can learn incrementally -> by : 1
+learn incrementally if -> they : 1
+incrementally if they -> work : 1
+if they work -> simply : 1
+they work simply -> by : 1
+work simply by -> comparing : 1
+simply by comparing -> new : 1
+by comparing new -> data : 1
+comparing new data -> points : 1
+new data points -> to : 1
+data points to -> data : 1
+points to data -> or : 1
+to data or -> can : 1
+data or can -> detect : 1
+or can detect -> new : 1
+can detect new -> patterns : 1
+detect new patterns -> in : 1
+new patterns in -> the : 1
+patterns in the -> data : 1
+in the data -> then : 1
+the data then -> will : 1
+data then will -> build : 1
+then will build -> a : 1
+will build a -> and : 1
+build a and -> unsupervised : 1
+a and unsupervised -> can : 1
+and unsupervised can -> classify : 1
+unsupervised can classify -> machine : 1
+can classify machine -> learning : 1
+classify machine learning -> systems : 1
+machine learning systems -> according : 1
+learning systems according -> to : 1
+systems according to -> the : 1
+according to the -> type : 1
+to the type -> and : 1
+the type and -> amount : 1
+type and amount -> of : 1
+and amount of -> human : 1
+amount of human -> supervision : 1
+of human supervision -> during : 1
+human supervision during -> the : 1
+supervision during the -> you : 1
+during the you -> can : 1
+the you can -> find : 1
+you can find -> four : 1
+can find four -> major : 1
+find four major -> as : 1
+four major as -> we : 1
+major as we -> explained : 1
+as we explained -> learning : 1
+we explained learning -> learning : 1
+explained learning learning -> this : 1
+learning learning this -> type : 1
+learning this type -> of : 1
+this type of -> the : 2
+this type of -> task : 1
+this type of -> you : 1
+this type of -> learning : 2
+this type of -> system : 2
+type of the -> data : 1
+type of the -> first : 1
+type of the -> regularized : 1
+of the data -> that : 1
+of the data -> for : 1
+the data that -> you : 1
+data that you -> feed : 1
+that you feed -> into : 1
+you feed into -> the : 1
+feed into the -> with : 1
+into the with -> the : 1
+the with the -> desired : 1
+the with the -> following : 1
+with the desired -> are : 1
+the desired are -> referred : 1
+desired are referred -> to : 1
+are referred to -> as : 1
+referred to as -> learning : 1
+to as learning -> groups : 1
+as learning groups -> together : 1
+learning groups together -> a : 1
+groups together a -> tasks : 1
+together a tasks -> of : 1
+a tasks of -> the : 1
+tasks of the -> above : 1
+of the above -> program : 1
+the above program -> is : 1
+above program is -> a : 1
+program is a -> good : 1
+is a good -> example : 1
+is a good -> but : 1
+is a good -> habit : 1
+a good example -> of : 1
+good example of -> this : 1
+example of this -> because : 1
+example of this -> method : 1
+of this because -> been : 1
+this because been -> trained : 1
+because been trained -> with : 1
+trained with many -> emails : 1
+with many emails -> at : 1
+many emails at -> the : 1
+emails at the -> same : 1
+at the same -> time : 1
+the same time -> as : 1
+same time as -> their : 1
+time as their -> example : 1
+as their example -> is : 1
+their example is -> to : 1
+example is to -> predict : 1
+is to predict -> a : 1
+to predict a -> numeric : 1
+predict a numeric -> value : 1
+a numeric value -> like : 1
+numeric value like -> the : 1
+value like the -> price : 1
+like the price -> of : 1
+the price of -> a : 1
+price of a -> given : 1
+of a given -> a : 1
+a given a -> set : 1
+given a set -> of : 1
+a set of -> features : 1
+a set of -> images : 1
+set of features -> number : 1
+of features number -> of : 1
+features number of -> called : 1
+number of called -> this : 1
+of called this -> type : 1
+called this type -> of : 1
+type of task -> is : 1
+of task is -> called : 1
+task is called -> should : 1
+is called should -> keep : 1
+called should keep -> in : 1
+should keep in -> mind : 1
+should keep in -> the : 1
+keep in mind -> that : 2
+keep in mind -> is : 1
+in mind that -> some : 1
+in mind that -> accuracy : 1
+in mind that -> the : 1
+mind that some -> regression : 1
+that some regression -> algorithms : 1
+some regression algorithms -> can : 1
+regression algorithms can -> be : 1
+algorithms can be -> used : 1
+can be used -> for : 1
+be used for -> classifications : 1
+be used for -> model : 1
+used for classifications -> as : 1
+for classifications as -> and : 1
+classifications as and -> vice : 1
+as and vice -> most : 1
+and vice most -> important : 1
+vice most important -> supervised : 1
+important supervised vector -> machines : 1
+supervised vector machines -> regression : 1
+vector machines regression -> trees : 1
+machines regression trees -> and : 1
+regression trees and -> random : 1
+trees and random -> forests : 1
+and random forests -> this : 1
+random forests this -> type : 1
+forests this type -> of : 1
+type of you -> can : 1
+of you can -> guess : 1
+you can guess -> that : 1
+can guess that -> the : 1
+guess that the -> data : 1
+that the data -> is : 2
+the data is -> most : 1
+the data is -> obviously : 1
+data is most -> important : 1
+is most important -> unsupervised : 1
+important unsupervised hierarchical -> cluster : 1
+unsupervised hierarchical cluster -> rule : 1
+hierarchical cluster rule -> apriori : 1
+cluster rule apriori -> and : 1
+rule apriori and -> dimensionality : 1
+apriori and dimensionality -> kernel : 1
+and dimensionality kernel -> pca : 1
+dimensionality kernel pca -> an : 1
+kernel pca an -> suppose : 1
+pca an suppose -> many : 1
+an suppose many -> data : 1
+suppose many data -> visitor : 1
+many data visitor -> using : 1
+data visitor using -> of : 1
+visitor using of -> one : 1
+using of one -> of : 1
+of one of -> our : 1
+one of our -> algorithms : 1
+of our algorithms -> for : 1
+our algorithms for -> detecting : 1
+algorithms for detecting -> groups : 1
+for detecting groups -> with : 1
+detecting groups with -> similar : 1
+groups with similar -> it : 1
+with similar it -> may : 1
+similar it may -> find : 1
+it may find -> that : 1
+may find that -> of : 1
+find that of -> your : 1
+that of your -> visitors : 1
+of your visitors -> are : 1
+your visitors are -> males : 1
+visitors are males -> who : 1
+are males who -> love : 1
+males who love -> watching : 1
+who love watching -> movies : 1
+love watching movies -> in : 1
+watching movies in -> the : 1
+movies in the -> while : 1
+in the while -> watch : 1
+the while watch -> plays : 1
+while watch plays -> in : 1
+watch plays in -> the : 1
+plays in the -> in : 1
+in the in -> this : 1
+in this by -> using : 1
+this by using -> a : 1
+by using a -> clustering : 1
+using a clustering -> it : 1
+a clustering it -> will : 1
+clustering it will -> divide : 1
+it will divide -> every : 1
+will divide every -> group : 1
+divide every group -> into : 1
+every group into -> smaller : 1
+group into smaller -> are : 1
+into smaller are -> some : 1
+smaller are some -> very : 1
+are some very -> important : 1
+some very important -> like : 1
+very important like -> visualization : 1
+important like visualization -> these : 1
+like visualization these -> are : 1
+visualization these are -> unsupervised : 1
+these are unsupervised -> learning : 1
+are unsupervised learning -> need : 1
+unsupervised learning need -> to : 1
+learning need to -> give : 1
+need to give -> them : 1
+to give them -> many : 1
+give them many -> data : 1
+them many data -> and : 1
+many data and -> unlabeled : 1
+data and unlabeled -> data : 1
+and unlabeled data -> as : 1
+unlabeled data as -> an : 1
+data as an -> and : 1
+as an and -> then : 1
+an and then -> get : 1
+and then get -> or : 1
+then get or -> visualization : 1
+get or visualization -> as : 1
+or visualization as -> an : 1
+visualization as an -> goal : 1
+as an goal -> here : 1
+an goal here -> is : 1
+goal here is -> to : 1
+here is to -> make : 1
+is to make -> the : 1
+to make the -> output : 1
+to make the -> to : 1
+to make the -> cost : 1
+to make the -> majorityvoteclassifier : 1
+to make the -> classification : 1
+make the output -> as : 1
+the output as -> simple : 1
+output as simple -> as : 1
+as simple as -> possible : 1
+as simple as -> gradient : 1
+as simple as -> here : 1
+simple as possible -> without : 1
+as possible without -> losing : 1
+possible without losing -> any : 1
+without losing any -> of : 1
+losing any of -> the : 1
+of the to -> handle : 1
+of the to -> compare : 1
+the to handle -> this : 1
+to handle this -> it : 1
+handle this it -> will : 1
+this it will -> combine : 1
+this it will -> assign : 1
+this it will -> be : 1
+it will combine -> several : 1
+will combine several -> related : 1
+combine several related -> features : 1
+several related features -> one : 1
+related features one -> for : 1
+features one for -> it : 1
+one for it -> will : 1
+for it will -> cmbn : 1
+it will cmbn -> a : 1
+will cmbn a -> make : 1
+cmbn a make -> with : 1
+a make with -> its : 1
+make with its -> this : 1
+with its this -> is : 1
+its this is -> called : 1
+this is called -> feature : 1
+is called feature -> learning : 1
+called feature learning -> is : 1
+feature learning is -> another : 1
+learning is another -> type : 1
+is another type -> of : 3
+another type of -> an : 1
+another type of -> learning : 1
+another type of -> the : 1
+type of an -> agent : 1
+of an agent -> will : 1
+an agent will -> observe : 1
+agent will observe -> the : 1
+will observe the -> perform : 1
+observe the perform -> given : 1
+the perform given -> and : 1
+perform given and -> then : 1
+given and then -> receive : 1
+and then receive -> t : 1
+then receive t -> rewards : 1
+receive t rewards -> in : 1
+t rewards in -> with : 1
+rewards in with -> this : 1
+in with this -> the : 1
+with this the -> agent : 1
+this the agent -> must : 1
+the agent must -> learn : 1
+agent must learn -> by : 1
+must learn by -> ties : 1
+learn by ties -> called : 1
+by ties called -> a : 1
+ties called a -> can : 1
+called a can -> find : 1
+a can find -> this : 1
+can find this -> type : 1
+find this type -> of : 1
+type of learning -> type : 1
+type of learning -> that : 1
+type of learning -> in : 2
+of learning type -> in : 1
+learning type in -> many : 1
+type in many -> robotics : 1
+in many robotics -> applications : 1
+many robotics applications -> that : 1
+robotics applications that -> learn : 1
+applications that learn -> how : 1
+that learn how -> to : 1
+learn how to -> walk : 1
+learn how to -> this : 1
+learn how to -> tune : 1
+how to walk -> this : 1
+to walk this -> kind : 1
+walk this kind -> of : 1
+this kind of -> the : 1
+this kind of -> algorithm : 1
+this kind of -> algorithms : 1
+kind of the -> system : 1
+kind of the -> the : 1
+of the system -> learn : 1
+the system learn -> the : 1
+system learn the -> system : 1
+learn the system -> must : 1
+the system must -> obtain : 1
+system must obtain -> all : 1
+must obtain all -> the : 1
+obtain all the -> needed : 1
+all the needed -> data : 1
+the needed data -> that : 1
+needed data that -> means : 1
+data that means -> it : 1
+that means it -> will : 1
+means it will -> require : 1
+means it will -> be : 1
+it will require -> many : 1
+will require many -> resources : 1
+require many resources -> and : 1
+many resources and -> a : 1
+resources and a -> huge : 1
+and a huge -> amount : 1
+a huge amount -> of : 1
+huge amount of -> so : 1
+amount of so -> always : 1
+of so always -> done : 1
+so always done -> to : 1
+always done to -> work : 1
+done to work -> with : 1
+to work with -> this : 1
+to work with -> very : 1
+to work with -> if : 1
+to work with -> the : 1
+to work with -> standardized : 1
+work with this -> type : 1
+with this type -> of : 1
+the first thing -> to : 1
+first thing to -> do : 1
+thing to do -> is : 1
+to do is -> to : 1
+do is to -> train : 1
+is to train -> the : 1
+is to train -> a : 1
+to train the -> and : 1
+train the and -> then : 1
+and then launch -> it : 1
+then launch it -> without : 1
+launch it without -> any : 1
+it without any -> kind : 1
+without any kind -> of : 1
+any kind of -> learning : 1
+kind of learning -> is : 1
+of learning is -> the : 1
+of learning is -> it : 1
+is the opposite -> of : 2
+the opposite of -> batch : 1
+the opposite of -> and : 1
+opposite of batch -> i : 1
+of batch i -> mean : 1
+batch i mean -> the : 1
+i mean the -> system : 1
+mean the system -> can : 1
+the system can -> learn : 2
+system can learn -> incrementally : 1
+system can learn -> on : 1
+learn incrementally by -> providing : 1
+incrementally by providing -> the : 1
+by providing the -> system : 1
+providing the system -> with : 1
+the system with -> the : 1
+system with the -> available : 1
+with the available -> data : 1
+the available data -> as : 1
+available data as -> instances : 1
+data as instances -> or : 1
+as instances or -> and : 1
+instances or and -> then : 1
+or and then -> the : 1
+then the system -> can : 1
+can learn on -> the : 1
+learn on the -> can : 1
+on the can -> use : 1
+the can use -> this : 1
+can use this -> type : 2
+use this type -> of : 2
+type of system -> for : 1
+type of system -> to : 1
+of system for -> problems : 1
+system for problems -> that : 1
+for problems that -> require : 1
+problems that require -> the : 1
+that require the -> continuous : 1
+require the continuous -> flow : 1
+the continuous flow -> of : 1
+continuous flow of -> which : 1
+flow of which -> also : 1
+of which also -> needs : 1
+which also needs -> to : 1
+also needs to -> adapt : 1
+needs to adapt -> quickly : 1
+to adapt quickly -> to : 1
+adapt quickly to -> any : 1
+quickly to any -> you : 1
+to any you -> can : 1
+any you can -> use : 1
+you can use -> this : 1
+you can use -> the : 1
+of system to -> work : 1
+system to work -> with : 1
+work with very -> large : 1
+with very large -> data : 1
+very large data -> should : 1
+very large data -> in : 1
+large data should -> know : 1
+data should know -> how : 1
+should know how -> fast : 1
+know how fast -> your : 1
+how fast your -> system : 1
+fast your system -> can : 1
+your system can -> adapt : 1
+system can adapt -> to : 1
+adapt to any -> changes : 1
+to any changes -> in : 1
+any changes in -> the : 1
+changes in the -> if : 1
+in the if -> the : 1
+the if the -> speed : 1
+if the speed -> is : 1
+the speed is -> means : 1
+speed is means -> that : 1
+is means that -> the : 1
+means that the -> system : 1
+that the system -> will : 1
+the system will -> learn : 1
+system will learn -> but : 1
+will learn but -> it : 1
+learn but it -> also : 1
+but it also -> will : 1
+it also will -> forget : 1
+also will forget -> old : 1
+will forget old -> data : 1
+forget old data -> based : 1
+old data based -> is : 1
+data based is -> the : 1
+based is the -> simplest : 1
+is the simplest -> type : 1
+the simplest type -> of : 1
+simplest type of -> learning : 1
+of learning that -> you : 1
+learning that you -> should : 1
+that you should -> learn : 1
+you should learn -> by : 1
+should learn by -> by : 1
+learn by by -> using : 1
+by by using -> this : 1
+by using this -> type : 1
+using this type -> of : 1
+of learning in -> our : 1
+of learning in -> which : 1
+learning in our -> email : 1
+in our email -> it : 1
+our email it -> will : 1
+email it will -> flag : 1
+it will flag -> all : 1
+will flag all -> of : 1
+flag all of -> the : 1
+all of the -> emails : 1
+of the emails -> that : 1
+the emails that -> were : 1
+emails that were -> flagged : 1
+that were flagged -> by : 1
+were flagged by -> is : 1
+flagged by is -> another : 1
+by is another -> type : 1
+learning in which -> learning : 1
+in which learning -> from : 1
+which learning from -> examples : 1
+learning from examples -> allows : 1
+from examples allows -> to : 1
+examples allows to -> make : 1
+allows to make -> and : 1
+to make and -> insufficient : 1
+make and insufficient -> quantity : 1
+of training systems -> are : 1
+training systems are -> not : 1
+systems are not -> like : 1
+are not like -> who : 1
+not like who -> can : 1
+like who can -> distinguish : 1
+who can distinguish -> apples : 1
+can distinguish apples -> and : 1
+distinguish apples and -> oranges : 1
+apples and oranges -> in : 1
+and oranges in -> all : 1
+oranges in all -> sorts : 1
+in all sorts -> of : 1
+all sorts of -> colors : 1
+sorts of colors -> and : 1
+of colors and -> but : 1
+colors and but -> lot : 1
+and but lot -> of : 1
+but lot of -> data : 1
+lot of data -> to : 1
+of data to -> work : 1
+data to work -> whether : 1
+to work whether -> working : 1
+work whether working -> with : 1
+whether working with -> very : 1
+working with very -> simple : 1
+with very simple -> programs : 1
+very simple programs -> and : 1
+simple programs and -> or : 1
+programs and or -> complex : 1
+and or complex -> applications : 1
+or complex applications -> image : 1
+complex applications image -> processing : 1
+applications image processing -> and : 1
+image processing and -> speech : 1
+processing and speech -> here : 1
+and speech here -> is : 1
+speech here is -> an : 1
+here is an -> example : 1
+is an example -> of : 1
+an example of -> the : 2
+an example of -> ridge : 1
+an example of -> this : 1
+example of the -> unreasonable : 1
+example of the -> binary : 1
+of the unreasonable -> effectiveness : 1
+the unreasonable effectiveness -> of : 1
+unreasonable effectiveness of -> showing : 1
+effectiveness of showing -> the : 1
+of showing the -> ms : 1
+showing the ms -> which : 1
+the ms which -> includes : 1
+ms which includes -> simple : 1
+which includes simple -> data : 1
+includes simple data -> and : 1
+simple data and -> the : 1
+data and the -> complex : 1
+and the complex -> problem : 1
+the complex problem -> of : 1
+complex problem of -> working : 1
+problem of working -> with : 1
+of working with -> training : 1
+working with training -> data : 1
+with training data -> that : 1
+training data that -> is : 1
+data that is -> full : 1
+that is full -> of : 1
+is full of -> errors : 1
+full of errors -> will : 1
+of errors will -> make : 1
+errors will make -> it : 1
+will make it -> very : 1
+make it very -> hard : 1
+it very hard -> for : 1
+very hard for -> the : 1
+hard for the -> system : 1
+for the system -> to : 1
+the system to -> detect : 1
+system to detect -> patterns : 1
+to detect patterns -> so : 1
+detect patterns so -> it : 1
+patterns so it -> work : 1
+so it work -> if : 1
+it work if -> you : 1
+work if you -> want : 1
+if you want -> your : 1
+if you want -> to : 1
+you want your -> program : 1
+want your program -> to : 1
+your program to -> work : 1
+program to work -> you : 1
+to work you -> must : 1
+work you must -> spend : 1
+you must spend -> more : 1
+must spend more -> time : 1
+spend more time -> cleaning : 1
+more time cleaning -> up : 1
+time cleaning up -> your : 1
+cleaning up your -> training : 1
+up your training -> system : 1
+your training system -> will : 1
+training system will -> only : 1
+system will only -> to : 1
+will only to -> learn : 1
+only to learn -> if : 1
+to learn if -> the : 1
+learn if the -> training : 1
+if the training -> data : 1
+the training data -> contains : 1
+the training data -> roc : 1
+training data contains -> enough : 1
+data contains enough -> features : 1
+contains enough features -> and : 1
+enough features and -> data : 1
+features and data -> that : 1
+and data that -> too : 1
+data that too -> the : 1
+that too the -> most : 1
+too the most -> important : 1
+the most important -> part : 1
+most important part -> of : 1
+important part of -> any : 1
+part of any -> ml : 1
+of any ml -> project : 1
+any ml project -> is : 1
+ml project is -> to : 1
+project is to -> develop : 1
+is to develop -> good : 1
+to develop good -> features : 1
+develop good features -> feature : 1
+good features feature -> process : 1
+features feature process -> of : 1
+feature process of -> feature : 1
+process of feature -> engineering : 1
+of feature engineering -> goes : 1
+feature engineering goes -> like : 1
+engineering goes like -> of : 1
+goes like of -> selecting : 1
+like of selecting -> the : 1
+of selecting the -> most : 1
+selecting the most -> useful : 1
+the most useful -> of : 1
+most useful of -> existing : 1
+useful of existing -> features : 1
+of existing features -> to : 1
+existing features to -> provide : 1
+features to provide -> more : 1
+to provide more -> useful : 1
+provide more useful -> of : 1
+more useful of -> new : 1
+useful of new -> creation : 1
+of new creation -> of : 1
+new creation of -> new : 1
+creation of new -> based : 1
+of new based -> on : 1
+new based on -> like : 1
+based on like -> to : 1
+on like to -> make : 1
+like to make -> sure : 1
+to make sure -> that : 1
+to make sure -> on : 1
+make sure that -> your : 1
+sure that your -> model : 1
+that your model -> is : 1
+your model is -> working : 1
+your model is -> the : 1
+your model is -> good : 1
+model is working -> well : 1
+is working well -> and : 1
+working well and -> that : 1
+well and that -> model : 1
+and that model -> can : 1
+that model can -> generalize : 1
+model can generalize -> with : 1
+can generalize with -> new : 1
+generalize with new -> you : 1
+with new you -> can : 1
+new you can -> try : 1
+you can try -> new : 1
+can try new -> cases : 1
+try new cases -> with : 1
+new cases with -> it : 1
+cases with it -> by : 1
+with it by -> putting : 1
+it by putting -> the : 1
+by putting the -> model : 1
+putting the model -> in : 1
+the model in -> the : 1
+model in the -> environment : 1
+in the environment -> and : 1
+the environment and -> then : 1
+environment and then -> monitoring : 1
+and then monitoring -> how : 1
+then monitoring how -> it : 1
+monitoring how it -> will : 1
+how it will -> this : 1
+it will this -> is : 1
+will this is -> a : 1
+this is a -> good : 1
+this is a -> set : 1
+this is a -> simple : 1
+a good but -> if : 1
+good but if -> your : 1
+but if your -> model : 1
+if your model -> is : 2
+model is the -> user : 1
+is the user -> will : 1
+the user will -> should : 1
+user will should -> divide : 1
+will should divide -> your : 1
+should divide your -> data : 1
+divide your data -> into : 1
+your data into -> two : 1
+data into two -> one : 1
+into two one -> set : 1
+into two one -> for : 1
+two one set -> for : 1
+one set for -> training : 1
+set for training -> and : 1
+for training and -> the : 1
+for training and -> for : 1
+for training and -> one : 1
+training and the -> second : 1
+and the second -> one : 2
+the second one -> for : 1
+the second one -> checks : 1
+second one for -> so : 1
+one for so -> that : 1
+for so that -> you : 1
+so that you -> can : 1
+that you can -> train : 1
+that you can -> test : 1
+you can train -> your : 1
+can train your -> model : 1
+train your model -> using : 1
+your model using -> the : 1
+model using the -> first : 1
+using the first -> one : 1
+the first one -> and : 1
+the first one -> contains : 1
+first one and -> test : 1
+one and test -> it : 1
+and test it -> using : 1
+test it using -> the : 1
+it using the -> the : 1
+using the the -> generalization : 1
+the the generalization -> error : 1
+the generalization error -> is : 1
+generalization error is -> the : 1
+error is the -> rate : 1
+is the rate -> of : 1
+the rate of -> error : 1
+the rate of -> is : 1
+the rate of -> learning : 1
+the rate of -> errors : 1
+rate of error -> by : 1
+of error by -> evaluation : 1
+error by evaluation -> of : 1
+by evaluation of -> your : 1
+evaluation of your -> model : 1
+of your model -> on : 1
+your model on -> the : 1
+model on the -> test : 1
+on the test -> the : 1
+on the test -> and : 1
+on the test -> set : 1
+the test the -> value : 1
+test the value -> you : 1
+the value you -> get : 1
+value you get -> will : 1
+you get will -> tell : 1
+get will tell -> you : 1
+will tell you -> if : 1
+tell you if -> your : 1
+you if your -> model : 1
+model is good -> and : 2
+is good and -> if : 1
+is good and -> will : 1
+good and if -> it : 1
+and if it -> will : 1
+if it will -> work : 1
+it will work -> the : 1
+will work the -> error : 1
+work the error -> rate : 1
+the error rate -> is : 1
+the error rate -> of : 2
+error rate is -> the : 1
+rate is the -> model : 1
+is the model -> is : 1
+is the model -> parameter : 1
+the model is -> good : 1
+the model is -> very : 2
+good and will -> perform : 1
+and will perform -> in : 1
+will perform in -> if : 1
+perform in if -> your : 1
+in if your -> rate : 1
+if your rate -> is : 1
+your rate is -> this : 1
+rate is this -> means : 1
+is this means -> your : 1
+this means your -> model : 1
+means your model -> will : 1
+your model will -> perform : 1
+model will perform -> badly : 1
+will perform badly -> and : 1
+perform badly and -> not : 1
+badly and not -> work : 1
+and not work -> my : 1
+not work my -> advice : 1
+work my advice -> to : 1
+my advice to -> you : 1
+advice to you -> is : 1
+to you is -> to : 1
+you is to -> use : 1
+is to use -> of : 1
+to use of -> the : 1
+use of the -> data : 1
+the data for -> training : 1
+data for training -> and : 1
+training and for -> testing : 1
+and for testing -> so : 1
+for testing so -> that : 1
+testing so that -> very : 1
+so that very -> simple : 1
+that very simple -> to : 1
+very simple to -> test : 1
+very simple to -> for : 1
+simple to test -> or : 1
+to test or -> evaluate : 1
+test or evaluate -> a : 1
+or evaluate a -> the : 1
+evaluate a the -> in : 1
+a the in -> a : 1
+the in a -> foreign : 1
+in a foreign -> country : 1
+a foreign country -> and : 1
+foreign country and -> someone : 1
+country and someone -> steals : 1
+and someone steals -> something : 1
+someone steals something -> of : 1
+steals something of -> you : 1
+something of you -> might : 1
+of you might -> say : 1
+you might say -> that : 1
+might say that -> everyone : 1
+say that everyone -> is : 1
+that everyone is -> a : 1
+everyone is a -> this : 1
+is a this -> is : 1
+a this is -> an : 1
+this is an -> in : 1
+is an in -> machine : 1
+an in machine -> is : 1
+in machine is -> called : 1
+machine is called -> this : 1
+is called this -> means : 1
+called this means -> that : 1
+this means that -> machines : 1
+means that machines -> do : 1
+that machines do -> the : 1
+machines do the -> same : 1
+do the same -> they : 1
+the same they -> can : 1
+same they can -> perform : 1
+they can perform -> well : 1
+can perform well -> when : 1
+perform well when -> working : 1
+well when working -> with : 1
+when working with -> the : 1
+when working with -> more : 1
+working with the -> training : 1
+with the training -> but : 1
+with the training -> does : 1
+the training but -> they : 1
+training but they -> generalize : 1
+but they generalize -> them : 1
+they generalize them -> for : 1
+generalize them for -> in : 1
+them for in -> the : 1
+for in the -> following : 1
+in the following -> figure : 1
+in the following -> it : 1
+in the following -> y : 1
+in the following -> is : 1
+in the following -> you : 1
+in the following -> gradient : 1
+in the following -> find : 1
+in the following -> cost : 1
+in the following -> the : 1
+in the following -> we : 1
+in the following -> shows : 1
+the following figure -> find : 1
+following figure find -> a : 1
+figure find a -> high : 1
+find a high -> degree : 1
+a high degree -> of : 1
+high degree of -> life : 1
+degree of life -> satisfaction : 1
+of life satisfaction -> model : 1
+life satisfaction model -> that : 1
+satisfaction model that -> overfits : 1
+model that overfits -> the : 1
+that overfits the -> but : 1
+overfits the but -> it : 1
+the but it -> works : 1
+but it works -> well : 1
+it works well -> with : 1
+works well with -> the : 1
+well with the -> training : 1
+the training does -> this : 1
+training does this -> occurs : 1
+does this occurs -> when : 1
+this occurs when -> the : 1
+occurs when the -> model : 1
+occurs when the -> local : 1
+when the model -> is : 2
+model is very -> complex : 1
+model is very -> simple : 1
+is very complex -> for : 1
+complex for the -> amount : 1
+for the amount -> of : 1
+the amount of -> training : 1
+amount of training -> data : 1
+of training data -> solve : 1
+training data solve -> the : 1
+data solve the -> overfitting : 1
+solve the overfitting -> you : 1
+the overfitting you -> should : 1
+overfitting you should -> do : 1
+you should do -> the : 1
+should do the -> more : 1
+do the more -> data : 1
+the more data -> for : 1
+more data for -> the : 1
+data for the -> noise : 1
+for the noise -> level : 1
+the noise level -> one : 1
+noise level one -> with : 1
+level one with -> fewer : 1
+one with fewer -> the : 1
+with fewer the -> its : 1
+fewer the its -> underfitting : 1
+the its underfitting -> is : 1
+its underfitting is -> the : 1
+underfitting is the -> opposite : 1
+opposite of and -> encounter : 1
+of and encounter -> this : 1
+and encounter this -> when : 1
+encounter this when -> the : 1
+this when the -> model : 1
+is very simple -> to : 1
+simple to for -> using : 1
+to for using -> the : 1
+for using the -> example : 1
+using the example -> of : 1
+the example of -> quality : 1
+the example of -> traditional : 1
+example of quality -> of : 1
+of quality of -> real : 1
+quality of real -> life : 1
+of real life -> is : 1
+real life is -> more : 1
+life is more -> complex : 1
+is more complex -> than : 1
+more complex than -> your : 1
+complex than your -> so : 1
+than your so -> the : 1
+your so the -> predictions : 1
+so the predictions -> yield : 1
+the predictions yield -> the : 1
+predictions yield the -> even : 1
+yield the even -> in : 1
+the even in -> the : 1
+even in the -> training : 1
+in the training -> fix : 1
+the training fix -> this : 1
+training fix this -> the : 1
+fix this the -> most : 1
+this the most -> powerful : 1
+the most powerful -> which : 1
+most powerful which -> has : 1
+powerful which has -> many : 1
+which has many -> the : 1
+has many the -> best : 1
+many the best -> features : 1
+the best features -> into : 1
+best features into -> your : 1
+features into your -> referring : 1
+into your referring -> to : 1
+your referring to -> feature : 1
+referring to feature -> the : 1
+to feature the -> constraints : 1
+feature the constraints -> on : 1
+the constraints on -> your : 1
+constraints on your -> this : 1
+on your this -> we : 1
+your this we -> have : 1
+this we have -> covered : 1
+we have covered -> many : 1
+have covered many -> concepts : 1
+covered many concepts -> of : 1
+many concepts of -> machine : 1
+concepts of machine -> the : 1
+of machine the -> following : 1
+machine the following -> chapters : 1
+the following chapters -> will : 1
+following chapters will -> be : 1
+chapters will be -> very : 1
+will be very -> and : 1
+be very and -> write : 1
+very and write -> but : 1
+and write but -> you : 1
+write but you -> should : 1
+but you should -> answer : 1
+you should answer -> the : 1
+should answer the -> following : 1
+answer the following -> questions : 1
+the following questions -> just : 1
+following questions just -> to : 1
+questions just to -> make : 1
+just to make -> sure : 1
+make sure on -> the : 1
+sure on the -> right : 1
+on the right -> machine : 1
+on the right -> side : 1
+the right machine -> the : 1
+right machine the -> four : 1
+machine the four -> types : 1
+the four types -> of : 1
+four types of -> is : 1
+types of is -> the : 1
+of is the -> difference : 1
+is the difference -> between : 2
+the difference between -> supervised : 1
+the difference between -> batch : 1
+difference between supervised -> and : 1
+between supervised and -> unsupervised : 1
+supervised and unsupervised -> the : 1
+and unsupervised the -> unsupervised : 1
+unsupervised the unsupervised -> are : 1
+the unsupervised are -> testing : 1
+unsupervised are testing -> and : 1
+are testing and -> validation : 1
+testing and validation -> one : 1
+and validation one -> describe : 1
+validation one describe -> what : 1
+one describe what -> online : 1
+describe what online -> learning : 1
+what online learning -> is : 1
+online learning is -> the : 1
+difference between batch -> and : 1
+between batch and -> offline : 1
+batch and offline -> type : 1
+and offline type -> of : 1
+offline type of -> machine : 1
+type of machine -> learning : 1
+of machine learning -> system : 1
+machine learning system -> should : 1
+learning system should -> you : 1
+system should you -> use : 1
+you use to -> make : 1
+use to make -> a : 1
+to make a -> robot : 1
+to make a -> prediction : 1
+make a robot -> learn : 1
+a robot learn -> how : 1
+robot learn how -> to : 1
+how to this -> learned : 1
+to this learned -> many : 1
+this learned many -> useful : 1
+learned many useful -> so : 1
+many useful so -> review : 1
+useful so review -> some : 1
+so review some -> concepts : 1
+review some concepts -> that : 1
+some concepts that -> you : 1
+concepts that you -> may : 1
+that you may -> feel : 1
+you may feel -> a : 1
+may feel a -> bit : 1
+feel a bit -> lost : 1
+a bit lost -> machine : 1
+bit lost machine -> ml : 1
+lost machine ml -> refers : 1
+machine ml refers -> to : 1
+ml refers to -> making : 1
+refers to making -> machines : 1
+to making machines -> work : 1
+making machines work -> better : 1
+machines work better -> at : 1
+work better at -> some : 1
+better at some -> using : 1
+at some using -> given : 1
+some using given -> machine : 1
+using given machine -> learning : 1
+given machine learning -> comes : 1
+machine learning comes -> in : 1
+learning comes in -> many : 1
+comes in many -> such : 1
+in many such -> as : 1
+many such as -> and : 1
+such as and -> online : 1
+as and online -> to : 1
+and online to -> perform : 1
+online to perform -> an : 1
+to perform an -> ml : 1
+perform an ml -> you : 1
+an ml you -> need : 1
+ml you need -> to : 1
+you need to -> gather : 1
+need to gather -> data : 1
+to gather data -> in : 1
+gather data in -> a : 1
+data in a -> training : 1
+in a training -> and : 1
+a training and -> then : 2
+training and then -> feed : 1
+training and then -> develop : 1
+and then feed -> that : 1
+then feed that -> set : 1
+feed that set -> to : 1
+that set to -> a : 1
+set to a -> learning : 1
+to a learning -> algorithm : 1
+a learning algorithm -> to : 1
+learning algorithm to -> get : 1
+algorithm to get -> an : 1
+to get an -> if : 1
+get an if -> you : 1
+an if you -> want : 1
+you want to -> get : 1
+you want to -> evaluate : 1
+want to get -> the : 1
+to get the -> right : 1
+to get the -> number : 1
+to get the -> matrix : 1
+to get the -> accuracy : 1
+to get the -> the : 1
+get the right -> your : 1
+the right your -> system : 1
+right your system -> should : 1
+your system should -> use : 1
+system should use -> clear : 1
+should use clear -> which : 1
+use clear which -> is : 1
+clear which is -> not : 1
+which is not -> too : 1
+is not too -> small : 1
+not too small -> and : 1
+too small and -> which : 1
+small and which -> does : 1
+and which does -> not : 1
+which does not -> have : 1
+does not have -> irrelevant : 1
+not have irrelevant -> need : 1
+have irrelevant need -> to : 1
+irrelevant need to -> install : 1
+need to install -> matplotlib : 1
+to install matplotlib -> and : 1
+install matplotlib and -> for : 1
+matplotlib and for -> this : 1
+and for this -> just : 1
+for this just -> go : 1
+this just go -> to : 1
+just go to -> the : 1
+go to the -> references : 1
+to the references -> section : 1
+the references section -> and : 1
+references section and -> follow : 1
+section and follow -> the : 1
+and follow the -> this : 1
+follow the this -> go : 1
+the this go -> deeper : 1
+this go deeper -> into : 1
+go deeper into -> classification : 1
+go deeper into -> the : 1
+deeper into classification -> and : 1
+into classification and -> work : 1
+classification and work -> with : 1
+and work with -> the : 1
+and work with -> as : 1
+work with the -> mnist : 1
+work with the -> confusion : 1
+work with the -> parameters : 1
+work with the -> most : 1
+work with the -> inverse : 1
+with the mnist -> data : 1
+with the mnist -> the : 1
+the mnist data -> this : 1
+the mnist data -> you : 1
+the mnist data -> set : 1
+mnist data this -> is : 1
+data this is -> a : 1
+is a set -> of : 1
+set of images -> of : 1
+of images of -> digits : 1
+images of digits -> handwritten : 1
+of digits handwritten -> by : 1
+digits handwritten by -> students : 1
+handwritten by students -> and : 1
+by students and -> find : 1
+students and find -> that : 1
+and find that -> each : 1
+find that each -> image : 1
+that each image -> has : 1
+each image has -> a : 1
+image has a -> label : 1
+has a label -> and : 1
+a label and -> a : 1
+label and a -> digit : 1
+and a digit -> that : 1
+a digit that -> represents : 1
+digit that represents -> this : 1
+that represents this -> project : 1
+represents this project -> is : 1
+this project is -> like : 1
+project is like -> the : 1
+is like the -> example : 1
+like the example -> of : 1
+example of traditional -> so : 1
+of traditional so -> every : 1
+traditional so every -> beginner : 1
+so every beginner -> to : 1
+every beginner to -> machine : 1
+beginner to machine -> learning : 1
+to machine learning -> should : 1
+machine learning should -> start : 1
+learning should start -> with : 1
+should start with -> this : 1
+start with this -> project : 1
+with this project -> to : 1
+this project to -> learn : 1
+project to learn -> about : 1
+to learn about -> the : 1
+learn about the -> classification : 1
+about the classification -> has : 1
+the classification has -> many : 1
+classification has many -> including : 1
+has many including -> the : 1
+many including the -> take : 1
+including the take -> a : 1
+look at the -> from : 1
+look at the -> sgdclassifier : 1
+look at the -> list : 1
+look at the -> following : 1
+at the from -> sets : 1
+the from sets -> import : 1
+from sets import -> data : 1
+sets import data -> de : 1
+import data de -> description : 1
+data de description -> is : 1
+de description is -> a : 1
+description is a -> key : 1
+is a key -> that : 1
+a key that -> describes : 1
+key that describes -> the : 1
+that describes the -> data : 1
+describes the data -> the : 1
+the data the -> data : 2
+data the data -> key : 1
+data the data -> set : 1
+the data key -> here : 1
+data key here -> contains : 1
+key here contains -> an : 1
+here contains an -> array : 1
+contains an array -> with : 2
+an array with -> just : 1
+an array with -> work : 1
+array with just -> one : 1
+with just one -> row : 1
+just one row -> for : 1
+one row for -> and : 1
+row for and -> a : 1
+for and a -> column : 1
+and a column -> for : 1
+a column for -> every : 1
+column for every -> this : 1
+for every this -> target : 1
+every this target -> key : 1
+this target key -> contains : 1
+target key contains -> an : 1
+key contains an -> array : 1
+array with work -> with : 1
+with work with -> some : 1
+work with some -> of : 1
+with some of -> the : 1
+some of the -> y : 1
+some of the -> code : 1
+of the y -> here : 1
+the y here -> means : 1
+y here means -> that : 1
+here means that -> there : 1
+here means that -> odd : 1
+means that there -> are : 1
+that there are -> and : 1
+there are and -> every : 1
+are and every -> image : 1
+and every image -> has : 1
+every image has -> more : 1
+image has more -> than : 1
+has more than -> as : 1
+more than as -> you : 1
+than as you -> can : 1
+as you can -> every : 1
+as you can -> see : 3
+as you can -> but : 1
+as you can -> we : 1
+as you can -> you : 1
+as you can -> the : 1
+you can every -> image : 1
+can every image -> is : 1
+every image is -> x : 1
+image is x -> you : 1
+is x you -> can : 1
+x you can -> imagine : 1
+you can imagine -> that : 1
+you can imagine -> if : 1
+can imagine that -> every : 1
+imagine that every -> pixel : 1
+that every pixel -> is : 1
+every pixel is -> one : 1
+pixel is one -> take : 1
+is one take -> another : 1
+one take another -> example : 1
+take another example -> from : 1
+another example from -> the : 1
+example from the -> data : 1
+from the data -> only : 1
+from the data -> the : 1
+the data only -> need : 1
+data only need -> to : 1
+only need to -> grab : 1
+need to grab -> an : 1
+to grab an -> then : 1
+grab an then -> make : 1
+an then make -> it : 1
+then make it -> x : 1
+make it x -> and : 1
+it x and -> then : 1
+x and then -> display : 1
+and then display -> them : 1
+then display them -> using : 1
+display them using -> the : 1
+them using the -> imshow : 1
+using the imshow -> as : 1
+the imshow as -> cmap : 1
+imshow as cmap -> you : 1
+as cmap you -> can : 1
+cmap you can -> see : 1
+you can see -> in : 4
+you can see -> more : 1
+you can see -> the : 1
+you can see -> that : 1
+you can see -> later : 1
+can see in -> the : 6
+see in the -> following : 3
+see in the -> there : 1
+see in the -> resulting : 2
+the following it -> looks : 1
+following it looks -> like : 1
+it looks like -> the : 1
+looks like the -> number : 1
+like the number -> and : 1
+the number and -> we : 1
+number and we -> can : 1
+and we can -> give : 1
+and we can -> calculate : 1
+and we can -> write : 1
+we can give -> that : 1
+can give that -> a : 1
+give that a -> label : 1
+that a label -> that : 1
+a label that -> tells : 1
+label that tells -> us : 1
+that tells us -> the : 1
+tells us the -> following : 1
+us the following -> you : 1
+the following you -> can : 1
+the following you -> assign : 1
+following you can -> see : 1
+can see more -> complex : 1
+see more complex -> classification : 1
+more complex classification -> tasks : 1
+complex classification tasks -> from : 1
+classification tasks from -> the : 1
+tasks from the -> mnist : 1
+from the mnist -> data : 1
+from the mnist -> or : 1
+mnist data you -> should : 1
+data you should -> create : 1
+you should create -> a : 1
+should create a -> test : 1
+create a test -> set : 1
+a test set -> and : 1
+test set and -> make : 1
+set and make -> it : 1
+and make it -> before : 1
+make it before -> your : 1
+it before your -> data : 1
+before your data -> is : 1
+your data is -> mnist : 1
+data is mnist -> data : 1
+is mnist data -> set : 1
+mnist data set -> is : 1
+mnist data set -> try : 1
+data set is -> divided : 1
+set is divided -> into : 1
+is divided into -> two : 1
+divided into two -> one : 1
+two one for -> training : 1
+one for training -> and : 1
+training and one -> for : 1
+and one for -> x : 1
+one for x -> play : 1
+for x play -> with : 1
+x play with -> your : 1
+play with your -> training : 1
+with your training -> set : 1
+your training set -> as : 1
+your training set -> at : 1
+training set as -> follows : 1
+set as follows -> to : 1
+as follows to -> make : 1
+follows to make -> the : 1
+make the to -> be : 1
+the to be -> similar : 1
+to be similar -> any : 1
+be similar any -> missing : 1
+similar any missing -> of : 1
+any missing of -> any : 1
+missing of any -> numpy : 1
+of any numpy -> as : 1
+any numpy as -> time : 1
+numpy as time -> to : 1
+as time to -> make : 1
+time to make -> it : 1
+to make it -> simple : 1
+make it simple -> try : 1
+it simple try -> to : 1
+simple try to -> just : 1
+try to just -> identify : 1
+to just identify -> one : 1
+just identify one -> the : 1
+identify one the -> number : 1
+one the number -> this : 1
+the number this -> will : 1
+number this will -> be : 1
+this will be -> an : 1
+this will be -> more : 1
+will be an -> example : 1
+be an example -> of : 1
+of the binary -> to : 1
+the binary to -> distinguish : 1
+binary to distinguish -> between : 1
+to distinguish between -> and : 1
+to distinguish between -> any : 1
+to distinguish between -> more : 1
+distinguish between and -> not : 1
+between and not -> so : 1
+and not so -> create : 1
+not so create -> the : 1
+so create the -> vectors : 1
+create the vectors -> for : 1
+the vectors for -> this : 1
+vectors for this -> this : 1
+for this this -> means : 1
+this this means -> it : 1
+this means it -> will : 1
+this means it -> can : 1
+it will be -> true : 1
+it will be -> irregular : 1
+it will be -> interesting : 1
+will be true -> for : 1
+be true for -> and : 1
+true for and -> false : 1
+for and false -> for : 1
+and false for -> any : 1
+false for any -> other : 1
+for any other -> number : 1
+any other number -> we : 1
+other number we -> can : 1
+number we can -> choose : 1
+we can choose -> a : 1
+can choose a -> classifier : 1
+choose a classifier -> and : 1
+a classifier and -> train : 1
+classifier and train -> begin : 1
+and train begin -> with : 1
+train begin with -> sgd : 1
+begin with sgd -> gradient : 1
+with sgd gradient -> class : 1
+sgd gradient class -> has : 1
+gradient class has -> the : 1
+class has the -> advantage : 1
+has the advantage -> of : 1
+the advantage of -> handling : 1
+advantage of handling -> very : 1
+of handling very -> large : 1
+handling very large -> data : 1
+large data in -> this : 1
+data in this -> the : 1
+in this the -> sgd : 1
+in this the -> algorithm : 1
+this the sgd -> will : 1
+the sgd will -> deal : 1
+sgd will deal -> with : 1
+will deal with -> instances : 1
+deal with instances -> as : 1
+with instances as -> import : 1
+instances as import -> sgdclassifier : 1
+as import sgdclassifier -> use : 1
+import sgdclassifier use -> it : 1
+sgdclassifier use it -> to : 1
+use it to -> detect : 1
+it to detect -> the : 1
+detect the of -> you : 1
+the of you -> want : 1
+of you want -> to : 1
+want to evaluate -> a : 1
+to evaluate a -> this : 2
+evaluate a this -> will : 1
+evaluate a this -> use : 1
+a this will -> be : 1
+will be more -> difficult : 1
+be more difficult -> than : 1
+more difficult than -> a : 1
+difficult than a -> so : 1
+than a so -> explain : 1
+a so explain -> how : 1
+so explain how -> to : 1
+explain how to -> evaluate : 1
+how to evaluate -> a : 1
+a this use -> to : 1
+this use to -> evaluate : 1
+use to evaluate -> our : 1
+to evaluate our -> import : 1
+evaluate our import -> import : 1
+our import import -> clone : 1
+import import clone -> in : 1
+import clone in -> we : 1
+clone in we -> use : 1
+in we use -> the : 1
+we use the -> class : 1
+use the class -> to : 1
+the class to -> perform : 1
+class to perform -> stratified : 1
+to perform stratified -> sampling : 1
+perform stratified sampling -> that : 1
+stratified sampling that -> produces : 1
+sampling that produces -> folds : 1
+that produces folds -> that : 1
+produces folds that -> contain : 1
+folds that contain -> a : 1
+that contain a -> ration : 1
+contain a ration -> for : 1
+a ration for -> every : 1
+ration for every -> every : 1
+for every every -> iteration : 1
+every every iteration -> in : 1
+every iteration in -> the : 1
+iteration in the -> code : 1
+in the code -> will : 1
+the code will -> create : 1
+code will create -> a : 1
+will create a -> clone : 1
+create a clone -> of : 1
+a clone of -> the : 1
+clone of the -> classifier : 1
+of the classifier -> to : 1
+of the classifier -> using : 1
+the classifier to -> make : 1
+classifier to make -> predictions : 1
+to make predictions -> on : 1
+make predictions on -> the : 1
+predictions on the -> test : 1
+the test and -> it : 1
+test and it -> will : 1
+and it will -> count : 1
+and it will -> provide : 1
+it will count -> the : 1
+will count the -> number : 1
+count the number -> of : 1
+the number of -> correct : 1
+the number of -> times : 2
+the number of -> classes : 1
+the number of -> images : 1
+the number of -> the : 1
+the number of -> features : 1
+the number of -> ridge : 1
+the number of -> samples : 1
+the number of -> average : 1
+number of correct -> predictions : 1
+of correct predictions -> and : 1
+correct predictions and -> their : 1
+predictions and their -> ratio : 1
+and their ratio -> now : 1
+their ratio now -> use : 1
+ratio now use -> the : 1
+now use the -> function : 1
+use the function -> to : 1
+use the function -> from : 1
+the function to -> evaluate : 1
+function to evaluate -> the : 1
+to evaluate the -> sgdclassifier : 1
+to evaluate the -> performance : 1
+evaluate the sgdclassifier -> by : 1
+the sgdclassifier by -> cross : 1
+sgdclassifier by cross -> the : 1
+by cross the -> k : 1
+cross the k -> fold : 1
+the k fold -> cross : 1
+the k fold -> and : 1
+k fold cross -> validation : 1
+fold cross validation -> will : 1
+cross validation will -> divide : 1
+validation will divide -> the : 1
+will divide the -> training : 1
+divide the training -> set : 1
+the training set -> into : 1
+the training set -> so : 1
+training set into -> and : 1
+set into and -> then : 1
+into and then -> it : 1
+and then it -> will : 2
+and then it -> compares : 1
+then it will -> make : 1
+then it will -> calculate : 1
+it will make -> prediction : 1
+will make prediction -> and : 1
+make prediction and -> evaluation : 1
+prediction and evaluation -> on : 1
+and evaluation on -> each : 1
+evaluation on each -> import : 1
+on each import -> cv : 1
+each import cv -> scoring : 1
+import cv scoring -> get : 1
+cv scoring get -> the : 1
+scoring get the -> ratio : 1
+get the ratio -> of : 1
+the ratio of -> accuracy : 1
+the ratio of -> positive : 1
+the ratio of -> negative : 1
+ratio of accuracy -> of : 1
+of accuracy of -> on : 1
+accuracy of on -> all : 1
+of on all -> classify : 1
+on all classify -> every : 1
+all classify every -> classifier : 1
+classify every classifier -> at : 1
+every classifier at -> every : 1
+classifier at every -> single : 1
+at every single -> image : 1
+every single image -> in : 1
+single image in -> the : 1
+image in the -> import : 1
+in the import -> the : 1
+the import the -> accuracy : 1
+import the accuracy -> of : 1
+the accuracy of -> this : 1
+the accuracy of -> the : 1
+the accuracy of -> a : 1
+accuracy of this -> model : 1
+of this model -> the : 1
+this model the -> following : 1
+model the following -> cv : 1
+the following cv -> scoring : 1
+following cv scoring -> array : 1
+cv scoring array -> the : 1
+scoring array the -> get : 1
+array the get -> no : 1
+the get no -> less : 1
+get no less -> than : 1
+no less than -> only : 1
+less than only -> of : 1
+than only of -> the : 1
+only of the -> images : 1
+of the images -> are : 1
+the images are -> so : 1
+images are so -> we : 1
+are so we -> always : 1
+so we always -> imagine : 1
+we always imagine -> that : 1
+always imagine that -> an : 1
+imagine that an -> image : 1
+that an image -> is : 1
+an image is -> not : 1
+image is not -> a : 1
+is not a -> be : 1
+not a be -> right : 1
+a be right -> about : 1
+be right about -> of : 1
+right about of -> the : 1
+about of the -> in : 1
+of the in -> mind : 1
+the in mind -> that : 1
+mind that accuracy -> is : 1
+that accuracy is -> not : 1
+accuracy is not -> the : 1
+is not the -> best : 1
+not the best -> performance : 1
+the best performance -> measure : 1
+best performance measure -> for : 1
+performance measure for -> if : 1
+measure for if -> working : 1
+for if working -> with : 1
+if working with -> skewed : 1
+working with skewed -> data : 1
+with skewed data -> is : 1
+skewed data is -> a : 1
+data is a -> better : 1
+is a better -> method : 1
+a better method -> to : 1
+better method to -> evaluate : 1
+method to evaluate -> the : 1
+evaluate the performance -> of : 1
+the performance of -> your : 1
+performance of your -> the : 1
+of your the -> confusion : 1
+your the confusion -> easy : 1
+the confusion easy -> to : 1
+confusion easy to -> measure : 1
+easy to measure -> performance : 1
+to measure performance -> with : 1
+measure performance with -> the : 1
+performance with the -> confusion : 1
+with the confusion -> just : 1
+with the confusion -> matrix : 1
+the confusion just -> by : 1
+confusion just by -> counting : 1
+just by counting -> the : 1
+by counting the -> number : 1
+counting the number -> of : 1
+number of times -> instances : 1
+number of times -> of : 1
+of times instances -> of : 1
+times instances of -> class : 1
+instances of class -> x : 1
+of class x -> are : 1
+class x are -> classified : 1
+x are classified -> as : 1
+are classified as -> class : 1
+classified as class -> for : 1
+as class for -> to : 1
+class for to -> get : 1
+for to get -> the : 1
+get the number -> of : 1
+of times of -> image : 1
+times of image -> classifiers : 1
+of image classifiers -> of : 1
+image classifiers of -> with : 1
+classifiers of with -> you : 1
+of with you -> should : 1
+with you should -> look : 1
+you should look -> in : 1
+should look in -> the : 1
+look in the -> row : 1
+in the row -> and : 1
+the row and -> column : 1
+row and column -> of : 1
+and column of -> the : 1
+column of the -> confusion : 1
+of the confusion -> calculate : 1
+the confusion calculate -> the : 1
+confusion calculate the -> confusion : 1
+calculate the confusion -> matrix : 1
+the confusion matrix -> using : 1
+the confusion matrix -> and : 1
+the confusion matrix -> you : 1
+confusion matrix using -> the : 1
+matrix using the -> import : 1
+matrix using the -> following : 1
+using the import -> cv : 1
+the import cv -> like : 1
+import cv like -> the : 1
+cv like the -> performs : 1
+like the performs -> the : 1
+the performs the -> k : 1
+performs the k -> fold : 1
+k fold and -> it : 1
+fold and it -> also : 1
+and it also -> returns : 1
+it also returns -> predictions : 1
+it also returns -> a : 1
+also returns predictions -> on : 1
+returns predictions on -> each : 1
+predictions on each -> it : 1
+on each it -> also : 1
+each it also -> returns : 1
+also returns a -> clean : 1
+returns a clean -> prediction : 1
+a clean prediction -> for : 1
+clean prediction for -> every : 1
+prediction for every -> instance : 1
+for every instance -> in : 1
+every instance in -> your : 1
+instance in your -> training : 1
+in your training -> ready : 1
+your training ready -> to : 1
+training ready to -> get : 1
+ready to get -> the : 1
+get the matrix -> using : 1
+the matrix using -> the : 1
+using the following -> import : 1
+using the following -> set : 1
+using the following -> also : 1
+the following import -> get : 1
+following import get -> an : 1
+import get an -> array : 1
+get an array -> of : 1
+an array of -> values : 1
+array of values -> row : 1
+of values row -> represents : 1
+values row represents -> a : 1
+row represents a -> class : 1
+represents a class -> in : 1
+a class in -> the : 1
+class in the -> and : 1
+in the and -> every : 1
+in the and -> then : 1
+the and every -> column : 1
+and every column -> represents : 1
+every column represents -> a : 1
+column represents a -> predicted : 1
+represents a predicted -> first : 1
+a predicted first -> row : 1
+predicted first row -> is : 1
+first row is -> the : 1
+row is the -> negative : 1
+is the negative -> you : 1
+the negative you -> can : 1
+negative you can -> learn : 1
+negative you can -> imagine : 1
+you can learn -> a : 1
+can learn a -> lot : 1
+learn a lot -> from : 1
+a lot from -> the : 1
+lot from the -> there : 1
+from the there -> is : 1
+the there is -> also : 1
+the there is -> index : 1
+there is also -> a : 1
+is also a -> good : 1
+also a good -> one : 1
+a good one -> interesting : 1
+good one interesting -> to : 1
+one interesting to -> work : 1
+interesting to work -> with : 1
+work with if -> like : 1
+with if like -> to : 1
+if like to -> get : 1
+if like to -> distinguish : 1
+if like to -> use : 1
+if like to -> take : 1
+if like to -> regularize : 1
+like to get -> the : 1
+get the accuracy -> of : 1
+accuracy of the -> positive : 1
+of the positive -> which : 1
+the positive which -> is : 1
+positive which is -> the : 1
+which is the -> precision : 1
+which is the -> is : 1
+which is the -> ratio : 1
+which is the -> just : 1
+is the precision -> of : 1
+the precision of -> the : 1
+precision of the -> classifier : 1
+the classifier using -> this : 1
+the classifier using -> the : 1
+classifier using this -> number : 1
+using this number -> of : 1
+this number of -> true : 1
+number of true -> number : 1
+of true number -> of : 1
+true number of -> false : 1
+number of false -> positives : 1
+of false positives -> it : 1
+false positives it -> measure : 1
+positives it measure -> the : 1
+it measure the -> ratio : 1
+measure the ratio -> of : 1
+ratio of positive -> from : 1
+of positive from -> import : 1
+positive from import -> very : 1
+from import very -> to : 1
+import very to -> combine : 1
+very to combine -> precision : 1
+to combine precision -> and : 1
+combine precision and -> recall : 1
+precision and recall -> into : 1
+precision and recall -> for : 1
+and recall into -> just : 1
+recall into just -> one : 1
+into just one -> which : 1
+just one which -> is : 1
+one which is -> the : 1
+is the is -> the : 1
+the is the -> mean : 1
+the is the -> model : 1
+is the mean -> of : 1
+the mean of -> both : 1
+mean of both -> precision : 1
+of both precision -> and : 1
+both precision and -> we : 1
+precision and we -> can : 1
+we can calculate -> the : 1
+can calculate the -> with : 1
+can calculate the -> partial : 1
+can calculate the -> probability : 1
+calculate the with -> the : 1
+with the following -> calculate : 1
+the following calculate -> the : 1
+following calculate the -> simply : 1
+calculate the simply -> use : 1
+the simply use -> the : 1
+simply use the -> following : 1
+use the following -> from : 1
+use the following -> number : 1
+use the following -> equation : 1
+the following from -> import : 1
+following from import -> get : 1
+from import get -> to : 1
+import get to -> this : 1
+get to this -> you : 1
+to this you -> should : 1
+this you should -> take : 1
+this you should -> first : 1
+you should take -> a : 1
+should take a -> look : 1
+at the sgdclassifier -> and : 1
+the sgdclassifier and -> how : 1
+sgdclassifier and how -> it : 1
+how it makes -> decisions : 1
+it makes decisions -> regarding : 1
+makes decisions regarding -> it : 1
+decisions regarding it -> calculates : 1
+regarding it calculates -> the : 1
+it calculates the -> score : 1
+calculates the score -> based : 1
+the score based -> on : 1
+score based on -> the : 1
+based on the -> decision : 1
+based on the -> number : 1
+based on the -> you : 1
+based on the -> whole : 1
+based on the -> the : 1
+based on the -> argmax : 1
+based on the -> class : 2
+on the decision -> and : 1
+the decision and -> then : 1
+decision and then -> it : 1
+then it compares -> the : 1
+it compares the -> score : 1
+compares the score -> with : 1
+the score with -> the : 1
+score with the -> if : 1
+with the if -> greater : 1
+the if greater -> than : 1
+if greater than -> this : 1
+greater than this -> it : 1
+than this it -> will : 1
+it will assign -> the : 1
+will assign the -> instance : 1
+assign the instance -> to : 1
+the instance to -> the : 1
+instance to the -> or : 1
+to the or -> class : 1
+the or class -> if : 1
+or class if -> the : 1
+class if the -> decision : 1
+if the decision -> threshold : 1
+the decision threshold -> is : 1
+the decision threshold -> this : 1
+decision threshold is -> at : 1
+threshold is at -> the : 1
+is at the -> find : 1
+at the find -> true : 1
+the find true -> on : 1
+find true on -> the : 1
+true on the -> right : 1
+the right side -> of : 1
+right side of -> the : 1
+side of the -> and : 1
+of the and -> only : 1
+the and only -> one : 1
+and only one -> so : 1
+only one so -> the : 1
+one so the -> precision : 1
+so the precision -> ratio : 1
+the precision ratio -> will : 1
+precision ratio will -> be : 1
+ratio will be -> only : 1
+will be only -> you : 1
+be only you -> set : 1
+only you set -> a : 1
+you set a -> threshold : 1
+set a threshold -> need : 1
+a threshold need -> to : 1
+threshold need to -> access : 1
+need to access -> the : 1
+to access the -> decision : 1
+to access the -> individual : 1
+access the decision -> which : 1
+the decision which -> use : 1
+decision which use -> and : 1
+which use and -> y : 1
+use and y -> calling : 1
+and y calling -> the : 1
+y calling the -> decision : 1
+calling the decision -> threshold : 1
+decision threshold this -> the : 1
+threshold this the -> sgdclassifier : 1
+this the sgdclassifier -> contains : 1
+the sgdclassifier contains -> a : 1
+sgdclassifier contains a -> to : 1
+contains a to -> return : 1
+a to return -> the : 1
+to return the -> same : 1
+to return the -> scores : 1
+to return the -> average : 1
+return the same -> result : 1
+the same result -> as : 1
+same result as -> the : 1
+result as the -> the : 1
+as the the -> predict : 1
+the the predict -> threshold : 1
+the predict threshold -> code : 1
+predict threshold code -> will : 1
+threshold code will -> confirm : 1
+code will confirm -> when : 1
+will confirm when -> the : 1
+confirm when the -> threshold : 1
+when the threshold -> the : 1
+the threshold the -> recall : 1
+threshold the recall -> cv : 1
+the recall cv -> time : 1
+recall cv time -> to : 1
+cv time to -> calculate : 1
+time to calculate -> all : 1
+to calculate all -> possible : 1
+calculate all possible -> precision : 1
+all possible precision -> and : 1
+possible precision and -> recall : 1
+and recall for -> the : 1
+recall for the -> threshold : 1
+for the threshold -> by : 1
+the threshold by -> calling : 1
+threshold by calling -> the : 1
+by calling the -> import : 2
+calling the import -> threshold : 1
+calling the import -> thers : 1
+the import threshold -> now : 1
+import threshold now -> plot : 1
+threshold now plot -> the : 1
+now plot the -> precision : 1
+plot the precision -> and : 2
+the precision and -> the : 1
+the precision and -> it : 1
+precision and the -> recall : 1
+and the recall -> using : 1
+and the recall -> play : 1
+the recall using -> label : 1
+recall using label -> stands : 1
+using label stands -> for : 1
+label stands for -> receiver : 1
+stands for receiver -> operating : 1
+for receiver operating -> characteristic : 1
+receiver operating characteristic -> and : 1
+operating characteristic and -> a : 1
+characteristic and a -> tool : 1
+and a tool -> that : 1
+a tool that -> used : 1
+tool that used -> with : 1
+that used with -> binary : 1
+used with binary -> tool : 1
+used with binary -> optimizing : 1
+with binary tool -> is : 1
+binary tool is -> similar : 1
+tool is similar -> to : 1
+is similar to -> the : 1
+similar to the -> recall : 1
+to the recall -> but : 1
+the recall but -> it : 1
+recall but it -> plot : 1
+but it plot -> the : 1
+it plot the -> precision : 1
+precision and it -> plots : 1
+and it plots -> the : 1
+it plots the -> positive : 1
+plots the positive -> false : 1
+the positive false -> work : 1
+positive false work -> also : 1
+false work also -> with : 1
+work also with -> which : 1
+also with which -> is : 1
+with which is -> the : 1
+with which is -> important : 1
+is the ratio -> of : 1
+ratio of negative -> you : 1
+of negative you -> can : 1
+can imagine if -> like : 1
+imagine if like -> negative : 1
+if like negative -> another : 1
+like negative another -> concept : 1
+negative another concept -> is : 1
+another concept is -> the : 1
+concept is the -> tnr : 1
+is the tnr -> and : 1
+the tnr and -> the : 1
+tnr and the -> recall : 1
+the recall play -> with : 1
+recall play with -> the : 1
+play with the -> roc : 1
+with the roc -> need : 1
+the roc need -> to : 1
+roc need to -> calculate : 1
+need to calculate -> the : 1
+to calculate the -> tpr : 1
+to calculate the -> partial : 1
+to calculate the -> value : 1
+to calculate the -> on : 1
+to calculate the -> prediction : 1
+calculate the tpr -> and : 1
+the tpr and -> the : 1
+tpr and the -> just : 1
+and the just -> by : 1
+the just by -> calling : 1
+just by calling -> the : 1
+the import thers -> plot : 1
+import thers plot -> the : 1
+thers plot the -> fpr : 1
+plot the fpr -> and : 1
+the fpr and -> tpr : 1
+fpr and tpr -> with : 1
+and tpr with -> matplotlib : 1
+tpr with matplotlib -> according : 1
+with matplotlib according -> the : 1
+matplotlib according the -> following : 1
+according the following -> label : 1
+the following label -> is : 1
+following label is -> the : 1
+label is the -> false : 1
+is the false -> is : 1
+the false is -> the : 1
+false is the -> true : 1
+is the true -> use : 1
+the true use -> binary : 1
+true use binary -> classifiers : 1
+use binary classifiers -> to : 1
+binary classifiers to -> distinguish : 1
+classifiers to distinguish -> between : 1
+distinguish between any -> two : 1
+between any two -> but : 1
+any two but -> what : 1
+two but what -> if : 1
+but what if -> like : 1
+but what if -> we : 1
+what if like -> to : 1
+like to distinguish -> between : 1
+distinguish between more -> than : 1
+between more than -> can : 1
+between more than -> on : 1
+more than can -> use : 1
+than can use -> something : 1
+can use something -> like : 1
+use something like -> random : 1
+something like random -> forest : 1
+like random forest -> classifiers : 1
+random forest classifiers -> or : 1
+forest classifiers or -> bayes : 1
+classifiers or bayes -> which : 1
+or bayes which -> can : 1
+bayes which can -> compare : 1
+which can compare -> between : 1
+can compare between -> more : 1
+compare between more -> than : 1
+more than on -> the : 1
+than on the -> other : 1
+on the other -> svm : 1
+on the other -> because : 1
+on the other -> with : 1
+the other svm -> support : 1
+other svm support -> vector : 1
+svm support vector -> and : 1
+support vector and -> linear : 1
+vector and linear -> classifiers : 1
+and linear classifiers -> function : 1
+linear classifiers function -> like : 1
+classifiers function like -> binary : 1
+function like binary -> like : 1
+like binary like -> to : 1
+binary like to -> develop : 1
+like to develop -> a : 1
+to develop a -> system : 1
+develop a system -> that : 1
+a system that -> classifies : 1
+system that classifies -> images : 1
+that classifies images -> of : 1
+classifies images of -> digit : 1
+images of digit -> into : 1
+of digit into -> classes : 1
+digit into classes -> to : 1
+into classes to -> need : 1
+classes to need -> to : 1
+to need to -> train : 1
+need to train -> binary : 1
+to train binary -> and : 1
+train binary and -> make : 1
+binary and make -> one : 1
+and make one -> for : 1
+make one for -> every : 1
+one for every -> classifier : 1
+for every classifier -> as : 1
+every classifier as -> and : 1
+classifier as and -> so : 1
+as and so -> on : 1
+and so on -> and : 1
+so on and -> then : 1
+on and then -> need : 1
+and then need -> to : 1
+then need to -> get : 1
+need to get -> the : 1
+get the the -> decision : 1
+the the decision -> of : 1
+the decision of -> every : 1
+decision of every -> classifier : 1
+of every classifier -> for : 1
+every classifier for -> the : 1
+classifier for the -> choose : 1
+classifier for the -> mnist : 1
+for the choose -> the : 1
+the choose the -> highest : 1
+choose the highest -> score : 1
+the highest score -> we : 1
+highest score we -> call : 1
+score we call -> this : 1
+we call this -> the : 1
+we call this -> method : 1
+we call this -> change : 1
+call this the -> ova : 1
+this the ova -> other : 1
+the ova other -> method : 1
+ova other method -> is : 1
+other method is -> to : 1
+method is to -> train : 1
+train a binary -> classifier : 1
+a binary classifier -> for : 1
+binary classifier for -> each : 1
+classifier for each -> pair : 1
+for each pair -> of : 1
+each pair of -> for : 1
+pair of for -> one : 1
+of for one -> for : 1
+for one for -> and : 1
+one for and -> and : 1
+one for and -> we : 1
+for and and -> another : 1
+and and another -> one : 1
+and another one -> for : 1
+another one for -> and : 1
+for and we -> call : 1
+and we call -> this : 1
+call this method -> to : 1
+this method to -> count : 1
+method to count -> how : 1
+to count how -> many : 1
+count how many -> classifiers : 1
+how many classifiers -> based : 1
+many classifiers based -> on : 1
+classifiers based on -> the : 1
+on the number -> of : 1
+number of classes -> that : 1
+of classes that -> use : 1
+classes that use -> the : 1
+that use the -> following : 1
+the following number -> of : 1
+following number of -> if : 1
+number of if -> like : 1
+of if like -> to : 1
+like to use -> this : 1
+to use this -> technique : 1
+use this technique -> with : 1
+use this technique -> when : 1
+this technique with -> the : 1
+technique with the -> mnist : 1
+the mnist the -> output : 1
+mnist the output -> will : 1
+the output will -> be : 1
+output will be -> you : 1
+will be you -> execute : 1
+be you execute -> automatically : 1
+you execute automatically -> when : 1
+execute automatically when -> you : 1
+automatically when you -> use : 1
+when you use -> a : 1
+you use a -> binary : 1
+use a binary -> classification : 1
+a binary classification -> you : 1
+a binary classification -> task : 2
+a binary classification -> problem : 1
+binary classification you -> can : 1
+classification you can -> call : 1
+you can call -> the : 2
+can call the -> to : 1
+can call the -> classifier : 1
+call the to -> return : 1
+the to return -> the : 1
+return the scores -> scores : 1
+the scores scores -> for : 1
+scores scores for -> one : 1
+scores for one -> a : 1
+for one a -> random : 1
+one a random -> forest : 1
+random forest you -> can : 1
+forest you can -> training : 1
+you can training -> a : 1
+can training a -> random : 1
+training a random -> forest : 1
+random forest classifierwth -> only : 1
+forest classifierwth only -> two : 1
+classifierwth only two -> lines : 1
+only two lines -> of : 1
+two lines of -> code : 1
+lines of code -> is : 1
+of code is -> very : 1
+code is very -> execute : 1
+is very execute -> any : 1
+very execute any -> ova : 1
+execute any ova -> or : 1
+any ova or -> ovo : 1
+ova or ovo -> functions : 1
+or ovo functions -> because : 1
+ovo functions because -> this : 1
+functions because this -> kind : 1
+because this kind -> of : 1
+kind of algorithm -> forest : 1
+of algorithm forest -> can : 1
+algorithm forest can -> automatically : 1
+forest can automatically -> work : 1
+can automatically work -> multiple : 1
+automatically work multiple -> if : 1
+work multiple if -> like : 1
+multiple if like -> to : 1
+like to take -> a : 1
+to take a -> look : 1
+at the list -> of : 1
+the list of -> classifier : 1
+list of classifier -> you : 1
+of classifier you -> can : 1
+classifier you can -> call : 1
+call the classifier -> is : 1
+the classifier is -> very : 1
+classifier is very -> accurate : 1
+is very accurate -> with : 1
+very accurate with -> its : 1
+accurate with its -> as : 1
+with its as -> you : 1
+its as you -> can : 1
+in the there -> is : 1
+there is index -> number : 1
+is index number -> evaluate : 1
+index number evaluate -> the : 1
+number evaluate the -> classifier : 1
+evaluate the classifier -> using : 1
+classifier using the -> scoring : 1
+classifier using the -> forest : 1
+using the scoring -> get : 1
+the scoring get -> n : 1
+scoring get n -> the : 1
+get n the -> when : 1
+n the when -> using : 1
+the when using -> a : 1
+when using a -> random : 1
+using a random -> in : 1
+a random in -> this : 1
+random in this -> for : 1
+in this for -> the : 1
+this for the -> accuracy : 1
+for the accuracy -> keep : 1
+the accuracy keep -> in : 1
+accuracy keep in -> mind : 1
+mind that the -> higher : 1
+mind that the -> size : 1
+that the higher -> this : 1
+the higher this -> value : 1
+higher this value -> the : 1
+this value the -> of : 1
+value the of -> when : 1
+the of when -> developing : 1
+of when developing -> a : 1
+when developing a -> machine : 1
+developing a machine -> learning : 1
+a machine learning -> the : 1
+machine learning the -> your : 1
+learning the your -> on : 1
+the your on -> your : 1
+your on your -> data : 1
+on your data -> and : 1
+your data and -> explore : 1
+data and explore -> the : 1
+and explore the -> data : 1
+explore the data -> with : 1
+the data with -> several : 1
+data with several -> models : 1
+with several models -> and : 1
+several models and -> choose : 1
+models and choose -> the : 1
+and choose the -> best : 1
+choose the best -> your : 1
+the best your -> models : 1
+best your models -> into : 1
+your models into -> the : 1
+models into the -> your : 1
+into the your -> and : 1
+the your and -> test : 1
+your and test -> your : 1
+and test your -> you : 1
+test your you -> should : 1
+your you should -> work : 1
+you should work -> with : 1
+should work with -> the : 1
+confusion matrix and -> make : 1
+matrix and make -> predictions : 1
+and make predictions -> by : 1
+make predictions by -> the : 1
+predictions by the -> call : 1
+predictions by the -> lots : 1
+by the call -> the : 1
+the call the -> confusion : 1
+call the confusion -> matrix : 1
+confusion matrix you -> should : 1
+matrix you should -> divide : 1
+you should divide -> every : 1
+should divide every -> value : 1
+divide every value -> in : 1
+every value in -> the : 1
+value in the -> matrix : 1
+in the matrix -> by : 1
+the matrix by -> the : 1
+matrix by the -> number : 1
+by the number -> of : 1
+number of images -> in : 1
+of images in -> the : 1
+images in the -> and : 1
+and then compare -> the : 1
+then compare the -> error : 1
+compare the error -> next : 1
+the error next -> step : 1
+error next step -> is : 1
+next step is -> make : 1
+step is make -> all : 1
+is make all -> the : 1
+make all the -> zeros : 1
+all the zeros -> on : 1
+the zeros on -> the : 1
+zeros on the -> that : 1
+on the that -> will : 1
+the that will -> keep : 1
+that will keep -> the : 1
+will keep the -> errors : 1
+keep the errors -> from : 1
+the errors from -> errors : 1
+errors from errors -> are : 1
+from errors are -> easy : 1
+errors are easy -> to : 1
+are easy to -> spot : 1
+easy to spot -> in : 1
+to spot in -> the : 1
+spot in the -> above : 1
+the above one -> thing : 1
+above one thing -> to : 1
+one thing to -> keep : 1
+thing to keep -> in : 1
+to keep in -> mind : 1
+in mind is -> that : 1
+mind is that -> the : 1
+is that the -> rows : 1
+is that the -> equation : 1
+that the rows -> represent : 1
+the rows represent -> classes : 1
+rows represent classes -> and : 1
+represent classes and -> the : 1
+classes and the -> columns : 1
+and the columns -> represent : 1
+the columns represent -> the : 1
+columns represent the -> predicted : 1
+represent the predicted -> the : 1
+the predicted the -> above : 1
+predicted the above -> every : 1
+the above every -> class : 1
+above every class -> has : 1
+every class has -> just : 1
+class has just -> one : 1
+has just one -> but : 1
+just one but -> what : 1
+one but what -> if : 1
+what if we -> want : 1
+if we want -> to : 1
+we want to -> assign : 1
+want to assign -> the : 1
+to assign the -> instances : 1
+assign the instances -> to : 1
+the instances to -> multiple : 1
+instances to multiple -> classes : 1
+to multiple classes -> face : 1
+multiple classes face -> for : 1
+classes face for -> suppose : 1
+face for suppose -> that : 1
+for suppose that -> like : 1
+suppose that like -> to : 1
+like to find -> more : 1
+to find more -> than : 1
+find more than -> one : 1
+more than one -> face : 1
+more than one -> make : 1
+than one face -> in : 1
+one face in -> the : 1
+face in the -> same : 1
+in the same -> there : 1
+the same there -> will : 1
+same there will -> be : 1
+there will be -> one : 1
+will be one -> label : 1
+be one label -> for : 1
+one label for -> each : 1
+label for each -> practice : 1
+for each practice -> with : 1
+each practice with -> a : 1
+practice with a -> simple : 1
+with a simple -> these : 1
+a simple these -> we : 1
+simple these we -> have : 1
+these we have -> created : 1
+we have created -> a : 1
+have created a -> array : 1
+created a array -> that : 1
+a array that -> contains : 1
+array that contains -> two : 1
+that contains two -> labels : 1
+contains two labels -> for : 1
+two labels for -> every : 1
+labels for every -> the : 1
+for every the -> first : 1
+every the first -> one : 1
+first one contains -> information : 1
+one contains information -> on : 1
+contains information on -> whether : 1
+information on whether -> the : 1
+on whether the -> digit : 1
+whether the digit -> is : 1
+the digit is -> and : 1
+digit is and -> the : 1
+is and the -> second : 1
+second one checks -> if : 1
+one checks if -> odd : 1
+checks if odd -> or : 1
+if odd or -> make : 1
+odd or make -> a : 1
+or make a -> prediction : 1
+make a prediction -> using : 1
+make a prediction -> by : 1
+a prediction using -> the : 1
+prediction using the -> following : 1
+the following set -> of : 1
+following set of -> here : 1
+set of here -> means : 1
+of here means -> that : 1
+means that odd -> and : 1
+that odd and -> not : 1
+odd and not -> this : 1
+and not this -> we : 1
+not this we -> can : 1
+this we can -> cover : 1
+we can cover -> the : 1
+can cover the -> final : 1
+cover the final -> type : 1
+the final type -> of : 1
+final type of -> classification : 1
+type of classification -> which : 1
+of classification which -> is : 1
+classification which is -> the : 1
+is the just -> a : 1
+the just a -> general : 1
+just a general -> case : 1
+a general case -> of : 1
+general case of -> but : 1
+case of but -> every : 1
+of but every -> label : 1
+but every label -> will : 1
+every label will -> have : 1
+label will have -> a : 1
+will have a -> in : 1
+have a in -> other : 1
+a in other -> it : 1
+in other it -> will : 1
+other it will -> have : 1
+it will have -> more : 1
+will have more -> than : 1
+have more than -> one : 1
+than one make -> it : 1
+one make it -> clear : 1
+make it clear -> with : 1
+it clear with -> this : 1
+clear with this -> using : 1
+with this using -> the : 1
+this using the -> mnist : 1
+using the mnist -> and : 1
+the mnist and -> adding : 1
+mnist and adding -> some : 1
+and adding some -> noise : 1
+adding some noise -> to : 1
+some noise to -> the : 1
+noise to the -> image : 1
+to the image -> with : 1
+the image with -> the : 1
+image with the -> numpy : 1
+with the numpy -> a : 1
+the numpy a -> classifier : 1
+numpy a classifier -> for : 1
+a classifier for -> the : 1
+for the mnist -> data : 1
+data set try -> to : 1
+set try to -> get : 1
+try to get -> more : 1
+to get more -> than : 1
+get more than -> accuracy : 1
+more than accuracy -> on : 1
+than accuracy on -> your : 1
+accuracy on your -> test : 1
+on your test -> a : 1
+your test a -> method : 1
+test a method -> to : 1
+a method to -> shift : 1
+a method to -> return : 1
+method to shift -> an : 1
+to shift an -> image : 1
+shift an image -> from : 1
+an image from -> the : 1
+image from the -> mnist : 1
+the mnist or -> by : 1
+mnist or by -> your : 1
+or by your -> own : 1
+by your own -> program : 1
+your own program -> or : 1
+own program or -> examples : 1
+program or examples -> of : 1
+or examples of -> spam : 1
+examples of spam -> from : 1
+of spam from -> the : 1
+spam from the -> data : 1
+the data set -> into : 1
+data set into -> training : 1
+set into training -> a : 1
+into training a -> test : 1
+training a test -> a : 1
+a test a -> program : 1
+test a program -> to : 1
+a program to -> convert : 1
+program to convert -> every : 1
+to convert every -> email : 1
+convert every email -> to : 1
+every email to -> a : 1
+email to a -> feature : 1
+to a feature -> the : 1
+a feature the -> and : 1
+feature the and -> try : 1
+the and try -> to : 1
+and try to -> construct : 1
+try to construct -> the : 1
+to construct the -> best : 1
+construct the best -> one : 1
+the best one -> with : 1
+best one with -> values : 1
+one with values -> for : 1
+with values for -> recall : 1
+values for recall -> and : 1
+for recall and -> this : 1
+recall and this -> learned : 1
+and this learned -> new : 1
+this learned new -> concepts : 1
+this learned new -> and : 1
+learned new concepts -> and : 1
+new concepts and -> implemented : 1
+concepts and implemented -> many : 1
+and implemented many -> types : 1
+implemented many types -> of : 1
+many types of -> classification : 1
+types of classification -> also : 1
+of classification also -> worked : 1
+classification also worked -> with : 1
+also worked with -> new : 1
+also worked with -> image : 1
+worked with new -> like : 1
+with new like -> the : 1
+new like the -> receiver : 1
+like the receiver -> operating : 1
+the receiver operating -> the : 1
+receiver operating the -> tool : 1
+operating the tool -> used : 1
+the tool used -> with : 1
+tool used with -> binary : 1
+with binary optimizing -> your : 1
+binary optimizing your -> how : 1
+optimizing your how -> to : 1
+your how to -> train : 1
+how to train -> a : 2
+train a random -> forest : 1
+random forest classifier -> using : 1
+forest classifier using -> the : 1
+using the forest -> function : 1
+the forest function -> in : 1
+forest function in -> to : 1
+function in to -> train : 1
+in to train -> a : 1
+train a working -> with : 1
+a working with -> many : 1
+working with many -> machine : 1
+with many machine -> learning : 1
+many machine learning -> models : 1
+machine learning models -> and : 1
+learning models and -> training : 1
+models and training -> which : 1
+and training which -> seem : 1
+training which seem -> like : 1
+which seem like -> unfathomable : 1
+seem like unfathomable -> black : 1
+like unfathomable black -> we : 1
+unfathomable black we -> were : 1
+black we were -> able : 1
+we were able -> to : 1
+were able to -> optimize : 1
+able to optimize -> a : 1
+to optimize a -> regression : 1
+optimize a regression -> have : 1
+a regression have -> also : 1
+regression have also -> worked : 1
+have also worked -> with : 1
+worked with image -> but : 1
+with image but -> we : 1
+image but we -> developed : 1
+but we developed -> these : 1
+we developed these -> systems : 1
+developed these systems -> without : 1
+these systems without -> understanding : 1
+systems without understanding -> s : 1
+without understanding s -> inside : 1
+understanding s inside -> and : 1
+s inside and -> how : 1
+inside and how -> they : 1
+and how they -> so : 1
+how they so -> now : 1
+they so now -> we : 1
+so now we -> need : 1
+now we need -> to : 1
+we need to -> go : 1
+need to go -> deeper : 1
+to go deeper -> so : 1
+to go deeper -> into : 1
+go deeper so -> that : 1
+deeper so that -> we : 1
+so that we -> can : 1
+that we can -> grasp : 1
+we can grasp -> how : 1
+can grasp how -> they : 1
+grasp how they -> work : 1
+how they work -> and : 1
+they work and -> understand : 1
+work and understand -> the : 1
+and understand the -> details : 1
+understand the details -> of : 1
+the details of -> a : 1
+details of a -> deep : 1
+of a deep -> understanding : 1
+a deep understanding -> of : 1
+deep understanding of -> these : 1
+understanding of these -> details : 1
+of these details -> will : 1
+these details will -> help : 1
+details will help -> you : 1
+will help you -> with : 2
+help you with -> the : 1
+help you with -> debugging : 1
+you with the -> right : 1
+with the right -> model : 1
+the right model -> and : 1
+right model and -> with : 1
+model and with -> choosing : 1
+and with choosing -> the : 1
+with choosing the -> best : 1
+choosing the best -> training : 1
+the best training -> it : 1
+best training it -> will : 1
+training it will -> help : 1
+it will help -> you : 1
+you with debugging -> and : 1
+with debugging and -> error : 1
+debugging and error -> this : 1
+and error this -> work : 1
+error this work -> with : 1
+this work with -> polynomial : 1
+work with polynomial -> which : 1
+work with polynomial -> and : 1
+with polynomial which -> is : 1
+polynomial which is -> a : 1
+which is a -> complex : 1
+is a complex -> model : 1
+a complex model -> that : 1
+complex model that -> works : 1
+model that works -> for : 1
+that works for -> nonlinear : 1
+works for nonlinear -> data : 1
+for nonlinear data -> in : 1
+nonlinear data in -> working : 1
+data in working -> with : 1
+in working with -> several : 1
+working with several -> regularization : 1
+with several regularization -> techniques : 1
+several regularization techniques -> that : 1
+regularization techniques that -> reduce : 1
+techniques that reduce -> training : 1
+that reduce training -> that : 1
+reduce training that -> encourages : 1
+training that encourages -> an : 1
+that encourages an -> take : 1
+encourages an take -> this : 1
+an take this -> is : 1
+take this is -> a : 1
+is a simple -> model : 1
+a simple model -> for : 1
+simple model for -> a : 1
+model for a -> linear : 1
+for a linear -> function : 1
+a linear function -> of : 1
+linear function of -> the : 1
+function of the -> input : 1
+function of the -> ridge : 1
+function of the -> lasso : 1
+of the input -> feature : 1
+of the input -> and : 1
+the input feature -> and : 1
+input feature and -> are : 1
+feature and are -> the : 1
+and are the -> parameters : 1
+are the parameters -> of : 1
+the parameters of -> the : 1
+parameters of the -> a : 1
+of the a -> linear : 1
+the a linear -> model : 1
+a linear model -> to : 1
+linear model to -> make : 1
+model to make -> a : 1
+a prediction by -> calculating : 1
+prediction by calculating -> a : 1
+by calculating a -> weighted : 1
+calculating a weighted -> sum : 1
+a weighted sum -> of : 1
+weighted sum of -> the : 1
+sum of the -> input : 1
+the input and -> also : 1
+input and also -> a : 1
+and also a -> constant : 1
+also a constant -> as : 1
+a constant as -> you : 1
+constant as you -> can : 1
+the following y -> is : 1
+following y is -> the : 1
+y is the -> value : 1
+is the value -> of : 2
+is the value -> that : 1
+the value of -> the : 4
+value of the -> n : 1
+value of the -> is : 1
+value of the -> parameter : 1
+value of the -> based : 1
+of the n -> represents : 1
+the n represents -> the : 1
+n represents the -> features : 1
+represents the features -> is : 1
+the features is -> the : 1
+features is the -> value : 1
+of the is -> the : 1
+the model parameter -> of : 1
+model parameter of -> j : 1
+parameter of j -> we : 1
+of j we -> can : 1
+j we can -> write : 1
+we can write -> the : 3
+can write the -> equation : 1
+can write the -> majority : 1
+can write the -> weighted : 1
+write the equation -> in : 1
+the equation in -> vectorized : 1
+equation in vectorized -> as : 1
+in vectorized as -> in : 1
+vectorized as in -> the : 1
+as in the -> following : 3
+the following is -> the : 1
+following is the -> value : 1
+the value that -> minimizes : 1
+value that minimizes -> the : 1
+that minimizes the -> y : 1
+minimizes the y -> contains : 1
+the y contains -> the : 1
+y contains the -> values : 1
+contains the values -> y : 1
+the values y -> to : 1
+values y to -> y : 1
+y to y -> write : 1
+to y write -> some : 1
+y write some -> code : 1
+write some code -> to : 2
+some code to -> numpy : 1
+some code to -> compute : 1
+code to numpy -> as : 1
+to numpy as -> np : 1
+numpy as np -> calculate : 1
+as np calculate -> value : 1
+np calculate value -> using : 1
+calculate value using -> our : 1
+value using our -> time : 1
+using our time -> to : 1
+our time to -> use : 1
+our time to -> plot : 1
+time to use -> the : 1
+to use the -> function : 1
+to use the -> whole : 2
+the function from -> our : 1
+function from our -> linear : 1
+from our linear -> algebra : 1
+our linear algebra -> module : 1
+linear algebra module -> of : 1
+algebra module of -> numpy : 1
+module of numpy -> calculate : 1
+of numpy calculate -> the : 1
+numpy calculate the -> inverse : 1
+calculate the inverse -> of : 1
+the inverse of -> any : 1
+the inverse of -> m : 1
+inverse of any -> and : 1
+of any and -> the : 1
+any and the -> function : 1
+and the function -> for : 1
+the function for -> multiply : 1
+function for multiply -> our : 1
+for multiply our -> matrix : 1
+multiply our matrix -> this : 1
+our matrix this -> function : 1
+matrix this function -> uses : 1
+this function uses -> the : 1
+function uses the -> following : 1
+uses the following -> equation : 1
+the following equation -> y : 1
+the following equation -> to : 1
+following equation y -> noise : 1
+equation y noise -> to : 1
+y noise to -> generate : 1
+noise to generate -> our : 1
+to generate our -> make : 1
+generate our make -> our : 1
+our make our -> time : 1
+make our time -> to : 1
+time to plot -> the : 1
+to plot the -> the : 1
+to plot the -> error : 1
+plot the the -> normal : 1
+the the normal -> we : 1
+the normal we -> can : 1
+normal we can -> compute : 1
+we can compute -> the : 1
+can compute the -> inverse : 1
+compute the inverse -> of : 1
+inverse of m -> that : 1
+of m that -> a : 1
+m that a -> matrix : 1
+that a matrix -> the : 1
+a matrix the -> number : 1
+matrix the number -> of : 1
+number of the -> complexity : 1
+of the complexity -> of : 1
+the complexity of -> this : 1
+complexity of this -> inversion : 1
+of this inversion -> is : 1
+this inversion is -> something : 1
+inversion is something -> like : 1
+is something like -> to : 1
+something like to -> which : 1
+like to which -> is : 1
+to which is -> based : 1
+to which is -> called : 1
+which is based -> on : 1
+is based on -> the : 2
+on the you -> make : 1
+the you make -> the : 1
+you make the -> number : 1
+make the number -> of : 1
+number of features -> like : 1
+number of features -> and : 1
+number of features -> of : 1
+of features like -> make : 1
+features like make -> the : 1
+like make the -> time : 1
+make the time -> of : 1
+the time of -> the : 1
+time of the -> computation : 1
+of the computation -> attain : 1
+the computation attain -> between : 1
+computation attain between -> and : 1
+attain between and -> great : 1
+between and great -> news : 1
+and great news -> here : 1
+great news here -> is : 1
+news here is -> that : 1
+here is that -> the : 1
+that the equation -> is : 1
+the equation is -> a : 1
+equation is a -> linear : 1
+is a linear -> this : 1
+a linear this -> means : 1
+linear this means -> it : 1
+means it can -> easily : 1
+it can easily -> handle : 1
+can easily handle -> huge : 1
+easily handle huge -> training : 1
+handle huge training -> sets : 1
+huge training sets -> and : 1
+training sets and -> fit : 1
+sets and fit -> the : 1
+and fit the -> memory : 1
+fit the memory -> training : 1
+the memory training -> your : 1
+memory training your -> the : 1
+training your the -> predictions : 1
+your the predictions -> will : 1
+the predictions will -> be : 1
+predictions will be -> not : 1
+will be not -> and : 1
+be not and -> the : 1
+not and the -> complexity : 1
+and the complexity -> will : 1
+the complexity will -> be : 1
+complexity will be -> thanks : 1
+will be thanks -> to : 1
+be thanks to -> the : 1
+thanks to the -> linear : 1
+to the linear -> time : 1
+the linear time -> to : 1
+linear time to -> go : 1
+time to go -> deeper : 1
+deeper into the -> methods : 1
+into the methods -> of : 1
+the methods of -> training : 1
+methods of training -> linear : 1
+of training linear -> regression : 1
+training linear regression -> which : 1
+linear regression which -> is : 1
+regression which is -> always : 1
+which is always -> used : 1
+is always used -> when : 1
+always used when -> there : 1
+used when there -> is : 1
+when there is -> a : 1
+there is a -> large : 1
+is a large -> number : 1
+a large number -> of : 1
+large number of -> features : 1
+of features and -> instances : 1
+features and instances -> in : 1
+and instances in -> the : 1
+instances in the -> algorithm : 1
+in the algorithm -> is : 1
+the algorithm is -> a : 1
+algorithm is a -> general : 1
+is a general -> algorithm : 1
+a general algorithm -> that : 1
+general algorithm that -> is : 1
+algorithm that is -> used : 1
+that is used -> for : 1
+is used for -> optimization : 1
+used for optimization -> and : 1
+for optimization and -> for : 1
+optimization and for -> providing : 1
+and for providing -> the : 1
+for providing the -> optimal : 1
+providing the optimal -> solution : 1
+the optimal solution -> for : 1
+optimal solution for -> various : 1
+solution for various -> the : 1
+for various the -> idea : 1
+various the idea -> of : 1
+the idea of -> this : 1
+idea of this -> algorithm : 1
+of this algorithm -> is : 1
+this algorithm is -> to : 1
+algorithm is to -> work : 1
+is to work -> with : 1
+with the parameters -> in : 1
+the parameters in -> an : 1
+parameters in an -> iterative : 1
+in an iterative -> to : 1
+an iterative to -> make : 1
+iterative to make -> the : 1
+make the cost -> function : 1
+the cost function -> as : 1
+the cost function -> of : 1
+cost function as -> simple : 1
+function as simple -> as : 1
+simple as gradient -> descent : 1
+as gradient descent -> algorithm : 1
+gradient descent algorithm -> calculates : 1
+descent algorithm calculates -> the : 1
+algorithm calculates the -> gradient : 1
+calculates the gradient -> of : 1
+the gradient of -> the : 1
+the gradient of -> your : 1
+gradient of the -> error : 1
+of the error -> using : 1
+the error using -> the : 1
+error using the -> parameter : 1
+using the parameter -> and : 1
+the parameter and -> it : 1
+parameter and it -> works : 1
+and it works -> with : 1
+it works with -> the : 1
+works with the -> method : 1
+with the method -> of : 1
+the method of -> descending : 1
+method of descending -> if : 1
+of descending if -> the : 1
+descending if the -> gradient : 1
+if the gradient -> is : 1
+the gradient is -> equal : 1
+gradient is equal -> to : 1
+is equal to -> reach : 1
+equal to reach -> the : 1
+to reach the -> you : 1
+reach the you -> should : 1
+the you should -> keep : 1
+the you should -> decrease : 1
+you should keep -> in : 1
+keep in the -> mind : 1
+in the mind -> that : 1
+the mind that -> the : 1
+that the size -> of : 1
+the size of -> the : 1
+size of the -> steps : 1
+of the steps -> is : 1
+the steps is -> very : 1
+steps is very -> important : 1
+is very important -> for : 1
+very important for -> this : 1
+important for this -> because : 1
+for this because -> if : 1
+this because if -> very : 1
+because if very -> small : 1
+if very small -> the : 1
+very small the -> rate : 1
+small the rate -> of : 1
+rate of is -> slow : 1
+of is slow -> it : 1
+is slow it -> will : 1
+slow it will -> take : 1
+it will take -> a : 1
+it will take -> short : 1
+will take a -> long : 1
+will take a -> shortcut : 1
+take a long -> time : 1
+a long time -> to : 1
+long time to -> cover : 1
+time to cover -> everything : 1
+time to cover -> and : 1
+to cover everything -> that : 1
+cover everything that -> it : 1
+everything that it -> needs : 1
+that it needs -> when : 1
+it needs when -> the : 1
+needs when the -> rate : 1
+when the rate -> of : 1
+rate of learning -> is : 1
+learning is it -> will : 1
+is it will -> take : 1
+will take short -> time : 1
+take short time -> to : 1
+short time to -> cover : 1
+to cover and -> it : 1
+cover and it -> will : 1
+it will provide -> an : 1
+will provide an -> optimal : 1
+provide an optimal -> the : 1
+an optimal the -> you : 1
+optimal the you -> always : 1
+the you always -> find : 1
+you always find -> that : 1
+always find that -> all : 1
+find that all -> cost : 1
+that all cost -> functions : 1
+all cost functions -> are : 1
+cost functions are -> as : 1
+functions are as -> you : 1
+are as you -> can : 1
+you can but -> also : 1
+can but also -> find : 1
+but also find -> irregular : 1
+also find irregular -> functions : 1
+find irregular functions -> that : 1
+irregular functions that -> make : 1
+functions that make -> getting : 1
+that make getting -> an : 1
+make getting an -> optimal : 1
+getting an optimal -> solution : 1
+an optimal solution -> very : 1
+optimal solution very -> this : 1
+solution very this -> problem : 1
+very this problem -> occurs : 1
+this problem occurs -> when : 1
+problem occurs when -> the : 1
+when the local -> minimum : 1
+the local minimum -> and : 1
+local minimum and -> global : 1
+minimum and global -> minimum : 1
+and global minimum -> looks : 1
+global minimum looks -> like : 1
+minimum looks like -> they : 1
+looks like they -> do : 1
+like they do -> in : 1
+they do in -> the : 1
+do in the -> following : 1
+following you assign -> any : 1
+you assign any -> to : 1
+assign any to -> any : 1
+any to any -> two : 1
+to any two -> points : 1
+any two points -> on : 1
+two points on -> your : 1
+points on your -> find : 1
+on your find -> that : 1
+your find that -> the : 1
+find that the -> segment : 1
+that the segment -> of : 1
+the segment of -> the : 1
+segment of the -> line : 1
+of the line -> join : 1
+the line join -> them : 1
+line join them -> on : 1
+join them on -> the : 1
+them on the -> same : 1
+on the same -> this : 1
+on the same -> it : 1
+on the same -> scale : 1
+the same this -> cost : 1
+same this cost -> function : 1
+this cost function -> will : 1
+cost function will -> like : 1
+function will like -> a : 1
+will like a -> which : 1
+like a which -> will : 1
+a which will -> occur : 1
+which will occur -> if : 1
+will occur if -> the : 1
+occur if the -> features : 1
+if the features -> have : 1
+the features have -> many : 1
+features have many -> as : 1
+have many as -> n : 1
+many as n -> the : 1
+as n the -> following : 1
+n the following -> gradient : 1
+the following gradient -> like : 1
+the following gradient -> find : 1
+following gradient like -> to : 1
+gradient like to -> implement : 1
+like to implement -> this : 1
+to implement this -> you : 1
+implement this you -> should : 1
+you should first -> calculate : 1
+you should first -> prepare : 1
+should first calculate -> the : 1
+first calculate the -> gradient : 1
+calculate the gradient -> of : 1
+gradient of your -> cost : 1
+of your cost -> function : 1
+of your cost -> we : 1
+your cost function -> using : 1
+cost function using -> the : 1
+function using the -> theta : 1
+using the theta -> if : 1
+the theta if -> the : 1
+theta if the -> value : 1
+if the value -> of : 1
+of the parameter -> theta : 1
+the parameter theta -> has : 1
+parameter theta has -> need : 1
+theta has need -> to : 1
+has need to -> know : 1
+need to know -> the : 1
+to know the -> changing : 1
+know the changing -> rate : 1
+the changing rate -> of : 1
+changing rate of -> your : 1
+rate of your -> cost : 1
+your cost we -> call : 1
+cost we call -> this : 1
+call this change -> by : 1
+change by a -> partial : 1
+by a partial -> derivative : 1
+a partial derivative -> can : 1
+partial derivative can -> calculate : 1
+derivative can calculate -> the : 1
+calculate the partial -> derivative : 1
+calculate the partial -> derivatives : 1
+the partial derivative -> using : 1
+partial derivative using -> the : 1
+derivative using the -> following : 1
+the following also -> use : 1
+following also use -> the : 1
+also use the -> following : 1
+following equation to -> calculate : 1
+equation to calculate -> the : 1
+the partial derivatives -> and : 1
+partial derivatives and -> the : 1
+derivatives and the -> gradient : 1
+and the gradient -> vector : 1
+the gradient vector -> implement : 1
+gradient vector implement -> the : 1
+vector implement the -> lr : 1
+implement the lr -> for : 1
+the lr for -> learning : 1
+lr for learning -> rate : 1
+for learning rate -> number : 1
+learning rate number -> of : 1
+rate number of -> it : 1
+number of it -> in : 1
+of it in -> mytheta : 1
+it in mytheta -> lr : 1
+in mytheta lr -> gr : 1
+mytheta lr gr -> mytheta : 2
+lr gr mytheta -> you : 1
+lr gr mytheta -> gradient : 1
+gr mytheta you -> try : 1
+mytheta you try -> to : 1
+you try to -> change : 1
+try to change -> the : 1
+to change the -> learning : 1
+change the learning -> rate : 1
+the learning rate -> get : 1
+learning rate get -> different : 1
+rate get different -> as : 1
+get different as -> in : 1
+different as in -> the : 1
+following gradient find -> a : 1
+gradient find a -> problem : 1
+find a problem -> when : 1
+a problem when -> using : 1
+problem when using -> the : 1
+when using the -> batch : 1
+when using the -> stochastic : 1
+when using the -> on : 1
+using the batch -> gradient : 1
+the batch gradient -> it : 1
+the batch gradient -> since : 1
+the batch gradient -> descent : 1
+batch gradient it -> needs : 1
+gradient it needs -> to : 1
+it needs to -> use : 1
+needs to use -> the : 1
+use the whole -> training : 1
+use the whole -> set : 1
+the whole training -> set : 2
+whole training set -> in : 1
+whole training set -> or : 1
+training set in -> order : 1
+set in order -> to : 1
+in order to -> calculate : 1
+order to calculate -> the : 1
+calculate the value -> at : 1
+calculate the value -> of : 1
+the value at -> each : 1
+value at each -> and : 1
+at each and -> that : 1
+at each and -> then : 1
+at each and -> suddenly : 1
+each and that -> will : 1
+and that will -> affect : 1
+that will affect -> performance : 1
+will affect performance -> when : 1
+affect performance when -> using : 1
+performance when using -> the : 1
+using the stochastic -> gradient : 1
+the stochastic gradient -> the : 1
+stochastic gradient the -> algorithm : 1
+gradient the algorithm -> will : 1
+the algorithm will -> randomly : 1
+the algorithm will -> be : 1
+algorithm will randomly -> choose : 1
+will randomly choose -> an : 1
+randomly choose an -> instance : 1
+choose an instance -> from : 1
+an instance from -> your : 1
+instance from your -> training : 1
+from your training -> set : 1
+training set at -> each : 1
+set at each -> and : 1
+each and then -> it : 1
+it will calculate -> the : 1
+will calculate the -> in : 1
+calculate the in -> this : 1
+this the algorithm -> will : 1
+algorithm will be -> faster : 1
+will be faster -> than : 1
+be faster than -> the : 1
+faster than the -> batch : 1
+than the batch -> gradient : 1
+batch gradient since -> it : 1
+gradient since it -> need : 1
+since it need -> to : 1
+it need to -> use : 1
+need to use -> the : 1
+the whole set -> to : 1
+whole set to -> calculate : 1
+set to calculate -> the : 1
+calculate the on -> the : 1
+the on the -> other : 2
+the other because -> of : 1
+other because of -> the : 1
+because of the -> randomness : 1
+of the randomness -> of : 1
+the randomness of -> this : 1
+randomness of this -> it : 1
+of this it -> will : 1
+will be irregular -> when : 1
+be irregular when -> to : 1
+irregular when to -> the : 1
+when to the -> batch : 1
+to the batch -> implement : 1
+the batch implement -> the : 1
+batch implement the -> return : 1
+implement the return -> num : 1
+the return num -> in : 1
+return num in -> range : 1
+num in range -> l : 1
+in range l -> in : 1
+range l in -> range : 1
+l in range -> f : 1
+in range f -> mytheta : 1
+range f mytheta -> lr : 1
+f mytheta lr -> gr : 1
+gr mytheta gradient -> you : 1
+mytheta gradient you -> already : 1
+gradient you already -> know : 1
+you already know -> the : 1
+already know the -> batch : 1
+know the batch -> and : 1
+the batch and -> the : 1
+batch and the -> stochastic : 1
+and the stochastic -> this : 1
+the stochastic this -> kind : 1
+stochastic this kind -> of : 1
+kind of algorithms -> is : 1
+of algorithms is -> very : 1
+algorithms is very -> easy : 1
+is very easy -> to : 1
+very easy to -> understand : 1
+easy to understand -> and : 1
+to understand and -> work : 1
+understand and work -> with : 1
+work with as -> you : 1
+with as you -> both : 1
+as you both -> algorithms : 1
+you both algorithms -> calculate : 1
+both algorithms calculate -> the : 1
+algorithms calculate the -> value : 1
+of the based -> on : 1
+the based on -> the : 1
+on the whole -> training : 1
+training set or -> just : 1
+set or just -> one : 1
+or just one -> the : 1
+just one the -> calculates : 1
+one the calculates -> its : 1
+the calculates its -> algorithms : 1
+calculates its algorithms -> based : 1
+its algorithms based -> on : 1
+algorithms based on -> small : 1
+based on small -> and : 1
+on small and -> random : 1
+small and random -> performs : 1
+and random performs -> better : 1
+random performs better -> than : 1
+performs better than -> the : 1
+better than the -> other : 1
+better than the -> error : 1
+than the other -> two : 1
+the other two -> use : 1
+other two use -> this : 1
+two use this -> technique : 1
+this technique when -> working : 1
+technique when working -> with : 1
+working with more -> complex : 1
+with more complex -> in : 1
+more complex in -> the : 1
+complex in the -> case : 1
+in the case -> linear : 1
+the case linear -> and : 1
+case linear and -> nonlinear : 1
+linear and nonlinear -> after : 1
+and nonlinear after -> added : 1
+nonlinear after added -> the : 1
+after added the -> powers : 1
+added the powers -> of : 1
+the powers of -> every : 1
+powers of every -> we : 1
+of every we -> can : 1
+every we can -> train : 1
+we can train -> the : 1
+can train the -> model : 1
+train the model -> with : 1
+the model with -> new : 1
+model with new -> this : 1
+with new this -> is : 1
+new this is -> known : 1
+this is known -> as : 1
+is known as -> polynomial : 1
+known as polynomial -> write : 1
+as polynomial write -> some : 1
+polynomial write some -> you : 1
+write some you -> can : 1
+some you can -> the : 1
+you can the -> straight : 1
+you can the -> next : 1
+can the straight -> will : 1
+the straight will -> never : 1
+straight will never -> represent : 1
+will never represent -> the : 1
+never represent the -> data : 1
+represent the data -> in : 1
+the data in -> the : 1
+data in the -> most : 1
+in the most -> efficient : 1
+the most efficient -> so : 1
+most efficient so -> use : 1
+efficient so use -> the : 1
+so use the -> polynomial : 1
+use the polynomial -> method : 1
+the polynomial method -> to : 1
+polynomial method to -> work : 1
+method to work -> on : 1
+to work on -> this : 1
+work on this -> import : 1
+on this import -> polynomialfeatures : 1
+this import polynomialfeatures -> make : 1
+import polynomialfeatures make -> this : 1
+polynomialfeatures make this -> function : 1
+make this function -> properly : 1
+this function properly -> with : 1
+function properly with -> our : 1
+properly with our -> and : 1
+with our and -> change : 1
+our and change -> the : 1
+and change the -> straight : 1
+change the straight -> that : 1
+the straight that -> work : 1
+straight that work -> with : 1
+that work with -> polynomial : 1
+with polynomial and -> you : 1
+polynomial and you -> want : 1
+and you want -> it : 1
+you want it -> to : 1
+want it to -> fit : 1
+it to fit -> the : 1
+to fit the -> data : 1
+fit the data -> better : 1
+the data better -> than : 1
+data better than -> with : 1
+better than with -> the : 1
+than with the -> linear : 1
+with the linear -> one : 1
+the linear one -> in : 1
+linear one in -> the : 1
+one in the -> following : 1
+the following find -> a : 1
+following find a -> model : 1
+find a model -> we : 1
+a model we -> can : 1
+model we can -> also : 1
+we can also -> compare : 1
+can also compare -> the : 1
+also compare the -> final : 1
+compare the final -> result : 1
+the final result -> with : 1
+final result with -> the : 1
+result with the -> other : 1
+with the other -> kind : 1
+the other kind -> of : 1
+other kind of -> the : 1
+of the the -> above : 1
+the the above -> you : 1
+the above you -> can : 1
+above you can -> see : 1
+can see the -> overfitting : 1
+see the overfitting -> of : 1
+the overfitting of -> data : 1
+overfitting of data -> when : 1
+of data when -> using : 1
+data when using -> the : 1
+using the on -> the : 1
+the other with -> linear : 1
+other with linear -> you : 1
+with linear you -> can : 1
+linear you can -> see : 1
+can see that -> the : 1
+can see that -> it : 1
+see that the -> data : 1
+data is obviously -> being : 1
+is obviously being -> linear : 1
+obviously being linear -> have : 1
+being linear have -> in : 1
+linear have in -> the : 1
+have in the -> first : 1
+in the first -> and : 1
+the first and -> second : 1
+first and second -> on : 1
+and second on -> how : 1
+second on how -> to : 1
+on how to -> reduce : 1
+how to reduce -> overfitting : 1
+to reduce overfitting -> by : 1
+reduce overfitting by -> regularizing : 1
+overfitting by regularizing -> the : 1
+by regularizing the -> model : 1
+regularizing the model -> a : 1
+the model a -> as : 1
+model a as -> an : 1
+a as an -> if : 1
+as an if -> like : 1
+an if like -> to : 1
+like to regularize -> a : 1
+to regularize a -> polynomial : 1
+regularize a polynomial -> in : 1
+a polynomial in -> this : 1
+polynomial in this -> to : 1
+in this to -> fix : 1
+this to fix -> the : 1
+to fix the -> you : 1
+fix the you -> should : 1
+you should decrease -> the : 1
+should decrease the -> number : 1
+decrease the number -> of : 1
+number of ridge -> regression : 1
+of ridge regression -> is : 1
+ridge regression is -> another : 1
+regression is another -> version : 1
+is another version -> of : 1
+another version of -> the : 1
+version of the -> linear : 1
+of the linear -> after : 1
+the linear after -> regularizing : 1
+linear after regularizing -> it : 1
+after regularizing it -> and : 1
+regularizing it and -> adding : 1
+it and adding -> weight : 1
+and adding weight -> to : 1
+adding weight to -> the : 1
+weight to the -> cost : 1
+to the cost -> this : 1
+the cost this -> makes : 1
+cost this makes -> it : 1
+this makes it -> fit : 1
+makes it fit -> the : 1
+it fit the -> and : 1
+fit the and -> even : 1
+the and even -> makes : 1
+and even makes -> the : 1
+even makes the -> weight : 1
+makes the weight -> of : 1
+the weight of -> the : 1
+weight of the -> model : 1
+of the model -> as : 1
+the model as -> simple : 1
+model as simple -> as : 1
+simple as here -> is : 1
+as here is -> the : 1
+here is the -> cost : 1
+is the cost -> function : 1
+cost function of -> the : 2
+of the ridge -> an : 1
+the ridge an -> example : 1
+ridge an example -> of : 1
+example of ridge -> just : 1
+of ridge just -> take : 1
+ridge just take -> a : 1
+just take a -> look : 1
+at the following -> regression : 1
+the following regression -> stands : 1
+following regression stands -> for : 1
+regression stands for -> absolute : 1
+stands for absolute -> shrinkage : 1
+for absolute shrinkage -> and : 1
+absolute shrinkage and -> selection : 1
+shrinkage and selection -> this : 1
+and selection this -> is : 1
+selection this is -> another : 1
+this is another -> type : 1
+of the regularized -> version : 1
+the regularized version -> of : 1
+regularized version of -> linear : 1
+version of linear -> looks : 1
+of linear looks -> like : 1
+linear looks like -> ridge : 1
+looks like ridge -> but : 1
+like ridge but -> with : 1
+ridge but with -> a : 1
+but with a -> small : 1
+with a small -> in : 1
+a small in -> the : 1
+small in the -> as : 1
+in the as -> in : 1
+the as in -> the : 1
+the following cost -> function : 1
+following cost function -> of : 1
+of the lasso -> you : 1
+the lasso you -> can : 1
+lasso you can -> see : 1
+the following the -> lasso : 1
+following the lasso -> regression : 1
+the lasso regression -> uses : 1
+lasso regression uses -> smaller : 1
+regression uses smaller -> values : 1
+uses smaller values -> than : 1
+smaller values than -> the : 1
+values than the -> you : 1
+than the you -> have : 1
+the you have -> a : 1
+you have a -> set : 1
+have a set -> that : 1
+a set that -> contains : 1
+set that contains -> a : 1
+that contains a -> huge : 1
+contains a huge -> number : 1
+a huge number -> of : 1
+huge number of -> features : 1
+of features of -> which : 1
+features of which -> regression : 1
+of which regression -> algorithm : 1
+which regression algorithm -> should : 1
+regression algorithm should -> you : 1
+algorithm should you -> and : 1
+should you and -> you : 1
+you and you -> use : 1
+and you use -> batch : 1
+you use batch -> gradient : 1
+use batch gradient -> descent : 1
+batch gradient descent -> to : 1
+batch gradient descent -> this : 1
+gradient descent to -> plot : 1
+descent to plot -> the : 1
+plot the error -> at : 1
+the error at -> each : 1
+error at each -> and : 1
+each and suddenly -> the : 1
+and suddenly the -> rate : 1
+suddenly the rate -> of : 1
+rate of errors -> how : 1
+of errors how -> would : 1
+errors how would -> you : 1
+how would you -> fix : 1
+would you fix -> this : 1
+you fix this -> what : 1
+fix this what -> should : 1
+this what should -> you : 1
+what should you -> do : 1
+should you do -> if : 1
+you do if -> you : 1
+do if you -> notice : 1
+if you notice -> errors : 1
+you notice errors -> become : 1
+notice errors become -> using : 1
+errors become using -> the : 1
+become using the -> these : 1
+using the these -> method : 1
+the these method -> is : 1
+these method is -> ridge : 1
+method is ridge -> regression : 1
+is ridge regression -> and : 1
+ridge regression and -> linear : 1
+regression and linear -> lasso : 1
+and linear lasso -> regression : 1
+linear lasso regression -> and : 1
+lasso regression and -> ridge : 1
+regression and ridge -> the : 1
+and ridge the -> batch : 1
+ridge the batch -> gradient : 1
+gradient descent this -> learned : 1
+descent this learned -> new : 1
+learned new and -> have : 1
+new and have -> learned : 1
+and have learned -> how : 1
+have learned how -> to : 1
+learned how to -> train : 1
+train a model -> using : 1
+a model using -> different : 1
+model using different -> types : 1
+using different types -> of : 1
+types of also -> learned : 1
+of also learned -> when : 1
+also learned when -> to : 1
+learned when to -> use : 1
+when to use -> each : 1
+to use each -> including : 1
+use each including -> the : 1
+each including the -> gradient : 1
+including the gradient -> gradient : 1
+the gradient gradient -> linear : 1
+gradient linear ridge -> lasso : 1
+linear ridge lasso -> in : 1
+ridge lasso in -> you : 1
+lasso in you -> now : 1
+in you now -> know : 1
+you now know -> the : 1
+you now know -> how : 1
+now know the -> meaning : 1
+know the meaning -> of : 1
+the meaning of -> certain : 1
+meaning of certain -> linear : 1
+of certain linear -> computational : 1
+certain linear computational -> and : 1
+linear computational and -> gradient : 1
+computational and gradient -> models : 1
+and gradient models -> next : 1
+gradient models next -> image : 1
+models next image -> will : 1
+next image will -> illustrate : 1
+image will illustrate -> the : 1
+will illustrate the -> definition : 1
+illustrate the definition -> of : 1
+the definition of -> a : 1
+definition of a -> general : 1
+of a general -> target : 1
+a general target -> of : 1
+general target of -> collecting : 1
+target of collecting -> functions : 1
+of collecting functions -> that : 1
+collecting functions that -> is : 1
+functions that is -> just : 1
+that is just -> to : 1
+is just to -> merge : 1
+just to merge -> different : 1
+to merge different -> classifers : 1
+merge different classifers -> into : 1
+different classifers into -> a : 1
+classifers into a -> that : 1
+into a that -> has : 1
+a that has -> a : 1
+that has a -> better : 1
+has a better -> generalization : 1
+a better generalization -> performance : 1
+better generalization performance -> than : 1
+generalization performance than -> each : 1
+performance than each -> individual : 1
+than each individual -> classifer : 1
+each individual classifer -> an : 1
+each individual classifer -> c : 1
+each individual classifer -> if : 1
+individual classifer an -> assume : 1
+classifer an assume -> that : 1
+an assume that -> you : 1
+assume that you -> collected : 1
+that you collected -> predictions : 1
+you collected predictions -> from : 1
+collected predictions from -> many : 1
+predictions from many -> ensemble : 1
+from many ensemble -> methods : 1
+many ensemble methods -> would : 1
+ensemble methods would -> allow : 1
+methods would allow -> us : 1
+would allow us -> to : 1
+allow us to -> merge : 1
+us to merge -> these : 1
+to merge these -> predictions : 1
+merge these predictions -> by : 1
+these predictions by -> the : 1
+by the lots -> of : 1
+the lots of -> experts : 1
+lots of experts -> to : 1
+of experts to -> get : 1
+experts to get -> a : 1
+to get a -> prediction : 1
+get a prediction -> that : 1
+a prediction that -> is : 1
+prediction that is -> more : 1
+that is more -> proper : 1
+is more proper -> and : 1
+more proper and -> robust : 1
+proper and robust -> than : 1
+and robust than -> the : 1
+robust than the -> predictions : 1
+than the predictions -> of : 1
+the predictions of -> each : 1
+predictions of each -> individual : 1
+of each individual -> as : 1
+of each individual -> classifer : 2
+each individual as -> you : 1
+individual as you -> can : 1
+can see later -> in : 1
+see later in -> this : 1
+later in this -> there : 1
+in this there -> are : 1
+this there are -> many : 1
+there are many -> different : 1
+are many different -> methods : 1
+many different methods -> to : 1
+different methods to -> create : 1
+methods to create -> an : 1
+to create an -> ensemble : 1
+create an ensemble -> of : 1
+an ensemble of -> in : 1
+an ensemble of -> classifers : 1
+an ensemble of -> base : 1
+an ensemble of -> three : 1
+ensemble of in -> this : 1
+in this we -> will : 1
+this we will -> introduce : 1
+this we will -> work : 1
+we will introduce -> a : 1
+will introduce a -> basic : 1
+introduce a basic -> perception : 1
+a basic perception -> about : 1
+basic perception about -> how : 1
+perception about how -> ensembles : 1
+about how ensembles -> work : 1
+how ensembles work -> and : 1
+ensembles work and -> why : 1
+work and why -> they : 1
+and why they -> are : 1
+why they are -> typically : 1
+they are typically -> recognized : 1
+are typically recognized -> for : 1
+typically recognized for -> yielding : 1
+recognized for yielding -> a : 1
+for yielding a -> good : 1
+yielding a good -> generalization : 1
+a good generalization -> this : 1
+good generalization this -> we : 1
+generalization this we -> will : 1
+we will work -> with : 2
+will work with -> the : 1
+will work with -> a : 1
+with the most -> popular : 1
+the most popular -> ensemble : 1
+most popular ensemble -> method : 1
+popular ensemble method -> that : 1
+ensemble method that -> uses : 1
+method that uses -> the : 1
+that uses the -> majority : 1
+uses the majority -> voting : 1
+the majority voting -> many : 1
+the majority voting -> principle : 1
+majority voting many -> voting : 1
+voting many voting -> simply : 1
+many voting simply -> means : 1
+voting simply means -> that : 1
+simply means that -> we : 1
+means that we -> choose : 1
+that we choose -> the : 1
+we choose the -> label : 1
+choose the label -> that : 1
+the label that -> has : 1
+label that has -> been : 1
+that has been -> predicted : 1
+has been predicted -> by : 1
+been predicted by -> the : 1
+predicted by the -> majority : 1
+by the majority -> of : 1
+the majority of -> that : 1
+majority of that -> received : 1
+of that received -> more : 1
+that received more -> than : 1
+received more than -> percent : 1
+more than percent -> of : 1
+than percent of -> the : 1
+percent of the -> as : 1
+of the as -> an : 1
+the as an -> the : 1
+as an the -> term : 1
+an the term -> here : 1
+the term here -> is : 1
+term here is -> like : 1
+here is like -> vote : 1
+is like vote -> refers : 1
+like vote refers -> to : 1
+vote refers to -> just : 1
+refers to just -> binary : 1
+to just binary -> class : 1
+just binary class -> settings : 1
+binary class settings -> it : 1
+class settings it -> is : 1
+settings it is -> not : 1
+it is not -> hard : 1
+it is not -> necessary : 1
+is not hard -> to : 1
+not hard to -> generate : 1
+hard to generate -> the : 1
+to generate the -> majority : 1
+generate the majority -> voting : 1
+majority voting principle -> to : 1
+voting principle to -> which : 1
+principle to which -> is : 1
+which is called -> plurality : 1
+is called plurality -> after : 1
+called plurality after -> we : 1
+plurality after we -> will : 1
+after we will -> choose : 1
+we will choose -> the : 1
+will choose the -> class : 1
+choose the class -> label : 1
+the class label -> that : 2
+the class label -> for : 1
+the class label -> via : 1
+the class label -> based : 1
+class label that -> received : 2
+label that received -> the : 2
+that received the -> most : 2
+received the most -> the : 1
+received the most -> m : 1
+the most the -> following : 1
+most the following -> diagram : 1
+the following diagram -> illustrates : 1
+following diagram illustrates -> the : 1
+diagram illustrates the -> concept : 1
+illustrates the concept -> of : 1
+the concept of -> majority : 1
+the concept of -> the : 1
+concept of majority -> and : 1
+of majority and -> plurality : 1
+majority and plurality -> voting : 1
+and plurality voting -> for : 1
+plurality voting for -> an : 1
+voting for an -> ensemble : 1
+for an ensemble -> of : 1
+ensemble of classifers -> where : 1
+of classifers where -> each : 1
+classifers where each -> unique : 1
+where each unique -> symbol : 1
+each unique symbol -> and : 1
+unique symbol and -> represents : 1
+symbol and represents -> a : 1
+and represents a -> unique : 1
+represents a unique -> class : 1
+a unique class -> the : 1
+unique class the -> training : 1
+class the training -> we : 1
+the training we -> start : 1
+the training we -> now : 1
+training we start -> by : 1
+we start by -> training : 1
+start by training -> m : 1
+by training m -> different : 1
+training m different -> classifers : 1
+m different classifers -> c : 1
+different classifers c -> m : 1
+classifers c m -> based : 1
+c m based -> on : 1
+m based on -> the : 1
+on the the -> ensemble : 1
+the the ensemble -> can : 1
+the ensemble can -> be : 1
+ensemble can be -> built : 1
+can be built -> from : 1
+be built from -> many : 1
+built from many -> classification : 1
+from many classification -> for : 1
+many classification for -> decision : 1
+classification for decision -> support : 1
+for decision support -> vector : 1
+decision support vector -> logistic : 1
+support vector logistic -> regression : 1
+vector logistic regression -> and : 1
+logistic regression and -> so : 1
+logistic regression and -> neighbors : 3
+regression and so -> in : 1
+and so in -> you : 1
+so in you -> can : 1
+in you can -> use : 1
+can use the -> same : 1
+use the same -> base : 1
+the same base -> classification : 1
+same base classification -> algorithm : 1
+base classification algorithm -> fitting : 1
+classification algorithm fitting -> different : 1
+algorithm fitting different -> subsets : 1
+fitting different subsets -> of : 1
+different subsets of -> the : 1
+subsets of the -> training : 1
+of the training -> an : 1
+the training an -> example : 1
+training an example -> of : 1
+of this method -> would : 1
+this method would -> be : 1
+method would be -> the : 1
+would be the -> random : 1
+be the random -> forest : 1
+the random forest -> which : 1
+random forest which -> merges : 1
+forest which merges -> many : 1
+which merges many -> decision : 1
+merges many decision -> ensemble : 1
+many decision ensemble -> ways : 1
+decision ensemble ways -> using : 1
+ensemble ways using -> majority : 1
+ways using majority -> predict : 1
+using majority predict -> a : 1
+majority predict a -> class : 1
+predict a class -> label : 1
+a class label -> via : 1
+class label via -> a : 1
+class label via -> majority : 1
+label via a -> simple : 1
+via a simple -> majority : 1
+simple majority or -> plurality : 1
+majority or plurality -> we : 1
+or plurality we -> combine : 1
+plurality we combine -> the : 1
+we combine the -> predicted : 1
+combine the predicted -> class : 1
+the predicted class -> labels : 1
+predicted class labels -> of : 1
+class labels of -> each : 1
+labels of each -> individual : 1
+individual classifer c -> j : 1
+classifer c j -> and : 1
+classifer c j -> returns : 1
+c j and -> select : 1
+j and select -> the : 1
+and select the -> class : 1
+select the class -> label : 1
+the most m -> c : 1
+most m c -> x : 1
+m c x -> in : 1
+c x in -> a : 1
+x in a -> binary : 1
+in a binary -> classification : 1
+binary classification task -> where : 1
+binary classification task -> have : 1
+classification task where -> and : 1
+task where and -> we : 1
+where and we -> can : 1
+write the majority -> vote : 1
+the majority vote -> illustrate : 1
+the majority vote -> decision : 1
+majority vote illustrate -> why : 1
+vote illustrate why -> ensemble : 1
+illustrate why ensemble -> methods : 1
+why ensemble methods -> can : 1
+ensemble methods can -> work : 1
+methods can work -> better : 1
+can work better -> than : 1
+work better than -> individual : 1
+better than individual -> classifiers : 1
+than individual classifiers -> apply : 1
+individual classifiers apply -> the : 1
+classifiers apply the -> simple : 1
+apply the simple -> concepts : 1
+the simple concepts -> of : 1
+simple concepts of -> for : 1
+concepts of for -> the : 1
+of for the -> following : 1
+for the following -> we : 1
+the following we -> make : 1
+the following we -> will : 1
+following we make -> the : 1
+we make the -> assumption : 1
+make the assumption -> that : 1
+the assumption that -> all : 1
+assumption that all -> n : 1
+that all n -> base : 1
+all n base -> classifiers : 1
+n base classifiers -> for : 1
+base classifiers for -> a : 1
+classifiers for a -> binary : 1
+for a binary -> classification : 1
+classification task have -> an : 1
+task have an -> equal : 1
+have an equal -> error : 1
+an equal error -> we : 1
+equal error we -> assume : 1
+error we assume -> that : 1
+we assume that -> the : 1
+assume that the -> classifiers : 1
+assume that the -> classifer : 1
+that the classifiers -> are : 1
+the classifiers are -> independent : 1
+the classifiers are -> weighted : 1
+classifiers are independent -> and : 1
+are independent and -> the : 1
+independent and the -> error : 1
+and the error -> rates : 1
+the error rates -> are : 1
+error rates are -> not : 1
+rates are not -> as : 1
+are not as -> you : 1
+not as you -> can : 1
+you can we -> can : 1
+can we can -> simply : 1
+we can simply -> explain : 1
+can simply explain -> the : 1
+simply explain the -> error : 1
+explain the error -> statistics : 1
+the error statistics -> of : 1
+error statistics of -> an : 1
+statistics of an -> ensemble : 1
+of an ensemble -> of : 1
+of an ensemble -> is : 1
+ensemble of base -> classifiers : 1
+of base classifiers -> as : 1
+of base classifiers -> with : 1
+base classifiers as -> a : 1
+classifiers as a -> function : 1
+as a function -> of : 1
+a function of -> a : 1
+function of a -> binomial : 1
+of a binomial -> k : 1
+a binomial k -> is : 1
+binomial k is -> the : 1
+k is the -> binomial : 1
+is the binomial -> coefficient : 1
+the binomial coefficient -> n : 1
+binomial coefficient n -> choose : 1
+coefficient n choose -> as : 1
+n choose as -> you : 1
+choose as you -> can : 1
+you can you -> can : 1
+can you can -> calculate : 1
+you can calculate -> the : 1
+calculate the probability -> that : 1
+the probability that -> the : 1
+probability that the -> prediction : 1
+that the prediction -> of : 1
+the prediction of -> the : 1
+prediction of the -> ensemble : 1
+of the ensemble -> is : 2
+of the ensemble -> classifer : 1
+of the ensemble -> classifier : 1
+the ensemble is -> take : 1
+the ensemble is -> smaller : 1
+ensemble is take -> a : 1
+is take a -> look : 1
+look at a -> more : 1
+at a more -> concrete : 1
+a more concrete -> example : 1
+more concrete example -> of : 1
+concrete example of -> base : 1
+example of base -> classifiers : 1
+base classifiers with -> an : 1
+classifiers with an -> error : 1
+with an error -> rate : 1
+an error rate -> of : 1
+error rate of -> can : 1
+error rate of -> the : 1
+error rate of -> each : 1
+rate of can -> notice : 1
+of can notice -> that : 1
+can notice that -> the : 1
+notice that the -> error : 1
+notice that the -> depicts : 1
+that the error -> rate : 1
+rate of the -> ensemble : 1
+ensemble is smaller -> than : 1
+is smaller than -> the : 1
+smaller than the -> error : 1
+than the error -> rate : 1
+than the error -> of : 1
+rate of each -> individual : 1
+individual classifer if -> all : 1
+classifer if all -> the : 1
+if all the -> assumptions : 1
+all the assumptions -> are : 1
+the assumptions are -> note : 1
+assumptions are note -> that : 1
+are note that -> in : 1
+note that in -> this : 1
+that in this -> simplified : 1
+in this simplified -> a : 1
+this simplified a -> split : 1
+simplified a split -> by : 1
+a split by -> an : 1
+split by an -> even : 1
+by an even -> number : 1
+an even number -> of : 1
+even number of -> classifiers : 1
+number of classifiers -> n : 1
+of classifiers n -> is : 1
+classifiers n is -> treated : 1
+n is treated -> as : 1
+is treated as -> an : 1
+treated as an -> whereas : 1
+as an whereas -> this : 1
+an whereas this -> is : 1
+whereas this is -> only : 1
+this is only -> true : 1
+is only true -> half : 1
+only true half -> of : 1
+true half of -> the : 1
+half of the -> to : 1
+the to compare -> such : 1
+to compare such -> an : 1
+compare such an -> idealistic : 1
+such an idealistic -> ensemble : 1
+an idealistic ensemble -> classifer : 1
+idealistic ensemble classifer -> to : 1
+ensemble classifer to -> a : 1
+classifer to a -> base : 1
+to a base -> classifer : 1
+a base classifer -> over : 1
+base classifer over -> a : 1
+classifer over a -> range : 1
+over a range -> of : 1
+a range of -> different : 1
+range of different -> base : 1
+of different base -> error : 1
+different base error -> implement : 1
+base error implement -> the : 1
+error implement the -> probability : 1
+implement the probability -> mass : 1
+the probability mass -> function : 1
+probability mass function -> in : 1
+mass function in -> import : 1
+function in import -> def : 1
+in import def -> probability : 1
+import def probability -> for : 1
+def probability for -> q : 1
+probability for q -> in : 1
+for q in -> return : 1
+q in return -> write : 1
+in return write -> some : 1
+return write some -> code : 1
+code to compute -> the : 1
+to compute the -> rates : 1
+to compute the -> receiver : 1
+to compute the -> roc : 1
+to compute the -> curves : 1
+compute the rates -> for : 1
+the rates for -> the : 1
+rates for the -> different : 1
+for the different -> errors : 1
+the different errors -> visualize : 1
+different errors visualize -> the : 1
+errors visualize the -> relationship : 1
+visualize the relationship -> between : 1
+the relationship between -> ensemble : 1
+relationship between ensemble -> and : 1
+between ensemble and -> base : 1
+ensemble and base -> errors : 1
+and base errors -> in : 1
+base errors in -> a : 1
+errors in a -> line : 1
+in a line -> import : 1
+a line import -> numpy : 1
+line import numpy -> as : 1
+import numpy as -> for : 1
+import numpy as -> pij : 1
+import numpy as -> a : 1
+numpy as for -> er : 1
+as for er -> in : 1
+for er in -> import : 1
+er in import -> as : 1
+in import as -> we : 1
+import as we -> can : 1
+as we can -> see : 1
+we can see -> in : 2
+we can see -> that : 1
+in the resulting -> the : 2
+the resulting the -> error : 1
+the resulting the -> ensemble : 1
+resulting the error -> probability : 1
+the error probability -> of : 1
+error probability of -> an : 1
+probability of an -> ensemble : 1
+an ensemble is -> always : 1
+ensemble is always -> better : 1
+is always better -> than : 1
+always better than -> the : 1
+the error of -> an : 1
+error of an -> individual : 1
+of an individual -> base : 1
+an individual base -> classifer : 1
+individual base classifer -> as : 1
+base classifer as -> long : 1
+classifer as long -> as : 1
+as long as -> the : 1
+long as the -> base : 1
+as the base -> classifiers : 1
+the base classifiers -> perform : 1
+base classifiers perform -> better : 1
+classifiers perform better -> than : 1
+perform better than -> random : 1
+better than random -> guessing : 1
+than random guessing -> you : 1
+random guessing you -> should : 1
+guessing you should -> notice : 1
+you should notice -> that : 1
+should notice that -> the : 1
+that the depicts -> the : 1
+the depicts the -> base : 1
+depicts the base -> error : 1
+the base error -> as : 1
+base error as -> well : 1
+error as well -> as : 1
+as well as -> the : 2
+well as the -> ensemble : 1
+well as the -> score : 1
+as the ensemble -> error : 1
+the ensemble error -> a : 1
+ensemble error a -> simple : 1
+error a simple -> majority : 1
+simple majority we -> saw : 1
+majority we saw -> in : 1
+we saw in -> the : 1
+saw in the -> introduction : 1
+in the introduction -> to : 1
+the introduction to -> merge : 1
+introduction to merge -> learning : 1
+to merge learning -> in : 1
+merge learning in -> the : 1
+learning in the -> last : 1
+in the last -> we : 1
+the last we -> will : 1
+last we will -> work : 1
+work with a -> training : 1
+with a training -> and : 1
+and then develop -> a : 1
+then develop a -> simple : 1
+develop a simple -> classifer : 1
+a simple classifer -> for : 1
+simple classifer for -> majority : 1
+classifer for majority -> voting : 1
+for majority voting -> in : 1
+majority voting in -> python : 1
+voting in python -> as : 1
+in python as -> you : 1
+python as you -> can : 1
+can the next -> algorithm : 1
+the next algorithm -> will : 1
+next algorithm will -> work : 1
+algorithm will work -> on : 1
+will work on -> settings : 1
+work on settings -> via : 1
+on settings via -> plurality : 1
+settings via plurality -> you : 1
+via plurality you -> will : 1
+plurality you will -> use : 1
+you will use -> the : 1
+will use the -> term : 1
+use the term -> majority : 1
+the term majority -> voting : 1
+term majority voting -> for : 1
+majority voting for -> simplicity : 1
+voting for simplicity -> as : 1
+for simplicity as -> is : 1
+simplicity as is -> also : 1
+as is also -> often : 1
+is also often -> done : 1
+also often done -> in : 1
+often done in -> the : 1
+done in the -> following : 1
+following we will -> develop : 1
+we will develop -> and : 1
+will develop and -> also : 1
+develop and also -> combine : 1
+and also combine -> different : 1
+also combine different -> classification : 1
+combine different classification -> programs : 1
+different classification programs -> associated : 1
+classification programs associated -> with : 1
+programs associated with -> individual : 1
+associated with individual -> weights : 1
+with individual weights -> for : 1
+individual weights for -> our : 1
+weights for our -> goal : 1
+for our goal -> is : 1
+our goal is -> to : 1
+goal is to -> build : 1
+goal is to -> report : 1
+is to build -> a : 1
+to build a -> stronger : 1
+build a stronger -> that : 1
+a stronger that -> balances : 1
+stronger that balances -> out : 1
+that balances out -> the : 1
+balances out the -> individual : 1
+out the individual -> weaknesses : 1
+the individual weaknesses -> on : 1
+individual weaknesses on -> a : 1
+weaknesses on a -> particular : 1
+on a particular -> in : 1
+a particular in -> more : 1
+particular in more -> precise : 1
+in more precise -> mathematical : 1
+more precise mathematical -> we : 1
+precise mathematical we -> can : 1
+mathematical we can -> write : 1
+write the weighted -> majority : 1
+the weighted majority -> translate : 1
+the weighted majority -> vote : 2
+weighted majority translate -> the : 1
+majority translate the -> concept : 1
+translate the concept -> of : 1
+concept of the -> weighted : 1
+of the weighted -> majority : 1
+weighted majority vote -> into : 1
+weighted majority vote -> based : 1
+majority vote into -> python : 1
+vote into python -> we : 1
+into python we -> can : 1
+python we can -> use : 1
+can use convenient -> argmax : 1
+use convenient argmax -> and : 1
+convenient argmax and -> bincount : 1
+argmax and bincount -> import : 1
+and bincount import -> numpy : 1
+bincount import numpy -> as : 1
+numpy as pij -> is : 1
+as pij is -> the : 1
+pij is the -> predicted : 1
+is the predicted -> probability : 1
+the predicted probability -> of : 1
+predicted probability of -> the : 1
+probability of the -> jth : 1
+of the jth -> classifer : 1
+the jth classifer -> for : 1
+jth classifer for -> class : 1
+classifer for class -> label : 1
+for class label -> to : 1
+class label to -> continue : 1
+label to continue -> with : 1
+to continue with -> our : 1
+continue with our -> previous : 1
+with our previous -> assume : 1
+our previous assume -> that : 1
+previous assume that -> we : 1
+assume that we -> have : 1
+that we have -> a : 1
+we have a -> binary : 1
+have a binary -> classification : 1
+binary classification problem -> with : 1
+classification problem with -> class : 1
+problem with class -> labels : 1
+with class labels -> and : 1
+class labels and -> an : 1
+labels and an -> ensemble : 1
+and an ensemble -> of : 1
+ensemble of three -> classifiers : 1
+of three classifiers -> c : 1
+three classifiers c -> j : 1
+classifiers c j -> assume : 1
+c j assume -> that : 1
+j assume that -> the : 1
+that the classifer -> c : 1
+the classifer c -> j : 1
+c j returns -> the : 1
+j returns the -> following : 1
+returns the following -> class : 1
+the following class -> membership : 1
+following class membership -> probabilities : 1
+class membership probabilities -> for : 1
+membership probabilities for -> a : 1
+probabilities for a -> particular : 1
+for a particular -> sample : 1
+a particular sample -> implement : 1
+particular sample implement -> the : 1
+sample implement the -> weighted : 1
+implement the weighted -> majority : 1
+majority vote based -> on : 2
+vote based on -> class : 1
+vote based on -> the : 1
+based on class -> we : 1
+on class we -> can : 1
+class we can -> again : 1
+we can again -> make : 1
+can again make -> use : 1
+again make use -> of : 1
+make use of -> numpy : 1
+use of numpy -> using : 1
+of numpy using -> and : 1
+numpy using and -> ex : 1
+using and ex -> p : 1
+and ex p -> everything : 1
+ex p everything -> now : 1
+p everything now -> implement : 1
+everything now implement -> a : 1
+now implement a -> majorityvoteclassifier : 1
+implement a majorityvoteclassifier -> in : 1
+a majorityvoteclassifier in -> import : 1
+majorityvoteclassifier in import -> import : 1
+in import import -> import : 1
+import import import -> import : 2
+import import import -> numpy : 1
+import import numpy -> as : 1
+numpy as a -> majority : 1
+as a majority -> vote : 1
+a majority vote -> ensemble : 1
+majority vote ensemble -> shape : 1
+vote ensemble shape -> classifiers : 1
+ensemble shape classifiers -> for : 1
+shape classifiers for -> the : 1
+classifiers for the -> ensemble : 1
+for the ensemble -> the : 1
+the ensemble the -> prediction : 1
+ensemble the prediction -> is : 1
+the prediction is -> based : 1
+prediction is based -> on : 1
+on the argmax -> of : 1
+the argmax of -> class : 1
+argmax of class -> elif : 1
+of class elif -> the : 1
+class elif the -> arg : 1
+elif the arg -> of : 1
+the arg of -> the : 1
+arg of the -> total : 1
+of the total -> of : 1
+the total of -> probs : 1
+total of probs -> is : 1
+of probs is -> used : 1
+probs is used -> to : 1
+is used to -> predict : 1
+used to predict -> the : 1
+to predict the -> class : 3
+predict the class -> label : 3
+class label for -> calibrated : 1
+label for calibrated -> s : 1
+for calibrated s -> a : 1
+calibrated s a -> list : 1
+s a list -> of : 1
+a list of -> or : 1
+list of or -> values : 1
+of or values -> are : 1
+or values are -> the : 1
+values are the -> classifiers : 1
+are the classifiers -> are : 1
+classifiers are weighted -> by : 1
+are weighted by -> value : 1
+weighted by value -> value : 1
+by value value -> sparse : 1
+value value sparse -> of : 1
+value sparse of -> training : 1
+sparse of training -> sh : 1
+of training sh -> of : 1
+of training sh -> class : 1
+training sh of -> target : 1
+sh of target -> class : 1
+of target class -> use : 1
+target class use -> labelencoder : 1
+class use labelencoder -> to : 1
+use labelencoder to -> ensure : 1
+labelencoder to ensure -> class : 1
+to ensure class -> labels : 1
+ensure class labels -> with : 1
+class labels with -> which : 1
+labels with which -> is : 1
+which is important -> for : 1
+is important for -> call : 1
+important for call -> in : 1
+for call in -> cl : 1
+call in cl -> in : 1
+in cl in -> added : 1
+cl in added -> a : 1
+in added a -> lot : 1
+added a lot -> of : 1
+a lot of -> comments : 1
+lot of comments -> to : 1
+of comments to -> the : 1
+comments to the -> code : 1
+to the code -> to : 1
+the code to -> better : 1
+code to better -> understand : 1
+to better understand -> the : 1
+better understand the -> individual : 1
+understand the individual -> before : 1
+the individual before -> we : 1
+individual before we -> implement : 1
+before we implement -> the : 1
+we implement the -> remaining : 1
+implement the remaining -> take : 1
+the remaining take -> a : 1
+remaining take a -> quick : 1
+take a quick -> break : 1
+a quick break -> and : 1
+quick break and -> discuss : 1
+break and discuss -> some : 1
+and discuss some -> of : 1
+discuss some of -> the : 1
+of the code -> that : 1
+the code that -> may : 1
+code that may -> look : 1
+that may look -> confusing : 1
+may look confusing -> at : 1
+look confusing at -> we : 1
+confusing at we -> used : 1
+at we used -> the : 1
+we used the -> parent : 1
+used the parent -> classes : 1
+the parent classes -> baseestimator : 1
+parent classes baseestimator -> and : 1
+classes baseestimator and -> classifiermixin : 1
+baseestimator and classifiermixin -> to : 1
+and classifiermixin to -> get : 1
+classifiermixin to get -> some : 1
+to get some -> base : 1
+get some base -> functionality : 1
+some base functionality -> for : 1
+base functionality for -> including : 1
+functionality for including -> the : 1
+for including the -> methods : 1
+including the methods -> and : 1
+the methods and -> to : 1
+methods and to -> set : 1
+and to set -> and : 1
+to set and -> return : 1
+set and return -> the : 1
+and return the -> parameters : 1
+return the parameters -> as : 1
+the parameters as -> well : 1
+parameters as well -> as : 1
+as the score -> method : 1
+the score method -> to : 1
+score method to -> calculate : 1
+method to calculate -> the : 1
+calculate the prediction -> note : 1
+the prediction note -> that : 1
+prediction note that -> we : 1
+note that we -> imported : 1
+that we imported -> six : 1
+we imported six -> to : 1
+imported six to -> make : 1
+six to make -> the : 1
+make the majorityvoteclassifier -> compatible : 1
+the majorityvoteclassifier compatible -> with : 1
+majorityvoteclassifier compatible with -> python : 1
+compatible with python -> we : 1
+with python we -> will : 1
+python we will -> add : 1
+we will add -> the : 1
+will add the -> predict : 1
+add the predict -> method : 1
+the predict method -> to : 1
+predict method to -> predict : 1
+method to predict -> the : 1
+label via majority -> vote : 1
+via majority vote -> based : 1
+on the class -> labels : 1
+on the class -> membership : 1
+the class labels -> if : 1
+class labels if -> we : 1
+labels if we -> initialize : 1
+if we initialize -> a : 1
+we initialize a -> new : 1
+initialize a new -> majorityvoteclassifier : 1
+a new majorityvoteclassifier -> object : 1
+new majorityvoteclassifier object -> with : 1
+majorityvoteclassifier object with -> we : 1
+object with we -> will : 1
+with we will -> be : 1
+we will be -> able : 1
+will be able -> to : 1
+able to initialize -> the : 1
+to initialize the -> ensemble : 1
+initialize the ensemble -> classifer : 1
+the ensemble classifer -> with : 1
+the ensemble classifer -> also : 1
+the ensemble classifer -> actually : 1
+ensemble classifer with -> to : 1
+classifer with to -> predict : 1
+with to predict -> the : 1
+class label based -> on : 1
+label based on -> the : 1
+the class membership -> we : 1
+class membership we -> will : 1
+membership we will -> also : 1
+we will also -> add : 1
+will also add -> a : 1
+also add a -> method : 1
+add a method -> to : 1
+method to return -> the : 1
+return the average -> which : 1
+the average which -> is : 1
+average which is -> useful : 1
+which is useful -> to : 1
+is useful to -> compute : 1
+useful to compute -> the : 1
+compute the receiver -> operator : 1
+the receiver operator -> characteristic : 1
+receiver operator characteristic -> area : 1
+operator characteristic area -> under : 1
+characteristic area under -> the : 1
+area under the -> curve : 1
+under the curve -> pre : 1
+the curve pre -> class : 1
+curve pre class -> labels : 1
+pre class labels -> for : 1
+class labels for -> spar : 1
+labels for spar -> of : 1
+for spar of -> training : 1
+spar of training -> sh : 1
+training sh class -> cl : 1
+sh class cl -> prediction : 1
+class cl prediction -> for : 1
+cl prediction for -> sp : 1
+prediction for sp -> where : 1
+for sp where -> is : 1
+sp where is -> the : 1
+where is the -> number : 1
+is the number -> of : 2
+number of samples -> and : 1
+of samples and -> is : 1
+samples and is -> the : 1
+and is the -> number : 1
+number of average -> probability : 1
+of average probability -> for : 1
+average probability for -> each : 1
+probability for each -> class : 1
+for each class -> per : 1
+each class per -> cl : 1
+class per cl -> in : 1
+per cl in -> get : 1
+cl in get -> classifier : 1
+in get classifier -> parameter : 1
+get classifier parameter -> names : 1
+classifier parameter names -> for : 1
+parameter names for -> not : 1
+names for not -> step : 1
+for not step -> value : 1
+not step value -> in : 1
+step value in -> different : 1
+value in different -> algorithms : 1
+in different algorithms -> for : 1
+with majority it -> is : 1
+majority it is -> about : 1
+it is about -> time : 1
+is about time -> to : 1
+about time to -> put : 1
+time to put -> the : 1
+to put the -> mvc : 1
+put the mvc -> that : 1
+the mvc that -> we : 1
+mvc that we -> implemented : 1
+that we implemented -> in : 1
+we implemented in -> the : 1
+implemented in the -> previous : 1
+in the previous -> section : 1
+the previous section -> into : 1
+previous section into -> you : 1
+section into you -> should : 1
+into you should -> first : 1
+should first prepare -> a : 1
+first prepare a -> dataset : 1
+prepare a dataset -> that : 1
+a dataset that -> you : 1
+dataset that you -> can : 1
+you can test -> it : 1
+can test it -> since : 1
+test it since -> we : 1
+it since we -> are : 1
+since we are -> already : 1
+we are already -> familiar : 1
+are already familiar -> with : 1
+already familiar with -> techniques : 1
+familiar with techniques -> to : 1
+with techniques to -> load : 1
+techniques to load -> datasets : 1
+to load datasets -> from : 1
+load datasets from -> csv : 1
+datasets from csv -> we : 1
+from csv we -> will : 1
+csv we will -> take : 1
+we will take -> a : 1
+take a shortcut -> and : 1
+a shortcut and -> load : 1
+shortcut and load -> the : 1
+and load the -> iris : 1
+load the iris -> dataset : 1
+the iris dataset -> from : 1
+iris dataset from -> dataset : 1
+dataset from dataset -> we : 1
+from dataset we -> will : 1
+dataset we will -> only : 1
+we will only -> select : 1
+we will only -> classify : 1
+will only select -> two : 1
+only select two -> sepal : 1
+select two sepal -> width : 1
+two sepal width -> and : 1
+sepal width and -> petal : 1
+width and petal -> to : 1
+and petal to -> make : 1
+petal to make -> the : 1
+make the classification -> task : 1
+the classification task -> more : 1
+classification task more -> although : 1
+task more although -> our : 1
+more although our -> or : 1
+although our or -> generalizes : 1
+our or generalizes -> to : 1
+or generalizes to -> multiclass : 1
+generalizes to multiclass -> we : 1
+to multiclass we -> will : 1
+multiclass we will -> only : 1
+will only classify -> flower : 1
+only classify flower -> samples : 1
+classify flower samples -> from : 1
+flower samples from -> the : 1
+samples from the -> two : 1
+from the two -> and : 1
+the two and -> to : 1
+two and to -> compute : 1
+and to compute -> the : 1
+compute the roc -> the : 1
+the roc the -> code : 1
+roc the code -> is : 1
+the code is -> as : 2
+code is as -> import : 1
+code is as -> for : 1
+is as import -> sklearn : 1
+as import sklearn -> as : 1
+import sklearn as -> import : 1
+sklearn as import -> as : 1
+as import as -> ir : 1
+import as ir -> y : 1
+as ir y -> le : 1
+ir y le -> y : 1
+y le y -> we : 1
+le y we -> split : 1
+y we split -> the : 1
+we split the -> iris : 1
+split the iris -> samples : 1
+the iris samples -> into : 1
+iris samples into -> percent : 1
+samples into percent -> training : 1
+into percent training -> and : 1
+percent training and -> percent : 1
+training and percent -> test : 1
+and percent test -> the : 1
+percent test the -> training : 1
+test the training -> we : 1
+training we now -> will : 1
+we now will -> train : 1
+now will train -> three : 1
+will train three -> different : 1
+train three different -> classifiers : 1
+three different classifiers -> a : 1
+different classifiers a -> logistic : 1
+classifiers a logistic -> regression : 1
+a logistic regression -> a : 1
+logistic regression a -> decision : 1
+regression a decision -> tree : 1
+a decision tree -> and : 1
+decision tree and -> a : 1
+tree and a -> neighbors : 1
+and a neighbors -> classifier : 1
+a neighbors classifier -> and : 1
+neighbors classifier and -> look : 1
+classifier and look -> at : 1
+and look at -> their : 1
+look at their -> individual : 1
+at their individual -> performances : 1
+their individual performances -> via : 1
+individual performances via -> a : 1
+performances via a -> on : 1
+via a on -> the : 1
+a on the -> training : 1
+on the training -> dataset : 1
+the training dataset -> before : 1
+training dataset before -> we : 1
+dataset before we -> merge : 1
+before we merge -> them : 1
+we merge them -> into : 1
+merge them into -> an : 1
+them into an -> ensemble : 1
+into an ensemble -> the : 1
+an ensemble the -> as : 1
+ensemble the as -> cl : 1
+the as cl -> cross : 1
+as cl cross -> for : 1
+cl cross for -> label : 1
+cross for label -> in : 1
+for label in -> sc : 2
+label in sc -> output : 1
+label in sc -> the : 1
+in sc output -> that : 1
+sc output that -> we : 1
+output that we -> as : 1
+that we as -> shown : 1
+we as shown -> in : 1
+as shown in -> the : 1
+shown in the -> following : 1
+the following shows -> that : 1
+following shows that -> performances : 1
+shows that performances -> of : 1
+that performances of -> the : 1
+performances of the -> individual : 1
+of the individual -> classifiers : 1
+the individual classifiers -> are : 1
+the individual classifiers -> for : 1
+the individual classifiers -> in : 1
+individual classifiers are -> almost : 1
+classifiers are almost -> cross : 1
+are almost cross -> may : 1
+almost cross may -> be : 1
+cross may be -> wondering : 1
+may be wondering -> why : 1
+be wondering why -> we : 1
+wondering why we -> trained : 1
+why we trained -> the : 1
+we trained the -> logistic : 1
+trained the logistic -> regression : 1
+the logistic regression -> and : 1
+the logistic regression -> classifier : 1
+regression and neighbors -> classifier : 1
+regression and neighbors -> algorithms : 1
+regression and neighbors -> pipelines : 1
+and neighbors classifier -> as : 1
+neighbors classifier as -> part : 1
+classifier as part -> of : 1
+as part of -> a : 1
+part of a -> the : 1
+of a the -> cause : 1
+a the cause -> here : 1
+the cause here -> is : 1
+cause here is -> as : 1
+here is as -> we : 1
+is as we -> logistic : 1
+as we logistic -> regression : 1
+we logistic regression -> and : 1
+and neighbors algorithms -> the : 1
+neighbors algorithms the -> euclidean : 1
+algorithms the euclidean -> distance : 1
+the euclidean distance -> are : 1
+euclidean distance are -> not : 1
+distance are not -> in : 1
+are not in -> contrast : 1
+not in contrast -> with : 1
+in contrast with -> decision : 1
+contrast with decision -> the : 1
+with decision the -> ir : 1
+decision the ir -> advantages : 1
+the ir advantages -> are : 1
+ir advantages are -> all : 1
+advantages are all -> measured : 1
+are all measured -> on : 1
+all measured on -> the : 1
+measured on the -> same : 1
+the same it -> is : 1
+same it is -> a : 1
+it is a -> good : 1
+a good habit -> to : 1
+good habit to -> work : 1
+habit to work -> with : 1
+work with standardized -> move : 1
+with standardized move -> on : 1
+standardized move on -> to : 1
+move on to -> the : 1
+on to the -> more : 1
+to the more -> exciting : 1
+the more exciting -> part : 1
+more exciting part -> and : 1
+exciting part and -> combine : 1
+part and combine -> the : 1
+and combine the -> individual : 1
+combine the individual -> classifiers : 1
+individual classifiers for -> majority : 1
+classifiers for majority -> rule : 1
+for majority rule -> voting : 1
+majority rule voting -> in : 1
+rule voting in -> our : 1
+voting in our -> for : 1
+in our for -> label : 1
+our for label -> in : 1
+in sc the -> output : 1
+sc the output -> of : 1
+the output of -> the : 1
+output of the -> majorityvotingclassifier : 1
+of the majorityvotingclassifier -> has : 1
+the majorityvotingclassifier has -> substantially : 1
+majorityvotingclassifier has substantially -> improved : 1
+has substantially improved -> over : 1
+substantially improved over -> the : 1
+improved over the -> individual : 1
+over the individual -> classifiers : 1
+individual classifiers in -> the : 1
+classifiers in the -> this : 1
+in the this -> you : 1
+the this you -> are : 1
+this you are -> going : 1
+you are going -> to : 1
+are going to -> compute : 1
+going to compute -> the : 1
+compute the curves -> from : 1
+the curves from -> the : 1
+curves from the -> test : 1
+from the test -> set : 1
+the test set -> to : 1
+the test set -> will : 1
+the test set -> auc : 1
+test set to -> check : 1
+set to check -> if : 1
+to check if -> the : 1
+check if the -> generalizes : 1
+if the generalizes -> well : 1
+the generalizes well -> to : 1
+generalizes well to -> unseen : 1
+well to unseen -> we : 1
+to unseen we -> should : 1
+unseen we should -> remember : 1
+we should remember -> that : 1
+should remember that -> the : 1
+remember that the -> test : 1
+that the test -> set : 1
+test set will -> not : 1
+set will not -> be : 1
+will not be -> used : 1
+not be used -> for : 1
+used for model -> the : 1
+for model the -> only : 1
+model the only -> goal : 1
+the only goal -> is : 1
+only goal is -> to : 1
+is to report -> an : 1
+to report an -> estimate : 1
+report an estimate -> of : 1
+an estimate of -> the : 1
+estimate of the -> accuracy : 1
+of the accuracy -> of : 1
+accuracy of a -> classifer : 1
+of a classifer -> take : 1
+a classifer take -> a : 1
+classifer take a -> look : 1
+look at import -> from : 1
+at import from -> import : 1
+import from import -> for : 1
+from import for -> l : 1
+import for l -> in : 1
+for l in -> thresholds : 1
+l in thresholds -> positive : 1
+in thresholds positive -> positive : 1
+thresholds positive positive -> we : 1
+positive positive we -> can : 1
+positive we can -> see : 1
+resulting the ensemble -> classifer : 1
+ensemble classifer also -> performs : 1
+classifer also performs -> well : 1
+also performs well -> on : 1
+performs well on -> the : 1
+well on the -> test : 1
+test set auc -> whereas : 1
+set auc whereas -> the : 1
+auc whereas the -> neighbors : 1
+whereas the neighbors -> classifer : 1
+the neighbors classifer -> seems : 1
+neighbors classifer seems -> to : 1
+classifer seems to -> be : 1
+seems to be -> the : 1
+be the training -> data : 1
+training data roc -> auc : 1
+data roc auc -> test : 1
+roc auc test -> roc : 1
+auc test roc -> auc : 1
+test roc auc -> only : 1
+roc auc only -> choose : 1
+auc only choose -> two : 1
+only choose two -> features : 1
+choose two features -> for : 1
+two features for -> the : 1
+features for the -> classification : 1
+for the classification -> it : 1
+the classification it -> will : 1
+classification it will -> be : 1
+will be interesting -> to : 1
+be interesting to -> show : 1
+interesting to show -> what : 1
+to show what -> the : 1
+show what the -> decision : 1
+what the decision -> region : 1
+the decision region -> of : 1
+decision region of -> the : 1
+region of the -> ensemble : 1
+ensemble classifer actually -> looks : 1
+classifer actually looks -> although : 1
+actually looks although -> it : 1
+looks although it -> is : 1
+although it is -> not : 1
+is not necessary -> to : 1
+not necessary to -> standardize : 1
+necessary to standardize -> the : 1
+to standardize the -> training : 1
+standardize the training -> features : 1
+the training features -> prior : 1
+training features prior -> to : 1
+features prior to -> model : 1
+prior to model -> to : 1
+to model to -> fit : 1
+model to fit -> because : 1
+to fit because -> our : 1
+fit because our -> logistic : 1
+because our logistic -> regression : 1
+our logistic regression -> and : 1
+and neighbors pipelines -> will : 1
+neighbors pipelines will -> automatically : 1
+pipelines will automatically -> take : 1
+will automatically take -> care : 1
+automatically take care -> of : 1
+take care of -> you : 1
+care of you -> will : 1
+of you will -> make : 1
+you will make -> the : 1
+will make the -> training : 1
+make the training -> set : 1
+training set so -> that : 1
+set so that -> the : 1
+so that the -> decision : 1
+that the decision -> regions : 1
+the decision regions -> of : 2
+the decision regions -> from : 1
+decision regions of -> the : 2
+regions of the -> decision : 1
+regions of the -> ensemble : 1
+of the decision -> tree : 1
+of the decision -> regions : 1
+the decision tree -> will : 1
+the decision tree -> you : 1
+the decision tree -> depth : 1
+decision tree will -> be : 1
+tree will be -> on : 1
+will be on -> the : 1
+be on the -> same : 1
+the same scale -> for : 1
+same scale for -> visual : 1
+scale for visual -> take : 1
+for visual take -> a : 1
+visual take a -> sc : 1
+take a sc -> itertools : 1
+a sc itertools -> import : 1
+sc itertools import -> yy : 1
+itertools import yy -> axarr : 1
+import yy axarr -> for : 1
+yy axarr for -> tt : 1
+axarr for tt -> in : 1
+for tt in -> z : 1
+tt in z -> z : 1
+in z z -> wid : 1
+z z wid -> but : 1
+z wid but -> also : 1
+wid but also -> as : 1
+but also as -> the : 1
+also as the -> decision : 1
+as the decision -> regions : 1
+the ensemble classifier -> seem : 1
+ensemble classifier seem -> to : 1
+classifier seem to -> be : 1
+seem to be -> a : 1
+to be a -> hybrid : 1
+be a hybrid -> of : 1
+a hybrid of -> the : 1
+hybrid of the -> decision : 1
+decision regions from -> the : 1
+regions from the -> individual : 1
+from the individual -> at : 1
+the individual at -> first : 1
+individual at first -> the : 1
+at first the -> majority : 1
+first the majority -> vote : 1
+majority vote decision -> boundary : 1
+vote decision boundary -> looks : 1
+decision boundary looks -> a : 1
+boundary looks a -> lot : 1
+looks a lot -> like : 1
+a lot like -> the : 1
+lot like the -> decision : 1
+like the decision -> boundary : 1
+like the decision -> tree : 1
+the decision boundary -> of : 1
+decision boundary of -> the : 1
+boundary of the -> neighbor : 1
+of the neighbor -> we : 1
+the neighbor we -> can : 1
+neighbor we can -> see : 1
+see that it -> is : 1
+that it is -> orthogonal : 1
+it is orthogonal -> to : 1
+is orthogonal to -> the : 1
+orthogonal to the -> y : 1
+to the y -> axis : 1
+the y axis -> for : 1
+y axis for -> sepal : 1
+axis for sepal -> width : 1
+for sepal width -> just : 1
+sepal width just -> like : 1
+width just like -> the : 1
+just like the -> decision : 1
+decision tree you -> learn : 1
+tree you learn -> how : 1
+you learn how -> to : 1
+how to tune -> the : 1
+to tune the -> individual : 1
+tune the individual -> classifer : 1
+the individual classifer -> parameters : 1
+individual classifer parameters -> for : 1
+classifer parameters for -> ensemble : 1
+parameters for ensemble -> call : 1
+for ensemble call -> the : 1
+ensemble call the -> method : 1
+call the method -> to : 1
+the method to -> find : 1
+method to find -> an : 1
+to find an -> essential : 1
+find an essential -> idea : 1
+an essential idea -> of : 1
+essential idea of -> how : 1
+idea of how -> we : 1
+of how we -> can : 1
+how we can -> access : 1
+we can access -> the : 1
+can access the -> individual : 1
+access the individual -> parameters : 1
+access the individual -> work : 1
+the individual parameters -> inside : 1
+individual parameters inside -> a : 1
+parameters inside a -> gridsearch : 1
+inside a gridsearch -> on : 1
+a gridsearch on -> the : 1
+gridsearch on the -> values : 1
+on the values -> returned : 1
+the values returned -> by : 1
+values returned by -> the : 1
+returned by the -> you : 1
+by the you -> now : 1
+the you now -> know : 1
+now know how -> to : 1
+know how to -> access : 1
+how to access -> the : 1
+the individual work -> with : 1
+individual work with -> the : 1
+with the inverse -> regularization : 1
+the inverse regularization -> parameter : 1
+inverse regularization parameter -> c : 1
+regularization parameter c -> of : 1
+parameter c of -> the : 1
+c of the -> logistic : 1
+of the logistic -> regression : 1
+logistic regression classifier -> and : 1
+regression classifier and -> the : 1
+classifier and the -> decision : 1
+and the decision -> tree : 1
+decision tree depth -> via : 1
+tree depth via -> a : 1
+depth via a -> grid : 1
+via a grid -> search : 1
+a grid search -> for : 1
+grid search for -> demonstration : 1
+search for demonstration -> take : 1
+for demonstration take -> a : 1
+demonstration take a -> look : 1
+a look from -> import : 1
+look from import -> params : 1
+from import params -> gd : 1
+import params gd -> the : 1
+params gd the -> grid : 1
+gd the grid -> search : 1
+the grid search -> has : 1
+grid search has -> we : 1
+search has we -> can : 1
+has we can -> print : 1
+we can print -> the : 1
+can print the -> different : 1
+print the different -> hyper : 1
+the different hyper -> parameter : 1
+different hyper parameter -> value : 1
+hyper parameter value -> combinations : 1
+parameter value combinations -> and : 1
+value combinations and -> the : 1
+combinations and the -> average : 1
+and the average -> ac : 1
+the average ac -> scores : 1
+average ac scores -> computed : 1
+ac scores computed -> through : 1
+scores computed through -> the : 1
+computed through the -> code : 1
+through the code -> is : 1
+is as for -> scores : 1
+as for scores -> in : 1
+for scores in -> how : 1
+scores in how -> to : 1
+in how to -> combine : 1
+how to combine -> different : 1
+to combine different -> models : 1
+combine different models -> in : 1
+different models in -> are : 1
+models in are -> the : 1
+in are the -> goals : 1
+are the goals -> and : 1
+the goals and -> benefits : 1
+goals and benefits -> of : 1
+and benefits of -> combining : 1

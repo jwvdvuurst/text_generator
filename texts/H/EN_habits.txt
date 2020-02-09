@@ -1,0 +1,3861 @@
+walter : 1
+brought : 1
+doors : 1
+windows : 1
+prove : 1
+experiments : 1
+given : 1
+told : 1
+leave : 1
+came : 1
+outside : 1
+tracked : 1
+greater : 1
+left : 1
+immediately : 1
+walked : 1
+another : 1
+finally : 1
+doubt : 1
+eternity : 1
+candy : 1
+interested : 1
+whether : 1
+age : 1
+developmental : 1
+older : 1
+giving : 1
+largely : 1
+approximately : 1
+unexpectedly : 1
+revisit : 1
+findings : 1
+shake : 1
+happened : 1
+subjects : 1
+original : 1
+including : 1
+dragged : 1
+friends : 1
+grew : 1
+became : 1
+ignore : 1
+fact : 1
+kids : 1
+demonstrated : 1
+trouble : 1
+school : 1
+poor : 1
+ones : 1
+showed : 1
+perfect : 1
+display : 1
+delayed : 1
+scoring : 1
+high : 1
+admitted : 1
+prestigious : 1
+decided : 1
+track : 1
+see : 1
+young : 1
+seismic : 1
+continues : 1
+academic : 1
+professional : 1
+almost : 1
+standardized : 1
+household : 1
+conducted : 1
+similar : 1
+physically : 1
+academically : 1
+financially : 1
+rated : 1
+subjective : 1
+quality : 1
+produced : 1
+sat : 1
+stable : 1
+relationships : 1
+suffered : 1
+fewer : 1
+future : 1
+eluded : 1
+measurement : 1
+iq : 1
+originally : 1
+invented : 1
+measurements : 1
+proved : 1
+appeared : 1
+stumbled : 1
+upon : 1
+reliable : 1
+dwindling : 1
+virtue : 1
+society : 1
+obese : 1
+today : 1
+world : 1
+attention : 1
+spans : 1
+cases : 1
+anxiety : 1
+disorders : 1
+depression : 1
+emphasis : 1
+paying : 1
+roy : 1
+baumeister : 1
+made : 1
+startling : 1
+resisting : 1
+cookies : 1
+placed : 1
+puzzles : 1
+indulged : 1
+perhaps : 1
+fluke : 1
+particularly : 1
+hungry : 1
+reproducing : 1
+exerting : 1
+subsequent : 1
+means : 1
+finite : 1
+prone : 1
+ourselves : 1
+base : 1
+phenomenon : 1
+referred : 1
+psychology : 1
+hard : 1
+sloth : 1
+couch : 1
+strict : 1
+convince : 1
+entire : 1
+justified : 1
+tequila : 1
+exposing : 1
+information : 1
+depresses : 1
+well : 1
+conserve : 1
+practicing : 1
+trick : 1
+jumps : 1
+halo : 1
+smacking : 1
+boss : 1
+face : 1
+tomorrow : 1
+yells : 1
+figure : 1
+trying : 1
+business : 1
+barely : 1
+current : 1
+news : 1
+exercised : 1
+weakened : 1
+strength : 1
+discipline : 1
+draining : 1
+slow : 1
+loss : 1
+show : 1
+competitive : 1
+mood : 1
+restorative : 1
+effects : 1
+strangely : 1
+glycogen : 1
+sugar : 1
+catastrophic : 1
+adolescent : 1
+become : 1
+afterthought : 1
+muscle : 1
+crap : 1
+excited : 1
+others : 1
+struggle : 1
+pour : 1
+superhuman : 1
+genetically : 1
+enhanced : 1
+extent : 1
+blowing : 1
+productivity : 1
+argument : 1
+consistently : 1
+loaf : 1
+college : 1
+staying : 1
+couple : 1
+term : 1
+paper : 1
+screwing : 1
+weeks : 1
+ways : 1
+regret : 1
+situation : 1
+capable : 1
+without : 1
+breaking : 1
+major : 1
+sales : 1
+pitch : 1
+happens : 1
+stick : 1
+example : 1
+pick : 1
+whichever : 1
+starvation : 1
+appeals : 1
+approach : 1
+whole : 1
+ordeal : 1
+perspective : 1
+skip : 1
+force : 1
+myself : 1
+survives : 1
+crass : 1
+assault : 1
+now : 1
+depleted : 1
+catches : 1
+margaritas : 1
+take : 1
+right : 1
+hour : 1
+gas : 1
+cave : 1
+fate : 1
+staggering : 1
+gain : 1
+usually : 1
+peruse : 1
+fitness : 1
+nutrition : 1
+magazines : 1
+anyone : 1
+added : 1
+tell : 1
+integrating : 1
+appropriate : 1
+taste : 1
+finding : 1
+enjoy : 1
+subject : 1
+heart : 1
+between : 1
+ultimately : 1
+plan : 1
+specific : 1
+regimen : 1
+exerted : 1
+changes : 1
+sustainable : 1
+drastic : 1
+shifts : 1
+hope : 1
+maintaining : 1
+year : 1
+achieving : 1
+temporary : 1
+fixes : 1
+expended : 1
+person : 1
+practices : 1
+instrument : 1
+learns : 1
+language : 1
+spare : 1
+goes : 1
+budgets : 1
+finances : 1
+calls : 1
+mother : 1
+feeds : 1
+saves : 1
+babies : 1
+burning : 1
+moment : 1
+against : 1
+wave : 1
+deplete : 1
+multiple : 1
+none : 1
+slowly : 1
+sexy : 1
+bother : 1
+doing : 1
+need : 1
+presence : 1
+save : 1
+encounter : 1
+book : 1
+charles : 1
+duhigg : 1
+summarizes : 1
+countless : 1
+comprised : 1
+main : 1
+behavioral : 1
+removal : 1
+unpleasant : 1
+cravings : 1
+typically : 1
+triggered : 1
+associate : 1
+finishing : 1
+drinking : 1
+seeing : 1
+smoking : 1
+cigarette : 1
+triggers : 1
+perform : 1
+habituated : 1
+rewards : 1
+calmer : 1
+nicotine : 1
+researchers : 1
+break : 1
+old : 1
+spend : 1
+eliminating : 1
+dedicating : 1
+reorganizing : 1
+environment : 1
+trigger : 1
+say : 1
+seem : 1
+semantic : 1
+choose : 1
+occurs : 1
+regularly : 1
+during : 1
+early : 1
+stages : 1
+changing : 1
+fill : 1
+water : 1
+bottle : 1
+hit : 1
+trail : 1
+position : 1
+notice : 1
+takes : 1
+throw : 1
+clothes : 1
+off : 1
+component : 1
+equation : 1
+above : 1
+used : 1
+reinforce : 1
+target : 1
+completed : 1
+might : 1
+snack : 1
+schedule : 1
+rest : 1
+watching : 1
+episode : 1
+favorite : 1
+tv : 1
+derive : 1
+itself : 1
+acts : 1
+powerful : 1
+reinforcement : 1
+whatever : 1
+incorporate : 1
+shows : 1
+brains : 1
+simply : 1
+sum : 1
+repetitive : 1
+achieved : 1
+come : 1
+repeating : 1
+context : 1
+causes : 1
+quick : 1
+stands : 1
+amount : 1
+gains : 1
+towards : 1
+automating : 1
+repeated : 1
+refined : 1
+switches : 1
+guided : 1
+motivations : 1
+manipulate : 1
+leverage : 1
+help : 1
+us : 1
+strong : 1
+slip : 1
+identified : 1
+several : 1
+contribute : 1
+knowing : 1
+basics : 1
+significantly : 1
+rid : 1
+bad : 1
+educating : 1
+reading : 1
+gives : 1
+leg : 1
+factor : 1
+perceive : 1
+sounds : 1
+serious : 1
+daunting : 1
+because : 1
+walking : 1
+very : 1
+therefore : 1
+beautiful : 1
+thing : 1
+adopted : 1
+version : 1
+amp : 1
+try : 1
+calisthenics : 1
+key : 1
+bar : 1
+suffer : 1
+chronic : 1
+expect : 1
+quantum : 1
+least : 1
+marathons : 1
+four : 1
+increased : 1
+gained : 1
+knew : 1
+ridiculously : 1
+overweight : 1
+basement : 1
+bike : 1
+kept : 1
+him : 1
+engaged : 1
+overwhelmed : 1
+healthier : 1
+things : 1
+keep : 1
+consistency : 1
+missing : 1
+handful : 1
+opportunities : 1
+ruin : 1
+beat : 1
+miss : 1
+pig : 1
+acknowledge : 1
+process : 1
+acquire : 1
+everyone : 1
+products : 1
+promise : 1
+read : 1
+faster : 1
+retire : 1
+months : 1
+limitations : 1
+eliminate : 1
+word : 1
+jonathan : 1
+franzen : 1
+said : 1
+nothing : 1
+written : 1
+laptop : 1
+internet : 1
+circumstances : 1
+product : 1
+disconnecting : 1
+require : 1
+ingrained : 1
+asking : 1
+step : 1
+further : 1
+ask : 1
+raskoff : 1
+attentional : 1
+mechanisms : 1
+gradient : 1
+childhood : 1
+predicts : 1
+national : 1
+academy : 1
+decomposing : 1
+affective : 1
+active : 1
+self : 1
+limited : 1
+restoring : 1
+affect : 1
+improve : 1
+experimental : 1
+unlocking : 1
+dynamics : 1
+linking : 1
+functioning : 1
+benefits : 1
+implementation : 1
+depend : 1
+consumer : 1
+predicting : 1
+case : 1
+physical : 1
+sport : 1
+van : 1
+modeling : 1
+formation : 1
+real : 1
+efficacy : 1
+control : 1
+gave : 2
+psychologist : 2
+famous : 2
+put : 2
+single : 2
+eat : 2
+two : 2
+wait : 2
+indulge : 2
+impulses : 2
+ate : 2
+soon : 2
+full : 2
+front : 2
+believed : 2
+correlated : 2
+sure : 2
+got : 2
+psychological : 2
+daughter : 2
+years : 2
+harder : 2
+down : 2
+ended : 2
+results : 2
+reason : 2
+success : 2
+any : 2
+mental : 2
+definitive : 2
+predictor : 2
+close : 2
+failed : 2
+higher : 2
+always : 2
+forced : 2
+worse : 2
+certain : 2
+use : 2
+far : 2
+ice : 2
+studying : 2
+exam : 2
+public : 2
+may : 2
+important : 2
+enough : 2
+practiced : 2
+build : 2
+accomplishing : 2
+putting : 2
+threshold : 2
+becomes : 2
+probably : 2
+biggest : 2
+wish : 2
+sessions : 2
+own : 2
+diet : 2
+arbitrary : 2
+implement : 2
+form : 2
+turn : 2
+three : 2
+times : 2
+depletion : 2
+decisions : 2
+based : 2
+add : 2
+successfully : 2
+maintained : 2
+forcing : 2
+way : 2
+actually : 2
+forward : 2
+bit : 2
+course : 2
+worked : 2
+following : 2
+whereas : 2
+think : 2
+internal : 2
+burn : 2
+within : 2
+focusing : 2
+implementing : 2
+engage : 2
+familiar : 2
+environmental : 2
+energy : 2
+regular : 2
+power : 2
+formed : 2
+someone : 2
+desire : 2
+helps : 2
+create : 2
+routine : 2
+already : 2
+straight : 2
+head : 2
+running : 2
+treat : 2
+session : 2
+gradually : 2
+basis : 2
+relatively : 2
+increase : 2
+practice : 2
+cues : 2
+environments : 2
+behaviors : 2
+intentions : 2
+factors : 2
+forming : 2
+keeping : 2
+chances : 2
+establishing : 2
+decide : 2
+six : 2
+gigantic : 2
+feels : 2
+low : 2
+started : 2
+figured : 2
+too : 2
+there : 2
+advice : 2
+final : 2
+expend : 2
+cognitive : 2
+executive : 2
+journal : 2
+room : 3
+most : 3
+last : 3
+waited : 3
+until : 3
+third : 3
+psychologists : 3
+been : 3
+ability : 3
+longer : 3
+went : 3
+her : 3
+many : 3
+making : 3
+personality : 3
+found : 3
+better : 3
+ever : 3
+eating : 3
+tasks : 3
+around : 3
+week : 3
+dieting : 3
+pizza : 3
+big : 3
+only : 3
+really : 3
+my : 3
+point : 3
+through : 3
+built : 3
+building : 3
+setting : 3
+series : 3
+consistent : 3
+bigger : 3
+positive : 3
+simple : 3
+these : 3
+while : 3
+likely : 3
+marathon : 3
+back : 3
+gets : 3
+since : 3
+pounds : 3
+walk : 3
+order : 3
+reach : 3
+lifestyle : 3
+eventually : 3
+number : 3
+rather : 3
+look : 3
+little : 3
+makes : 3
+research : 3
+shown : 3
+same : 3
+end : 3
+part : 3
+cue : 3
+brain : 3
+effort : 3
+creating : 3
+consciously : 3
+home : 3
+maybe : 3
+automatic : 3
+desired : 3
+dinner : 3
+them : 4
+child : 4
+marshmallow : 4
+reward : 4
+what : 4
+did : 4
+before : 4
+done : 4
+where : 4
+studies : 4
+seems : 4
+exert : 4
+fuel : 4
+tank : 4
+give : 4
+easy : 4
+going : 4
+also : 4
+those : 4
+night : 4
+days : 4
+lose : 4
+lost : 4
+lot : 4
+daily : 4
+set : 4
+responses : 4
+habitual : 4
+instead : 4
+exercise : 4
+per : 4
+social : 4
+themselves : 5
+period : 5
+something : 5
+experiment : 5
+able : 5
+getting : 5
+other : 5
+each : 5
+such : 5
+much : 5
+new : 5
+good : 5
+gym : 5
+long : 5
+run : 5
+go : 5
+goals : 5
+every : 5
+should : 5
+know : 5
+workout : 5
+develop : 5
+children : 6
+would : 6
+gratification : 6
+once : 6
+life : 6
+no : 6
+ego : 6
+want : 6
+day : 6
+feel : 6
+when : 6
+make : 6
+some : 6
+even : 6
+developing : 6
+which : 6
+could : 7
+delay : 7
+his : 7
+has : 7
+focus : 7
+do : 7
+get : 7
+start : 7
+working : 7
+few : 7
+weight : 7
+healthy : 7
+goal : 7
+mischel : 8
+were : 8
+had : 8
+why : 8
+than : 8
+time : 8
+minutes : 8
+from : 9
+like : 9
+we : 9
+into : 10
+so : 10
+just : 10
+yourself : 10
+i : 10
+work : 10
+how : 10
+over : 11
+will : 11
+habit : 11
+one : 12
+who : 12
+all : 12
+after : 12
+about : 12
+behavior : 12
+if : 13
+out : 14
+this : 15
+with : 15
+they : 15
+have : 15
+by : 16
+was : 16
+but : 16
+more : 16
+people : 16
+our : 16
+can : 16
+habits : 16
+not : 17
+are : 17
+be : 18
+then : 18
+as : 18
+an : 18
+at : 19
+up : 20
+their : 23
+or : 24
+willpower : 27
+he : 28
+for : 32
+it : 33
+is : 35
+your : 35
+that : 46
+you : 48
+on : 49
+in : 53
+of : 94
+to : 103
+the : 108
+and : 115
+a : 116
+walter mischel brought -> children : 1
+mischel brought children -> one : 1
+brought children one -> by : 1
+children one by -> one : 1
+one by one -> into : 1
+by one into -> a : 1
+one into a -> room : 1
+one into a -> is : 1
+into a room -> and : 1
+a room and -> gave : 1
+room and gave -> them : 1
+and gave them -> the : 1
+gave them the -> doors : 1
+them the doors -> were : 1
+the doors were -> the : 1
+doors were the -> windows : 1
+were the windows -> were : 1
+the windows were -> mischel : 1
+windows were mischel -> was : 1
+were mischel was -> not : 1
+mischel was not -> a : 1
+was not a -> he : 1
+was not a -> diet : 1
+not a he -> was : 1
+a he was -> a : 1
+a he was -> running : 1
+he was a -> psychologist : 1
+was a psychologist -> and : 1
+a psychologist and -> this : 1
+psychologist and this -> would : 1
+and this would -> prove : 1
+this would prove -> to : 1
+would prove to -> be : 1
+prove to be -> one : 1
+to be one -> of : 1
+be one of -> the : 1
+one of the -> most : 1
+one of the -> subjects : 1
+of the most -> famous : 1
+the most famous -> experiments : 1
+most famous experiments -> of : 1
+famous experiments of -> the : 1
+experiments of the -> last : 1
+of the last -> child : 1
+the last child -> was : 1
+last child was -> put : 1
+child was put -> in : 1
+was put in -> a : 1
+put in a -> room : 1
+in a room -> by : 1
+a room by -> themselves : 1
+room by themselves -> and : 1
+by themselves and -> given : 1
+themselves and given -> a : 1
+and given a -> single : 1
+given a single -> he : 1
+a single he -> then : 1
+single he then -> told : 1
+he then told -> the : 1
+then told the -> child : 1
+told the child -> that : 1
+the child that -> he : 1
+child that he -> had : 1
+that he had -> to : 1
+he had to -> leave : 1
+had to leave -> the : 1
+to leave the -> but : 1
+leave the but -> if : 1
+the but if -> the : 1
+but if the -> child : 1
+if the child -> waited : 1
+the child waited -> and : 1
+child waited and -> eat : 1
+waited and eat -> the : 1
+and eat the -> marshmallow : 1
+eat the marshmallow -> until : 1
+the marshmallow until -> he : 1
+marshmallow until he -> came : 1
+until he came -> he : 1
+he came he -> would : 1
+came he would -> reward : 1
+he would reward -> them : 1
+would reward them -> with : 1
+reward them with -> two : 1
+them with two -> outside : 1
+with two outside -> the : 1
+two outside the -> he : 1
+outside the he -> tracked : 1
+the he tracked -> what : 1
+he tracked what -> the : 1
+tracked what the -> children : 1
+what the children -> could : 1
+the children could -> they : 1
+children could they -> delay : 1
+could they delay -> gratification : 1
+they delay gratification -> and : 1
+delay gratification and -> wait : 1
+gratification and wait -> for : 1
+and wait for -> a : 1
+wait for a -> greater : 1
+for a greater -> or : 1
+a greater or -> would : 1
+greater or would -> they : 1
+or would they -> indulge : 1
+would they indulge -> their : 1
+they indulge their -> impulses : 1
+indulge their impulses -> once : 1
+their impulses once -> left : 1
+impulses once left -> a : 1
+once left a -> third : 1
+left a third -> of : 1
+a third of -> the : 1
+third of the -> children : 1
+of the children -> immediately : 1
+the children immediately -> ate : 1
+children immediately ate -> the : 1
+immediately ate the -> marshmallow : 1
+ate the marshmallow -> as : 1
+the marshmallow as -> soon : 1
+marshmallow as soon -> as : 1
+as soon as -> mischel : 1
+as soon as -> you : 1
+soon as mischel -> walked : 1
+as mischel walked -> another : 1
+mischel walked another -> third : 1
+walked another third -> waited : 1
+another third waited -> for : 1
+third waited for -> a : 1
+waited for a -> period : 1
+for a period -> of : 1
+a period of -> but : 1
+period of but -> finally : 1
+of but finally -> gave : 1
+but finally gave -> in : 1
+finally gave in -> and : 1
+gave in and -> ate : 1
+in and ate -> and : 1
+and ate and -> then : 1
+ate and then -> the : 1
+and then the -> last : 1
+then the last -> third : 1
+the last third -> waited : 1
+last third waited -> the : 1
+third waited the -> full : 1
+waited the full -> doubt : 1
+the full doubt -> an : 1
+full doubt an -> eternity : 1
+doubt an eternity -> for : 1
+an eternity for -> a : 1
+eternity for a -> child : 1
+for a child -> with : 1
+a child with -> candy : 1
+child with candy -> in : 1
+with candy in -> front : 1
+candy in front -> of : 1
+in front of -> the : 1
+in front of -> did : 1
+front of the -> psychologists : 1
+of the psychologists -> believed : 1
+the psychologists believed -> willpower : 1
+psychologists believed willpower -> was : 1
+believed willpower was -> something : 1
+willpower was something -> that : 1
+was something that -> was : 1
+something that was -> and : 1
+that was and -> so : 1
+was and so -> in : 1
+and so in -> this : 1
+so in this -> it : 1
+in this it -> was : 1
+this it was -> an : 1
+it was an -> what : 1
+it was an -> experiment : 1
+was an what -> mischel : 1
+an what mischel -> had : 1
+what mischel had -> been : 1
+mischel had been -> more : 1
+had been more -> interested : 1
+been more interested -> in : 1
+more interested in -> was : 1
+interested in was -> whether : 1
+in was whether -> a : 1
+was whether a -> age : 1
+whether a age -> correlated : 1
+a age correlated -> with : 1
+age correlated with -> their : 1
+correlated with their -> ability : 1
+with their ability -> to : 1
+their ability to -> delay : 1
+ability to delay -> it : 1
+ability to delay -> gratification : 2
+to delay it -> was : 1
+delay it was -> an : 1
+was an experiment -> in : 1
+an experiment in -> developmental : 1
+experiment in developmental -> not : 1
+in developmental not -> sure : 1
+developmental not sure -> it : 1
+not sure it -> did : 1
+sure it did -> older : 1
+it did older -> children : 1
+did older children -> on : 1
+older children on -> able : 1
+children on able -> to : 1
+on able to -> wait : 1
+able to wait -> longer : 1
+to wait longer -> before : 1
+wait longer before -> giving : 1
+longer before giving -> into : 1
+before giving into -> this : 1
+giving into this -> got : 1
+into this got -> mischel : 1
+this got mischel -> went : 1
+got mischel went -> on : 1
+mischel went on -> with : 1
+went on with -> his : 1
+went on with -> the : 1
+on with his -> life : 1
+with his life -> and : 1
+his life and -> the : 1
+life and the -> children : 1
+and the children -> went : 1
+the children went -> on : 1
+children went on -> with : 1
+on with the -> marshmallow : 1
+with the marshmallow -> experiment : 1
+the marshmallow experiment -> was : 1
+the marshmallow experiment -> done : 1
+marshmallow experiment was -> a : 1
+experiment was a -> but : 1
+was a but -> largely : 1
+a but largely -> the : 1
+but largely the -> marshmallow : 1
+largely the marshmallow -> experiment : 1
+marshmallow experiment done -> in : 1
+experiment done in -> approximately : 1
+done in approximately -> mischel : 1
+in approximately mischel -> would : 1
+approximately mischel would -> unexpectedly : 1
+mischel would unexpectedly -> revisit : 1
+would unexpectedly revisit -> and : 1
+unexpectedly revisit and -> his : 1
+revisit and his -> findings : 1
+and his findings -> would : 1
+his findings would -> shake : 1
+findings would shake -> up : 1
+would shake up -> the : 1
+shake up the -> psychological : 1
+up the psychological -> just : 1
+the psychological just -> so : 1
+psychological just so -> happened : 1
+just so happened -> that : 1
+so happened that -> one : 1
+happened that one -> of : 1
+that one of -> the : 1
+of the subjects -> of : 1
+the subjects of -> original : 1
+subjects of original -> experiment : 1
+of original experiment -> was : 1
+original experiment was -> his : 1
+experiment was his -> daughter : 1
+was his daughter -> and : 1
+his daughter and -> her : 2
+daughter and her -> including : 1
+daughter and her -> friends : 1
+and her including -> many : 1
+her including many -> of : 1
+including many of -> her : 1
+many of her -> as : 1
+of her as -> the : 1
+her as the -> years : 1
+as the years -> dragged : 1
+the years dragged -> on : 1
+years dragged on -> and : 1
+dragged on and -> his : 1
+on and his -> daughter : 1
+and his daughter -> and : 1
+and her friends -> grew : 1
+her friends grew -> it : 1
+friends grew it -> became : 1
+grew it became -> harder : 1
+it became harder -> and : 1
+became harder and -> harder : 1
+harder and harder -> for : 1
+and harder for -> mischel : 1
+harder for mischel -> to : 1
+for mischel to -> ignore : 1
+mischel to ignore -> the : 1
+to ignore the -> fact : 1
+ignore the fact -> that : 1
+the fact that -> many : 1
+fact that many -> of : 1
+that many of -> the : 1
+many of the -> kids : 1
+of the kids -> who : 1
+the kids who -> demonstrated : 1
+kids who demonstrated -> no : 1
+who demonstrated no -> ability : 1
+demonstrated no ability -> to : 1
+no ability to -> delay : 1
+to delay gratification -> were : 1
+to delay gratification -> correlated : 1
+to delay gratification -> longer : 1
+delay gratification were -> getting : 1
+gratification were getting -> in : 1
+were getting in -> trouble : 1
+getting in trouble -> at : 1
+in trouble at -> school : 1
+trouble at school -> and : 1
+at school and -> making : 1
+school and making -> poor : 1
+and making poor -> and : 1
+making poor and -> the : 1
+poor and the -> ones : 1
+and the ones -> who : 1
+the ones who -> had : 1
+ones who had -> showed : 1
+who had showed -> a : 1
+had showed a -> perfect : 1
+showed a perfect -> display : 1
+a perfect display -> of : 1
+perfect display of -> delayed : 1
+display of delayed -> gratification : 1
+of delayed gratification -> were : 1
+delayed gratification were -> scoring : 1
+gratification were scoring -> high : 1
+were scoring high -> on : 1
+scoring high on -> their : 1
+high on their -> and : 1
+on their and -> getting : 1
+their and getting -> admitted : 1
+and getting admitted -> to : 1
+getting admitted to -> prestigious : 1
+admitted to prestigious -> so : 1
+to prestigious so -> years : 1
+prestigious so years -> he : 1
+so years he -> decided : 1
+years he decided -> to : 1
+he decided to -> track : 1
+decided to track -> the : 1
+to track the -> children : 1
+track the children -> down : 1
+the children down -> and : 1
+children down and -> see : 1
+down and see -> where : 1
+and see where -> they : 1
+see where they -> had : 1
+where they had -> ended : 1
+they had ended -> up : 1
+had ended up -> as : 1
+ended up as -> young : 1
+up as young -> results : 1
+as young results -> were : 1
+young results were -> seismic : 1
+results were seismic -> and : 1
+were seismic and -> the : 1
+seismic and the -> reason : 1
+and the reason -> why : 1
+the reason why -> the : 1
+reason why the -> experiment : 1
+why the experiment -> continues : 1
+the experiment continues -> to : 1
+experiment continues to -> be : 1
+continues to be -> so : 1
+to be so -> famous : 1
+be so famous -> ability : 1
+so famous ability -> to : 1
+famous ability to -> delay : 1
+delay gratification correlated -> with : 1
+gratification correlated with -> academic : 1
+correlated with academic -> and : 1
+with academic and -> professional : 1
+academic and professional -> success : 1
+and professional success -> more : 1
+professional success more -> than : 1
+success more than -> almost : 1
+more than almost -> any : 1
+than almost any -> other : 1
+almost any other -> than : 1
+any other than -> more : 1
+other than more -> than : 1
+than more than -> standardized : 1
+more than standardized -> more : 1
+than standardized more -> than : 1
+standardized more than -> household : 1
+more than household -> personality : 1
+than household personality -> conducted : 1
+household personality conducted -> similar : 1
+personality conducted similar -> studies : 1
+conducted similar studies -> and : 1
+similar studies and -> found : 1
+studies and found -> that : 1
+and found that -> people : 1
+found that people -> who : 1
+that people who -> were : 1
+that people who -> set : 1
+people who were -> able : 1
+people who were -> forced : 1
+who were able -> to : 1
+were able to -> delay : 1
+able to delay -> gratification : 1
+delay gratification longer -> on : 1
+gratification longer on -> physically : 1
+longer on physically -> academically : 1
+on physically academically -> more : 1
+physically academically more -> financially : 1
+academically more financially -> more : 1
+more financially more -> and : 1
+financially more and -> rated : 1
+more and rated -> their : 1
+and rated their -> subjective : 1
+rated their subjective -> quality : 1
+their subjective quality -> of : 1
+subjective quality of -> life : 1
+quality of life -> produced : 1
+of life produced -> better : 1
+life produced better -> sat : 1
+produced better sat -> went : 1
+better sat went -> to : 1
+sat went to -> better : 1
+went to better -> got : 1
+to better got -> better : 1
+better got better -> had : 1
+got better had -> more : 1
+better had more -> stable : 1
+had more stable -> relationships : 1
+more stable relationships -> and : 1
+stable relationships and -> suffered : 1
+relationships and suffered -> from : 1
+and suffered from -> fewer : 1
+suffered from fewer -> mental : 1
+from fewer mental -> definitive : 1
+fewer mental definitive -> predictor : 1
+mental definitive predictor -> of : 1
+definitive predictor of -> future : 1
+predictor of future -> success : 1
+of future success -> eluded : 1
+future success eluded -> psychologists : 1
+success eluded psychologists -> for : 1
+eluded psychologists for -> close : 1
+psychologists for close -> to : 1
+for close to -> a : 1
+close to a -> the : 1
+to a the -> measurement : 1
+a the measurement -> of : 1
+the measurement of -> iq : 1
+measurement of iq -> had : 1
+of iq had -> originally : 1
+iq had originally -> been : 1
+had originally been -> invented : 1
+originally been invented -> for : 1
+been invented for -> this : 1
+invented for this -> but : 1
+for this but -> failed : 1
+this but failed -> and : 1
+but failed and -> other : 1
+failed and other -> measurements : 1
+and other measurements -> proved : 1
+other measurements proved -> just : 1
+measurements proved just -> as : 1
+proved just as -> but : 1
+just as but -> it : 1
+as but it -> appeared : 1
+but it appeared -> mischel : 1
+it appeared mischel -> had : 1
+appeared mischel had -> stumbled : 1
+mischel had stumbled -> upon : 1
+had stumbled upon -> a : 1
+stumbled upon a -> reliable : 1
+upon a reliable -> predictor : 1
+a reliable predictor -> on : 1
+reliable predictor on -> willpower : 1
+predictor on willpower -> seems : 1
+on willpower seems -> to : 1
+willpower seems to -> be : 1
+seems to be -> a : 1
+to be a -> dwindling : 1
+be a dwindling -> virtue : 1
+a dwindling virtue -> in : 1
+dwindling virtue in -> our : 1
+virtue in our -> society : 1
+in our society -> more : 1
+our society more -> people : 1
+society more people -> are : 1
+more people are -> obese : 1
+people are obese -> today : 1
+are obese today -> than : 1
+obese today than -> ever : 1
+today than ever -> in : 1
+than ever in -> world : 1
+ever in world -> attention : 1
+in world attention -> spans : 1
+world attention spans -> are : 1
+attention spans are -> cases : 1
+spans are cases -> of : 1
+are cases of -> anxiety : 1
+cases of anxiety -> disorders : 1
+of anxiety disorders -> and : 1
+anxiety disorders and -> depression : 1
+disorders and depression -> are : 1
+and depression are -> higher : 1
+depression are higher -> than : 1
+are higher than -> ever : 1
+higher than ever -> our : 1
+than ever our -> emphasis : 1
+ever our emphasis -> has : 1
+our emphasis has -> always : 1
+emphasis has always -> been : 1
+has always been -> put : 1
+always been put -> on : 1
+been put on -> and : 1
+put on and -> not : 1
+on and not -> and : 1
+and not and -> it : 1
+not and it -> seems : 1
+and it seems -> that : 1
+it seems that -> paying : 1
+seems that paying -> the : 1
+that paying the -> is : 1
+paying the is -> like : 1
+the is like -> a : 1
+is like a -> psychologist : 1
+is like a -> it : 1
+like a psychologist -> roy : 1
+a psychologist roy -> baumeister : 1
+psychologist roy baumeister -> made : 1
+roy baumeister made -> a : 1
+baumeister made a -> startling : 1
+made a startling -> people : 1
+a startling people -> who : 1
+startling people who -> were : 1
+who were forced -> to : 1
+were forced to -> exert : 1
+forced to exert -> willpower : 2
+to exert willpower -> this : 1
+to exert willpower -> and : 1
+exert willpower this -> resisting : 1
+willpower this resisting -> eating : 1
+this resisting eating -> cookies : 1
+resisting eating cookies -> placed : 1
+eating cookies placed -> in : 1
+cookies placed in -> front : 1
+placed in front -> of : 1
+front of did -> worse : 1
+of did worse -> on : 1
+did worse on -> puzzles : 1
+worse on puzzles -> and : 1
+on puzzles and -> tasks : 1
+puzzles and tasks -> than : 1
+and tasks than -> people : 1
+tasks than people -> who : 1
+than people who -> indulged : 1
+people who indulged -> that : 1
+who indulged that -> perhaps : 1
+indulged that perhaps -> it : 1
+that perhaps it -> was : 1
+perhaps it was -> a : 1
+it was a -> fluke : 1
+was a fluke -> of : 1
+a fluke of -> particularly : 1
+fluke of particularly -> hungry : 1
+of particularly hungry -> he : 1
+particularly hungry he -> and : 1
+hungry he and -> other : 1
+he and other -> psychologists : 1
+and other psychologists -> ended : 1
+other psychologists ended -> up : 1
+psychologists ended up -> reproducing : 1
+ended up reproducing -> the : 1
+up reproducing the -> results : 1
+reproducing the results -> over : 1
+the results over -> and : 1
+results over and -> over : 1
+over and over -> who : 1
+and over who -> are : 1
+over who are -> forced : 1
+who are forced -> to : 1
+are forced to -> exert : 1
+exert willpower and -> focus : 1
+willpower and focus -> on : 2
+and focus on -> one : 1
+and focus on -> subsequent : 1
+focus on one -> are : 1
+on one are -> worse : 1
+one are worse -> at : 1
+are worse at -> exerting : 1
+worse at exerting -> willpower : 1
+at exerting willpower -> and : 1
+exerting willpower and -> focus : 1
+focus on subsequent -> this : 1
+on subsequent this -> means : 1
+subsequent this means -> willpower : 1
+this means willpower -> is : 1
+means willpower is -> finite : 1
+willpower is finite -> and : 1
+is finite and -> can : 1
+finite and can -> be : 1
+and can be -> each : 1
+can be each -> have : 1
+be each have -> a : 1
+each have a -> certain : 1
+have a certain -> fuel : 1
+a certain fuel -> tank : 1
+certain fuel tank -> of : 1
+fuel tank of -> willpower : 1
+tank of willpower -> that : 1
+of willpower that -> we : 1
+willpower that we -> can : 1
+that we can -> exert : 1
+we can exert -> and : 1
+can exert and -> once : 1
+exert and once -> we : 1
+and once we -> use : 1
+once we use -> it : 1
+we use it -> all : 1
+use it all -> we : 1
+it all we -> are : 1
+all we are -> far : 1
+we are far -> more : 1
+are far more -> prone : 1
+far more prone -> to : 1
+more prone to -> give : 1
+prone to give -> up : 1
+to give up -> and : 1
+to give up -> certain : 1
+give up and -> indulge : 1
+up and indulge -> ourselves : 1
+and indulge ourselves -> in : 1
+indulge ourselves in -> our : 1
+ourselves in our -> impulses : 1
+in our impulses -> and : 1
+our impulses and -> base : 1
+impulses and base -> phenomenon : 1
+and base phenomenon -> is : 1
+base phenomenon is -> referred : 1
+phenomenon is referred -> to : 1
+is referred to -> in : 1
+referred to in -> psychology : 1
+to in psychology -> as : 1
+in psychology as -> ego : 1
+psychology as ego -> is : 1
+as ego is -> why : 1
+ego is why -> after : 1
+is why after -> a : 1
+why after a -> hard : 1
+why after a -> week : 1
+after a hard -> all : 1
+a hard all -> you : 1
+hard all you -> want : 1
+all you want -> to : 1
+you want to -> do : 2
+you want to -> start : 1
+you want to -> develop : 1
+you want to -> if : 1
+you want to -> lose : 1
+want to do -> is : 1
+want to do -> it : 1
+to do is -> sloth : 1
+do is sloth -> around : 1
+is sloth around -> on : 1
+sloth around on -> the : 1
+around on the -> couch : 1
+on the couch -> and : 1
+the couch and -> eat : 1
+couch and eat -> ice : 1
+and eat ice -> or : 1
+eat ice or -> why : 1
+ice or why -> after : 1
+or why after -> a : 1
+or why after -> studying : 1
+after a week -> of : 1
+a week of -> strict : 1
+week of strict -> dieting : 1
+of strict dieting -> so : 1
+strict dieting so -> easy : 1
+dieting so easy -> to : 1
+so easy to -> convince : 1
+easy to convince -> yourself : 1
+to convince yourself -> that : 1
+convince yourself that -> eating : 1
+yourself that eating -> an : 1
+that eating an -> entire : 1
+eating an entire -> pizza : 1
+an entire pizza -> such : 1
+entire pizza such -> a : 1
+pizza such a -> big : 1
+such a big -> or : 1
+a big or -> why : 1
+big or why -> after : 1
+why after studying -> all : 1
+after studying all -> day : 1
+studying all day -> for : 1
+all day for -> an : 1
+day for an -> exam : 1
+for an exam -> you : 1
+an exam you -> feel : 1
+exam you feel -> justified : 1
+you feel justified -> in : 1
+feel justified in -> going : 1
+justified in going -> out : 1
+in going out -> and : 1
+going out and -> getting : 1
+out and getting -> on : 1
+and getting on -> tequila : 1
+getting on tequila -> and : 1
+on tequila and -> exposing : 1
+tequila and exposing -> yourself : 1
+and exposing yourself -> in : 1
+exposing yourself in -> public : 1
+yourself in public -> that : 1
+in public that -> this : 1
+public that this -> has : 1
+that this has -> ever : 1
+this has ever -> just : 1
+has ever just -> information : 1
+ever just information -> depresses : 1
+just information depresses -> they : 1
+information depresses they -> if : 1
+depresses they if -> i : 1
+they if i -> only : 1
+if i only -> have : 1
+i only have -> so : 1
+only have so -> much : 1
+have so much -> then : 1
+so much then -> i : 1
+much then i -> may : 1
+then i may -> as : 1
+i may as -> well : 1
+may as well -> conserve : 1
+as well conserve -> it : 1
+well conserve it -> for : 1
+conserve it for -> really : 1
+it for really -> important : 1
+for really important -> like : 1
+really important like -> practicing : 1
+important like practicing -> trick : 1
+like practicing trick -> jumps : 1
+practicing trick jumps -> in : 1
+trick jumps in -> halo : 1
+jumps in halo -> or : 1
+in halo or -> not : 1
+halo or not -> smacking : 1
+or not smacking -> my : 1
+not smacking my -> boss : 1
+smacking my boss -> in : 1
+my boss in -> the : 1
+boss in the -> face : 1
+in the face -> tomorrow : 1
+the face tomorrow -> when : 1
+face tomorrow when -> he : 1
+tomorrow when he -> yells : 1
+when he yells -> at : 1
+he yells at -> figure : 1
+yells at figure -> no : 1
+at figure no -> point : 1
+figure no point -> in : 1
+no point in -> trying : 1
+point in trying -> to : 1
+in trying to -> get : 1
+trying to get -> that : 1
+to get that -> or : 1
+get that or -> start : 1
+that or start -> that : 1
+or start that -> new : 1
+start that new -> business : 1
+that new business -> if : 1
+new business if -> they : 1
+business if they -> barely : 1
+if they barely -> have : 1
+they barely have -> enough : 1
+barely have enough -> willpower : 1
+have enough willpower -> to : 1
+enough willpower to -> make : 1
+willpower to make -> it : 1
+to make it -> through : 1
+make it through -> their : 1
+it through their -> current : 1
+through their current -> the : 1
+their current the -> good : 1
+current the good -> news : 1
+the good news -> is : 1
+good news is -> willpower : 1
+news is willpower -> is : 1
+is willpower is -> like : 1
+willpower is like -> a : 1
+like a it -> can : 1
+a it can -> be : 1
+it can be -> exercised : 1
+it can be -> built : 1
+can be exercised -> and : 1
+be exercised and -> practiced : 1
+exercised and practiced -> and : 1
+and practiced and -> built : 1
+practiced and built -> it : 1
+and built it -> can : 1
+built it can -> also : 1
+it can also -> be : 1
+can also be -> weakened : 1
+also be weakened -> and : 1
+be weakened and -> just : 1
+weakened and just -> like : 1
+and just like -> going : 1
+just like going -> to : 1
+like going to -> the : 1
+going to the -> gym : 1
+to the gym -> and : 1
+to the gym -> every : 2
+to the gym -> or : 1
+to the gym -> even : 1
+the gym and -> building : 1
+gym and building -> up : 1
+and building up -> strength : 1
+and building up -> to : 1
+building up strength -> and : 1
+up strength and -> you : 1
+strength and you -> can : 1
+and you can -> build : 1
+you can build -> up : 1
+can build up -> your : 1
+build up your -> discipline : 1
+up your discipline -> and : 1
+your discipline and -> willpower : 1
+discipline and willpower -> over : 1
+and willpower over -> a : 1
+willpower over a -> long : 2
+over a long -> period : 3
+a long period -> of : 4
+long period of -> time : 2
+long period of -> blowing : 1
+long period of -> burn : 1
+period of time -> by : 2
+of time by -> setting : 1
+of time by -> implementing : 1
+time by setting -> and : 1
+by setting and -> accomplishing : 1
+setting and accomplishing -> a : 1
+and accomplishing a -> series : 1
+accomplishing a series -> of : 1
+a series of -> tasks : 1
+a series of -> positive : 1
+a series of -> healthy : 1
+series of tasks -> on : 1
+of tasks on -> a : 1
+tasks on a -> consistent : 1
+on a consistent -> can : 1
+on a consistent -> you : 1
+a consistent can -> make : 1
+consistent can make -> your : 1
+can make your -> fuel : 1
+make your fuel -> tank : 1
+your fuel tank -> bigger : 1
+fuel tank bigger -> and : 1
+tank bigger and -> bigger : 1
+bigger and bigger -> by : 1
+and bigger by -> draining : 1
+bigger by draining -> it : 1
+by draining it -> on : 1
+draining it on -> a : 1
+it on a -> consistent : 1
+a consistent you -> can : 1
+consistent you can -> also : 1
+you can also -> slow : 1
+can also slow -> the : 1
+also slow the -> loss : 1
+slow the loss -> of : 1
+the loss of -> studies : 1
+loss of studies -> show : 1
+of studies show -> that : 1
+studies show that -> putting : 1
+show that putting -> yourself : 1
+that putting yourself -> into : 1
+putting yourself into -> a : 1
+yourself into a -> positive : 1
+into a positive -> competitive : 1
+a positive competitive -> mood : 1
+positive competitive mood -> has : 1
+competitive mood has -> restorative : 1
+mood has restorative -> effects : 1
+has restorative effects -> on : 1
+restorative effects on -> strangely : 1
+effects on strangely -> glycogen : 1
+on strangely glycogen -> in : 1
+strangely glycogen in -> eating : 1
+glycogen in eating -> sugar : 1
+in eating sugar -> or : 1
+eating sugar or -> is : 1
+sugar or is -> why : 1
+or is why -> those : 1
+is why those -> catastrophic : 1
+why those catastrophic -> tasks : 1
+those catastrophic tasks -> as : 1
+catastrophic tasks as -> an : 1
+tasks as an -> adolescent : 1
+as an adolescent -> become : 1
+an adolescent become -> simple : 1
+adolescent become simple -> and : 1
+become simple and -> an : 1
+simple and an -> afterthought : 1
+and an afterthought -> once : 1
+an afterthought once -> you : 1
+afterthought once you -> have : 1
+once you have -> a : 1
+you have a -> higher : 1
+have a higher -> threshold : 1
+a higher threshold -> for : 1
+higher threshold for -> ego : 1
+threshold for ego -> your : 1
+for ego your -> willpower : 1
+ego your willpower -> muscle : 1
+your willpower muscle -> is : 1
+willpower muscle is -> bigger : 1
+muscle is bigger -> and : 1
+is bigger and -> you : 1
+bigger and you -> give : 1
+and you give -> more : 1
+you give more -> of : 1
+give more of -> a : 1
+more of a -> crap : 1
+of a crap -> about : 1
+a crap about -> yourself : 1
+crap about yourself -> and : 1
+about yourself and -> your : 1
+yourself and your -> so : 1
+and your so -> excited : 1
+your so excited -> to : 1
+so excited to -> do : 1
+excited to do -> these : 1
+to do these -> also : 1
+do these also -> why : 1
+these also why -> some : 1
+also why some -> people : 1
+why some people -> are : 1
+some people are -> able : 1
+people are able -> to : 1
+are able to -> focus : 1
+able to focus -> and : 1
+to focus and -> work : 1
+focus and work -> or : 1
+and work or -> while : 1
+work or while -> others : 1
+or while others -> struggle : 1
+while others struggle -> to : 1
+others struggle to -> pour : 1
+struggle to pour -> themselves : 1
+to pour themselves -> not : 1
+pour themselves not -> that : 1
+themselves not that -> superhuman : 1
+not that superhuman -> or : 1
+that superhuman or -> genetically : 1
+superhuman or genetically -> enhanced : 1
+or genetically enhanced -> or : 1
+genetically enhanced or -> but : 1
+enhanced or but -> built : 1
+or but built -> up : 1
+but built up -> their : 1
+built up their -> fuel : 1
+up their fuel -> tank : 1
+their fuel tank -> to : 1
+fuel tank to -> that : 1
+tank to that -> practiced : 1
+to that practiced -> willpower : 1
+that practiced willpower -> to : 1
+practiced willpower to -> such : 1
+willpower to such -> an : 1
+to such an -> extent : 1
+such an extent -> over : 1
+an extent over -> such : 1
+extent over such -> a : 1
+over such a -> long : 1
+such a long -> period : 1
+period of blowing -> through : 1
+of blowing through -> a : 1
+blowing through a -> day : 1
+through a day -> of : 1
+a day of -> productivity : 1
+day of productivity -> becomes : 1
+of productivity becomes -> the : 1
+productivity becomes the -> new : 1
+becomes the new -> is : 1
+the new is -> probably : 1
+new is probably -> the : 1
+is probably the -> biggest : 1
+probably the biggest -> argument : 1
+the biggest argument -> for : 1
+biggest argument for -> studying : 1
+argument for studying -> consistently : 1
+for studying consistently -> in : 1
+studying consistently in -> for : 1
+consistently in for -> many : 1
+in for many -> of : 1
+for many of -> able : 1
+many of able -> to : 1
+of able to -> loaf : 1
+able to loaf -> through : 1
+to loaf through -> college : 1
+loaf through college -> by : 1
+through college by -> staying : 1
+college by staying -> up : 1
+by staying up -> all : 1
+staying up all -> night : 1
+up all night -> a : 1
+all night a -> couple : 1
+night a couple -> days : 1
+a couple days -> before : 1
+couple days before -> the : 1
+days before the -> exam : 1
+before the exam -> or : 1
+the exam or -> term : 1
+exam or term -> paper : 1
+or term paper -> while : 1
+term paper while -> screwing : 1
+paper while screwing -> around : 1
+while screwing around -> for : 1
+screwing around for -> weeks : 1
+around for weeks -> on : 1
+for weeks on -> how : 1
+weeks on how -> i : 1
+on how i -> and : 1
+how i and -> in : 1
+i and in -> some : 1
+and in some -> ways : 1
+in some ways -> i : 1
+some ways i -> regret : 1
+ways i regret -> at : 1
+i regret at -> some : 1
+regret at some -> point : 1
+at some point -> in : 1
+some point in -> your : 1
+point in your -> you : 1
+in your you -> will : 1
+your you will -> likely : 1
+you will likely -> run : 1
+will likely run -> into : 1
+likely run into -> a : 1
+run into a -> situation : 1
+into a situation -> where : 1
+a situation where -> you : 1
+situation where you -> wish : 1
+where you wish -> you : 1
+you wish you -> were : 1
+wish you were -> capable : 1
+you were capable -> of : 1
+were capable of -> working : 1
+capable of working -> one : 1
+of working one -> of : 1
+working one of -> these : 1
+one of these -> marathon : 1
+of these marathon -> sessions : 1
+these marathon sessions -> without : 1
+marathon sessions without -> breaking : 1
+sessions without breaking -> a : 1
+without breaking a -> or : 1
+breaking a or -> wish : 1
+a or wish -> to : 1
+or wish to -> be : 1
+wish to be -> able : 1
+to be able -> to : 1
+be able to -> work : 1
+able to work -> marathon : 1
+to work marathon -> sessions : 1
+work marathon sessions -> when : 1
+marathon sessions when -> your : 1
+sessions when your -> own : 1
+when your own -> working : 1
+your own working -> for : 1
+own working for -> a : 1
+working for a -> major : 1
+for a major -> sales : 1
+a major sales -> pitch : 1
+major sales pitch -> to : 1
+sales pitch to -> to : 1
+pitch to to -> get : 1
+to to get -> back : 1
+to get back -> to : 1
+get back to -> the : 1
+get back to -> your : 1
+back to the -> willpower : 1
+to the willpower -> is : 1
+the willpower is -> but : 1
+willpower is but -> it : 1
+is but it -> can : 1
+but it can -> be : 1
+can be built -> and : 1
+be built and -> what : 1
+built and what -> happens : 1
+and what happens -> in : 1
+what happens in -> the : 1
+happens in the -> that : 1
+in the that -> gets : 1
+the that gets -> more : 1
+that gets more -> is : 1
+gets more is -> a : 1
+more is a -> series : 1
+is a series -> of : 1
+series of positive -> stick : 1
+of positive stick -> with : 1
+positive stick with -> the : 1
+stick with the -> diet : 1
+with the diet -> example : 1
+the diet example -> since : 1
+diet example since -> something : 1
+example since something -> most : 1
+since something most -> people : 1
+something most people -> have : 1
+most people have -> failed : 1
+people have failed -> with : 1
+have failed with -> at : 1
+failed with at -> one : 1
+with at one -> point : 1
+at one point -> or : 1
+one point or -> people : 1
+point or people -> go : 1
+or people go -> about : 1
+people go about -> dieting : 1
+go about dieting -> with : 1
+about dieting with -> they : 1
+dieting with they -> pick : 1
+with they pick -> an : 1
+they pick an -> arbitrary : 1
+pick an arbitrary -> lose : 1
+an arbitrary lose -> pounds : 1
+arbitrary lose pounds -> in : 1
+lose pounds in -> two : 1
+pounds in two -> then : 1
+in two then -> they : 1
+two then they -> implement : 1
+then they implement -> whichever : 1
+they implement whichever -> form : 1
+implement whichever form -> of : 1
+whichever form of -> starvation : 1
+form of starvation -> or : 1
+of starvation or -> appeals : 1
+starvation or appeals -> to : 1
+or appeals to -> them : 1
+appeals to them -> that : 1
+to them that -> people : 1
+them that people -> approach : 1
+that people approach -> the : 1
+people approach the -> whole : 1
+approach the whole -> ordeal : 1
+the whole ordeal -> from : 1
+whole ordeal from -> a : 1
+ordeal from a -> perspective : 1
+from a perspective -> of : 1
+a perspective of -> i : 1
+perspective of i -> will : 1
+of i will -> turn : 1
+i will turn -> down : 1
+will turn down -> i : 1
+turn down i -> will : 1
+down i will -> skip : 1
+i will skip -> i : 1
+will skip i -> will : 1
+skip i will -> force : 1
+i will force -> myself : 1
+will force myself -> to : 1
+force myself to -> walk : 1
+myself to walk -> three : 1
+to walk three -> times : 1
+walk three times -> a : 1
+three times a -> week : 1
+times a week -> for : 1
+a week for -> then : 1
+week for then -> lose : 1
+for then lose -> my : 1
+then lose my -> pounds : 1
+lose my pounds -> and : 1
+my pounds and -> be : 1
+pounds and be -> if : 1
+and be if -> their : 1
+be if their -> ego : 1
+if their ego -> depletion : 1
+their ego depletion -> survives : 1
+their ego depletion -> catches : 1
+ego depletion survives -> such : 1
+depletion survives such -> a : 1
+survives such a -> crass : 1
+such a crass -> assault : 1
+a crass assault -> from : 1
+crass assault from -> their : 1
+assault from their -> now : 1
+from their now -> depleted : 1
+their now depleted -> all : 1
+now depleted all -> of : 1
+depleted all of -> their : 1
+all of their -> willpower : 1
+all of their -> work : 1
+of their willpower -> in : 1
+their willpower in -> order : 1
+willpower in order -> to : 1
+in order to -> reach : 1
+in order to -> create : 1
+order to reach -> an : 1
+to reach an -> arbitrary : 1
+reach an arbitrary -> and : 1
+an arbitrary and -> not : 1
+arbitrary and not -> build : 1
+and not build -> a : 1
+not build a -> lifestyle : 1
+build a lifestyle -> by : 1
+a lifestyle by -> and : 1
+lifestyle by and -> people : 1
+by and people -> they : 1
+and people they -> make : 1
+people they make -> eventually : 1
+they make eventually -> their : 1
+make eventually their -> ego : 1
+eventually their ego -> depletion : 1
+ego depletion catches -> up : 1
+depletion catches up -> with : 1
+catches up with -> and : 1
+up with and -> the : 1
+with and the -> pizza : 1
+and the pizza -> and : 1
+the pizza and -> margaritas : 1
+pizza and margaritas -> take : 1
+and margaritas take -> easy : 1
+margaritas take easy -> to : 1
+take easy to -> make : 1
+easy to make -> the : 1
+to make the -> right : 1
+make the right -> decisions : 1
+the right decisions -> based : 1
+right decisions based -> on : 1
+decisions based on -> willpower : 1
+based on willpower -> for : 1
+on willpower for -> an : 1
+willpower for an -> hour : 1
+for an hour -> or : 1
+an hour or -> a : 1
+hour or a -> day : 1
+or a day -> or : 1
+a day or -> a : 1
+day or a -> but : 1
+or a but -> eventually : 1
+a but eventually -> they : 1
+but eventually they -> run : 1
+eventually they run -> out : 1
+they run out -> of : 1
+run out of -> gas : 1
+out of gas -> and : 1
+of gas and -> cave : 1
+gas and cave -> in : 1
+and cave in -> to : 1
+cave in to -> their : 1
+in to their -> even : 1
+to their even -> for : 1
+their even for -> the : 1
+even for the -> few : 1
+for the few -> who : 1
+the few who -> their : 1
+few who their -> fate : 1
+who their fate -> is : 1
+their fate is -> not : 1
+fate is not -> much : 1
+is not much -> a : 1
+not much a -> staggering : 1
+much a staggering -> number : 1
+a staggering number -> of : 1
+staggering number of -> people : 1
+number of people -> who : 1
+of people who -> reach : 1
+people who reach -> their : 1
+who reach their -> dieting : 1
+reach their dieting -> goals : 1
+their dieting goals -> eventually : 1
+dieting goals eventually -> gain : 1
+goals eventually gain -> all : 1
+eventually gain all -> of : 1
+gain all of -> the : 1
+all of the -> weight : 1
+of the weight -> and : 1
+the weight and -> usually : 1
+weight and usually -> add : 1
+and usually add -> some : 1
+usually add some -> just : 1
+add some just -> to : 1
+some just to -> be : 1
+just to be -> you : 1
+to be you -> peruse : 1
+be you peruse -> fitness : 1
+you peruse fitness -> and : 1
+peruse fitness and -> nutrition : 1
+fitness and nutrition -> magazines : 1
+and nutrition magazines -> and : 1
+nutrition magazines and -> anyone : 1
+magazines and anyone -> who : 1
+and anyone who -> has : 1
+anyone who has -> successfully : 1
+who has successfully -> lost : 1
+has successfully lost -> a : 1
+successfully lost a -> lot : 1
+lost a lot -> of : 1
+a lot of -> weight : 1
+a lot of -> and : 1
+a lot of -> research : 1
+a lot of -> products : 1
+lot of weight -> added : 1
+of weight added -> a : 1
+weight added a -> lot : 1
+added a lot -> of : 1
+lot of and -> maintained : 1
+of and maintained -> it : 1
+and maintained it -> will : 1
+maintained it will -> tell : 1
+it will tell -> you : 1
+will tell you -> that : 1
+tell you that -> not : 1
+you that not -> about : 1
+that not about -> willpower : 1
+not about willpower -> rather : 1
+about willpower rather -> about : 1
+willpower rather about -> integrating : 1
+rather about integrating -> the : 1
+about integrating the -> appropriate : 1
+integrating the appropriate -> habits : 1
+the appropriate habits -> into : 1
+appropriate habits into -> your : 1
+habits into your -> daily : 1
+into your daily -> not : 1
+your daily not -> about : 1
+daily not about -> the : 1
+not about the -> willpower : 1
+about the willpower -> to : 1
+the willpower to -> give : 1
+willpower to give -> up : 1
+give up certain -> but : 1
+up certain but -> developing : 1
+certain but developing -> the : 1
+but developing the -> taste : 1
+developing the taste -> for : 1
+the taste for -> good : 1
+taste for good -> not : 1
+for good not -> about : 1
+good not about -> forcing : 1
+not about forcing -> yourself : 1
+about forcing yourself -> to : 1
+forcing yourself to -> the : 1
+yourself to the -> gym : 1
+the gym every -> week : 1
+the gym every -> other : 1
+gym every week -> as : 1
+every week as -> much : 1
+week as much -> as : 1
+as much as -> finding : 1
+much as finding -> a : 1
+as finding a -> way : 1
+finding a way -> to : 1
+a way to -> actually : 1
+way to actually -> look : 1
+to actually look -> forward : 1
+actually look forward -> to : 1
+look forward to -> it : 1
+look forward to -> and : 1
+forward to it -> and : 1
+to it and -> enjoy : 1
+it and enjoy -> subject : 1
+and enjoy subject -> is : 1
+enjoy subject is -> a : 1
+subject is a -> little : 1
+is a little -> bit : 1
+a little bit -> close : 1
+a little bit -> of : 1
+little bit close -> to : 1
+bit close to -> my : 1
+close to my -> heart : 1
+to my heart -> since : 1
+my heart since -> i : 1
+heart since i -> lost : 1
+since i lost -> about : 1
+i lost about -> to : 1
+lost about to -> pounds : 1
+about to pounds -> over : 1
+to pounds over -> the : 1
+pounds over the -> course : 1
+over the course -> of : 1
+the course of -> a : 1
+course of a -> between : 1
+of a between -> and : 1
+a between and -> ultimately : 1
+between and ultimately -> worked : 1
+and ultimately worked -> for : 1
+ultimately worked for -> and : 1
+worked for and -> for : 1
+for and for -> most : 1
+and for most -> was : 1
+for most was -> not : 1
+most was not -> a : 1
+not a diet -> plan : 1
+a diet plan -> or : 1
+diet plan or -> following : 1
+plan or following -> a : 1
+or following a -> specific : 1
+following a specific -> regimen : 1
+a specific regimen -> to : 1
+specific regimen to -> but : 1
+regimen to but -> building : 1
+to but building -> a : 1
+but building a -> series : 1
+building a series -> of : 1
+series of healthy -> life : 1
+of healthy life -> your : 1
+healthy life your -> willpower : 1
+life your willpower -> is : 1
+your willpower is -> exerted : 1
+willpower is exerted -> on : 1
+is exerted on -> making : 1
+exerted on making -> simple : 1
+on making simple -> lifestyle : 1
+making simple lifestyle -> changes : 1
+simple lifestyle changes -> that : 1
+lifestyle changes that -> are : 1
+changes that are -> sustainable : 1
+that are sustainable -> rather : 1
+are sustainable rather -> than : 1
+sustainable rather than -> drastic : 1
+rather than drastic -> shifts : 1
+than drastic shifts -> that : 1
+drastic shifts that -> you : 1
+shifts that you -> have : 1
+that you have -> no : 1
+you have no -> hope : 1
+have no hope -> of : 1
+no hope of -> maintaining : 1
+hope of maintaining -> day : 1
+of maintaining day -> after : 1
+maintaining day after -> year : 1
+day after year -> after : 1
+after year after -> people : 1
+year after people -> exert : 1
+after people exert -> their : 1
+people exert their -> willpower : 1
+exert their willpower -> on : 1
+their willpower on -> achieving : 1
+willpower on achieving -> temporary : 1
+on achieving temporary -> fixes : 1
+achieving temporary fixes -> whereas : 1
+temporary fixes whereas -> willpower : 1
+fixes whereas willpower -> should : 1
+whereas willpower should -> be : 1
+willpower should be -> expended : 1
+should be expended -> on : 1
+be expended on -> developing : 1
+expended on developing -> about : 1
+on developing about -> a : 1
+developing about a -> person : 1
+about a person -> who : 1
+a person who -> gets : 1
+person who gets -> up : 1
+who gets up -> every : 1
+gets up every -> makes : 1
+up every makes -> their : 1
+every makes their -> gets : 1
+makes their gets -> all : 1
+their gets all -> of : 1
+gets all of -> their : 1
+of their work -> done : 1
+their work done -> by : 1
+work done by -> practices : 1
+done by practices -> an : 1
+by practices an -> instrument : 1
+practices an instrument -> in : 1
+an instrument in -> the : 1
+instrument in the -> learns : 1
+in the learns -> a : 1
+the learns a -> new : 1
+learns a new -> language : 1
+a new language -> in : 1
+new language in -> their : 1
+language in their -> spare : 1
+in their spare -> goes : 1
+their spare goes -> to : 1
+spare goes to -> the : 1
+goes to the -> gym : 1
+gym every other -> budgets : 1
+every other budgets -> their : 1
+other budgets their -> finances : 1
+budgets their finances -> calls : 1
+their finances calls -> their : 1
+finances calls their -> mother : 1
+calls their mother -> and : 1
+their mother and -> feeds : 1
+mother and feeds -> the : 1
+and feeds the -> saves : 1
+feeds the saves -> babies : 1
+the saves babies -> from : 1
+saves babies from -> burning : 1
+babies from burning -> you : 1
+from burning you -> really : 1
+burning you really -> think : 1
+you really think -> they : 1
+really think they -> are : 1
+think they are -> forcing : 1
+they are forcing -> themselves : 1
+are forcing themselves -> into : 1
+forcing themselves into -> making : 1
+themselves into making -> all : 1
+into making all -> of : 1
+making all of -> these : 1
+all of these -> decisions : 1
+of these decisions -> at : 1
+these decisions at -> every : 1
+decisions at every -> moment : 1
+at every moment -> of : 1
+every moment of -> every : 1
+moment of every -> day : 1
+of every day -> against : 1
+every day against -> a : 1
+day against a -> wave : 1
+against a wave -> of : 1
+a wave of -> internal : 1
+wave of internal -> course : 1
+of internal course -> they : 1
+internal course they -> would : 1
+course they would -> deplete : 1
+they would deplete -> their : 1
+would deplete their -> willpower : 1
+deplete their willpower -> fuel : 1
+their willpower fuel -> tank : 1
+willpower fuel tank -> in : 1
+fuel tank in -> no : 1
+tank in no -> and : 1
+in no and -> even : 1
+no and even -> if : 1
+and even if -> they : 1
+even if they -> worked : 1
+if they worked -> up : 1
+they worked up -> their : 1
+worked up their -> willpower : 1
+up their willpower -> over : 1
+their willpower over -> a : 1
+period of burn -> themselves : 1
+of burn themselves -> out : 2
+burn themselves out -> within : 1
+burn themselves out -> before : 1
+themselves out within -> a : 1
+out within a -> few : 1
+within a few -> is : 1
+a few is -> why : 1
+few is why -> research : 1
+is why research -> has : 1
+why research has -> shown : 1
+research has shown -> that : 2
+has shown that -> people : 1
+has shown that -> missing : 1
+shown that people -> who : 1
+people who set -> multiple : 1
+who set multiple -> goals : 1
+set multiple goals -> at : 1
+multiple goals at -> the : 1
+goals at the -> same : 1
+at the same -> time : 1
+at the same -> everyone : 1
+the same time -> end : 1
+same time end -> up : 1
+time end up -> accomplishing : 1
+end up accomplishing -> none : 1
+up accomplishing none -> of : 1
+accomplishing none of -> burn : 1
+none of burn -> themselves : 1
+themselves out before -> they : 1
+out before they -> have : 1
+before they have -> time : 1
+they have time -> to : 1
+have time to -> turn : 1
+time to turn -> each : 1
+to turn each -> one : 1
+turn each one -> into : 1
+each one into -> a : 1
+into a is -> focusing : 1
+a is focusing -> on : 1
+is focusing on -> one : 1
+focusing on one -> goal : 1
+on one goal -> at : 1
+one goal at -> a : 1
+goal at a -> and : 1
+at a and -> building : 1
+a and building -> up : 1
+building up to -> it : 1
+up to it -> slowly : 1
+to it slowly -> over : 1
+it slowly over -> a : 1
+slowly over a -> long : 1
+time by implementing -> is : 1
+by implementing is -> not : 1
+implementing is not -> sexy : 1
+is not sexy -> or : 1
+not sexy or -> which : 1
+sexy or which -> is : 1
+or which is -> probably : 1
+which is probably -> why : 1
+is probably why -> few : 1
+probably why few -> people : 1
+why few people -> bother : 1
+few people bother -> doing : 1
+people bother doing -> you : 1
+bother doing you -> need : 1
+doing you need -> to : 1
+you need to -> know : 1
+need to know -> about : 1
+to know about -> form : 1
+know about form -> when : 1
+about form when -> you : 1
+form when you -> engage : 1
+when you engage -> in : 1
+you engage in -> a : 1
+engage in a -> behavior : 1
+in a behavior -> the : 1
+a behavior the -> presence : 1
+behavior the presence -> of : 1
+the presence of -> consistent : 1
+presence of consistent -> that : 1
+of consistent that -> last : 1
+consistent that last -> part : 1
+that last part -> is : 1
+last part is -> habits : 1
+part is habits -> are : 1
+is habits are -> responses : 1
+habits are responses -> to : 1
+are responses to -> familiar : 1
+responses to familiar -> environmental : 1
+responses to familiar -> and : 1
+to familiar environmental -> you : 1
+familiar environmental you -> save : 1
+environmental you save -> mental : 1
+you save mental -> energy : 1
+save mental energy -> by : 1
+mental energy by -> developing : 1
+energy by developing -> habitual : 1
+by developing habitual -> responses : 1
+developing habitual responses -> to : 1
+habitual responses to -> familiar : 1
+habitual responses to -> the : 1
+to familiar and -> even : 1
+familiar and even -> people : 1
+and even people -> that : 1
+even people that -> you : 1
+people that you -> encounter : 1
+that you encounter -> on : 1
+you encounter on -> a : 1
+encounter on a -> regular : 1
+on a regular -> his : 1
+on a regular -> instead : 1
+a regular his -> book : 1
+regular his book -> power : 1
+his book power -> of : 1
+book power of -> charles : 1
+power of charles -> duhigg : 1
+of charles duhigg -> summarizes : 1
+charles duhigg summarizes -> a : 1
+duhigg summarizes a -> lot : 1
+summarizes a lot -> of : 1
+lot of research -> on : 1
+of research on -> how : 1
+research on how -> habits : 1
+on how habits -> are : 1
+how habits are -> formed : 2
+habits are formed -> and : 2
+are formed and -> maintained : 1
+are formed and -> how : 1
+formed and maintained -> and : 1
+and maintained and -> how : 1
+maintained and how -> they : 1
+and how they -> can : 1
+and how they -> work : 1
+how they can -> be : 1
+they can be -> countless : 1
+can be countless -> studies : 1
+be countless studies -> have : 1
+countless studies have -> shown : 1
+studies have shown -> that : 1
+have shown that -> habits : 1
+shown that habits -> are : 1
+that habits are -> comprised : 1
+habits are comprised -> of : 1
+are comprised of -> three : 1
+comprised of three -> main : 1
+of three main -> an : 1
+three main an -> environmental : 1
+main an environmental -> a : 1
+an environmental a -> behavioral : 1
+environmental a behavioral -> and : 1
+a behavioral and -> a : 1
+behavioral and a -> reward : 1
+and a reward -> the : 1
+a reward the -> removal : 1
+reward the removal -> of : 1
+the removal of -> an : 1
+removal of an -> unpleasant : 1
+of an unpleasant -> behavior : 1
+an unpleasant behavior -> if : 1
+unpleasant behavior if -> a : 1
+behavior if a -> your : 1
+if a your -> cravings : 1
+a your cravings -> are : 1
+your cravings are -> typically : 1
+cravings are typically -> triggered : 1
+are typically triggered -> by : 1
+typically triggered by -> a : 1
+triggered by a -> cue : 1
+by a cue -> that : 1
+a cue that -> you : 1
+a cue that -> already : 1
+cue that you -> associate : 1
+that you associate -> with : 1
+you associate with -> for : 1
+associate with for -> finishing : 1
+with for finishing -> a : 1
+for finishing a -> big : 1
+finishing a big -> drinking : 1
+a big drinking -> a : 1
+big drinking a -> or : 1
+drinking a or -> seeing : 1
+a or seeing -> someone : 1
+or seeing someone -> smoking : 1
+seeing someone smoking -> a : 1
+someone smoking a -> cigarette : 1
+smoking a cigarette -> on : 1
+a cigarette on -> cue : 1
+cigarette on cue -> then : 1
+on cue then -> triggers : 1
+cue then triggers -> your : 1
+then triggers your -> desire : 1
+triggers your desire -> to : 1
+your desire to -> perform : 1
+desire to perform -> the : 1
+to perform the -> habituated : 1
+perform the habituated -> then : 1
+the habituated then -> you : 1
+habituated then you -> and : 1
+then you and -> your : 1
+you and your -> brain : 1
+and your brain -> rewards : 1
+and your brain -> gradually : 1
+your brain rewards -> you : 1
+brain rewards you -> you : 1
+rewards you you -> feel : 1
+you you feel -> more : 1
+you feel more -> calmer : 1
+feel more calmer -> of : 1
+more calmer of -> the : 1
+calmer of the -> nicotine : 1
+of the nicotine -> helps : 1
+the nicotine helps -> as : 1
+nicotine helps as -> researchers : 1
+helps as researchers -> have : 1
+as researchers have -> found : 1
+researchers have found -> that : 1
+have found that -> in : 1
+found that in -> order : 1
+that in order -> to : 1
+order to create -> new : 1
+to create new -> habits : 1
+create new habits -> break : 1
+new habits break -> old : 1
+habits break old -> we : 1
+break old we -> should : 1
+old we should -> not : 1
+we should not -> focus : 1
+should not focus -> on : 1
+not focus on -> the : 1
+focus on the -> behavior : 1
+focus on the -> spend : 1
+on the behavior -> but : 1
+the behavior but -> rather : 1
+behavior but rather -> focus : 1
+but rather focus -> on : 1
+rather focus on -> the : 1
+on the spend -> so : 1
+the spend so -> much : 1
+spend so much -> time : 1
+so much time -> and : 1
+much time and -> effort : 1
+time and effort -> on : 1
+and effort on -> creating : 1
+effort on creating -> or : 1
+on creating or -> eliminating : 1
+creating or eliminating -> the : 1
+or eliminating the -> behavior : 1
+eliminating the behavior -> when : 1
+the behavior when -> instead : 1
+behavior when instead -> we : 1
+when instead we -> should : 1
+instead we should -> really : 1
+we should really -> be : 1
+should really be -> dedicating : 1
+really be dedicating -> our : 1
+be dedicating our -> willpower : 1
+dedicating our willpower -> to : 1
+our willpower to -> consciously : 1
+our willpower to -> manipulate : 1
+willpower to consciously -> creating : 1
+to consciously creating -> reorganizing : 1
+consciously creating reorganizing -> the : 1
+creating reorganizing the -> in : 1
+reorganizing the in -> our : 1
+the in our -> environment : 1
+in our environment -> that : 1
+our environment that -> trigger : 1
+environment that trigger -> those : 1
+that trigger those -> for : 1
+trigger those for -> say : 1
+those for say -> you : 1
+for say you -> want : 1
+say you want -> to : 1
+want to start -> working : 1
+to start working -> out : 1
+start working out -> on : 1
+working out on -> a : 1
+out on a -> regular : 1
+a regular instead -> of : 1
+regular instead of -> just : 1
+instead of just -> focusing : 1
+of just focusing -> on : 1
+just focusing on -> developing : 1
+focusing on developing -> the : 1
+on developing the -> habit : 1
+developing the habit -> of : 1
+the habit of -> focus : 1
+the habit of -> putting : 1
+habit of focus -> on : 1
+of focus on -> developing : 1
+focus on developing -> a : 1
+on developing a -> routine : 1
+developing a routine -> around : 1
+a routine around -> a : 1
+routine around a -> this : 1
+around a this -> may : 1
+a this may -> just : 1
+this may just -> seem : 1
+may just seem -> like : 1
+just seem like -> a : 1
+seem like a -> semantic : 1
+like a semantic -> but : 1
+a semantic but -> easy : 1
+semantic but easy -> way : 1
+but easy way -> to : 1
+easy way to -> do : 1
+way to do -> this : 1
+to do this -> is : 1
+do this is -> to : 1
+this is to -> choose : 1
+is to choose -> a : 1
+to choose a -> cue : 1
+choose a cue -> that : 1
+cue that already -> occurs : 1
+that already occurs -> regularly : 1
+already occurs regularly -> in : 1
+occurs regularly in -> your : 1
+regularly in your -> daily : 1
+in your daily -> such : 1
+your daily such -> as : 1
+daily such as -> getting : 1
+such as getting -> home : 1
+as getting home -> from : 1
+getting home from -> during : 1
+home from during -> the : 1
+from during the -> early : 1
+during the early -> stages : 1
+the early stages -> of : 1
+early stages of -> developing : 1
+stages of developing -> your : 1
+of developing your -> workout : 1
+developing your workout -> focus : 1
+your workout focus -> your : 1
+workout focus your -> effort : 1
+focus your effort -> on : 1
+your effort on -> going : 1
+effort on going -> straight : 1
+on going straight -> to : 1
+going straight to -> your : 1
+straight to your -> room : 1
+to your room -> after : 1
+your room after -> you : 1
+room after you -> get : 1
+after you get -> home : 1
+you get home -> and : 1
+you get home -> from : 1
+get home and -> changing : 1
+home and changing -> into : 1
+and changing into -> your : 1
+changing into your -> workout : 1
+into your workout -> then : 1
+your workout then -> go : 1
+workout then go -> fill : 1
+then go fill -> up : 1
+go fill up -> your : 1
+fill up your -> water : 1
+up your water -> bottle : 1
+your water bottle -> and : 1
+water bottle and -> head : 1
+bottle and head -> straight : 1
+and head straight -> to : 1
+head straight to -> the : 1
+straight to the -> gym : 1
+the gym or -> hit : 1
+gym or hit -> the : 1
+or hit the -> running : 1
+hit the running -> trail : 1
+the running trail -> or : 1
+running trail or -> you : 1
+trail or you -> want : 1
+or you want -> to : 1
+want to develop -> the : 1
+to develop the -> habit : 1
+develop the habit -> of : 1
+habit of putting -> yourself : 1
+of putting yourself -> in : 1
+putting yourself in -> the : 1
+yourself in the -> position : 1
+in the position -> to : 1
+the position to -> work : 1
+position to work -> out : 1
+to work out -> which : 1
+work out which -> makes : 1
+out which makes -> it : 1
+which makes it -> more : 1
+makes it more -> likely : 1
+it more likely -> that : 1
+more likely that -> work : 1
+likely that work -> out : 1
+that work out -> after : 1
+work out after -> a : 1
+out after a -> start : 1
+after a start -> to : 1
+a start to -> notice : 1
+start to notice -> that : 1
+to notice that -> when : 1
+notice that when -> you : 1
+that when you -> get : 1
+when you get -> home : 1
+get home from -> work : 1
+home from work -> it : 1
+from work it -> takes : 1
+work it takes -> little : 1
+it takes little -> to : 1
+takes little to -> no : 1
+little to no -> effort : 1
+to no effort -> to : 1
+no effort to -> go : 1
+effort to go -> to : 1
+to go to -> your : 1
+go to your -> throw : 1
+to your throw -> on : 1
+your throw on -> your : 1
+throw on your -> workout : 1
+on your workout -> clothes : 1
+your workout clothes -> and : 1
+workout clothes and -> head : 1
+clothes and head -> to : 1
+and head to -> the : 1
+head to the -> gym : 1
+the gym even -> start : 1
+gym even start -> to : 1
+even start to -> look : 1
+start to look -> forward : 1
+to look forward -> to : 1
+forward to and -> maybe : 1
+to and maybe -> even : 1
+and maybe even -> feel : 1
+maybe even feel -> like : 1
+even feel like -> something : 1
+feel like something -> in : 1
+like something in -> your : 1
+something in your -> life : 1
+in your life -> is : 1
+your life is -> off : 1
+life is off -> when : 1
+is off when -> you : 1
+off when you -> work : 1
+when you work -> the : 1
+you work the -> power : 1
+work the power -> of : 1
+the power of -> component : 1
+power of component -> of : 1
+of component of -> the : 1
+component of the -> habit : 1
+of the habit -> equation : 1
+the habit equation -> above : 1
+habit equation above -> is : 1
+equation above is -> used : 1
+above is used -> to : 1
+is used to -> reinforce : 1
+used to reinforce -> your : 1
+to reinforce your -> target : 1
+reinforce your target -> behavior : 1
+your target behavior -> after : 1
+target behavior after -> successfully : 1
+behavior after successfully -> completed : 1
+after successfully completed -> with : 1
+successfully completed with -> our : 1
+completed with our -> exercise : 1
+with our exercise -> you : 1
+our exercise you -> might : 1
+exercise you might -> get : 1
+you might get -> done : 1
+might get done -> working : 1
+get done working -> out : 1
+done working out -> and : 1
+working out and -> treat : 1
+out and treat -> yourself : 1
+and treat yourself -> to : 1
+treat yourself to -> a : 1
+yourself to a -> snack : 1
+to a snack -> or : 1
+a snack or -> maybe : 1
+snack or maybe -> schedule : 1
+or maybe schedule -> a : 1
+maybe schedule a -> rest : 1
+schedule a rest -> session : 1
+a rest session -> by : 1
+rest session by -> watching : 1
+session by watching -> an : 1
+by watching an -> episode : 1
+watching an episode -> of : 1
+an episode of -> your : 1
+episode of your -> favorite : 1
+of your favorite -> tv : 1
+your favorite tv -> some : 1
+favorite tv some -> people : 1
+tv some people -> derive : 1
+some people derive -> enough : 1
+people derive enough -> reward : 1
+derive enough reward -> from : 1
+enough reward from -> the : 1
+reward from the -> exercise : 1
+from the exercise -> itself : 1
+the exercise itself -> which : 1
+exercise itself which -> acts : 1
+itself which acts -> as : 1
+which acts as -> powerful : 1
+acts as powerful -> reinforcement : 1
+as powerful reinforcement -> for : 1
+powerful reinforcement for -> their : 1
+reinforcement for their -> whatever : 1
+for their whatever -> you : 1
+their whatever you -> be : 1
+whatever you be -> sure : 1
+you be sure -> to : 1
+be sure to -> incorporate : 1
+sure to incorporate -> a : 1
+to incorporate a -> healthy : 1
+incorporate a healthy -> reward : 1
+a healthy reward -> into : 1
+healthy reward into -> your : 1
+reward into your -> habit : 1
+into your habit -> shows : 1
+your habit shows -> that : 1
+habit shows that -> our : 1
+shows that our -> brains : 1
+that our brains -> simply : 1
+our brains simply -> sum : 1
+brains simply sum -> up : 1
+simply sum up -> the : 1
+sum up the -> repetitive : 1
+up the repetitive -> behavior : 1
+the repetitive behavior -> we : 1
+repetitive behavior we -> engage : 1
+behavior we engage -> in : 1
+we engage in -> and : 1
+engage in and -> all : 1
+in and all -> of : 1
+and all of -> a : 1
+all of a -> treat : 1
+of a treat -> it : 1
+a treat it -> as : 1
+treat it as -> an : 1
+it as an -> automatic : 1
+as an automatic -> habit : 1
+an automatic habit -> once : 1
+automatic habit once -> achieved : 1
+habit once achieved -> some : 1
+once achieved some -> threshold : 1
+achieved some threshold -> number : 1
+some threshold number -> of : 1
+threshold number of -> habits : 1
+number of habits -> come : 1
+of habits come -> about : 1
+habits come about -> gradually : 1
+come about gradually -> over : 1
+about gradually over -> time : 1
+gradually over time -> and : 1
+over time and -> in : 1
+time and in -> a : 1
+and in a -> at : 1
+in a at -> consciously : 1
+a at consciously -> repeating : 1
+at consciously repeating -> a : 1
+consciously repeating a -> behavior : 1
+repeating a behavior -> in : 1
+a behavior in -> the : 1
+behavior in the -> same : 1
+in the same -> context : 1
+the same context -> on : 1
+same context on -> a : 1
+context on a -> daily : 1
+on a daily -> basis : 2
+a daily basis -> causes : 1
+a daily basis -> to : 1
+daily basis causes -> a : 1
+basis causes a -> relatively : 1
+causes a relatively -> quick : 1
+a relatively quick -> increase : 1
+relatively quick increase -> in : 1
+quick increase in -> how : 1
+increase in how -> automatic : 1
+in how automatic -> the : 1
+how automatic the -> behavior : 1
+automatic the behavior -> how : 1
+the behavior how -> habitual : 1
+behavior how habitual -> it : 1
+how habitual it -> this : 1
+habitual it this -> makes : 1
+it this makes -> since : 1
+this makes since -> at : 1
+makes since at -> the : 1
+since at the -> behavior : 1
+at the behavior -> is : 1
+the behavior is -> not : 1
+the behavior is -> refined : 1
+behavior is not -> at : 1
+is not at -> all : 1
+not at all -> so : 1
+at all so -> it : 1
+all so it -> stands : 1
+so it stands -> to : 1
+it stands to -> reason : 1
+stands to reason -> that : 1
+to reason that -> any : 1
+reason that any -> amount : 1
+that any amount -> of : 1
+any amount of -> practice : 1
+amount of practice -> will : 1
+of practice will -> have : 1
+practice will have -> the : 1
+will have the -> biggest : 1
+have the biggest -> gains : 1
+the biggest gains -> towards : 1
+biggest gains towards -> automating : 1
+gains towards automating -> the : 1
+towards automating the -> behavior : 1
+automating the behavior -> at : 1
+the behavior at -> this : 1
+behavior at this -> after : 1
+at this after -> repeated : 1
+this after repeated -> the : 1
+after repeated the -> behavior : 1
+repeated the behavior -> is : 1
+behavior is refined -> and : 1
+is refined and -> your : 1
+refined and your -> brain : 1
+your brain gradually -> switches : 1
+brain gradually switches -> over : 1
+gradually switches over -> to : 1
+switches over to -> full : 1
+over to full -> habit : 1
+to full habit -> have : 1
+full habit have -> also : 1
+habit have also -> found : 1
+have also found -> that : 1
+also found that -> after : 1
+found that after -> something : 1
+that after something -> becomes : 1
+after something becomes -> a : 1
+something becomes a -> our : 1
+becomes a our -> behavior : 1
+a our behavior -> actually : 1
+our behavior actually -> guided : 1
+behavior actually guided -> by : 1
+actually guided by -> our : 1
+guided by our -> internal : 1
+by our internal -> goals : 1
+our internal goals -> and : 1
+internal goals and -> motivations : 1
+goals and motivations -> habits : 1
+and motivations habits -> are : 1
+motivations habits are -> just : 1
+habits are just -> automatic : 1
+are just automatic -> responses : 1
+just automatic responses -> to : 1
+automatic responses to -> the : 1
+responses to the -> cues : 2
+to the cues -> in : 1
+to the cues -> of : 1
+the cues in -> our : 1
+cues in our -> and : 1
+in our and -> this : 1
+our and this -> is : 1
+and this is -> the : 1
+this is the -> important : 1
+is the important -> part : 1
+the important part -> with : 1
+important part with -> our : 1
+part with our -> goals : 1
+with our goals -> in : 1
+our goals in -> we : 1
+goals in we -> can : 1
+in we can -> consciously : 1
+we can consciously -> use : 1
+can consciously use -> our : 1
+consciously use our -> willpower : 1
+use our willpower -> to : 1
+willpower to manipulate -> our : 1
+to manipulate our -> environments : 1
+manipulate our environments -> and : 1
+our environments and -> develop : 1
+environments and develop -> desired : 1
+and develop desired -> habitual : 1
+develop desired habitual -> responses : 1
+desired habitual responses -> to : 1
+the cues of -> our : 1
+cues of our -> in : 1
+of our in -> this : 1
+our in this -> we : 1
+in this we -> can : 1
+this we can -> leverage : 1
+we can leverage -> our : 1
+can leverage our -> environments : 1
+leverage our environments -> on : 1
+our environments on -> a : 1
+environments on a -> daily : 1
+daily basis to -> develop : 1
+basis to develop -> habitual : 1
+to develop habitual -> behaviors : 1
+develop habitual behaviors -> that : 1
+habitual behaviors that -> will : 1
+behaviors that will -> help : 1
+that will help -> us : 1
+will help us -> reach : 1
+help us reach -> our : 1
+us reach our -> people : 1
+reach our people -> start : 1
+our people start -> out : 1
+people start out -> with : 1
+start out with -> good : 1
+out with good -> intentions : 1
+with good intentions -> and : 1
+good intentions and -> a : 1
+intentions and a -> strong : 1
+and a strong -> desire : 1
+a strong desire -> to : 1
+strong desire to -> develop : 1
+desire to develop -> healthy : 1
+to develop healthy -> habits : 1
+develop healthy habits -> only : 1
+healthy habits only -> to : 1
+habits only to -> slip : 1
+only to slip -> back : 1
+to slip back -> into : 1
+slip back into -> their : 1
+back into their -> studies : 1
+into their studies -> have : 1
+their studies have -> identified : 1
+studies have identified -> several : 1
+have identified several -> factors : 1
+identified several factors -> that : 1
+several factors that -> contribute : 1
+factors that contribute -> to : 1
+that contribute to -> forming : 1
+contribute to forming -> and : 1
+to forming and -> keeping : 1
+forming and keeping -> a : 1
+forming and keeping -> healthy : 1
+and keeping a -> lifestyle : 1
+keeping a lifestyle -> with : 1
+a lifestyle with -> healthy : 1
+lifestyle with healthy -> of : 1
+with healthy of -> those : 1
+healthy of those -> factors : 1
+of those factors -> is : 1
+those factors is -> relatively : 1
+factors is relatively -> just : 1
+is relatively just -> knowing : 1
+relatively just knowing -> the : 1
+just knowing the -> basics : 1
+knowing the basics -> about : 1
+the basics about -> how : 1
+basics about how -> habits : 1
+about how habits -> are : 1
+formed and how -> they : 1
+how they work -> can : 1
+they work can -> significantly : 1
+work can significantly -> increase : 1
+can significantly increase -> your : 1
+significantly increase your -> chances : 1
+increase your chances -> of : 1
+your chances of -> forming : 1
+chances of forming -> and : 1
+of forming and -> keeping : 1
+and keeping healthy -> habits : 1
+keeping healthy habits -> maybe : 1
+healthy habits maybe -> even : 1
+habits maybe even -> get : 1
+maybe even get -> rid : 1
+even get rid -> of : 1
+get rid of -> a : 1
+rid of a -> few : 1
+of a few -> bad : 1
+a few bad -> educating : 1
+few bad educating -> yourself : 1
+bad educating yourself -> by : 1
+educating yourself by -> reading : 1
+yourself by reading -> something : 1
+by reading something -> like : 1
+reading something like -> this : 1
+something like this -> gives : 1
+like this gives -> you : 1
+this gives you -> a : 1
+gives you a -> leg : 1
+you a leg -> up : 1
+a leg up -> on : 1
+leg up on -> establishing : 1
+up on establishing -> healthy : 1
+on establishing healthy -> habits : 1
+establishing healthy habits -> in : 1
+healthy habits in -> your : 1
+habits in your -> already : 1
+in your already -> on : 1
+your already on -> your : 1
+already on your -> big : 1
+on your big -> factor : 1
+your big factor -> is : 1
+big factor is -> how : 1
+factor is how -> you : 1
+is how you -> perceive : 1
+how you perceive -> the : 1
+you perceive the -> habit : 1
+perceive the habit -> you : 1
+the habit you -> want : 1
+habit you want -> to : 1
+want to if -> the : 1
+to if the -> habit : 1
+if the habit -> seems : 1
+the habit seems -> then : 1
+habit seems then -> it : 1
+seems then it -> will : 2
+then it will -> feel : 1
+then it will -> be : 1
+it will feel -> if : 1
+will feel if -> it : 1
+feel if it -> seems : 1
+if it seems -> then : 1
+it seems then -> it : 1
+it will be -> sounds : 1
+will be sounds -> but : 1
+be sounds but -> it : 1
+sounds but it -> has : 1
+but it has -> serious : 1
+it has serious -> if : 1
+has serious if -> you : 1
+serious if you -> want : 1
+if you want -> to : 1
+want to lose -> weight : 1
+to lose weight -> and : 1
+to lose weight -> by : 1
+lose weight and -> you : 1
+weight and you -> decide : 1
+and you decide -> that : 1
+you decide that -> you : 1
+decide that you -> want : 1
+that you want -> to : 1
+to do it -> by : 1
+do it by -> working : 1
+it by working -> out : 1
+by working out -> for : 1
+working out for -> minutes : 2
+out for minutes -> per : 2
+for minutes per -> six : 2
+minutes per six -> days : 2
+per six days -> per : 2
+six days per -> that : 1
+six days per -> key : 1
+days per that -> is : 1
+per that is -> going : 1
+that is going -> to : 1
+is going to -> feel : 1
+going to feel -> like : 1
+to feel like -> a : 1
+feel like a -> gigantic : 1
+like a gigantic -> and : 1
+a gigantic and -> daunting : 1
+gigantic and daunting -> because : 1
+and daunting because -> it : 1
+daunting because it -> feels : 1
+because it feels -> gigantic : 1
+it feels gigantic -> and : 1
+feels gigantic and -> far : 1
+gigantic and far -> more : 1
+and far more -> likely : 1
+far more likely -> to : 1
+more likely to -> give : 1
+likely to give -> whereas : 1
+to give whereas -> if : 1
+give whereas if -> you : 1
+whereas if you -> decide : 1
+if you decide -> to : 1
+you decide to -> lose : 1
+decide to lose -> weight : 1
+lose weight by -> walking : 1
+weight by walking -> for : 1
+by walking for -> minutes : 1
+walking for minutes -> after : 1
+for minutes after -> dinner : 2
+minutes after dinner -> each : 2
+after dinner each -> night : 2
+dinner each night -> dinner : 1
+dinner each night -> for : 1
+each night dinner -> is : 1
+night dinner is -> your : 1
+dinner is your -> then : 1
+is your then -> it : 1
+your then it -> feels : 1
+then it feels -> very : 1
+it feels very -> easy : 1
+feels very easy -> to : 1
+very easy to -> and : 1
+easy to and -> therefore : 1
+to and therefore -> it : 1
+and therefore it -> beautiful : 1
+therefore it beautiful -> thing : 1
+it beautiful thing -> is : 1
+beautiful thing is -> that : 1
+thing is that -> once : 1
+is that once -> adopted : 1
+that once adopted -> the : 1
+once adopted the -> version : 1
+adopted the version -> of : 1
+the version of -> your : 1
+version of your -> desired : 1
+of your desired -> you : 1
+your desired you -> can : 1
+desired you can -> always : 1
+you can always -> amp : 1
+can always amp -> it : 1
+always amp it -> up : 1
+amp it up -> for : 1
+it up for -> if : 1
+up for if -> you : 1
+for if you -> walk : 1
+if you walk -> for : 1
+you walk for -> minutes : 1
+walk for minutes -> after : 1
+walk for minutes -> then : 1
+each night for -> a : 1
+night for a -> you : 1
+for a you -> can : 1
+a you can -> walk : 1
+you can walk -> for : 1
+can walk for -> minutes : 1
+for minutes then -> you : 1
+minutes then you -> can : 1
+then you can -> try : 1
+then you can -> add : 1
+you can try -> out : 1
+can try out -> a : 1
+try out a -> little : 1
+out a little -> bit : 1
+little bit of -> then : 1
+bit of then -> you : 1
+of then you -> can : 1
+you can add -> calisthenics : 1
+can add calisthenics -> and : 1
+add calisthenics and -> and : 1
+calisthenics and and -> before : 1
+and and before -> you : 1
+and before you -> know : 1
+before you know -> working : 1
+you know working -> out : 1
+know working out -> for : 1
+days per key -> is : 1
+per key is -> to : 1
+key is to -> start : 1
+is to start -> set : 1
+to start set -> the : 1
+start set the -> bar : 1
+set the bar -> if : 1
+the bar if -> you : 1
+bar if you -> suffer : 1
+if you suffer -> from : 1
+you suffer from -> chronic : 1
+suffer from chronic -> low : 1
+from chronic low -> and : 1
+chronic low and -> low : 1
+low and low -> you : 1
+and low you -> have : 1
+low you have -> to : 1
+you have to -> start : 1
+have to start -> where : 1
+to start where -> you : 1
+start where you -> expect : 1
+where you expect -> the : 1
+you expect the -> quantum : 1
+expect the quantum -> at : 1
+the quantum at -> least : 1
+quantum at least -> not : 1
+at least not -> at : 1
+least not at -> i : 1
+not at i -> know : 1
+at i know -> someone : 1
+i know someone -> who : 1
+know someone who -> lost : 1
+someone who lost -> of : 1
+who lost of -> weight : 1
+lost of weight -> over : 1
+of weight over -> a : 1
+weight over a -> he : 1
+over a he -> was : 1
+he was running -> marathons : 1
+was running marathons -> by : 1
+running marathons by -> the : 1
+marathons by the -> time : 1
+by the time -> he : 1
+the time he -> was : 1
+time he was -> in : 1
+he was in -> but : 1
+was in but -> you : 1
+in but you -> know : 1
+but you know -> how : 1
+you know how -> he : 1
+know how he -> started : 1
+how he started -> four : 1
+he started four -> minutes : 1
+started four minutes -> a : 1
+four minutes a -> day : 1
+minutes a day -> on : 1
+a day on -> the : 1
+day on the -> exercise : 1
+on the exercise -> all : 1
+the exercise all -> he : 1
+exercise all he -> could : 1
+all he could -> do : 1
+he could do -> at : 1
+he could do -> a : 2
+could do at -> but : 1
+do at but -> he : 1
+at but he -> did : 1
+but he did -> it : 1
+he did it -> single : 1
+did it single -> and : 1
+it single and -> increased : 1
+single and increased -> his : 1
+and increased his -> workout : 1
+increased his workout -> as : 1
+his workout as -> he : 1
+workout as he -> lost : 1
+as he lost -> more : 1
+he lost more -> weight : 1
+lost more weight -> and : 1
+more weight and -> gained : 1
+weight and gained -> more : 1
+and gained more -> he : 1
+gained more he -> knew : 1
+more he knew -> he : 1
+he knew he -> could : 1
+knew he could -> do : 1
+could do a -> few : 2
+do a few -> minutes : 1
+do a few -> then : 1
+a few minutes -> on : 1
+few minutes on -> the : 1
+minutes on the -> he : 1
+on the he -> figured : 1
+the he figured -> he : 1
+he figured he -> could : 2
+figured he could -> do : 1
+figured he could -> go : 1
+a few then -> he : 1
+few then he -> figured : 1
+then he figured -> he : 1
+he could go -> for : 1
+could go for -> a : 1
+go for a -> then : 1
+for a then -> he : 1
+a then he -> believed : 1
+then he believed -> he : 1
+he believed he -> could : 1
+believed he could -> run : 1
+he could run -> then : 1
+could run then -> he : 1
+run then he -> set : 1
+then he set -> a : 1
+he set a -> goal : 1
+set a goal -> to : 1
+a goal to -> run : 1
+goal to run -> a : 1
+to run a -> marathon : 1
+run a marathon -> and : 1
+a marathon and -> did : 1
+marathon and did -> ridiculously : 1
+and did ridiculously -> overweight : 1
+did ridiculously overweight -> so : 1
+ridiculously overweight so -> i : 1
+overweight so i -> should : 1
+so i should -> run : 1
+i should run -> a : 1
+should run a -> he : 1
+run a he -> instead : 1
+a he instead -> started : 1
+he instead started -> where : 1
+instead started where -> he : 1
+started where he -> which : 1
+where he which -> was : 1
+he which was -> in : 1
+which was in -> his : 1
+was in his -> basement : 1
+in his basement -> on : 1
+his basement on -> an : 1
+basement on an -> exercise : 1
+on an exercise -> bike : 1
+an exercise bike -> for : 1
+exercise bike for -> minutes : 1
+bike for minutes -> a : 1
+for minutes a -> this : 1
+minutes a this -> kept : 1
+a this kept -> him : 1
+this kept him -> engaged : 1
+kept him engaged -> and : 1
+him engaged and -> he : 1
+engaged and he -> feel : 1
+and he feel -> too : 1
+he feel too -> overwhelmed : 1
+feel too overwhelmed -> while : 1
+too overwhelmed while -> he : 1
+overwhelmed while he -> was : 1
+while he was -> working : 1
+he was working -> to : 1
+was working to -> create : 1
+working to create -> a : 1
+to create a -> healthier : 1
+create a healthier -> few : 1
+a healthier few -> other : 1
+healthier few other -> things : 1
+few other things -> to : 1
+other things to -> keep : 1
+things to keep -> in : 1
+to keep in -> consistency : 1
+keep in consistency -> is : 1
+in consistency is -> research : 1
+consistency is research -> has : 1
+is research has -> shown : 1
+shown that missing -> one : 1
+that missing one -> or : 1
+missing one or -> a : 1
+one or a -> handful : 1
+or a handful -> of : 1
+a handful of -> opportunities : 1
+handful of opportunities -> to : 1
+of opportunities to -> practice : 1
+opportunities to practice -> a : 1
+to practice a -> desired : 1
+practice a desired -> habit : 1
+a desired habit -> will : 1
+desired habit will -> not : 1
+habit will not -> ruin : 1
+will not ruin -> your : 1
+not ruin your -> chances : 1
+ruin your chances -> at : 1
+your chances at -> establishing : 1
+chances at establishing -> that : 1
+at establishing that -> habit : 1
+establishing that habit -> in : 1
+that habit in -> the : 1
+habit in the -> long : 1
+in the long -> beat : 1
+the long beat -> yourself : 1
+long beat yourself -> up : 1
+beat yourself up -> if : 1
+yourself up if -> you : 1
+up if you -> miss : 1
+if you miss -> a : 1
+you miss a -> workout : 1
+miss a workout -> session : 1
+a workout session -> or : 1
+workout session or -> you : 1
+session or you -> pig : 1
+or you pig -> out : 1
+you pig out -> one : 1
+pig out one -> night : 1
+out one night -> on : 1
+one night on -> pizza : 1
+night on pizza -> and : 1
+on pizza and -> ice : 1
+pizza and ice -> acknowledge : 1
+and ice acknowledge -> it : 1
+ice acknowledge it -> as : 1
+acknowledge it as -> just : 1
+it as just -> part : 1
+as just part -> of : 1
+just part of -> the : 1
+part of the -> process : 1
+of the process -> and : 1
+the process and -> get : 1
+process and get -> back : 1
+and get back -> to : 1
+back to your -> routine : 1
+to your routine -> as : 1
+your routine as -> soon : 1
+routine as soon -> as : 1
+soon as you -> develop : 1
+as you develop -> and : 1
+you develop and -> acquire : 1
+develop and acquire -> habits : 1
+and acquire habits -> at : 1
+acquire habits at -> the : 1
+habits at the -> same : 1
+the same everyone -> is : 1
+same everyone is -> there : 1
+everyone is there -> are : 1
+is there are -> a : 1
+there are a -> lot : 1
+are a lot -> of : 1
+lot of products -> and : 1
+of products and -> advice : 1
+products and advice -> out : 1
+and advice out -> there : 1
+advice out there -> that : 1
+out there that -> promise : 1
+there that promise -> a : 1
+that promise a -> goal : 1
+promise a goal -> within : 1
+a goal within -> a : 1
+goal within a -> definitive : 1
+within a definitive -> time : 1
+a definitive time -> days : 1
+definitive time days -> to : 1
+time days to -> read : 1
+days to read -> times : 1
+to read times -> faster : 1
+read times faster -> in : 1
+times faster in -> retire : 1
+faster in retire -> months : 1
+in retire months -> from : 1
+retire months from -> all : 1
+months from all -> set : 1
+from all set -> goals : 1
+all set goals -> know : 1
+set goals know -> your : 1
+goals know your -> limitations : 1
+know your limitations -> and : 1
+your limitations and -> then : 1
+limitations and then -> work : 1
+and then work -> to : 1
+then work to -> eliminate : 1
+work to eliminate -> them : 1
+to eliminate them -> at : 1
+eliminate them at -> your : 1
+them at your -> own : 1
+at your own -> final : 1
+your own final -> word : 1
+own final word -> on : 1
+final word on -> jonathan : 1
+word on jonathan -> franzen : 1
+on jonathan franzen -> once : 1
+jonathan franzen once -> said : 1
+franzen once said -> that : 1
+once said that -> nothing : 1
+said that nothing -> good : 1
+that nothing good -> could : 1
+nothing good could -> be : 1
+good could be -> written : 1
+could be written -> on : 1
+be written on -> a : 1
+written on a -> laptop : 1
+on a laptop -> that : 1
+a laptop that -> had : 1
+laptop that had -> an : 1
+that had an -> internet : 1
+had an internet -> your : 1
+an internet your -> goal : 1
+internet your goal -> should : 1
+your goal should -> not : 1
+goal should not -> be : 1
+should not be -> the : 1
+not be the -> final : 1
+be the final -> end : 1
+the final end -> but : 1
+final end but -> creating : 1
+end but creating -> circumstances : 1
+but creating circumstances -> that : 1
+creating circumstances that -> make : 1
+circumstances that make -> the : 1
+that make the -> end : 1
+make the end -> product : 1
+the end product -> of : 1
+end product of -> setting : 1
+product of setting -> a : 1
+of setting a -> goal : 1
+setting a goal -> of : 1
+a goal of -> getting : 1
+goal of getting -> of : 1
+of getting of -> work : 1
+getting of work -> done : 1
+of work done -> each : 1
+work done each -> expend : 1
+done each expend -> your : 1
+each expend your -> willpower : 1
+expend your willpower -> on : 1
+your willpower on -> habits : 1
+willpower on habits -> which : 1
+on habits which -> will : 1
+habits which will -> make : 1
+which will make -> that : 1
+will make that -> disconnecting : 1
+make that disconnecting -> setting : 1
+that disconnecting setting -> up : 1
+disconnecting setting up -> behaviors : 1
+setting up behaviors -> only : 1
+up behaviors only -> require : 1
+behaviors only require -> willpower : 1
+only require willpower -> until : 1
+require willpower until -> ingrained : 1
+willpower until ingrained -> in : 1
+until ingrained in -> until : 1
+ingrained in until -> we : 1
+in until we -> no : 1
+until we no -> longer : 1
+we no longer -> have : 1
+no longer have -> to : 1
+longer have to -> think : 1
+have to think -> about : 1
+to think about -> instead : 1
+think about instead -> of : 1
+about instead of -> asking : 1
+instead of asking -> yourself : 1
+of asking yourself -> what : 1
+asking yourself what -> goal : 1
+yourself what goal -> like : 1
+what goal like -> to : 1
+goal like to -> go : 1
+like to go -> one : 1
+to go one -> step : 1
+go one step -> further : 1
+one step further -> and : 1
+step further and -> ask : 1
+further and ask -> which : 1
+and ask which -> habits : 1
+ask which habits -> have : 1
+which habits have -> to : 1
+habits have to -> implement : 1
+have to implement -> in : 1
+to implement in -> order : 1
+implement in order -> for : 1
+in order for -> that : 1
+order for that -> goal : 1
+for that goal -> to : 1
+that goal to -> be : 1
+goal to be -> and : 1
+to be and -> then : 1
+be and then -> expend : 1
+and then expend -> the : 1
+then expend the -> willpower : 1
+expend the willpower -> on : 1
+the willpower on -> implementing : 1
+willpower on implementing -> those : 1
+on implementing those -> life : 1
+implementing those life -> raskoff : 1
+those life raskoff -> cognitive : 1
+life raskoff cognitive -> and : 1
+raskoff cognitive and -> attentional : 1
+cognitive and attentional -> mechanisms : 1
+and attentional mechanisms -> in : 1
+attentional mechanisms in -> delay : 1
+mechanisms in delay -> of : 1
+in delay of -> of : 1
+delay of of -> personality : 1
+of of personality -> and : 1
+of personality and -> social : 2
+personality and social -> delay : 1
+personality and social -> restoring : 1
+and social delay -> of : 1
+social delay of -> gratification : 1
+delay of gratification -> in : 1
+of gratification in -> a : 1
+gratification in a -> gradient : 1
+in a gradient -> of : 1
+a gradient of -> childhood : 1
+gradient of childhood -> predicts : 1
+of childhood predicts -> and : 1
+childhood predicts and -> public : 1
+predicts and public -> of : 1
+and public of -> the : 1
+public of the -> national : 1
+of the national -> academy : 1
+the national academy -> of : 1
+national academy of -> over : 1
+academy of over -> the : 1
+of over the -> life : 1
+over the life -> decomposing : 1
+the life decomposing -> cognitive : 1
+life decomposing cognitive -> and : 1
+decomposing cognitive and -> affective : 1
+cognitive and affective -> ego : 1
+and affective ego -> is : 1
+affective ego is -> the : 1
+ego is the -> active : 1
+is the active -> self : 1
+the active self -> a : 1
+active self a -> limited : 1
+self a limited -> of : 1
+a limited of -> personality : 1
+limited of personality -> and : 1
+and social restoring -> the : 1
+social restoring the -> positive : 1
+restoring the positive -> affect : 1
+the positive affect -> helps : 1
+positive affect helps -> improve : 1
+affect helps improve -> following : 1
+helps improve following -> ego : 1
+improve following ego -> of : 1
+following ego of -> experimental : 1
+ego of experimental -> social : 1
+of experimental social -> unlocking : 1
+experimental social unlocking -> the : 1
+social unlocking the -> energy : 1
+unlocking the energy -> dynamics : 1
+the energy dynamics -> of : 1
+energy dynamics of -> executive : 1
+dynamics of executive -> linking : 1
+of executive linking -> executive : 1
+executive linking executive -> functioning : 1
+linking executive functioning -> to : 1
+executive functioning to -> brain : 1
+functioning to brain -> on : 1
+to brain on -> psychological : 1
+brain on psychological -> too : 1
+on psychological too -> much : 1
+psychological too much -> of : 1
+too much of -> a : 1
+much of a -> good : 1
+of a good -> the : 1
+a good the -> benefits : 1
+good the benefits -> of : 1
+the benefits of -> implementation : 1
+benefits of implementation -> intentions : 1
+of implementation intentions -> depend : 1
+implementation intentions depend -> on : 1
+intentions depend on -> the : 1
+depend on the -> number : 1
+on the number -> of : 1
+the number of -> of : 1
+number of of -> consumer : 1
+of of consumer -> predicting : 1
+of consumer predicting -> the : 1
+consumer predicting the -> case : 1
+predicting the case -> of : 1
+the case of -> physical : 1
+case of physical -> of : 1
+of physical of -> sport : 1
+physical of sport -> and : 1
+of sport and -> van : 1
+sport and van -> how : 1
+and van how -> are : 1
+van how are -> habits : 1
+how are habits -> modeling : 1
+are habits modeling -> habit : 1
+habits modeling habit -> formation : 1
+modeling habit formation -> in : 1
+habit formation in -> the : 1
+formation in the -> real : 1
+in the real -> journal : 1
+the real journal -> of : 1
+real journal of -> social : 1
+journal of social -> a : 1
+of social a -> new : 1
+social a new -> look : 1
+a new look -> at : 1
+new look at -> habits : 1
+look at habits -> and : 1
+at habits and -> the : 1
+habits and the -> healthy : 1
+and the healthy -> efficacy : 1
+the healthy efficacy -> of : 1
+healthy efficacy of -> simple : 1
+efficacy of simple -> advice : 1
+of simple advice -> on : 1
+simple advice on -> weight : 1
+advice on weight -> control : 1
+on weight control -> based : 1
+weight control based -> on : 1
+control based on -> a : 1
+based on a -> journal : 1
+on a journal -> of : 1

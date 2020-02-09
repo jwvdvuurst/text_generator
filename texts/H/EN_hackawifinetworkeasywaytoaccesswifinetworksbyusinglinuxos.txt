@@ -1,0 +1,145 @@
+will : 1
+need : 1
+little : 1
+education : 1
+python : 1
+install : 1
+on : 1
+pc : 1
+or : 1
+tutorial : 1
+only : 1
+eduactional : 1
+author : 1
+responsible : 1
+illegal : 1
+during : 1
+installing : 1
+and : 1
+setting : 1
+up : 1
+loose : 1
+your : 1
+if : 1
+know : 1
+use : 1
+wifi : 1
+adapter : 1
+high : 1
+open : 1
+check : 1
+start : 1
+c : 1
+to : 1
+wait : 1
+capture : 1
+list : 1
+wpalist : 1
+are : 1
+dictionaries : 1
+download : 1
+these : 1
+from : 1
+made : 1
+by : 1
+all : 2
+linux : 2
+operating : 2
+system : 2
+about : 2
+any : 2
+the : 2
+this : 2
+pdf : 2
+not : 2
+do : 2
+a : 3
+of : 3
+can : 3
+is : 3
+for : 4
+you : 5
+a of all -> you : 1
+of all you -> will : 1
+all you will -> need : 1
+you will need -> a : 1
+will need a -> linux : 1
+need a linux -> operating : 1
+a linux operating -> system : 1
+linux operating system -> a : 1
+linux operating system -> on : 1
+operating system a -> little : 1
+system a little -> education : 1
+a little education -> about : 1
+little education about -> python : 1
+education about python -> you : 1
+about python you -> can : 1
+python you can -> install : 1
+you can install -> linux : 1
+can install linux -> operating : 1
+install linux operating -> system : 1
+operating system on -> any : 1
+system on any -> pc : 1
+on any pc -> or : 1
+any pc or -> tutorial : 1
+pc or tutorial -> is : 1
+or tutorial is -> only : 1
+tutorial is only -> for : 1
+is only for -> eduactional : 1
+only for eduactional -> the : 1
+for eduactional the -> author : 1
+eduactional the author -> of : 1
+the author of -> this : 1
+author of this -> pdf : 1
+of this pdf -> is : 1
+this pdf is -> not : 1
+this pdf is -> made : 1
+pdf is not -> responsible : 1
+is not responsible -> for : 1
+not responsible for -> any : 1
+responsible for any -> illegal : 1
+for any illegal -> during : 1
+any illegal during -> installing : 1
+illegal during installing -> and : 1
+during installing and -> setting : 1
+installing and setting -> up : 1
+and setting up -> you : 1
+setting up you -> can : 1
+up you can -> loose : 1
+you can loose -> all : 1
+can loose all -> of : 1
+loose all of -> your : 1
+all of your -> do : 1
+of your do -> not : 1
+your do not -> do : 1
+do not do -> if : 1
+not do if -> you : 1
+do if you -> know : 1
+if you know -> about : 1
+you know about -> use : 1
+know about use -> wifi : 1
+about use wifi -> adapter : 1
+use wifi adapter -> for : 1
+wifi adapter for -> high : 1
+adapter for high -> open : 1
+for high open -> check : 1
+high open check -> start : 1
+open check start -> c : 1
+check start c -> to : 1
+start c to -> wait : 1
+c to wait -> for : 1
+to wait for -> capture : 1
+wait for capture -> list : 1
+for capture list -> wpalist : 1
+capture list wpalist -> are : 1
+list wpalist are -> the : 1
+wpalist are the -> dictionaries : 1
+are the dictionaries -> you : 1
+the dictionaries you -> can : 1
+dictionaries you can -> download : 1
+you can download -> these : 1
+can download these -> from : 1
+download these from -> this : 1
+these from this -> pdf : 1
+from this pdf -> is : 1
+pdf is made -> by : 1

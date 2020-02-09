@@ -1,0 +1,2071 @@
+freelance : 1
+publicist : 1
+definitieve : 1
+doorbraak : 1
+publiek : 1
+bereikte : 1
+waarmee : 1
+gouden : 1
+strop : 1
+daarna : 1
+schreef : 1
+succesvolle : 1
+roman : 1
+zowel : 1
+nl : 1
+inmiddels : 1
+eyeworks : 1
+hoofdrollen : 1
+topacteurs : 1
+angela : 1
+huet : 1
+monique : 1
+der : 1
+goede : 1
+voorbereiding : 1
+halve : 1
+gedaan : 1
+hoef : 1
+staan : 1
+voldoende : 1
+begonnen : 1
+trekken : 1
+fond : 1
+verse : 1
+gekonfijt : 1
+ganzenvet : 1
+temperatuur : 1
+ontvliesd : 1
+roer : 1
+rattengif : 1
+flessen : 1
+voorgesneden : 1
+aardappels : 1
+vers : 1
+pasta : 1
+geweest : 1
+professioneel : 1
+kok : 1
+liever : 1
+kook : 1
+vier : 1
+ochtenden : 1
+week : 1
+nederlandse : 1
+les : 1
+fiets : 1
+vaste : 1
+adresjes : 1
+slager : 1
+lamsbout : 1
+visboer : 1
+mooiste : 1
+tonijn : 1
+kruidenstalletje : 1
+peterselie : 1
+citroenbasilicum : 1
+bekend : 1
+sprankelende : 1
+gevoel : 1
+humor : 1
+menig : 1
+verleid : 1
+ossobucco : 1
+bewezen : 1
+succesgerecht : 1
+vijfgangenmaaltijd : 1
+wanhopig : 1
+bereid : 1
+vlees : 1
+honger : 1
+mannen : 1
+dol : 1
+aanbad : 1
+koudgerookte : 1
+zelfgebakken : 1
+taarten : 1
+geur : 1
+maand : 1
+natuurlijk : 1
+wist : 1
+boven : 1
+macht : 1
+bovendien : 1
+gezonde : 1
+hadden : 1
+datum : 1
+omgefietst : 1
+biologische : 1
+bressekip : 1
+vervolgens : 1
+organen : 1
+gepeuterd : 1
+vullen : 1
+mengsel : 1
+munt : 1
+paar : 1
+happen : 1
+genomen : 1
+gaf : 1
+klopte : 1
+bedoelde : 1
+geschokt : 1
+dieper : 1
+achteraf : 1
+gezien : 1
+bruiloft : 1
+jaar : 1
+normaalste : 1
+zaak : 1
+wereld : 1
+diep : 1
+nacht : 1
+thuis : 1
+komen : 1
+smerige : 1
+praten : 1
+vrijen : 1
+ons : 1
+huwelijk : 1
+keukenkast : 1
+weggegooid : 1
+langzaam : 1
+zeker : 1
+resistent : 1
+steeds : 1
+brandende : 1
+sensatie : 1
+vlakt : 1
+alle : 1
+smaken : 1
+hete : 1
+massa : 1
+waarin : 1
+nuances : 1
+onderscheiden : 1
+daarom : 1
+gekozen : 1
+menu : 1
+fluwelen : 1
+waarbij : 1
+hevige : 1
+dissonant : 1
+besloten : 1
+rekening : 1
+mogelijk : 1
+wijn : 1
+slijter : 1
+gehaald : 1
+dek : 1
+anderhalf : 1
+uur : 1
+fronst : 1
+gedekte : 1
+antwoord : 1
+schiet : 1
+prettige : 1
+trouwdag : 1
+hoeven : 1
+hele : 1
+kust : 1
+glaasje : 1
+zitten : 1
+boerenkool : 1
+worst : 1
+heus : 1
+merken : 1
+gekwetst : 1
+courgettebloem : 1
+mousseline : 1
+gespannen : 1
+hap : 1
+kijk : 1
+bewegende : 1
+lippen : 1
+tong : 1
+misgegaan : 1
+tussen : 1
+waarom : 1
+houdt : 1
+snijd : 1
+voorzichtig : 1
+simpel : 1
+weinig : 1
+uren : 1
+kost : 1
+sluit : 1
+absolute : 1
+schrik : 1
+hebben : 1
+enkele : 1
+stappen : 1
+eettafel : 1
+houd : 1
+contact : 1
+onder : 1
+richting : 1
+overweeg : 1
+denk : 1
+gevoelloos : 1
+verfijnde : 1
+compositie : 1
+durft : 1
+krijg : 1
+verdiende : 1
+gelopen : 1
+nadat : 1
+tevredenheid : 1
+resten : 1
+vingers : 1
+opstaan : 1
+moe : 1
+probeer : 1
+herinneren : 1
+wanneer : 1
+vriendelijks : 1
+doen : 1
+opmerkingen : 1
+korte : 1
+druk : 1
+koken : 1
+eigenlijk : 1
+stress : 1
+gebrek : 1
+vorm : 1
+willen : 1
+nou : 1
+eenmaal : 1
+vandaan : 1
+plotselinge : 1
+aardige : 1
+twaalf : 1
+slaat : 1
+tussengerecht : 1
+klaar : 1
+huid : 1
+gebakken : 1
+rode : 1
+kunst : 1
+vis : 1
+lang : 1
+deze : 1
+ene : 1
+zout : 1
+gebruiken : 1
+denken : 1
+dood : 1
+twee : 1
+minuten : 1
+artikel : 1
+kabinet : 1
+aangekeken : 1
+natuur : 1
+worden : 1
+bromt : 1
+neem : 1
+schuift : 1
+groot : 1
+leerling : 1
+gekomen : 1
+pikzwarte : 1
+hoe : 1
+dus : 1
+alweer : 1
+afdwalen : 1
+tijd : 1
+geluid : 1
+malende : 1
+antwoordt : 1
+pakt : 1
+weer : 1
+ken : 1
+opluchting : 1
+bak : 1
+mooi : 1
+krokant : 1
+warm : 1
+linzen : 1
+puy : 1
+kalfswangetjes : 1
+kalfsfond : 1
+gemonteerd : 1
+boter : 1
+gebracht : 1
+proef : 1
+tijm : 1
+niets : 1
+schep : 1
+drapeer : 1
+eroverheen : 1
+schaaf : 1
+truffel : 1
+strijk : 1
+kan : 1
+kordaatheid : 1
+loop : 1
+kijkt : 1
+nauwelijks : 1
+ten : 1
+dag : 1
+leven : 1
+opzij : 1
+raar : 1
+soort : 1
+spanning : 1
+bijna : 1
+staat : 1
+verlamd : 1
+opgesloten : 1
+opentrekken : 1
+rek : 1
+terug : 1
+zet : 1
+keel : 1
+eerlijk : 1
+gezegd : 1
+sambalgebruik : 1
+misschien : 1
+ligt : 1
+allemaal : 1
+beter : 1
+zeg : 1
+trekt : 1
+draait : 1
+vervelend : 1
+vinden : 1
+smeren : 1
+steekt : 1
+mes : 1
+smeert : 1
+erg : 1
+best : 1
+besef : 1
+gevraagd : 1
+fucking : 1
+driesterrenmaaltijd : 1
+binnen : 1
+stil : 1
+snijdt : 1
+stomme : 1
+maak : 1
+eens : 1
+maakt : 1
+beste : 1
+ingewikkelder : 1
+boos : 1
+brengt : 1
+klinkt : 1
+bezig : 1
+alsof : 1
+religie : 1
+snap : 1
+signaalrode : 1
+enorme : 1
+agressie : 1
+blij : 1
+perfect : 1
+god : 1
+doet : 1
+lik : 1
+volle : 1
+mond : 1
+vervolgt : 1
+echte : 1
+haute : 1
+cuisine : 1
+geval : 1
+smakelijke : 1
+zij : 2
+grote : 2
+wordt : 2
+verfilmd : 2
+kun : 2
+aandacht : 2
+gasten : 2
+vroeg : 2
+slot : 2
+pak : 2
+oelek : 2
+hou : 2
+alles : 2
+wens : 2
+mensen : 2
+per : 2
+geef : 2
+werk : 2
+sta : 2
+of : 2
+man : 2
+wilde : 2
+blijven : 2
+begon : 2
+graag : 2
+veel : 2
+glas : 2
+water : 2
+echt : 2
+nu : 2
+vijf : 2
+vindt : 2
+bereide : 2
+gerechten : 2
+normaal : 2
+word : 2
+hebt : 2
+nodig : 2
+andere : 2
+zit : 2
+kans : 2
+laatste : 2
+wenkbrauwen : 2
+onze : 2
+uurtje : 2
+loopt : 2
+toe : 2
+dan : 2
+serveer : 2
+zoals : 2
+begin : 2
+gerecht : 2
+ziet : 2
+zoiets : 2
+ogen : 2
+terwijl : 2
+omdat : 2
+open : 2
+af : 2
+lekker : 2
+ben : 2
+keer : 2
+weleens : 2
+heeft : 2
+mul : 2
+genoeg : 2
+alvast : 2
+prins : 2
+zie : 2
+naast : 2
+plakjes : 2
+smaak : 2
+linzenmengsel : 2
+likje : 2
+daar : 2
+mij : 2
+iedere : 2
+lichaam : 2
+eten : 2
+heel : 2
+altijd : 2
+haar : 3
+door : 3
+goed : 3
+al : 3
+koelkast : 3
+vind : 3
+tot : 3
+nooit : 3
+na : 3
+weet : 3
+zonder : 3
+niels : 3
+stuk : 3
+liefde : 3
+enige : 3
+zei : 3
+net : 3
+we : 3
+tegen : 3
+bent : 3
+alleen : 3
+neemt : 3
+wil : 3
+tafel : 3
+laat : 3
+voel : 3
+gewoon : 3
+zelf : 3
+zegt : 3
+vraag : 3
+besluit : 3
+borden : 3
+legt : 3
+nieuwe : 3
+ze : 4
+eerste : 4
+avond : 4
+keuken : 4
+geen : 4
+stukje : 4
+komt : 4
+toen : 4
+zich : 4
+jij : 4
+zou : 4
+bij : 4
+wel : 4
+dit : 4
+saus : 4
+moet : 4
+meer : 5
+potje : 5
+was : 5
+even : 5
+iets : 5
+gaat : 5
+krant : 5
+wat : 6
+over : 6
+zo : 6
+waar : 7
+die : 7
+had : 7
+zwezerik : 8
+uit : 8
+ook : 8
+hem : 9
+maar : 9
+toch : 9
+aan : 10
+sambal : 10
+voor : 11
+er : 12
+me : 12
+nog : 12
+naar : 13
+heb : 15
+als : 18
+niet : 18
+om : 18
+dat : 18
+zijn : 19
+met : 21
+op : 22
+mijn : 23
+in : 24
+van : 25
+is : 26
+en : 32
+te : 32
+hij : 34
+je : 35
+een : 50
+de : 54
+het : 58
+ik : 70
+is freelance publicist -> en : 1
+freelance publicist en -> in : 1
+publicist en in -> zij : 1
+en in zij -> met : 1
+in zij met -> haar : 1
+zij met haar -> definitieve : 1
+met haar definitieve -> doorbraak : 1
+haar definitieve doorbraak -> naar : 1
+definitieve doorbraak naar -> het : 1
+doorbraak naar het -> grote : 1
+naar het grote -> publiek : 1
+het grote publiek -> bereikte : 1
+grote publiek bereikte -> zij : 1
+publiek bereikte zij -> waarmee : 1
+bereikte zij waarmee -> ze : 1
+zij waarmee ze -> de : 1
+waarmee ze de -> gouden : 1
+ze de gouden -> strop : 1
+de gouden strop -> daarna : 1
+gouden strop daarna -> schreef : 1
+strop daarna schreef -> ze : 1
+daarna schreef ze -> het : 1
+schreef ze het -> succesvolle : 1
+ze het succesvolle -> en : 1
+het succesvolle en -> haar : 1
+succesvolle en haar -> eerste : 1
+en haar eerste -> roman : 1
+haar eerste roman -> zowel : 1
+eerste roman zowel -> als : 1
+roman zowel als -> wordt : 1
+zowel als wordt -> verfilmd : 1
+als wordt verfilmd -> door : 1
+wordt verfilmd door -> nl : 1
+verfilmd door nl -> is : 1
+door nl is -> inmiddels : 1
+nl is inmiddels -> verfilmd : 1
+is inmiddels verfilmd -> door : 1
+inmiddels verfilmd door -> eyeworks : 1
+verfilmd door eyeworks -> met : 1
+door eyeworks met -> in : 1
+eyeworks met in -> de : 1
+met in de -> hoofdrollen : 1
+in de hoofdrollen -> topacteurs : 1
+de hoofdrollen topacteurs -> als : 1
+hoofdrollen topacteurs als -> angela : 1
+topacteurs als angela -> huet : 1
+als angela huet -> en : 1
+angela huet en -> monique : 1
+huet en monique -> van : 1
+en monique van -> der : 1
+monique van der -> goede : 1
+van der goede -> voorbereiding : 1
+der goede voorbereiding -> is : 1
+goede voorbereiding is -> het : 1
+voorbereiding is het -> halve : 1
+is het halve -> als : 1
+het halve als -> je : 1
+halve als je -> je : 1
+als je je -> goed : 1
+je je goed -> gedaan : 1
+je goed gedaan -> hoef : 1
+goed gedaan hoef -> je : 1
+gedaan hoef je -> niet : 1
+hoef je niet -> avond : 1
+je niet avond -> meer : 1
+niet avond meer -> in : 1
+avond meer in -> de : 1
+meer in de -> keuken : 1
+in de keuken -> te : 1
+de keuken te -> staan : 1
+keuken te staan -> en : 1
+te staan en -> kun : 1
+staan en kun -> je : 1
+en kun je -> voldoende : 1
+kun je voldoende -> aandacht : 1
+je voldoende aandacht -> aan : 1
+voldoende aandacht aan -> je : 1
+aandacht aan je -> gasten : 1
+aan je gasten -> ik : 1
+je gasten ik -> al : 1
+gasten ik al -> vroeg : 1
+ik al vroeg -> begonnen : 1
+al vroeg begonnen -> met : 1
+vroeg begonnen met -> het : 1
+begonnen met het -> trekken : 1
+met het trekken -> van : 1
+het trekken van -> een : 1
+trekken van een -> fond : 1
+van een fond -> van : 1
+een fond van -> verse : 1
+fond van verse -> ik : 1
+van verse ik -> heb : 1
+verse ik heb -> gekonfijt : 1
+ik heb gekonfijt -> in : 1
+heb gekonfijt in -> ganzenvet : 1
+gekonfijt in ganzenvet -> op : 1
+in ganzenvet op -> een : 1
+ganzenvet op een -> temperatuur : 1
+op een temperatuur -> van : 1
+een temperatuur van -> de : 1
+temperatuur van de -> zwezerik : 1
+van de zwezerik -> is : 1
+van de zwezerik -> ik : 1
+de zwezerik is -> in : 1
+zwezerik is in -> een : 1
+is in een -> ontvliesd : 1
+in een ontvliesd -> en : 1
+een ontvliesd en -> slot : 1
+ontvliesd en slot -> pak : 1
+en slot pak -> ik : 1
+slot pak ik -> het : 1
+pak ik het -> potje : 1
+ik het potje -> sambal : 1
+het potje sambal -> oelek : 2
+potje sambal oelek -> uit : 2
+sambal oelek uit -> de : 1
+sambal oelek uit -> het : 1
+oelek uit de -> koelkast : 1
+uit de koelkast -> en : 1
+de koelkast en -> roer : 1
+koelkast en roer -> er : 1
+en roer er -> rattengif : 1
+roer er rattengif -> in : 1
+er rattengif in -> sambal : 1
+rattengif in sambal -> kun : 1
+in sambal kun -> hou : 1
+sambal kun hou -> van : 1
+kun hou van -> in : 1
+hou van in -> mijn : 1
+van in mijn -> koelkast : 1
+in mijn koelkast -> vind : 1
+mijn koelkast vind -> je : 1
+koelkast vind je -> geen : 1
+vind je geen -> flessen : 1
+je geen flessen -> voorgesneden : 1
+geen flessen voorgesneden -> aardappels : 1
+flessen voorgesneden aardappels -> alles : 1
+voorgesneden aardappels alles -> wordt : 1
+aardappels alles wordt -> vers : 1
+alles wordt vers -> tot : 1
+wordt vers tot -> de : 1
+vers tot de -> pasta : 1
+tot de pasta -> aan : 1
+de pasta aan -> is : 1
+pasta aan is -> nooit : 1
+aan is nooit -> mijn : 1
+is nooit mijn -> wens : 1
+nooit mijn wens -> geweest : 1
+mijn wens geweest -> om : 1
+wens geweest om -> professioneel : 1
+geweest om professioneel -> kok : 1
+om professioneel kok -> te : 1
+professioneel kok te -> liever : 1
+kok te liever -> kook : 1
+te liever kook -> ik : 1
+liever kook ik -> voor : 1
+kook ik voor -> de : 1
+ik voor de -> mensen : 1
+voor de mensen -> ik : 1
+de mensen ik -> vier : 1
+mensen ik vier -> ochtenden : 1
+ik vier ochtenden -> per : 1
+vier ochtenden per -> week : 1
+ochtenden per week -> geef : 1
+per week geef -> ik : 1
+week geef ik -> nederlandse : 1
+geef ik nederlandse -> les : 1
+ik nederlandse les -> aan : 1
+nederlandse les aan -> na : 1
+les aan na -> mijn : 1
+aan na mijn -> werk : 1
+na mijn werk -> fiets : 1
+mijn werk fiets -> naar : 1
+werk fiets naar -> de : 1
+fiets naar de -> waar : 1
+naar de waar -> ik : 1
+de waar ik -> mijn : 1
+waar ik mijn -> vaste : 1
+ik mijn vaste -> adresjes : 1
+mijn vaste adresjes -> de : 1
+vaste adresjes de -> slager : 1
+adresjes de slager -> die : 1
+de slager die -> weet : 1
+slager die weet -> dat : 1
+die weet dat -> ik : 1
+weet dat ik -> lamsbout : 1
+dat ik lamsbout -> zonder : 1
+ik lamsbout zonder -> de : 1
+lamsbout zonder de -> visboer : 1
+zonder de visboer -> die : 1
+de visboer die -> het : 1
+visboer die het -> mooiste : 1
+die het mooiste -> stukje : 1
+het mooiste stukje -> tonijn : 1
+mooiste stukje tonijn -> voor : 1
+stukje tonijn voor -> me : 1
+tonijn voor me -> het : 1
+voor me het -> kruidenstalletje : 1
+me het kruidenstalletje -> waar : 1
+het kruidenstalletje waar -> peterselie : 1
+kruidenstalletje waar peterselie -> en : 1
+waar peterselie en -> citroenbasilicum : 1
+peterselie en citroenbasilicum -> sta : 1
+en citroenbasilicum sta -> niet : 1
+citroenbasilicum sta niet -> bekend : 1
+sta niet bekend -> om : 1
+niet bekend om -> mijn : 1
+bekend om mijn -> sprankelende : 1
+om mijn sprankelende -> gevoel : 1
+mijn sprankelende gevoel -> voor : 1
+sprankelende gevoel voor -> humor : 1
+gevoel voor humor -> of : 1
+voor humor of -> mijn : 1
+humor of mijn -> keuken : 1
+of mijn keuken -> is : 1
+mijn keuken is -> alles : 1
+keuken is alles -> wat : 1
+is alles wat -> ik : 1
+alles wat ik -> ik : 1
+wat ik ik -> heb : 1
+wat ik ik -> zou : 1
+ik ik heb -> menig : 1
+ik heb menig -> man : 1
+heb menig man -> verleid : 1
+menig man verleid -> door : 1
+man verleid door -> voor : 1
+verleid door voor -> hem : 1
+door voor hem -> te : 1
+voor hem te -> niels : 1
+hem te niels -> heb : 1
+te niels heb -> ik : 1
+niels heb ik -> aan : 1
+heb ik aan -> mijn : 1
+ik aan mijn -> ossobucco : 1
+aan mijn ossobucco -> te : 1
+mijn ossobucco te -> een : 1
+ossobucco te een -> bewezen : 1
+te een bewezen -> succesgerecht : 1
+een bewezen succesgerecht -> voor : 1
+bewezen succesgerecht voor -> de : 1
+succesgerecht voor de -> eerste : 1
+voor de eerste -> een : 1
+de eerste een -> vijfgangenmaaltijd : 1
+eerste een vijfgangenmaaltijd -> en : 1
+een vijfgangenmaaltijd en -> je : 1
+vijfgangenmaaltijd en je -> komt : 1
+en je komt -> te : 1
+je komt te -> wanhopig : 1
+komt te wanhopig -> bereid : 1
+te wanhopig bereid -> een : 1
+wanhopig bereid een -> goed : 1
+bereid een goed -> stuk : 1
+een goed stuk -> vlees : 1
+goed stuk vlees -> en : 1
+stuk vlees en -> de : 1
+vlees en de -> honger : 1
+en de honger -> naar : 1
+de honger naar -> mannen : 1
+honger naar mannen -> zijn : 1
+naar mannen zijn -> als : 1
+mannen zijn als -> wilde : 1
+zijn als wilde -> als : 1
+als wilde als -> je : 1
+wilde als je -> ze : 1
+als je ze -> blijven : 1
+je ze blijven -> ze : 1
+ze blijven ze -> was : 1
+blijven ze was -> dol : 1
+ze was dol -> op : 1
+was dol op -> mijn : 1
+dol op mijn -> hij : 1
+op mijn hij -> aanbad : 1
+op mijn hij -> bedoelde : 1
+mijn hij aanbad -> mijn : 1
+hij aanbad mijn -> koudgerookte : 1
+aanbad mijn koudgerookte -> zelfgebakken : 1
+mijn koudgerookte zelfgebakken -> taarten : 1
+koudgerookte zelfgebakken taarten -> en : 1
+zelfgebakken taarten en -> de : 1
+taarten en de -> geur : 1
+en de geur -> na : 1
+de geur na -> een : 1
+geur na een -> maand : 1
+na een maand -> begon : 1
+een maand begon -> hij : 1
+maand begon hij -> over : 1
+begon hij over -> natuurlijk : 1
+hij over natuurlijk -> wist : 1
+over natuurlijk wist -> ik : 1
+natuurlijk wist ik -> dat : 1
+wist ik dat -> ik : 1
+ik dat ik -> boven : 1
+dat ik boven -> mijn : 1
+ik boven mijn -> macht : 1
+boven mijn macht -> maar : 1
+mijn macht maar -> er : 1
+macht maar er -> zo : 1
+maar er zo -> graag : 1
+er zo graag -> in : 1
+zo graag in -> bovendien : 1
+graag in bovendien -> had : 1
+in bovendien had -> niels : 1
+bovendien had niels -> een : 1
+had niels een -> gezonde : 1
+niels een gezonde -> hadden : 1
+een gezonde hadden -> de : 1
+gezonde hadden de -> datum : 1
+hadden de datum -> al : 1
+de datum al -> toen : 1
+datum al toen -> het : 1
+al toen het -> eerste : 1
+toen het eerste -> zich : 1
+het eerste zich -> ik : 1
+eerste zich ik -> was : 1
+zich ik was -> die : 1
+ik was die -> omgefietst : 1
+was die omgefietst -> voor : 1
+die omgefietst voor -> een : 1
+omgefietst voor een -> biologische : 1
+voor een biologische -> bressekip : 1
+een biologische bressekip -> waar : 1
+biologische bressekip waar -> ik : 1
+bressekip waar ik -> vervolgens : 1
+waar ik vervolgens -> met : 1
+ik vervolgens met -> veel : 1
+vervolgens met veel -> liefde : 1
+met veel liefde -> de : 1
+veel liefde de -> organen : 1
+liefde de organen -> gepeuterd : 1
+de organen gepeuterd -> om : 1
+organen gepeuterd om -> haar : 1
+gepeuterd om haar -> op : 1
+om haar op -> te : 1
+haar op te -> vullen : 1
+op te vullen -> met : 1
+te vullen met -> een : 1
+vullen met een -> mengsel : 1
+met een mengsel -> van : 1
+een mengsel van -> munt : 1
+mengsel van munt -> en : 1
+van munt en -> had : 1
+munt en had -> een : 1
+en had een -> paar : 1
+had een paar -> happen : 1
+een paar happen -> genomen : 1
+paar happen genomen -> en : 1
+happen genomen en -> zonder : 1
+genomen en zonder -> enige : 1
+en zonder enige -> heb : 1
+zonder enige heb -> jij : 1
+enige heb jij -> ook : 1
+heb jij ook -> begon : 1
+jij ook begon -> te : 1
+ook begon te -> gaf : 1
+begon te gaf -> me : 1
+te gaf me -> een : 1
+gaf me een -> glas : 1
+me een glas -> water : 1
+een glas water -> aan : 1
+een glas water -> in : 1
+glas water aan -> en : 1
+water aan en -> klopte : 1
+aan en klopte -> me : 1
+en klopte me -> op : 1
+klopte me op -> mijn : 1
+me op mijn -> hij : 1
+mijn hij bedoelde -> het : 1
+hij bedoelde het -> echt : 1
+bedoelde het echt -> niet : 1
+het echt niet -> zei : 1
+echt niet zei -> ik : 1
+niet zei ik -> na : 1
+zei ik na -> enige : 1
+ik na enige -> heb : 1
+na enige heb -> ik : 1
+enige heb ik -> was : 1
+heb ik was -> zijn : 1
+ik was zijn -> was : 1
+was zijn was -> te : 1
+zijn was te -> geschokt : 1
+was te geschokt -> om : 1
+te geschokt om -> er : 1
+geschokt om er -> dieper : 1
+om er dieper -> op : 1
+er dieper op -> in : 1
+dieper op in -> te : 1
+op in te -> achteraf : 1
+in te achteraf -> gezien : 1
+te achteraf gezien -> had : 1
+achteraf gezien had -> ik : 1
+gezien had ik -> toen : 1
+had ik toen -> de : 1
+ik toen de -> bruiloft : 1
+toen de bruiloft -> zijn : 1
+de bruiloft zijn -> nu : 1
+bruiloft zijn nu -> vijf : 1
+zijn nu vijf -> jaar : 1
+nu vijf jaar -> niels : 1
+vijf jaar niels -> vindt : 1
+jaar niels vindt -> het : 1
+niels vindt het -> de : 1
+vindt het de -> normaalste : 1
+het de normaalste -> zaak : 1
+de normaalste zaak -> van : 1
+normaalste zaak van -> de : 1
+zaak van de -> wereld : 1
+van de wereld -> om : 1
+de wereld om -> sambal : 1
+wereld om sambal -> op : 1
+om sambal op -> bereide : 1
+sambal op bereide -> gerechten : 1
+op bereide gerechten -> te : 1
+bereide gerechten te -> net : 1
+gerechten te net -> als : 1
+te net als -> hij : 1
+net als hij -> het : 1
+als hij het -> normaal : 1
+hij het normaal -> vindt : 1
+het normaal vindt -> om : 1
+normaal vindt om -> tot : 1
+vindt om tot -> diep : 1
+om tot diep -> in : 1
+tot diep in -> de : 1
+diep in de -> nacht : 1
+in de nacht -> uit : 1
+de nacht uit -> en : 1
+nacht uit en -> thuis : 1
+uit en thuis -> te : 1
+en thuis te -> komen : 1
+thuis te komen -> met : 1
+te komen met -> een : 1
+komen met een -> smerige : 1
+met een smerige -> we : 1
+een smerige we -> praten : 1
+smerige we praten -> niet : 1
+we praten niet -> vrijen : 1
+praten niet vrijen -> niet : 1
+niet vrijen niet -> niet : 1
+vrijen niet niet -> als : 1
+niet niet als -> ons : 1
+niet als ons -> huwelijk : 1
+als ons huwelijk -> in : 1
+ons huwelijk in -> mijn : 1
+huwelijk in mijn -> keukenkast : 1
+in mijn keukenkast -> had : 1
+mijn keukenkast had -> had : 1
+keukenkast had had -> ik : 1
+had had ik -> het : 1
+had ik het -> weggegooid : 1
+ik het weggegooid -> de : 1
+het weggegooid de -> je : 1
+weggegooid de je -> veel : 1
+de je veel -> sambal : 1
+je veel sambal -> word : 1
+veel sambal word -> je : 1
+sambal word je -> langzaam : 1
+word je langzaam -> maar : 1
+je langzaam maar -> zeker : 1
+langzaam maar zeker -> resistent : 1
+maar zeker resistent -> tegen : 1
+zeker resistent tegen -> de : 1
+resistent tegen de -> je : 1
+tegen de je -> hebt : 1
+de je hebt -> steeds : 1
+je hebt steeds -> nodig : 1
+hebt steeds nodig -> om : 1
+steeds nodig om -> nog : 1
+nodig om nog -> een : 1
+om nog een -> te : 1
+nog een te -> al : 1
+een te al -> het : 1
+te al het -> andere : 1
+al het andere -> je : 1
+het andere je -> bent : 1
+andere je bent -> alleen : 1
+je bent alleen -> nog : 1
+bent alleen nog -> maar : 1
+alleen nog maar -> op : 1
+nog maar op -> die : 1
+maar op die -> brandende : 1
+op die brandende -> sensatie : 1
+die brandende sensatie -> in : 1
+brandende sensatie in -> je : 1
+sensatie in je -> sambal : 1
+in je sambal -> neemt : 1
+je sambal neemt -> vlakt : 1
+sambal neemt vlakt -> alle : 1
+neemt vlakt alle -> andere : 1
+vlakt alle andere -> smaken : 1
+alle andere smaken -> een : 1
+andere smaken een -> hete : 1
+smaken een hete -> massa : 1
+een hete massa -> waarin : 1
+hete massa waarin -> nuances : 1
+massa waarin nuances -> niet : 1
+waarin nuances niet -> meer : 1
+nuances niet meer -> te : 1
+niet meer te -> onderscheiden : 1
+meer te onderscheiden -> zit : 1
+te onderscheiden zit -> geen : 1
+onderscheiden zit geen -> liefde : 1
+zit geen liefde -> in : 1
+geen liefde in -> wil : 1
+liefde in wil -> hem : 1
+in wil hem -> een : 1
+wil hem een -> kans : 1
+hem een kans -> daarom : 1
+een kans daarom -> heb : 1
+kans daarom heb -> ik : 1
+daarom heb ik -> gekozen : 1
+heb ik gekozen -> voor : 1
+ik gekozen voor -> een : 1
+gekozen voor een -> menu : 1
+voor een menu -> met : 1
+een menu met -> fluwelen : 1
+menu met fluwelen -> waarbij : 1
+met fluwelen waarbij -> sambal : 1
+fluwelen waarbij sambal -> een : 1
+waarbij sambal een -> hevige : 1
+sambal een hevige -> dissonant : 1
+een hevige dissonant -> zou : 1
+hevige dissonant zou -> ook : 1
+dissonant zou ook -> heb : 1
+zou ook heb -> ik : 1
+ook heb ik -> besloten : 1
+heb ik besloten -> om : 1
+ik besloten om -> er : 1
+besloten om er -> een : 1
+om er een -> van : 1
+er een van -> te : 1
+een van te -> het : 1
+van te het -> is : 1
+te het is -> per : 1
+het is per -> slot : 1
+is per slot -> van : 1
+per slot van -> rekening : 1
+slot van rekening -> mogelijk : 1
+van rekening mogelijk -> zijn : 1
+rekening mogelijk zijn -> laatste : 1
+mogelijk zijn laatste -> ik : 1
+zijn laatste ik -> heb : 1
+laatste ik heb -> wijn : 1
+ik heb wijn -> bij : 1
+heb wijn bij -> de : 1
+wijn bij de -> slijter : 1
+bij de slijter -> gehaald : 1
+de slijter gehaald -> en : 1
+slijter gehaald en -> dek : 1
+gehaald en dek -> de : 1
+en dek de -> tafel : 1
+dek de tafel -> met : 1
+de tafel met -> komt : 1
+tafel met komt -> anderhalf : 1
+met komt anderhalf -> uur : 1
+komt anderhalf uur -> te : 1
+anderhalf uur te -> laat : 1
+uur te laat -> uit : 1
+te laat uit -> zijn : 1
+laat uit zijn -> hij : 1
+uit zijn hij -> fronst : 1
+zijn hij fronst -> even : 1
+hij fronst even -> zijn : 1
+fronst even zijn -> wenkbrauwen : 1
+even zijn wenkbrauwen -> als : 1
+even zijn wenkbrauwen -> op : 1
+zijn wenkbrauwen als -> hij : 1
+wenkbrauwen als hij -> naar : 1
+als hij naar -> gedekte : 1
+hij naar gedekte -> tafel : 1
+naar gedekte tafel -> we : 1
+gedekte tafel we -> iets : 1
+tafel we iets -> te : 1
+we iets te -> antwoord : 1
+iets te antwoord -> schiet : 1
+te antwoord schiet -> in : 1
+antwoord schiet in -> de : 1
+schiet in de -> het : 1
+in de het -> is : 1
+de het is -> geen : 1
+het is geen -> prettige : 1
+is geen prettige -> is : 1
+geen prettige is -> toch : 1
+prettige is toch -> niet : 1
+is toch niet -> onze : 1
+toch niet onze -> trouwdag : 1
+niet onze trouwdag -> of : 1
+onze trouwdag of -> hoeven : 1
+trouwdag of hoeven -> toch : 1
+of hoeven toch -> niet : 1
+hoeven toch niet -> de : 1
+toch niet de -> hele : 1
+niet de hele -> avond : 1
+de hele avond -> te : 1
+hele avond te -> uurtje : 1
+avond te uurtje -> heb : 1
+te uurtje heb -> je : 1
+uurtje heb je -> toch : 1
+heb je toch -> hij : 1
+je toch hij -> loopt : 1
+toch hij loopt -> naar : 1
+hij loopt naar -> me : 1
+loopt naar me -> toe : 1
+naar me toe -> en : 1
+me toe en -> kust : 1
+toe en kust -> me : 1
+en kust me -> dan : 1
+kust me dan -> toch : 1
+me dan toch -> maar : 1
+dan toch maar -> op : 1
+toch maar op -> mijn : 1
+maar op mijn -> uurtje : 1
+op mijn uurtje -> je : 1
+mijn uurtje je -> een : 1
+uurtje je een -> glaasje : 1
+je een glaasje -> gaat : 1
+een glaasje gaat -> zitten : 1
+glaasje gaat zitten -> en : 1
+gaat zitten en -> laat : 1
+zitten en laat -> zich : 1
+en laat zich -> boerenkool : 1
+laat zich boerenkool -> met : 1
+zich boerenkool met -> worst : 1
+boerenkool met worst -> gaat : 1
+met worst gaat -> er : 1
+worst gaat er -> ook : 1
+gaat er ook -> heus : 1
+er ook heus -> wel : 1
+ook heus wel -> laat : 1
+heus wel laat -> niet : 1
+wel laat niet -> merken : 1
+laat niet merken -> dat : 1
+niet merken dat -> ik : 1
+merken dat ik -> me : 1
+dat ik me -> gekwetst : 1
+ik me gekwetst -> voel : 1
+me gekwetst voel -> en : 1
+gekwetst voel en -> serveer : 1
+voel en serveer -> het : 1
+en serveer het -> een : 1
+serveer het een -> courgettebloem : 1
+het een courgettebloem -> een : 1
+een courgettebloem een -> mousseline : 1
+courgettebloem een mousseline -> van : 1
+een mousseline van -> voel : 1
+mousseline van voel -> me : 1
+van voel me -> toch : 1
+voel me toch -> wat : 1
+me toch wat -> gespannen : 1
+toch wat gespannen -> als : 1
+wat gespannen als -> hij : 1
+gespannen als hij -> de : 1
+als hij de -> eerste : 1
+hij de eerste -> hap : 1
+de eerste hap -> hij : 1
+eerste hap hij -> neemt : 1
+hap hij neemt -> nog : 1
+hij neemt nog -> een : 1
+neemt nog een -> ik : 1
+nog een ik -> kijk : 1
+een ik kijk -> naar : 1
+ik kijk naar -> zijn : 1
+kijk naar zijn -> bewegende : 1
+naar zijn bewegende -> de : 1
+zijn bewegende de -> lippen : 1
+bewegende de lippen -> waar : 1
+de lippen waar -> hij : 1
+lippen waar hij -> zijn : 1
+waar hij zijn -> tong : 1
+hij zijn tong -> hij : 1
+zijn tong hij -> is : 1
+tong hij is -> zo : 1
+hij is zo -> in : 1
+is zo in -> het : 1
+zo in het -> waar : 1
+in het waar -> is : 1
+het waar is -> het : 1
+waar is het -> misgegaan : 1
+is het misgegaan -> tussen : 1
+het misgegaan tussen -> het : 1
+misgegaan tussen het -> niet : 1
+tussen het niet -> gewoon : 1
+het niet gewoon -> blijven : 1
+niet gewoon blijven -> zoals : 1
+gewoon blijven zoals -> het : 1
+blijven zoals het -> in : 1
+zoals het in -> het : 1
+het in het -> begin : 1
+in het begin -> waarom : 1
+het begin waarom -> houdt : 1
+begin waarom houdt -> hij : 1
+waarom houdt hij -> niet : 1
+houdt hij niet -> meer : 1
+hij niet meer -> van : 1
+niet meer van -> je : 1
+meer van je -> zelf : 1
+van je zelf -> ook : 1
+je zelf ook -> nog : 1
+zelf ook nog -> snijd : 1
+ook nog snijd -> voorzichtig : 1
+nog snijd voorzichtig -> een : 1
+snijd voorzichtig een -> stukje : 1
+voorzichtig een stukje -> van : 1
+een stukje van -> het : 1
+een stukje van -> de : 1
+stukje van het -> gerecht : 1
+van het gerecht -> het : 1
+het gerecht het -> ziet : 1
+gerecht het ziet -> er : 1
+het ziet er -> simpel : 1
+ziet er simpel -> maar : 1
+er simpel maar -> weinig : 1
+simpel maar weinig -> mensen : 1
+maar weinig mensen -> het : 1
+weinig mensen het -> uren : 1
+mensen het uren -> kost : 1
+het uren kost -> om : 1
+uren kost om -> zoiets : 1
+kost om zoiets -> te : 1
+om zoiets te -> ik : 1
+zoiets te ik -> sluit : 1
+te ik sluit -> even : 1
+ik sluit even -> mijn : 1
+sluit even mijn -> ogen : 1
+even mijn ogen -> terwijl : 1
+mijn ogen terwijl -> ik : 1
+ogen terwijl ik -> het : 1
+terwijl ik het -> gerecht : 1
+ik het gerecht -> over : 1
+het gerecht over -> mijn : 1
+gerecht over mijn -> dit : 1
+over mijn dit -> is : 1
+mijn dit is -> absolute : 1
+dit is absolute -> schrik : 1
+is absolute schrik -> op : 1
+absolute schrik op -> omdat : 1
+schrik op omdat -> hij : 1
+op omdat hij -> we : 1
+omdat hij we -> hebben : 1
+hij we hebben -> een : 1
+we hebben een -> open : 1
+hebben een open -> op : 1
+een open op -> enkele : 1
+open op enkele -> stappen : 1
+op enkele stappen -> van : 1
+enkele stappen van -> onze : 1
+stappen van onze -> eettafel : 1
+van onze eettafel -> vind : 1
+onze eettafel vind -> dat : 1
+eettafel vind dat -> ik : 1
+vind dat ik -> houd : 1
+dat ik houd -> graag : 1
+ik houd graag -> contact : 1
+houd graag contact -> met : 1
+graag contact met -> mijn : 1
+contact met mijn -> gasten : 1
+met mijn gasten -> onder : 1
+mijn gasten onder -> het : 1
+gasten onder het -> hij : 1
+onder het hij -> loopt : 1
+het hij loopt -> richting : 1
+hij loopt richting -> even : 1
+loopt richting even -> overweeg : 1
+richting even overweeg -> ik : 1
+even overweeg ik -> om : 1
+overweeg ik om -> hem : 1
+ik om hem -> tegen : 1
+om hem tegen -> te : 1
+hem tegen te -> denk : 1
+tegen te denk -> ik : 1
+te denk ik -> als : 1
+denk ik als -> je : 1
+ik als je -> zo : 1
+als je zo -> gevoelloos : 1
+je zo gevoelloos -> bent : 1
+zo gevoelloos bent -> verfijnde : 1
+gevoelloos bent verfijnde -> compositie : 1
+bent verfijnde compositie -> als : 1
+verfijnde compositie als -> dit : 1
+compositie als dit -> durft : 1
+als dit durft -> te : 1
+dit durft te -> krijg : 1
+durft te krijg -> je : 1
+te krijg je -> je : 1
+krijg je je -> verdiende : 1
+je je verdiende -> hij : 1
+je verdiende hij -> is : 1
+verdiende hij is -> alleen : 1
+hij is alleen -> naar : 1
+is alleen naar -> de : 1
+alleen naar de -> keuken : 1
+naar de keuken -> gelopen : 1
+de keuken gelopen -> om : 1
+keuken gelopen om -> een : 1
+gelopen om een -> glas : 1
+om een glas -> water : 1
+glas water in -> te : 1
+water in te -> nadat : 1
+in te nadat -> hij : 1
+te nadat hij -> is : 1
+nadat hij is -> uit : 1
+hij is uit -> ik : 1
+is uit ik -> tot : 1
+uit ik tot -> mijn : 1
+ik tot mijn -> tevredenheid : 1
+tot mijn tevredenheid -> dat : 1
+mijn tevredenheid dat -> hij : 1
+tevredenheid dat hij -> de : 1
+dat hij de -> resten : 1
+hij de resten -> saus : 1
+de resten saus -> van : 1
+resten saus van -> zijn : 1
+saus van zijn -> vingers : 1
+van zijn vingers -> ik : 1
+zijn vingers ik -> wil : 1
+vingers ik wil -> opstaan : 1
+ik wil opstaan -> om : 1
+wil opstaan om -> af : 1
+opstaan om af -> te : 1
+om af te -> lekker : 1
+af te lekker -> zegt : 1
+te lekker zegt -> ziet : 1
+lekker zegt ziet -> er : 1
+zegt ziet er -> moe : 1
+ziet er moe -> ben : 1
+er moe ben -> even : 1
+moe ben even -> van : 1
+ben even van -> mijn : 1
+even van mijn -> ik : 1
+van mijn ik -> probeer : 1
+mijn ik probeer -> me : 1
+ik probeer me -> te : 1
+probeer me te -> herinneren : 1
+me te herinneren -> wanneer : 1
+te herinneren wanneer -> hij : 1
+herinneren wanneer hij -> voor : 1
+wanneer hij voor -> de : 1
+hij voor de -> laatste : 1
+voor de laatste -> keer : 1
+de laatste keer -> zoiets : 1
+laatste keer zoiets -> vriendelijks : 1
+keer zoiets vriendelijks -> normaal : 1
+zoiets vriendelijks normaal -> moet : 1
+vriendelijks normaal moet -> ik : 1
+normaal moet ik -> het : 1
+moet ik het -> doen : 1
+ik het doen -> met : 1
+het doen met -> opmerkingen : 1
+doen met opmerkingen -> over : 1
+met opmerkingen over -> mijn : 1
+opmerkingen over mijn -> korte : 1
+over mijn korte -> enige : 1
+mijn korte enige -> waar : 1
+korte enige waar -> jij : 1
+enige waar jij -> druk : 1
+waar jij druk -> om : 1
+jij druk om -> is : 1
+druk om is -> wat : 1
+om is wat -> je : 1
+is wat je -> gaat : 1
+wat je gaat -> koken : 1
+je gaat koken -> zegt : 1
+gaat koken zegt -> hij : 1
+koken zegt hij -> en : 1
+zegt hij en -> dat : 1
+hij en dat -> terwijl : 1
+en dat terwijl -> hij : 1
+dat terwijl hij -> zich : 1
+terwijl hij zich -> uit : 1
+hij zich uit -> de : 1
+zich uit de -> weet : 1
+uit de weet -> ik : 1
+de weet ik -> eigenlijk : 1
+weet ik eigenlijk -> wel : 1
+ik eigenlijk wel -> wat : 1
+eigenlijk wel wat -> stress : 1
+wel wat stress -> gebrek : 1
+wat stress gebrek -> aan : 1
+stress gebrek aan -> liefde : 1
+gebrek aan liefde -> en : 1
+aan liefde en -> aandacht : 1
+liefde en aandacht -> is : 1
+en aandacht is -> ook : 1
+aandacht is ook -> een : 1
+is ook een -> vorm : 1
+ook een vorm -> van : 1
+een vorm van -> ik : 1
+vorm van ik -> weleens : 1
+van ik weleens -> willen : 1
+ik weleens willen -> maar : 1
+weleens willen maar -> ik : 1
+willen maar ik -> ben : 1
+maar ik ben -> nou : 1
+ik ben nou -> eenmaal : 1
+ben nou eenmaal -> geen : 1
+nou eenmaal geen -> vraag : 1
+eenmaal geen vraag -> ik : 1
+geen vraag ik -> me : 1
+vraag ik me -> af : 1
+ik me af -> waar : 1
+me af waar -> het : 1
+af waar het -> vandaan : 1
+waar het vandaan -> zijn : 1
+het vandaan zijn -> plotselinge : 1
+vandaan zijn plotselinge -> aardige : 1
+zijn plotselinge aardige -> zou : 1
+plotselinge aardige zou -> hij : 1
+aardige zou hij -> het : 1
+zou hij het -> het : 1
+hij het het -> vijf : 1
+het het vijf -> voor : 1
+het vijf voor -> twaalf : 1
+vijf voor twaalf -> als : 1
+voor twaalf als -> hij : 1
+twaalf als hij -> heeft : 1
+als hij heeft -> hij : 1
+hij heeft hij -> de : 1
+heeft hij de -> krant : 1
+hij de krant -> bij : 1
+hij de krant -> niet : 1
+de krant bij -> hij : 1
+krant bij hij -> slaat : 1
+bij hij slaat -> hem : 1
+hij slaat hem -> open : 1
+slaat hem open -> zonder : 1
+hem open zonder -> iets : 1
+open zonder iets -> te : 1
+zonder iets te -> ik : 1
+iets te ik -> het : 1
+te ik het -> tussengerecht : 1
+ik het tussengerecht -> klaar : 1
+het tussengerecht klaar -> te : 1
+tussengerecht klaar te -> een : 1
+klaar te een -> op : 1
+te een op -> de : 1
+een op de -> huid : 1
+op de huid -> gebakken : 1
+de huid gebakken -> rode : 1
+huid gebakken rode -> mul : 1
+gebakken rode mul -> met : 1
+rode mul met -> een : 1
+mul met een -> het : 1
+met een het -> is : 1
+een het is -> de : 1
+het is de -> kunst : 1
+is de kunst -> om : 1
+de kunst om -> de : 1
+kunst om de -> vis : 1
+om de vis -> net : 1
+de vis net -> lang : 1
+vis net lang -> genoeg : 1
+net lang genoeg -> te : 1
+lang genoeg te -> de : 1
+genoeg te de -> saus : 1
+te de saus -> is : 1
+de saus is -> voor : 1
+saus is voor -> deze : 1
+is voor deze -> ene : 1
+voor deze ene -> keer : 1
+deze ene keer -> besluit : 1
+ene keer besluit -> ik : 1
+keer besluit ik -> net : 1
+besluit ik net -> iets : 1
+ik net iets -> meer : 1
+net iets meer -> zout : 1
+iets meer zout -> te : 1
+meer zout te -> gebruiken : 1
+zout te gebruiken -> dan : 1
+te gebruiken dan -> nodig : 1
+gebruiken dan nodig -> ik : 1
+dan nodig ik -> moet : 1
+nodig ik moet -> denken : 1
+ik moet denken -> dat : 1
+moet denken dat -> ik : 1
+denken dat ik -> zijn : 1
+dat ik zijn -> dood : 1
+ik zijn dood -> heb : 1
+zijn dood heb -> dat : 1
+dood heb dat -> het : 1
+heb dat het -> aan : 1
+dat het aan -> mijn : 1
+het aan mijn -> gerechten : 1
+aan mijn gerechten -> als : 1
+mijn gerechten als -> ik : 1
+gerechten als ik -> met : 1
+als ik met -> de : 1
+ik met de -> borden : 1
+met de borden -> legt : 1
+de borden legt -> hij : 1
+borden legt hij -> de : 1
+legt hij de -> krant : 1
+de krant niet -> ook : 1
+krant niet ook -> niet : 1
+niet ook niet -> als : 1
+ook niet als -> ik : 1
+niet als ik -> zijn : 1
+als ik zijn -> iets : 1
+ik zijn iets -> te : 1
+zijn iets te -> dat : 1
+iets te dat -> geef : 1
+te dat geef -> ik : 1
+dat geef ik -> voor : 1
+geef ik voor -> twee : 1
+ik voor twee -> minuten : 1
+voor twee minuten -> tegen : 1
+twee minuten tegen -> een : 1
+minuten tegen een -> artikel : 1
+tegen een artikel -> over : 1
+een artikel over -> het : 1
+artikel over het -> nieuwe : 1
+over het nieuwe -> kabinet : 1
+het nieuwe kabinet -> aangekeken : 1
+nieuwe kabinet aangekeken -> te : 1
+kabinet aangekeken te -> besluit : 1
+aangekeken te besluit -> ik : 1
+te besluit ik -> er : 1
+besluit ik er -> natuur : 1
+ik er natuur -> in : 1
+er natuur in -> toch : 1
+natuur in toch -> iets : 1
+in toch iets -> van : 1
+toch iets van -> te : 1
+iets van te -> borden : 1
+van te borden -> worden : 1
+te borden worden -> bromt : 1
+borden worden bromt -> neem : 1
+worden bromt neem -> zelf : 1
+bromt neem zelf -> alvast : 1
+neem zelf alvast -> een : 1
+zelf alvast een -> legt : 1
+alvast een legt -> de : 1
+een legt de -> krant : 1
+legt de krant -> was : 1
+legt de krant -> opzij : 1
+de krant was -> je : 1
+krant was je -> werk : 1
+was je werk -> vraag : 1
+je werk vraag -> als : 1
+werk vraag als -> hij : 1
+vraag als hij -> schuift : 1
+als hij schuift -> een : 1
+hij schuift een -> groot : 1
+schuift een groot -> stuk : 1
+een groot stuk -> mul : 1
+groot stuk mul -> naar : 1
+stuk mul naar -> is : 1
+mul naar is -> een : 1
+naar is een -> nieuwe : 1
+is een nieuwe -> leerling : 1
+een nieuwe leerling -> bij : 1
+nieuwe leerling bij -> gekomen : 1
+leerling bij gekomen -> een : 1
+bij gekomen een -> pikzwarte : 1
+gekomen een pikzwarte -> man : 1
+een pikzwarte man -> uit : 1
+pikzwarte man uit -> toen : 1
+man uit toen -> ik : 1
+uit toen ik -> vroeg : 1
+toen ik vroeg -> hoe : 1
+ik vroeg hoe -> zei : 1
+vroeg hoe zei -> me : 1
+hoe zei me -> maar : 1
+zei me maar -> prins : 1
+me maar prins -> dus : 1
+maar prins dus -> ik : 1
+prins dus ik -> ik : 1
+dus ik ik -> zie : 1
+ik ik zie -> zijn : 1
+ik zie zijn -> ogen : 1
+zie zijn ogen -> alweer : 1
+zijn ogen alweer -> afdwalen : 1
+ogen alweer afdwalen -> naar : 1
+alweer afdwalen naar -> die : 1
+afdwalen naar die -> naast : 1
+naar die naast -> hem : 1
+die naast hem -> op : 1
+naast hem op -> tafel : 1
+naast hem op -> keel : 1
+hem op tafel -> je : 1
+op tafel je -> prins : 1
+tafel je prins -> is : 1
+je prins is -> een : 1
+prins is een -> tijd : 1
+is een tijd -> alleen : 1
+een tijd alleen -> het : 1
+tijd alleen het -> geluid : 1
+alleen het geluid -> van : 1
+het geluid van -> malende : 1
+geluid van malende -> ik : 1
+van malende ik -> sta : 1
+malende ik sta -> op : 1
+ik sta op -> en : 1
+sta op en -> begin : 1
+op en begin -> alvast : 1
+en begin alvast -> met : 1
+begin alvast met -> antwoordt : 1
+alvast met antwoordt -> maar : 1
+met antwoordt maar -> pakt : 1
+antwoordt maar pakt -> de : 1
+maar pakt de -> krant : 1
+pakt de krant -> weer : 1
+de krant weer -> ik : 1
+krant weer ik -> ken : 1
+weer ik ken -> hem : 1
+ik ken hem -> goed : 1
+ken hem goed -> genoeg : 1
+hem goed genoeg -> om : 1
+goed genoeg om -> de : 1
+genoeg om de -> opluchting : 1
+om de opluchting -> in : 1
+de opluchting in -> te : 1
+opluchting in te -> bak : 1
+in te bak -> de : 1
+te bak de -> plakjes : 1
+bak de plakjes -> zwezerik : 1
+de plakjes zwezerik -> mooi : 1
+de plakjes zwezerik -> eroverheen : 1
+plakjes zwezerik mooi -> krokant : 1
+zwezerik mooi krokant -> en : 1
+mooi krokant en -> warm : 1
+krokant en warm -> linzen : 1
+en warm linzen -> uit : 1
+warm linzen uit -> puy : 1
+linzen uit puy -> op : 1
+uit puy op -> met : 1
+puy op met -> de : 1
+op met de -> kalfswangetjes : 1
+met de kalfswangetjes -> serveer : 1
+de kalfswangetjes serveer -> ik : 1
+kalfswangetjes serveer ik -> een : 1
+serveer ik een -> saus : 1
+ik een saus -> van : 1
+een saus van -> de : 1
+saus van de -> kalfsfond : 1
+van de kalfsfond -> gemonteerd : 1
+de kalfsfond gemonteerd -> met : 1
+kalfsfond gemonteerd met -> boter : 1
+gemonteerd met boter -> en : 1
+met boter en -> op : 1
+boter en op -> smaak : 1
+en op smaak -> gebracht : 1
+op smaak gebracht -> met : 1
+smaak gebracht met -> proef : 1
+gebracht met proef -> het : 1
+met proef het -> linzenmengsel : 1
+proef het linzenmengsel -> en : 1
+het linzenmengsel en -> besluit : 1
+linzenmengsel en besluit -> om : 1
+en besluit om -> nog : 1
+besluit om nog -> wat : 1
+om nog wat -> tijm : 1
+nog wat tijm -> toe : 1
+wat tijm toe -> te : 1
+tijm toe te -> zo : 1
+toe te zo -> is : 1
+te zo is -> het : 1
+zo is het -> niets : 1
+is het niets -> schep : 1
+het niets schep -> het : 1
+niets schep het -> linzenmengsel : 1
+schep het linzenmengsel -> op : 1
+het linzenmengsel op -> de : 1
+linzenmengsel op de -> drapeer : 1
+op de drapeer -> de : 1
+de drapeer de -> plakjes : 1
+drapeer de plakjes -> zwezerik : 1
+plakjes zwezerik eroverheen -> en : 1
+zwezerik eroverheen en -> schaaf : 1
+eroverheen en schaaf -> er : 1
+en schaaf er -> truffel : 1
+schaaf er truffel -> ik : 1
+er truffel ik -> strijk : 1
+truffel ik strijk -> er : 1
+ik strijk er -> nog : 1
+strijk er nog -> een : 1
+er nog een -> likje : 1
+nog een likje -> saus : 1
+een likje saus -> is : 1
+likje saus is -> het : 1
+saus is het -> meer : 1
+is het meer -> kan : 1
+het meer kan -> ik : 1
+meer kan ik -> niet : 1
+kan ik niet -> met : 1
+ik niet met -> een : 1
+niet met een -> nieuwe : 1
+met een nieuwe -> kordaatheid : 1
+een nieuwe kordaatheid -> pak : 1
+nieuwe kordaatheid pak -> ik : 1
+kordaatheid pak ik -> de : 1
+pak ik de -> borden : 1
+ik de borden -> op : 1
+de borden op -> en : 1
+borden op en -> loop : 1
+op en loop -> de : 1
+en loop de -> kijkt : 1
+loop de kijkt -> nauwelijks : 1
+de kijkt nauwelijks -> op : 1
+kijkt nauwelijks op -> van : 1
+nauwelijks op van -> de : 1
+op van de -> heb : 1
+van de heb -> zwezerik : 1
+de heb zwezerik -> daar : 1
+heb zwezerik daar -> hou : 1
+zwezerik daar hou -> je : 1
+daar hou je -> toch : 1
+hou je toch -> zo : 1
+je toch zo -> weet : 1
+toch zo weet -> je : 1
+zo weet je -> nog : 1
+weet je nog -> die : 1
+je nog die -> avond : 1
+nog die avond -> dat : 1
+die avond dat -> je : 1
+avond dat je -> mij : 1
+dat je mij -> ten : 1
+je mij ten -> omdat : 1
+mij ten omdat -> je : 1
+ten omdat je -> zei : 1
+omdat je zei -> dat : 1
+je zei dat -> je : 1
+zei dat je -> iedere : 1
+dat je iedere -> dag : 1
+je iedere dag -> van : 1
+iedere dag van -> je : 1
+dag van je -> leven : 1
+van je leven -> zo : 1
+je leven zo -> lekker : 1
+leven zo lekker -> wilde : 1
+zo lekker wilde -> toen : 1
+lekker wilde toen -> had : 1
+wilde toen had -> ik : 1
+toen had ik -> ook : 1
+had ik ook -> van : 1
+ik ook van -> zegt : 1
+ook van zegt -> hij : 1
+van zegt hij -> hij : 1
+zegt hij hij -> legt : 1
+hij hij legt -> de : 1
+hij legt de -> krant : 1
+de krant opzij -> en : 1
+krant opzij en -> neemt : 1
+opzij en neemt -> een : 1
+en neemt een -> voel : 1
+neemt een voel -> een : 1
+een voel een -> raar : 1
+voel een raar -> soort : 1
+een raar soort -> spanning : 1
+raar soort spanning -> in : 1
+soort spanning in -> mijn : 1
+spanning in mijn -> lichaam : 1
+in mijn lichaam -> als : 1
+mijn lichaam als -> hij : 1
+lichaam als hij -> aan : 1
+als hij aan -> het : 1
+hij aan het -> eten : 1
+aan het eten -> bijna : 1
+het eten bijna -> komt : 1
+eten bijna komt -> het : 1
+bijna komt het -> toch : 1
+komt het toch -> nog : 1
+het toch nog -> er : 1
+toch nog er -> is : 1
+nog er is -> nog : 1
+er is nog -> een : 1
+is nog een -> staat : 1
+nog een staat -> ik : 1
+een staat ik -> verlamd : 1
+staat ik verlamd -> opgesloten : 1
+ik verlamd opgesloten -> zit : 1
+verlamd opgesloten zit -> in : 1
+opgesloten zit in -> een : 1
+zit in een -> lichaam : 1
+in een lichaam -> dat : 1
+een lichaam dat -> niet : 1
+lichaam dat niet -> wil : 1
+dat niet wil -> zie : 1
+niet wil zie -> ik : 1
+wil zie ik -> hem : 1
+zie ik hem -> de : 1
+ik hem de -> keuken : 1
+hem de keuken -> de : 1
+de keuken de -> koelkast : 1
+keuken de koelkast -> opentrekken : 1
+de koelkast opentrekken -> en : 1
+koelkast opentrekken en -> het : 1
+opentrekken en het -> potje : 1
+en het potje -> sambal : 1
+oelek uit het -> rek : 1
+uit het rek -> komt : 1
+het rek komt -> terug : 1
+rek komt terug -> en : 1
+komt terug en -> zet : 1
+terug en zet -> het : 1
+en zet het -> potje : 1
+zet het potje -> naast : 1
+het potje naast -> hem : 1
+potje naast hem -> op : 1
+hem op keel -> is : 1
+op keel is -> ik : 1
+keel is ik -> moet : 1
+is ik moet -> hem : 1
+ik moet hem -> nog : 1
+moet hem nog -> een : 1
+hem nog een -> kans : 1
+nog een kans -> het : 1
+een kans het -> is : 1
+kans het is -> niet : 1
+het is niet -> eerlijk : 1
+is niet eerlijk -> dat : 1
+niet eerlijk dat -> ik : 1
+eerlijk dat ik -> nooit : 1
+dat ik nooit -> heb : 1
+ik nooit heb -> gezegd : 1
+nooit heb gezegd -> dat : 1
+heb gezegd dat -> aan : 1
+gezegd dat aan -> zijn : 1
+dat aan zijn -> sambalgebruik : 1
+aan zijn sambalgebruik -> misschien : 1
+zijn sambalgebruik misschien -> ligt : 1
+sambalgebruik misschien ligt -> het : 1
+misschien ligt het -> allemaal : 1
+ligt het allemaal -> wel : 1
+het allemaal wel -> aan : 1
+allemaal wel aan -> mij : 1
+wel aan mij -> en : 1
+aan mij en -> had : 1
+mij en had -> ik : 1
+en had ik -> beter : 1
+had ik beter -> het : 1
+ik beter het -> zeg : 1
+beter het zeg -> ik : 1
+het zeg ik -> trekt : 1
+zeg ik trekt -> even : 1
+ik trekt even -> zijn : 1
+trekt even zijn -> wenkbrauwen : 1
+zijn wenkbrauwen op -> en : 1
+wenkbrauwen op en -> draait : 1
+op en draait -> het : 1
+en draait het -> potje : 1
+draait het potje -> je : 1
+het potje je -> wat : 1
+potje je wat -> ik : 1
+je wat ik -> ik : 1
+ik ik zou -> het : 1
+ik zou het -> echt : 1
+zou het echt -> heel : 1
+het echt heel -> vervelend : 1
+echt heel vervelend -> vinden : 1
+heel vervelend vinden -> als : 1
+vervelend vinden als -> jij : 1
+vinden als jij -> sambal : 1
+als jij sambal -> gaat : 1
+jij sambal gaat -> smeren : 1
+sambal gaat smeren -> over : 1
+gaat smeren over -> me : 1
+smeren over me -> hij : 1
+over me hij -> steekt : 1
+me hij steekt -> zijn : 1
+hij steekt zijn -> mes : 1
+steekt zijn mes -> in : 1
+zijn mes in -> het : 1
+mes in het -> potje : 1
+in het potje -> en : 1
+het potje en -> smeert : 1
+potje en smeert -> een : 1
+en smeert een -> likje : 1
+smeert een likje -> op : 1
+een likje op -> zijn : 1
+likje op zijn -> heb : 1
+op zijn heb -> heel : 1
+zijn heb heel -> erg : 1
+heb heel erg -> mijn : 1
+heel erg mijn -> best : 1
+erg mijn best -> besef : 1
+mijn best besef -> je : 1
+best besef je -> dat : 1
+besef je dat -> ik : 1
+je dat ik -> heb : 1
+dat ik heb -> er : 1
+ik heb er -> niet : 1
+heb er niet -> om : 1
+er niet om -> gevraagd : 1
+niet om gevraagd -> om : 1
+om gevraagd om -> iedere : 1
+gevraagd om iedere -> avond : 1
+om iedere avond -> een : 1
+iedere avond een -> fucking : 1
+avond een fucking -> driesterrenmaaltijd : 1
+een fucking driesterrenmaaltijd -> naar : 1
+fucking driesterrenmaaltijd naar -> binnen : 1
+driesterrenmaaltijd naar binnen -> heb : 1
+naar binnen heb -> je : 1
+binnen heb je -> daar : 1
+heb je daar -> weleens : 1
+je daar weleens -> bij : 1
+daar weleens bij -> stil : 1
+weleens bij stil -> hij : 1
+bij stil hij -> snijdt : 1
+stil hij snijdt -> een : 1
+hij snijdt een -> stukje : 1
+snijdt een stukje -> van : 1
+stukje van de -> zwezerik : 1
+de zwezerik ik -> nog : 1
+zwezerik ik nog -> als : 1
+ik nog als -> ik : 1
+nog als ik -> dat : 1
+als ik dat -> zou : 1
+ik dat zou -> maar : 1
+dat zou maar -> hij : 1
+zou maar hij -> heeft : 1
+maar hij heeft -> dit : 1
+hij heeft dit -> zelf : 1
+heeft dit zelf -> over : 1
+dit zelf over -> zich : 1
+zelf over zich -> dit : 1
+over zich dit -> is : 1
+zich dit is -> stomme : 1
+dit is stomme -> ik : 1
+is stomme ik -> maak : 1
+stomme ik maak -> toch : 1
+ik maak toch -> ook : 1
+maak toch ook -> wel : 1
+toch ook wel -> eens : 1
+ook wel eens -> gewoon : 1
+wel eens gewoon -> maakt : 1
+eens gewoon maakt -> nooit : 1
+gewoon maakt nooit -> het : 1
+maakt nooit het -> moet : 1
+nooit het moet -> altijd : 1
+het moet altijd -> het : 1
+moet altijd het -> beste : 1
+altijd het beste -> van : 1
+het beste van -> het : 1
+beste van het -> ingewikkelder : 1
+van het ingewikkelder -> boos : 1
+het ingewikkelder boos -> brengt : 1
+ingewikkelder boos brengt -> hij : 1
+boos brengt hij -> het : 1
+brengt hij het -> stuk : 1
+hij het stuk -> zwezerik : 1
+het stuk zwezerik -> naar : 1
+stuk zwezerik naar -> zijn : 1
+zwezerik naar zijn -> klinkt : 1
+naar zijn klinkt -> het : 1
+zijn klinkt het -> in : 1
+klinkt het in -> mijn : 1
+het in mijn -> bent : 1
+in mijn bent -> gewoon : 1
+mijn bent gewoon -> zoals : 1
+bent gewoon zoals -> jij : 1
+gewoon zoals jij -> altijd : 1
+zoals jij altijd -> met : 1
+jij altijd met -> dat : 1
+altijd met dat -> eten : 1
+met dat eten -> bezig : 1
+dat eten bezig -> alsof : 1
+eten bezig alsof -> het : 1
+bezig alsof het -> een : 1
+alsof het een -> religie : 1
+het een religie -> ik : 1
+een religie ik -> word : 1
+religie ik word -> snap : 1
+ik word snap -> je : 1
+word snap je -> het : 1
+snap je het -> stukje : 1
+je het stukje -> zwezerik : 1
+het stukje zwezerik -> met : 1
+stukje zwezerik met -> de : 1
+zwezerik met de -> signaalrode : 1
+met de signaalrode -> sambal : 1
+de signaalrode sambal -> gaat : 1
+signaalrode sambal gaat -> naar : 1
+sambal gaat naar -> een : 1
+gaat naar een -> enorme : 1
+naar een enorme -> agressie : 1
+een enorme agressie -> in : 1
+enorme agressie in -> me : 1
+agressie in me -> vraag : 1
+in me vraag -> ik : 1
+me vraag ik -> je : 1
+vraag ik je -> blij : 1
+ik je blij -> nu : 1
+je blij nu -> je : 1
+blij nu je -> smaak : 1
+nu je smaak -> van : 1
+je smaak van -> die : 1
+smaak van die -> perfect : 1
+van die perfect -> bereide : 1
+die perfect bereide -> zwezerik : 1
+perfect bereide zwezerik -> naar : 1
+bereide zwezerik naar -> god : 1
+zwezerik naar god -> hebt : 1
+naar god hebt -> vind : 1
+god hebt vind -> het : 1
+hebt vind het -> hij : 1
+vind het hij -> doet : 1
+het hij doet -> nog : 1
+hij doet nog -> een : 1
+doet nog een -> grote : 1
+nog een grote -> lik : 1
+een grote lik -> sambal : 1
+grote lik sambal -> op : 1
+lik sambal op -> zijn : 1
+sambal op zijn -> met : 1
+op zijn met -> volle : 1
+zijn met volle -> mond : 1
+met volle mond -> vervolgt : 1
+volle mond vervolgt -> echte : 1
+mond vervolgt echte -> haute : 1
+vervolgt echte haute -> cuisine : 1
+echte haute cuisine -> dat : 1
+haute cuisine dat -> geval : 1
+cuisine dat geval -> wens : 1
+dat geval wens -> ik : 1
+geval wens ik -> je : 1
+wens ik je -> een : 1
+ik je een -> smakelijke : 1

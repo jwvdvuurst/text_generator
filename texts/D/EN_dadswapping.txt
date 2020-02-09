@@ -1,0 +1,5150 @@
+characters : 1
+events : 1
+book : 1
+similarity : 1
+real : 1
+coincidental : 1
+intended : 1
+deadly : 1
+thinking : 1
+count : 1
+best : 1
+junior : 1
+eighteenth : 1
+admit : 1
+earlier : 1
+meal : 1
+whispered : 1
+realised : 1
+denied : 1
+outlined : 1
+fancy : 1
+especially : 1
+yours : 1
+kind : 1
+lost : 1
+whole : 1
+deed : 1
+half : 1
+our : 1
+organise : 1
+leave : 1
+minimum : 1
+paper : 1
+folded : 1
+selected : 1
+read : 1
+drawing : 1
+disapproving : 1
+different : 1
+million : 1
+among : 1
+fathers : 1
+divorced : 1
+years : 1
+string : 1
+guess : 1
+means : 1
+remaining : 1
+owned : 1
+high : 1
+weathered : 1
+competition : 1
+chains : 1
+online : 1
+movie : 1
+covering : 1
+costs : 1
+forced : 1
+part : 1
+staff : 1
+quiet : 1
+close : 1
+coffee : 1
+storage : 1
+drank : 1
+passageway : 1
+stay : 1
+checked : 1
+five : 1
+turning : 1
+sign : 1
+mouthed : 1
+word : 1
+disappointed : 1
+recognised : 1
+sorry : 1
+unlocked : 1
+allow : 1
+locked : 1
+wanting : 1
+follow : 1
+letting : 1
+bored : 1
+tonight : 1
+max : 1
+scanned : 1
+wandered : 1
+adult : 1
+spend : 1
+shelves : 1
+woman : 1
+kneeling : 1
+front : 1
+although : 1
+obviously : 1
+enjoying : 1
+slight : 1
+early : 1
+six : 1
+conventionally : 1
+written : 1
+diary : 1
+marry : 1
+spluttered : 1
+nothing : 1
+definitely : 1
+almost : 1
+choked : 1
+leading : 1
+miss : 1
+room : 1
+brushing : 1
+fell : 1
+straining : 1
+throbbing : 1
+block : 1
+tickling : 1
+forward : 1
+stream : 1
+roof : 1
+swallowed : 1
+slip : 1
+lunch : 1
+following : 1
+favourite : 1
+town : 1
+chose : 1
+corner : 1
+furthest : 1
+happened : 1
+late : 1
+performance : 1
+wish : 1
+everyone : 1
+listen : 1
+evidence : 1
+mood : 1
+grumpy : 1
+spoke : 1
+again : 1
+luck : 1
+anyhow : 1
+set : 1
+better : 1
+rubbing : 1
+liar : 1
+glad : 1
+eager : 1
+edge : 1
+ten : 1
+people : 1
+mud : 1
+chooses : 1
+spot : 1
+beyond : 1
+wooden : 1
+metres : 1
+carry : 1
+bound : 1
+blonde : 1
+shoulder : 1
+hair : 1
+fastened : 1
+cheerleader : 1
+tight : 1
+emphasised : 1
+pop : 1
+followed : 1
+bend : 1
+tennis : 1
+shirt : 1
+hoping : 1
+concentration : 1
+bob : 1
+nor : 1
+opposite : 1
+ducked : 1
+visibly : 1
+often : 1
+hearing : 1
+biting : 1
+earth : 1
+above : 1
+eye : 1
+order : 1
+fresh : 1
+apart : 1
+registered : 1
+averted : 1
+obvious : 1
+movements : 1
+slow : 1
+those : 1
+neither : 1
+probably : 1
+undo : 1
+show : 1
+notice : 1
+dip : 1
+below : 1
+fishing : 1
+turned : 1
+facing : 1
+ways : 1
+unzipped : 1
+free : 1
+wider : 1
+bottom : 1
+peeled : 1
+returned : 1
+pants : 1
+stopped : 1
+pull : 1
+strokes : 1
+became : 1
+huge : 1
+sigh : 1
+flaccid : 1
+grass : 1
+beside : 1
+limp : 1
+taste : 1
+teased : 1
+twitch : 1
+within : 1
+spread : 1
+climbed : 1
+revived : 1
+remember : 1
+erections : 1
+worried : 1
+fast : 1
+met : 1
+thrust : 1
+equal : 1
+coming : 1
+knelt : 1
+exhausted : 1
+kill : 1
+office : 1
+sneak : 1
+find : 1
+cupboard : 1
+pass : 1
+chipped : 1
+am : 1
+sometimes : 1
+local : 1
+pub : 1
+weeks : 1
+cinema : 1
+accidentally : 1
+bump : 1
+later : 1
+standing : 1
+middle : 1
+foyer : 1
+husband : 1
+bought : 1
+drinks : 1
+type : 1
+walking : 1
+drink : 1
+sit : 1
+old : 1
+grabbed : 1
+arm : 1
+forget : 1
+seat : 1
+asked : 1
+adverts : 1
+monthly : 1
+knee : 1
+reveal : 1
+low : 1
+cut : 1
+matching : 1
+passed : 1
+coat : 1
+crossed : 1
+scooped : 1
+button : 1
+stare : 1
+lights : 1
+dimmed : 1
+signal : 1
+main : 1
+feature : 1
+fifteen : 1
+easily : 1
+embarrassing : 1
+moment : 1
+diverting : 1
+also : 1
+hidden : 1
+shout : 1
+start : 1
+transfixed : 1
+bloodletting : 1
+seeking : 1
+fixed : 1
+done : 1
+eventually : 1
+fully : 1
+shuffle : 1
+closer : 1
+final : 1
+quick : 1
+accustomed : 1
+erect : 1
+stifle : 1
+work : 1
+waved : 1
+hiding : 1
+impossible : 1
+disguise : 1
+shoot : 1
+tissues : 1
+catch : 1
+rest : 1
+refuse : 1
+born : 1
+shook : 1
+girlfriends : 1
+none : 1
+lasted : 1
+seemed : 1
+enjoy : 1
+living : 1
+life : 1
+single : 1
+pretence : 1
+throw : 1
+yourself : 1
+pulls : 1
+than : 1
+involved : 1
+silly : 1
+ages : 1
+classy : 1
+end : 1
+plumped : 1
+answered : 1
+jeans : 1
+though : 1
+planning : 1
+welcome : 1
+accepted : 1
+offer : 1
+cold : 1
+table : 1
+supposed : 1
+hoped : 1
+initiative : 1
+encouraged : 1
+calling : 1
+bending : 1
+open : 1
+handbag : 1
+pretended : 1
+struggle : 1
+locate : 1
+pointing : 1
+stand : 1
+bit : 1
+prick : 1
+suddenly : 1
+arms : 1
+butt : 1
+spun : 1
+rested : 1
+licking : 1
+lips : 1
+faces : 1
+tingling : 1
+shoulders : 1
+bear : 1
+collapsed : 1
+moments : 1
+discarded : 1
+boxers : 1
+stroking : 1
+stepped : 1
+either : 1
+inches : 1
+taking : 1
+careful : 1
+squeeze : 1
+tease : 1
+hole : 1
+sucked : 1
+pressing : 1
+telling : 1
+deeper : 1
+armchair : 1
+muscles : 1
+swallow : 1
+hit : 1
+blinded : 1
+splashed : 1
+responding : 1
+lower : 1
+breasts : 1
+touch : 1
+bum : 1
+used : 1
+ease : 1
+sensitive : 1
+withdrew : 1
+relaxed : 1
+soon : 1
+shooting : 1
+mission : 1
+accomplished : 1
+truly : 1
+celebrate : 1
+successful : 1
+conclusion : 1
+certainly : 1
+warn : 1
+has : 1
+seats : 1
+takes : 1
+nodded : 1
+maybe : 1
+swap : 1
+dads : 1
+another : 1
+completely : 1
+naughty : 1
+stories : 1
+unfaithful : 1
+sex : 1
+teachers : 1
+dead : 2
+friends : 2
+youngest : 2
+dropped : 2
+birthday : 2
+checking : 2
+quite : 2
+brains : 2
+tell : 2
+decide : 2
+gets : 2
+draw : 2
+hell : 2
+exactly : 2
+squares : 2
+came : 2
+cupped : 2
+pick : 2
+fucking : 2
+looks : 2
+picked : 2
+piece : 2
+mother : 2
+dvd : 2
+rental : 2
+business : 2
+does : 2
+nine : 2
+led : 2
+window : 2
+keep : 2
+waited : 2
+already : 2
+need : 2
+something : 2
+good : 2
+quickly : 2
+section : 2
+surprised : 2
+making : 2
+picture : 2
+increased : 2
+placed : 2
+undid : 2
+trousers : 2
+rubbed : 2
+sticky : 2
+shuffled : 2
+others : 2
+stroked : 2
+teasing : 2
+dirty : 2
+playing : 2
+balls : 2
+enough : 2
+right : 2
+same : 2
+finished : 2
+day : 2
+wanted : 2
+laughed : 2
+night : 2
+great : 2
+usually : 2
+every : 2
+try : 2
+changed : 2
+touching : 2
+gone : 2
+bridge : 2
+hundred : 2
+goes : 2
+fish : 2
+walk : 2
+length : 2
+skirt : 2
+dark : 2
+hear : 2
+level : 2
+pulling : 2
+where : 2
+drawn : 2
+very : 2
+began : 2
+bank : 2
+satisfied : 2
+left : 2
+wanking : 2
+wanked : 2
+touched : 2
+moving : 2
+continued : 2
+full : 2
+deep : 2
+second : 2
+how : 2
+father : 2
+trying : 2
+joined : 2
+works : 2
+grab : 2
+between : 2
+slipped : 2
+red : 2
+mini : 2
+noticed : 2
+handful : 2
+giant : 2
+house : 2
+decided : 2
+nervous : 2
+easy : 2
+glance : 2
+allowed : 2
+went : 2
+game : 2
+wiped : 2
+himself : 2
+lots : 2
+horny : 2
+knowing : 2
+vest : 2
+bare : 2
+first : 2
+crotch : 2
+against : 2
+lifted : 2
+pressed : 2
+fingering : 2
+chair : 2
+resting : 2
+before : 2
+ball : 2
+fingered : 2
+jackie : 3
+believe : 3
+since : 3
+anything : 3
+most : 3
+immediately : 3
+hot : 3
+their : 3
+planned : 3
+watch : 3
+keen : 3
+job : 3
+blow : 3
+must : 3
+actually : 3
+held : 3
+own : 3
+opened : 3
+couple : 3
+days : 3
+big : 3
+ran : 3
+shop : 3
+way : 3
+access : 3
+minutes : 3
+tried : 3
+door : 3
+behind : 3
+else : 3
+spotted : 3
+meant : 3
+always : 3
+someone : 3
+mr : 3
+bulge : 3
+erection : 3
+slightly : 3
+view : 3
+gently : 3
+eyes : 3
+licked : 3
+minute : 3
+arranged : 3
+meet : 3
+bar : 3
+away : 3
+taken : 3
+able : 3
+here : 3
+further : 3
+pointed : 3
+short : 3
+blue : 3
+float : 3
+without : 3
+face : 3
+rod : 3
+wet : 3
+might : 3
+lay : 3
+both : 3
+worked : 3
+play : 3
+watched : 3
+load : 3
+once : 3
+mum : 3
+us : 3
+well : 3
+bucket : 3
+harder : 3
+ready : 3
+raised : 3
+clit : 3
+liked : 4
+doing : 4
+caught : 4
+why : 4
+give : 4
+let : 4
+love : 4
+idea : 4
+should : 4
+wants : 4
+straight : 4
+seeing : 4
+sitting : 4
+gave : 4
+store : 4
+until : 4
+anyone : 4
+far : 4
+along : 4
+naked : 4
+man : 4
+glanced : 4
+few : 4
+waist : 4
+say : 4
+shot : 4
+white : 4
+really : 4
+herself : 4
+pussy : 4
+walked : 4
+reached : 4
+sat : 4
+an : 4
+played : 4
+stood : 4
+lick : 4
+managed : 4
+told : 4
+feel : 4
+head : 5
+know : 5
+each : 5
+made : 5
+too : 5
+turn : 5
+small : 5
+across : 5
+side : 5
+long : 5
+giving : 5
+looking : 5
+wife : 5
+come : 5
+under : 5
+sure : 5
+now : 5
+top : 5
+wearing : 5
+gaze : 5
+towards : 5
+even : 5
+finger : 5
+fingers : 5
+hard : 5
+inside : 5
+any : 6
+off : 6
+mouth : 6
+look : 6
+if : 6
+hands : 6
+only : 6
+take : 6
+saw : 6
+seen : 6
+found : 6
+because : 6
+did : 6
+push : 6
+legs : 6
+make : 6
+fucked : 6
+popcorn : 6
+can : 7
+getting : 7
+little : 7
+hold : 7
+suck : 7
+cum : 7
+tongue : 7
+more : 7
+while : 7
+onto : 7
+arse : 7
+fuck : 8
+much : 8
+around : 8
+thought : 8
+three : 8
+last : 8
+river : 8
+pushed : 8
+felt : 8
+got : 9
+girls : 9
+what : 9
+who : 9
+watching : 9
+there : 9
+no : 9
+just : 9
+put : 9
+slowly : 9
+or : 10
+four : 10
+think : 10
+said : 10
+never : 10
+after : 10
+looked : 10
+through : 10
+time : 10
+some : 10
+is : 11
+me : 11
+started : 11
+next : 11
+two : 11
+which : 11
+like : 12
+still : 12
+want : 12
+see : 12
+pulled : 12
+back : 12
+over : 12
+moved : 12
+do : 13
+knew : 13
+by : 14
+been : 14
+about : 14
+will : 14
+going : 14
+them : 14
+go : 14
+are : 15
+not : 15
+up : 15
+so : 15
+other : 15
+would : 15
+could : 15
+this : 16
+my : 16
+get : 16
+took : 16
+from : 16
+dad : 18
+were : 18
+they : 19
+down : 19
+one : 20
+into : 20
+but : 21
+when : 21
+have : 21
+as : 21
+be : 22
+for : 22
+i : 22
+your : 22
+all : 23
+we : 24
+then : 24
+that : 25
+out : 25
+hand : 25
+at : 27
+maxine : 30
+him : 30
+jojo : 31
+caroline : 32
+with : 32
+cock : 32
+on : 38
+in : 47
+it : 50
+you : 59
+had : 60
+a : 82
+of : 83
+and : 108
+was : 110
+his : 110
+he : 115
+she : 149
+her : 158
+to : 180
+the : 235
+of jackie characters -> and : 1
+jackie characters and -> events : 1
+characters and events -> in : 1
+and events in -> this : 1
+events in this -> book : 1
+in this book -> are : 1
+this book are -> any : 1
+book are any -> similarity : 1
+are any similarity -> to : 1
+any similarity to -> real : 1
+similarity to real -> dead : 1
+to real dead -> or : 1
+real dead or -> is : 1
+dead or is -> coincidental : 1
+or is coincidental -> and : 1
+is coincidental and -> not : 1
+coincidental and not -> intended : 1
+and not intended -> by : 1
+not intended by -> the : 1
+intended by the -> jackie : 1
+by the jackie -> got : 1
+the jackie got -> to : 1
+jackie got to -> be : 1
+got to be -> believe : 1
+to be believe -> her : 1
+be believe her -> deadly : 1
+believe her deadly -> caroline : 1
+her deadly caroline -> had : 1
+deadly caroline had -> been : 1
+caroline had been -> thinking : 1
+had been thinking -> about : 1
+been thinking about -> this : 1
+thinking about this -> for : 1
+about this for -> can : 1
+this for can -> count : 1
+for can count -> me : 1
+can count me -> four : 1
+count me four -> girls : 1
+me four girls -> had : 1
+four girls had -> been : 1
+girls had been -> best : 1
+had been best -> friends : 1
+been best friends -> since : 1
+best friends since -> junior : 1
+friends since junior -> it : 1
+since junior it -> was : 1
+junior it was -> eighteenth : 1
+it was eighteenth -> she : 1
+was eighteenth she -> was : 1
+eighteenth she was -> the : 1
+she was the -> youngest : 1
+was the youngest -> of : 2
+the youngest of -> the : 2
+youngest of the -> on : 1
+youngest of the -> four : 1
+of the on -> it : 1
+the on it -> will : 1
+on it will -> be : 1
+it will be -> a : 1
+it will be -> we : 1
+it will be -> grabbed : 1
+will be a -> maxine : 1
+be a maxine -> liked : 1
+a maxine liked -> the : 1
+maxine liked the -> got : 1
+liked the got -> to : 1
+the got to -> admit : 1
+got to admit -> dad : 1
+to admit dad -> is : 1
+admit dad is -> but : 1
+dad is but -> my : 1
+is but my -> dad : 1
+but my dad -> think : 1
+my dad think -> he : 1
+dad think he -> caroline : 1
+think he caroline -> think : 1
+he caroline think -> anything : 1
+caroline think anything -> with : 1
+think anything with -> a : 1
+anything with a -> cock : 1
+with a cock -> is : 1
+a cock is -> not : 1
+cock is not -> doing : 1
+is not doing -> said : 1
+not doing said -> up : 1
+doing said up -> for : 1
+said up for -> jojo : 1
+up for jojo -> was : 1
+for jojo was -> up : 1
+jojo was up -> for : 1
+was up for -> most : 1
+up for most -> are : 1
+for most are -> we : 1
+most are we -> going : 1
+are we going -> to : 2
+we going to -> do : 1
+we going to -> organise : 1
+going to do -> had : 1
+to do had -> all : 1
+do had all -> started : 1
+had all started -> earlier : 1
+all started earlier -> that : 1
+started earlier that -> when : 1
+earlier that when -> dad : 1
+that when dad -> had : 1
+when dad had -> dropped : 1
+dad had dropped -> her : 1
+had dropped her -> off : 1
+dropped her off -> at : 1
+her off at -> the : 1
+off at the -> birthday : 1
+at the birthday -> meal : 1
+the birthday meal -> had : 1
+birthday meal had -> been : 1
+meal had been -> his : 1
+had been his -> caroline : 1
+been his caroline -> had : 1
+his caroline had -> caught : 1
+caroline had caught -> maxine : 1
+had caught maxine -> checking : 1
+caught maxine checking -> out : 1
+maxine checking out -> his : 1
+checking out his -> and : 1
+out his and -> had : 1
+his and had -> whispered : 1
+and had whispered -> to : 1
+had whispered to -> you : 1
+whispered to you -> like : 1
+to you like -> what : 1
+you like what -> you : 1
+like what you -> realised : 1
+what you realised -> she : 1
+you realised she -> had : 1
+realised she had -> been : 1
+she had been -> quite : 1
+she had been -> checking : 1
+she had been -> fingered : 1
+had been quite -> so : 1
+been quite so -> and : 1
+quite so and -> immediately : 1
+so and immediately -> denied : 1
+and immediately denied -> she : 1
+immediately denied she -> had : 1
+denied she had -> been : 1
+had been checking -> him : 1
+been checking him -> that : 1
+checking him that -> is : 1
+him that is -> when : 1
+that is when -> caroline : 1
+is when caroline -> had : 1
+when caroline had -> outlined : 1
+caroline had outlined -> her : 1
+had outlined her -> we : 1
+outlined her we -> all : 1
+her we all -> have : 1
+we all have -> hot : 1
+all have hot -> i : 1
+have hot i -> fancy : 1
+hot i fancy -> all : 1
+i fancy all -> of : 1
+fancy all of -> your : 1
+all of your -> especially : 1
+of your especially -> yours : 1
+your especially yours -> why : 1
+especially yours why -> we : 1
+yours why we -> give : 1
+why we give -> them : 1
+we give them -> a : 1
+give them a -> kind : 1
+them a kind -> of : 1
+a kind of -> fuck : 1
+kind of fuck -> their : 1
+of fuck their -> brains : 1
+fuck their brains -> much : 1
+their brains much -> have : 1
+brains much have -> you : 1
+much have you -> had : 1
+have you had -> to : 1
+you had to -> get : 1
+had to get -> her : 1
+to get her -> head : 1
+get her head -> around : 1
+her head around -> any : 1
+head around any -> of : 1
+around any of -> have : 1
+any of have -> lost : 1
+of have lost -> your : 1
+have lost your -> it : 1
+lost your it -> will : 1
+your it will -> be : 1
+will be we -> let : 1
+be we let -> them : 1
+we let them -> know : 1
+let them know -> we : 1
+them know we -> planned : 1
+know we planned -> this : 1
+we planned this -> each : 1
+planned this each -> of : 1
+this each of -> them : 1
+each of them -> will : 1
+of them will -> think : 1
+them will think -> they : 1
+will think they -> have : 1
+think they have -> made : 1
+they have made -> a : 1
+have made a -> and : 1
+made a and -> will : 1
+a and will -> never : 1
+and will never -> tell : 1
+will never tell -> love : 1
+never tell love -> to : 1
+tell love to -> get : 1
+love to get -> my : 1
+to get my -> mouth : 1
+get my mouth -> around : 1
+my mouth around -> your : 1
+mouth around your -> jojo : 1
+around your jojo -> said : 1
+your jojo said -> to : 1
+jojo said to -> do : 1
+said to do -> we : 1
+to do we -> decide : 1
+do we decide -> who : 1
+we decide who -> gets : 1
+decide who gets -> will : 1
+who gets will -> draw : 1
+gets will draw -> still : 1
+will draw still -> thought : 1
+draw still thought -> the : 1
+still thought the -> whole : 1
+thought the whole -> idea : 1
+the whole idea -> was : 1
+whole idea was -> jojo : 1
+idea was jojo -> and : 1
+was jojo and -> maxine : 1
+jojo and maxine -> will : 1
+and maxine will -> do : 1
+maxine will do -> the : 1
+will do the -> deed : 1
+do the deed -> you : 1
+the deed you -> can : 1
+deed you can -> are : 1
+you can are -> you : 1
+can are you -> will : 1
+are you will -> be : 1
+you will be -> half : 1
+will be half -> the : 1
+be half the -> we : 1
+half the we -> all : 1
+the we all -> get : 1
+we all get -> to : 1
+all get to -> watch : 1
+get to watch -> our : 1
+to watch our -> getting : 1
+watch our getting -> the : 1
+our getting the -> hell : 1
+getting the hell -> are : 1
+the hell are -> we : 1
+hell are we -> going : 1
+going to organise -> know : 1
+to organise know -> look : 1
+organise know look -> if : 1
+know look if -> you : 1
+look if you -> still : 1
+if you still -> want : 1
+you still want -> to : 1
+still want to -> do : 1
+want to do -> after : 1
+to do after -> watching : 1
+do after watching -> then : 1
+after watching then -> you : 1
+watching then you -> have : 1
+then you have -> there : 1
+you have there -> is : 1
+have there is -> no : 1
+there is no -> exactly : 1
+is no exactly -> do : 1
+no exactly do -> we : 1
+exactly do we -> have : 1
+do we have -> to : 1
+we have to -> jojo : 1
+have to jojo -> was : 1
+to jojo was -> keen : 1
+jojo was keen -> to : 2
+was keen to -> get : 2
+keen to get -> all : 1
+keen to get -> he : 1
+to get all -> the : 1
+get all the -> a : 1
+all the a -> hand : 1
+the a hand -> job : 1
+a hand job -> or : 1
+a hand job -> been : 1
+hand job or -> a : 1
+job or a -> blow : 1
+or a blow -> job : 1
+a blow job -> or : 1
+blow job or -> must : 1
+job or must -> we : 1
+or must we -> actually : 1
+must we actually -> fuck : 1
+we actually fuck -> think : 1
+actually fuck think -> we : 1
+fuck think we -> should : 1
+think we should -> leave : 1
+we should leave -> that : 1
+should leave that -> to : 1
+leave that to -> the : 1
+that to the -> you : 1
+to the you -> can : 1
+the you can -> do : 1
+you can do -> anything : 1
+can do anything -> you : 1
+do anything you -> but : 1
+anything you but -> a : 1
+you but a -> minimum : 1
+but a minimum -> of : 1
+a minimum of -> a : 1
+minimum of a -> hand : 1
+of a hand -> took : 1
+a hand took -> four : 1
+hand took four -> squares : 1
+took four squares -> of : 1
+four squares of -> paper : 1
+four squares of -> and : 1
+squares of paper -> out : 1
+of paper out -> of : 1
+paper out of -> her : 1
+out of her -> see : 1
+out of her -> after : 1
+out of her -> girls : 1
+out of her -> wet : 1
+out of her -> knelt : 1
+out of her -> and : 1
+of her see -> you : 1
+her see you -> came : 1
+see you came -> maxine : 1
+you came maxine -> folded : 1
+came maxine folded -> the : 1
+maxine folded the -> four : 1
+folded the four -> squares : 1
+the four squares -> of : 1
+squares of and -> then : 1
+of and then -> held : 1
+and then held -> them : 1
+then held them -> in : 1
+held them in -> her : 1
+them in her -> cupped : 1
+in her cupped -> wants : 1
+her cupped wants -> to : 1
+cupped wants to -> pick : 1
+wants to pick -> jojo : 1
+to pick jojo -> selected : 1
+pick jojo selected -> one : 1
+jojo selected one -> and : 1
+selected one and -> read : 1
+one and read -> the : 1
+and read the -> not : 1
+read the not -> fucking : 1
+the not fucking -> my : 1
+not fucking my -> own : 1
+fucking my own -> she : 1
+my own she -> said : 1
+own she said -> a : 1
+she said a -> little : 1
+said a little -> too : 1
+a little too -> drawing : 1
+little too drawing -> disapproving : 1
+too drawing disapproving -> looks : 1
+drawing disapproving looks -> from : 1
+disapproving looks from -> the : 1
+looks from the -> next : 1
+from the next -> a : 1
+the next a -> different : 1
+next a different -> got : 1
+a different got -> your : 1
+different got your -> jojo : 1
+got your jojo -> looked : 1
+your jojo looked -> straight : 1
+jojo looked straight -> at : 1
+looked straight at -> maxine : 1
+straight at maxine -> looked : 1
+at maxine looked -> a : 1
+maxine looked a -> little : 1
+looked a little -> maxine : 1
+a little maxine -> picked : 1
+little maxine picked -> dad : 1
+maxine picked dad -> go : 1
+picked dad go -> for : 1
+dad go for -> not : 1
+go for not -> in : 1
+for not in -> a : 1
+not in a -> million : 1
+in a million -> like : 1
+a million like -> a : 1
+million like a -> maxine : 1
+like a maxine -> turn : 1
+a maxine turn -> to : 1
+maxine turn to -> caroline : 1
+turn to caroline -> held : 1
+to caroline held -> her : 1
+caroline held her -> cupped : 1
+held her cupped -> hands : 1
+her cupped hands -> out : 1
+cupped hands out -> to : 1
+hands out to -> pulled : 1
+out to pulled -> pick : 1
+to pulled pick -> caroline : 1
+pulled pick caroline -> opened : 1
+pick caroline opened -> the : 1
+caroline opened the -> piece : 1
+caroline opened the -> remaining : 1
+opened the piece -> of : 1
+the piece of -> fuck : 1
+piece of fuck -> your : 1
+of fuck your -> brains : 1
+fuck your brains -> dad : 1
+your brains dad -> was : 1
+brains dad was -> the : 1
+dad was the -> only : 1
+was the only -> one : 1
+the only one -> among : 1
+only one among -> the : 1
+one among the -> four : 1
+among the four -> fathers : 1
+the four fathers -> who : 1
+four fathers who -> he : 1
+fathers who he -> had : 1
+who he had -> divorced : 1
+he had divorced -> mother : 1
+had divorced mother -> four : 1
+divorced mother four -> years : 1
+mother four years -> had : 1
+four years had -> a : 1
+years had a -> string : 1
+had a string -> of : 1
+a string of -> and : 1
+string of and -> jojo : 1
+of and jojo -> had : 1
+and jojo had -> caught : 1
+jojo had caught -> him : 1
+had caught him -> fucking : 1
+caught him fucking -> a : 1
+him fucking a -> couple : 1
+fucking a couple -> of : 1
+a couple of -> them : 1
+a couple of -> minutes : 1
+couple of them -> when : 1
+of them when -> he : 1
+them when he -> had : 1
+when he had -> thought : 1
+he had thought -> she : 1
+had thought she -> was : 1
+thought she was -> out : 1
+she was out -> of : 1
+was out of -> the : 1
+out of the -> guess : 1
+out of the -> she : 1
+out of the -> chair : 1
+of the guess -> that : 1
+the guess that -> means : 1
+guess that means -> i : 1
+that means i -> get : 1
+means i get -> to : 1
+i get to -> fuck : 1
+get to fuck -> your : 1
+to fuck your -> caroline : 1
+fuck your caroline -> opened : 1
+your caroline opened -> the : 1
+opened the remaining -> piece : 1
+the remaining piece -> of : 1
+remaining piece of -> wants : 1
+piece of wants -> to : 1
+of wants to -> go : 1
+wants to go -> think : 1
+wants to go -> jojo : 1
+to go think -> you : 1
+go think you -> seeing : 1
+think you seeing -> as : 1
+you seeing as -> it : 1
+seeing as it -> was : 1
+as it was -> your : 1
+it was your -> caroline : 1
+was your caroline -> go : 1
+your caroline go -> was : 1
+caroline go was -> three : 1
+go was three -> days : 1
+was three days -> believe : 1
+three days believe -> you : 1
+days believe you -> are : 1
+believe you are -> going : 1
+you are going -> through : 1
+are going through -> with : 1
+going through with -> dad : 1
+through with dad -> was : 1
+with dad was -> at : 1
+dad was at -> he : 1
+was at he -> owned : 1
+at he owned -> a : 1
+he owned a -> small : 1
+owned a small -> dvd : 1
+a small dvd -> rental : 1
+small dvd rental -> business : 1
+dvd rental business -> on : 1
+rental business on -> the : 1
+business on the -> high : 1
+on the high -> business : 1
+the high business -> was : 1
+high business was -> he : 1
+business was he -> had : 1
+was he had -> just : 1
+he had just -> about : 1
+had just about -> weathered : 1
+just about weathered -> the : 1
+about weathered the -> competition : 1
+weathered the competition -> from : 1
+the competition from -> the : 1
+competition from the -> big : 1
+from the big -> chains : 1
+the big chains -> when : 1
+big chains when -> online : 1
+chains when online -> movie : 1
+when online movie -> rental : 1
+online movie rental -> started : 1
+movie rental started -> to : 1
+rental started to -> take : 1
+started to take -> he : 1
+to take he -> was : 1
+take he was -> only : 1
+he was only -> just : 1
+was only just -> about : 1
+only just about -> covering : 1
+just about covering -> his : 1
+about covering his -> costs : 1
+covering his costs -> at : 1
+his costs at -> the : 1
+costs at the -> and : 1
+at the and -> had : 1
+the and had -> been : 1
+and had been -> forced : 1
+had been forced -> to : 1
+been forced to -> let : 1
+forced to let -> the : 1
+to let the -> two : 1
+let the two -> part : 1
+the two part -> time : 1
+two part time -> staff : 1
+part time staff -> go : 1
+time staff go -> last : 1
+staff go last -> so : 1
+go last so -> he : 1
+last so he -> ran : 1
+so he ran -> the : 1
+he ran the -> shop : 1
+ran the shop -> all : 1
+the shop all -> by : 1
+shop all by -> most : 1
+all by most -> of : 1
+by most of -> the : 1
+most of the -> it : 1
+of the it -> was : 1
+the it was -> so : 1
+the it was -> already : 1
+the it was -> two : 1
+it was so -> quiet : 1
+was so quiet -> it : 1
+so quiet it -> a : 1
+quiet it a -> time : 1
+it a time -> does : 1
+a time does -> he : 1
+time does he -> close : 1
+does he close -> caroline : 1
+he close caroline -> the : 1
+close caroline the -> four : 1
+caroline the four -> girls : 1
+the four girls -> were : 1
+four girls were -> sitting : 1
+girls were sitting -> in : 1
+were sitting in -> the : 1
+sitting in the -> coffee : 1
+in the coffee -> shop : 1
+the coffee shop -> immediately : 1
+coffee shop immediately -> nine : 1
+shop immediately nine -> at : 1
+immediately nine at -> the : 1
+nine at the -> back : 1
+at the back -> of : 1
+the back of -> the : 3
+the back of -> her : 1
+back of the -> small : 1
+back of the -> caroline : 1
+back of the -> armchair : 1
+of the small -> storage : 1
+the small storage -> have : 1
+small storage have -> a : 1
+storage have a -> look : 1
+have a look -> around : 1
+a look around -> the : 1
+look around the -> caroline : 1
+around the caroline -> drank : 1
+the caroline drank -> the : 1
+caroline drank the -> last : 1
+drank the last -> of : 1
+the last of -> her : 1
+last of her -> and : 1
+of her and -> then : 1
+of her and -> peeled : 1
+of her and -> raised : 1
+of her and -> shot : 1
+her and then -> led : 1
+and then led -> the : 1
+then led the -> way : 1
+led the way -> across : 1
+the way across -> the : 1
+way across the -> a : 1
+across the a -> small : 1
+the a small -> passageway : 1
+a small passageway -> gave : 1
+small passageway gave -> them : 1
+passageway gave them -> access : 1
+gave them access -> to : 1
+them access to -> the : 1
+access to the -> back : 1
+to the back -> of : 1
+of the caroline -> when : 1
+the caroline when -> she : 1
+caroline when she -> saw : 1
+when she saw -> the : 1
+when she saw -> caroline : 1
+she saw the -> small : 1
+she saw the -> three : 1
+saw the small -> window : 1
+the small window -> which : 1
+small window which -> looked : 1
+window which looked -> straight : 1
+which looked straight -> into : 1
+looked straight into -> the : 1
+straight into the -> store : 1
+into the store -> three : 1
+into the store -> maxine : 1
+into the store -> the : 1
+the store three -> stay : 1
+store three stay -> keep : 1
+three stay keep -> watching : 1
+stay keep watching -> through : 1
+keep watching through -> this : 1
+watching through this -> checked : 1
+through this checked -> her : 1
+this checked her -> it : 1
+checked her it -> was : 1
+her it was -> five : 1
+it was five -> minutes : 1
+was five minutes -> to : 1
+five minutes to -> she : 1
+minutes to she -> waited : 1
+to she waited -> until : 1
+she waited until -> it : 1
+waited until it -> was : 1
+until it was -> dead : 1
+it was dead -> on : 1
+was dead on -> nine : 1
+dead on nine -> and : 1
+on nine and -> then : 1
+nine and then -> made : 1
+and then made -> her : 1
+then made her -> way : 1
+made her way -> to : 1
+her way to -> the : 1
+way to the -> shop : 1
+to the shop -> dad : 1
+the shop dad -> was : 1
+shop dad was -> just : 1
+dad was just -> turning : 1
+was just turning -> the : 1
+just turning the -> sign : 1
+turning the sign -> tried : 1
+the sign tried -> the : 1
+sign tried the -> it : 1
+tried the it -> was : 1
+it was already -> he : 1
+was already he -> mouthed : 1
+already he mouthed -> the : 1
+he mouthed the -> word : 1
+mouthed the word -> tried : 1
+the word tried -> to : 1
+word tried to -> look : 1
+tried to look -> as : 1
+to look as -> disappointed : 1
+look as disappointed -> as : 1
+as disappointed as -> she : 1
+disappointed as she -> he : 1
+as she he -> recognised : 1
+she he recognised -> caroline : 1
+he recognised caroline -> seeing : 1
+recognised caroline seeing -> her : 1
+caroline seeing her -> sorry : 1
+seeing her sorry -> unlocked : 1
+her sorry unlocked -> the : 1
+sorry unlocked the -> door : 1
+unlocked the door -> to : 1
+the door to -> allow : 1
+door to allow -> her : 1
+to allow her -> he : 1
+allow her he -> locked : 1
+her he locked -> the : 1
+he locked the -> door : 1
+locked the door -> behind : 1
+the door behind -> not : 1
+door behind not -> wanting : 1
+behind not wanting -> anyone : 1
+not wanting anyone -> else : 1
+wanting anyone else -> to : 1
+anyone else to -> follow : 1
+else to follow -> was : 1
+to follow was -> just : 1
+follow was just -> about : 1
+was just about -> to : 1
+just about to -> for : 1
+about to for -> letting : 1
+to for letting -> me : 1
+for letting me -> so : 1
+letting me so -> bored : 1
+me so bored -> tonight : 1
+so bored tonight -> i : 1
+bored tonight i -> need : 1
+tonight i need -> something : 1
+i need something -> to : 1
+need something to -> max : 1
+something to max -> with : 1
+to max with -> i : 1
+max with i -> seen : 1
+with i seen -> her : 1
+i seen her -> you : 1
+seen her you -> have : 1
+her you have -> a : 1
+you have a -> good : 1
+have a good -> birthday : 1
+a good birthday -> the : 1
+good birthday the -> other : 1
+birthday the other -> quickly : 1
+the other quickly -> scanned : 1
+other quickly scanned -> the : 1
+quickly scanned the -> and : 1
+scanned the and -> spotted : 1
+the and spotted -> the : 1
+and spotted the -> section : 1
+spotted the section -> she : 1
+the section she -> he : 1
+section she he -> was : 1
+she he was -> a : 1
+he was a -> little : 1
+he was a -> picture : 1
+was a little -> surprised : 1
+a little surprised -> when : 1
+little surprised when -> she : 1
+surprised when she -> wandered : 1
+when she wandered -> over : 1
+she wandered over -> to : 1
+wandered over to -> the : 1
+over to the -> adult : 1
+over to the -> next : 1
+over to the -> first : 1
+over to the -> he : 1
+over to the -> and : 1
+to the adult -> section : 1
+the adult section -> at : 1
+adult section at -> the : 1
+section at the -> far : 1
+at the far -> side : 1
+at the far -> knowing : 1
+the far side -> of : 2
+far side of -> the : 2
+side of the -> he : 1
+side of the -> she : 1
+of the he -> keen : 1
+the he keen -> she : 1
+he keen she -> spend : 1
+keen she spend -> too : 1
+she spend too -> long : 1
+spend too long -> making : 1
+too long making -> a : 1
+long making a -> caroline : 1
+making a caroline -> looked : 1
+a caroline looked -> along : 1
+caroline looked along -> the : 1
+looked along the -> shelves : 1
+along the shelves -> of : 1
+the shelves of -> she : 1
+shelves of she -> picked : 1
+of she picked -> up : 1
+she picked up -> one : 1
+picked up one -> which : 1
+up one which -> had : 1
+one which had -> a : 1
+which had a -> picture : 1
+had a picture -> of : 1
+a picture of -> a : 1
+a picture of -> concentration : 1
+picture of a -> naked : 1
+of a naked -> man : 1
+a naked man -> with : 1
+naked man with -> a : 1
+man with a -> naked : 1
+with a naked -> woman : 1
+a naked woman -> kneeling : 1
+naked woman kneeling -> in : 1
+woman kneeling in -> front : 1
+kneeling in front -> of : 1
+in front of -> although : 1
+front of although -> you : 1
+of although you -> actually : 1
+although you actually -> see : 1
+you actually see -> she : 1
+actually see she -> was : 1
+see she was -> obviously : 1
+she was obviously -> meant : 1
+was obviously meant -> to : 1
+obviously meant to -> be : 1
+meant to be -> giving : 1
+meant to be -> on : 1
+to be giving -> him : 1
+be giving him -> a : 1
+giving him a -> blow : 2
+giving him a -> great : 1
+him a blow -> this : 1
+him a blow -> after : 1
+a blow this -> one : 1
+blow this one -> any : 1
+this one any -> caroline : 1
+one any caroline -> looking : 1
+any caroline looking -> straight : 1
+caroline looking straight -> at : 1
+looking straight at -> seen : 1
+straight at seen -> she : 1
+at seen she -> was : 1
+seen she was -> enjoying : 1
+she was enjoying -> his : 1
+was enjoying his -> she : 1
+enjoying his she -> glanced : 1
+his she glanced -> down : 1
+she glanced down -> at : 1
+glanced down at -> his : 1
+down at his -> she : 1
+at his she -> thought : 1
+his she thought -> she : 1
+she thought she -> spotted : 1
+she thought she -> might : 1
+thought she spotted -> a : 1
+she spotted a -> slight : 1
+spotted a slight -> dad : 1
+a slight dad -> was : 1
+slight dad was -> in : 1
+dad was in -> his : 1
+was in his -> early : 1
+in his early -> he : 1
+his early he -> was : 1
+early he was -> just : 1
+he was just -> over : 1
+was just over -> six : 1
+just over six -> he : 1
+over six he -> conventionally : 1
+six he conventionally -> still : 1
+he conventionally still -> caroline : 1
+conventionally still caroline -> had : 1
+still caroline had -> always : 1
+caroline had always -> found : 1
+had always found -> him : 1
+always found him -> to : 1
+found him to -> be : 1
+him to be -> when : 1
+to be when -> she : 1
+be when she -> was : 1
+when she was -> only : 1
+when she was -> sure : 1
+she was only -> she : 1
+was only she -> had : 1
+only she had -> written : 1
+she had written -> in : 1
+had written in -> her : 1
+written in her -> diary : 1
+in her diary -> that : 1
+her diary that -> she : 1
+diary that she -> would : 1
+that she would -> like : 1
+she would like -> to : 1
+would like to -> marry : 1
+like to marry -> someone : 1
+to marry someone -> like : 1
+marry someone like -> your : 1
+someone like your -> wife : 1
+like your wife -> do : 1
+your wife do -> that : 1
+wife do that -> for : 1
+do that for -> you : 1
+that for you -> mr : 1
+for you mr -> spluttered : 1
+you mr spluttered -> a : 1
+mr spluttered a -> few : 1
+spluttered a few -> but : 1
+a few but -> nothing : 1
+few but nothing -> that : 1
+but nothing that -> was : 1
+nothing that was -> the : 1
+that was the -> bulge : 1
+was the bulge -> had : 1
+the bulge had -> definitely : 1
+bulge had definitely -> increased : 1
+had definitely increased -> in : 1
+definitely increased in -> you : 1
+increased in you -> like : 1
+in you like -> me : 1
+you like me -> to : 2
+like me to -> do : 1
+like me to -> suck : 1
+me to do -> something : 1
+to do something -> about : 1
+do something about -> that : 1
+something about that -> erection : 1
+about that erection -> for : 1
+that erection for -> mr : 1
+erection for mr -> caroline : 1
+for mr caroline -> put : 1
+mr caroline put -> the : 1
+caroline put the -> dvd : 1
+put the dvd -> back : 1
+the dvd back -> on : 1
+dvd back on -> the : 1
+back on the -> then : 1
+back on the -> and : 1
+on the then -> placed : 1
+the then placed -> her : 1
+then placed her -> hand : 1
+placed her hand -> on : 1
+her hand on -> his : 2
+hand on his -> we : 1
+hand on his -> and : 1
+on his we -> go : 1
+his we go -> into : 1
+we go into -> the : 1
+go into the -> caroline : 1
+into the caroline -> took : 1
+the caroline took -> his : 1
+caroline took his -> and : 1
+took his and -> led : 1
+his and led -> him : 1
+and led him -> through : 1
+led him through -> into : 1
+him through into -> the : 1
+through into the -> store : 1
+the store maxine -> almost : 1
+store maxine almost -> choked : 1
+maxine almost choked -> when : 1
+almost choked when -> she : 1
+choked when she -> saw : 1
+she saw caroline -> leading : 1
+saw caroline leading -> her : 1
+caroline leading her -> dad : 1
+leading her dad -> into : 1
+her dad into -> the : 1
+dad into the -> store : 1
+the store the -> other : 1
+store the other -> two : 1
+the other two -> girls : 1
+other two girls -> looked : 1
+two girls looked -> at : 1
+girls looked at -> one : 1
+looked at one -> but : 1
+at one but -> then : 1
+one but then -> quickly : 1
+but then quickly -> looked : 1
+then quickly looked -> back : 1
+quickly looked back -> through : 1
+looked back through -> the : 1
+back through the -> they : 1
+through the they -> want : 1
+the they want -> to : 1
+they want to -> miss : 1
+want to miss -> had : 1
+to miss had -> his : 1
+miss had his -> back : 1
+had his back -> to : 1
+his back to -> the : 1
+back to the -> store : 1
+to the store -> room : 1
+the store room -> caroline : 1
+store room caroline -> took : 1
+room caroline took -> hold : 1
+caroline took hold -> of : 1
+took hold of -> the : 4
+took hold of -> his : 1
+hold of the -> waist : 1
+hold of the -> back : 1
+hold of the -> bottom : 1
+hold of the -> bulge : 1
+of the waist -> of : 1
+the waist of -> his : 2
+waist of his -> found : 1
+waist of his -> seeking : 1
+of his found -> the : 1
+his found the -> and : 2
+found the and -> undid : 1
+found the and -> started : 1
+the and undid -> then : 1
+and undid then -> slowly : 1
+undid then slowly -> she : 1
+then slowly she -> pulled : 1
+slowly she pulled -> down : 1
+she pulled down -> the : 1
+pulled down the -> brushing : 1
+pulled down the -> once : 1
+down the brushing -> her : 1
+the brushing her -> hand : 1
+brushing her hand -> across : 1
+her hand across -> his : 1
+hand across his -> cock : 1
+across his cock -> as : 1
+his cock as -> she : 1
+cock as she -> the : 1
+as she the -> trousers : 1
+she the trousers -> fell : 1
+the trousers fell -> to : 1
+trousers fell to -> his : 1
+fell to his -> she : 1
+to his she -> rubbed : 1
+his she rubbed -> his : 1
+she rubbed his -> cock : 1
+rubbed his cock -> through : 1
+his cock through -> his : 1
+cock through his -> it : 1
+through his it -> was : 1
+his it was -> straining : 1
+his it was -> throbbing : 1
+it was straining -> to : 1
+was straining to -> get : 1
+straining to get -> you : 1
+to get you -> like : 1
+to get you -> certainly : 1
+get you like -> me : 1
+me to suck -> your : 1
+me to suck -> you : 1
+to suck your -> mr : 1
+suck your mr -> say : 1
+your mr say -> me : 1
+mr say me -> to : 1
+say me to -> suck : 1
+to suck you -> suck : 1
+suck you suck -> my : 1
+you suck my -> will : 1
+suck my will -> only : 1
+my will only -> suck : 1
+will only suck -> it : 1
+only suck it -> if : 1
+suck it if -> you : 1
+it if you -> come : 1
+if you come -> in : 1
+you come in -> my : 1
+come in my -> i : 1
+in my i -> want : 1
+my i want -> your : 1
+i want your -> sticky : 1
+want your sticky -> cum : 1
+your sticky cum -> in : 1
+sticky cum in -> my : 1
+cum in my -> do : 1
+cum in my -> mouth : 1
+in my do -> you : 1
+my do you -> pulled : 1
+do you pulled -> down : 1
+you pulled down -> his : 1
+pulled down his -> and : 1
+down his and -> took : 1
+his and took -> hold : 1
+and took hold -> of : 3
+hold of his -> it : 1
+hold of his -> shoulders : 1
+of his it -> was : 1
+it was throbbing -> with : 1
+was throbbing with -> she : 1
+throbbing with she -> shuffled : 1
+with she shuffled -> slightly : 1
+she shuffled slightly -> to : 1
+shuffled slightly to -> one : 1
+slightly to one -> side : 2
+to one side -> because : 1
+to one side -> to : 1
+one side because -> she : 1
+side because she -> want : 1
+because she want -> to : 1
+she want to -> block : 1
+want to block -> the : 1
+to block the -> view : 1
+block the view -> of : 1
+the view of -> the : 1
+view of the -> others : 1
+of the others -> who : 1
+the others who -> she : 1
+others who she -> knew : 1
+who she knew -> would : 1
+she knew would -> be : 1
+knew would be -> looking : 1
+would be looking -> through : 1
+be looking through -> the : 1
+looking through the -> going : 1
+through the going -> to : 1
+the going to -> give : 1
+going to give -> him : 1
+to give him -> jojo : 1
+give him jojo -> maxine : 1
+him jojo maxine -> and : 1
+jojo maxine and -> were : 1
+maxine and were -> stroked : 1
+and were stroked -> his : 1
+were stroked his -> cock : 1
+stroked his cock -> with : 1
+stroked his cock -> moved : 1
+his cock with -> one : 1
+cock with one -> and : 1
+with one and -> held : 1
+one and held -> her : 1
+and held her -> other : 1
+held her other -> hand : 1
+her other hand -> gently : 1
+other hand gently -> under : 1
+hand gently under -> his : 1
+gently under his -> tickling : 1
+under his tickling -> and : 1
+his tickling and -> teasing : 1
+tickling and teasing -> you : 1
+and teasing you -> do : 1
+teasing you do -> this : 1
+you do this -> when : 1
+do this when -> you : 1
+this when you -> watch : 1
+when you watch -> your : 1
+you watch your -> dirty : 1
+watch your dirty -> she : 1
+your dirty she -> his : 1
+dirty she his -> eyes : 1
+she his eyes -> were : 1
+his eyes were -> licked : 1
+eyes were licked -> around : 1
+were licked around -> the : 1
+licked around the -> head : 1
+around the head -> of : 1
+the head of -> his : 1
+head of his -> then : 1
+of his then -> she : 1
+his then she -> slowly : 1
+then she slowly -> took : 1
+she slowly took -> it : 1
+slowly took it -> into : 1
+took it into -> her : 2
+it into her -> teasing : 1
+it into her -> mouth : 1
+into her teasing -> it : 1
+her teasing it -> with : 1
+teasing it with -> her : 1
+it with her -> tongue : 1
+with her tongue -> as : 1
+her tongue as -> she : 1
+tongue as she -> still : 1
+as she still -> playing : 1
+she still playing -> with : 1
+still playing with -> his : 1
+still playing with -> her : 1
+playing with his -> balls : 1
+with his balls -> she : 1
+his balls she -> started : 1
+balls she started -> to : 1
+she started to -> suck : 1
+started to suck -> the : 1
+started to suck -> back : 1
+to suck the -> cock : 1
+suck the cock -> in : 1
+the cock in -> and : 1
+cock in and -> out : 1
+in and out -> of : 3
+in and out -> her : 1
+and out of -> her : 2
+and out of -> his : 1
+of her after -> a : 1
+her after a -> minute : 1
+after a minute -> or : 1
+a minute or -> two : 1
+minute or two -> she : 1
+or two she -> took : 1
+two she took -> it : 1
+she took it -> out : 1
+she took it -> into : 1
+took it out -> just : 1
+it out just -> long : 1
+out just long -> enough : 1
+just long enough -> to : 1
+long enough to -> want : 1
+long enough to -> pull : 1
+enough to want -> you : 1
+to want you -> to : 1
+want you to -> cum : 1
+want you to -> fuck : 1
+you to cum -> in : 1
+to cum in -> my : 1
+in my mouth -> right : 1
+my mouth right -> looked : 1
+mouth right looked -> down : 1
+right looked down -> at : 1
+looked down at -> and : 1
+down at and -> took : 1
+at and took -> hold : 1
+of the back -> of : 1
+back of her -> he : 1
+of her he -> pulled : 1
+her he pulled -> her : 1
+he pulled her -> head : 1
+he pulled her -> lower : 1
+pulled her head -> forward : 1
+her head forward -> so : 1
+head forward so -> she : 1
+forward so she -> took : 1
+so she took -> him : 1
+she took him -> after : 1
+took him after -> a : 1
+him after a -> few : 1
+after a few -> more : 1
+a few more -> he : 1
+few more he -> shot : 1
+more he shot -> a : 1
+he shot a -> hot : 1
+shot a hot -> stream : 1
+a hot stream -> of : 1
+hot stream of -> cum : 1
+stream of cum -> into : 1
+of cum into -> the : 1
+cum into the -> roof : 1
+into the roof -> of : 1
+the roof of -> her : 1
+roof of her -> she : 1
+of her she -> swallowed : 1
+her she swallowed -> and : 1
+she swallowed and -> did : 1
+swallowed and did -> the : 1
+and did the -> same : 1
+did the same -> with : 2
+the same with -> the : 2
+same with the -> next : 1
+same with the -> my : 1
+with the next -> when : 1
+the next when -> she : 1
+next when she -> was : 1
+she was sure -> he : 1
+was sure he -> had : 1
+sure he had -> finished : 1
+he had finished -> she : 1
+had finished she -> let : 1
+finished she let -> his : 1
+she let his -> cock : 1
+let his cock -> slip : 1
+his cock slip -> out : 1
+cock slip out -> of : 1
+slip out of -> her : 1
+of her girls -> had : 1
+her girls had -> arranged : 1
+girls had arranged -> to : 1
+had arranged to -> meet : 2
+arranged to meet -> up : 2
+to meet up -> at : 1
+to meet up -> to : 1
+meet up at -> lunch : 1
+up at lunch -> time : 1
+at lunch time -> the : 1
+lunch time the -> following : 1
+time the following -> day : 1
+the following day -> in : 1
+following day in -> the : 1
+day in the -> white : 1
+in the white -> their : 1
+the white their -> favourite : 1
+white their favourite -> bar : 1
+their favourite bar -> in : 1
+favourite bar in -> the : 1
+bar in the -> town : 1
+in the town -> was : 1
+the town was -> the : 1
+town was the -> last : 1
+was the last -> to : 1
+the last to -> maxine : 1
+last to maxine -> chose : 1
+to maxine chose -> the : 1
+maxine chose the -> corner : 1
+chose the corner -> furthest : 1
+the corner furthest -> from : 1
+corner furthest from -> the : 1
+furthest from the -> she : 1
+from the she -> want : 1
+from the she -> moved : 1
+the she want -> anyone : 1
+she want anyone -> to : 1
+want anyone to -> jojo : 1
+anyone to jojo -> happened : 1
+to jojo happened -> when : 1
+jojo happened when -> he : 1
+happened when he -> got : 1
+when he got -> was : 1
+he got was -> maxine : 1
+got was maxine -> wanted : 1
+was maxine wanted -> to : 1
+maxine wanted to -> know : 1
+wanted to know -> why : 1
+to know why -> he : 1
+know why he -> was : 1
+why he was -> late : 1
+he was late -> he : 1
+was late he -> said : 1
+late he said -> he : 1
+he said he -> had : 1
+said he had -> to : 1
+he had to -> put : 1
+he had to -> take : 1
+had to put -> away : 1
+to put away -> some : 1
+put away some -> away : 1
+away some away -> some : 1
+some away some -> cock : 1
+away some cock -> more : 1
+some cock more -> jojo : 1
+cock more jojo -> laughed : 1
+more jojo laughed -> it : 1
+jojo laughed it -> away : 1
+laughed it away -> in : 1
+it away in -> that : 1
+away in that -> was : 1
+in that was -> some : 1
+that was some -> performance : 1
+was some performance -> you : 1
+some performance you -> gave : 1
+performance you gave -> last : 1
+you gave last -> night : 1
+gave last night -> i : 1
+last night i -> wish : 1
+night i wish -> i : 1
+i wish i -> had : 1
+wish i had -> taken : 1
+i had taken -> some : 1
+had taken some -> everyone : 1
+taken some everyone -> listen : 1
+some everyone listen -> up : 1
+everyone listen up -> no : 1
+listen up no -> we : 1
+up no we -> want : 1
+no we want -> any : 1
+we want any -> evidence : 1
+want any evidence -> of : 1
+any evidence of -> caroline : 1
+evidence of caroline -> was : 1
+of caroline was -> in : 1
+caroline was in -> a : 1
+was in a -> great : 1
+in a great -> mood : 1
+a great mood -> all : 1
+great mood all -> night : 1
+mood all night -> which : 1
+all night which -> is : 1
+night which is -> usually : 1
+which is usually -> grumpy : 1
+is usually grumpy -> after : 1
+usually grumpy after -> every : 1
+grumpy after every -> time : 1
+after every time -> he : 1
+every time he -> spoke : 1
+time he spoke -> to : 1
+he spoke to -> all : 1
+spoke to all -> i : 1
+to all i -> could : 1
+all i could -> think : 1
+i could think -> of : 1
+could think of -> was : 1
+think of was -> his : 1
+of was his -> cock : 1
+was his cock -> in : 1
+his cock in -> your : 1
+his cock in -> her : 1
+cock in your -> come : 1
+in your come -> you : 1
+your come you -> fuck : 1
+come you fuck -> jojo : 1
+you fuck jojo -> think : 1
+fuck jojo think -> he : 1
+jojo think he -> would : 1
+think he would -> be : 1
+he would be -> able : 2
+would be able -> to : 2
+be able to -> get : 1
+be able to -> see : 2
+able to get -> it : 1
+to get it -> up : 1
+get it up -> again : 1
+it up again -> for : 1
+up again for -> i : 1
+again for i -> want : 1
+for i want -> to : 1
+i want to -> push : 1
+want to push -> my : 1
+to push my -> luck : 1
+push my luck -> by : 1
+my luck by -> making : 1
+luck by making -> him : 1
+by making him -> too : 1
+making him too -> anyhow : 1
+him too anyhow -> i : 1
+too anyhow i -> have : 1
+anyhow i have -> set : 1
+i have set -> the : 1
+have set the -> bar : 1
+set the bar -> now : 1
+the bar now -> up : 1
+bar now up -> to : 1
+now up to -> you : 1
+up to you -> three : 1
+to you three -> to : 1
+you three to -> try : 1
+three to try -> to : 1
+to try to -> better : 1
+try to better -> what : 1
+to better what -> about : 1
+better what about -> you : 1
+what about you -> have : 1
+about you have -> you : 1
+you have you -> changed : 1
+have you changed -> your : 1
+you changed your -> not : 1
+changed your not -> doing : 1
+your not doing -> should : 1
+not doing should -> have : 1
+doing should have -> seen : 1
+should have seen -> last : 1
+have seen last -> jojo : 1
+seen last jojo -> she : 1
+last jojo she -> was : 1
+jojo she was -> really : 1
+she was really -> getting : 1
+was really getting -> into : 1
+really getting into -> it : 1
+getting into it -> when : 1
+into it when -> you : 1
+it when you -> were : 1
+when you were -> giving : 1
+you were giving -> him : 1
+were giving him -> she : 1
+giving him she -> was : 1
+him she was -> touching : 1
+she was touching -> herself : 1
+was touching herself -> saw : 1
+touching herself saw -> you : 1
+herself saw you -> were : 1
+saw you were -> rubbing : 1
+you were rubbing -> your : 1
+were rubbing your -> pussy : 1
+rubbing your pussy -> through : 1
+your pussy through -> your : 1
+pussy through your -> a : 1
+through your a -> liar : 1
+your a liar -> was : 1
+a liar was -> glad : 1
+liar was glad -> they : 1
+was glad they -> know : 1
+glad they know -> she : 1
+they know she -> had : 1
+know she had -> gone : 1
+she had gone -> straight : 1
+she had gone -> for : 1
+had gone straight -> after : 1
+gone straight after -> little : 1
+straight after little -> and : 1
+after little and -> got : 1
+little and got -> herself : 1
+and got herself -> off : 1
+got herself off -> with : 1
+herself off with -> her : 1
+off with her -> who : 1
+with her who -> wants : 1
+her who wants -> to : 1
+who wants to -> go : 1
+to go jojo -> was : 1
+go jojo was -> eager : 1
+jojo was eager -> to : 1
+was eager to -> get : 1
+eager to get -> four : 1
+to get four -> girls : 1
+get four girls -> walked : 1
+four girls walked -> along : 1
+girls walked along -> the : 1
+walked along the -> edge : 1
+along the edge -> of : 1
+the edge of -> the : 1
+edge of the -> they : 1
+of the they -> seen : 1
+the they seen -> anyone : 1
+they seen anyone -> for : 1
+seen anyone for -> the : 1
+anyone for the -> last : 1
+for the last -> ten : 1
+the last ten -> people : 1
+last ten people -> actually : 1
+ten people actually -> come : 1
+people actually come -> here : 1
+actually come here -> for : 1
+come here for -> the : 1
+here for the -> maxine : 1
+for the maxine -> rubbed : 1
+for the maxine -> three : 1
+the maxine rubbed -> mud : 1
+maxine rubbed mud -> off : 1
+rubbed mud off -> her : 1
+mud off her -> much : 1
+off her much -> further : 1
+her much further -> is : 1
+much further is -> jojo : 1
+further is jojo -> was : 1
+is jojo was -> keen : 1
+to get he -> usually : 1
+get he usually -> chooses : 1
+he usually chooses -> a : 1
+usually chooses a -> spot : 1
+chooses a spot -> just : 1
+a spot just -> beyond : 1
+spot just beyond -> that : 1
+just beyond that -> caroline : 1
+beyond that caroline -> pointed : 1
+that caroline pointed -> to : 1
+caroline pointed to -> a : 1
+pointed to a -> small : 1
+to a small -> wooden : 1
+a small wooden -> bridge : 1
+small wooden bridge -> a : 1
+wooden bridge a -> hundred : 1
+bridge a hundred -> metres : 1
+a hundred metres -> further : 1
+hundred metres further -> along : 1
+metres further along -> the : 1
+further along the -> river : 1
+along the river -> when : 1
+the river when -> they : 1
+river when they -> reached : 1
+when they reached -> the : 1
+they reached the -> bridge : 1
+reached the bridge -> caroline : 1
+the bridge caroline -> will : 1
+bridge caroline will -> be : 1
+caroline will be -> on : 1
+will be on -> the : 1
+be on the -> other : 1
+on the other -> river : 2
+the other river -> he : 1
+the other river -> that : 1
+other river he -> always : 1
+river he always -> goes : 1
+he always goes -> on : 1
+always goes on -> that : 1
+goes on that -> there : 1
+on that there -> must : 1
+that there must -> be : 1
+there must be -> more : 1
+must be more -> fish : 1
+be more fish -> over : 1
+more fish over -> jojo : 1
+fish over jojo -> you : 1
+over jojo you -> go : 1
+jojo you go -> across : 1
+you go across -> the : 1
+go across the -> and : 1
+across the and -> carry : 1
+the and carry -> on : 1
+and carry on -> down : 1
+carry on down -> that : 1
+on down that -> you : 1
+down that you -> are : 1
+that you are -> bound : 1
+you are bound -> to : 1
+are bound to -> see : 1
+bound to see -> walk : 1
+to see walk -> down : 1
+see walk down -> was : 1
+walk down was -> the : 1
+down was the -> blonde : 1
+was the blonde -> in : 1
+the blonde in -> the : 1
+blonde in the -> her : 1
+in the her -> shoulder : 1
+the her shoulder -> length : 1
+her shoulder length -> hair : 1
+shoulder length hair -> was : 1
+length hair was -> fastened : 1
+hair was fastened -> into : 1
+was fastened into -> two : 1
+fastened into two -> she : 1
+into two she -> had : 1
+two she had -> gone : 1
+had gone for -> the : 1
+gone for the -> cheerleader : 1
+for the cheerleader -> a : 1
+the cheerleader a -> tight : 1
+cheerleader a tight -> white : 1
+a tight white -> top : 1
+tight white top -> which : 1
+white top which -> emphasised : 1
+top which emphasised -> her : 1
+which emphasised her -> a : 1
+emphasised her a -> short : 1
+her a short -> blue : 1
+a short blue -> skirt : 1
+short blue skirt -> and : 1
+blue skirt and -> white : 1
+skirt and white -> pop : 1
+and white pop -> she : 1
+white pop she -> followed : 1
+pop she followed -> the : 1
+she followed the -> bend : 1
+followed the bend -> in : 1
+the bend in -> the : 1
+bend in the -> she : 1
+in the she -> spotted : 1
+in the she -> was : 1
+the she spotted -> he : 1
+she spotted he -> was : 1
+spotted he was -> wearing : 1
+he was wearing -> a : 1
+was wearing a -> blue : 1
+was wearing a -> white : 1
+wearing a blue -> tennis : 1
+a blue tennis -> shirt : 1
+blue tennis shirt -> and : 1
+tennis shirt and -> dark : 1
+shirt and dark -> blue : 1
+and dark blue -> he : 1
+dark blue he -> was : 1
+blue he was -> the : 1
+he was the -> youngest : 1
+of the four -> jojo : 1
+the four jojo -> knew : 1
+four jojo knew -> maxine : 1
+jojo knew maxine -> had : 1
+knew maxine had -> been : 1
+maxine had been -> hoping : 1
+had been hoping -> she : 1
+been hoping she -> would : 1
+hoping she would -> draw : 1
+she would draw -> his : 1
+would draw his -> he : 1
+draw his he -> was : 1
+his he was -> a : 1
+was a picture -> of : 1
+picture of concentration -> as : 1
+of concentration as -> he : 1
+concentration as he -> sat : 1
+as he sat -> watching : 1
+he sat watching -> the : 1
+sat watching the -> float : 1
+watching the float -> bob : 1
+the float bob -> up : 1
+float bob up -> and : 1
+bob up and -> he : 1
+up and he -> hear : 1
+and he hear -> her : 1
+he hear her -> nor : 1
+hear her nor -> did : 1
+her nor did -> he : 1
+nor did he -> see : 1
+did he see -> the : 1
+he see the -> three : 1
+see the three -> on : 1
+the three on -> the : 1
+three on the -> opposite : 1
+on the opposite -> river : 1
+the opposite river -> as : 1
+opposite river as -> they : 1
+river as they -> ducked : 1
+as they ducked -> down : 1
+they ducked down -> behind : 1
+ducked down behind -> jojo : 1
+down behind jojo -> was : 1
+behind jojo was -> level : 1
+jojo was level -> with : 1
+was level with -> him : 1
+level with him -> she : 1
+with him she -> visibly : 1
+him she visibly -> she : 1
+she visibly she -> had : 1
+visibly she had -> taken : 1
+she had taken -> him : 1
+she had taken -> ages : 1
+had taken him -> by : 1
+taken him by -> he : 1
+him by he -> would : 1
+by he would -> often : 1
+he would often -> go : 1
+would often go -> all : 1
+often go all -> day : 1
+go all day -> without : 1
+all day without -> seeing : 1
+day without seeing -> or : 1
+without seeing or -> hearing : 1
+seeing or hearing -> anyone : 1
+or hearing anyone -> else : 1
+hearing anyone else -> out : 1
+anyone else out -> no : 1
+else out no -> they : 1
+out no they -> biting : 1
+no they biting -> what : 1
+they biting what -> an : 1
+biting what an -> earth : 1
+what an earth -> are : 1
+an earth are -> you : 1
+earth are you -> doing : 1
+are you doing -> out : 1
+are you doing -> i : 1
+you doing out -> was : 1
+doing out was -> sitting : 1
+out was sitting -> above : 1
+was sitting above -> him : 1
+sitting above him -> on : 1
+above him on -> the : 1
+him on the -> river : 1
+on the river -> so : 1
+on the river -> the : 1
+the river so -> he : 1
+river so he -> had : 1
+so he had -> to : 1
+had to take -> his : 1
+to take his -> eye : 1
+take his eye -> off : 1
+his eye off -> the : 1
+eye off the -> float : 1
+off the float -> in : 1
+the float in -> order : 1
+float in order -> to : 1
+in order to -> face : 1
+order to face -> love : 1
+to face love -> the : 1
+face love the -> the : 1
+love the the -> fresh : 1
+the the fresh -> she : 1
+the fresh she -> said : 1
+fresh she said -> pulling : 1
+she said pulling -> her : 1
+said pulling her -> legs : 1
+pulling her legs -> up : 1
+her legs up -> and : 1
+legs up and -> apart : 1
+up and apart -> she : 1
+and apart she -> knew : 1
+apart she knew -> he : 1
+she knew he -> would : 1
+she knew he -> was : 1
+knew he would -> be : 1
+able to see -> up : 1
+able to see -> without : 1
+to see up -> her : 1
+see up her -> skirt : 1
+up her skirt -> from : 1
+her skirt from -> where : 1
+skirt from where -> he : 1
+from where he -> as : 1
+where he as -> she : 1
+he as she -> changed : 1
+as she changed -> his : 1
+she changed his -> gaze : 1
+changed his gaze -> was : 1
+his gaze was -> drawn : 1
+gaze was drawn -> towards : 1
+was drawn towards -> in : 1
+drawn towards in -> an : 1
+towards in an -> he : 1
+in an he -> registered : 1
+an he registered -> she : 1
+he registered she -> wearing : 1
+registered she wearing -> any : 1
+she wearing any -> he : 1
+wearing any he -> averted : 1
+any he averted -> his : 1
+he averted his -> gaze : 1
+averted his gaze -> but : 1
+his gaze but -> tried : 1
+gaze but tried -> not : 1
+but tried not -> to : 1
+tried not to -> make : 1
+not to make -> it : 1
+to make it -> obvious : 1
+make it obvious -> he : 1
+it obvious he -> had : 1
+obvious he had -> seen : 1
+he had seen -> her : 1
+had seen her -> a : 1
+seen her a -> big : 1
+her a big -> rod : 1
+a big rod -> you : 1
+big rod you -> have : 1
+rod you have -> jojo : 1
+you have jojo -> moved : 1
+have jojo moved -> her : 1
+jojo moved her -> hand : 1
+moved her hand -> under : 1
+moved her hand -> over : 1
+moved her hand -> on : 1
+moved her hand -> slowly : 1
+moved her hand -> she : 1
+her hand under -> her : 1
+hand under her -> and : 1
+under her and -> ran : 1
+under her and -> pulled : 1
+her and ran -> it : 1
+and ran it -> along : 1
+ran it along -> her : 1
+it along her -> pussy : 1
+along her pussy -> her : 1
+her pussy her -> movements : 1
+pussy her movements -> were : 1
+her movements were -> slow : 1
+movements were slow -> and : 1
+were slow and -> was : 1
+slow and was -> even : 1
+and was even -> to : 1
+was even to -> those : 1
+even to those -> on : 1
+to those on -> the : 1
+those on the -> other : 1
+other river that -> he : 1
+river that he -> was : 1
+that he was -> very : 1
+he was very -> he : 1
+was very he -> knew : 1
+very he knew -> neither : 1
+he knew neither -> what : 1
+knew neither what -> to : 1
+neither what to -> say : 1
+what to say -> or : 1
+to say or -> would : 1
+say or would -> really : 1
+or would really -> like : 1
+would really like -> to : 1
+really like to -> see : 1
+like to see -> your : 1
+to see your -> big : 1
+see your big -> jojo : 1
+your big jojo -> she : 1
+big jojo she -> began : 1
+jojo she began -> to : 1
+she began to -> push : 1
+began to push -> a : 1
+to push a -> finger : 1
+push a finger -> in : 1
+a finger in -> and : 1
+finger in and -> out : 2
+of her wet -> might : 1
+her wet might -> he : 1
+wet might he -> probably : 1
+might he probably -> she : 1
+he probably she -> laughed : 1
+probably she laughed -> at : 1
+she laughed at -> her : 1
+laughed at her -> own : 1
+at her own -> you : 1
+her own you -> undo : 1
+own you undo -> your : 1
+you undo your -> take : 1
+undo your take -> out : 1
+your take out -> your : 1
+take out your -> and : 1
+out your and -> show : 1
+your and show -> it : 1
+and show it -> to : 1
+show it to -> notice : 1
+it to notice -> the : 1
+to notice the -> float : 1
+notice the float -> dip : 1
+the float dip -> below : 1
+float dip below -> the : 1
+dip below the -> that : 1
+below the that -> was : 1
+the that was -> one : 1
+that was one -> fish : 1
+was one fish -> which : 1
+one fish which -> would : 1
+fish which would -> get : 1
+which would get -> he : 1
+would get he -> lay : 1
+get he lay -> down : 1
+he lay down -> the : 1
+lay down the -> fishing : 1
+down the fishing -> and : 1
+the fishing and -> turned : 1
+fishing and turned -> around : 1
+and turned around -> so : 1
+turned around so -> he : 1
+around so he -> was : 1
+so he was -> facing : 1
+he was facing -> he : 1
+was facing he -> looked : 1
+facing he looked -> both : 1
+he looked both -> ways : 1
+looked both ways -> down : 1
+both ways down -> the : 1
+ways down the -> river : 1
+down the river -> bank : 1
+the river bank -> to : 1
+river bank to -> make : 1
+bank to make -> sure : 1
+to make sure -> there : 1
+to make sure -> his : 1
+make sure there -> was : 1
+sure there was -> no : 1
+there was no -> one : 2
+there was no -> way : 1
+was no one -> when : 1
+was no one -> else : 1
+no one when -> he : 1
+one when he -> was : 1
+when he was -> satisfied : 1
+he was satisfied -> they : 1
+was satisfied they -> were : 1
+satisfied they were -> he : 1
+they were he -> unzipped : 1
+were he unzipped -> his : 1
+he unzipped his -> put : 1
+unzipped his put -> his : 1
+his put his -> hand : 1
+put his hand -> and : 1
+his hand and -> worked : 1
+hand and worked -> his : 1
+and worked his -> cock : 1
+worked his cock -> free : 1
+his cock free -> from : 1
+cock free from -> his : 1
+free from his -> like : 1
+from his like -> that : 1
+his like that -> rod : 1
+like that rod -> much : 1
+that rod much -> she : 1
+rod much she -> her : 1
+much she her -> legs : 1
+she her legs -> were : 1
+her legs were -> wider : 1
+legs were wider -> she : 1
+were wider she -> pushed : 1
+wider she pushed -> two : 1
+she pushed two -> fingers : 1
+pushed two fingers -> in : 1
+two fingers in -> and : 2
+fingers in and -> out : 1
+fingers in and -> then : 1
+and out her -> and : 1
+out her and -> with : 1
+her and with -> the : 1
+and with the -> other : 1
+with the other -> played : 1
+the other played -> with : 1
+other played with -> her : 1
+other played with -> his : 1
+played with her -> your : 1
+with her your -> rod : 1
+her your rod -> for : 1
+your rod for -> started : 1
+rod for started -> to : 1
+for started to -> took : 1
+started to took -> hold : 1
+to took hold -> of : 1
+of the bottom -> of : 1
+the bottom of -> her : 1
+bottom of her -> and : 1
+her and peeled -> it : 1
+and peeled it -> slowly : 1
+peeled it slowly -> over : 1
+it slowly over -> her : 1
+slowly over her -> one : 1
+over her one -> hand : 1
+her one hand -> returned : 1
+one hand returned -> to : 1
+hand returned to -> her : 1
+returned to her -> pussy : 1
+to her pussy -> while : 1
+her pussy while -> the : 1
+pussy while the -> other : 1
+while the other -> started : 1
+the other started -> to : 1
+other started to -> play : 1
+started to play -> with : 2
+to play with -> her : 2
+play with her -> her : 1
+play with her -> naked : 1
+with her her -> gaze : 1
+her her gaze -> never : 1
+her gaze never -> left : 1
+gaze never left -> his : 1
+never left his -> your : 1
+left his your -> trousers : 1
+his your trousers -> and : 1
+your trousers and -> pants : 1
+trousers and pants -> stopped : 1
+and pants stopped -> wanking : 1
+pants stopped wanking -> only : 1
+stopped wanking only -> long : 1
+wanking only long -> enough : 1
+only long enough -> to : 1
+enough to pull -> them : 1
+to pull them -> he : 1
+pull them he -> watched : 1
+them he watched -> her : 1
+he watched her -> play : 1
+watched her play -> with : 1
+her play with -> a : 1
+play with a -> minute : 1
+with a minute -> his : 1
+a minute his -> strokes : 1
+minute his strokes -> became : 1
+his strokes became -> much : 1
+strokes became much -> you : 1
+became much you -> going : 1
+much you going -> to : 1
+you going to -> i : 1
+you going to -> fuck : 1
+going to i -> think : 1
+to i think -> wanked : 1
+i think wanked -> even : 1
+think wanked even -> and : 1
+wanked even and -> then : 1
+even and then -> gave : 1
+and then gave -> out : 1
+then gave out -> a : 1
+gave out a -> huge : 1
+out a huge -> sigh : 1
+a huge sigh -> as : 1
+huge sigh as -> he : 1
+sigh as he -> shot : 1
+as he shot -> his : 1
+he shot his -> load : 1
+shot his load -> onto : 1
+shot his load -> all : 1
+his load onto -> the : 1
+load onto the -> river : 1
+onto the river -> was : 1
+the river was -> still : 1
+river was still -> playing : 1
+was still playing -> with : 1
+playing with her -> pussy : 1
+with her pussy -> and : 1
+her pussy and -> seeing : 1
+pussy and seeing -> him : 1
+and seeing him -> come : 1
+seeing him come -> had : 1
+him come had -> made : 1
+come had made -> her : 1
+had made her -> i : 1
+had made her -> horny : 1
+made her i -> want : 1
+her i want -> you : 1
+i want you -> to : 1
+you to fuck -> she : 1
+to fuck she -> he : 1
+fuck she he -> pointed : 1
+she he pointed -> to : 1
+he pointed to -> his : 1
+pointed to his -> flaccid : 1
+to his flaccid -> stood : 1
+his flaccid stood -> and : 1
+flaccid stood and -> walked : 1
+stood and walked -> down : 1
+and walked down -> the : 1
+walked down the -> bank : 1
+down the bank -> towards : 1
+the bank towards -> he : 1
+bank towards he -> was : 1
+towards he was -> sitting : 1
+he was sitting -> on : 1
+was sitting on -> the : 1
+sitting on the -> grass : 1
+on the grass -> naked : 1
+the grass naked -> from : 1
+grass naked from -> the : 1
+naked from the -> waist : 1
+from the waist -> she : 1
+from the waist -> to : 1
+the waist she -> sat : 1
+waist she sat -> down : 1
+she sat down -> beside : 1
+sat down beside -> and : 1
+down beside and -> touched : 1
+beside and touched -> his : 1
+and touched his -> limp : 1
+touched his limp -> not : 1
+his limp not -> much : 1
+limp not much -> good : 1
+not much good -> to : 1
+much good to -> me : 1
+good to me -> like : 1
+to me like -> she : 1
+to me like -> you : 1
+me like she -> said : 1
+like she said -> moving : 1
+she said moving -> her : 1
+said moving her -> head : 1
+moving her head -> towards : 1
+her head towards -> his : 1
+head towards his -> took : 1
+towards his took -> his : 1
+his took his -> cock : 1
+took his cock -> into : 1
+his cock into -> her : 1
+cock into her -> she : 1
+into her she -> could : 1
+her she could -> taste : 1
+she could taste -> the : 1
+could taste the -> her : 1
+taste the her -> tongue : 1
+the her tongue -> teased : 1
+her tongue teased -> the : 1
+tongue teased the -> cock : 1
+teased the cock -> while : 1
+the cock while -> her : 1
+cock while her -> hands : 1
+while her hands -> played : 1
+her hands played -> slowly : 1
+hands played slowly -> with : 1
+played slowly with -> his : 1
+slowly with his -> after : 1
+with his after -> only : 1
+his after only -> a : 1
+after only a -> few : 1
+only a few -> she : 1
+a few she -> felt : 1
+few she felt -> the : 1
+she felt the -> cock : 1
+felt the cock -> twitch : 1
+the cock twitch -> in : 1
+cock twitch in -> her : 1
+twitch in her -> she : 1
+in her she -> continued : 1
+in her she -> felt : 1
+her she continued -> to : 1
+she continued to -> lick : 1
+continued to lick -> and : 2
+to lick and -> suck : 1
+to lick and -> finger : 1
+lick and suck -> as : 1
+and suck as -> she : 1
+suck as she -> an : 1
+as she an -> erection : 1
+she an erection -> started : 1
+an erection started -> to : 1
+erection started to -> and : 1
+started to and -> within : 1
+started to and -> she : 1
+to and within -> a : 1
+and within a -> minute : 1
+within a minute -> her : 1
+a minute her -> mouth : 1
+minute her mouth -> was : 1
+her mouth was -> full : 1
+mouth was full -> of : 1
+was full of -> hard : 1
+full of hard -> once : 1
+of hard once -> she : 1
+hard once she -> was : 1
+once she was -> satisfied : 1
+she was satisfied -> his : 1
+was satisfied his -> erection : 1
+satisfied his erection -> was : 1
+his erection was -> she : 1
+erection was she -> lay : 1
+was she lay -> back : 1
+she lay back -> on : 1
+lay back on -> the : 1
+on the and -> spread : 1
+the and spread -> her : 1
+and spread her -> legs : 1
+spread her legs -> fuck : 1
+her legs fuck -> climbed : 1
+legs fuck climbed -> on : 1
+fuck climbed on -> top : 1
+climbed on top -> of : 1
+on top of -> his : 1
+top of his -> revived : 1
+top of his -> pulled : 1
+of his revived -> cock : 1
+his revived cock -> pushed : 1
+revived cock pushed -> deep : 1
+cock pushed deep -> into : 1
+pushed deep into -> her : 1
+deep into her -> remember : 1
+into her remember -> the : 1
+her remember the -> last : 1
+remember the last -> time : 1
+the last time -> he : 1
+last time he -> had : 1
+time he had -> managed : 1
+he had managed -> two : 1
+had managed two -> erections : 1
+managed two erections -> in : 1
+two erections in -> so : 1
+erections in so -> short : 1
+in so short -> a : 1
+so short a -> he : 1
+short a he -> was : 1
+a he was -> worried : 1
+he was worried -> this : 1
+was worried this -> second : 1
+worried this second -> one : 1
+this second one -> might : 1
+second one might -> not : 1
+one might not -> so : 1
+might not so -> he : 1
+not so he -> fucked : 1
+so he fucked -> her : 1
+he fucked her -> fast : 1
+he fucked her -> in : 1
+he fucked her -> slowly : 1
+fucked her fast -> and : 1
+her fast and -> that : 1
+fast and that -> was : 1
+and that was -> exactly : 1
+that was exactly -> how : 1
+was exactly how -> jojo : 1
+exactly how jojo -> liked : 1
+how jojo liked -> she : 1
+jojo liked she -> met : 1
+liked she met -> each : 1
+she met each -> thrust : 1
+met each thrust -> with : 1
+each thrust with -> equal : 1
+thrust with equal -> all : 1
+with equal all -> the : 1
+equal all the -> time : 1
+all the time -> pulling : 1
+all the time -> her : 1
+all the time -> he : 1
+the time pulling -> him : 1
+time pulling him -> further : 1
+pulling him further -> into : 1
+him further into -> when : 1
+further into when -> she : 1
+into when she -> felt : 1
+when she felt -> him : 1
+when she felt -> his : 1
+she felt him -> coming : 1
+she felt him -> shuffle : 1
+she felt him -> push : 1
+she felt him -> touch : 1
+felt him coming -> she : 1
+him coming she -> on : 1
+coming she on -> my : 1
+she on my -> pulled : 1
+on my pulled -> his : 1
+my pulled his -> cock : 1
+pulled his cock -> out : 3
+his cock out -> of : 3
+cock out of -> her : 2
+cock out of -> the : 1
+of her knelt -> over : 1
+her knelt over -> and : 1
+knelt over and -> shot : 1
+over and shot -> this : 1
+and shot this -> second : 1
+shot this second -> load : 1
+this second load -> across : 1
+second load across -> her : 1
+load across her -> was : 1
+across her was -> some : 1
+her was some -> maxine : 1
+was some maxine -> jojo : 1
+some maxine jojo -> had : 1
+maxine jojo had -> left : 1
+jojo had left -> father : 1
+had left father -> exhausted : 1
+left father exhausted -> on : 1
+father exhausted on -> the : 1
+exhausted on the -> river : 1
+the river the -> four : 1
+river the four -> of : 1
+the four of -> them : 2
+four of them -> had : 2
+of them had -> as : 1
+of them had -> arranged : 1
+them had as -> arranged : 1
+had as arranged -> by : 1
+as arranged by -> the : 1
+arranged by the -> you : 1
+by the you -> trying : 1
+the you trying -> to : 1
+you trying to -> kill : 1
+trying to kill -> my : 1
+to kill my -> caroline : 1
+kill my caroline -> turn : 1
+my caroline turn -> next : 1
+caroline turn next -> jojo : 1
+turn next jojo -> you : 1
+next jojo you -> are : 1
+jojo you are -> never : 1
+you are never -> going : 1
+are never going -> to : 1
+never going to -> get : 1
+never going to -> be : 1
+going to get -> him : 1
+to get him -> by : 1
+get him by -> never : 1
+him by never -> goes : 1
+by never goes -> out : 1
+never goes out -> my : 1
+goes out my -> mum : 1
+out my mum -> and : 1
+my mum and -> him : 1
+mum and him -> are : 1
+and him are -> joined : 1
+him are joined -> at : 1
+are joined at -> the : 1
+joined at the -> about : 1
+at the about -> works : 1
+the about works -> in : 1
+about works in -> an : 1
+works in an -> office : 1
+in an office -> with : 1
+an office with -> a : 1
+office with a -> hundred : 1
+with a hundred -> other : 1
+a hundred other -> i : 1
+hundred other i -> could : 1
+other i could -> sneak : 1
+i could sneak -> in : 1
+could sneak in -> to : 1
+sneak in to -> his : 1
+in to his -> we : 1
+to his we -> could : 1
+his we could -> find : 1
+we could find -> a : 1
+could find a -> cupboard : 1
+find a cupboard -> maxine : 1
+a cupboard maxine -> works : 1
+cupboard maxine works -> for : 1
+maxine works for -> the : 1
+works for the -> you : 1
+for the you -> will : 1
+the you will -> never : 1
+you will never -> get : 1
+will never get -> inside : 1
+never get inside -> without : 1
+get inside without -> a : 1
+inside without a -> pass : 1
+without a pass -> and : 1
+a pass and -> i : 1
+pass and i -> thought : 1
+and i thought -> we : 1
+i thought we -> were : 1
+thought we were -> meant : 1
+we were meant -> to : 1
+were meant to -> be : 1
+to be on -> caroline : 1
+be on caroline -> chipped : 1
+on caroline chipped -> am : 1
+caroline chipped am -> i : 1
+chipped am i -> meant : 1
+am i meant -> to : 1
+i meant to -> i : 1
+meant to i -> make : 1
+to i make -> him : 1
+i make him -> go : 1
+make him go -> out : 1
+him go out -> by : 1
+go out by -> does : 1
+out by does -> he : 1
+by does he -> go : 1
+does he go -> with : 1
+he go with -> your : 1
+go with your -> really : 1
+with your really -> go : 1
+your really go -> out : 1
+really go out -> all : 1
+go out all -> that : 1
+out all that -> they : 1
+all that they -> sometimes : 1
+that they sometimes -> go : 1
+they sometimes go -> to : 1
+sometimes go to -> the : 1
+go to the -> local : 1
+to the local -> pub : 1
+the local pub -> they : 1
+local pub they -> like : 1
+pub they like -> the : 1
+they like the -> they : 1
+like the they -> go : 1
+the they go -> there : 1
+they go there -> every : 1
+go there every -> couple : 1
+there every couple -> of : 1
+every couple of -> weeks : 1
+couple of weeks -> or : 1
+of weeks or -> maxine : 1
+weeks or maxine -> time : 1
+or maxine time -> they : 1
+maxine time they -> are : 1
+time they are -> going : 1
+they are going -> to : 2
+are going to -> the : 1
+are going to -> see : 1
+going to the -> cinema : 1
+going to the -> well : 1
+going to the -> meet : 1
+to the cinema -> let : 1
+the cinema let -> us : 1
+cinema let us -> and : 1
+let us and -> we : 1
+us and we -> will : 1
+and we will -> accidentally : 1
+we will accidentally -> bump : 1
+will accidentally bump -> into : 1
+accidentally bump into -> then : 1
+bump into then -> that : 1
+into then that -> to : 1
+then that to -> days : 1
+that to days -> later : 1
+to days later -> had : 1
+days later had -> love : 1
+later had love -> maxine : 1
+had love maxine -> the : 1
+love maxine the -> hell : 1
+maxine the hell -> wants : 1
+the hell wants -> to : 1
+hell wants to -> watch : 1
+wants to watch -> that : 1
+to watch that -> told : 1
+watch that told -> me : 1
+that told me -> to : 1
+told me to -> tell : 1
+me to tell -> you : 1
+to tell you -> the : 1
+tell you the -> next : 1
+you the next -> time : 1
+the next time -> they : 1
+next time they -> were : 1
+time they were -> going : 1
+they were going -> to : 1
+were going to -> the : 1
+to the well -> they : 1
+the well they -> are : 1
+well they are -> going : 1
+going to see -> that : 1
+to see that -> caroline : 1
+see that caroline -> looks : 1
+that caroline looks -> like : 1
+caroline looks like -> we : 1
+looks like we -> are : 1
+like we are -> all : 1
+we are all -> going : 1
+are all going -> to : 1
+all going to -> the : 1
+to the meet -> there : 1
+the meet there -> at : 1
+meet there at -> mum : 1
+there at mum -> was : 1
+at mum was -> standing : 1
+mum was standing -> in : 1
+was standing in -> the : 1
+standing in the -> middle : 1
+in the middle -> of : 1
+the middle of -> the : 1
+middle of the -> foyer : 1
+of the foyer -> while : 1
+the foyer while -> her : 1
+foyer while her -> husband : 1
+while her husband -> bought : 1
+her husband bought -> drinks : 1
+husband bought drinks -> and : 1
+bought drinks and -> she : 1
+drinks and she -> was : 1
+and she was -> surprised : 1
+she was surprised -> to : 1
+was surprised to -> see : 1
+surprised to see -> and : 1
+to see and -> her : 1
+see and her -> what : 1
+and her what -> are : 1
+her what are -> you : 1
+what are you -> doing : 1
+you doing i -> know : 1
+doing i know -> you : 1
+i know you -> liked : 1
+know you liked -> this : 1
+you liked this -> type : 1
+liked this type -> of : 1
+this type of -> she : 1
+type of she -> love : 1
+of she love -> caroline : 1
+she love caroline -> seen : 1
+love caroline seen -> them : 1
+caroline seen them -> never : 1
+seen them never -> told : 1
+them never told -> me : 1
+never told me -> and : 1
+told me and -> looked : 1
+me and looked -> at : 1
+and looked at -> her : 1
+looked at her -> father : 1
+at her father -> who : 1
+her father who -> was : 1
+father who was -> walking : 1
+who was walking -> towards : 1
+was walking towards -> drink : 1
+walking towards drink -> and : 1
+towards drink and -> popcorn : 1
+drink and popcorn -> in : 1
+and popcorn in -> we : 1
+popcorn in we -> all : 1
+in we all -> sit : 1
+we all sit -> maxine : 1
+all sit maxine -> i : 1
+sit maxine i -> think : 1
+maxine i think -> you : 1
+i think you -> girls : 1
+think you girls -> would : 1
+you girls would -> want : 1
+girls would want -> to : 1
+would want to -> be : 1
+want to be -> with : 1
+to be with -> us : 1
+be with us -> old : 1
+with us old -> it : 1
+us old it -> will : 1
+old it will -> be : 1
+will be grabbed -> by : 1
+be grabbed by -> the : 1
+grabbed by the -> arm : 1
+by the arm -> and : 1
+the arm and -> forget : 1
+arm and forget -> where : 1
+and forget where -> you : 1
+forget where you -> have : 1
+where you have -> to : 1
+you have to -> managed : 1
+you have to -> do : 1
+have to managed -> to : 1
+to managed to -> grab : 1
+managed to grab -> the : 1
+to grab the -> seat : 1
+grab the seat -> in : 1
+the seat in -> between : 1
+seat in between -> her : 1
+in between her -> mum : 1
+between her mum -> and : 1
+her mum and -> if : 1
+mum and if -> they : 1
+and if they -> thought : 1
+if they thought -> it : 1
+they thought it -> they : 1
+thought it they -> say : 1
+it they say -> maxine : 1
+they say maxine -> sat : 1
+say maxine sat -> next : 1
+maxine sat next -> to : 1
+sat next to -> jojo : 1
+next to jojo -> and : 1
+to jojo and -> caroline : 1
+jojo and caroline -> next : 1
+jojo and caroline -> were : 1
+and caroline next -> to : 1
+caroline next to -> you : 1
+next to you -> come : 1
+to you come -> here : 1
+you come here -> maxine : 1
+come here maxine -> asked : 1
+here maxine asked -> dad : 1
+maxine asked dad -> while : 1
+asked dad while -> the : 1
+dad while the -> adverts : 1
+while the adverts -> were : 1
+the adverts were -> we : 1
+adverts were we -> have : 1
+were we have -> a : 1
+we have a -> monthly : 1
+have a monthly -> had : 1
+a monthly had -> been : 1
+monthly had been -> wearing : 1
+had been wearing -> a : 1
+been wearing a -> knee : 1
+wearing a knee -> length : 1
+a knee length -> she : 1
+knee length she -> slipped : 1
+length she slipped -> it : 1
+she slipped it -> off : 1
+slipped it off -> to : 1
+it off to -> reveal : 1
+off to reveal -> a : 1
+to reveal a -> low : 1
+reveal a low -> cut : 1
+a low cut -> red : 1
+low cut red -> top : 1
+cut red top -> and : 1
+red top and -> matching : 1
+top and matching -> red : 1
+and matching red -> mini : 1
+matching red mini -> she : 1
+red mini she -> passed : 1
+mini she passed -> her : 1
+she passed her -> coat : 1
+passed her coat -> to : 1
+her coat to -> and : 1
+coat to and -> then : 1
+to and then -> crossed : 1
+and then crossed -> her : 1
+then crossed her -> legs : 1
+crossed her legs -> which : 1
+her legs which -> her : 1
+legs which her -> already : 1
+which her already -> short : 1
+her already short -> dad : 1
+already short dad -> glanced : 1
+short dad glanced -> maxine : 1
+dad glanced maxine -> knew : 1
+glanced maxine knew -> he : 1
+maxine knew he -> had : 1
+knew he had -> noticed : 1
+he had noticed -> her : 1
+had noticed her -> he : 1
+noticed her he -> scooped : 1
+her he scooped -> a : 1
+he scooped a -> handful : 1
+scooped a handful -> of : 1
+a handful of -> popcorn : 1
+a handful of -> tissues : 1
+handful of popcorn -> from : 1
+of popcorn from -> the : 1
+popcorn from the -> giant : 1
+from the giant -> bucket : 1
+the giant bucket -> on : 1
+giant bucket on -> his : 1
+bucket on his -> it : 1
+on his it -> always : 1
+his it always -> this : 1
+it always this -> hot : 1
+always this hot -> in : 1
+this hot in -> maxine : 1
+hot in maxine -> undid : 1
+in maxine undid -> the : 1
+maxine undid the -> top : 1
+undid the top -> button : 1
+the top button -> on : 1
+top button on -> her : 1
+button on her -> is : 1
+on her is -> quite : 1
+her is quite -> he : 1
+is quite he -> trying : 1
+quite he trying -> not : 1
+he trying not -> to : 1
+trying not to -> stare : 1
+not to stare -> at : 1
+to stare at -> her : 1
+stare at her -> house : 1
+at her house -> lights : 1
+her house lights -> were : 1
+house lights were -> dimmed : 1
+lights were dimmed -> to : 1
+were dimmed to -> signal : 1
+dimmed to signal -> the : 1
+to signal the -> main : 1
+signal the main -> feature : 1
+the main feature -> was : 1
+main feature was -> about : 1
+feature was about -> to : 1
+was about to -> fifteen : 1
+was about to -> she : 2
+was about to -> get : 1
+about to fifteen -> minutes : 1
+to fifteen minutes -> into : 1
+fifteen minutes into -> the : 1
+minutes into the -> maxine : 1
+into the maxine -> decided : 1
+the maxine decided -> to : 1
+maxine decided to -> make : 1
+decided to make -> her : 1
+to make her -> she : 1
+make her she -> was : 1
+her she was -> nervous : 1
+she was nervous -> because : 1
+was nervous because -> she : 1
+nervous because she -> had : 1
+because she had -> no : 1
+she had no -> idea : 1
+had no idea -> how : 1
+had no idea -> if : 1
+no idea how -> he : 1
+idea how he -> would : 1
+how he would -> this : 1
+he would this -> could : 1
+would this could -> easily : 1
+this could easily -> turn : 1
+could easily turn -> out : 1
+easily turn out -> to : 1
+turn out to -> be : 1
+out to be -> the : 1
+to be the -> most : 1
+be the most -> embarrassing : 1
+the most embarrassing -> moment : 1
+most embarrassing moment -> of : 1
+embarrassing moment of -> her : 1
+moment of her -> never : 1
+of her never -> once : 1
+her never once -> diverting : 1
+never once diverting -> her : 1
+once diverting her -> gaze : 1
+diverting her gaze -> from : 1
+her gaze from -> the : 1
+gaze from the -> she : 1
+the she moved -> her : 1
+she moved her -> hand : 2
+her hand over -> to : 1
+hand over to -> the : 1
+to the next -> and : 1
+the next and -> placed : 1
+next and placed -> it : 1
+and placed it -> on : 1
+placed it on -> his : 1
+it on his -> she : 1
+on his she -> knew : 1
+his she knew -> his : 1
+she knew his -> wife : 1
+knew his wife -> could : 1
+his wife could -> not : 1
+wife could not -> see : 1
+could not see -> because : 1
+not see because -> of : 1
+see because of -> the : 1
+because of the -> but : 1
+of the but -> also : 1
+the but also -> because : 1
+but also because -> it : 1
+also because it -> was : 1
+because it was -> hidden : 1
+it was hidden -> from : 1
+was hidden from -> view : 1
+hidden from view -> by : 1
+from view by -> the : 1
+view by the -> giant : 1
+by the giant -> popcorn : 1
+the giant popcorn -> he : 1
+giant popcorn he -> but : 1
+popcorn he but -> much : 1
+he but much -> to : 1
+but much to -> he : 1
+much to he -> shout : 1
+to he shout -> more : 1
+he shout more -> he : 1
+shout more he -> did : 1
+more he did -> not : 1
+he did not -> push : 1
+did not push -> her : 1
+not push her -> hand : 1
+push her hand -> she : 1
+her hand she -> slowly : 1
+her hand she -> could : 1
+hand she slowly -> moved : 1
+she slowly moved -> her : 1
+slowly moved her -> hand : 1
+on his and -> felt : 1
+his and felt -> his : 1
+and felt his -> cock : 1
+felt his cock -> start : 1
+his cock start -> to : 1
+cock start to -> still : 1
+start to still -> he : 1
+to still he -> look : 1
+still he look -> much : 1
+he look much -> to : 1
+look much to -> her : 1
+much to her -> he : 1
+to her he -> moved : 1
+her he moved -> the : 1
+he moved the -> popcorn : 1
+moved the popcorn -> bucket : 1
+the popcorn bucket -> slightly : 1
+the popcorn bucket -> was : 1
+popcorn bucket slightly -> to : 1
+bucket slightly to -> one : 1
+one side to -> give : 1
+side to give -> her : 1
+to give her -> hand : 1
+give her hand -> more : 1
+her hand more -> the : 1
+hand more the -> bulge : 1
+more the bulge -> under : 1
+the bulge under -> her : 1
+bulge under her -> hand : 1
+under her hand -> was : 1
+her hand was -> getting : 1
+hand was getting -> harder : 1
+was getting harder -> this : 1
+getting harder this -> was : 1
+harder this was -> really : 1
+this was really -> going : 1
+was really going -> to : 1
+really going to -> she : 1
+going to she -> glanced : 1
+to she glanced -> over : 1
+she glanced over -> at : 1
+glanced over at -> mother : 1
+over at mother -> much : 1
+at mother much -> to : 1
+mother much to -> was : 1
+much to was -> transfixed : 1
+to was transfixed -> by : 1
+was transfixed by -> the : 1
+transfixed by the -> bloodletting : 1
+by the bloodletting -> on : 1
+the bloodletting on -> the : 1
+bloodletting on the -> maxine : 1
+on the maxine -> moved : 1
+the maxine moved -> her : 1
+maxine moved her -> hand : 1
+her hand slowly -> up : 1
+hand slowly up -> to : 1
+slowly up to -> the : 1
+up to the -> waist : 1
+to the waist -> of : 1
+of his seeking -> out : 1
+his seeking out -> his : 1
+seeking out his -> it : 1
+out his it -> easy : 1
+his it easy -> because : 1
+it easy because -> she : 1
+easy because she -> knew : 1
+because she knew -> she : 1
+she knew she -> must : 1
+knew she must -> keep : 1
+she must keep -> her : 1
+must keep her -> gaze : 1
+keep her gaze -> fixed : 1
+her gaze fixed -> on : 1
+gaze fixed on -> the : 1
+fixed on the -> it : 1
+on the it -> all : 1
+the it all -> had : 1
+it all had -> to : 1
+all had to -> be : 1
+had to be -> done : 1
+to be done -> by : 1
+be done by -> eventually : 1
+done by eventually -> she : 1
+by eventually she -> found : 1
+eventually she found -> her : 1
+she found her -> and : 1
+found her and -> slowly : 1
+her and slowly -> pulled : 1
+and slowly pulled -> down : 1
+slowly pulled down -> the : 1
+down the once -> it : 1
+the once it -> was : 1
+once it was -> fully : 1
+it was fully -> she : 1
+was fully she -> moved : 1
+fully she moved -> her : 1
+hand she could -> feel : 1
+she could feel -> his : 1
+she could feel -> him : 1
+could feel his -> cock : 2
+feel his cock -> now : 1
+feel his cock -> getting : 1
+his cock now -> through : 1
+cock now through -> his : 1
+now through his -> she : 1
+through his she -> found : 1
+his she found -> the : 1
+she found the -> top : 1
+found the top -> of : 1
+the top of -> his : 1
+of his pulled -> them : 1
+his pulled them -> down : 1
+pulled them down -> until : 1
+them down until -> she : 1
+down until she -> had : 1
+until she had -> his : 1
+she had his -> cock : 1
+had his cock -> in : 1
+cock in her -> she : 1
+her she felt -> him : 1
+felt him shuffle -> on : 1
+him shuffle on -> the : 1
+shuffle on the -> he : 1
+on the he -> was : 1
+the he was -> moving : 1
+he was moving -> slightly : 1
+was moving slightly -> closer : 1
+moving slightly closer -> to : 1
+slightly closer to -> after : 1
+closer to after -> a : 1
+to after a -> final : 1
+after a final -> glance : 1
+a final glance -> to : 1
+final glance to -> make : 1
+glance to make -> sure : 1
+make sure his -> wife : 1
+sure his wife -> was : 1
+his wife was -> still : 1
+wife was still -> watching : 1
+was still watching -> the : 1
+still watching the -> maxine : 1
+watching the maxine -> pulled : 1
+the maxine pulled -> his : 1
+maxine pulled his -> cock : 1
+of the she -> allowed : 1
+of the she -> see : 1
+the she allowed -> herself : 1
+she allowed herself -> a : 1
+allowed herself a -> quick : 1
+allowed herself a -> few : 1
+herself a quick -> her : 1
+a quick her -> eyes : 1
+quick her eyes -> were : 1
+her eyes were -> more : 1
+her eyes were -> immediately : 1
+eyes were more -> accustomed : 1
+were more accustomed -> to : 1
+more accustomed to -> the : 1
+accustomed to the -> dark : 1
+to the dark -> so : 1
+the dark so -> she : 1
+dark so she -> could : 1
+so she could -> see : 1
+so she could -> take : 1
+she could see -> his : 1
+could see his -> erect : 1
+see his erect -> cock : 1
+his erect cock -> next : 1
+erect cock next -> to : 1
+cock next to -> the : 1
+next to the -> popcorn : 1
+next to the -> had : 1
+to the popcorn -> she : 1
+the popcorn she -> had : 1
+popcorn she had -> to : 1
+she had to -> stifle : 1
+had to stifle -> a : 1
+to stifle a -> her : 1
+stifle a her -> hand : 1
+a her hand -> went : 1
+her hand went -> to : 1
+hand went to -> work : 1
+went to work -> on : 1
+to work on -> his : 1
+work on his -> maxine : 1
+on his maxine -> glanced : 1
+his maxine glanced -> to : 1
+maxine glanced to -> her : 1
+glanced to her -> other : 1
+to her other -> and : 1
+her other and -> noticed : 1
+other and noticed -> jojo : 1
+and noticed jojo -> and : 1
+noticed jojo and -> caroline : 1
+and caroline were -> watching : 1
+caroline were watching -> not : 1
+were watching not -> the : 1
+watching not the -> maxine : 1
+not the maxine -> waved : 1
+the maxine waved -> a : 1
+maxine waved a -> hand : 1
+waved a hand -> at : 1
+a hand at -> she : 1
+hand at she -> want : 1
+at she want -> them : 1
+she want them -> to : 1
+want them to -> give : 1
+them to give -> the : 1
+to give the -> game : 1
+give the game -> maxine : 1
+the game maxine -> wanked : 1
+game maxine wanked -> him : 1
+maxine wanked him -> she : 1
+wanked him she -> would : 1
+him she would -> have : 1
+she would have -> liked : 1
+would have liked -> to : 1
+have liked to -> have : 1
+liked to have -> played : 1
+to have played -> with : 1
+have played with -> his : 1
+played with his -> but : 1
+played with his -> his : 1
+with his but -> there : 1
+his but there -> was : 1
+but there was -> no : 1
+was no way -> she : 1
+no way she -> could : 1
+way she could -> get : 1
+she could get -> access : 1
+could get access -> from : 1
+get access from -> this : 1
+access from this -> she : 1
+from this she -> even : 1
+this she even -> thought : 1
+she even thought -> about : 1
+even thought about -> giving : 1
+thought about giving -> him : 1
+about giving him -> but : 1
+giving him but -> decided : 1
+him but decided -> it : 1
+but decided it -> was : 1
+decided it was -> too : 1
+it was too -> the : 1
+was too the -> popcorn : 1
+too the popcorn -> bucket : 1
+popcorn bucket was -> hiding : 1
+bucket was hiding -> her : 1
+was hiding her -> but : 1
+hiding her but -> it : 1
+her but it -> would : 1
+but it would -> have : 1
+it would have -> been : 1
+would have been -> impossible : 1
+have been impossible -> to : 1
+been impossible to -> disguise : 1
+impossible to disguise -> that : 1
+to disguise that -> she : 1
+disguise that she -> was : 1
+that she was -> giving : 1
+she was giving -> him : 2
+was giving him -> a : 2
+a blow after -> a : 1
+blow after a -> couple : 1
+after a couple -> of : 1
+couple of minutes -> she : 1
+of minutes she -> could : 1
+minutes she could -> feel : 1
+could feel him -> and : 1
+feel him and -> knew : 1
+him and knew -> he : 1
+and knew he -> was : 1
+knew he was -> about : 2
+he was about -> to : 2
+about to she -> increased : 1
+about to she -> was : 1
+to she increased -> the : 1
+she increased the -> and : 1
+increased the and -> reached : 1
+the and reached -> inside : 1
+and reached inside -> her : 1
+reached inside her -> when : 1
+inside her when -> he : 1
+her when he -> began : 1
+when he began -> to : 1
+he began to -> shoot : 1
+began to shoot -> his : 1
+to shoot his -> she : 1
+shoot his she -> had : 1
+his she had -> a : 1
+she had a -> handful : 1
+had a handful -> of : 1
+handful of tissues -> ready : 1
+of tissues ready -> to : 1
+tissues ready to -> catch : 1
+ready to catch -> she : 1
+to catch she -> dropped : 1
+catch she dropped -> them : 1
+she dropped them -> on : 1
+dropped them on -> his : 1
+them on his -> he : 1
+on his he -> wiped : 1
+his he wiped -> put : 1
+he wiped put -> his : 1
+wiped put his -> cock : 1
+put his cock -> back : 1
+his cock back -> in : 1
+his cock back -> into : 1
+cock back in -> his : 1
+back in his -> and : 1
+in his and -> then : 1
+his and then -> they : 1
+and then they -> all : 1
+then they all -> watched : 1
+they all watched -> the : 1
+all watched the -> rest : 1
+watched the rest -> of : 1
+the rest of -> the : 1
+rest of the -> me : 1
+of the me -> that : 1
+the me that -> was : 1
+me that was -> jojo : 1
+that was jojo -> said : 1
+was jojo said -> in : 1
+jojo said in -> the : 1
+said in the -> bar : 1
+in the bar -> after : 1
+the bar after -> the : 1
+bar after the -> your : 1
+after the your -> dad : 1
+the your dad -> is : 1
+your dad is -> just : 1
+dad is just -> a : 1
+is just a -> man : 1
+just a man -> after : 1
+a man after -> the : 1
+man after the -> man : 1
+after the man -> who : 1
+the man who -> can : 1
+man who can -> refuse : 1
+who can refuse -> a : 1
+can refuse a -> hand : 1
+refuse a hand -> job : 1
+hand job been -> born : 1
+job been born -> believe : 1
+been born believe -> shook : 1
+born believe shook -> her : 1
+believe shook her -> are : 1
+shook her are -> you : 1
+her are you -> going : 1
+are you going -> to : 1
+going to fuck -> my : 1
+to fuck my -> dad : 1
+fuck my dad -> or : 1
+my dad or -> jojo : 1
+dad or jojo -> the : 1
+or jojo the -> other : 1
+jojo the other -> three : 1
+the other three -> all : 1
+other three all -> looked : 1
+three all looked -> at : 1
+all looked at -> if : 1
+looked at if -> my : 1
+at if my -> dad : 1
+if my dad -> can : 1
+my dad can -> do : 1
+dad can do -> it : 1
+can do it -> why : 1
+do it why -> dad : 1
+it why dad -> by : 1
+why dad by -> himself : 1
+dad by himself -> was : 1
+by himself was -> never : 1
+himself was never -> going : 1
+was never going -> to : 1
+going to be -> a : 1
+to be a -> had : 1
+be a had -> lots : 1
+a had lots -> of : 1
+had lots of -> girlfriends : 1
+lots of girlfriends -> since : 1
+of girlfriends since -> his : 1
+girlfriends since his -> wife : 1
+since his wife -> had : 1
+his wife had -> walked : 1
+wife had walked -> but : 1
+had walked but -> none : 1
+walked but none -> had : 1
+but none had -> lasted : 1
+none had lasted -> very : 1
+had lasted very -> he : 1
+lasted very he -> wanted : 1
+very he wanted -> anything : 1
+he wanted anything -> and : 1
+wanted anything and -> seemed : 1
+anything and seemed -> to : 1
+and seemed to -> enjoy : 1
+seemed to enjoy -> living : 1
+to enjoy living -> the : 1
+enjoy living the -> life : 1
+living the life -> of : 1
+the life of -> a : 1
+life of a -> single : 1
+of a single -> man : 1
+a single man -> the : 1
+single man the -> caroline : 1
+man the caroline -> should : 1
+the caroline should -> be : 1
+caroline should be -> jojo : 1
+should be jojo -> knew : 1
+be jojo knew -> what : 1
+jojo knew what -> her : 1
+knew what her -> dad : 1
+what her dad -> was : 1
+her dad was -> you : 1
+dad was you -> have : 1
+was you have -> to : 1
+have to do -> is : 1
+to do is -> to : 1
+do is to -> turn : 1
+is to turn -> up : 1
+to turn up -> at : 1
+turn up at -> my : 1
+up at my -> house : 1
+at my house -> on : 1
+my house on -> the : 1
+house on the -> pretence : 1
+on the pretence -> of : 1
+the pretence of -> looking : 1
+pretence of looking -> for : 1
+of looking for -> make : 1
+looking for make -> sure : 1
+for make sure -> you : 1
+make sure you -> look : 1
+sure you look -> and : 1
+you look and -> then : 1
+look and then -> throw : 1
+and then throw -> yourself : 1
+then throw yourself -> at : 1
+throw yourself at -> he : 1
+yourself at he -> say : 1
+at he say -> a : 1
+he say a -> horny : 1
+say a horny -> we : 1
+a horny we -> will : 1
+horny we will -> be : 1
+we will be -> he : 1
+we will be -> able : 1
+will be he -> never : 1
+be he never -> pulls : 1
+he never pulls -> the : 1
+never pulls the -> so : 1
+pulls the so -> we : 1
+the so we -> will : 1
+so we will -> be : 1
+will be able -> to : 1
+to see without -> any : 1
+see without any -> was : 1
+without any was -> more : 1
+any was more -> nervous : 1
+was more nervous -> at : 1
+more nervous at -> the : 1
+nervous at the -> idea : 1
+at the idea -> of : 1
+the idea of -> the : 1
+idea of the -> other : 1
+of the other -> watching : 1
+of the other -> girls : 1
+the other watching -> her : 1
+other watching her -> than : 1
+watching her than -> at : 1
+her than at -> getting : 1
+than at getting -> fucked : 1
+at getting fucked -> by : 1
+getting fucked by -> watching : 1
+fucked by watching -> the : 1
+by watching the -> other : 1
+watching the other -> girls : 1
+the other girls -> had : 1
+the other girls -> it : 1
+other girls had -> made : 1
+girls had made -> her : 1
+made her horny -> each : 1
+her horny each -> even : 1
+horny each even -> when : 1
+each even when -> it : 1
+even when it -> had : 1
+when it had -> been : 1
+it had been -> her : 1
+had been her -> turn : 1
+been her turn -> she : 1
+her turn she -> had : 1
+turn she had -> got : 1
+she had got -> wet : 1
+had got wet -> knowing : 1
+got wet knowing -> maxine : 1
+wet knowing maxine -> was : 1
+knowing maxine was -> wanking : 1
+maxine was wanking -> him : 1
+was wanking him -> she : 1
+wanking him she -> planned : 1
+him she planned -> on : 1
+she planned on -> getting : 1
+planned on getting -> involved : 1
+on getting involved -> in : 1
+getting involved in -> this : 1
+involved in this -> silly : 1
+in this silly -> but : 1
+this silly but -> now : 1
+silly but now -> she : 1
+but now she -> was : 1
+now she was -> ready : 1
+she was ready -> and : 1
+she was ready -> to : 1
+was ready and -> she : 1
+ready and she -> had : 1
+and she had -> taken : 1
+had taken ages -> to : 1
+taken ages to -> decide : 1
+ages to decide -> what : 1
+to decide what -> to : 1
+decide what to -> she : 1
+what to she -> had : 1
+what to she -> took : 1
+to she had -> thought : 1
+she had thought -> about : 1
+had thought about -> classy : 1
+thought about classy -> and : 1
+about classy and -> but : 1
+classy and but -> in : 1
+and but in -> the : 1
+but in the -> end : 1
+in the end -> plumped : 1
+the end plumped -> for : 1
+end plumped for -> dad : 1
+plumped for dad -> answered : 1
+for dad answered -> the : 1
+dad answered the -> door : 1
+answered the door -> wearing : 1
+the door wearing -> jeans : 1
+door wearing jeans -> and : 1
+wearing jeans and -> a : 1
+jeans and a -> vest : 1
+and a vest -> it : 1
+a vest it -> look : 1
+vest it look -> as : 1
+it look as -> though : 1
+look as though -> he : 1
+as though he -> was : 1
+though he was -> planning : 1
+he was planning -> on : 1
+was planning on -> going : 1
+planning on going -> out : 1
+on going out -> he : 1
+going out he -> told : 1
+out he told -> her : 1
+he told her -> he : 1
+told her he -> had : 1
+her he had -> no : 1
+he had no -> idea : 1
+no idea if -> or : 1
+idea if or -> when : 1
+if or when -> jojo : 1
+or when jojo -> would : 1
+when jojo would -> be : 1
+jojo would be -> but : 1
+would be but -> said : 1
+be but said -> she : 1
+but said she -> was : 1
+said she was -> welcome : 1
+she was welcome -> to : 1
+was welcome to -> she : 1
+welcome to she -> accepted : 1
+to she accepted -> his : 1
+she accepted his -> offer : 1
+accepted his offer -> of : 1
+his offer of -> a : 1
+offer of a -> cold : 1
+of a cold -> can : 1
+a cold can -> of : 1
+cold can of -> as : 1
+can of as -> she : 1
+of as she -> stood : 1
+as she stood -> by : 1
+she stood by -> the : 1
+stood by the -> table : 1
+by the table -> she : 1
+the table she -> caught : 1
+table she caught -> a : 1
+she caught a -> glance : 1
+caught a glance -> of : 1
+a glance of -> someone : 1
+glance of someone -> looking : 1
+of someone looking -> in : 1
+someone looking in -> through : 1
+looking in through -> the : 1
+in through the -> window : 1
+through the window -> on : 1
+the window on -> the : 1
+window on the -> far : 1
+on the far -> side : 1
+the she see -> which : 1
+she see which -> of : 1
+see which of -> the : 1
+which of the -> other : 1
+other girls it -> but : 1
+girls it but -> supposed : 1
+it but supposed -> they : 1
+but supposed they -> were : 1
+supposed they were -> all : 1
+they were all -> out : 1
+were all out -> there : 1
+all out there -> watching : 1
+out there watching -> got : 1
+there watching got -> a : 1
+watching got a -> game : 1
+got a game -> she : 1
+a game she -> hoped : 1
+game she hoped -> jojo : 1
+she hoped jojo -> was : 1
+hoped jojo was -> right : 1
+jojo was right -> that : 1
+was right that -> he : 1
+right that he -> would : 1
+that he would -> take : 1
+he would take -> the : 1
+would take the -> initiative : 1
+take the initiative -> if : 1
+the initiative if -> she : 1
+initiative if she -> encouraged : 1
+if she encouraged -> i : 1
+she encouraged i -> should : 1
+encouraged i should -> try : 1
+i should try -> calling : 1
+should try calling -> jojo : 1
+try calling jojo -> she : 1
+calling jojo she -> said : 1
+jojo she said -> bending : 1
+she said bending -> from : 1
+said bending from -> the : 1
+bending from the -> waist : 1
+the waist to -> open : 1
+waist to open -> her : 1
+to open her -> handbag : 1
+open her handbag -> which : 1
+her handbag which -> she : 1
+handbag which she -> had : 1
+which she had -> put : 1
+she had put -> down : 1
+had put down -> next : 1
+put down next -> to : 1
+down next to -> the : 1
+down next to -> he : 1
+to the had -> her : 1
+the had her -> back : 1
+had her back -> to : 1
+her back to -> and : 1
+back to and -> knew : 1
+to and knew -> she : 1
+and knew she -> was : 1
+knew she was -> giving : 1
+him a great -> view : 1
+a great view -> of : 1
+great view of -> her : 1
+view of her -> arse : 1
+of her arse -> she : 1
+her arse she -> was : 1
+arse she was -> wearing : 1
+she was wearing -> a : 1
+wearing a white -> under : 1
+a white under -> her : 1
+white under her -> mini : 1
+under her mini -> she : 1
+her mini she -> pretended : 1
+mini she pretended -> to : 1
+she pretended to -> struggle : 1
+pretended to struggle -> to : 1
+to struggle to -> locate : 1
+struggle to locate -> the : 1
+to locate the -> all : 1
+locate the all -> the : 1
+the all the -> time : 1
+the time her -> bare : 1
+time her bare -> arse : 1
+her bare arse -> pointing : 1
+bare arse pointing -> at : 1
+arse pointing at -> she : 1
+pointing at she -> hear : 1
+at she hear -> him : 1
+she hear him -> stand : 1
+hear him stand -> or : 1
+him stand or -> walk : 1
+stand or walk -> over : 1
+or walk over -> to : 1
+walk over to -> the : 1
+to the first -> she : 1
+the first she -> knew : 1
+first she knew -> was : 1
+she knew was -> when : 1
+knew was when -> she : 1
+was when she -> felt : 1
+she felt his -> hands : 1
+felt his hands -> on : 1
+his hands on -> her : 1
+hands on her -> bare : 1
+on her bare -> you : 1
+her bare you -> sure : 1
+bare you sure -> you : 1
+you sure you -> came : 1
+sure you came -> over : 1
+you came over -> here : 1
+came over here -> looking : 1
+over here looking -> for : 1
+here looking for -> he : 1
+looking for he -> raised : 1
+for he raised -> her : 1
+he raised her -> but : 1
+raised her but -> push : 1
+her but push -> his : 1
+but push his -> hands : 1
+push his hands -> to : 1
+his hands to -> me : 1
+hands to me -> like : 1
+me like you -> planned : 1
+like you planned -> a : 1
+you planned a -> bit : 1
+planned a bit -> of : 1
+a bit of -> prick : 1
+bit of prick -> she : 1
+of prick she -> felt : 1
+prick she felt -> him : 1
+felt him push -> his : 1
+him push his -> crotch : 1
+push his crotch -> against : 1
+his crotch against -> her : 1
+crotch against her -> it : 1
+against her it -> can : 1
+her it can -> you : 1
+it can you -> feel : 1
+can you feel -> he : 1
+you feel he -> pushed : 1
+feel he pushed -> his : 1
+he pushed his -> crotch : 1
+he pushed his -> cock : 2
+pushed his crotch -> harder : 1
+his crotch harder -> against : 1
+crotch harder against -> her : 1
+harder against her -> put : 1
+against her put -> a : 1
+her put a -> hand : 1
+put a hand -> behind : 1
+a hand behind -> her : 1
+hand behind her -> and : 1
+behind her and -> took : 1
+her and took -> hold : 1
+of the bulge -> in : 1
+the bulge in -> his : 1
+bulge in his -> he : 1
+in his he -> moved : 1
+his he moved -> one : 1
+he moved one -> hand : 2
+moved one hand -> around : 1
+moved one hand -> to : 1
+one hand around -> to : 1
+hand around to -> her : 1
+around to her -> pushed : 1
+to her pushed -> the : 1
+her pushed the -> to : 1
+pushed the to -> one : 1
+the to one -> and : 1
+to one and -> started : 1
+one and started -> to : 1
+and started to -> finger : 1
+and started to -> play : 1
+and started to -> tease : 1
+started to finger -> her : 1
+to finger her -> hand : 1
+finger her hand -> could : 1
+her hand could -> feel : 1
+hand could feel -> his : 1
+his cock getting -> suddenly : 1
+cock getting suddenly -> he : 1
+getting suddenly he -> moved : 1
+suddenly he moved -> his : 1
+he moved his -> hand : 1
+moved his hand -> put : 1
+his hand put -> both : 1
+hand put both -> arms : 1
+put both arms -> around : 1
+both arms around -> her : 1
+arms around her -> and : 1
+around her and -> lifted : 1
+her and lifted -> her : 1
+and lifted her -> onto : 1
+lifted her onto -> the : 1
+her onto the -> she : 1
+onto the she -> was : 1
+the she was -> still : 1
+the she was -> blinded : 1
+she was still -> so : 1
+was still so -> her : 1
+still so her -> butt : 1
+so her butt -> was : 1
+her butt was -> now : 1
+butt was now -> level : 1
+was now level -> with : 1
+now level with -> his : 1
+level with his -> he : 1
+with his he -> took : 1
+his he took -> her : 1
+he took her -> and : 1
+took her and -> spun : 1
+her and spun -> her : 1
+and spun her -> around : 1
+spun her around -> to : 1
+her around to -> face : 1
+around to face -> his : 1
+to face his -> hand : 1
+face his hand -> reached : 1
+his hand reached -> under : 1
+hand reached under -> her : 1
+reached under her -> and : 1
+her and pulled -> down : 1
+and pulled down -> her : 1
+pulled down her -> then : 1
+down her then -> he : 1
+her then he -> took : 1
+her then he -> pushed : 1
+then he took -> one : 1
+he took one -> of : 1
+took one of -> her : 2
+one of her -> and : 1
+one of her -> legs : 1
+her and raised -> so : 1
+and raised so -> it : 1
+raised so it -> rested : 1
+so it rested -> on : 1
+it rested on -> his : 1
+rested on his -> that : 1
+on his that -> gave : 1
+his that gave -> him : 1
+that gave him -> access : 1
+gave him access -> to : 1
+him access to -> her : 1
+access to her -> wet : 1
+to her wet -> he : 1
+her wet he -> pressed : 1
+wet he pressed -> his : 1
+he pressed his -> tongue : 1
+pressed his tongue -> onto : 1
+his tongue onto -> the : 1
+tongue onto the -> licking : 1
+onto the licking -> and : 1
+the licking and -> then : 1
+licking and then -> he : 1
+and then he -> worked : 1
+and then he -> withdrew : 1
+then he worked -> his : 1
+he worked his -> tongue : 1
+worked his tongue -> between : 1
+his tongue between -> the : 1
+tongue between the -> lips : 1
+between the lips -> into : 1
+the lips into -> the : 1
+lips into the -> he : 1
+into the he -> pushed : 1
+the he pushed -> it : 1
+he pushed it -> in : 1
+pushed it in -> just : 1
+it in just -> she : 1
+in just she -> saw : 1
+just she saw -> the : 1
+saw the three -> faces : 1
+the three faces -> at : 1
+three faces at -> the : 1
+faces at the -> far : 1
+the far knowing -> the : 1
+far knowing the -> girls : 1
+knowing the girls -> were : 1
+the girls were -> watching : 1
+girls were watching -> her : 1
+were watching her -> get : 1
+watching her get -> tongue : 1
+her get tongue -> fucked : 1
+get tongue fucked -> made : 1
+tongue fucked made -> her : 1
+fucked made her -> even : 1
+made her even -> she : 1
+her even she -> pulled : 1
+even she pulled -> off : 1
+she pulled off -> her : 1
+pulled off her -> and : 1
+off her and -> started : 1
+her and started -> to : 1
+with her naked -> his : 1
+her naked his -> tongue : 1
+naked his tongue -> moved : 1
+his tongue moved -> to : 1
+tongue moved to -> her : 1
+moved to her -> clit : 1
+to her clit -> as : 1
+her clit as -> he : 1
+clit as he -> slipped : 1
+as he slipped -> two : 1
+he slipped two -> fingers : 1
+slipped two fingers -> into : 1
+two fingers into -> her : 1
+fingers into her -> he : 1
+into her he -> was : 1
+her he was -> fingering : 1
+her he was -> getting : 1
+he was fingering -> her : 1
+was fingering her -> hard : 1
+fingering her hard -> and : 1
+her hard and -> it : 1
+hard and it -> felt : 1
+and it felt -> her : 1
+it felt her -> clit : 1
+felt her clit -> was : 1
+her clit was -> tingling : 1
+clit was tingling -> from : 1
+was tingling from -> his : 1
+tingling from his -> tongue : 1
+from his tongue -> her : 1
+his tongue her -> friends : 1
+tongue her friends -> saw : 1
+her friends saw -> her : 1
+friends saw her -> grab : 1
+saw her grab -> hold : 1
+her grab hold -> of : 1
+grab hold of -> his : 1
+of his shoulders -> as : 1
+his shoulders as -> she : 1
+shoulders as she -> reached : 1
+as she reached -> he : 1
+she reached he -> continued : 1
+reached he continued -> to : 1
+he continued to -> lick : 1
+lick and finger -> her : 1
+and finger her -> until : 1
+finger her until -> she : 1
+her until she -> could : 1
+until she could -> bear : 1
+she could bear -> no : 1
+could bear no -> collapsed : 1
+bear no collapsed -> down : 1
+no collapsed down -> onto : 1
+collapsed down onto -> the : 1
+down onto the -> and : 1
+onto the and -> allowed : 1
+the and allowed -> herself : 1
+and allowed herself -> a : 1
+herself a few -> moments : 1
+a few moments -> to : 1
+few moments to -> as : 1
+moments to as -> she : 1
+to as she -> she : 1
+as she she -> saw : 1
+she she saw -> he : 1
+she saw he -> was : 1
+saw he was -> he : 1
+he was he -> discarded : 1
+was he discarded -> his : 1
+he discarded his -> vest : 1
+discarded his vest -> and : 1
+his vest and -> boxers : 1
+vest and boxers -> onto : 1
+and boxers onto -> the : 1
+boxers onto the -> her : 1
+onto the her -> eyes : 1
+the her eyes -> were : 1
+eyes were immediately -> drawn : 1
+were immediately drawn -> to : 1
+immediately drawn to -> his : 1
+drawn to his -> hard : 1
+to his hard -> cock : 1
+his hard cock -> which : 1
+hard cock which -> he : 1
+cock which he -> was : 1
+which he was -> stroking : 1
+he was stroking -> she : 1
+was stroking she -> was : 1
+stroking she was -> about : 1
+she was about -> to : 1
+about to get -> out : 1
+to get out -> of : 1
+get out of -> the : 1
+of the chair -> when : 1
+the chair when -> he : 1
+chair when he -> stepped : 1
+when he stepped -> up : 1
+he stepped up -> onto : 1
+stepped up onto -> he : 1
+up onto he -> stood : 1
+onto he stood -> with : 1
+he stood with -> his : 1
+stood with his -> legs : 1
+with his legs -> either : 1
+his legs either -> side : 1
+legs either side -> of : 1
+either side of -> his : 1
+side of his -> hands : 1
+of his hands -> resting : 1
+his hands resting -> on : 1
+hands resting on -> the : 1
+resting on the -> chair : 1
+resting on the -> back : 1
+on the chair -> his : 1
+the chair his -> cock : 1
+chair his cock -> was : 1
+his cock was -> now : 1
+cock was now -> inches : 1
+was now inches -> from : 1
+now inches from -> her : 1
+inches from her -> before : 1
+from her before -> she : 1
+her before she -> could : 1
+before she could -> take : 1
+she could take -> hold : 1
+she could take -> the : 1
+could take hold -> of : 1
+take hold of -> he : 1
+hold of he -> lifted : 1
+of he lifted -> it : 1
+he lifted it -> and : 1
+lifted it and -> told : 1
+it and told -> her : 1
+and told her -> to : 1
+told her to -> lick : 1
+her to lick -> his : 1
+to lick his -> she : 1
+lick his she -> licked : 1
+his she licked -> the : 1
+she licked the -> ball : 1
+licked the ball -> slowly : 1
+the ball slowly -> taking : 1
+ball slowly taking -> one : 1
+slowly taking one -> ball : 1
+taking one ball -> into : 1
+one ball into -> her : 1
+ball into her -> careful : 1
+into her careful -> not : 1
+her careful not -> to : 1
+careful not to -> squeeze : 1
+not to squeeze -> too : 1
+to squeeze too -> then : 1
+squeeze too then -> she : 1
+too then she -> did : 1
+then she did -> the : 1
+she did the -> same : 1
+with the my -> he : 1
+the my he -> moved : 1
+my he moved -> one : 1
+one hand to -> his : 1
+hand to his -> found : 1
+to his found -> the : 1
+the and started -> to : 1
+started to tease -> the : 1
+to tease the -> it : 1
+tease the it -> he : 1
+the it he -> pressed : 1
+it he pressed -> the : 1
+he pressed the -> hole : 1
+pressed the hole -> gently : 1
+the hole gently -> until : 1
+hole gently until -> the : 1
+gently until the -> finger : 1
+until the finger -> went : 1
+the finger went -> she : 1
+finger went she -> licked : 1
+went she licked -> and : 1
+she licked and -> sucked : 1
+licked and sucked -> his : 1
+and sucked his -> balls : 1
+sucked his balls -> while : 1
+his balls while -> pressing : 1
+balls while pressing -> the : 1
+while pressing the -> finger : 1
+pressing the finger -> in : 1
+the finger in -> and : 1
+out of his -> all : 1
+of his all -> the : 1
+his all the -> time : 1
+the time he -> stroked : 1
+time he stroked -> his : 1
+he stroked his -> cock : 1
+his cock moved -> the : 1
+cock moved the -> cock : 1
+moved the cock -> down : 1
+the cock down -> towards : 1
+cock down towards -> her : 1
+down towards her -> she : 1
+towards her she -> need : 1
+her she need -> telling : 1
+she need telling -> what : 1
+need telling what -> to : 1
+telling what to -> she : 1
+to she took -> it : 1
+into her mouth -> as : 1
+her mouth as -> far : 1
+mouth as far -> as : 1
+as far as -> she : 1
+far as she -> and : 1
+as she and -> then : 1
+she and then -> started : 1
+and then started -> to : 1
+then started to -> suck : 1
+to suck back -> and : 1
+suck back and -> still : 1
+back and still -> fingering : 1
+and still fingering -> his : 1
+still fingering his -> he : 1
+fingering his he -> pushed : 1
+his he pushed -> his : 1
+pushed his cock -> deeper : 1
+pushed his cock -> back : 1
+pushed his cock -> inside : 1
+his cock deeper -> into : 1
+cock deeper into -> her : 1
+deeper into her -> and : 1
+into her and -> she : 1
+her and she -> thought : 1
+and she thought -> she : 1
+thought she might -> but : 1
+she might but -> she : 1
+might but she -> was : 1
+but she was -> her : 1
+she was her -> head : 1
+was her head -> was : 1
+her head was -> resting : 1
+head was resting -> on : 1
+was resting on -> the : 1
+on the back -> of : 1
+of the armchair -> he : 1
+the armchair he -> fucked : 1
+armchair he fucked -> her : 1
+fucked her in -> the : 1
+her in the -> mouth : 1
+her in the -> she : 1
+in the mouth -> while : 1
+the mouth while -> she : 1
+mouth while she -> fingered : 1
+while she fingered -> his : 1
+she fingered his -> arse : 1
+fingered his arse -> with : 1
+his arse with -> her : 1
+arse with her -> other : 1
+with her other -> played : 1
+her other played -> with : 1
+with his his -> arse : 1
+his his arse -> muscles : 1
+his arse muscles -> started : 1
+arse muscles started -> to : 1
+muscles started to -> and : 1
+to and she -> knew : 1
+and she knew -> he : 1
+to she was -> ready : 1
+was ready to -> swallow : 1
+ready to swallow -> his : 1
+to swallow his -> when : 1
+swallow his when -> he : 1
+his when he -> pulled : 1
+when he pulled -> his : 1
+he pulled his -> cock : 1
+her and shot -> his : 1
+and shot his -> load : 1
+his load all -> over : 1
+load all over -> her : 1
+all over her -> some : 1
+over her some -> hit : 1
+her some hit -> her : 1
+some hit her -> in : 1
+hit her in -> the : 1
+she was blinded -> for : 1
+was blinded for -> a : 1
+blinded for a -> she : 1
+for a she -> opened : 1
+a she opened -> her : 1
+she opened her -> mouth : 1
+opened her mouth -> and : 1
+her mouth and -> caught : 1
+mouth and caught -> some : 1
+and caught some -> on : 1
+caught some on -> her : 1
+some on her -> he : 1
+on her he -> pointed : 1
+her he pointed -> the : 1
+he pointed the -> cock : 1
+pointed the cock -> so : 1
+the cock so -> some : 1
+cock so some -> splashed : 1
+so some splashed -> across : 1
+some splashed across -> her : 1
+splashed across her -> then : 1
+across her then -> he : 1
+then he pushed -> his : 1
+cock back into -> her : 1
+back into her -> so : 1
+into her so -> she : 1
+her so she -> could : 1
+could take the -> and : 1
+take the and -> then : 1
+the and then -> lick : 1
+and then lick -> it : 1
+then lick it -> got : 1
+lick it got -> down : 1
+it got down -> from : 1
+got down from -> the : 1
+down from the -> and : 1
+from the and -> moved : 1
+the and moved -> over : 1
+and moved over -> to : 1
+moved over to -> the : 1
+to the he -> lay : 1
+the he lay -> there : 1
+he lay there -> touching : 1
+lay there touching -> his : 1
+there touching his -> knew : 1
+touching his knew -> he : 1
+his knew he -> finished : 1
+knew he finished -> with : 1
+he finished with -> her : 1
+finished with her -> he : 1
+with her he -> was : 1
+he was getting -> himself : 1
+was getting himself -> hard : 1
+getting himself hard -> she : 1
+himself hard she -> wiped : 1
+hard she wiped -> some : 1
+she wiped some -> of : 1
+wiped some of -> the : 1
+some of the -> cum : 1
+of the cum -> from : 1
+the cum from -> her : 1
+cum from her -> face : 1
+from her face -> while : 1
+her face while -> she : 1
+face while she -> watched : 1
+while she watched -> his : 1
+she watched his -> cock : 1
+watched his cock -> responding : 1
+his cock responding -> to : 1
+cock responding to -> his : 1
+responding to his -> own : 1
+to his own -> it : 1
+his own it -> long : 1
+own it long -> before : 1
+it long before -> it : 1
+long before it -> was : 1
+before it was -> hard : 1
+it was hard -> he : 1
+was hard he -> walked : 1
+hard he walked -> over : 1
+he walked over -> to : 1
+walked over to -> the : 1
+to the and -> sat : 1
+the and sat -> down : 1
+and sat down -> next : 1
+sat down next -> to : 1
+next to he -> stood : 1
+to he stood -> took : 1
+he stood took -> one : 1
+stood took one -> of : 1
+of her legs -> in : 1
+her legs in -> each : 1
+legs in each -> and : 1
+in each and -> put : 1
+each and put -> them : 1
+and put them -> onto : 1
+put them onto -> his : 1
+them onto his -> she : 1
+onto his she -> waited : 1
+his she waited -> for : 1
+she waited for -> him : 1
+waited for him -> to : 1
+for him to -> push : 1
+him to push -> his : 1
+to push his -> cock : 1
+push his cock -> inside : 1
+his cock inside -> her : 1
+his cock inside -> she : 1
+cock inside her -> but : 1
+inside her but -> he : 1
+her but he -> had : 1
+but he had -> other : 1
+he had other -> he : 1
+had other he -> pulled : 1
+other he pulled -> her : 1
+pulled her lower -> then : 1
+her lower then -> ran : 1
+lower then ran -> his : 1
+then ran his -> fingers : 1
+ran his fingers -> through : 1
+his fingers through -> the : 1
+fingers through the -> cum : 1
+through the cum -> on : 1
+the cum on -> her : 1
+cum on her -> breasts : 1
+on her breasts -> and : 1
+her breasts and -> she : 1
+breasts and she -> felt : 1
+and she felt -> him : 1
+felt him touch -> her : 1
+him touch her -> bum : 1
+touch her bum -> he : 1
+her bum he -> used : 1
+bum he used -> the : 1
+he used the -> cum : 1
+used the cum -> to : 1
+the cum to -> ease : 1
+cum to ease -> his : 1
+to ease his -> fingers : 1
+ease his fingers -> gently : 1
+his fingers gently -> first : 1
+fingers gently first -> and : 1
+gently first and -> then : 1
+first and then -> a : 1
+and then a -> as : 1
+then a as -> he : 1
+a as he -> she : 1
+as he she -> touched : 1
+he she touched -> her : 1
+she touched her -> clit : 1
+touched her clit -> which : 1
+her clit which -> was : 1
+clit which was -> still : 1
+which was still -> sensitive : 1
+was still sensitive -> from : 1
+still sensitive from -> her : 1
+sensitive from her -> he : 1
+from her he -> worked : 1
+her he worked -> the : 1
+he worked the -> two : 1
+worked the two -> fingers : 1
+the two fingers -> in : 1
+in and then -> he : 1
+then he withdrew -> both : 1
+he withdrew both -> and : 1
+withdrew both and -> pushed : 1
+both and pushed -> his : 1
+and pushed his -> cock : 1
+cock inside she -> had : 1
+inside she had -> been : 1
+had been fingered -> up : 1
+been fingered up -> the : 1
+fingered up the -> arse : 1
+up the arse -> but : 1
+the arse but -> she : 1
+arse but she -> had : 1
+but she had -> never : 1
+she had never -> been : 1
+had never been -> arse : 1
+never been arse -> his : 1
+been arse his -> hands : 1
+arse his hands -> found : 1
+his hands found -> her : 1
+hands found her -> which : 1
+found her which -> were : 1
+her which were -> still : 1
+which were still -> sticky : 1
+were still sticky -> with : 1
+still sticky with -> he : 1
+sticky with he -> fucked : 1
+with he fucked -> her : 1
+fucked her slowly -> at : 1
+her slowly at -> but : 1
+slowly at but -> then : 1
+at but then -> a : 1
+but then a -> little : 1
+then a little -> harder : 1
+a little harder -> as : 1
+little harder as -> she : 1
+harder as she -> relaxed : 1
+as she relaxed -> into : 1
+she relaxed into -> he : 1
+relaxed into he -> last : 1
+into he last -> as : 1
+he last as -> long : 1
+last as long -> this : 1
+as long this -> and : 1
+long this and -> soon : 1
+this and soon -> shooting : 1
+and soon shooting -> his : 1
+soon shooting his -> cum : 1
+shooting his cum -> deep : 1
+his cum deep -> inside : 1
+cum deep inside -> her : 1
+deep inside her -> mission : 1
+inside her mission -> accomplished : 1
+her mission accomplished -> i : 1
+mission accomplished i -> caroline : 1
+accomplished i caroline -> raised : 1
+i caroline raised -> a : 1
+caroline raised a -> and : 1
+raised a and -> they : 1
+a and they -> all : 1
+and they all -> joined : 1
+they all joined -> in : 1
+all joined in -> with : 1
+joined in with -> the : 1
+in with the -> it : 1
+with the it -> was : 1
+it was two -> days : 1
+was two days -> since : 1
+two days since -> had : 1
+days since had -> been : 1
+since had been -> well : 1
+had been well -> and : 1
+been well and -> truly : 1
+well and truly -> arse : 1
+and truly arse -> the : 1
+truly arse the -> four : 1
+arse the four -> of : 1
+them had arranged -> to : 1
+meet up to -> celebrate : 1
+up to celebrate -> the : 1
+to celebrate the -> successful : 1
+celebrate the successful -> conclusion : 1
+the successful conclusion -> of : 1
+successful conclusion of -> their : 1
+conclusion of their -> little : 1
+of their little -> for : 1
+their little for -> someone : 1
+little for someone -> who : 1
+for someone who -> want : 1
+someone who want -> to : 1
+who want to -> get : 1
+want to get -> you : 1
+get you certainly -> took : 1
+you certainly took -> it : 1
+certainly took it -> for : 1
+took it for -> the : 1
+it for the -> maxine : 1
+the maxine three -> did : 1
+maxine three did -> the : 1
+three did the -> but : 1
+did the but -> i : 1
+the but i -> got : 1
+but i got -> fucked : 1
+i got fucked -> well : 1
+got fucked well -> and : 1
+fucked well and -> my : 1
+well and my -> dad : 1
+and my dad -> for : 1
+my dad for -> jojo : 1
+dad for jojo -> did : 1
+for jojo did -> warn : 1
+jojo did warn -> you : 1
+did warn you -> about : 1
+warn you about -> not : 1
+you about not -> shuffled : 1
+about not shuffled -> a : 1
+not shuffled a -> little : 1
+shuffled a little -> on : 1
+a little on -> her : 1
+little on her -> still : 1
+on her still -> caroline : 1
+her still caroline -> who : 1
+still caroline who -> a : 1
+caroline who a -> who : 1
+who a who -> gets : 1
+a who gets -> the : 1
+who gets the -> has : 1
+gets the has -> to : 1
+the has to -> be : 1
+has to be -> one : 1
+to be one -> of : 1
+be one of -> you : 1
+one of you -> all : 1
+of you all -> i : 1
+you all i -> managed : 1
+all i managed -> was : 1
+i managed was -> a : 1
+managed was a -> hand : 1
+was a hand -> you : 1
+a hand you -> three : 1
+hand you three -> put : 1
+you three put -> me : 1
+three put me -> to : 1
+put me to -> said : 1
+me to said -> think : 1
+to said think -> you : 1
+said think you -> it : 1
+think you it -> was : 1
+you it was -> easy : 1
+it was easy -> for : 1
+was easy for -> us : 1
+easy for us -> because : 1
+for us because -> there : 1
+us because there -> was : 1
+because there was -> no : 1
+no one else -> you : 1
+one else you -> managed : 1
+else you managed -> to : 1
+you managed to -> do : 1
+managed to do -> the : 1
+to do the -> dirty : 1
+do the dirty -> with : 1
+the dirty with -> his : 1
+dirty with his -> wife : 1
+with his wife -> sitting : 1
+his wife sitting -> two : 1
+wife sitting two -> seats : 1
+sitting two seats -> that : 1
+two seats that -> takes : 1
+seats that takes -> some : 1
+that takes some -> others : 1
+takes some others -> nodded : 1
+some others nodded -> in : 1
+others nodded in -> what : 1
+nodded in what -> is : 1
+in what is -> the : 1
+what is the -> next : 1
+is the next -> caroline : 1
+the next caroline -> why : 1
+next caroline why -> maybe : 1
+caroline why maybe -> we : 1
+why maybe we -> could : 1
+maybe we could -> swap : 1
+we could swap -> dads : 1
+could swap dads -> we : 1
+swap dads we -> each : 1
+dads we each -> have : 1
+we each have -> another : 1
+each have another -> two : 1
+have another two -> to : 1
+another two to -> go : 1
+two to go -> then : 1
+to go then -> we : 1
+go then we -> would : 1
+then we would -> all : 1
+we would all -> have : 1
+would all have -> the : 1
+all have the -> full : 1
+have the full -> are : 1
+the full are -> completely : 1
+full are completely -> in : 1
+are completely in -> this : 1
+completely in this -> have : 1
+in this have -> naughty : 1
+this have naughty -> stories : 1
+have naughty stories -> on : 1
+naughty stories on -> unfaithful : 1
+stories on unfaithful -> sex : 1
+on unfaithful sex -> at : 1
+unfaithful sex at -> teachers : 1
+sex at teachers -> and : 1
+at teachers and -> lots : 1
+teachers and lots -> jackie : 1

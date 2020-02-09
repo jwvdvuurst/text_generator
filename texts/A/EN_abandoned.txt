@@ -1,0 +1,2510 @@
+alic : 1
+license : 1
+downloading : 1
+free : 1
+are : 1
+welcome : 1
+share : 1
+may : 1
+copied : 1
+distributed : 1
+provided : 1
+remains : 1
+complete : 1
+original : 1
+enjoyed : 1
+please : 1
+return : 1
+works : 1
+thank : 1
+threatening : 1
+streets : 1
+areas : 1
+know : 1
+focussed : 1
+passing : 1
+scratched : 1
+itching : 1
+stubble : 1
+stuffed : 1
+hands : 1
+pockets : 1
+snapped : 1
+approached : 1
+dilapidated : 1
+exactly : 1
+forced : 1
+pay : 1
+attention : 1
+passed : 1
+many : 1
+maybe : 1
+because : 1
+same : 1
+young : 1
+staring : 1
+covered : 1
+mop : 1
+hair : 1
+hanging : 1
+thin : 1
+smiled : 1
+intense : 1
+sadness : 1
+washed : 1
+person : 1
+foetus : 1
+murdered : 1
+earlier : 1
+heart : 1
+beat : 1
+reminded : 1
+deserved : 1
+drain : 1
+brake : 1
+fluid : 1
+gone : 1
+admit : 1
+perverse : 1
+pleasure : 1
+care : 1
+wandered : 1
+confirming : 1
+peeling : 1
+marred : 1
+broken : 1
+windows : 1
+two : 1
+upper : 1
+surprisingly : 1
+glass : 1
+rusting : 1
+once : 1
+mind : 1
+filled : 1
+exploring : 1
+enter : 1
+recalled : 1
+song : 1
+climb : 1
+body : 1
+hours : 1
+point : 1
+touch : 1
+add : 1
+insult : 1
+leaving : 1
+live : 1
+also : 1
+stupid : 1
+recently : 1
+acquired : 1
+gift : 1
+rescued : 1
+animal : 1
+slap : 1
+baby : 1
+bad : 1
+rumbled : 1
+ominously : 1
+recollection : 1
+actually : 1
+walking : 1
+acting : 1
+subconscious : 1
+desire : 1
+explore : 1
+negative : 1
+compelled : 1
+albeit : 1
+strong : 1
+gust : 1
+wind : 1
+caused : 1
+balance : 1
+glanced : 1
+far : 1
+scoffed : 1
+emotions : 1
+preferred : 1
+numbness : 1
+loved : 1
+might : 1
+forgive : 1
+past : 1
+arms : 1
+wiping : 1
+nose : 1
+sniffed : 1
+wondering : 1
+car : 1
+rained : 1
+choice : 1
+between : 1
+soaked : 1
+contracting : 1
+taking : 1
+shelter : 1
+sighing : 1
+entered : 1
+grimy : 1
+swung : 1
+too : 1
+they : 1
+shut : 1
+lack : 1
+lock : 1
+access : 1
+put : 1
+dust : 1
+immediately : 1
+invaded : 1
+nostrils : 1
+gaze : 1
+show : 1
+stopping : 1
+really : 1
+wait : 1
+ten : 1
+examined : 1
+blew : 1
+grime : 1
+coating : 1
+effectively : 1
+shutting : 1
+nervous : 1
+darkness : 1
+place : 1
+awakened : 1
+paranoia : 1
+run : 1
+looking : 1
+contemplated : 1
+going : 1
+search : 1
+seen : 1
+less : 1
+mood : 1
+stand : 1
+doing : 1
+especially : 1
+dirty : 1
+grey : 1
+worn : 1
+filthy : 1
+shoes : 1
+mad : 1
+despite : 1
+guilty : 1
+murderous : 1
+wiped : 1
+sleeve : 1
+allowing : 1
+make : 1
+fumbled : 1
+cigarette : 1
+lighter : 1
+pocket : 1
+finding : 1
+flicked : 1
+staircase : 1
+ignore : 1
+menacing : 1
+displaying : 1
+interior : 1
+prepared : 1
+ever : 1
+work : 1
+stomach : 1
+started : 1
+hide : 1
+furtive : 1
+movements : 1
+shadows : 1
+deeper : 1
+jumped : 1
+movement : 1
+corner : 1
+heaved : 1
+huge : 1
+sigh : 1
+relief : 1
+scared : 1
+own : 1
+silent : 1
+prayer : 1
+thanks : 1
+cobwebs : 1
+blocking : 1
+laughed : 1
+since : 1
+ridiculous : 1
+cringed : 1
+stairs : 1
+imagined : 1
+heard : 1
+creaking : 1
+seemingly : 1
+within : 1
+climbed : 1
+enjoying : 1
+growing : 1
+creepiness : 1
+rapidly : 1
+threatened : 1
+snap : 1
+third : 1
+stepped : 1
+passageway : 1
+filtered : 1
+passage : 1
+rumbling : 1
+foyer : 1
+unless : 1
+during : 1
+chill : 1
+nor : 1
+stay : 1
+terrifyingly : 1
+clear : 1
+vision : 1
+hand : 1
+neck : 1
+whispered : 1
+come : 1
+play : 1
+needed : 1
+regain : 1
+leant : 1
+calm : 1
+ragged : 1
+indication : 1
+such : 1
+imbecile : 1
+door : 1
+upstairs : 1
+slammed : 1
+running : 1
+echoed : 1
+swear : 1
+blood : 1
+froze : 1
+grew : 1
+wings : 1
+flew : 1
+rest : 1
+finally : 1
+downstairs : 1
+area : 1
+eternity : 1
+halted : 1
+firm : 1
+tug : 1
+whirled : 1
+rusty : 1
+nail : 1
+protruding : 1
+choked : 1
+unhooked : 1
+cut : 1
+short : 1
+smiley : 1
+cold : 1
+sweat : 1
+covering : 1
+seep : 1
+pores : 1
+freeze : 1
+maintain : 1
+came : 1
+sound : 1
+gaining : 1
+struggled : 1
+pull : 1
+easy : 1
+pure : 1
+adrenaline : 1
+brought : 1
+frenzied : 1
+gave : 1
+strength : 1
+yank : 1
+daring : 1
+desperately : 1
+searching : 1
+devastatingly : 1
+lungs : 1
+longer : 1
+unknown : 1
+three : 1
+blocks : 1
+slowed : 1
+brisk : 1
+pretence : 1
+asking : 1
+him : 1
+took : 1
+opportunity : 1
+first : 1
+appeared : 1
+rid : 1
+permeated : 1
+very : 1
+need : 1
+shoulder : 1
+time : 1
+got : 1
+nauseated : 1
+stepping : 1
+seeing : 1
+familiar : 1
+comforts : 1
+sickening : 1
+lurching : 1
+damn : 1
+knew : 1
+went : 1
+kitchen : 1
+grab : 1
+feline : 1
+sat : 1
+shaggy : 1
+heap : 1
+ginger : 1
+fur : 1
+leather : 1
+following : 1
+move : 1
+sarcastic : 1
+green : 1
+throw : 1
+mangy : 1
+rang : 1
+ignored : 1
+seem : 1
+expected : 1
+moving : 1
+panic : 1
+hurriedly : 1
+searched : 1
+clothes : 1
+hurled : 1
+lounge : 1
+ringing : 1
+voice : 1
+machine : 1
+roughly : 1
+pushed : 1
+replay : 1
+fetched : 1
+mental : 1
+note : 1
+buy : 1
+next : 1
+sauntered : 1
+grabbed : 1
+scruff : 1
+vicious : 1
+flung : 1
+yowled : 1
+glared : 1
+message : 1
+hit : 1
+sank : 1
+onto : 1
+couch : 1
+numb : 1
+disbelief : 1
+cause : 1
+least : 1
+discovered : 1
+new : 1
+can : 1
+purchased : 1
+print : 1
+books : 1
+lighted : 1
+street : 1
+vanessa : 2
+your : 2
+book : 2
+its : 2
+discover : 2
+evening : 2
+much : 2
+like : 2
+along : 2
+deep : 2
+thoughts : 2
+particular : 2
+without : 2
+looked : 2
+irrationally : 2
+convinced : 2
+day : 2
+lose : 2
+lost : 2
+all : 2
+done : 2
+ill : 2
+gained : 2
+amount : 2
+either : 2
+further : 2
+faded : 2
+sign : 2
+above : 2
+depressed : 2
+about : 2
+soul : 2
+few : 2
+should : 2
+let : 2
+now : 2
+cat : 2
+last : 2
+found : 2
+standing : 2
+right : 2
+drawn : 2
+around : 2
+alone : 2
+home : 2
+tears : 2
+away : 2
+control : 2
+hated : 2
+hold : 2
+used : 2
+getting : 2
+skin : 2
+or : 2
+abandoned : 2
+front : 2
+have : 2
+ease : 2
+somewhat : 2
+inside : 2
+turned : 2
+decided : 2
+risk : 2
+desk : 2
+always : 2
+go : 2
+almost : 2
+feet : 2
+towards : 2
+trying : 2
+old : 2
+where : 2
+nobody : 2
+narrow : 2
+caught : 2
+said : 2
+under : 2
+sense : 2
+how : 2
+walk : 2
+crept : 2
+through : 2
+half : 2
+reaching : 2
+resisted : 2
+urge : 2
+while : 2
+listening : 2
+straight : 2
+walked : 2
+stairwell : 2
+footsteps : 2
+giggle : 2
+childish : 2
+giggles : 2
+every : 2
+flat : 2
+bottle : 2
+phone : 2
+wondered : 2
+he : 2
+sky : 3
+stumbled : 3
+eyes : 3
+then : 3
+sure : 3
+child : 3
+dark : 3
+feeling : 3
+possibly : 3
+being : 3
+did : 3
+blinked : 3
+some : 3
+entrance : 3
+told : 3
+having : 3
+wanted : 3
+than : 3
+left : 3
+something : 3
+before : 3
+only : 3
+which : 3
+open : 3
+stuck : 3
+dirt : 3
+any : 3
+want : 3
+rain : 3
+there : 3
+made : 3
+feel : 3
+felt : 3
+stopped : 3
+thought : 3
+against : 3
+realised : 3
+fear : 3
+them : 3
+reached : 3
+after : 3
+ran : 3
+you : 4
+coat : 4
+up : 4
+myself : 4
+probably : 4
+even : 4
+small : 4
+face : 4
+someone : 4
+nothing : 4
+another : 4
+outside : 4
+find : 4
+still : 4
+reception : 4
+lift : 4
+beer : 4
+other : 5
+what : 5
+way : 5
+one : 5
+but : 5
+although : 5
+no : 5
+could : 5
+just : 5
+more : 5
+stood : 5
+light : 5
+would : 5
+look : 5
+down : 6
+little : 6
+were : 6
+claire : 6
+when : 6
+building : 6
+behind : 6
+so : 7
+an : 7
+seemed : 7
+doors : 7
+be : 8
+over : 8
+back : 8
+this : 9
+if : 9
+into : 9
+by : 11
+out : 11
+as : 11
+from : 11
+at : 14
+her : 14
+been : 14
+not : 15
+she : 15
+with : 16
+for : 17
+on : 18
+me : 21
+it : 22
+in : 26
+that : 26
+was : 31
+had : 37
+of : 44
+a : 48
+my : 50
+and : 51
+to : 70
+i : 129
+the : 141
+vanessa alic license -> you : 1
+alic license you -> for : 1
+license you for -> downloading : 1
+you for downloading -> this : 1
+for downloading this -> free : 1
+downloading this free -> you : 1
+this free you -> are : 1
+free you are -> welcome : 1
+you are welcome -> to : 1
+are welcome to -> share : 1
+welcome to share -> it : 1
+to share it -> with : 1
+share it with -> your : 1
+it with your -> this : 1
+with your this -> book : 1
+your this book -> may : 1
+this book may -> be : 1
+book may be -> copied : 1
+may be copied -> and : 1
+be copied and -> distributed : 1
+copied and distributed -> for : 1
+and distributed for -> provided : 1
+distributed for provided -> the : 1
+for provided the -> book : 1
+provided the book -> remains : 1
+the book remains -> in : 1
+book remains in -> its : 1
+remains in its -> complete : 1
+in its complete -> original : 1
+its complete original -> if : 1
+complete original if -> you : 1
+original if you -> enjoyed : 1
+if you enjoyed -> this : 1
+you enjoyed this -> please : 1
+enjoyed this please -> return : 1
+this please return -> to : 1
+please return to -> to : 1
+return to to -> discover : 1
+to to discover -> other : 1
+to discover other -> works : 1
+discover other works -> by : 1
+other works by -> this : 1
+works by this -> thank : 1
+by this thank -> you : 1
+this thank you -> for : 1
+thank you for -> your : 1
+you for your -> evening : 1
+for your evening -> was : 1
+your evening was -> much : 1
+evening was much -> like : 1
+was much like -> my : 1
+much like my -> and : 1
+like my and -> the : 1
+my and the -> sky : 1
+and the sky -> threatening : 1
+the sky threatening -> i : 1
+sky threatening i -> stumbled : 1
+threatening i stumbled -> along : 1
+i stumbled along -> streets : 1
+stumbled along streets -> in : 1
+along streets in -> areas : 1
+streets in areas -> i : 1
+in areas i -> know : 1
+areas i know -> eyes : 1
+i know eyes -> focussed : 1
+know eyes focussed -> on : 1
+eyes focussed on -> the : 1
+focussed on the -> passing : 1
+on the passing -> scratched : 1
+the passing scratched -> the : 1
+passing scratched the -> itching : 1
+scratched the itching -> stubble : 1
+the itching stubble -> on : 1
+itching stubble on -> my : 1
+stubble on my -> and : 1
+on my and -> then : 1
+my and then -> stuffed : 1
+and then stuffed -> hands : 1
+then stuffed hands -> deep : 1
+stuffed hands deep -> into : 1
+hands deep into -> my : 1
+deep into my -> coat : 1
+into my coat -> pockets : 1
+my coat pockets -> i : 1
+coat pockets i -> snapped : 1
+pockets i snapped -> out : 1
+i snapped out -> of : 1
+snapped out of -> my : 1
+out of my -> thoughts : 1
+out of my -> body : 1
+out of my -> few : 1
+of my thoughts -> as : 1
+my thoughts as -> i : 1
+thoughts as i -> approached : 1
+as i approached -> a : 1
+i approached a -> dilapidated : 1
+approached a dilapidated -> not : 1
+a dilapidated not -> sure : 1
+dilapidated not sure -> what : 1
+not sure what -> exactly : 1
+sure what exactly -> forced : 1
+what exactly forced -> me : 1
+exactly forced me -> to : 1
+forced me to -> pay : 1
+me to pay -> attention : 1
+to pay attention -> to : 1
+pay attention to -> this : 1
+attention to this -> particular : 1
+to this particular -> i : 1
+this particular i -> had : 1
+particular i had -> passed : 1
+i had passed -> many : 1
+had passed many -> that : 1
+passed many that -> evening : 1
+many that evening -> without : 1
+that evening without -> so : 1
+evening without so -> much : 1
+without so much -> as : 1
+so much as -> a : 1
+much as a -> maybe : 1
+as a maybe -> because : 1
+a maybe because -> it : 1
+maybe because it -> looked : 1
+because it looked -> the : 1
+it looked the -> same : 1
+looked the same -> way : 1
+the same way -> i : 1
+same way i -> i : 1
+way i i -> looked : 1
+i i looked -> up : 1
+i looked up -> at : 1
+looked up at -> a : 1
+up at a -> young : 1
+at a young -> child : 1
+a young child -> staring : 1
+young child staring -> down : 1
+child staring down -> at : 1
+staring down at -> me : 1
+down at me -> from : 1
+at me from -> a : 1
+me from a -> eyes : 1
+from a eyes -> covered : 1
+a eyes covered -> by : 1
+eyes covered by -> a : 1
+covered by a -> mop : 1
+by a mop -> of : 1
+a mop of -> dark : 1
+mop of dark -> hair : 1
+of dark hair -> hanging : 1
+dark hair hanging -> over : 1
+hair hanging over -> a : 1
+hanging over a -> thin : 1
+over a thin -> the : 1
+a thin the -> child : 1
+thin the child -> smiled : 1
+the child smiled -> at : 1
+child smiled at -> a : 1
+smiled at a -> feeling : 1
+at a feeling -> of : 1
+a feeling of -> intense : 1
+a feeling of -> stepping : 1
+feeling of intense -> sadness : 1
+of intense sadness -> washed : 1
+intense sadness washed -> over : 1
+sadness washed over -> me : 1
+washed over me -> and : 1
+over me and -> i : 1
+me and i -> was : 1
+me and i -> decided : 1
+and i was -> irrationally : 1
+i was irrationally -> convinced : 1
+was irrationally convinced -> that : 2
+irrationally convinced that -> this : 1
+irrationally convinced that -> the : 1
+convinced that this -> little : 1
+that this little -> person : 1
+this little person -> and : 1
+little person and -> the : 1
+person and the -> foetus : 1
+and the foetus -> that : 1
+the foetus that -> i : 1
+foetus that i -> had : 1
+that i had -> possibly : 1
+that i had -> not : 1
+i had possibly -> murdered : 1
+had possibly murdered -> earlier : 1
+possibly murdered earlier -> that : 1
+murdered earlier that -> day : 1
+earlier that day -> were : 1
+that day were -> one : 1
+day were one -> and : 1
+were one and -> the : 1
+one and the -> heart : 1
+and the heart -> beat : 1
+the heart beat -> a : 1
+heart beat a -> little : 1
+beat a little -> and : 1
+a little and -> i : 1
+little and i -> reminded : 1
+and i reminded -> myself : 1
+i reminded myself -> that : 1
+reminded myself that -> claire : 1
+myself that claire -> deserved : 1
+that claire deserved -> to : 1
+claire deserved to -> lose : 1
+deserved to lose -> the : 1
+to lose the -> in : 1
+lose the in -> she : 1
+the in she -> lost : 1
+in she lost -> all : 1
+she lost all -> i : 1
+lost all i -> had : 1
+all i had -> done : 1
+i had done -> was : 1
+had done was -> drain : 1
+done was drain -> the : 1
+was drain the -> brake : 1
+drain the brake -> fluid : 1
+the brake fluid -> in : 1
+brake fluid in -> her : 1
+fluid in her -> been : 1
+in her been -> feeling : 1
+her been feeling -> ill : 1
+been feeling ill -> when : 1
+feeling ill when -> i : 1
+ill when i -> so : 1
+ill when i -> and : 1
+when i so -> probably : 1
+i so probably -> not : 1
+so probably not -> even : 1
+probably not even -> gone : 1
+not even gone -> to : 1
+even gone to -> i : 1
+gone to i -> admit : 1
+to i admit -> that : 1
+i admit that -> i : 1
+admit that i -> gained : 1
+that i gained -> a : 1
+i gained a -> small : 1
+gained a small -> amount : 1
+a small amount -> of : 2
+small amount of -> perverse : 1
+small amount of -> light : 1
+amount of perverse -> pleasure : 1
+of perverse pleasure -> from : 1
+perverse pleasure from -> her : 1
+pleasure from her -> being : 1
+from her being -> my : 1
+her being my -> but : 1
+being my but -> not : 1
+my but not -> my : 1
+but not my -> so : 1
+not my so -> what : 1
+my so what -> did : 1
+so what did -> i : 1
+what did i -> care : 1
+did i care -> either : 1
+i care either -> blinked : 1
+care either blinked -> and : 1
+either blinked and -> the : 1
+blinked and the -> small : 1
+and the small -> face : 1
+the small face -> was : 1
+small face was -> my : 1
+face was my -> eyes : 1
+was my eyes -> wandered : 1
+my eyes wandered -> over : 1
+eyes wandered over -> the : 1
+wandered over the -> building : 1
+over the building -> confirming : 1
+the building confirming -> that : 1
+building confirming that -> it : 1
+confirming that it -> had : 1
+that it had -> to : 1
+it had to -> be : 1
+had to be -> peeling : 1
+to be peeling -> marred : 1
+be peeling marred -> further : 1
+peeling marred further -> by : 1
+marred further by -> some : 1
+further by some -> broken : 1
+by some broken -> windows : 1
+some broken windows -> on : 1
+broken windows on -> the : 1
+windows on the -> two : 1
+on the two -> upper : 1
+the two upper -> and : 1
+two upper and -> a : 1
+upper and a -> surprisingly : 1
+and a surprisingly -> although : 1
+a surprisingly although -> glass : 1
+surprisingly although glass -> entrance : 1
+although glass entrance -> a : 1
+glass entrance a -> faded : 1
+entrance a faded -> and : 1
+a faded and -> rusting : 1
+faded and rusting -> sign : 1
+and rusting sign -> above : 1
+rusting sign above -> the : 1
+sign above the -> entrance : 1
+above the entrance -> told : 1
+the entrance told -> me : 1
+entrance told me -> that : 1
+told me that -> this : 1
+told me that -> she : 1
+told me that -> the : 1
+me that this -> had : 1
+that this had -> once : 1
+this had once -> been : 1
+had once been -> a : 1
+once been a -> mind : 1
+been a mind -> filled : 1
+a mind filled -> with : 1
+mind filled with -> thoughts : 1
+filled with thoughts -> of : 1
+with thoughts of -> exploring : 1
+thoughts of exploring -> the : 1
+of exploring the -> although : 1
+exploring the although -> i : 1
+the although i -> to : 1
+although i to -> enter : 1
+i to enter -> the : 1
+to enter the -> i : 1
+enter the i -> was : 1
+the i was -> depressed : 1
+the i was -> drawn : 1
+the i was -> compelled : 1
+i was depressed -> and : 1
+was depressed and -> i : 1
+depressed and i -> recalled : 1
+and i recalled -> a : 1
+i recalled a -> song : 1
+recalled a song -> about : 1
+a song about -> having : 1
+song about having -> someone : 1
+about having someone -> soul : 1
+having someone soul -> and : 1
+someone soul and -> and : 1
+soul and and -> wanted : 1
+and and wanted -> nothing : 1
+and wanted nothing -> other : 1
+wanted nothing other -> than : 1
+nothing other than -> to : 1
+other than to -> climb : 1
+than to climb -> out : 1
+to climb out -> of : 1
+climb out of -> my : 1
+of my body -> and : 1
+my body and -> into : 1
+body and into -> someone : 1
+and into someone -> i : 1
+into someone i -> wanted : 1
+someone i wanted -> out : 1
+i wanted out -> of : 1
+wanted out of -> my : 1
+of my few -> hours : 1
+my few hours -> claire : 1
+few hours claire -> had : 1
+hours claire had -> told : 1
+claire had told -> me : 1
+had told me -> that : 1
+me that she -> had : 1
+that she had -> been : 1
+that she had -> abandoned : 1
+she had been -> having : 1
+had been having -> an : 1
+been having an -> and : 1
+having an and -> was : 1
+an and was -> i : 1
+and was i -> should : 1
+was i should -> probably : 1
+i should probably -> point : 1
+should probably point -> out : 1
+probably point out -> that : 1
+point out that -> she : 1
+out that she -> let : 1
+that she let -> me : 1
+she let me -> touch : 1
+let me touch -> her : 1
+me touch her -> in : 1
+touch her in -> over : 1
+her in over -> a : 1
+in over a -> to : 1
+over a to -> add : 1
+a to add -> insult : 1
+to add insult -> to : 1
+add insult to -> she : 1
+insult to she -> was : 1
+to she was -> leaving : 1
+she was leaving -> me : 1
+was leaving me -> for : 1
+leaving me for -> the : 1
+me for the -> other : 1
+me for the -> first : 1
+for the other -> now : 1
+the other now -> i : 1
+other now i -> had : 1
+now i had -> nothing : 1
+i had nothing -> left : 1
+had nothing left -> to : 1
+nothing left to -> live : 1
+left to live -> she : 1
+to live she -> had : 1
+live she had -> also : 1
+she had also -> told : 1
+had also told -> me : 1
+also told me -> that : 1
+me that the -> stupid : 1
+that the stupid -> cat : 1
+the stupid cat -> she : 1
+stupid cat she -> had : 1
+cat she had -> recently : 1
+she had recently -> acquired : 1
+had recently acquired -> had : 1
+recently acquired had -> been : 1
+acquired had been -> a : 1
+had been a -> gift : 1
+had been a -> hit : 1
+been a gift -> from : 1
+a gift from -> other : 1
+gift from other -> and : 1
+from other and -> not : 1
+other and not -> something : 1
+and not something -> she : 1
+not something she -> had : 1
+something she had -> rescued : 1
+she had rescued -> from : 1
+had rescued from -> the : 1
+rescued from the -> animal : 1
+from the animal -> one : 1
+the animal one -> last : 1
+animal one last -> slap : 1
+one last slap -> in : 1
+last slap in -> the : 1
+slap in the -> as : 1
+in the as -> if : 1
+the as if -> having : 1
+as if having -> another : 1
+if having another -> baby : 1
+having another baby -> bad : 1
+another baby bad -> rumbled : 1
+baby bad rumbled -> ominously : 1
+bad rumbled ominously -> above : 1
+rumbled ominously above -> and : 1
+ominously above and -> i : 1
+above and i -> found : 1
+and i found -> myself : 1
+i found myself -> standing : 1
+found myself standing -> right : 1
+myself standing right -> outside : 1
+standing right outside -> the : 1
+right outside the -> entrance : 1
+outside the entrance -> to : 1
+the entrance to -> the : 1
+entrance to the -> with : 1
+to the with -> no : 1
+the with no -> recollection : 1
+with no recollection -> of : 1
+no recollection of -> actually : 1
+recollection of actually -> walking : 1
+of actually walking -> was : 1
+actually walking was -> i : 1
+walking was i -> acting : 1
+was i acting -> on : 1
+i acting on -> a : 1
+acting on a -> subconscious : 1
+on a subconscious -> desire : 1
+a subconscious desire -> to : 1
+subconscious desire to -> explore : 1
+desire to explore -> the : 1
+to explore the -> building : 1
+explore the building -> and : 1
+the building and -> find : 1
+building and find -> the : 1
+and find the -> i : 1
+find the i -> was : 1
+i was drawn -> to : 1
+was drawn to -> the : 1
+drawn to the -> building : 1
+to the building -> in : 1
+to the building -> put : 1
+the building in -> a : 1
+building in a -> way : 1
+in a way -> i : 1
+a way i -> could : 1
+way i could -> not : 1
+i could not -> i : 1
+i could not -> rid : 1
+could not i -> was : 1
+not i was -> the : 1
+i was the -> negative : 1
+was the negative -> and : 1
+the negative and -> the : 1
+negative and the -> building : 1
+and the building -> the : 1
+the building the -> i : 1
+building the i -> was : 1
+i was compelled -> to : 1
+was compelled to -> albeit : 1
+compelled to albeit -> strong : 1
+to albeit strong -> gust : 1
+albeit strong gust -> of : 1
+strong gust of -> wind : 1
+gust of wind -> caused : 1
+of wind caused -> me : 1
+wind caused me -> to : 1
+caused me to -> lose : 1
+me to lose -> my : 1
+to lose my -> balance : 1
+lose my balance -> for : 1
+my balance for -> a : 1
+balance for a -> the : 1
+for a the -> sky : 1
+a the sky -> seemed : 1
+the sky seemed -> and : 1
+sky seemed and -> i : 1
+seemed and i -> glanced : 1
+and i glanced -> around : 1
+i glanced around -> to : 1
+glanced around to -> find : 1
+around to find -> myself : 1
+to find myself -> still : 1
+find myself still -> alone : 1
+myself still alone -> in : 1
+still alone in -> the : 1
+alone in the -> alone : 1
+in the alone -> and : 1
+the alone and -> far : 1
+alone and far -> from : 1
+and far from -> i : 1
+far from i -> scoffed : 1
+from i scoffed -> at : 1
+i scoffed at -> the : 1
+scoffed at the -> it : 1
+at the it -> home : 1
+at the it -> show : 1
+the it home -> i : 1
+it home i -> blinked : 1
+home i blinked -> my : 1
+i blinked my -> tears : 1
+blinked my tears -> away : 1
+my tears away -> before : 1
+tears away before -> i : 1
+away before i -> lost : 1
+before i lost -> control : 1
+i lost control -> of : 1
+lost control of -> my : 1
+control of my -> emotions : 1
+of my emotions -> i : 1
+my emotions i -> preferred : 1
+emotions i preferred -> numbness : 1
+i preferred numbness -> to : 1
+preferred numbness to -> i : 1
+numbness to i -> hated : 1
+to i hated -> her : 1
+i hated her -> for : 1
+hated her for -> her : 1
+her for her -> but : 1
+for her but -> i : 1
+her but i -> still : 1
+but i still -> loved : 1
+i still loved -> i : 1
+still loved i -> wanted : 1
+loved i wanted -> her : 1
+i wanted her -> i : 1
+wanted her i -> might : 1
+her i might -> forgive : 1
+i might forgive -> the : 1
+might forgive the -> past : 1
+forgive the past -> if : 1
+the past if -> only : 1
+past if only -> i : 1
+if only i -> could : 1
+only i could -> hold : 1
+i could hold -> her : 1
+could hold her -> in : 1
+hold her in -> my : 1
+her in my -> arms : 1
+in my arms -> just : 1
+my arms just -> one : 1
+arms just one -> more : 1
+just one more -> wiping : 1
+one more wiping -> my : 1
+more wiping my -> nose : 1
+wiping my nose -> on : 1
+my nose on -> my : 1
+nose on my -> coat : 1
+on my coat -> i : 1
+my coat i -> sniffed : 1
+coat i sniffed -> and : 1
+i sniffed and -> wondering : 1
+sniffed and wondering -> if : 1
+and wondering if -> she : 1
+wondering if she -> had : 1
+if she had -> used : 1
+she had used -> the : 1
+had used the -> car : 1
+used the car -> the : 1
+the car the -> sky : 1
+car the sky -> rained : 1
+the sky rained -> her : 1
+sky rained her -> tears : 1
+rained her tears -> down : 1
+her tears down -> on : 1
+tears down on -> i : 1
+down on i -> now : 1
+on i now -> had : 1
+i now had -> a : 1
+now had a -> choice : 1
+had a choice -> between : 1
+a choice between -> getting : 1
+choice between getting -> soaked : 1
+between getting soaked -> to : 1
+getting soaked to -> the : 1
+soaked to the -> skin : 1
+to the skin -> and : 1
+the skin and -> possibly : 1
+skin and possibly -> contracting : 1
+and possibly contracting -> or : 1
+possibly contracting or -> taking : 1
+contracting or taking -> shelter : 1
+or taking shelter -> in : 1
+taking shelter in -> the : 1
+shelter in the -> abandoned : 1
+in the abandoned -> sighing : 1
+the abandoned sighing -> i : 1
+abandoned sighing i -> entered : 1
+sighing i entered -> the : 1
+i entered the -> grimy : 1
+entered the grimy -> front : 1
+the grimy front -> which : 1
+grimy front which -> swung : 1
+front which swung -> open : 1
+which swung open -> a : 1
+swung open a -> little : 1
+open a little -> too : 1
+a little too -> i : 1
+little too i -> they : 1
+too i they -> have : 1
+i they have -> been : 1
+they have been -> stuck : 1
+have been stuck -> shut : 1
+been stuck shut -> with : 1
+stuck shut with -> dirt : 1
+shut with dirt -> or : 1
+with dirt or -> the : 1
+dirt or the -> lack : 1
+or the lack -> of : 1
+the lack of -> a : 1
+lack of a -> lock : 1
+of a lock -> and : 1
+a lock and -> the : 1
+lock and the -> ease : 1
+and the ease -> with : 1
+the ease with -> which : 1
+ease with which -> i : 1
+with which i -> had : 1
+which i had -> gained : 1
+i had gained -> access : 1
+had gained access -> to : 1
+gained access to -> the : 1
+access to the -> building : 1
+the building put -> me : 1
+building put me -> somewhat : 1
+put me somewhat -> on : 1
+me somewhat on -> dust : 1
+somewhat on dust -> inside : 1
+on dust inside -> immediately : 1
+dust inside immediately -> invaded : 1
+inside immediately invaded -> my : 1
+immediately invaded my -> nostrils : 1
+invaded my nostrils -> and : 1
+my nostrils and -> i : 1
+nostrils and i -> i : 1
+and i i -> turned : 1
+i i turned -> to : 1
+i turned to -> gaze : 1
+turned to gaze -> out : 1
+to gaze out -> at : 1
+gaze out at -> the : 1
+out at the -> it : 1
+the it show -> any : 1
+it show any -> sign : 1
+show any sign -> of : 1
+any sign of -> stopping : 1
+sign of stopping -> i : 1
+of stopping i -> really : 1
+stopping i really -> want : 1
+i really want -> to : 1
+really want to -> be : 1
+want to be -> stuck : 1
+to be stuck -> inside : 1
+be stuck inside -> an : 1
+stuck inside an -> building : 1
+inside an building -> all : 1
+an building all -> i : 1
+building all i -> decided : 1
+all i decided -> to : 1
+i decided to -> wait : 1
+decided to wait -> it : 1
+to wait it -> out : 1
+wait it out -> for : 1
+it out for -> no : 1
+out for no -> more : 1
+for no more -> than : 1
+no more than -> ten : 1
+more than ten -> and : 1
+than ten and -> then : 1
+ten and then -> just : 1
+and then just -> risk : 1
+then just risk -> if : 1
+just risk if -> the : 1
+risk if the -> rain : 1
+if the rain -> had : 1
+the rain had -> not : 1
+rain had not -> my : 1
+had not my -> back : 1
+not my back -> to : 1
+my back to -> the : 1
+back to the -> i : 1
+to the i -> examined : 1
+to the i -> fetched : 1
+the i examined -> the : 1
+i examined the -> the : 1
+examined the the -> reception : 1
+the the reception -> desk : 1
+the reception desk -> stood : 2
+reception desk stood -> which : 1
+reception desk stood -> displaying : 1
+desk stood which -> depressed : 1
+stood which depressed -> me : 1
+which depressed me -> even : 1
+depressed me even -> more : 1
+me even more -> for : 1
+even more for -> some : 1
+more for some -> behind : 1
+for some behind -> the : 1
+some behind the -> doors : 1
+behind the doors -> blew : 1
+the doors blew -> the : 1
+doors blew the -> grime : 1
+blew the grime -> coating : 1
+the grime coating -> effectively : 1
+grime coating effectively -> shutting : 1
+coating effectively shutting -> out : 1
+effectively shutting out -> what : 1
+shutting out what -> little : 1
+out what little -> light : 1
+what little light -> there : 1
+little light there -> had : 1
+light there had -> i : 1
+there had i -> had : 1
+had i had -> always : 1
+i had always -> been : 1
+had always been -> nervous : 1
+always been nervous -> of : 1
+been nervous of -> the : 1
+nervous of the -> and : 1
+of the and -> the : 1
+the and the -> darkness : 1
+and the darkness -> in : 1
+the darkness in -> this : 1
+darkness in this -> place : 1
+in this place -> awakened : 1
+this place awakened -> my : 1
+place awakened my -> paranoia : 1
+awakened my paranoia -> and : 1
+my paranoia and -> made : 1
+paranoia and made -> me : 1
+and made me -> feel : 1
+made me feel -> as : 1
+me feel as -> if : 1
+feel as if -> i : 1
+as if i -> should : 1
+as if i -> was : 1
+if i should -> run : 1
+i should run -> without : 1
+should run without -> looking : 1
+run without looking -> contemplated : 1
+without looking contemplated -> going : 1
+looking contemplated going -> in : 1
+contemplated going in -> search : 1
+going in search -> of : 1
+in search of -> the : 1
+search of the -> child : 1
+of the child -> i : 1
+the child i -> had : 1
+child i had -> seen : 1
+i had seen -> from : 1
+had seen from -> i : 1
+seen from i -> was : 1
+from i was -> in : 1
+i was in -> even : 1
+was in even -> less : 1
+in even less -> of : 1
+even less of -> a : 1
+less of a -> mood : 1
+of a mood -> to : 1
+a mood to -> stand : 1
+mood to stand -> around : 1
+to stand around -> doing : 1
+stand around doing -> nothing : 1
+around doing nothing -> than : 1
+doing nothing than -> i : 1
+nothing than i -> was : 1
+than i was -> to : 1
+i was to -> go : 1
+was to go -> especially : 1
+to go especially -> not : 1
+go especially not -> on : 1
+especially not on -> the : 1
+not on the -> dirty : 1
+on the dirty -> grey : 1
+the dirty grey -> worn : 1
+dirty grey worn -> almost : 1
+grey worn almost -> to : 1
+worn almost to -> the : 1
+almost to the -> my : 1
+to the my -> feet : 1
+the my feet -> felt : 1
+my feet felt -> filthy : 1
+feet felt filthy -> just : 1
+felt filthy just -> standing : 1
+filthy just standing -> on : 1
+just standing on -> even : 1
+standing on even -> with : 1
+on even with -> shoes : 1
+even with shoes -> i : 1
+with shoes i -> would : 1
+shoes i would -> go : 1
+i would go -> mad : 1
+would go mad -> if : 1
+go mad if -> i : 1
+mad if i -> stood : 1
+if i stood -> i : 1
+i stood i -> was : 1
+stood i was -> sure : 1
+i was sure -> of : 1
+was sure of -> despite : 1
+sure of despite -> what : 1
+of despite what -> claire : 1
+despite what claire -> had : 1
+what claire had -> done : 1
+claire had done -> to : 1
+had done to -> i : 1
+done to i -> felt : 1
+to i felt -> guilty : 1
+i felt guilty -> about : 1
+felt guilty about -> my : 1
+guilty about my -> murderous : 1
+about my murderous -> wiped : 1
+my murderous wiped -> away : 1
+murderous wiped away -> the : 1
+wiped away the -> dirt : 1
+away the dirt -> on : 1
+the dirt on -> the : 2
+dirt on the -> doors : 1
+dirt on the -> the : 1
+on the doors -> with : 1
+the doors with -> the : 1
+doors with the -> sleeve : 1
+with the sleeve -> of : 1
+the sleeve of -> my : 1
+sleeve of my -> allowing : 1
+of my allowing -> a : 1
+my allowing a -> small : 1
+allowing a small -> amount : 1
+amount of light -> with : 1
+of light with -> one : 1
+light with one -> last : 1
+with one last -> look : 1
+one last look -> outside : 1
+last look outside -> to : 1
+look outside to -> make : 1
+outside to make -> sure : 1
+to make sure -> that : 1
+make sure that -> the : 1
+sure that the -> rain : 1
+that the rain -> stopped : 1
+that the rain -> would : 1
+the rain stopped -> i : 1
+rain stopped i -> fumbled : 1
+stopped i fumbled -> for : 1
+i fumbled for -> my : 1
+fumbled for my -> cigarette : 1
+for my cigarette -> lighter : 1
+my cigarette lighter -> in : 1
+cigarette lighter in -> my : 1
+lighter in my -> coat : 1
+in my coat -> pocket : 1
+my coat pocket -> finding : 1
+coat pocket finding -> flicked : 1
+pocket finding flicked -> it : 1
+finding flicked it -> i : 1
+flicked it i -> made : 1
+it i made -> my : 1
+i made my -> way : 1
+made my way -> towards : 1
+my way towards -> the : 1
+way towards the -> staircase : 1
+towards the staircase -> to : 1
+the staircase to -> the : 1
+staircase to the -> left : 1
+to the left -> of : 1
+the left of -> the : 1
+left of the -> reception : 1
+of the reception -> trying : 1
+of the reception -> desk : 1
+the reception trying -> to : 1
+reception trying to -> ignore : 1
+trying to ignore -> my : 1
+to ignore my -> menacing : 1
+ignore my menacing -> the : 1
+my menacing the -> lift : 1
+menacing the lift -> doors : 1
+the lift doors -> to : 1
+the lift doors -> stood : 1
+lift doors to -> the : 1
+doors to the -> right : 1
+to the right -> of : 1
+the right of -> the : 1
+right of the -> reception : 1
+desk stood displaying -> the : 1
+stood displaying the -> dark : 1
+displaying the dark -> interior : 1
+the dark interior -> of : 1
+dark interior of -> the : 1
+interior of the -> but : 1
+of the but -> i : 1
+the but i -> prepared : 1
+but i prepared -> to : 1
+i prepared to -> risk : 1
+prepared to risk -> getting : 1
+to risk getting -> stuck : 1
+risk getting stuck -> in : 1
+getting stuck in -> an : 1
+stuck in an -> old : 1
+in an old -> lift : 1
+an old lift -> where : 1
+old lift where -> nobody : 1
+lift where nobody -> would : 1
+where nobody would -> ever : 1
+nobody would ever -> find : 1
+would ever find -> me : 1
+ever find me -> not : 1
+find me not -> with : 1
+me not with -> skin : 1
+not with skin -> on : 1
+with skin on -> my : 1
+skin on my -> at : 1
+on my at -> any : 1
+my at any -> it : 1
+at any it -> probably : 1
+any it probably -> work : 1
+it probably work -> i : 1
+probably work i -> thought : 1
+work i thought -> of : 1
+i thought of -> stomach : 1
+thought of stomach -> and : 1
+of stomach and -> started : 1
+stomach and started -> up : 1
+and started up -> the : 1
+started up the -> dark : 1
+up the dark -> was : 1
+the dark was -> irrationally : 1
+dark was irrationally -> convinced : 1
+convinced that the -> rain : 1
+the rain would -> hide : 1
+rain would hide -> any : 1
+would hide any -> furtive : 1
+hide any furtive -> movements : 1
+any furtive movements -> behind : 1
+furtive movements behind -> and : 1
+movements behind and -> turned : 1
+behind and turned -> back : 1
+and turned back -> to : 1
+turned back to -> hold : 1
+back to hold -> my : 1
+to hold my -> light : 1
+hold my light -> out : 1
+my light out -> behind : 1
+light out behind -> just : 1
+out behind just -> in : 1
+behind just in -> the : 1
+just in the -> shadows : 1
+in the shadows -> were : 1
+the shadows were -> somewhat : 1
+shadows were somewhat -> deeper : 1
+were somewhat deeper -> in : 1
+somewhat deeper in -> the : 1
+deeper in the -> narrow : 1
+in the narrow -> and : 1
+the narrow and -> i : 1
+narrow and i -> jumped : 1
+and i jumped -> as : 1
+i jumped as -> i : 1
+jumped as i -> caught : 1
+as i caught -> movement : 1
+i caught movement -> out : 1
+caught movement out -> of : 1
+movement out of -> the : 1
+out of the -> corner : 1
+of the corner -> of : 1
+the corner of -> my : 1
+corner of my -> my : 1
+of my my -> back : 1
+my my back -> against : 1
+my back against -> the : 1
+back against the -> i : 1
+against the i -> heaved : 1
+the i heaved -> a : 1
+i heaved a -> huge : 1
+heaved a huge -> sigh : 1
+a huge sigh -> of : 1
+huge sigh of -> relief : 1
+sigh of relief -> when : 1
+of relief when -> i : 1
+relief when i -> realised : 1
+when i realised -> i : 1
+i realised i -> had : 1
+i realised i -> needed : 1
+realised i had -> been : 1
+i had been -> scared : 1
+had been scared -> by : 1
+been scared by -> my : 1
+scared by my -> own : 1
+by my own -> a : 1
+my own a -> deep : 1
+own a deep -> i : 1
+a deep i -> said : 1
+deep i said -> a : 1
+i said a -> silent : 1
+said a silent -> prayer : 1
+a silent prayer -> of : 1
+silent prayer of -> thanks : 1
+prayer of thanks -> to : 1
+of thanks to -> nobody : 1
+thanks to nobody -> in : 1
+to nobody in -> particular : 1
+nobody in particular -> that : 1
+in particular that -> there : 1
+particular that there -> were : 1
+that there were -> no : 1
+there were no -> cobwebs : 1
+there were no -> more : 1
+were no cobwebs -> blocking : 1
+no cobwebs blocking -> my : 1
+cobwebs blocking my -> i : 1
+blocking my i -> hated : 1
+my i hated -> claire : 1
+i hated claire -> had : 1
+hated claire had -> always : 1
+claire had always -> laughed : 1
+had always laughed -> at : 1
+always laughed at -> me : 1
+laughed at me -> for : 1
+at me for -> since : 1
+me for since -> she : 1
+for since she -> thought : 1
+since she thought -> it : 1
+she thought it -> was : 1
+thought it was -> a : 1
+it was a -> ridiculous : 1
+it was a -> i : 1
+was a ridiculous -> fear : 1
+a ridiculous fear -> for : 1
+ridiculous fear for -> a : 1
+fear for a -> i : 1
+for a i -> cringed : 1
+a i cringed -> at : 1
+i cringed at -> the : 1
+cringed at the -> although : 1
+at the although -> the : 1
+the although the -> stairs : 1
+although the stairs -> were : 1
+the stairs were -> i : 1
+stairs were i -> imagined : 1
+were i imagined -> i : 1
+i imagined i -> heard : 1
+imagined i heard -> them : 1
+i heard them -> creaking : 1
+heard them creaking -> under : 1
+them creaking under -> my : 1
+creaking under my -> something : 1
+under my something -> seemingly : 1
+my something seemingly -> from : 1
+something seemingly from -> within : 1
+seemingly from within -> the : 1
+from within the -> and : 1
+within the and -> i : 1
+the and i -> climbed : 1
+and i climbed -> not : 1
+i climbed not -> enjoying : 1
+climbed not enjoying -> the : 1
+not enjoying the -> growing : 1
+enjoying the growing -> sense : 1
+the growing sense -> of : 1
+growing sense of -> creepiness : 1
+sense of creepiness -> that : 1
+of creepiness that -> rapidly : 1
+creepiness that rapidly -> threatened : 1
+that rapidly threatened -> to : 1
+rapidly threatened to -> snap : 1
+threatened to snap -> my : 1
+to snap my -> the : 1
+snap my the -> third : 1
+my the third -> i : 1
+the third i -> stepped : 1
+third i stepped -> into : 1
+i stepped into -> a : 1
+stepped into a -> narrow : 1
+into a narrow -> passageway : 1
+a narrow passageway -> with : 1
+narrow passageway with -> doors : 1
+passageway with doors -> on : 1
+with doors on -> either : 1
+doors on either -> although : 1
+on either although -> some : 1
+either although some -> light : 1
+although some light -> filtered : 1
+some light filtered -> into : 1
+light filtered into -> the : 1
+filtered into the -> passage : 1
+into the passage -> from : 1
+the passage from -> the : 1
+passage from the -> open : 1
+from the open -> at : 1
+the open at -> the : 1
+open at the -> other : 1
+at the other -> the : 1
+the other the -> lift : 1
+other the lift -> doors : 1
+lift doors stood -> rumbling : 1
+doors stood rumbling -> i : 1
+stood rumbling i -> blinked : 1
+rumbling i blinked -> was : 1
+i blinked was -> that : 1
+blinked was that -> the : 1
+was that the -> lift : 1
+that the lift -> had : 1
+the lift had -> been : 1
+lift had been -> in : 1
+had been in -> the : 1
+been in the -> foyer : 1
+in the foyer -> so : 1
+the foyer so -> how : 1
+foyer so how -> could : 1
+so how could -> it : 1
+how could it -> possibly : 1
+could it possibly -> be : 1
+it possibly be -> up : 1
+possibly be up -> unless : 1
+be up unless -> someone : 1
+up unless someone -> had : 1
+unless someone had -> used : 1
+someone had used -> it : 1
+had used it -> during : 1
+used it during -> my : 1
+it during my -> walk : 1
+during my walk -> a : 1
+my walk a -> chill : 1
+walk a chill -> crept : 1
+a chill crept -> through : 1
+chill crept through -> me : 1
+crept through me -> and : 1
+through me and -> i : 1
+and i decided -> i : 1
+i decided i -> want : 1
+decided i want -> to : 1
+i want to -> find : 1
+i want to -> stay : 1
+want to find -> that : 1
+to find that -> nor : 1
+find that nor -> did : 1
+that nor did -> i : 1
+nor did i -> want : 1
+did i want -> to : 1
+want to stay -> i : 1
+to stay i -> half : 1
+stay i half -> half : 1
+i half half -> stumbled : 1
+half half stumbled -> back : 1
+half stumbled back -> down : 1
+stumbled back down -> the : 1
+back down the -> i : 1
+down the i -> i : 1
+down the i -> reached : 1
+the i i -> had : 1
+i i had -> a : 1
+i had a -> terrifyingly : 1
+had a terrifyingly -> clear : 1
+a terrifyingly clear -> vision : 1
+terrifyingly clear vision -> of : 1
+clear vision of -> a : 1
+vision of a -> hand : 1
+of a hand -> reaching : 1
+a hand reaching -> towards : 1
+hand reaching towards -> the : 1
+reaching towards the -> back : 1
+towards the back -> of : 1
+the back of -> my : 2
+back of my -> neck : 1
+back of my -> i : 1
+of my neck -> and : 1
+my neck and -> i : 1
+neck and i -> thought : 1
+and i thought -> claire : 1
+i thought claire -> whispered : 1
+thought claire whispered -> to : 1
+claire whispered to -> come : 1
+whispered to come -> play : 1
+to come play -> with : 1
+come play with -> the : 1
+play with the -> was : 1
+with the was -> claire : 1
+the was claire -> was : 1
+was claire was -> not : 1
+claire was not -> she : 1
+was not she -> in : 1
+not she in -> the : 1
+she in the -> i : 1
+in the i -> realised : 1
+the i realised -> i : 1
+realised i needed -> to : 1
+i needed to -> regain : 1
+needed to regain -> control : 1
+to regain control -> of : 1
+regain control of -> and : 1
+control of and -> stopped : 1
+of and stopped -> just : 1
+and stopped just -> before : 1
+stopped just before -> the : 1
+just before the -> i : 1
+before the i -> leant : 1
+the i leant -> against : 1
+i leant against -> the : 1
+leant against the -> trying : 1
+against the trying -> to : 1
+the trying to -> calm : 1
+trying to calm -> my : 1
+to calm my -> ragged : 1
+calm my ragged -> i : 1
+my ragged i -> resisted : 1
+ragged i resisted -> the : 1
+i resisted the -> urge : 2
+resisted the urge -> to : 2
+the urge to -> while : 1
+the urge to -> throw : 1
+urge to while -> listening : 1
+to while listening -> for : 1
+while listening for -> an : 1
+listening for an -> indication : 1
+for an indication -> that : 1
+an indication that -> i : 1
+indication that i -> was : 1
+that i was -> not : 1
+i was not -> i : 1
+was not i -> could : 1
+not i could -> be : 1
+i could be -> such : 1
+could be such -> an : 1
+be such an -> imbecile : 1
+such an imbecile -> of : 1
+an imbecile of -> i : 1
+imbecile of i -> was : 1
+of i was -> i : 1
+i was i -> stood : 1
+was i stood -> up : 1
+i stood up -> straight : 1
+stood up straight -> and : 1
+up straight and -> walked : 1
+straight and walked -> further : 1
+and walked further -> down : 1
+walked further down -> the : 1
+further down the -> i : 1
+the i reached -> the : 1
+i reached the -> the : 1
+i reached the -> front : 1
+reached the the -> stairwell : 1
+the the stairwell -> door : 1
+the stairwell door -> upstairs : 1
+stairwell door upstairs -> slammed : 1
+door upstairs slammed -> and : 1
+upstairs slammed and -> the : 1
+slammed and the -> of : 1
+and the of -> little : 1
+the of little -> footsteps : 1
+of little footsteps -> running : 1
+little footsteps running -> down : 1
+footsteps running down -> after : 1
+running down after -> me : 1
+down after me -> echoed : 1
+after me echoed -> through : 1
+me echoed through -> the : 1
+echoed through the -> i : 1
+through the i -> swear : 1
+the i swear -> my : 1
+i swear my -> blood : 1
+swear my blood -> froze : 1
+my blood froze -> in : 1
+blood froze in -> that : 1
+froze in that -> and : 1
+in that and -> my : 1
+that and my -> feet : 1
+and my feet -> grew : 1
+my feet grew -> wings : 1
+feet grew wings -> as : 1
+grew wings as -> i : 1
+wings as i -> flew : 1
+as i flew -> the : 1
+i flew the -> rest : 1
+flew the rest -> of : 1
+the rest of -> the : 1
+rest of the -> way : 1
+of the way -> down : 1
+the way down -> the : 1
+way down the -> finally : 1
+down the finally -> reaching : 1
+the finally reaching -> the : 1
+finally reaching the -> downstairs : 1
+reaching the downstairs -> reception : 1
+the downstairs reception -> area : 1
+downstairs reception area -> after : 1
+reception area after -> what : 1
+area after what -> seemed : 1
+after what seemed -> like : 1
+what seemed like -> an : 1
+seemed like an -> eternity : 1
+like an eternity -> of : 1
+an eternity of -> being : 1
+eternity of being -> i : 1
+of being i -> ran : 1
+being i ran -> straight : 1
+i ran straight -> for : 1
+ran straight for -> the : 1
+straight for the -> outside : 1
+for the outside -> but : 1
+the outside but -> was : 1
+outside but was -> halted : 1
+but was halted -> by : 1
+was halted by -> a : 1
+halted by a -> firm : 1
+by a firm -> tug : 1
+a firm tug -> at : 1
+firm tug at -> the : 1
+tug at the -> back : 1
+at the back -> of : 1
+of my i -> whirled : 1
+my i whirled -> to : 1
+i whirled to -> face : 1
+whirled to face -> my : 1
+to face my -> only : 1
+face my only -> to : 1
+my only to -> discover : 1
+only to discover -> that : 1
+to discover that -> my : 1
+discover that my -> coat : 1
+that my coat -> had : 1
+my coat had -> caught : 1
+coat had caught -> on : 1
+had caught on -> a : 1
+caught on a -> rusty : 1
+on a rusty -> nail : 1
+a rusty nail -> protruding : 1
+rusty nail protruding -> from : 1
+nail protruding from -> the : 1
+protruding from the -> stairwell : 1
+from the stairwell -> let : 1
+the stairwell let -> out : 1
+stairwell let out -> a : 1
+let out a -> choked : 1
+out a choked -> giggle : 1
+a choked giggle -> as : 1
+choked giggle as -> i : 1
+giggle as i -> unhooked : 1
+as i unhooked -> a : 1
+i unhooked a -> giggle : 1
+unhooked a giggle -> that : 1
+a giggle that -> was : 1
+giggle that was -> cut : 1
+that was cut -> short : 1
+was cut short -> when : 1
+cut short when -> i : 1
+short when i -> reached : 1
+when i reached -> the : 1
+when i reached -> under : 1
+reached the front -> a : 1
+the front a -> childish : 1
+front a childish -> smiley : 1
+a childish smiley -> face : 1
+childish smiley face -> had : 1
+smiley face had -> been : 1
+face had been -> drawn : 1
+had been drawn -> in : 1
+been drawn in -> the : 1
+drawn in the -> dirt : 1
+in the dirt -> on : 1
+on the the -> cold : 1
+the the cold -> sweat : 1
+the cold sweat -> covering : 1
+cold sweat covering -> my : 1
+sweat covering my -> face : 1
+covering my face -> seemed : 1
+my face seemed -> to : 1
+face seemed to -> seep : 1
+seemed to seep -> back : 1
+to seep back -> into : 1
+seep back into -> my : 1
+back into my -> pores : 1
+into my pores -> and : 1
+my pores and -> freeze : 1
+pores and freeze -> my : 1
+and freeze my -> i : 1
+freeze my i -> maintain : 1
+my i maintain -> to : 1
+i maintain to -> this : 1
+maintain to this -> day : 1
+to this day -> that : 1
+this day that -> a : 1
+day that a -> giggles : 1
+that a giggles -> came : 1
+a giggles came -> from : 1
+giggles came from -> behind : 1
+came from behind -> along : 1
+from behind along -> with : 1
+behind along with -> the : 1
+along with the -> sound : 1
+with the sound -> of : 1
+the sound of -> light : 1
+sound of light -> footsteps : 1
+of light footsteps -> gaining : 1
+light footsteps gaining -> on : 1
+footsteps gaining on -> outside : 1
+gaining on outside -> doors : 1
+on outside doors -> and : 1
+outside doors and -> i : 1
+doors and i -> struggled : 1
+doors and i -> stumbled : 1
+and i struggled -> to : 1
+i struggled to -> pull : 1
+struggled to pull -> them : 1
+to pull them -> it : 1
+pull them it -> had : 1
+them it had -> seemed : 1
+it had seemed -> so : 1
+had seemed so -> easy : 1
+seemed so easy -> to : 1
+so easy to -> open : 1
+easy to open -> them : 1
+to open them -> pure : 1
+open them pure -> adrenaline : 1
+them pure adrenaline -> brought : 1
+pure adrenaline brought -> on : 1
+adrenaline brought on -> by : 1
+brought on by -> frenzied : 1
+on by frenzied -> fear : 1
+by frenzied fear -> gave : 1
+frenzied fear gave -> me : 1
+fear gave me -> strength : 1
+gave me strength -> to : 1
+me strength to -> yank : 1
+strength to yank -> the : 1
+to yank the -> doors : 1
+yank the doors -> and : 1
+the doors and -> i : 1
+and i stumbled -> into : 1
+i stumbled into -> the : 1
+stumbled into the -> not : 1
+into the not -> daring : 1
+the not daring -> to : 1
+not daring to -> look : 1
+daring to look -> behind : 1
+to look behind -> i : 1
+to look behind -> me : 1
+look behind i -> ran : 1
+behind i ran -> back : 1
+i ran back -> the : 1
+ran back the -> way : 1
+back the way -> i : 1
+the way i -> had : 1
+way i had -> desperately : 1
+i had desperately -> searching : 1
+had desperately searching -> for : 1
+desperately searching for -> another : 1
+searching for another -> soul : 1
+for another soul -> so : 1
+another soul so -> i : 1
+soul so i -> would : 1
+so i would -> not : 1
+i would not -> feel : 1
+would not feel -> so : 1
+not feel so -> devastatingly : 1
+feel so devastatingly -> as : 1
+so devastatingly as -> i : 1
+devastatingly as i -> lungs : 1
+as i lungs -> it : 1
+i lungs it -> seemed : 1
+lungs it seemed -> almost : 1
+it seemed almost -> as : 1
+seemed almost as -> if : 1
+almost as if -> i : 1
+if i was -> no : 1
+i was no -> longer : 1
+was no longer -> unknown : 1
+no longer unknown -> but : 1
+longer unknown but -> i : 1
+unknown but i -> her : 1
+but i her -> to : 1
+i her to -> ran : 1
+her to ran -> three : 1
+to ran three -> blocks : 1
+ran three blocks -> before : 1
+three blocks before -> i : 1
+blocks before i -> found : 1
+before i found -> another : 1
+i found another -> and : 1
+found another and -> slowed : 1
+another and slowed -> to : 1
+and slowed to -> a : 1
+slowed to a -> brisk : 1
+to a brisk -> walk : 1
+a brisk walk -> when : 1
+brisk walk when -> i : 1
+walk when i -> reached : 1
+i reached under -> the : 1
+reached under the -> pretence : 1
+under the pretence -> of : 1
+the pretence of -> asking : 1
+pretence of asking -> him : 1
+of asking him -> for : 1
+asking him for -> the : 1
+him for the -> i : 1
+for the i -> took : 1
+the i took -> the : 1
+i took the -> opportunity : 1
+took the opportunity -> to : 1
+the opportunity to -> look : 1
+opportunity to look -> behind : 1
+look behind me -> for : 1
+behind me for -> the : 1
+for the first -> it : 1
+the first it -> appeared : 1
+first it appeared -> that : 1
+it appeared that -> i : 1
+appeared that i -> had : 1
+i had not -> been : 1
+had not been -> i : 1
+not been i -> could : 1
+been i could -> not : 1
+could not rid -> myself : 1
+not rid myself -> of : 1
+rid myself of -> the : 1
+myself of the -> fear : 1
+of the fear -> that : 1
+the fear that -> seemed : 1
+fear that seemed -> to : 1
+that seemed to -> have : 1
+seemed to have -> permeated : 1
+to have permeated -> my : 1
+have permeated my -> very : 1
+permeated my very -> although : 1
+my very although -> there : 1
+very although there -> were : 1
+although there were -> no : 1
+were no more -> childish : 1
+no more childish -> giggles : 1
+more childish giggles -> and : 1
+childish giggles and -> little : 1
+giggles and little -> i : 1
+and little i -> still : 1
+little i still -> felt : 1
+i still felt -> the : 1
+still felt the -> need : 1
+felt the need -> to : 1
+the need to -> look : 1
+need to look -> over : 1
+to look over -> my : 1
+look over my -> shoulder : 1
+over my shoulder -> every : 1
+my shoulder every -> few : 1
+shoulder every few -> by : 1
+every few by -> the : 1
+few by the -> time : 1
+by the time -> i : 1
+the time i -> got : 1
+time i got -> i : 1
+i got i -> was : 1
+got i was -> nauseated : 1
+i was nauseated -> by : 1
+was nauseated by -> a : 1
+nauseated by a -> feeling : 1
+by a feeling -> of : 1
+feeling of stepping -> into : 1
+of stepping into -> my : 1
+stepping into my -> flat : 1
+into my flat -> and : 1
+my flat and -> seeing : 1
+flat and seeing -> the : 1
+and seeing the -> familiar : 1
+seeing the familiar -> comforts : 1
+the familiar comforts -> of : 1
+familiar comforts of -> home : 1
+comforts of home -> did : 1
+of home did -> nothing : 1
+home did nothing -> to : 1
+did nothing to -> ease : 1
+nothing to ease -> the : 1
+to ease the -> sickening : 1
+ease the sickening -> lurching : 1
+the sickening lurching -> of : 1
+sickening lurching of -> my : 1
+lurching of my -> the : 1
+of my the -> damn : 1
+my the damn -> cat : 1
+the damn cat -> seemed : 1
+damn cat seemed -> to : 1
+cat seemed to -> look : 1
+seemed to look -> at : 1
+to look at -> me : 1
+look at me -> as : 1
+at me as -> if : 1
+me as if -> it : 1
+as if it -> knew : 1
+if it knew -> something : 1
+it knew something -> i : 1
+knew something i -> i : 1
+something i i -> went : 1
+i i went -> into : 1
+i went into -> the : 1
+went into the -> kitchen : 1
+into the kitchen -> to : 1
+the kitchen to -> grab : 1
+kitchen to grab -> a : 1
+to grab a -> beer : 1
+grab a beer -> while : 1
+a beer while -> the : 1
+beer while the -> feline : 1
+while the feline -> sat : 1
+the feline sat -> in : 1
+feline sat in -> a : 1
+sat in a -> shaggy : 1
+in a shaggy -> heap : 1
+a shaggy heap -> of : 1
+shaggy heap of -> ginger : 1
+heap of ginger -> fur : 1
+of ginger fur -> on : 1
+ginger fur on -> the : 1
+fur on the -> faded : 1
+on the faded -> leather : 1
+the faded leather -> following : 1
+faded leather following -> my : 1
+leather following my -> every : 1
+following my every -> move : 1
+my every move -> with : 1
+every move with -> its : 1
+move with its -> sarcastic : 1
+with its sarcastic -> green : 1
+its sarcastic green -> i : 1
+sarcastic green i -> resisted : 1
+green i resisted -> the : 1
+urge to throw -> the : 1
+to throw the -> beer : 1
+throw the beer -> bottle : 1
+the beer bottle -> at : 1
+the beer bottle -> against : 1
+beer bottle at -> the : 1
+bottle at the -> mangy : 1
+at the mangy -> phone : 1
+the mangy phone -> rang : 1
+mangy phone rang -> and : 1
+phone rang and -> i : 1
+rang and i -> ignored : 1
+and i ignored -> it : 1
+i ignored it -> was : 1
+ignored it was -> probably : 1
+it was probably -> for : 1
+was probably for -> i : 1
+probably for i -> realised : 1
+for i realised -> that : 1
+i realised that -> she : 1
+realised that she -> seem : 1
+that she seem -> to : 1
+she seem to -> be : 1
+seem to be -> the : 1
+to be the -> flat : 1
+be the flat -> was : 1
+the flat was -> i : 1
+flat was i -> had : 1
+was i had -> expected : 1
+i had expected -> her : 1
+had expected her -> to : 1
+expected her to -> be : 1
+her to be -> been : 1
+to be been -> ill : 1
+be been ill -> when : 1
+been ill when -> i : 1
+when i and -> she : 1
+i and she -> had : 1
+and she had -> said : 1
+she had said -> she : 1
+had said she -> was : 1
+said she was -> only : 1
+she was only -> moving : 1
+was only moving -> out : 1
+only moving out -> over : 1
+moving out over -> the : 1
+out over the -> panic : 1
+over the panic -> crept : 1
+the panic crept -> into : 1
+panic crept into -> my : 1
+crept into my -> being : 1
+into my being -> as : 1
+my being as -> i : 1
+being as i -> hurriedly : 1
+as i hurriedly -> searched : 1
+i hurriedly searched -> the : 1
+hurriedly searched the -> small : 1
+searched the small -> her : 1
+the small her -> clothes : 1
+small her clothes -> and : 1
+her clothes and -> were : 1
+clothes and were -> still : 1
+and were still -> i : 1
+were still i -> wondered : 1
+still i wondered -> where : 1
+i wondered where -> then : 1
+wondered where then -> i : 1
+where then i -> to : 1
+then i to -> her : 1
+i to her -> i : 1
+to her i -> hurled : 1
+her i hurled -> the : 1
+i hurled the -> beer : 1
+hurled the beer -> bottle : 1
+beer bottle against -> the : 1
+bottle against the -> lounge : 1
+against the lounge -> phone : 1
+the lounge phone -> had : 1
+lounge phone had -> stopped : 1
+phone had stopped -> ringing : 1
+had stopped ringing -> and : 1
+stopped ringing and -> someone : 1
+ringing and someone -> had : 1
+and someone had -> left : 1
+someone had left -> a : 1
+had left a -> voice : 1
+left a voice -> it : 1
+a voice it -> was : 1
+voice it was -> a : 1
+was a i -> walked : 1
+a i walked -> over : 1
+i walked over -> to : 1
+walked over to -> the : 1
+over to the -> old : 1
+over to the -> grabbed : 1
+to the old -> machine : 1
+the old machine -> and : 1
+old machine and -> roughly : 1
+machine and roughly -> pushed : 1
+and roughly pushed -> the : 1
+roughly pushed the -> replay : 1
+pushed the replay -> after : 1
+the replay after -> listening : 1
+replay after listening -> to : 1
+after listening to -> the : 1
+listening to the -> i : 1
+the i fetched -> another : 1
+i fetched another -> beer : 1
+fetched another beer -> from : 1
+another beer from -> the : 1
+beer from the -> it : 1
+from the it -> was : 1
+the it was -> the : 1
+it was the -> i : 1
+was the i -> made : 1
+the i made -> a : 1
+i made a -> mental : 1
+made a mental -> note : 1
+a mental note -> to : 1
+mental note to -> buy : 1
+note to buy -> more : 1
+to buy more -> the : 1
+buy more the -> next : 1
+more the next -> i : 1
+the next i -> sauntered : 1
+next i sauntered -> over : 1
+i sauntered over -> to : 1
+sauntered over to -> the : 1
+to the grabbed -> it : 1
+the grabbed it -> by : 1
+grabbed it by -> the : 1
+it by the -> scruff : 1
+by the scruff -> in : 1
+the scruff in -> one : 1
+scruff in one -> vicious : 1
+in one vicious -> flung : 1
+one vicious flung -> it : 1
+vicious flung it -> to : 1
+flung it to -> the : 1
+it to the -> it : 1
+to the it -> yowled : 1
+the it yowled -> and : 1
+it yowled and -> glared : 1
+yowled and glared -> at : 1
+and glared at -> me : 1
+glared at me -> with : 1
+at me with -> was : 1
+me with was -> an : 1
+with was an -> the : 1
+was an the -> message : 1
+an the message -> had : 1
+the message had -> it : 1
+message had it -> had : 1
+had it had -> been : 1
+it had been -> a : 1
+been a hit -> and : 1
+a hit and -> i : 1
+hit and i -> sank : 1
+and i sank -> onto : 1
+i sank onto -> the : 1
+sank onto the -> couch : 1
+onto the couch -> in : 1
+the couch in -> a : 1
+couch in a -> sense : 1
+in a sense -> of : 1
+a sense of -> numb : 1
+sense of numb -> disbelief : 1
+of numb disbelief -> been : 1
+numb disbelief been -> the : 1
+disbelief been the -> cause : 1
+been the cause -> of : 1
+the cause of -> her : 1
+cause of her -> at : 1
+of her at -> least : 1
+her at least -> she : 1
+at least she -> with : 1
+least she with -> her : 1
+she with her -> i : 1
+with her i -> wondered : 1
+her i wondered -> how : 1
+i wondered how -> he : 1
+wondered how he -> would : 1
+how he would -> feel : 1
+he would feel -> when : 1
+would feel when -> he : 1
+feel when he -> discovered : 1
+when he discovered -> that : 1
+he discovered that -> she : 1
+discovered that she -> had : 1
+she had abandoned -> new : 1
+had abandoned new -> to : 1
+abandoned new to -> can : 1
+new to can -> be : 1
+to can be -> purchased : 1
+can be purchased -> in : 1
+be purchased in -> print : 1
+purchased in print -> on : 1
+in print on -> books : 1
+print on books -> by : 1
+on books by -> vanessa : 1
+books by vanessa -> lighted : 1
+by vanessa lighted -> been : 1
+vanessa lighted been -> by : 1
+lighted been by -> a : 1
+been by a -> street : 1
+by a street -> with : 1
+a street with -> me : 1

@@ -1,0 +1,5239 @@
+wakker : 1
+mengeling : 1
+zeep : 1
+parfum : 1
+pasgewassen : 1
+boog : 1
+lipstick : 1
+vlek : 1
+wang : 1
+zeven : 1
+sleurde : 1
+geest : 1
+koele : 1
+ochtendlucht : 1
+slaapkamer : 1
+heupen : 1
+vastpakken : 1
+dook : 1
+soepel : 1
+vroege : 1
+late : 1
+leg : 1
+goeie : 1
+knipoogde : 1
+snel : 1
+volgde : 1
+magere : 1
+vochtige : 1
+pantoffels : 1
+verende : 1
+tred : 1
+hardhouten : 1
+vrouw : 1
+wekken : 1
+warme : 1
+douche : 1
+schoor : 1
+badkamerraam : 1
+frisse : 1
+najaarswind : 1
+kleedde : 1
+schonk : 1
+veranda : 1
+golven : 1
+sloegen : 1
+rommelend : 1
+onweer : 1
+arm : 1
+middel : 1
+spijkerbroek : 1
+zijdezachte : 1
+opzij : 1
+geef : 1
+les : 1
+tennisschoenen : 1
+chaise : 1
+longue : 1
+zitten : 1
+veters : 1
+doet : 1
+slokje : 1
+ontgaat : 1
+collega : 1
+eerst : 1
+beaamde : 1
+geeft : 1
+betere : 1
+kerels : 1
+tien : 1
+kapsel : 1
+opknapbeurt : 1
+sexy : 1
+verrekte : 1
+grap : 1
+glimlach : 1
+ken : 1
+grappen : 1
+ligt : 1
+grijnsde : 1
+tong : 1
+menselijke : 1
+werk : 1
+lost : 1
+problemen : 1
+zoekt : 1
+oplossing : 1
+volgens : 1
+helemaal : 1
+doorgedrongen : 1
+mensenlevens : 1
+tenen : 1
+yogahouding : 1
+chinees : 1
+verandert : 1
+hielen : 1
+opnieuw : 1
+voordeur : 1
+eentje : 1
+horizon : 1
+wolken : 1
+lieten : 1
+nauwelijks : 1
+strand : 1
+politiebureau : 1
+doughnut : 1
+kopen : 1
+lichten : 1
+koffiekopje : 1
+sleutels : 1
+bungelen : 1
+schemerige : 1
+gang : 1
+schoot : 1
+jasje : 1
+verbazing : 1
+bei : 1
+trapje : 1
+bruine : 1
+regenjas : 1
+zakken : 1
+praktische : 1
+schoenen : 1
+platte : 1
+lichte : 1
+buiging : 1
+sorry : 1
+uw : 1
+zaak : 1
+dankbaar : 1
+krijg : 1
+bewijzen : 1
+verwacht : 1
+lokken : 1
+beter : 1
+hierheen : 1
+persoonlijk : 1
+slecht : 1
+verscheen : 1
+frons : 1
+melding : 1
+binnengekomen : 1
+blijkbaar : 1
+inbraak : 1
+william : 1
+rood : 1
+ruitenwissers : 1
+duwden : 1
+hagelkorreltjes : 1
+piepend : 1
+wegen : 1
+vlakten : 1
+ten : 1
+noorden : 1
+lagen : 1
+grauw : 1
+uitgestorven : 1
+aarzeling : 1
+persoonlijke : 1
+durfde : 1
+verkeerslicht : 1
+sprong : 1
+gericht : 1
+inspecteur : 1
+noem : 1
+resoluut : 1
+gepast : 1
+mags : 1
+spot : 1
+serieus : 1
+prettig : 1
+glimlachte : 1
+niettemin : 1
+steken : 1
+wilden : 1
+nergens : 1
+kennen : 1
+tweedejaars : 1
+zachte : 1
+onprettig : 1
+evengoed : 1
+studietijd : 1
+jong : 1
+allen : 1
+wereldproblemen : 1
+eventjes : 1
+tafel : 1
+begrijp : 1
+zij : 1
+gehad : 1
+luidkeels : 1
+publiekelijk : 1
+regering : 1
+angst : 1
+gearresteerd : 1
+intimiderende : 1
+onredelijk : 1
+verwachten : 1
+sneller : 1
+na : 1
+dus : 1
+gebeurt : 1
+onwillekeurig : 1
+vergelijken : 1
+besef : 1
+band : 1
+hecht : 1
+fronste : 1
+wenkbrauwen : 1
+vorige : 1
+maand : 1
+afstand : 1
+echtscheiding : 1
+ontdekte : 1
+verhouding : 1
+brug : 1
+zwart : 1
+beukte : 1
+eenmaal : 1
+noordelijke : 1
+drie : 1
+kilometer : 1
+politiewagen : 1
+berm : 1
+highway : 1
+knikte : 1
+agent : 1
+links : 1
+onverharde : 1
+weleens : 1
+jonger : 1
+vertel : 1
+zegt : 1
+enorme : 1
+puinhoop : 1
+kapot : 1
+schotwond : 1
+legde : 1
+politiewagens : 1
+veld : 1
+geparkeerd : 1
+leidde : 1
+oude : 1
+rustiek : 1
+bouwsel : 1
+verwarming : 1
+oliegenerator : 1
+vreemd : 1
+gevonden : 1
+buitenhuis : 1
+luxe : 1
+gemakkelijk : 1
+gevoel : 1
+kinderjaren : 1
+eenvoudiger : 1
+stapte : 1
+zakten : 1
+meteen : 1
+dode : 1
+regen : 1
+drijfnat : 1
+recht : 1
+vuile : 1
+zwarte : 1
+vragen : 1
+stuurde : 1
+herkende : 1
+rode : 1
+tranen : 1
+getrokken : 1
+vuil : 1
+gewoon : 1
+neus : 1
+mouw : 1
+oranje : 1
+bodywarmer : 1
+valt : 1
+alle : 1
+vroegte : 1
+konden : 1
+zonsopgang : 1
+bos : 1
+bloed : 1
+benzinestation : 1
+zandweg : 1
+mooi : 1
+beperkte : 1
+tegenwoordig : 1
+pest : 1
+aandachtig : 1
+trilde : 1
+kaars : 1
+net : 1
+rossig : 1
+blond : 1
+grijs : 1
+oudere : 1
+getrouwde : 1
+stabiele : 1
+fladderde : 1
+baan : 1
+onderlip : 1
+beslag : 1
+flatje : 1
+klonk : 1
+heet : 1
+klapte : 1
+notitieboekje : 1
+pen : 1
+telefoonnummer : 1
+wierp : 1
+norse : 1
+toe : 1
+schreef : 1
+cijfers : 1
+gezegd : 1
+vouwde : 1
+abrupt : 1
+rookte : 1
+drukte : 1
+gingen : 1
+plastic : 1
+chef : 1
+rechercheurs : 1
+max : 1
+verwaande : 1
+cherubijn : 1
+meter : 1
+vijftig : 1
+eruitzag : 1
+volleybal : 1
+opgewonden : 1
+armgebaren : 1
+struiken : 1
+druipnatte : 1
+dennen : 1
+dichterbij : 1
+halfduister : 1
+details : 1
+opeens : 1
+camera : 1
+stoel : 1
+ijskoude : 1
+lucht : 1
+maskeerde : 1
+stank : 1
+gestrekte : 1
+geval : 1
+broek : 1
+ingangswond : 1
+plakten : 1
+klodders : 1
+tweed : 1
+bloemkool : 1
+bord : 1
+kind : 1
+goudgele : 1
+ernstiger : 1
+probleem : 1
+zuidelijke : 1
+pier : 1
+stonden : 1
+hoog : 1
+fel : 1
+jongens : 1
+droegen : 1
+hemd : 1
+korte : 1
+schoof : 1
+puntje : 1
+cheryl : 1
+persoonlijkheid : 1
+goldie : 1
+houdt : 1
+zover : 1
+goot : 1
+slok : 1
+schuim : 1
+keelgat : 1
+kegel : 1
+datum : 1
+studie : 1
+advocatenkantoor : 1
+blonde : 1
+godin : 1
+behandelen : 1
+vaag : 1
+waarschijnlijk : 1
+trouwen : 1
+geheim : 1
+hoelang : 1
+duurt : 1
+willen : 1
+waarom : 1
+armoede : 1
+klote : 1
+zullen : 1
+verdienen : 1
+merkte : 1
+macaroni : 1
+kaas : 1
+word : 1
+bedrijven : 1
+straks : 1
+komen : 1
+vier : 1
+morgens : 1
+sta : 1
+kokhalzen : 1
+rijd : 1
+reken : 1
+weegt : 1
+ertegen : 1
+lettertjes : 1
+contracten : 1
+schrijven : 1
+zolang : 1
+wordt : 1
+declarabele : 1
+heuvel : 1
+seizoenkaarten : 1
+concertgebouw : 1
+iedere : 1
+blijkt : 1
+kratje : 1
+bier : 1
+opende : 1
+flesje : 1
+rijkste : 1
+boerde : 1
+doe : 1
+dank : 1
+god : 1
+elke : 1
+hou : 1
+zielsveel : 1
+weten : 1
+beginnen : 1
+ooit : 1
+halzen : 1
+mogen : 1
+nummer : 1
+bellen : 1
+wachtte : 1
+onderbrak : 1
+opschieten : 1
+midden : 1
+bijzettafeltje : 1
+omgevallen : 1
+bodem : 1
+kristallen : 1
+handschoenen : 1
+kop : 1
+rooster : 1
+berg : 1
+verse : 1
+grijze : 1
+vlokken : 1
+porde : 1
+vlokkige : 1
+stukje : 1
+hurkte : 1
+dichtbij : 1
+hoekje : 1
+stuk : 1
+blauw : 1
+ravage : 1
+lamp : 1
+kap : 1
+glasscherven : 1
+gebroken : 1
+gammele : 1
+erop : 1
+vierkant : 1
+waarop : 1
+stof : 1
+portefeuille : 1
+vol : 1
+walging : 1
+groot : 1
+uitkeek : 1
+schuimkoppen : 1
+leidden : 1
+voetstappen : 1
+genoeg : 1
+enkele : 1
+wereld : 1
+afgezien : 1
+toeval : 1
+vaak : 1
+telkens : 1
+veranderd : 1
+begin : 1
+verschillende : 1
+weinig : 1
+gemeen : 1
+mooier : 1
+herinnering : 1
+vriendschap : 1
+intact : 1
+gebeurd : 1
+echt : 1
+begrijpen : 1
+persoon : 1
+wou : 1
+hulp : 1
+gevraagd : 1
+telefoontje : 1
+ongemakkelijk : 1
+verwarring : 1
+bezorgdheid : 1
+zwijgend : 1
+helpen : 1
+sjokte : 1
+modderpad : 1
+beet : 1
+honkbalpet : 1
+kneep : 1
+schoen : 1
+erg : 1
+manier : 1
+daarvan : 1
+rekte : 1
+rommelige : 1
+ruk : 1
+daarin : 1
+plan : 1
+probeerde : 1
+gelopen : 1
+roofoverval : 1
+sinds : 1
+voetafdrukken : 1
+gedrukt : 1
+alibi : 1
+stomme : 1
+stunt : 1
+verdacht : 1
+stom : 1
+kreng : 1
+woord : 1
+geprobeerd : 1
+verborgen : 1
+gunde : 1
+snauwde : 1
+erger : 1
+waarheid : 1
+hang : 1
+langer : 1
+held : 1
+spuwde : 1
+levensverzekering : 1
+genomen : 1
+uitbetalen : 1
+hoeveel : 1
+misdrijven : 1
+raakte : 1
+spijt : 1
+bitterheid : 1
+stem : 1
+nauwe : 1
+zoiets : 1
+idioots : 1
+ermee : 1
+hopen : 1
+ervan : 1
+tik : 1
+officier : 1
+antwoord : 1
+teken : 1
+rende : 1
+toegegeven : 1
+zodra : 1
+krijgen : 1
+makkelijke : 1
+vermoedde : 1
+kende : 1
+verklaring : 1
+zorg : 1
+ervoor : 1
+verrast : 1
+gekruiste : 1
+twaalf : 1
+walsen : 1
+restjes : 1
+tweederde : 1
+zoveel : 1
+drinken : 1
+moed : 1
+trekker : 1
+turen : 1
+welke : 1
+gezamenlijke : 1
+vieren : 1
+ver : 1
+neemt : 1
+neem : 1
+mezelf : 1
+juist : 1
+niemands : 1
+veranderde : 1
+schuld : 1
+sterker : 1
+geweten : 1
+kwetsbaar : 1
+verrassen : 1
+ervandoor : 1
+bewoog : 1
+vinger : 1
+vandoor : 1
+maak : 1
+zeker : 1
+lijkt : 1
+impuls : 1
+koud : 1
+neerwaartse : 1
+luchtstroom : 1
+nerveus : 1
+herinnerde : 1
+winter : 1
+komst : 1
+zelf : 1
+binnenkort : 1
+koperen : 1
+klok : 1
+vast : 1
+weerhield : 1
+ouder : 1
+jonathan : 2
+voelde : 2
+kus : 2
+rook : 2
+huid : 2
+lange : 2
+viel : 2
+vogel : 2
+mompelde : 2
+draaide : 2
+kamer : 2
+water : 2
+klaar : 2
+strepen : 2
+buiten : 2
+oever : 2
+slierten : 2
+kuste : 2
+twintig : 2
+ziet : 2
+leuk : 2
+ronde : 2
+kom : 2
+kant : 2
+allemaal : 2
+hoorde : 2
+dronk : 2
+ergens : 2
+boven : 2
+zon : 2
+donkere : 2
+licht : 2
+vingers : 2
+komt : 2
+hoeft : 2
+waard : 2
+gebeld : 2
+geweest : 2
+lasalle : 2
+stopte : 2
+lege : 2
+duluth : 2
+vriend : 2
+blik : 2
+voegde : 2
+mag : 2
+jou : 2
+besefte : 2
+muur : 2
+gedachten : 2
+verleden : 2
+blijven : 2
+anders : 2
+vertelde : 2
+verloofd : 2
+grootste : 2
+deel : 2
+onze : 2
+wij : 2
+terug : 2
+stad : 2
+contact : 2
+reed : 2
+wind : 2
+bijna : 2
+verder : 2
+stuur : 2
+sloeg : 2
+bomen : 2
+lijk : 2
+dood : 2
+wandelpad : 2
+dikke : 2
+succesvolle : 2
+want : 2
+modder : 2
+grond : 2
+eind : 2
+waarin : 2
+portier : 2
+auto : 2
+mee : 2
+gebaar : 2
+veegde : 2
+denk : 2
+vloer : 2
+tijdje : 2
+jullie : 2
+trok : 2
+steeds : 2
+pakje : 2
+sigaretten : 2
+tikte : 2
+sigaret : 2
+behalve : 2
+wanneer : 2
+schaduw : 2
+hield : 2
+zoals : 2
+blies : 2
+woon : 2
+bank : 2
+zit : 2
+armen : 2
+technisch : 2
+pad : 2
+interieur : 2
+houten : 2
+binnen : 2
+dicht : 2
+benen : 2
+koude : 2
+leek : 2
+lijken : 2
+hand : 2
+hen : 2
+zonnebril : 2
+kijken : 2
+zal : 2
+niemand : 2
+flesjes : 2
+hals : 2
+toekomstige : 2
+beste : 2
+mond : 2
+rhonda : 2
+flat : 2
+centimeter : 2
+vuur : 2
+allang : 2
+vlammen : 2
+foto : 2
+rest : 2
+minder : 2
+raam : 2
+hoofd : 2
+herinnerd : 2
+bereikt : 2
+zeggen : 2
+moeilijk : 2
+hebben : 2
+blij : 2
+delict : 2
+leunde : 2
+verteld : 2
+begon : 2
+gedacht : 2
+vertellen : 2
+niets : 2
+jezelf : 2
+vandaan : 2
+streek : 3
+slaap : 3
+wilde : 3
+bed : 3
+krijgt : 3
+koffie : 3
+onder : 3
+terwijl : 3
+hun : 3
+sneeuw : 3
+voeten : 3
+nieuwe : 3
+nam : 3
+moeten : 3
+leren : 3
+rechercheur : 3
+hoop : 3
+bureau : 3
+zat : 3
+bent : 3
+ons : 3
+laat : 3
+kans : 3
+island : 3
+leeg : 3
+chinese : 3
+zichzelf : 3
+kunt : 3
+dit : 3
+politie : 3
+kwamen : 3
+per : 3
+slechte : 3
+man : 3
+geleden : 3
+eens : 3
+gaan : 3
+haard : 3
+laten : 3
+ogen : 3
+samen : 3
+papier : 3
+tuurde : 3
+deuropening : 3
+lichaam : 3
+allebei : 3
+laatste : 3
+geld : 3
+alles : 3
+guppo : 3
+bevroren : 3
+deze : 3
+gisteravond : 3
+zelfmoord : 3
+heen : 4
+veel : 4
+beetje : 4
+maakte : 4
+vanmorgen : 4
+kan : 4
+mij : 4
+handen : 4
+deed : 4
+antwoordde : 4
+kunnen : 4
+liever : 4
+jachthut : 4
+lake : 4
+eigenlijk : 4
+vind : 4
+eraan : 4
+andere : 4
+studententijd : 4
+zonder : 4
+zouden : 4
+mensen : 4
+twee : 4
+ga : 4
+advocaat : 4
+hele : 4
+dag : 4
+billy : 4
+bedoel : 4
+gaf : 4
+fles : 4
+schouders : 4
+nou : 4
+iemand : 4
+wijn : 4
+iets : 4
+jaren : 4
+droeg : 5
+grote : 5
+kwam : 5
+kleine : 5
+waar : 5
+natte : 5
+achter : 5
+vijf : 5
+meisje : 5
+altijd : 5
+paar : 5
+wist : 5
+huis : 5
+uur : 5
+plaats : 5
+alsof : 5
+vraag : 5
+misschien : 5
+vond : 5
+moest : 5
+dingen : 5
+tijd : 5
+geweer : 5
+wachten : 5
+eigen : 5
+nooit : 5
+voordat : 5
+goed : 5
+witte : 5
+glas : 5
+tot : 6
+even : 6
+jaar : 6
+deur : 6
+gezicht : 6
+ben : 6
+keer : 6
+hoe : 6
+u : 6
+werd : 6
+schudde : 6
+mijn : 6
+toch : 6
+denkt : 6
+tussen : 6
+lag : 6
+haalde : 6
+weg : 7
+daar : 7
+leven : 7
+bleef : 7
+staan : 7
+stak : 7
+ook : 7
+meer : 7
+pakte : 7
+wil : 7
+heel : 7
+kon : 7
+broer : 7
+gaat : 7
+hadden : 7
+hier : 7
+hebt : 7
+naast : 8
+wel : 8
+zette : 8
+moet : 8
+elkaar : 8
+zo : 8
+weer : 8
+waren : 8
+hut : 8
+liep : 9
+open : 9
+alleen : 9
+heeft : 9
+dacht : 9
+bills : 9
+jij : 9
+liet : 10
+door : 10
+nu : 10
+stond : 10
+of : 10
+al : 11
+geen : 11
+diane : 11
+tegen : 12
+af : 12
+zag : 13
+me : 13
+weet : 13
+cindy : 14
+over : 14
+heb : 14
+bij : 15
+dan : 15
+ging : 15
+maggie : 17
+randy : 17
+nog : 18
+zou : 18
+wat : 18
+zich : 19
+toen : 20
+uit : 20
+die : 21
+we : 21
+keek : 21
+vroeg : 23
+voor : 24
+om : 25
+als : 28
+had : 29
+er : 31
+bill : 31
+hem : 33
+aan : 34
+te : 36
+naar : 42
+zei : 43
+maar : 45
+is : 46
+stride : 50
+ik : 50
+met : 51
+was : 53
+niet : 54
+in : 60
+ze : 64
+haar : 69
+op : 70
+je : 74
+van : 77
+zijn : 91
+dat : 95
+en : 123
+een : 133
+hij : 136
+het : 153
+de : 185
+toen jonathan stride -> wakker : 1
+jonathan stride wakker -> voelde : 1
+stride wakker voelde -> hij : 1
+wakker voelde hij -> de : 1
+voelde hij de -> kus : 1
+hij de kus -> van : 1
+de kus van -> cindy : 1
+kus van cindy -> en : 1
+van cindy en -> rook : 1
+cindy en rook -> hij : 1
+en rook hij -> de : 1
+rook hij de -> mengeling : 1
+hij de mengeling -> van : 1
+de mengeling van -> zeep : 1
+mengeling van zeep -> en : 1
+van zeep en -> parfum : 1
+zeep en parfum -> op : 1
+en parfum op -> de : 1
+parfum op de -> pasgewassen : 1
+op de pasgewassen -> huid : 1
+de pasgewassen huid -> van : 1
+pasgewassen huid van -> zijn : 1
+huid van zijn -> ze : 1
+van zijn ze -> boog : 1
+zijn ze boog -> zich : 1
+ze boog zich -> over : 1
+boog zich over -> hem : 1
+zich over hem -> heen : 1
+over hem heen -> en : 1
+hem heen en -> haar : 1
+hem heen en -> als : 1
+heen en haar -> lange : 1
+en haar lange -> haar : 1
+haar lange haar -> viel : 1
+lange haar viel -> over : 1
+haar viel over -> zijn : 1
+viel over zijn -> toen : 1
+over zijn toen -> ze : 1
+zijn toen ze -> liet : 1
+toen ze liet -> haar : 1
+ze liet haar -> lipstick : 1
+liet haar lipstick -> een : 1
+haar lipstick een -> vlek : 1
+lipstick een vlek -> op : 1
+een vlek op -> zijn : 1
+vlek op zijn -> wang : 1
+op zijn wang -> en : 1
+zijn wang en -> die : 1
+wang en die -> streek : 1
+en die streek -> ze : 1
+die streek ze -> weg : 1
+streek ze weg -> met : 1
+ze weg met -> haar : 1
+weg met haar -> is : 1
+met haar is -> zeven : 1
+haar is zeven -> zei : 1
+is zeven zei -> stride : 1
+zeven zei stride -> sleurde : 1
+zei stride sleurde -> zijn : 1
+stride sleurde zijn -> geest : 1
+sleurde zijn geest -> de : 1
+zijn geest de -> slaap : 1
+geest de slaap -> uit : 1
+de slaap uit -> en : 1
+slaap uit en -> de : 1
+uit en de -> koele : 1
+en de koele -> ochtendlucht : 1
+de koele ochtendlucht -> van : 1
+koele ochtendlucht van -> de : 1
+ochtendlucht van de -> slaapkamer : 1
+van de slaapkamer -> toen : 1
+de slaapkamer toen -> hij : 1
+slaapkamer toen hij -> heupen : 1
+toen hij heupen -> wilde : 1
+hij heupen wilde -> vastpakken : 1
+heupen wilde vastpakken -> om : 1
+wilde vastpakken om -> haar : 1
+vastpakken om haar -> naast : 1
+om haar naast -> zich : 1
+haar naast zich -> in : 1
+naast zich in -> bed : 1
+zich in bed -> te : 1
+in bed te -> dook : 1
+bed te dook -> ze : 1
+te dook ze -> soepel : 1
+dook ze soepel -> zei : 1
+ze soepel zei -> ze : 1
+soepel zei ze -> vroege : 1
+zei ze vroege -> vogel : 1
+ze vroege vogel -> krijgt : 1
+vroege vogel krijgt -> de : 1
+vogel krijgt de -> de : 1
+krijgt de de -> late : 1
+de de late -> vogel : 1
+de late vogel -> krijgt : 1
+late vogel krijgt -> een : 1
+vogel krijgt een -> kus : 1
+krijgt een kus -> en : 1
+een kus en -> leg : 1
+kus en leg -> je : 1
+en leg je -> daar : 1
+leg je daar -> maar : 1
+je daar maar -> bij : 1
+daar maar bij -> het : 1
+maar bij het -> dan : 1
+bij het dan -> wel : 1
+het dan wel -> goeie : 1
+dan wel goeie -> koffie : 1
+wel goeie koffie -> mompelde : 1
+goeie koffie mompelde -> cindy : 1
+koffie mompelde cindy -> knipoogde : 1
+mompelde cindy knipoogde -> en : 1
+cindy knipoogde en -> draaide : 1
+knipoogde en draaide -> zich : 1
+en draaide zich -> snel : 1
+draaide zich snel -> een : 1
+zich snel een -> en : 1
+snel een en -> al : 1
+een en al -> toen : 1
+een en al -> rode : 1
+en al toen -> ze : 1
+al toen ze -> de : 1
+toen ze de -> kamer : 1
+ze de kamer -> uit : 1
+de kamer uit -> volgde : 1
+kamer uit volgde -> hij : 1
+uit volgde hij -> haar : 1
+volgde hij haar -> met : 1
+hij haar met -> zijn : 1
+haar met zijn -> ze : 1
+met zijn ze -> was : 1
+zijn ze was -> aan : 1
+ze was aan -> de : 1
+was aan de -> magere : 1
+aan de magere -> droeg : 1
+de magere droeg -> een : 1
+magere droeg een -> en : 1
+droeg een en -> een : 1
+een en een -> en : 1
+en een en -> haar : 1
+een en haar -> vochtige : 1
+en haar vochtige -> haar : 1
+haar vochtige haar -> was : 1
+vochtige haar was -> nog : 1
+haar was nog -> niet : 1
+was nog niet -> in : 1
+nog niet in -> veel : 1
+niet in veel -> te : 1
+in veel te -> grote : 1
+veel te grote -> pantoffels : 1
+te grote pantoffels -> liep : 1
+grote pantoffels liep -> ze : 1
+pantoffels liep ze -> met : 1
+liep ze met -> verende : 1
+ze met verende -> tred : 1
+met verende tred -> over : 1
+verende tred over -> de : 1
+tred over de -> hardhouten : 1
+over de hardhouten -> zijn : 1
+de hardhouten zijn -> vrouw : 1
+hardhouten zijn vrouw -> was : 1
+zijn vrouw was -> een : 1
+vrouw was een -> hij : 1
+was een hij -> stride : 1
+een hij stride -> kwam : 1
+hij stride kwam -> uit : 1
+stride kwam uit -> bed : 1
+kwam uit bed -> en : 1
+uit bed en -> liet : 1
+bed en liet -> zich : 1
+en liet zich -> tot : 1
+liet zich tot -> leven : 1
+zich tot leven -> wekken : 1
+tot leven wekken -> door : 1
+leven wekken door -> het : 1
+wekken door het -> warme : 1
+door het warme -> water : 1
+het warme water -> van : 1
+warme water van -> de : 1
+water van de -> hij : 1
+van de hij -> bleef : 1
+de hij bleef -> onder : 1
+de hij bleef -> even : 1
+hij bleef onder -> de : 1
+bleef onder de -> douche : 1
+onder de douche -> staan : 1
+de douche staan -> terwijl : 1
+douche staan terwijl -> hij : 1
+staan terwijl hij -> zich : 1
+terwijl hij zich -> schoor : 1
+hij zich schoor -> en : 1
+zich schoor en -> zette : 1
+schoor en zette -> het : 1
+en zette het -> badkamerraam : 1
+en zette het -> terug : 1
+en zette het -> vraag : 1
+zette het badkamerraam -> een : 1
+het badkamerraam een -> beetje : 1
+badkamerraam een beetje -> open : 1
+een beetje open -> om : 1
+beetje open om -> van : 1
+open om van -> de : 1
+om van de -> frisse : 1
+van de frisse -> najaarswind : 1
+de frisse najaarswind -> te : 1
+frisse najaarswind te -> toen : 1
+najaarswind te toen -> hij : 1
+te toen hij -> klaar : 1
+toen hij klaar -> kleedde : 1
+hij klaar kleedde -> hij : 1
+klaar kleedde hij -> zich : 1
+kleedde hij zich -> aan : 1
+hij zich aan -> en : 1
+zich aan en -> liep : 1
+aan en liep -> naar : 1
+en liep naar -> hun : 1
+liep naar hun -> kleine : 1
+naar hun kleine -> hij : 1
+hun kleine hij -> schonk : 1
+kleine hij schonk -> koffie : 1
+hij schonk koffie -> in : 1
+schonk koffie in -> en : 1
+koffie in en -> zag : 1
+in en zag -> cindy : 1
+en zag cindy -> op : 1
+zag cindy op -> de : 1
+cindy op de -> veranda : 1
+op de veranda -> waar : 1
+de veranda waar -> ze : 1
+veranda waar ze -> naar : 1
+waar ze naar -> de : 1
+ze naar de -> natte : 1
+naar de natte -> sneeuw : 1
+de natte sneeuw -> die : 1
+de natte sneeuw -> bleef : 1
+natte sneeuw die -> strepen : 1
+sneeuw die strepen -> maakte : 1
+die strepen maakte -> op : 1
+strepen maakte op -> de : 1
+maakte op de -> buiten : 1
+op de buiten -> was : 1
+de buiten was -> het : 1
+buiten was het -> nog : 1
+was het nog -> golven : 1
+het nog golven -> sloegen : 1
+nog golven sloegen -> als : 1
+golven sloegen als -> rommelend : 1
+sloegen als rommelend -> onweer : 1
+als rommelend onweer -> tegen : 1
+rommelend onweer tegen -> de : 1
+onweer tegen de -> oever : 1
+tegen de oever -> van : 1
+de oever van -> het : 1
+oever van het -> hij : 1
+oever van het -> meer : 1
+van het hij -> kwam : 1
+het hij kwam -> achter : 1
+hij kwam achter -> haar : 1
+kwam achter haar -> staan : 1
+achter haar staan -> en : 1
+haar staan en -> liet : 1
+staan en liet -> zijn : 1
+en liet zijn -> arm : 1
+liet zijn arm -> om : 1
+zijn arm om -> haar : 1
+arm om haar -> middel : 1
+om haar middel -> ze : 1
+haar middel ze -> had : 1
+middel ze had -> nu : 1
+ze had nu -> een : 1
+had nu een -> spijkerbroek : 1
+nu een spijkerbroek -> en : 1
+een spijkerbroek en -> haar : 1
+spijkerbroek en haar -> haar : 1
+en haar haar -> was : 1
+haar haar was -> in : 1
+haar was in -> zijdezachte : 1
+was in zijdezachte -> slierten : 1
+in zijdezachte slierten -> hij : 1
+zijdezachte slierten hij -> streek : 1
+slierten hij streek -> haar : 1
+hij streek haar -> haar : 1
+streek haar haar -> opzij : 1
+haar haar opzij -> en : 1
+haar opzij en -> kuste : 1
+opzij en kuste -> haar : 1
+en kuste haar -> zei : 1
+kuste haar zei -> heb : 1
+haar zei heb -> maar : 1
+zei heb maar -> vijf : 1
+heb maar vijf -> ik : 1
+maar vijf ik -> geef : 1
+vijf ik geef -> vanmorgen : 1
+ik geef vanmorgen -> les : 1
+geef vanmorgen les -> op : 1
+vanmorgen les op -> de : 1
+les op de -> ze : 1
+op de ze -> stak : 1
+de ze stak -> haar : 1
+ze stak haar -> voeten : 1
+stak haar voeten -> in : 1
+haar voeten in -> tennisschoenen : 1
+voeten in tennisschoenen -> en : 1
+in tennisschoenen en -> ging : 1
+tennisschoenen en ging -> op : 1
+en ging op -> de : 1
+ging op de -> chaise : 1
+op de chaise -> longue : 1
+de chaise longue -> zitten : 1
+chaise longue zitten -> om : 1
+longue zitten om -> haar : 1
+zitten om haar -> veters : 1
+om haar veters -> te : 1
+haar veters te -> doet : 1
+veters te doet -> dat : 1
+te doet dat -> nieuwe : 1
+doet dat nieuwe -> meisje : 1
+dat nieuwe meisje -> stride : 1
+nieuwe meisje stride -> nam : 1
+meisje stride nam -> een : 1
+stride nam een -> slokje : 1
+nam een slokje -> van : 1
+een slokje van -> zijn : 1
+slokje van zijn -> is : 1
+van zijn is -> er : 1
+zijn is er -> ontgaat : 1
+is er ontgaat -> haar : 1
+er ontgaat haar -> een : 1
+ontgaat haar een -> nieuwe : 1
+haar een nieuwe -> collega : 1
+een nieuwe collega -> moet : 1
+nieuwe collega moet -> altijd : 1
+collega moet altijd -> eerst : 1
+moet altijd eerst -> even : 1
+altijd eerst even -> is : 1
+eerst even is -> nog : 1
+even is nog -> maar : 1
+is nog maar -> een : 1
+nog maar een -> paar : 1
+maar een paar -> zei : 1
+een paar zei -> we : 1
+paar zei we -> moeten : 1
+zei we moeten -> elkaar : 1
+we moeten elkaar -> nog : 1
+moeten elkaar nog -> leren : 1
+elkaar nog leren -> ze : 1
+nog leren ze -> te : 1
+leren ze te -> is : 1
+ze te is -> beaamde : 1
+te is beaamde -> dat : 1
+is beaamde dat -> wist : 1
+beaamde dat wist -> ik : 1
+dat wist ik -> toen : 1
+wist ik toen -> ik : 1
+ik toen ik -> haar : 1
+toen ik haar -> het : 1
+ik haar het -> geeft : 1
+haar het geeft -> voor : 1
+het geeft voor -> een : 1
+geeft voor een -> meisje : 1
+voor een meisje -> van : 1
+een meisje van -> in : 1
+meisje van in -> de : 1
+van in de -> twintig : 1
+in de twintig -> is : 1
+de twintig is -> ze : 1
+twintig is ze -> een : 1
+is ze een -> betere : 1
+ze een betere -> rechercheur : 1
+een betere rechercheur -> dan : 1
+betere rechercheur dan -> kerels : 1
+rechercheur dan kerels -> die : 1
+dan kerels die -> het : 1
+kerels die het -> al : 1
+die het al -> tien : 1
+het al tien -> jaar : 1
+al tien jaar -> ziet : 1
+tien jaar ziet -> er : 1
+jaar ziet er -> ook : 1
+ziet er ook -> leuk : 1
+er ook leuk -> zei : 1
+ook leuk zei -> dat : 1
+leuk zei dat -> ronde : 1
+zei dat ronde -> kapsel : 1
+dat ronde kapsel -> en : 1
+ronde kapsel en -> die : 1
+kapsel en die -> een : 1
+en die een -> kleine : 1
+die een kleine -> opknapbeurt : 1
+een kleine opknapbeurt -> en : 1
+kleine opknapbeurt en -> ze : 1
+opknapbeurt en ze -> zou : 1
+en ze zou -> sexy : 1
+ze zou sexy -> is : 1
+zou sexy is -> me : 1
+sexy is me -> niet : 1
+is me niet -> cindy : 1
+me niet cindy -> kom : 1
+niet cindy kom -> hoop : 1
+cindy kom hoop -> alleen : 1
+kom hoop alleen -> dat : 1
+hoop alleen dat -> ze : 1
+alleen dat ze -> een : 1
+dat ze een -> beetje : 1
+ze een beetje -> zei : 1
+een beetje zei -> is : 1
+beetje zei is -> zo : 1
+zei is zo -> verrekte : 1
+is zo verrekte -> als : 1
+zo verrekte als -> ik : 1
+verrekte als ik -> een : 1
+als ik een -> grap : 1
+ik een grap -> kan : 1
+een grap kan -> er : 1
+grap kan er -> nog : 1
+kan er nog -> geen : 1
+er nog geen -> glimlach : 1
+nog geen glimlach -> ken : 1
+geen glimlach ken -> die : 1
+glimlach ken die -> grappen : 1
+ken die grappen -> van : 1
+die grappen van -> het : 1
+grappen van het -> ligt : 1
+van het ligt -> niet : 1
+het ligt niet -> aan : 1
+ligt niet aan -> stride : 1
+niet aan stride -> keek : 1
+aan stride keek -> haar : 1
+stride keek haar -> cindy : 1
+stride keek haar -> ze : 1
+keek haar cindy -> grijnsde : 1
+haar cindy grijnsde -> en : 1
+cindy grijnsde en -> stak : 1
+grijnsde en stak -> haar : 1
+en stak haar -> tong : 1
+en stak haar -> handen : 1
+stak haar tong -> dat : 1
+haar tong dat -> is : 1
+tong dat is -> het : 1
+dat is het -> ging : 1
+is het ging -> hij : 1
+het ging hij -> heeft : 1
+ging hij heeft -> de : 1
+hij heeft de -> menselijke : 1
+heeft de menselijke -> kant : 1
+de menselijke kant -> van : 1
+menselijke kant van -> het : 1
+kant van het -> werk : 1
+van het werk -> nog : 1
+het werk nog -> niet : 1
+werk nog niet -> onder : 1
+nog niet onder -> de : 1
+niet onder de -> voor : 1
+onder de voor -> haar : 1
+de voor haar -> is : 1
+voor haar is -> het : 1
+haar is het -> allemaal : 1
+is het allemaal -> ze : 1
+het allemaal ze -> lost : 1
+allemaal ze lost -> problemen : 1
+ze lost problemen -> zoekt : 1
+lost problemen zoekt -> naar : 1
+problemen zoekt naar -> de : 1
+zoekt naar de -> oplossing : 1
+naar de oplossing -> van : 1
+de oplossing van -> een : 1
+oplossing van een -> volgens : 1
+van een volgens -> mij : 1
+een volgens mij -> is : 1
+volgens mij is -> nog : 1
+mij is nog -> niet : 1
+is nog niet -> helemaal : 1
+nog niet helemaal -> tot : 1
+niet helemaal tot -> haar : 1
+helemaal tot haar -> doorgedrongen : 1
+tot haar doorgedrongen -> dat : 1
+haar doorgedrongen dat -> we : 1
+doorgedrongen dat we -> het : 1
+dat we het -> over : 1
+dat we het -> zouden : 1
+we het over -> mensenlevens : 1
+het over mensenlevens -> cindy : 1
+over mensenlevens cindy -> stond : 1
+mensenlevens cindy stond -> ging : 1
+cindy stond ging -> op : 1
+stond ging op -> haar : 1
+ging op haar -> tenen : 1
+op haar tenen -> staan : 1
+haar tenen staan -> en : 1
+tenen staan en -> stak : 1
+staan en stak -> haar : 1
+stak haar handen -> in : 1
+haar handen in -> yogahouding : 1
+haar handen in -> haar : 1
+handen in yogahouding -> haar : 1
+in yogahouding haar -> wat : 1
+yogahouding haar wat -> ze : 1
+haar wat ze -> is : 1
+wat ze is -> nog : 1
+ze is nog -> meer : 1
+is nog meer -> chinees : 1
+nog meer chinees -> dan : 1
+meer chinees dan -> dat : 1
+chinees dan dat -> verandert : 1
+dan dat verandert -> hoop : 1
+dat verandert hoop -> ze : 1
+verandert hoop ze -> liet : 1
+hoop ze liet -> zich : 1
+ze liet zich -> weer : 1
+liet zich weer -> op : 1
+zich weer op -> haar : 1
+weer op haar -> hielen : 1
+op haar hielen -> moet : 1
+haar hielen moet -> cindy : 1
+hielen moet cindy -> kuste : 1
+moet cindy kuste -> hem : 1
+cindy kuste hem -> opnieuw : 1
+kuste hem opnieuw -> en : 1
+hem opnieuw en -> ging : 1
+opnieuw en ging -> hij : 1
+en ging hij -> hoorde : 1
+ging hij hoorde -> de : 1
+hij hoorde de -> voordeur : 1
+hij hoorde de -> aarzeling : 1
+hoorde de voordeur -> in : 1
+de voordeur in -> zijn : 1
+voordeur in zijn -> eentje : 1
+in zijn eentje -> dronk : 1
+zijn eentje dronk -> hij : 1
+eentje dronk hij -> zijn : 1
+dronk hij zijn -> koffie : 1
+hij zijn koffie -> op : 1
+zijn koffie op -> de : 1
+koffie op de -> terwijl : 1
+op de terwijl -> buiten : 1
+de terwijl buiten -> de : 1
+terwijl buiten de -> natte : 1
+buiten de natte -> sneeuw : 1
+natte sneeuw bleef -> ergens : 1
+sneeuw bleef ergens -> boven : 1
+bleef ergens boven -> de : 1
+ergens boven de -> horizon : 1
+boven de horizon -> van : 1
+de horizon van -> het : 1
+horizon van het -> meer : 1
+van het meer -> was : 1
+van het meer -> maar : 1
+het meer was -> de : 1
+meer was de -> zon : 1
+was de zon -> maar : 1
+de zon maar -> de : 1
+zon maar de -> donkere : 1
+maar de donkere -> wolken : 1
+de donkere wolken -> lieten : 1
+donkere wolken lieten -> nauwelijks : 1
+wolken lieten nauwelijks -> licht : 1
+lieten nauwelijks licht -> op : 1
+nauwelijks licht op -> het : 1
+licht op het -> strand : 1
+op het strand -> hij : 1
+het strand hij -> had : 1
+strand hij had -> maar : 1
+hij had maar -> hij : 1
+had maar hij -> zou : 1
+maar hij zou -> op : 1
+hij zou op -> weg : 1
+zou op weg -> naar : 1
+op weg naar -> het : 1
+weg naar het -> politiebureau : 1
+naar het politiebureau -> wel : 1
+het politiebureau wel -> een : 1
+politiebureau wel een -> doughnut : 1
+wel een doughnut -> kopen : 1
+een doughnut kopen -> en : 1
+doughnut kopen en -> hem : 1
+kopen en hem -> aan : 1
+en hem aan -> zijn : 1
+hem aan zijn -> bureau : 1
+aan zijn bureau -> stride : 1
+zijn bureau stride -> deed : 1
+bureau stride deed -> de : 1
+stride deed de -> lichten : 1
+deed de lichten -> uit : 1
+de lichten uit -> en : 1
+lichten uit en -> zette : 1
+uit en zette -> zijn : 1
+en zette zijn -> koffiekopje : 1
+zette zijn koffiekopje -> in : 1
+zijn koffiekopje in -> de : 1
+koffiekopje in de -> hij : 1
+in de hij -> pakte : 1
+in de hij -> keek : 1
+de hij pakte -> zijn : 1
+hij pakte zijn -> sleutels : 1
+pakte zijn sleutels -> en : 1
+zijn sleutels en -> liet : 1
+sleutels en liet -> ze : 1
+en liet ze -> aan : 1
+liet ze aan -> zijn : 1
+ze aan zijn -> vingers : 1
+aan zijn vingers -> bungelen : 1
+zijn vingers bungelen -> terwijl : 1
+vingers bungelen terwijl -> hij : 1
+bungelen terwijl hij -> door : 1
+terwijl hij door -> de : 1
+hij door de -> schemerige : 1
+hij door de -> deuropening : 1
+door de schemerige -> gang : 1
+de schemerige gang -> bij : 1
+schemerige gang bij -> de : 1
+gang bij de -> deur : 1
+bij de deur -> schoot : 1
+bij de deur -> van : 1
+de deur schoot -> hij : 1
+deur schoot hij -> zijn : 1
+schoot hij zijn -> leren : 1
+hij zijn leren -> jasje : 1
+zijn leren jasje -> toen : 1
+leren jasje toen -> hij : 1
+jasje toen hij -> de : 1
+toen hij de -> deur : 1
+hij de deur -> zag : 1
+de deur zag -> hij : 1
+deur zag hij -> tot : 1
+zag hij tot -> zijn : 1
+hij tot zijn -> verbazing : 1
+tot zijn verbazing -> maggie : 1
+zijn verbazing maggie -> bei : 1
+verbazing maggie bei -> op : 1
+maggie bei op -> het : 1
+bei op het -> trapje : 1
+op het trapje -> haar : 1
+het trapje haar -> natte : 1
+trapje haar natte -> haar : 1
+haar natte haar -> zat : 1
+natte haar zat -> in : 1
+haar zat in -> slierten : 1
+zat in slierten -> op : 1
+in slierten op -> haar : 1
+slierten op haar -> gezicht : 1
+op haar gezicht -> ze : 1
+haar gezicht ze -> droeg : 1
+gezicht ze droeg -> een : 1
+ze droeg een -> lange : 1
+droeg een lange -> bruine : 1
+een lange bruine -> regenjas : 1
+lange bruine regenjas -> en : 1
+bruine regenjas en -> had : 1
+regenjas en had -> haar : 1
+en had haar -> handen : 1
+had haar handen -> in : 1
+handen in haar -> zakken : 1
+in haar zakken -> ze : 1
+haar zakken ze -> droeg : 1
+zakken ze droeg -> praktische : 1
+ze droeg praktische -> schoenen : 1
+droeg praktische schoenen -> met : 1
+praktische schoenen met -> platte : 1
+schoenen met platte -> zei : 1
+met platte zei -> ze : 1
+platte zei ze -> met : 1
+zei ze met -> een : 1
+ze met een -> lichte : 1
+met een lichte -> buiging : 1
+een lichte buiging -> van : 1
+lichte buiging van -> haar : 1
+buiging van haar -> zei : 1
+van haar zei -> hij : 1
+haar zei hij -> en : 1
+zei hij en -> hij : 1
+hij en hij -> deed : 1
+en hij deed -> de : 1
+hij deed de -> deur : 1
+deed de deur -> achter : 1
+de deur achter -> zich : 1
+deur achter zich -> we : 1
+achter zich we -> elkaar : 1
+zich we elkaar -> niet : 1
+we elkaar niet -> op : 1
+elkaar niet op -> het : 1
+niet op het -> bureau : 1
+op het bureau -> sorry : 1
+op het bureau -> hoe : 1
+het bureau sorry -> dat : 1
+bureau sorry dat -> ik : 1
+sorry dat ik -> naar : 1
+dat ik naar -> uw : 1
+ik naar uw -> huis : 1
+naar uw huis -> ben : 1
+uw huis ben -> je : 1
+huis ben je -> bent : 1
+ben je bent -> altijd : 1
+je bent altijd -> cindy : 1
+bent altijd cindy -> wil : 1
+altijd cindy wil -> dat : 1
+cindy wil dat -> je : 1
+wil dat je -> een : 1
+dat je een -> keer : 1
+dat je een -> alibi : 1
+je een keer -> bij : 1
+een keer bij -> ons : 1
+keer bij ons -> komt : 1
+bij ons komt -> zou : 1
+ons komt zou -> leuk : 1
+komt zou leuk -> antwoordde : 1
+zou leuk antwoordde -> wat : 1
+leuk antwoordde wat -> is : 1
+antwoordde wat is -> is : 1
+wat is is -> vanmorgen : 1
+is is vanmorgen -> een : 1
+is vanmorgen een -> nieuwe : 1
+vanmorgen een nieuwe -> zaak : 1
+een nieuwe zaak -> zei : 1
+nieuwe zaak zei -> ben : 1
+zaak zei ben -> je : 1
+zei ben je -> al : 1
+ben je al -> op : 1
+je al op -> het : 1
+al op het -> bureau : 1
+het bureau hoe -> laat : 1
+bureau hoe laat -> kom : 1
+hoe laat kom -> je : 1
+laat kom je -> daar : 1
+kom je daar -> om : 1
+je daar om -> een : 1
+daar om een -> uur : 1
+om een uur -> of : 1
+een uur of -> hoeft : 1
+uur of hoeft -> niet : 1
+of hoeft niet -> zo : 1
+hoeft niet zo -> vroeg : 1
+niet zo vroeg -> te : 1
+zo vroeg te -> weet : 1
+vroeg te weet -> weet : 1
+te weet weet -> maar : 1
+weet weet maar -> ik : 1
+weet maar ik -> ben : 1
+maar ik ben -> dankbaar : 1
+ik ben dankbaar -> voor : 1
+ben dankbaar voor -> de : 1
+dankbaar voor de -> kans : 1
+voor de kans -> die : 1
+de kans die -> ik : 1
+kans die ik -> krijg : 1
+die ik krijg -> en : 1
+ik krijg en -> wil : 1
+krijg en wil -> bewijzen : 1
+en wil bewijzen -> dat : 1
+wil bewijzen dat -> ik : 1
+bewijzen dat ik -> die : 1
+dat ik die -> kans : 1
+ik die kans -> waard : 1
+die kans waard -> je : 1
+kans waard je -> maar : 1
+waard je maar -> niet : 1
+je maar niet -> verwacht : 1
+maar niet verwacht -> dat : 1
+niet verwacht dat -> ik : 1
+verwacht dat ik -> er : 1
+dat ik er -> dan : 1
+dat ik er -> ook : 1
+ik er dan -> ook : 1
+er dan ook -> zei : 1
+dan ook zei -> is : 1
+ook zei is -> het : 1
+zei is het -> voor : 1
+is het voor -> maggie : 1
+het voor maggie -> streek : 1
+voor maggie streek -> haar : 1
+maggie streek haar -> natte : 1
+streek haar natte -> lokken : 1
+haar natte lokken -> uit : 1
+natte lokken uit -> haar : 1
+lokken uit haar -> ze : 1
+uit haar ze -> weet : 1
+haar ze weet -> dat : 1
+ze weet dat -> ik : 1
+weet dat ik -> u : 1
+dat ik u -> beter : 1
+ik u beter -> had : 1
+u beter had -> kunnen : 1
+beter had kunnen -> in : 1
+had kunnen in -> plaats : 1
+kunnen in plaats -> van : 1
+in plaats van -> hierheen : 1
+plaats van hierheen -> te : 1
+van hierheen te -> maar : 1
+hierheen te maar -> ik : 1
+te maar ik -> dacht : 1
+maar ik dacht -> dat : 1
+ik dacht dat -> u : 1
+ik dacht dat -> ze : 1
+dacht dat u -> het : 1
+dat u het -> liever : 1
+u het liever -> persoonlijk : 1
+het liever persoonlijk -> van : 1
+liever persoonlijk van -> me : 1
+persoonlijk van me -> is : 1
+van me is -> er : 1
+me is er -> aan : 1
+is er aan -> de : 1
+er aan de -> vroeg : 1
+aan de vroeg -> hij : 1
+de vroeg hij -> met : 1
+vroeg hij met -> een : 1
+hij met een -> slecht : 1
+met een slecht -> er : 1
+een slecht er -> verscheen : 1
+slecht er verscheen -> een : 1
+er verscheen een -> frons : 1
+verscheen een frons -> op : 1
+een frons op -> zijn : 1
+frons op zijn -> werd : 1
+op zijn werd -> gebeld : 1
+zijn werd gebeld -> door : 1
+werd gebeld door -> een : 1
+gebeld door een -> antwoordde : 1
+door een antwoordde -> was : 1
+een antwoordde was -> een : 1
+antwoordde was een -> melding : 1
+was een melding -> binnengekomen : 1
+een melding binnengekomen -> en : 1
+melding binnengekomen en -> hij : 1
+binnengekomen en hij -> was : 1
+en hij was -> naar : 1
+hij was naar -> een : 1
+was naar een -> jachthut : 1
+naar een jachthut -> bij : 1
+een jachthut bij -> island : 1
+jachthut bij island -> lake : 1
+bij island lake -> blijkbaar : 1
+island lake blijkbaar -> is : 1
+lake blijkbaar is -> daar : 1
+blijkbaar is daar -> een : 1
+is daar een -> inbraak : 1
+daar een inbraak -> geweest : 1
+een inbraak geweest -> en : 1
+inbraak geweest en -> is : 1
+geweest en is -> er : 1
+en is er -> william : 1
+is er william -> lasalle : 1
+er william lasalle -> is : 1
+william lasalle is -> stride : 1
+lasalle is stride -> stopte : 1
+is stride stopte -> voor : 1
+stride stopte voor -> rood : 1
+stopte voor rood -> licht : 1
+voor rood licht -> op : 1
+rood licht op -> een : 1
+licht op een -> leeg : 1
+op een leeg -> de : 1
+een leeg de -> ruitenwissers : 1
+leeg de ruitenwissers -> duwden : 1
+de ruitenwissers duwden -> de : 1
+ruitenwissers duwden de -> hagelkorreltjes : 1
+duwden de hagelkorreltjes -> piepend : 1
+de hagelkorreltjes piepend -> en : 1
+hagelkorreltjes piepend en -> de : 1
+piepend en de -> lege : 1
+en de lege -> wegen : 1
+de lege wegen -> van : 1
+lege wegen van -> de : 1
+wegen van de -> vlakten : 1
+van de vlakten -> ten : 1
+de vlakten ten -> noorden : 1
+vlakten ten noorden -> van : 1
+ten noorden van -> duluth : 1
+noorden van duluth -> lagen : 1
+van duluth lagen -> er : 1
+duluth lagen er -> grauw : 1
+lagen er grauw -> en : 1
+er grauw en -> uitgestorven : 1
+grauw en uitgestorven -> was : 1
+en uitgestorven was -> een : 1
+uitgestorven was een -> vriend : 1
+was een vriend -> van : 1
+een vriend van -> vroeg : 1
+vriend van vroeg -> hij : 1
+van vroeg hij -> hoorde : 1
+vroeg hij hoorde -> de : 1
+hoorde de aarzeling -> in : 1
+de aarzeling in -> haar : 1
+aarzeling in haar -> alsof : 1
+in haar alsof -> ze : 2
+haar alsof ze -> hem : 1
+haar alsof ze -> dacht : 1
+alsof ze hem -> eigenlijk : 1
+ze hem eigenlijk -> geen : 1
+hem eigenlijk geen -> persoonlijke : 1
+eigenlijk geen persoonlijke -> vraag : 1
+geen persoonlijke vraag -> durfde : 1
+persoonlijke vraag durfde -> te : 1
+vraag durfde te -> dat : 1
+durfde te dat -> was : 1
+te dat was -> vind : 1
+dat was vind -> het : 1
+was vind het -> heel : 1
+vind het heel -> stride : 1
+vind het heel -> mompelde : 1
+het heel stride -> het : 1
+heel stride het -> verkeerslicht : 1
+stride het verkeerslicht -> sprong : 1
+het verkeerslicht sprong -> op : 1
+verkeerslicht sprong op -> hij : 1
+sprong op hij -> keek : 1
+op hij keek -> even : 1
+hij keek even -> naar : 1
+keek even naar -> die : 1
+even naar die -> haar : 1
+naar die haar -> blik : 1
+die haar blik -> op : 1
+haar blik op -> de : 1
+blik op de -> weg : 1
+op de weg -> gericht : 1
+de weg gericht -> niet : 1
+weg gericht niet -> op : 1
+gericht niet op -> hoeft : 1
+niet op hoeft -> me : 1
+op hoeft me -> geen : 1
+hoeft me geen -> inspecteur : 1
+me geen inspecteur -> te : 1
+geen inspecteur te -> noem : 1
+inspecteur te noem -> me : 1
+te noem me -> maar : 1
+noem me maar -> jonathan : 1
+me maar jonathan -> of : 1
+maar jonathan of -> wat : 1
+jonathan of wat -> je : 1
+of wat je -> maar : 1
+wat je maar -> maggie : 1
+je maar maggie -> schudde : 1
+maar maggie schudde -> resoluut : 1
+maggie schudde resoluut -> haar : 1
+schudde resoluut haar -> dat : 1
+resoluut haar dat -> zou : 1
+haar dat zou -> niet : 1
+dat zou niet -> gepast : 1
+dat zou niet -> op : 1
+zou niet gepast -> u : 1
+niet gepast u -> bent : 1
+gepast u bent -> mijn : 1
+u bent mijn -> ben : 1
+bent mijn ben -> je : 1
+mijn ben je -> zei : 1
+ben je zei -> is : 1
+je zei is -> wat : 1
+zei is wat -> hij : 1
+is wat hij -> voegde : 1
+wat hij voegde -> eraan : 1
+hij voegde eraan -> mag : 1
+voegde eraan mag -> jou : 1
+eraan mag jou -> toch : 1
+mag jou toch -> wel : 1
+jou toch wel -> mags : 1
+toch wel mags -> of : 1
+wel mags of -> heb : 1
+mags of heb -> je : 1
+of heb je -> liever : 1
+heb je liever -> dat : 1
+je liever dat -> ik : 1
+liever dat ik -> je : 1
+dat ik je -> maggie : 1
+ik je maggie -> of : 1
+je maggie of -> rechercheur : 1
+maggie of rechercheur -> ze : 1
+of rechercheur ze -> keek : 1
+rechercheur ze keek -> hem : 1
+ze keek hem -> aan : 1
+ze keek hem -> zwijgend : 1
+keek hem aan -> met : 1
+hem aan met -> een : 1
+aan met een -> vraag : 1
+met een vraag -> in : 1
+een vraag in -> haar : 1
+vraag in haar -> alsof : 1
+alsof ze dacht -> dat : 1
+ze dacht dat -> hij : 1
+ze dacht dat -> billy : 1
+dacht dat hij -> misschien : 1
+dat hij misschien -> de : 1
+hij misschien de -> spot : 1
+misschien de spot -> met : 1
+de spot met -> haar : 1
+spot met haar -> toen : 1
+met haar toen -> ze : 1
+haar toen ze -> zag : 1
+toen ze zag -> dat : 1
+ze zag dat -> hij : 1
+zag dat hij -> het : 1
+dat hij het -> serieus : 1
+hij het serieus -> werd : 1
+het serieus werd -> haar : 1
+serieus werd haar -> gezicht : 1
+werd haar gezicht -> een : 1
+haar gezicht een -> beetje : 1
+gezicht een beetje -> ik : 1
+een beetje ik -> vind : 1
+beetje ik vind -> het : 1
+ik vind het -> prettig : 1
+vind het prettig -> als : 1
+het prettig als -> u : 1
+prettig als u -> me : 1
+als u me -> zo : 1
+u me zo -> hij : 1
+me zo hij -> glimlachte : 1
+zo hij glimlachte -> naar : 1
+hij glimlachte naar -> hij : 1
+glimlachte naar hij -> besefte : 1
+naar hij besefte -> dat : 1
+hij besefte dat -> hij : 1
+hij besefte dat -> het : 1
+besefte dat hij -> liever : 1
+dat hij liever -> aan : 1
+hij liever aan -> maggie : 1
+liever aan maggie -> en : 1
+aan maggie en -> aan : 1
+maggie en aan -> de : 1
+en aan de -> vraag : 1
+aan de vraag -> hoe : 1
+de vraag hoe -> hij : 1
+vraag hoe hij -> haar : 1
+hoe hij haar -> chinese : 1
+hij haar chinese -> muur : 1
+haar chinese muur -> kon : 1
+chinese muur kon -> dan : 1
+muur kon dan -> aan : 1
+kon dan aan -> niettemin : 1
+dan aan niettemin -> waren : 1
+aan niettemin waren -> zijn : 1
+niettemin waren zijn -> gedachten : 1
+waren zijn gedachten -> in : 1
+zijn gedachten in -> het : 1
+gedachten in het -> verleden : 1
+in het verleden -> blijven : 1
+het verleden blijven -> steken : 1
+verleden blijven steken -> en : 1
+blijven steken en -> wilden : 1
+steken en wilden -> ze : 1
+en wilden ze -> nergens : 1
+wilden ze nergens -> anders : 1
+ze nergens anders -> heb : 1
+nergens anders heb -> hem : 1
+anders heb hem -> leren : 1
+heb hem leren -> kennen : 1
+hem leren kennen -> toen : 1
+leren kennen toen -> ik : 1
+kennen toen ik -> tweedejaars : 1
+toen ik tweedejaars -> was : 1
+ik tweedejaars was -> op : 1
+tweedejaars was op -> de : 1
+was op de -> vertelde : 1
+was op de -> vloer : 1
+op de vertelde -> stride : 1
+de vertelde stride -> met : 1
+vertelde stride met -> zachte : 1
+stride met zachte -> was : 1
+met zachte was -> toen : 1
+zachte was toen -> verloofd : 1
+was toen verloofd -> met : 1
+toen verloofd met -> bill : 1
+verloofd met bill -> was : 1
+met bill was -> verloofd : 1
+bill was verloofd -> met : 1
+was verloofd met -> maggie : 1
+verloofd met maggie -> zei : 1
+met maggie zei -> hij : 1
+maggie zei hij -> vroeg : 1
+zei hij vroeg -> zich : 1
+hij vroeg zich -> af : 2
+vroeg zich af -> of : 1
+vroeg zich af -> wat : 1
+vroeg zich af -> welke : 1
+zich af of -> ze : 1
+af of ze -> het : 1
+of ze het -> onprettig : 1
+ze het onprettig -> vond : 1
+het onprettig vond -> dat : 1
+onprettig vond dat -> hij : 1
+vond dat hij -> over : 1
+dat hij over -> zijn : 1
+hij over zijn -> leven : 1
+over zijn leven -> hij : 1
+zijn leven hij -> ging : 1
+zijn leven hij -> pakte : 1
+leven hij ging -> evengoed : 1
+hij ging evengoed -> alsof : 1
+ging evengoed alsof -> hij : 1
+evengoed alsof hij -> tegen : 1
+alsof hij tegen -> zichzelf : 1
+hij tegen zichzelf -> grootste : 1
+tegen zichzelf grootste -> deel : 1
+zichzelf grootste deel -> van : 1
+grootste deel van -> onze : 1
+grootste deel van -> zijn : 1
+deel van onze -> studietijd : 1
+van onze studietijd -> waren : 1
+onze studietijd waren -> we : 1
+studietijd waren we -> wij : 1
+waren we wij -> we : 1
+we wij we -> waren : 1
+wij we waren -> altijd : 1
+we waren altijd -> bij : 1
+waren altijd bij -> je : 1
+altijd bij je -> weet : 1
+bij je weet -> hoe : 1
+je weet hoe -> het : 1
+weet hoe het -> is : 1
+hoe het is -> als : 1
+hoe het is -> lasalle : 1
+het is als -> je : 1
+is als je -> jong : 1
+als je jong -> je : 1
+je jong je -> denkt : 1
+jong je denkt -> dat : 1
+je denkt dat -> je : 2
+denkt dat je -> met : 1
+denkt dat je -> mensen : 2
+dat je met -> zijn : 1
+je met zijn -> allen : 1
+met zijn allen -> de : 1
+zijn allen de -> wereldproblemen : 1
+allen de wereldproblemen -> eventjes : 1
+de wereldproblemen eventjes -> aan : 1
+wereldproblemen eventjes aan -> tafel : 1
+eventjes aan tafel -> kunt : 1
+aan tafel kunt -> dat : 1
+tafel kunt dat -> begrijp : 1
+kunt dat begrijp -> zei : 1
+dat begrijp zei -> stride : 1
+begrijp zei stride -> wist : 1
+zei stride wist -> dat : 1
+stride wist dat -> zij : 1
+wist dat zij -> een : 1
+dat zij een -> heel : 1
+zij een heel -> andere : 1
+een heel andere -> studententijd : 1
+heel andere studententijd -> had : 1
+andere studententijd had -> gehad : 1
+studententijd had gehad -> dan : 1
+had gehad dan -> ze : 1
+gehad dan ze -> had : 1
+dan ze had -> luidkeels : 1
+ze had luidkeels -> en : 1
+had luidkeels en -> publiekelijk : 1
+luidkeels en publiekelijk -> tegen : 1
+en publiekelijk tegen -> de : 1
+publiekelijk tegen de -> chinese : 1
+tegen de chinese -> regering : 1
+de chinese regering -> en : 1
+chinese regering en -> kon : 1
+regering en kon -> nu : 1
+en kon nu -> niet : 1
+kon nu niet -> naar : 1
+nu niet naar -> huis : 1
+niet naar huis -> terug : 1
+naar huis terug -> zonder : 1
+huis terug zonder -> de : 1
+terug zonder de -> angst : 1
+zonder de angst -> dat : 1
+de angst dat -> ze : 1
+angst dat ze -> gearresteerd : 1
+dat ze gearresteerd -> zou : 1
+ze gearresteerd zou -> was : 1
+gearresteerd zou was -> voor : 1
+zou was voor -> maggie : 1
+was voor maggie -> nu : 1
+voor maggie nu -> dat : 1
+maggie nu dat -> wel : 1
+nu dat wel -> een : 1
+dat wel een -> heel : 1
+wel een heel -> intimiderende : 1
+een heel intimiderende -> stad : 1
+heel intimiderende stad -> voor : 1
+intimiderende stad voor -> haar : 1
+stad voor haar -> moest : 1
+voor haar moest -> hij : 1
+haar moest hij -> zei : 1
+moest hij zei -> weer : 1
+hij zei weer -> tegen : 1
+zei weer tegen -> zichzelf : 1
+weer tegen zichzelf -> dat : 1
+tegen zichzelf dat -> het : 1
+zichzelf dat het -> onredelijk : 1
+dat het onredelijk -> van : 1
+het onredelijk van -> hem : 1
+onredelijk van hem -> was : 1
+van hem was -> om : 1
+hem was om -> te : 1
+was om te -> verwachten : 1
+om te verwachten -> dat : 1
+te verwachten dat -> ze : 1
+verwachten dat ze -> zich : 1
+dat ze zich -> sneller : 1
+ze zich sneller -> aan : 1
+zich sneller aan -> dit : 1
+sneller aan dit -> leven : 1
+aan dit leven -> zou : 1
+dit leven zou -> dacht : 1
+leven zou dacht -> dat : 1
+zou dacht dat -> we : 1
+dacht dat we -> na : 1
+dat we na -> onze : 1
+we na onze -> studententijd : 1
+na onze studententijd -> allemaal : 1
+onze studententijd allemaal -> met : 1
+studententijd allemaal met -> elkaar : 1
+allemaal met elkaar -> in : 1
+met elkaar in -> contact : 1
+elkaar in contact -> zouden : 1
+in contact zouden -> ging : 1
+contact zouden ging -> hij : 1
+zouden ging hij -> is : 1
+ging hij is -> geen : 1
+hij is geen -> grote : 1
+is geen grote -> dus : 1
+geen grote dus -> je : 1
+grote dus je -> denkt : 1
+dus je denkt -> dat : 1
+dat je mensen -> niet : 1
+dat je mensen -> maar : 1
+je mensen niet -> kunt : 1
+mensen niet kunt -> toch : 1
+niet kunt toch -> gebeurt : 1
+kunt toch gebeurt -> ik : 1
+toch gebeurt ik -> ging : 1
+gebeurt ik ging -> bij : 1
+ik ging bij -> de : 1
+ging bij de -> politie : 1
+bij de politie -> en : 1
+bij de politie -> verdienen : 1
+de politie en -> bill : 1
+politie en bill -> werd : 1
+en bill werd -> we : 1
+bill werd we -> kwamen : 1
+werd we kwamen -> elkaar : 1
+we kwamen elkaar -> niet : 1
+kwamen elkaar niet -> veel : 1
+elkaar niet veel -> meer : 1
+niet veel meer -> cindy : 1
+veel meer cindy -> en : 1
+meer cindy en -> diane : 1
+cindy en diane -> ook : 1
+en diane ook -> we : 1
+diane ook we -> kwamen : 1
+ook we kwamen -> een : 1
+we kwamen een -> of : 1
+kwamen een of -> twee : 1
+een of twee -> keer : 1
+of twee keer -> per : 1
+twee keer per -> jaar : 1
+keer per jaar -> bij : 1
+per jaar bij -> maar : 1
+jaar bij maar -> het : 1
+bij maar het -> was : 1
+maar het was -> niet : 1
+het was niet -> meer : 1
+was niet meer -> onwillekeurig : 1
+niet meer onwillekeurig -> ga : 1
+meer onwillekeurig ga -> je : 1
+onwillekeurig ga je -> dingen : 1
+ga je dingen -> vergelijken : 1
+je dingen vergelijken -> en : 1
+dingen vergelijken en -> dan : 1
+vergelijken en dan -> besef : 1
+en dan besef -> je : 1
+dan besef je -> dat : 1
+besef je dat -> de : 1
+je dat de -> band : 1
+dat de band -> niet : 1
+de band niet -> meer : 1
+band niet meer -> zo : 1
+niet meer zo -> hecht : 1
+meer zo hecht -> is : 1
+zo hecht is -> als : 1
+hecht is als -> hij : 1
+is als hij -> fronste : 1
+als hij fronste -> zijn : 1
+hij fronste zijn -> wenkbrauwen : 1
+fronste zijn wenkbrauwen -> en : 1
+zijn wenkbrauwen en -> ging : 1
+wenkbrauwen en ging -> is : 1
+en ging is -> een : 1
+ging is een -> slechte : 1
+is een slechte -> tijd : 1
+een slechte tijd -> voor : 1
+slechte tijd voor -> bill : 1
+tijd voor bill -> ik : 1
+voor bill ik -> heb : 1
+bill ik heb -> hem : 1
+ik heb hem -> vorige : 1
+heb hem vorige -> maand : 1
+hem vorige maand -> een : 1
+vorige maand een -> paar : 1
+maand een paar -> keer : 1
+een paar keer -> gebeld : 1
+paar keer gebeld -> toen : 1
+keer gebeld toen -> ik : 1
+gebeld toen ik -> over : 1
+toen ik over -> hem : 1
+ik over hem -> en : 1
+over hem en -> diane : 1
+hem en diane -> had : 1
+en diane had -> er : 1
+diane had er -> bleef : 1
+had er bleef -> afstand : 1
+er bleef afstand -> tussen : 1
+bleef afstand tussen -> slechte : 1
+afstand tussen slechte -> vroeg : 1
+tussen slechte vroeg -> heeft : 1
+slechte vroeg heeft -> echtscheiding : 1
+vroeg heeft echtscheiding -> bill : 1
+heeft echtscheiding bill -> ontdekte : 1
+echtscheiding bill ontdekte -> dat : 1
+bill ontdekte dat -> ze : 1
+ontdekte dat ze -> al : 1
+dat ze al -> een : 1
+ze al een -> paar : 1
+al een paar -> jaar : 1
+een paar jaar -> een : 1
+paar jaar een -> verhouding : 1
+jaar een verhouding -> met : 1
+een verhouding met -> een : 1
+verhouding met een -> andere : 1
+met een andere -> man : 1
+een andere man -> is : 1
+andere man is -> stride : 1
+man is stride -> denkt : 1
+is stride denkt -> dat : 1
+stride denkt dat -> je : 1
+je mensen maar -> dat : 1
+mensen maar dat -> is : 1
+maar dat is -> niet : 1
+dat is niet -> hij : 1
+is niet hij -> reed : 1
+niet hij reed -> de : 1
+hij reed de -> grote : 1
+reed de grote -> brug : 1
+de grote brug -> over : 1
+grote brug over -> island : 1
+brug over island -> lake : 1
+over island lake -> het : 1
+island lake het -> water : 1
+lake het water -> was : 1
+het water was -> zwart : 1
+water was zwart -> en : 1
+was zwart en -> en : 1
+zwart en en -> de : 1
+en en de -> wind : 1
+en de wind -> beukte : 1
+de wind beukte -> tegen : 1
+wind beukte tegen -> zijn : 1
+beukte tegen zijn -> hij : 1
+tegen zijn hij -> was : 1
+zijn hij was -> maar : 1
+hij was maar -> twee : 1
+was maar twee -> keer : 1
+maar twee keer -> in : 1
+twee keer in -> bills : 1
+keer in bills -> jachthut : 1
+in bills jachthut -> bijna : 1
+bills jachthut bijna -> vijf : 1
+jachthut bijna vijf -> jaar : 1
+bijna vijf jaar -> geleden : 1
+vijf jaar geleden -> voor : 1
+jaar geleden voor -> het : 1
+geleden voor het -> hij : 1
+voor het hij -> wist : 1
+het hij wist -> niet : 1
+hij wist niet -> of : 1
+wist niet of -> hij : 1
+niet of hij -> de : 1
+of hij de -> weg : 1
+hij de weg -> nog : 1
+de weg nog -> wist : 1
+weg nog wist -> als : 1
+nog wist als -> hij : 1
+wist als hij -> eenmaal : 1
+als hij eenmaal -> op : 1
+hij eenmaal op -> de : 1
+eenmaal op de -> noordelijke : 1
+op de noordelijke -> oever : 1
+de noordelijke oever -> van : 1
+noordelijke oever van -> het : 1
+het meer maar -> drie : 1
+meer maar drie -> kilometer : 1
+maar drie kilometer -> verder : 1
+drie kilometer verder -> zag : 1
+kilometer verder zag -> hij : 1
+verder zag hij -> een : 1
+zag hij een -> politiewagen : 1
+zag hij een -> houten : 1
+hij een politiewagen -> in : 1
+een politiewagen in -> de : 1
+politiewagen in de -> berm : 1
+in de berm -> van : 1
+de berm van -> highway : 1
+berm van highway -> hij : 1
+van highway hij -> knikte : 1
+highway hij knikte -> naar : 1
+hij knikte naar -> de : 1
+knikte naar de -> agent : 1
+naar de agent -> achter : 1
+de agent achter -> het : 1
+agent achter het -> stuur : 1
+achter het stuur -> en : 1
+het stuur en -> sloeg : 1
+stuur en sloeg -> links : 1
+en sloeg links -> af : 1
+sloeg links af -> tussen : 1
+links af tussen -> de : 1
+af tussen de -> bomen : 1
+tussen de bomen -> een : 1
+tussen de bomen -> leidden : 1
+de bomen een -> onverharde : 1
+bomen een onverharde -> weg : 1
+een onverharde weg -> heeft : 1
+onverharde weg heeft -> het : 1
+weg heeft het -> lijk : 1
+heeft het lijk -> vroeg : 1
+het lijk vroeg -> broer : 1
+lijk vroeg broer -> zei : 1
+vroeg broer zei -> je : 1
+broer zei je -> heb : 1
+zei je heb -> hem : 1
+je heb hem -> weleens : 1
+heb hem weleens -> hij : 1
+hem weleens hij -> is : 1
+weleens hij is -> vijf : 1
+hij is vijf -> jaar : 1
+is vijf jaar -> jonger : 1
+vijf jaar jonger -> dan : 1
+jaar jonger dan -> vertel : 1
+jonger dan vertel -> me : 1
+dan vertel me -> nog : 1
+vertel me nog -> eens : 1
+me nog eens -> hoe : 1
+nog eens hoe -> het : 1
+eens hoe het -> is : 1
+het is lasalle -> zegt : 1
+is lasalle zegt -> dat : 1
+lasalle zegt dat -> hij : 1
+zegt dat hij -> vanmorgen : 1
+dat hij vanmorgen -> vroeg : 1
+hij vanmorgen vroeg -> naar : 1
+vanmorgen vroeg naar -> de : 1
+vroeg naar de -> hut : 1
+naar de hut -> kwam : 1
+de hut kwam -> om : 1
+hut kwam om -> met : 1
+kwam om met -> zijn : 1
+om met zijn -> broer : 1
+met zijn broer -> te : 1
+zijn broer te -> gaan : 1
+broer te gaan -> de : 1
+te gaan de -> deur : 1
+gaan de deur -> stond : 1
+de deur stond -> open : 1
+deur stond open -> en : 1
+stond open en -> het : 1
+stond open en -> randy : 1
+open en het -> was : 1
+en het was -> een : 1
+het was een -> enorme : 1
+het was een -> rustiek : 1
+was een enorme -> puinhoop : 1
+een enorme puinhoop -> in : 1
+enorme puinhoop in -> de : 1
+puinhoop in de -> er : 1
+in de er -> waren : 1
+de er waren -> dingen : 1
+er waren dingen -> kapot : 1
+er waren dingen -> zijn : 1
+waren dingen kapot -> en : 1
+dingen kapot en -> er : 1
+kapot en er -> waren : 1
+en er waren -> dingen : 1
+waren dingen zijn -> broer : 1
+dingen zijn broer -> lag : 1
+zijn broer lag -> dood : 1
+broer lag dood -> op : 1
+lag dood op -> de : 1
+dood op de -> met : 1
+op de met -> een : 1
+de met een -> schotwond : 1
+met een schotwond -> van : 1
+een schotwond van -> een : 1
+schotwond van een -> geweer : 1
+van een geweer -> in : 1
+een geweer in -> zijn : 1
+geweer in zijn -> was : 1
+in zijn was -> het : 1
+zijn was het -> is : 1
+was het is -> zei : 1
+het is zei -> stride : 1
+is zei stride -> keek : 1
+zei stride keek -> haar : 1
+keek haar ze -> u : 1
+haar ze u -> dat : 1
+ze u dat -> we : 1
+u dat we -> het : 1
+we het zouden -> dat : 1
+het zouden dat -> dacht : 1
+zouden dat dacht -> hij : 1
+dat dacht hij -> legde : 1
+dacht hij legde -> het : 1
+hij legde het -> niet : 1
+legde het niet -> stride : 1
+het niet stride -> zag : 1
+niet stride zag -> politiewagens : 1
+stride zag politiewagens -> op : 1
+zag politiewagens op -> een : 1
+politiewagens op een -> veld : 1
+op een veld -> geparkeerd : 1
+een veld geparkeerd -> een : 1
+veld geparkeerd een -> wandelpad : 1
+geparkeerd een wandelpad -> leidde : 1
+een wandelpad leidde -> naar : 1
+wandelpad leidde naar -> het : 1
+leidde naar het -> en : 1
+naar het en -> de : 1
+het en de -> oude : 1
+en de oude -> jachthut : 1
+de oude jachthut -> stond : 1
+oude jachthut stond -> tussen : 1
+jachthut stond tussen -> de : 1
+stond tussen de -> hij : 1
+tussen de hij -> kon : 1
+de hij kon -> zich : 1
+hij kon zich -> de : 1
+kon zich de -> hut : 1
+zich de hut -> het : 1
+de hut het -> was : 1
+hut het was -> een : 1
+was een rustiek -> bouwsel : 1
+een rustiek bouwsel -> van : 1
+rustiek bouwsel van -> dikke : 1
+bouwsel van dikke -> kamer : 1
+van dikke kamer -> en : 1
+dikke kamer en -> met : 1
+kamer en met -> een : 1
+en met een -> haard : 1
+met een haard -> als : 1
+een haard als -> verwarming : 1
+haard als verwarming -> en : 1
+als verwarming en -> een : 1
+verwarming en een -> oliegenerator : 1
+en een oliegenerator -> voor : 1
+een oliegenerator voor -> de : 1
+oliegenerator voor de -> hij : 1
+voor de hij -> had : 1
+de hij had -> het : 1
+hij had het -> vreemd : 1
+had het vreemd -> gevonden : 1
+het vreemd gevonden -> dat : 1
+vreemd gevonden dat -> een : 1
+gevonden dat een -> succesvolle : 1
+dat een succesvolle -> advocaat : 1
+een succesvolle advocaat -> als : 1
+succesvolle advocaat als -> bill : 1
+advocaat als bill -> niet : 1
+als bill niet -> voor : 1
+bill niet voor -> een : 1
+niet voor een -> buitenhuis : 1
+voor een buitenhuis -> met : 1
+een buitenhuis met -> meer : 1
+buitenhuis met meer -> luxe : 1
+met meer luxe -> had : 1
+meer luxe had -> want : 1
+luxe had want -> dat : 1
+had want dat -> had : 1
+want dat had -> hij : 1
+dat had hij -> zich : 1
+had hij zich -> gemakkelijk : 1
+hij zich gemakkelijk -> kunnen : 1
+zich gemakkelijk kunnen -> maar : 1
+gemakkelijk kunnen maar -> bill : 1
+kunnen maar bill -> zei : 1
+maar bill zei -> dat : 1
+bill zei dat -> hij : 1
+zei dat hij -> in : 1
+dat hij in -> de : 1
+hij in de -> hut : 1
+in de hut -> altijd : 1
+in de hut -> vroeg : 1
+de hut altijd -> het : 1
+hut altijd het -> gevoel : 1
+altijd het gevoel -> had : 1
+het gevoel had -> dat : 1
+gevoel had dat -> hij : 1
+had dat hij -> naar : 1
+dat hij naar -> zijn : 1
+hij naar zijn -> kinderjaren : 1
+naar zijn kinderjaren -> eenvoudiger : 1
+zijn kinderjaren eenvoudiger -> stride : 1
+kinderjaren eenvoudiger stride -> stapte : 1
+eenvoudiger stride stapte -> en : 1
+stride stapte en -> zijn : 1
+stapte en zijn -> voeten : 1
+en zijn voeten -> zakten : 1
+zijn voeten zakten -> meteen : 1
+voeten zakten meteen -> weg : 1
+zakten meteen weg -> in : 1
+meteen weg in -> natte : 1
+weg in natte -> modder : 1
+in natte modder -> en : 1
+natte modder en -> dode : 1
+modder en dode -> een : 1
+en dode een -> hele : 1
+dode een hele -> dag : 1
+een hele dag -> regen : 1
+hele dag regen -> had : 1
+dag regen had -> de : 1
+regen had de -> grond : 1
+had de grond -> drijfnat : 1
+de grond drijfnat -> maggie : 1
+grond drijfnat maggie -> liep : 1
+drijfnat maggie liep -> recht : 1
+maggie liep recht -> op : 1
+liep recht op -> de : 1
+recht op de -> hut : 1
+op de hut -> maar : 1
+de hut maar -> stride : 1
+hut maar stride -> liep : 1
+maar stride liep -> naar : 1
+stride liep naar -> een : 1
+liep naar een -> vuile : 1
+naar een vuile -> zwarte : 1
+een vuile zwarte -> aan : 1
+vuile zwarte aan -> het : 1
+zwarte aan het -> eind : 1
+aan het eind -> van : 2
+het eind van -> de : 2
+eind van de -> waarin : 1
+eind van de -> zuidelijke : 1
+van de waarin -> hij : 1
+de waarin hij -> bills : 1
+waarin hij bills -> broer : 1
+hij bills broer -> zag : 1
+bills broer zag -> het : 1
+broer zag het -> portier : 1
+zag het portier -> van : 1
+het portier van -> de : 1
+portier van de -> auto : 1
+portier van de -> vind : 1
+van de auto -> stond : 1
+de auto stond -> open : 1
+auto stond open -> en : 1
+open en randy -> had : 1
+en randy had -> zijn : 1
+randy had zijn -> gezicht : 1
+had zijn gezicht -> in : 1
+zijn gezicht in -> zijn : 1
+gezicht in zijn -> handen : 1
+in zijn handen -> laten : 1
+zijn handen laten -> maggie : 1
+handen laten maggie -> keek : 1
+laten maggie keek -> stride : 1
+maggie keek stride -> aan : 1
+keek stride aan -> om : 1
+stride aan om -> te : 1
+aan om te -> vragen : 1
+om te vragen -> of : 1
+te vragen of -> ze : 1
+vragen of ze -> met : 1
+of ze met -> hem : 1
+ze met hem -> mee : 1
+met hem mee -> moest : 1
+hem mee moest -> maar : 1
+mee moest maar -> hij : 1
+moest maar hij -> stuurde : 1
+maar hij stuurde -> haar : 1
+hij stuurde haar -> met : 1
+stuurde haar met -> een : 1
+haar met een -> gebaar : 1
+met een gebaar -> naar : 1
+een gebaar naar -> de : 1
+een gebaar naar -> maar : 1
+gebaar naar de -> plaats : 1
+naar de plaats -> van : 1
+de plaats van -> het : 1
+plaats van het -> gaat : 1
+van het gaat -> bills : 1
+het gaat bills -> broer : 1
+gaat bills broer -> keek : 1
+bills broer keek -> op : 1
+bills broer keek -> naar : 1
+broer keek op -> en : 1
+keek op en -> herkende : 1
+op en herkende -> zijn : 1
+en herkende zijn -> ogen : 1
+herkende zijn ogen -> waren : 1
+zijn ogen waren -> een : 1
+ogen waren een -> en : 1
+waren een en -> al : 1
+en al rode -> en : 1
+al rode en -> de : 1
+rode en de -> tranen : 1
+en de tranen -> hadden : 1
+de tranen hadden -> strepen : 1
+tranen hadden strepen -> getrokken : 1
+hadden strepen getrokken -> in : 1
+strepen getrokken in -> het : 1
+getrokken in het -> vuil : 1
+in het vuil -> op : 1
+het vuil op -> zijn : 1
+vuil op zijn -> kan : 1
+op zijn kan -> het : 1
+zijn kan het -> gewoon : 1
+kan het gewoon -> niet : 1
+het gewoon niet -> zei : 1
+gewoon niet zei -> me : 1
+niet zei me -> wat : 1
+zei me wat -> er : 1
+me wat er -> is : 1
+wat er is -> randy : 1
+er is randy -> veegde : 1
+is randy veegde -> zijn : 1
+randy veegde zijn -> neus : 1
+veegde zijn neus -> af : 1
+zijn neus af -> aan : 1
+neus af aan -> de : 1
+af aan de -> mouw : 1
+aan de mouw -> van : 1
+de mouw van -> een : 1
+mouw van een -> zijn : 1
+van een zijn -> hij : 1
+een zijn hij -> droeg : 1
+zijn hij droeg -> een : 1
+hij droeg een -> oranje : 1
+hij droeg een -> dikke : 1
+droeg een oranje -> bodywarmer : 1
+een oranje bodywarmer -> en : 1
+oranje bodywarmer en -> een : 1
+bodywarmer en een -> valt : 1
+en een valt -> niet : 1
+een valt niet -> veel : 1
+valt niet veel -> te : 1
+niet veel te -> ik : 1
+veel te ik -> zou : 1
+te ik zou -> billy : 1
+ik zou billy -> hier : 1
+zou billy hier -> vanmorgen : 1
+billy hier vanmorgen -> in : 1
+hier vanmorgen in -> alle : 1
+vanmorgen in alle -> vroegte : 1
+in alle vroegte -> dan : 1
+alle vroegte dan -> konden : 1
+vroegte dan konden -> we : 1
+dan konden we -> voor : 1
+konden we voor -> zonsopgang : 1
+we voor zonsopgang -> het : 1
+voor zonsopgang het -> bos : 1
+zonsopgang het bos -> toen : 1
+het bos toen -> ik : 1
+bos toen ik -> hier : 1
+toen ik hier -> stond : 1
+ik hier stond -> de : 1
+hier stond de -> deur : 1
+stond de deur -> open : 1
+de deur open -> en : 1
+deur open en -> vond : 1
+open en vond -> ik : 1
+en vond ik -> het : 1
+vond ik het -> is : 1
+ik het is -> bill : 1
+het is bill -> in : 1
+is bill in -> de : 1
+bill in de -> hut : 1
+bill in de -> ging : 1
+de hut vroeg -> denk : 1
+hut vroeg denk -> van : 1
+vroeg denk van -> het : 1
+denk van het -> bloed : 1
+van het bloed -> op : 1
+het bloed op -> de : 1
+bloed op de -> vloer : 1
+op de vloer -> het : 1
+op de vloer -> de : 1
+de vloer het -> was : 1
+vloer het was -> billy : 1
+het was billy -> had : 1
+was billy had -> daar : 1
+billy had daar -> al : 1
+had daar al -> een : 1
+daar al een -> tijdje : 1
+al een tijdje -> deed : 1
+een tijdje deed -> reed : 1
+tijdje deed reed -> naar : 1
+deed reed naar -> een : 1
+reed naar een -> benzinestation : 1
+naar een benzinestation -> om : 1
+een benzinestation om -> jullie : 1
+benzinestation om jullie -> te : 1
+om jullie te -> en : 1
+jullie te en -> toen : 1
+te en toen -> bleef : 1
+en toen bleef -> ik : 1
+toen bleef ik -> op : 1
+bleef ik op -> de : 1
+ik op de -> zandweg : 1
+op de zandweg -> staan : 1
+de zandweg staan -> wachten : 1
+zandweg staan wachten -> om : 1
+staan wachten om -> de : 1
+wachten om de -> politie : 1
+om de politie -> de : 1
+de politie de -> weg : 1
+politie de weg -> te : 1
+de weg te -> stride : 1
+weg te stride -> je : 1
+te stride je -> diane : 1
+stride je diane -> randy : 1
+je diane randy -> trok : 1
+diane randy trok -> zijn : 1
+randy trok zijn -> gezicht : 2
+trok zijn gezicht -> samen : 2
+zijn gezicht samen -> van : 2
+gezicht samen van -> mooi : 1
+gezicht samen van -> gaat : 1
+samen van mooi -> het : 1
+van mooi het -> ze : 1
+mooi het ze -> zijn : 1
+het ze zijn -> nog : 1
+ze zijn nog -> steeds : 1
+zijn nog steeds -> weet : 1
+nog steeds weet -> ze : 1
+steeds weet ze -> krijgt : 1
+weet ze krijgt -> nu : 1
+ze krijgt nu -> al : 1
+krijgt nu al -> bills : 1
+nu al bills -> het : 1
+al bills het -> is : 1
+bills het is -> niet : 1
+het is niet -> stride : 1
+is niet stride -> haalde : 1
+niet stride haalde -> een : 1
+stride haalde een -> pakje : 1
+haalde een pakje -> sigaretten : 1
+een pakje sigaretten -> uit : 1
+pakje sigaretten uit -> zijn : 1
+sigaretten uit zijn -> hij : 1
+uit zijn hij -> maakte : 1
+zijn hij maakte -> een : 1
+hij maakte een -> gebaar : 1
+maakte een gebaar -> naar : 1
+gebaar naar maar -> die : 1
+naar maar die -> schudde : 1
+maar die schudde -> zijn : 1
+die schudde zijn -> stride : 1
+schudde zijn stride -> tikte : 1
+zijn stride tikte -> een : 1
+stride tikte een -> sigaret : 1
+tikte een sigaret -> uit : 1
+een sigaret uit -> het : 1
+sigaret uit het -> pakje : 1
+uit het pakje -> en : 1
+het pakje en -> stak : 1
+pakje en stak -> hem : 1
+en stak hem -> hij : 1
+stak hem hij -> beperkte : 1
+hem hij beperkte -> zich : 1
+hij beperkte zich -> tegenwoordig : 1
+beperkte zich tegenwoordig -> tot : 1
+zich tegenwoordig tot -> een : 1
+tegenwoordig tot een -> paar : 1
+tot een paar -> sigaretten : 1
+een paar sigaretten -> per : 1
+paar sigaretten per -> behalve : 1
+sigaretten per behalve -> wanneer : 1
+per behalve wanneer -> het : 1
+behalve wanneer het -> een : 1
+wanneer het een -> heel : 1
+het een heel -> slechte : 1
+een heel slechte -> dag : 1
+heel slechte dag -> cindy : 1
+slechte dag cindy -> had : 1
+dag cindy had -> er : 1
+cindy had er -> de : 1
+had er de -> pest : 1
+er de pest -> aan : 1
+de pest aan -> dat : 1
+pest aan dat -> hij : 1
+aan dat hij -> nog : 1
+dat hij nog -> hij : 1
+hij nog hij -> keek : 1
+nog hij keek -> aandachtig : 1
+hij keek aandachtig -> naar : 1
+keek aandachtig naar -> die : 1
+aandachtig naar die -> trilde : 1
+naar die trilde -> als : 1
+die trilde als -> de : 1
+trilde als de -> schaduw : 1
+als de schaduw -> van : 1
+de schaduw van -> een : 1
+de schaduw van -> zijn : 1
+schaduw van een -> kaars : 1
+van een kaars -> op : 1
+een kaars op -> een : 1
+kaars op een -> randy : 1
+op een randy -> was : 1
+een randy was -> net : 1
+randy was net -> als : 1
+was net als -> met : 1
+net als met -> rossig : 1
+als met rossig -> blond : 1
+met rossig blond -> bills : 1
+rossig blond bills -> eigen : 1
+blond bills eigen -> haar : 1
+bills eigen haar -> was : 1
+eigen haar was -> vroeg : 1
+haar was vroeg -> grijs : 1
+was vroeg grijs -> en : 1
+vroeg grijs en -> bill : 1
+grijs en bill -> hield : 1
+en bill hield -> het : 1
+bill hield het -> zoals : 1
+hield het zoals -> het : 1
+het zoals het -> een : 1
+zoals het een -> advocaat : 1
+het een advocaat -> randy : 1
+een advocaat randy -> was : 1
+advocaat randy was -> het : 1
+randy was het -> grootste : 1
+was het grootste -> deel : 1
+het grootste deel -> van : 1
+deel van zijn -> leven : 1
+van zijn leven -> in : 1
+zijn leven in -> de : 1
+leven in de -> schaduw : 1
+in de schaduw -> van : 1
+schaduw van zijn -> oudere : 1
+van zijn oudere -> broer : 1
+zijn oudere broer -> bill : 1
+oudere broer bill -> was : 1
+broer bill was -> de : 1
+bill was de -> succesvolle : 1
+was de succesvolle -> de : 1
+de succesvolle de -> getrouwde : 1
+succesvolle de getrouwde -> de : 1
+de getrouwde de -> stabiele : 1
+getrouwde de stabiele -> randy : 1
+de stabiele randy -> fladderde : 1
+stabiele randy fladderde -> van : 1
+randy fladderde van -> baan : 1
+fladderde van baan -> naar : 1
+van baan naar -> van : 1
+baan naar van -> meisje : 1
+naar van meisje -> naar : 1
+van meisje naar -> was : 1
+meisje naar was -> je : 1
+naar was je -> vroeg : 1
+was je vroeg -> bedoel : 1
+je vroeg bedoel -> stride : 1
+vroeg bedoel stride -> blies : 1
+bedoel stride blies -> rook : 1
+stride blies rook -> waar : 1
+blies rook waar -> woon : 1
+rook waar woon -> je : 1
+waar woon je -> je : 1
+woon je je -> bent : 1
+je je bent -> een : 1
+je bent een -> tijdje : 1
+bent een tijdje -> geleden : 1
+een tijdje geleden -> toch : 1
+tijdje geleden toch -> uit : 1
+geleden toch uit -> je : 1
+toch uit je -> huis : 1
+uit je huis -> randy : 1
+je huis randy -> stak : 1
+huis randy stak -> zijn : 1
+randy stak zijn -> onderlip : 1
+stak zijn onderlip -> naar : 1
+zijn onderlip naar -> bank : 1
+onderlip naar bank -> heeft : 1
+naar bank heeft -> het : 1
+bank heeft het -> in : 1
+heeft het in -> beslag : 1
+het in beslag -> ik : 1
+in beslag ik -> zit : 1
+beslag ik zit -> nu : 1
+ik zit nu -> in : 1
+zit nu in -> een : 1
+nu in een -> flatje : 1
+in een flatje -> in : 1
+een flatje in -> de : 1
+flatje in de -> daar : 1
+in de daar -> was : 1
+de daar was -> daar : 1
+daar was daar -> was : 1
+was daar was -> antwoordde : 1
+daar was antwoordde -> hij : 1
+was antwoordde hij -> klonk : 1
+antwoordde hij klonk -> nu : 1
+hij klonk nu -> een : 1
+klonk nu een -> beetje : 1
+nu een beetje -> wil : 1
+een beetje wil -> je : 1
+beetje wil je -> je : 1
+wil je je -> stride : 1
+je je stride -> ging : 1
+je stride ging -> niet : 1
+stride ging niet -> op : 1
+ging niet op -> de : 1
+niet op de -> vraag : 1
+op de vraag -> dat : 1
+de vraag dat -> ik : 1
+vraag dat ik -> woon : 1
+dat ik woon -> met : 1
+ik woon met -> een : 1
+woon met een -> meisje : 1
+met een meisje -> het : 1
+een meisje het -> is : 1
+meisje het is -> haar : 1
+het is haar -> heet : 1
+is haar heet -> stride : 1
+haar heet stride -> klapte : 1
+heet stride klapte -> een : 1
+stride klapte een -> notitieboekje : 1
+klapte een notitieboekje -> open : 1
+een notitieboekje open -> en : 1
+notitieboekje open en -> gaf : 1
+open en gaf -> hem : 1
+en gaf hem -> pen : 1
+gaf hem pen -> en : 1
+hem pen en -> haar : 1
+pen en haar -> telefoonnummer : 1
+en haar telefoonnummer -> randy : 1
+haar telefoonnummer randy -> wierp : 1
+telefoonnummer randy wierp -> hem : 1
+randy wierp hem -> een : 1
+wierp hem een -> norse : 1
+hem een norse -> blik : 1
+een norse blik -> toe : 1
+norse blik toe -> en : 1
+blik toe en -> schreef : 1
+toe en schreef -> toen : 1
+en schreef toen -> de : 1
+schreef toen de -> cijfers : 1
+toen de cijfers -> op : 1
+de cijfers op -> het : 1
+cijfers op het -> heb : 1
+op het heb -> billy : 1
+het heb billy -> niet : 1
+heb billy niet -> dat : 1
+billy niet dat -> zou : 1
+niet dat zou -> ik : 1
+dat zou ik -> nooit : 1
+zou ik nooit -> stride : 1
+ik nooit stride -> heb : 1
+nooit stride heb -> niet : 1
+stride heb niet -> gezegd : 1
+heb niet gezegd -> dat : 1
+niet gezegd dat -> jij : 1
+gezegd dat jij -> het : 1
+dat jij het -> hebt : 1
+jij het hebt -> hij : 1
+het hebt hij -> vouwde : 1
+hebt hij vouwde -> het : 1
+hij vouwde het -> papier : 1
+vouwde het papier -> op : 1
+het papier op -> en : 1
+papier op en -> stopte : 1
+op en stopte -> het : 1
+en stopte het -> in : 1
+stopte het in -> zijn : 1
+het in zijn -> toen : 1
+in zijn toen -> draaide : 1
+zijn toen draaide -> hij : 1
+toen draaide hij -> zich : 1
+draaide hij zich -> abrupt : 1
+hij zich abrupt -> om : 1
+zich abrupt om -> en : 1
+abrupt om en -> liet : 1
+om en liet -> hij : 1
+en liet hij -> randy : 1
+liet hij randy -> in : 1
+hij randy in -> zijn : 1
+randy in zijn -> hij : 1
+in zijn hij -> liep : 1
+zijn hij liep -> naar : 1
+hij liep naar -> zijn : 1
+liep naar zijn -> eigen : 1
+naar zijn eigen -> rookte : 1
+zijn eigen rookte -> zijn : 1
+eigen rookte zijn -> sigaret : 1
+rookte zijn sigaret -> op : 1
+zijn sigaret op -> en : 1
+sigaret op en -> drukte : 1
+op en drukte -> hem : 1
+en drukte hem -> uit : 1
+drukte hem uit -> in : 1
+hem uit in -> de : 1
+uit in de -> met : 1
+in de met -> zijn : 1
+de met zijn -> armen : 1
+met zijn armen -> over : 1
+zijn armen over -> elkaar : 1
+armen over elkaar -> liep : 1
+over elkaar liep -> hij : 1
+elkaar liep hij -> naar : 1
+liep hij naar -> de : 1
+hij naar de -> jachthut : 1
+naar de jachthut -> om : 1
+de jachthut om -> hem : 1
+jachthut om hem -> heen : 1
+om hem heen -> kwamen : 1
+hem heen kwamen -> en : 1
+heen kwamen en -> gingen : 1
+kwamen en gingen -> de : 1
+en gingen de -> technisch : 1
+gingen de technisch -> ze : 1
+de technisch ze -> hadden : 1
+technisch ze hadden -> en : 1
+ze hadden en -> plastic : 1
+hadden en plastic -> hij : 1
+en plastic hij -> zag : 1
+plastic hij zag -> maggie : 1
+hij zag maggie -> bij : 1
+hij zag maggie -> ongemakkelijk : 1
+zag maggie bij -> de : 1
+maggie bij de -> deur : 1
+de deur van -> de : 1
+deur van de -> hut : 1
+van de hut -> met : 1
+de hut met -> de : 1
+hut met de -> chef : 1
+met de chef -> van : 1
+de chef van -> de : 1
+chef van de -> technisch : 1
+van de technisch -> rechercheurs : 1
+de technisch rechercheurs -> max : 1
+technisch rechercheurs max -> een : 1
+rechercheurs max een -> verwaande : 1
+max een verwaande -> cherubijn : 1
+een verwaande cherubijn -> van : 1
+verwaande cherubijn van -> een : 1
+cherubijn van een -> meter : 1
+van een meter -> vijftig : 1
+een meter vijftig -> die : 1
+meter vijftig die -> eruitzag : 1
+vijftig die eruitzag -> alsof : 1
+die eruitzag alsof -> hij : 1
+eruitzag alsof hij -> een : 1
+alsof hij een -> volleybal : 1
+hij een volleybal -> had : 1
+een volleybal had -> maakte : 1
+volleybal had maakte -> opgewonden : 1
+had maakte opgewonden -> armgebaren : 1
+maakte opgewonden armgebaren -> naar : 1
+opgewonden armgebaren naar -> stride : 1
+armgebaren naar stride -> keek : 1
+naar stride keek -> naar : 1
+stride keek naar -> het : 1
+keek naar het -> pad : 1
+naar het pad -> en : 1
+het pad en -> de : 1
+pad en de -> modder : 1
+en de modder -> en : 1
+de modder en -> struiken : 1
+modder en struiken -> bij : 1
+en struiken bij -> de : 1
+struiken bij de -> hij : 1
+bij de hij -> tuurde : 1
+bij de hij -> gaf : 1
+de hij tuurde -> naar : 1
+hij tuurde naar -> het : 1
+tuurde naar het -> wandelpad : 1
+tuurde naar het -> rommelige : 1
+naar het wandelpad -> dat : 1
+het wandelpad dat -> tussen : 1
+wandelpad dat tussen -> de : 1
+dat tussen de -> druipnatte : 1
+tussen de druipnatte -> dennen : 1
+de druipnatte dennen -> door : 1
+druipnatte dennen door -> naar : 1
+dennen door naar -> island : 1
+door naar island -> lake : 1
+naar island lake -> toen : 1
+island lake toen -> hij : 1
+lake toen hij -> dichterbij : 1
+toen hij dichterbij -> keek : 1
+hij dichterbij keek -> hij : 1
+dichterbij keek hij -> door : 1
+keek hij door -> de : 1
+door de deuropening -> naar : 2
+de deuropening naar -> het : 1
+de deuropening naar -> binnen : 1
+deuropening naar het -> kleine : 1
+naar het kleine -> interieur : 1
+het kleine interieur -> van : 1
+kleine interieur van -> de : 1
+interieur van de -> maar : 1
+van de maar -> in : 1
+de maar in -> het : 1
+maar in het -> halfduister : 1
+in het halfduister -> kon : 1
+het halfduister kon -> hij : 1
+halfduister kon hij -> geen : 1
+kon hij geen -> details : 1
+hij geen details -> toen : 1
+geen details toen -> er : 1
+details toen er -> opeens : 1
+toen er opeens -> een : 1
+er opeens een -> camera : 1
+opeens een camera -> zag : 1
+een camera zag -> hij : 1
+camera zag hij -> een : 1
+hij een houten -> stoel : 1
+een houten stoel -> die : 1
+houten stoel die -> was : 1
+stoel die was -> en : 1
+die was en -> een : 1
+was en een -> lichaam : 1
+en een lichaam -> op : 1
+een lichaam op -> de : 1
+lichaam op de -> hij : 1
+op de hij -> bleef : 1
+hij bleef even -> in : 1
+bleef even in -> de : 1
+even in de -> deuropening : 1
+in de deuropening -> staan : 1
+de deuropening staan -> voordat : 1
+deuropening staan voordat -> hij : 1
+staan voordat hij -> naar : 1
+voordat hij naar -> binnen : 1
+hij naar binnen -> de : 1
+naar binnen de -> ijskoude : 1
+binnen de ijskoude -> lucht : 1
+de ijskoude lucht -> maskeerde : 1
+ijskoude lucht maskeerde -> de : 1
+lucht maskeerde de -> stank : 1
+maskeerde de stank -> van : 1
+de stank van -> dood : 1
+stank van dood -> en : 1
+van dood en -> hij : 1
+dood en hij -> kon : 1
+en hij kon -> bill : 1
+hij kon bill -> nu : 1
+kon bill nu -> heel : 1
+bill nu heel -> goed : 1
+nu heel goed -> bill : 1
+heel goed bill -> had : 1
+goed bill had -> zijn : 1
+bill had zijn -> ogen : 1
+had zijn ogen -> dicht : 1
+zijn ogen dicht -> en : 1
+ogen dicht en -> lag : 1
+dicht en lag -> met : 1
+en lag met -> gestrekte : 1
+lag met gestrekte -> armen : 1
+met gestrekte armen -> en : 1
+gestrekte armen en -> benen : 1
+armen en benen -> op : 1
+en benen op -> de : 1
+benen op de -> koude : 1
+op de koude -> houten : 1
+de koude houten -> hij : 1
+koude houten hij -> was : 1
+houten hij was -> al : 1
+hij was al -> niet : 1
+was al niet -> maar : 1
+al niet maar -> zijn : 1
+niet maar zijn -> lichaam : 1
+maar zijn lichaam -> leek : 1
+zijn lichaam leek -> ook : 1
+lichaam leek ook -> nog : 1
+leek ook nog -> zoals : 1
+ook nog zoals -> met : 1
+nog zoals met -> lijken : 1
+zoals met lijken -> het : 1
+met lijken het -> geval : 1
+lijken het geval -> hij : 1
+het geval hij -> droeg : 1
+geval hij droeg -> een : 1
+droeg een dikke -> een : 1
+een dikke een -> broek : 1
+dikke een broek -> en : 1
+een broek en -> maar : 1
+broek en maar -> zijn : 1
+en maar zijn -> handen : 1
+maar zijn handen -> waren : 1
+zijn handen waren -> bij : 1
+handen waren bij -> de : 1
+waren bij de -> ronde : 1
+bij de ronde -> ingangswond : 1
+de ronde ingangswond -> op : 1
+ronde ingangswond op -> zijn : 1
+ingangswond op zijn -> slaap : 1
+op zijn slaap -> was : 1
+zijn slaap was -> de : 1
+slaap was de -> huid : 1
+was de huid -> er : 1
+de huid er -> plakten : 1
+huid er plakten -> witte : 1
+er plakten witte -> klodders : 1
+plakten witte klodders -> op : 1
+witte klodders op -> het : 1
+klodders op het -> tweed : 1
+op het tweed -> van : 1
+het tweed van -> de : 1
+tweed van de -> bank : 1
+van de bank -> achter : 1
+de bank achter -> als : 1
+bank achter als -> bloemkool : 1
+achter als bloemkool -> dat : 1
+als bloemkool dat -> uit : 1
+bloemkool dat uit -> het : 1
+dat uit het -> bord : 1
+uit het bord -> van : 1
+het bord van -> een : 1
+bord van een -> kind : 1
+van een kind -> was : 1
+een kind was -> maggie : 1
+kind was maggie -> kwam : 1
+was maggie kwam -> naast : 1
+maggie kwam naast -> stride : 1
+kwam naast stride -> haar : 1
+naast stride haar -> goudgele : 1
+stride haar goudgele -> gezicht : 1
+haar goudgele gezicht -> was : 1
+goudgele gezicht was -> ernstiger : 1
+gezicht was ernstiger -> dan : 1
+was ernstiger dan -> denkt : 1
+ernstiger dan denkt -> dat : 1
+dan denkt dat -> we : 1
+denkt dat we -> een : 1
+dat we een -> probleem : 1
+we een probleem -> zei : 1
+een probleem zei -> ze : 1
+probleem zei ze -> stride : 1
+zei ze stride -> maar : 1
+ze stride maar -> stak : 1
+stride maar stak -> zijn : 1
+maar stak zijn -> hand : 1
+stak zijn hand -> op : 1
+zijn hand op -> om : 1
+hand op om -> haar : 1
+op om haar -> te : 1
+om haar te -> laten : 1
+haar te laten -> je : 1
+te laten je -> me : 1
+laten je me -> hier : 1
+je me hier -> even : 1
+me hier even -> de : 1
+hier even de -> tijd : 1
+even de tijd -> ben : 1
+de tijd ben -> een : 1
+tijd ben een -> zei : 1
+ben een zei -> bill : 1
+een zei bill -> tegen : 1
+zei bill tegen -> ze : 1
+bill tegen ze -> allebei : 1
+tegen ze allebei -> twintig : 1
+ze allebei twintig -> jaar : 1
+allebei twintig jaar -> op : 1
+twintig jaar op -> de : 1
+jaar op de -> grond : 1
+op de grond -> aan : 1
+de grond aan -> het : 1
+grond aan het -> eind : 1
+van de zuidelijke -> pier : 1
+de zuidelijke pier -> in : 1
+zuidelijke pier in -> lake : 1
+pier in lake -> tussen : 1
+in lake tussen -> hen : 1
+lake tussen hen -> in : 1
+tussen hen in -> stonden : 1
+hen in stonden -> lege : 1
+in stonden lege -> de : 1
+stonden lege de -> zon : 1
+lege de zon -> stond : 1
+de zon stond -> hoog : 1
+zon stond hoog -> en : 1
+stond hoog en -> fel : 1
+hoog en fel -> aan : 1
+en fel aan -> de : 1
+fel aan de -> en : 1
+aan de en -> de : 1
+de en de -> twee : 1
+en de twee -> jongens : 1
+de twee jongens -> droegen : 1
+twee jongens droegen -> een : 1
+jongens droegen een -> een : 1
+droegen een een -> hemd : 1
+een een hemd -> en : 1
+een hemd en -> een : 1
+hemd en een -> korte : 1
+en een korte -> vroeg : 1
+een korte vroeg -> bill : 1
+korte vroeg bill -> schoof : 1
+vroeg bill schoof -> zijn : 1
+bill schoof zijn -> zonnebril : 1
+schoof zijn zonnebril -> naar : 1
+zijn zonnebril naar -> het : 1
+zonnebril naar het -> puntje : 1
+naar het puntje -> van : 1
+het puntje van -> zijn : 1
+puntje van zijn -> heb : 1
+van zijn heb -> je : 1
+zijn heb je -> diane : 1
+heb je diane -> wel : 1
+je diane wel -> je : 1
+diane wel je -> hebt : 1
+wel je hebt -> lichaam : 1
+je hebt lichaam -> als : 1
+hebt lichaam als -> cheryl : 1
+lichaam als cheryl -> zei : 1
+als cheryl zei -> persoonlijkheid : 1
+cheryl zei persoonlijkheid -> als : 1
+zei persoonlijkheid als -> goldie : 1
+persoonlijkheid als goldie -> zei : 1
+als goldie zei -> houdt : 1
+goldie zei houdt -> van : 1
+zei houdt van -> zei : 1
+houdt van zei -> zover : 1
+van zei zover -> mijn : 1
+zei zover mijn -> je : 1
+zover mijn je -> ziet : 1
+mijn je ziet -> hier : 1
+je ziet hier -> een : 1
+ziet hier een -> grote : 1
+hier een grote -> bill : 1
+een grote bill -> goot : 1
+grote bill goot -> de : 1
+bill goot de -> laatste : 1
+goot de laatste -> slok : 1
+de laatste slok -> schuim : 1
+laatste slok schuim -> uit : 1
+slok schuim uit -> de : 1
+schuim uit de -> fles : 1
+uit de fles -> door : 1
+de fles door -> zijn : 1
+fles door zijn -> keelgat : 1
+door zijn keelgat -> en : 1
+zijn keelgat en -> zette : 1
+keelgat en zette -> de : 1
+en zette de -> fles : 1
+zette de fles -> als : 1
+de fles als -> een : 1
+fles als een -> kegel : 1
+als een kegel -> naast : 1
+een kegel naast -> de : 1
+kegel naast de -> jullie : 1
+naast de jullie -> al : 1
+de jullie al -> een : 1
+jullie al een -> datum : 1
+al een datum -> vroeg : 1
+een datum vroeg -> bill : 1
+datum vroeg bill -> schudde : 1
+vroeg bill schudde -> zijn : 1
+bill schudde zijn -> we : 1
+schudde zijn we -> wachten : 1
+zijn we wachten -> tot : 1
+we wachten tot -> ik : 1
+wachten tot ik -> klaar : 1
+tot ik klaar -> ben : 1
+ik klaar ben -> met : 1
+klaar ben met -> mijn : 1
+ben met mijn -> studie : 1
+met mijn studie -> en : 1
+mijn studie en -> op : 1
+studie en op -> een : 1
+en op een -> goed : 1
+op een goed -> advocatenkantoor : 1
+een goed advocatenkantoor -> als : 1
+goed advocatenkantoor als -> je : 1
+advocatenkantoor als je -> met : 1
+als je met -> een : 1
+je met een -> blonde : 1
+met een blonde -> godin : 1
+een blonde godin -> gaat : 1
+blonde godin gaat -> moet : 1
+godin gaat moet -> je : 1
+gaat moet je -> haar : 1
+moet je haar -> kunnen : 1
+je haar kunnen -> behandelen : 1
+haar kunnen behandelen -> als : 1
+kunnen behandelen als -> een : 1
+behandelen als een -> geld : 1
+als een geld -> is : 1
+een geld is -> mijn : 1
+geld is mijn -> stride : 1
+is mijn stride -> maakte : 1
+mijn stride maakte -> een : 1
+stride maakte een -> vaag : 1
+maakte een vaag -> jij : 1
+een vaag jij -> en : 1
+vaag jij en -> vroeg : 1
+jij en vroeg -> wij : 1
+en vroeg wij -> gaan : 1
+vroeg wij gaan -> er : 1
+wij gaan er -> waarschijnlijk : 1
+gaan er waarschijnlijk -> antwoordde : 1
+er waarschijnlijk antwoordde -> hij : 1
+waarschijnlijk antwoordde hij -> zette : 1
+antwoordde hij zette -> zijn : 1
+hij zette zijn -> zonnebril : 1
+zette zijn zonnebril -> af : 1
+zijn zonnebril af -> en : 1
+zonnebril af en -> tuurde : 1
+af en tuurde -> in : 1
+en tuurde in -> de : 1
+tuurde in de -> trouwen : 1
+in de trouwen -> in : 1
+de trouwen in -> het : 1
+trouwen in het -> geheim : 1
+in het geheim -> in : 1
+het geheim in -> kijken : 1
+geheim in kijken -> hoelang : 1
+in kijken hoelang -> het : 1
+kijken hoelang het -> duurt : 1
+hoelang het duurt -> voordat : 1
+het duurt voordat -> mensen : 1
+duurt voordat mensen -> het : 1
+voordat mensen het -> we : 1
+mensen het we -> willen : 1
+het we willen -> niet : 1
+we willen niet -> wachten : 1
+willen niet wachten -> tot : 1
+niet wachten tot -> we : 1
+wachten tot we -> zijn : 1
+tot we zijn -> waarom : 1
+we zijn waarom -> zou : 1
+zijn waarom zou -> je : 1
+waarom zou je -> wachten : 1
+zou je wachten -> als : 1
+je wachten als -> je : 1
+wachten als je -> weet : 1
+als je weet -> wat : 1
+je weet wat -> je : 1
+weet wat je -> armoede : 1
+wat je armoede -> klote : 1
+je armoede klote -> zei : 1
+armoede klote zei -> zullen : 1
+klote zei zullen -> niet : 1
+zei zullen niet -> mensen : 1
+zullen niet mensen -> bij : 1
+niet mensen bij -> de : 1
+mensen bij de -> politie : 1
+de politie verdienen -> geen : 1
+politie verdienen geen -> dat : 1
+verdienen geen dat -> weet : 1
+geen dat weet -> je : 1
+dat weet je -> merkte : 1
+weet je merkte -> bill : 1
+je merkte bill -> hebt : 1
+merkte bill hebt -> het : 1
+bill hebt het -> over : 1
+hebt het over -> een : 1
+het over een -> leven : 1
+over een leven -> van : 1
+een leven van -> macaroni : 1
+leven van macaroni -> met : 1
+van macaroni met -> kaas : 1
+macaroni met kaas -> en : 1
+met kaas en -> weet : 1
+kaas en weet -> bill : 1
+en weet bill -> haalde : 1
+weet bill haalde -> zijn : 1
+bill haalde zijn -> schouders : 1
+haalde zijn schouders -> zal : 1
+haalde zijn schouders -> op : 1
+haalde zijn schouders -> kende : 1
+haalde zijn schouders -> zo : 1
+zijn schouders zal -> het : 1
+schouders zal het -> nog : 1
+zal het nog -> een : 1
+het nog een -> keer : 1
+nog een keer -> word : 1
+een keer word -> advocaat : 1
+keer word advocaat -> en : 1
+word advocaat en -> ga : 1
+advocaat en ga -> voor : 1
+en ga voor -> bedrijven : 1
+ga voor bedrijven -> straks : 1
+voor bedrijven straks -> komen : 1
+bedrijven straks komen -> we : 1
+straks komen we -> allebei : 1
+komen we allebei -> om : 1
+we allebei om -> vier : 1
+allebei om vier -> uur : 1
+om vier uur -> morgens : 1
+vier uur morgens -> ons : 1
+uur morgens ons -> bed : 1
+morgens ons bed -> maar : 1
+ons bed maar -> dan : 1
+bed maar dan -> sta : 1
+maar dan sta -> jij : 1
+dan sta jij -> te : 1
+sta jij te -> kokhalzen : 1
+jij te kokhalzen -> bij : 1
+te kokhalzen bij -> lijken : 1
+kokhalzen bij lijken -> en : 1
+bij lijken en -> rijd : 1
+lijken en rijd -> ik : 1
+en rijd ik -> in : 1
+rijd ik in -> een : 1
+ik in een -> reken : 1
+in een reken -> het : 1
+een reken het -> nou : 1
+reken het nou -> eens : 1
+het nou eens -> mijn : 1
+nou eens mijn -> maar : 1
+eens mijn maar -> weegt : 1
+mijn maar weegt -> het : 1
+maar weegt het -> geld : 1
+weegt het geld -> ertegen : 1
+het geld ertegen -> jij : 1
+geld ertegen jij -> gaat : 1
+ertegen jij gaat -> je : 1
+jij gaat je -> hele : 1
+gaat je hele -> leven : 1
+je hele leven -> kleine : 1
+hele leven kleine -> lettertjes : 1
+leven kleine lettertjes -> op : 1
+kleine lettertjes op -> contracten : 1
+lettertjes op contracten -> schrijven : 1
+op contracten schrijven -> die : 1
+contracten schrijven die -> niemand : 1
+schrijven die niemand -> kan : 1
+die niemand kan -> me : 1
+niemand kan me -> niet : 1
+kan me niet -> zolang : 1
+me niet zolang -> ik : 1
+niet zolang ik -> maar : 1
+zolang ik maar -> per : 1
+ik maar per -> uur : 1
+maar per uur -> wordt : 1
+per uur wordt -> zei : 1
+uur wordt zei -> aan : 1
+wordt zei aan -> declarabele : 1
+zei aan declarabele -> diane : 1
+aan declarabele diane -> dat : 1
+declarabele diane dat -> wil : 1
+diane dat wil -> ze : 1
+dat wil ze -> ze : 1
+wil ze ze -> wil : 1
+ze ze wil -> het : 1
+ze wil het -> huis : 1
+wil het huis -> op : 1
+het huis op -> de : 1
+huis op de -> heuvel : 1
+huis op de -> werd : 1
+op de heuvel -> en : 1
+de heuvel en -> seizoenkaarten : 1
+heuvel en seizoenkaarten -> voor : 1
+en seizoenkaarten voor -> het : 1
+seizoenkaarten voor het -> concertgebouw : 1
+voor het concertgebouw -> in : 1
+het concertgebouw in -> dat : 1
+concertgebouw in dat -> wil : 1
+in dat wil -> iedere : 1
+dat wil iedere -> zei : 1
+wil iedere zei -> bill : 1
+iedere zei bill -> dat : 1
+zei bill dat -> moet : 1
+bill dat moet -> je : 1
+dat moet je -> dan : 1
+moet je dan -> maar : 1
+je dan maar -> eens : 1
+dan maar eens -> aan : 1
+maar eens aan -> haar : 1
+eens aan haar -> mijn : 1
+aan haar mijn -> want : 1
+haar mijn want -> misschien : 1
+mijn want misschien -> blijkt : 1
+want misschien blijkt -> ze : 1
+misschien blijkt ze -> heel : 1
+blijkt ze heel -> andere : 1
+ze heel andere -> te : 1
+heel andere te -> stride : 1
+andere te stride -> pakte : 1
+te stride pakte -> nog : 1
+stride pakte nog -> twee : 1
+pakte nog twee -> flesjes : 1
+nog twee flesjes -> uit : 1
+twee flesjes uit -> het : 1
+flesjes uit het -> kratje : 1
+uit het kratje -> bier : 1
+het kratje bier -> en : 1
+kratje bier en -> opende : 1
+bier en opende -> hij : 1
+en opende hij -> gaf : 1
+opende hij gaf -> er : 1
+hij gaf er -> een : 1
+gaf er een -> aan : 1
+er een aan -> bill : 1
+een aan bill -> en : 1
+aan bill en -> liet : 1
+bill en liet -> de : 1
+en liet de -> hals : 1
+liet de hals -> van : 1
+de hals van -> zijn : 1
+hals van zijn -> eigen : 1
+van zijn eigen -> flesje : 1
+zijn eigen flesje -> tegen : 1
+eigen flesje tegen -> dat : 1
+flesje tegen dat -> van : 1
+tegen dat van -> bill : 1
+dat van bill -> de : 1
+van bill de -> toekomstige : 1
+bill de toekomstige -> rijkste : 1
+de toekomstige rijkste -> advocaat : 1
+toekomstige rijkste advocaat -> van : 1
+rijkste advocaat van -> zei : 1
+advocaat van zei -> de : 1
+van zei de -> toekomstige : 1
+zei de toekomstige -> beste : 1
+de toekomstige beste -> bill : 1
+toekomstige beste bill -> boerde : 1
+beste bill boerde -> en : 1
+bill boerde en -> veegde : 1
+boerde en veegde -> zijn : 1
+en veegde zijn -> mond : 1
+veegde zijn mond -> zal : 1
+zijn mond zal -> je : 1
+mond zal je -> wat : 1
+zal je wat -> ik : 1
+je wat ik -> doe : 1
+wat ik doe -> het : 1
+ik doe het -> niet : 1
+doe het niet -> voor : 1
+het niet voor -> ik : 1
+niet voor ik -> wil : 1
+voor ik wil -> dat : 1
+ik wil dat -> diane : 1
+wil dat diane -> alles : 1
+dat diane alles -> weet : 1
+diane alles weet -> ik : 1
+alles weet ik -> dank : 1
+weet ik dank -> god : 1
+ik dank god -> voor : 1
+dank god voor -> elke : 1
+god voor elke -> dag : 1
+voor elke dag -> dat : 1
+elke dag dat -> ik : 1
+dag dat ik -> meisje : 1
+dat ik meisje -> ik : 1
+ik meisje ik -> hou : 1
+meisje ik hou -> zielsveel : 1
+ik hou zielsveel -> van : 1
+hou zielsveel van -> ik : 1
+zielsveel van ik -> zou : 1
+van ik zou -> niet : 1
+ik zou niet -> weten : 1
+zou niet weten -> wat : 1
+niet weten wat -> ik : 1
+weten wat ik -> moest : 1
+wat ik moest -> beginnen : 1
+ik moest beginnen -> als : 1
+moest beginnen als -> ik : 1
+beginnen als ik -> haar : 1
+als ik haar -> ooit : 1
+ik haar ooit -> stride : 1
+haar ooit stride -> liet : 1
+ooit stride liet -> de : 1
+stride liet de -> halzen : 1
+liet de halzen -> van : 1
+de halzen van -> hun : 1
+halzen van hun -> flesjes : 1
+van hun flesjes -> weer : 1
+hun flesjes weer -> tegen : 1
+flesjes weer tegen -> elkaar : 1
+weer tegen elkaar -> is : 1
+tegen elkaar is -> het : 1
+elkaar is het -> met : 1
+is het met -> mij : 1
+het met mij -> dat : 1
+met mij dat -> we : 1
+mij dat we -> ze : 1
+dat we ze -> maar : 1
+we ze maar -> nooit : 1
+ze maar nooit -> mogen : 1
+maar nooit mogen -> iemand : 1
+nooit mogen iemand -> dit : 1
+mogen iemand dit -> nummer : 1
+iemand dit nummer -> bellen : 1
+dit nummer bellen -> en : 1
+nummer bellen en -> met : 1
+bellen en met -> rhonda : 1
+en met rhonda -> zei : 1
+met rhonda zei -> stride : 1
+rhonda zei stride -> tegen : 1
+zei stride tegen -> en : 1
+stride tegen en -> hij : 1
+tegen en hij -> gaf : 1
+en hij gaf -> haar : 1
+hij gaf haar -> het : 1
+gaf haar het -> papier : 1
+haar het papier -> uit : 1
+het papier uit -> zijn : 1
+papier uit zijn -> uit : 1
+uit zijn uit -> hoe : 1
+zijn uit hoe -> laat : 1
+uit hoe laat -> randy : 1
+hoe laat randy -> uit : 1
+laat randy uit -> haar : 1
+randy uit haar -> flat : 1
+uit haar flat -> is : 1
+uit haar flat -> het : 1
+haar flat is -> voor : 1
+flat is voor -> ze : 1
+is voor ze -> wachtte : 1
+voor ze wachtte -> nog : 1
+ze wachtte nog -> even : 1
+wachtte nog even -> en : 1
+nog even en -> zei : 1
+even en zei -> denkt : 1
+en zei denkt -> weet : 1
+zei denkt weet -> wat : 1
+denkt weet wat -> guppo : 1
+weet wat guppo -> onderbrak : 1
+wat guppo onderbrak -> stride : 1
+guppo onderbrak stride -> je : 1
+onderbrak stride je -> nou : 1
+stride je nou -> opschieten : 1
+je nou opschieten -> met : 1
+nou opschieten met -> dat : 1
+opschieten met dat -> maggie : 1
+met dat maggie -> liep : 1
+dat maggie liep -> bij : 1
+maggie liep bij -> hem : 1
+liep bij hem -> stride : 1
+bij hem stride -> stond : 1
+hem stride stond -> midden : 1
+stride stond midden -> in : 1
+stond midden in -> de : 1
+midden in de -> hij : 1
+de hij keek -> naar : 1
+hij keek naar -> een : 1
+hij keek naar -> de : 1
+keek naar een -> bijzettafeltje : 1
+naar een bijzettafeltje -> bij : 1
+een bijzettafeltje bij -> de : 1
+bijzettafeltje bij de -> omgevallen : 1
+bij de omgevallen -> vijf : 1
+de omgevallen vijf -> centimeter : 1
+omgevallen vijf centimeter -> witte : 1
+vijf centimeter witte -> wijn : 1
+centimeter witte wijn -> was : 1
+witte wijn was -> bevroren : 1
+wijn was bevroren -> op : 1
+was bevroren op -> de : 1
+bevroren op de -> bodem : 1
+op de bodem -> van : 1
+de bodem van -> een : 1
+bodem van een -> naast : 1
+van een naast -> de : 1
+een naast de -> fles : 1
+naast de fles -> stond : 1
+de fles stond -> een : 1
+fles stond een -> kristallen : 1
+stond een kristallen -> glas : 1
+een kristallen glas -> met : 1
+kristallen glas met -> ook : 1
+glas met ook -> een : 1
+met ook een -> paar : 1
+ook een paar -> centimeter : 1
+een paar centimeter -> bevroren : 1
+paar centimeter bevroren -> wijn : 1
+centimeter bevroren wijn -> hij : 1
+bevroren wijn hij -> pakte : 1
+wijn hij pakte -> met : 1
+hij pakte met -> handschoenen : 1
+pakte met handschoenen -> het : 1
+met handschoenen het -> glas : 1
+handschoenen het glas -> hield : 1
+het glas hield -> het : 1
+glas hield het -> op : 1
+hield het op -> zijn : 1
+het op zijn -> kop : 1
+op zijn kop -> en : 1
+zijn kop en -> zette : 1
+kop en zette -> het : 1
+zette het terug -> op : 1
+het terug op -> de : 1
+terug op de -> het : 1
+op de het -> vuur : 1
+de het vuur -> in : 1
+het vuur in -> de : 1
+vuur in de -> haard : 1
+in de haard -> naast : 1
+de haard naast -> hem : 1
+haard naast hem -> was : 1
+naast hem was -> allang : 1
+hem was allang -> onder : 1
+was allang onder -> het : 1
+allang onder het -> rooster : 1
+onder het rooster -> lag : 1
+het rooster lag -> een : 1
+rooster lag een -> berg : 1
+lag een berg -> verse : 1
+een berg verse -> de : 1
+berg verse de -> wind : 1
+verse de wind -> die : 1
+de wind die -> door : 1
+wind die door -> de : 1
+die door de -> deuropening : 1
+deuropening naar binnen -> pakte : 1
+naar binnen pakte -> grijze : 1
+binnen pakte grijze -> vlokken : 1
+pakte grijze vlokken -> op : 1
+grijze vlokken op -> en : 1
+vlokken op en -> blies : 1
+op en blies -> ze : 1
+en blies ze -> als : 1
+blies ze als -> sneeuw : 1
+ze als sneeuw -> door : 1
+als sneeuw door -> de : 1
+sneeuw door de -> hij : 1
+door de hij -> nam : 1
+de hij nam -> een : 1
+hij nam een -> porde : 1
+nam een porde -> in : 1
+een porde in -> de : 1
+porde in de -> vlokkige : 1
+in de vlokkige -> hoop : 1
+de vlokkige hoop -> en : 1
+vlokkige hoop en -> zag : 1
+hoop en zag -> een : 1
+en zag een -> stukje : 1
+zag een stukje -> papier : 1
+een stukje papier -> dat : 1
+stukje papier dat -> aan : 1
+papier dat aan -> de : 1
+dat aan de -> vlammen : 1
+aan de vlammen -> was : 1
+de vlammen was -> hij : 1
+vlammen was hij -> hurkte : 1
+was hij hurkte -> keek : 1
+hij hurkte keek -> van : 1
+hurkte keek van -> dichtbij : 1
+keek van dichtbij -> en : 1
+van dichtbij en -> zag : 1
+dichtbij en zag -> dat : 1
+en zag dat -> het : 1
+zag dat het -> een : 1
+dat het een -> hoekje : 1
+het een hoekje -> van : 1
+een hoekje van -> een : 1
+hoekje van een -> foto : 1
+van een foto -> hij : 1
+een foto hij -> kon : 1
+foto hij kon -> alleen : 1
+hij kon alleen -> een : 1
+kon alleen een -> stuk : 1
+alleen een stuk -> blauw : 1
+een stuk blauw -> het : 1
+stuk blauw het -> leek : 1
+blauw het leek -> op : 1
+het leek op -> de : 1
+leek op de -> rest : 1
+op de rest -> van : 2
+de rest van -> de : 2
+rest van de -> foto : 1
+rest van de -> bills : 1
+van de foto -> was : 1
+de foto was -> hij : 1
+foto was hij -> keek : 1
+was hij keek -> naar : 1
+keek naar de -> ravage : 1
+keek naar de -> witte : 1
+naar de ravage -> in : 1
+de ravage in -> de : 1
+ravage in de -> een : 1
+in de een -> lamp : 1
+de een lamp -> was : 1
+een lamp was -> op : 1
+lamp was op -> de : 1
+de vloer de -> witte : 1
+vloer de witte -> kap : 1
+de witte kap -> zat : 1
+witte kap zat -> hij : 1
+kap zat hij -> zag : 1
+zat hij zag -> glasscherven : 1
+hij zag glasscherven -> van : 1
+zag glasscherven van -> een : 1
+glasscherven van een -> gebroken : 1
+van een gebroken -> tegen : 1
+een gebroken tegen -> de : 1
+gebroken tegen de -> muur : 1
+tegen de muur -> stond : 1
+de muur stond -> een : 1
+muur stond een -> gammele : 1
+stond een gammele -> zonder : 1
+een gammele zonder -> iets : 1
+gammele zonder iets -> erop : 1
+zonder iets erop -> geen : 1
+iets erop geen -> alleen : 1
+erop geen alleen -> een : 1
+geen alleen een -> vierkant : 1
+alleen een vierkant -> waarop : 1
+een vierkant waarop -> minder : 1
+vierkant waarop minder -> stof : 1
+waarop minder stof -> lag : 1
+minder stof lag -> dan : 1
+stof lag dan -> op : 1
+lag dan op -> de : 1
+dan op de -> rest : 1
+van de bills -> portefeuille : 1
+de bills portefeuille -> lag : 1
+bills portefeuille lag -> open : 1
+portefeuille lag open -> en : 1
+lag open en -> leeg : 1
+open en leeg -> naast : 1
+en leeg naast -> het : 1
+leeg naast het -> lijk : 1
+naast het lijk -> op : 1
+het lijk op -> de : 1
+lijk op de -> stride : 1
+op de stride -> schudde : 1
+op de stride -> leunde : 1
+de stride schudde -> vol : 1
+stride schudde vol -> walging : 1
+schudde vol walging -> zijn : 1
+vol walging zijn -> de : 1
+walging zijn de -> hut : 1
+zijn de hut -> had : 1
+de hut had -> een : 1
+hut had een -> groot : 1
+had een groot -> raam : 1
+een groot raam -> dat : 1
+groot raam dat -> uitkeek : 1
+raam dat uitkeek -> op : 1
+dat uitkeek op -> het : 1
+uitkeek op het -> hij : 1
+op het hij -> ging : 1
+het hij ging -> voor : 1
+hij ging voor -> het : 1
+ging voor het -> raam : 1
+voor het raam -> staan : 1
+het raam staan -> en : 1
+raam staan en -> keek : 1
+staan en keek -> naar : 1
+staan en keek -> nog : 1
+en keek naar -> de : 1
+naar de witte -> schuimkoppen : 1
+de witte schuimkoppen -> van : 1
+witte schuimkoppen van -> het : 1
+schuimkoppen van het -> open : 1
+van het open -> op : 1
+het open op -> het : 1
+open op het -> pad : 1
+op het pad -> tussen : 1
+het pad tussen -> de : 1
+pad tussen de -> bomen : 1
+de bomen leidden -> voetstappen : 1
+bomen leidden voetstappen -> heen : 1
+leidden voetstappen heen -> en : 1
+voetstappen heen en -> weer : 1
+heen en weer -> door : 1
+en weer door -> de : 1
+weer door de -> stride : 1
+door de stride -> had : 1
+de stride had -> genoeg : 1
+stride had genoeg -> voordat : 1
+had genoeg voordat -> hij : 1
+genoeg voordat hij -> bleef : 1
+voordat hij bleef -> hij : 1
+hij bleef hij -> staan : 1
+bleef hij staan -> en : 1
+hij staan en -> keek : 1
+en keek nog -> een : 1
+keek nog een -> laatste : 1
+nog een laatste -> keer : 1
+een laatste keer -> naar : 1
+laatste keer naar -> enkele : 1
+keer naar enkele -> jaren : 1
+naar enkele jaren -> had : 1
+enkele jaren had -> hij : 1
+jaren had hij -> deze : 1
+had hij deze -> man : 1
+hij deze man -> als : 1
+deze man als -> zijn : 1
+man als zijn -> beste : 1
+als zijn beste -> vriend : 1
+zijn beste vriend -> op : 1
+beste vriend op -> de : 1
+vriend op de -> wereld : 1
+op de wereld -> afgezien : 1
+de wereld afgezien -> van : 1
+wereld afgezien van -> die : 1
+afgezien van die -> tijd : 1
+van die tijd -> was : 1
+die tijd was -> in : 1
+tijd was in -> zijn : 1
+was in zijn -> hoofd : 1
+in zijn hoofd -> blijven : 1
+zijn hoofd blijven -> hij : 1
+hoofd blijven hij -> besefte : 1
+blijven hij besefte -> dat : 1
+besefte dat het -> geen : 1
+dat het geen -> toeval : 1
+het geen toeval -> was : 1
+geen toeval was -> dat : 1
+toeval was dat -> hij : 1
+was dat hij -> bill : 1
+dat hij bill -> de : 1
+hij bill de -> laatste : 1
+bill de laatste -> jaren : 1
+de laatste jaren -> steeds : 1
+laatste jaren steeds -> minder : 1
+jaren steeds minder -> vaak : 1
+steeds minder vaak -> had : 1
+minder vaak had -> telkens : 1
+vaak had telkens -> wanneer : 1
+had telkens wanneer -> hij : 1
+telkens wanneer hij -> hem : 1
+wanneer hij hem -> in : 1
+hij hem in -> zijn : 1
+hem in zijn -> in : 1
+in zijn in -> zijn : 1
+zijn in zijn -> huis : 1
+in zijn huis -> op : 1
+zijn huis op -> de : 1
+op de werd -> hij : 1
+de werd hij -> eraan : 1
+werd hij eraan -> herinnerd : 1
+hij eraan herinnerd -> dat : 1
+eraan herinnerd dat -> de : 1
+herinnerd dat de -> dingen : 1
+dat de dingen -> veranderd : 1
+de dingen veranderd -> ze : 1
+dingen veranderd ze -> hadden : 1
+veranderd ze hadden -> allebei : 1
+ze hadden allebei -> bereikt : 1
+hadden allebei bereikt -> wat : 1
+allebei bereikt wat -> ze : 1
+bereikt wat ze -> maar : 1
+wat ze maar -> van : 1
+ze maar van -> het : 1
+maar van het -> begin : 1
+van het begin -> af : 1
+het begin af -> hadden : 1
+begin af hadden -> ze : 1
+af hadden ze -> verschillende : 1
+hadden ze verschillende -> dingen : 1
+ze verschillende dingen -> stride : 1
+verschillende dingen stride -> werd : 1
+dingen stride werd -> er : 1
+stride werd er -> liever : 1
+werd er liever -> niet : 1
+er liever niet -> aan : 1
+liever niet aan -> herinnerd : 1
+niet aan herinnerd -> dat : 1
+aan herinnerd dat -> ze : 1
+herinnerd dat ze -> nog : 1
+dat ze nog -> maar : 1
+ze nog maar -> zo : 1
+nog maar zo -> weinig : 1
+maar zo weinig -> met : 1
+zo weinig met -> elkaar : 1
+weinig met elkaar -> gemeen : 1
+met elkaar gemeen -> hij : 1
+elkaar gemeen hij -> vond : 1
+gemeen hij vond -> het : 1
+hij vond het -> mooier : 1
+vond het mooier -> om : 1
+het mooier om -> de : 1
+mooier om de -> herinnering : 1
+om de herinnering -> aan : 1
+de herinnering aan -> de : 1
+herinnering aan de -> vriendschap : 1
+aan de vriendschap -> in : 1
+de vriendschap in -> hun : 1
+vriendschap in hun -> studententijd : 1
+in hun studententijd -> intact : 1
+hun studententijd intact -> te : 1
+studententijd intact te -> hij : 1
+intact te hij -> vroeg : 1
+te hij vroeg -> zich : 1
+zich af wat -> diane : 1
+af wat diane -> zou : 1
+wat diane zou -> zeggen : 1
+diane zou zeggen -> als : 1
+zou zeggen als -> hij : 1
+zeggen als hij -> haar : 1
+als hij haar -> vertelde : 1
+hij haar vertelde -> wat : 1
+haar vertelde wat -> er : 1
+vertelde wat er -> gebeurd : 1
+wat er gebeurd -> als : 1
+er gebeurd als -> je : 1
+gebeurd als je -> niet : 1
+als je niet -> echt : 1
+je niet echt -> van : 1
+niet echt van -> iemand : 1
+echt van iemand -> is : 1
+van iemand is -> het : 1
+iemand is het -> moeilijk : 1
+is het moeilijk -> te : 1
+het moeilijk te -> begrijpen : 1
+moeilijk te begrijpen -> dat : 1
+te begrijpen dat -> die : 1
+begrijpen dat die -> persoon : 1
+dat die persoon -> van : 1
+die persoon van -> jou : 1
+persoon van jou -> wou : 1
+van jou wou -> dat : 1
+jou wou dat -> je : 1
+wou dat je -> me : 1
+dat je me -> had : 1
+je me had -> zei : 1
+me had zei -> hij : 1
+had zei hij -> tegen : 1
+zei hij tegen -> de : 1
+hij tegen de -> man : 1
+tegen de man -> die : 1
+de man die -> aan : 1
+man die aan -> zijn : 1
+die aan zijn -> voeten : 1
+aan zijn voeten -> maar : 1
+zijn voeten maar -> ze : 1
+voeten maar ze -> hadden : 1
+maar ze hadden -> de : 1
+ze hadden de -> tijd : 1
+hadden de tijd -> waarin : 1
+de tijd waarin -> bill : 1
+tijd waarin bill -> hem : 1
+waarin bill hem -> om : 1
+bill hem om -> hulp : 1
+hem om hulp -> zou : 1
+om hulp zou -> hebben : 1
+hulp zou hebben -> gevraagd : 1
+zou hebben gevraagd -> allang : 1
+hebben gevraagd allang -> achter : 1
+gevraagd allang achter -> zich : 1
+allang achter zich -> hij : 1
+achter zich hij -> liep : 1
+zich hij liep -> de : 1
+hij liep de -> hut : 1
+liep de hut -> maggie : 1
+de hut maggie -> stond : 1
+hut maggie stond -> op : 1
+maggie stond op -> hem : 1
+stond op hem -> te : 1
+op hem te -> je : 1
+hem te je -> rhonda : 1
+te je rhonda -> kunnen : 1
+je rhonda kunnen -> vroeg : 1
+rhonda kunnen vroeg -> ze : 1
+kunnen vroeg ze -> is : 1
+vroeg ze is -> om : 1
+ze is om -> vijf : 1
+is om vijf -> uur : 1
+om vijf uur -> uit : 1
+vijf uur uit -> haar : 1
+uur uit haar -> flat : 1
+haar flat het -> telefoontje : 1
+flat het telefoontje -> naar : 1
+het telefoontje naar -> ze : 1
+telefoontje naar ze -> voegde : 1
+naar ze voegde -> eraan : 1
+ze voegde eraan -> je : 1
+voegde eraan je -> hij : 1
+eraan je hij -> zag : 1
+je hij zag -> maggie : 1
+zag maggie ongemakkelijk -> kijken : 1
+maggie ongemakkelijk kijken -> en : 1
+ongemakkelijk kijken en -> was : 1
+kijken en was -> daar : 1
+en was daar -> eigenlijk : 1
+was daar eigenlijk -> wel : 1
+daar eigenlijk wel -> blij : 1
+eigenlijk wel blij -> er : 1
+wel blij er -> kwam : 1
+blij er kwam -> verwarring : 1
+er kwam verwarring -> en : 1
+kwam verwarring en -> bezorgdheid : 1
+verwarring en bezorgdheid -> in : 1
+en bezorgdheid in -> haar : 1
+bezorgdheid in haar -> donkere : 1
+in haar donkere -> ze : 1
+haar donkere ze -> keek : 1
+donkere ze keek -> hem : 1
+keek hem zwijgend -> aan : 1
+hem zwijgend aan -> alsof : 1
+zwijgend aan alsof -> ze : 1
+aan alsof ze -> wilde : 1
+alsof ze wilde -> gaat : 1
+ze wilde gaat -> het : 1
+wilde gaat het -> wel : 1
+gaat het wel -> goed : 1
+het wel goed -> met : 1
+wel goed met -> gaat : 1
+goed met gaat -> goed : 1
+met gaat goed -> met : 1
+gaat goed met -> zei : 1
+goed met zei -> haar : 1
+met zei haar -> gedachten : 1
+zei haar gedachten -> jij : 1
+haar gedachten jij -> guppo : 1
+gedachten jij guppo -> even : 1
+jij guppo even -> helpen : 1
+guppo even helpen -> de : 1
+even helpen de -> plaats : 1
+helpen de plaats -> delict : 1
+de plaats delict -> af : 1
+de plaats delict -> krijgen : 1
+plaats delict af -> te : 1
+delict af te -> ik : 1
+af te ik -> moet : 1
+te ik moet -> met : 1
+ik moet met -> randy : 1
+moet met randy -> maggie : 1
+met randy maggie -> hij : 1
+randy maggie hij -> sjokte : 1
+maggie hij sjokte -> over : 1
+hij sjokte over -> het : 1
+sjokte over het -> modderpad : 1
+over het modderpad -> naar : 1
+het modderpad naar -> bills : 1
+modderpad naar bills -> broer : 1
+naar bills broer -> keek : 1
+broer keek naar -> hem : 1
+keek naar hem -> en : 1
+naar hem en -> beet : 1
+hem en beet -> op : 1
+en beet op -> zijn : 1
+beet op zijn -> toen : 1
+op zijn toen -> zette : 1
+zijn toen zette -> hij : 1
+toen zette hij -> zijn : 1
+zette hij zijn -> honkbalpet : 1
+hij zijn honkbalpet -> af : 1
+zijn honkbalpet af -> en : 1
+honkbalpet af en -> kneep : 1
+af en kneep -> hem : 1
+en kneep hem -> samen : 1
+kneep hem samen -> met : 1
+hem samen met -> zijn : 1
+samen met zijn -> hij : 1
+met zijn hij -> tikte : 1
+zijn hij tikte -> met : 1
+hij tikte met -> zijn : 1
+tikte met zijn -> schoen : 1
+met zijn schoen -> op : 1
+zijn schoen op -> de : 1
+schoen op de -> stride : 1
+de stride leunde -> op : 1
+stride leunde op -> het : 1
+leunde op het -> open : 1
+op het open -> portier : 1
+het open portier -> van : 1
+open portier van -> de : 1
+van de vind -> het : 1
+de vind het -> erg : 1
+vind het erg -> dat : 1
+het erg dat -> je : 1
+erg dat je -> hem : 1
+dat je hem -> op : 1
+je hem op -> die : 1
+hem op die -> manier : 1
+op die manier -> moest : 1
+die manier moest -> je : 1
+manier moest je -> bill : 1
+moest je bill -> gisteravond : 1
+je bill gisteravond -> hij : 1
+bill gisteravond hij -> iets : 1
+gisteravond hij iets -> randy : 1
+hij iets randy -> keek : 1
+iets randy keek -> stride : 1
+randy keek stride -> niet : 1
+keek stride niet -> in : 1
+stride niet in -> plaats : 1
+niet in plaats -> daarvan : 1
+in plaats daarvan -> rekte : 1
+plaats daarvan rekte -> hij : 1
+daarvan rekte hij -> zijn : 1
+rekte hij zijn -> hals : 1
+hij zijn hals -> en : 1
+zijn hals en -> tuurde : 1
+hals en tuurde -> naar : 1
+en tuurde naar -> het : 1
+naar het rommelige -> interieur : 1
+het rommelige interieur -> van : 1
+rommelige interieur van -> zijn : 1
+interieur van zijn -> bedoel : 1
+van zijn bedoel -> hij : 1
+zijn bedoel hij -> zei : 1
+bedoel hij zei -> alleen : 1
+hij zei alleen -> dat : 1
+zei alleen dat -> we : 1
+alleen dat we -> elkaar : 1
+dat we elkaar -> hier : 1
+we elkaar hier -> zouden : 1
+elkaar hier zouden -> dat : 1
+hier zouden dat -> verder : 1
+zouden dat verder -> was : 1
+dat verder was -> stride : 1
+verder was stride -> is : 1
+was stride is -> het : 1
+stride is het -> randy : 1
+is het randy -> keek : 1
+het randy keek -> met : 1
+randy keek met -> een : 1
+keek met een -> ruk : 1
+met een ruk -> het : 1
+een ruk het -> in : 1
+ruk het in -> het : 1
+het in het -> heb : 1
+in het heb -> je : 1
+het heb je -> het : 1
+heb je het -> daarin : 1
+je het daarin -> heb : 1
+het daarin heb -> het : 1
+daarin heb het -> niet : 1
+heb het niet -> weet : 1
+het niet weet -> dat : 1
+niet weet dat -> je : 1
+weet dat je -> het : 1
+dat je het -> niet : 1
+je het niet -> hebt : 1
+het niet hebt -> ik : 1
+niet hebt ik -> vroeg : 1
+hebt ik vroeg -> me : 1
+ik vroeg me -> alleen : 1
+vroeg me alleen -> af : 1
+me alleen af -> of : 1
+me alleen af -> waar : 1
+alleen af of -> bill : 1
+af of bill -> je : 1
+of bill je -> gisteravond : 1
+bill je gisteravond -> iets : 1
+je gisteravond iets -> heeft : 1
+gisteravond iets heeft -> verteld : 1
+iets heeft verteld -> over : 1
+heeft verteld over -> wat : 1
+verteld over wat -> hij : 1
+over wat hij -> van : 1
+wat hij van -> plan : 1
+hij van plan -> randy : 1
+van plan randy -> deed : 1
+plan randy deed -> zijn : 1
+randy deed zijn -> mond : 1
+deed zijn mond -> open : 1
+zijn mond open -> en : 1
+mond open en -> dicht : 1
+open en dicht -> zonder : 1
+en dicht zonder -> iets : 1
+dicht zonder iets -> te : 1
+zonder iets te -> vond : 1
+iets te vond -> bill : 1
+te vond bill -> in : 1
+vond bill in -> de : 1
+in de ging -> stride : 1
+de ging stride -> was : 1
+ging stride was -> het : 1
+stride was het -> geweer : 1
+was het geweer -> lag : 1
+het geweer lag -> naast : 1
+geweer lag naast -> je : 1
+lag naast je -> pakte : 1
+naast je pakte -> het : 1
+je pakte het -> geweer : 1
+pakte het geweer -> en : 1
+het geweer en -> probeerde : 1
+geweer en probeerde -> het : 1
+en probeerde het -> op : 1
+probeerde het op -> een : 1
+het op een -> uit : 1
+op een uit -> de : 1
+een uit de -> hand : 1
+uit de hand -> gelopen : 1
+de hand gelopen -> roofoverval : 1
+hand gelopen roofoverval -> te : 1
+gelopen roofoverval te -> laten : 1
+roofoverval te laten -> ik : 1
+te laten ik -> heb : 1
+laten ik heb -> begon : 1
+ik heb begon -> stride : 1
+heb begon stride -> viel : 1
+begon stride viel -> hem : 1
+stride viel hem -> in : 1
+viel hem in -> de : 1
+hem in de -> nou : 1
+in de nou -> niet : 1
+de nou niet -> er : 1
+nou niet er -> is : 1
+niet er is -> hier : 1
+er is hier -> niemand : 1
+is hier niemand -> geweest : 1
+hier niemand geweest -> sinds : 1
+niemand geweest sinds -> het : 1
+geweest sinds het -> begon : 1
+sinds het begon -> te : 1
+het begon te -> behalve : 1
+begon te behalve -> bill : 1
+te behalve bill -> en : 1
+behalve bill en -> er : 1
+bill en er -> zijn : 1
+en er zijn -> geen : 1
+er zijn geen -> andere : 1
+zijn geen andere -> voetafdrukken : 1
+geen andere voetafdrukken -> of : 1
+andere voetafdrukken of -> het : 1
+voetafdrukken of het -> geweer : 1
+of het geweer -> was : 1
+het geweer was -> tegen : 1
+geweer was tegen -> bills : 1
+was tegen bills -> slaap : 1
+tegen bills slaap -> gedrukt : 1
+bills slaap gedrukt -> toen : 1
+slaap gedrukt toen -> het : 1
+gedrukt toen het -> je : 1
+toen het je -> mag : 1
+het je mag -> blij : 1
+je mag blij -> zijn : 1
+mag blij zijn -> dat : 1
+blij zijn dat -> je : 1
+zijn dat je -> een : 1
+je een alibi -> anders : 1
+een alibi anders -> zou : 1
+alibi anders zou -> je : 1
+anders zou je -> met : 1
+zou je met -> deze : 1
+je met deze -> stomme : 1
+met deze stomme -> stunt : 1
+deze stomme stunt -> alleen : 1
+stomme stunt alleen -> hebben : 1
+stunt alleen hebben -> bereikt : 1
+alleen hebben bereikt -> dat : 1
+hebben bereikt dat -> je : 1
+bereikt dat je -> verdacht : 1
+dat je verdacht -> werd : 1
+je verdacht werd -> van : 1
+verdacht werd van -> wat : 1
+werd van wat -> haalde : 1
+van wat haalde -> je : 1
+wat haalde je -> je : 1
+haalde je je -> in : 1
+je je in -> je : 1
+je in je -> randy : 1
+in je randy -> iemand : 1
+je randy iemand -> stom : 1
+randy iemand stom -> dan : 1
+iemand stom dan -> dat : 1
+stom dan dat -> kreng : 1
+dan dat kreng -> was : 1
+dat kreng was -> het : 1
+kreng was het -> niet : 1
+was het niet -> waard : 1
+het niet waard -> dat : 1
+niet waard dat -> hij : 1
+waard dat hij -> zich : 1
+dat hij zich -> om : 1
+hij zich om -> haar : 1
+zich om haar -> van : 1
+om haar van -> kant : 1
+haar van kant -> maar : 1
+van kant maar -> diane : 1
+kant maar diane -> was : 1
+maar diane was -> zijn : 1
+diane was zijn -> hele : 1
+was zijn hele -> heeft : 1
+zijn hele heeft -> hij : 1
+hele heeft hij -> je : 1
+heeft hij je -> verteld : 1
+hij je verteld -> wat : 1
+je verteld wat -> hij : 1
+verteld wat hij -> ging : 1
+wat hij ging -> randy : 1
+hij ging randy -> schudde : 1
+ging randy schudde -> zijn : 1
+randy schudde zijn -> heeft : 1
+schudde zijn heeft -> er : 1
+zijn heeft er -> geen : 1
+heeft er geen -> woord : 1
+er geen woord -> over : 1
+geen woord over -> heb : 1
+woord over heb -> je : 1
+over heb je -> geprobeerd : 1
+heb je geprobeerd -> het : 1
+je geprobeerd het -> verborgen : 1
+geprobeerd het verborgen -> te : 1
+het verborgen te -> gunde : 1
+verborgen te gunde -> het : 1
+te gunde het -> haar : 1
+gunde het haar -> snauwde : 1
+het haar snauwde -> wilde : 1
+haar snauwde wilde -> niet : 1
+snauwde wilde niet -> dat : 1
+wilde niet dat -> ze : 1
+niet dat ze -> dacht : 1
+dat ze dacht -> dat : 1
+dacht dat billy -> dat : 1
+dat billy dat -> voor : 1
+billy dat voor -> haar : 1
+dat voor haar -> zou : 1
+voor haar zou -> is : 1
+haar zou is -> erger : 1
+zou is erger -> voor : 1
+is erger voor -> diane : 1
+erger voor diane -> als : 1
+voor diane als -> ze : 1
+diane als ze -> de : 1
+als ze de -> waarheid : 1
+ze de waarheid -> maar : 1
+de waarheid maar -> hang : 1
+waarheid maar hang -> nou : 1
+maar hang nou -> niet : 1
+hang nou niet -> langer : 1
+nou niet langer -> de : 1
+niet langer de -> held : 1
+langer de held -> je : 1
+de held je -> hebt : 1
+held je hebt -> dit : 1
+je hebt dit -> niet : 1
+hebt dit niet -> om : 1
+dit niet om -> haar : 1
+niet om haar -> wat : 1
+om haar wat -> zit : 1
+haar wat zit -> hij : 1
+wat zit hij -> haalde : 1
+zit hij haalde -> zijn : 1
+hij haalde zijn -> schouders : 2
+zijn schouders op -> en : 1
+schouders op en -> spuwde : 1
+op en spuwde -> op : 1
+en spuwde op -> de : 1
+spuwde op de -> er : 1
+op de er -> is : 1
+de er is -> een : 1
+er is een -> stride : 1
+is een stride -> heeft : 1
+een stride heeft -> jaren : 1
+stride heeft jaren -> geleden : 1
+heeft jaren geleden -> een : 1
+jaren geleden een -> levensverzekering : 1
+geleden een levensverzekering -> genomen : 1
+een levensverzekering genomen -> met : 1
+levensverzekering genomen met -> mij : 1
+genomen met mij -> als : 1
+met mij als -> zei : 1
+mij als zei -> is : 1
+als zei is -> niet : 1
+zei is niet -> maar : 1
+is niet maar -> ik : 1
+niet maar ik -> kan : 1
+maar ik kan -> het : 1
+ik kan het -> geld : 1
+kan het geld -> goed : 1
+het geld goed -> ik : 1
+geld goed ik -> dacht : 1
+goed ik dacht -> dat : 1
+dacht dat ze -> niet : 1
+dat ze niet -> zouden : 1
+ze niet zouden -> uitbetalen : 1
+niet zouden uitbetalen -> als : 1
+zouden uitbetalen als -> hij : 1
+uitbetalen als hij -> zelfmoord : 1
+als hij zelfmoord -> had : 1
+hij zelfmoord had -> je : 1
+zelfmoord had je -> hoeveel : 1
+had je hoeveel -> misdrijven : 1
+je hoeveel misdrijven -> je : 1
+hoeveel misdrijven je -> hebt : 1
+misdrijven je hebt -> vroeg : 1
+je hebt vroeg -> stride : 1
+hebt vroeg stride -> ik : 1
+vroeg stride ik -> raakte : 1
+stride ik raakte -> in : 1
+ik raakte in -> het : 1
+raakte in het -> spijt : 1
+in het spijt -> maar : 1
+het spijt maar -> ik : 1
+spijt maar ik -> vond : 1
+maar ik vond -> dat : 1
+ik vond dat -> ik : 1
+vond dat ik -> er : 1
+ik er ook -> wat : 1
+er ook wat -> aan : 1
+ook wat aan -> moest : 1
+wat aan moest -> niet : 1
+aan moest niet -> alleen : 1
+moest niet alleen -> was : 1
+niet alleen was -> je : 1
+alleen was je -> zei : 1
+was je zei -> die : 1
+je zei die -> de : 1
+zei die de -> bitterheid : 1
+die de bitterheid -> niet : 1
+de bitterheid niet -> uit : 1
+bitterheid niet uit -> zijn : 1
+niet uit zijn -> stem : 1
+uit zijn stem -> kon : 1
+zijn stem kon -> weet : 1
+stem kon weet -> denk : 1
+kon weet denk -> je : 1
+weet denk je -> dat : 1
+denk je dat -> ik : 1
+je dat ik -> het : 1
+dat ik het -> er : 1
+ik het er -> niet : 1
+het er niet -> moeilijk : 1
+er niet moeilijk -> mee : 1
+niet moeilijk mee -> we : 1
+moeilijk mee we -> hadden : 1
+mee we hadden -> misschien : 1
+we hadden misschien -> niet : 1
+hadden misschien niet -> nauwe : 1
+misschien niet nauwe -> maar : 1
+niet nauwe maar -> ik : 1
+nauwe maar ik -> heb : 1
+maar ik heb -> nooit : 1
+ik heb nooit -> gedacht : 1
+heb nooit gedacht -> dat : 1
+nooit gedacht dat -> hij : 1
+gedacht dat hij -> zoiets : 1
+dat hij zoiets -> idioots : 1
+hij zoiets idioots -> zou : 1
+zoiets idioots zou -> als : 1
+idioots zou als -> iemand : 1
+zou als iemand -> ermee : 1
+als iemand ermee -> dacht : 1
+iemand ermee dacht -> ik : 1
+ermee dacht ik -> dat : 1
+dacht ik dat -> ik : 1
+ik dat ik -> dat : 1
+dat ik dat -> zou : 1
+ik dat zou -> niet : 1
+zou niet op -> zei : 1
+niet op zei -> dacht : 1
+op zei dacht -> alleen : 1
+zei dacht alleen -> maar : 1
+dacht alleen maar -> aan : 1
+alleen maar aan -> je : 1
+maar aan je -> eigen : 1
+aan je eigen -> denkt : 1
+je eigen denkt -> aan : 1
+eigen denkt aan -> zijn : 1
+denkt aan zijn -> eigen : 1
+aan zijn eigen -> zo : 1
+zijn eigen zo -> is : 1
+eigen zo is -> het : 1
+zo is het -> nu : 1
+is het nu -> randy : 1
+het nu randy -> trok : 1
+nu randy trok -> zijn : 1
+samen van gaat -> er : 1
+van gaat er -> nu : 1
+gaat er nu -> stuur : 1
+er nu stuur -> nu : 1
+nu stuur nu -> een : 1
+stuur nu een -> kleine : 1
+nu een kleine -> chinese : 1
+een kleine chinese -> rechercheur : 1
+kleine chinese rechercheur -> naar : 1
+chinese rechercheur naar -> je : 1
+rechercheur naar je -> en : 1
+naar je en -> jij : 1
+je en jij -> gaat : 1
+en jij gaat -> haar : 1
+jij gaat haar -> alles : 1
+gaat haar alles -> vertellen : 1
+haar alles vertellen -> wat : 1
+alles vertellen wat -> je : 1
+vertellen wat je -> hebt : 1
+wat je hebt -> en : 1
+je hebt en -> dan : 1
+hebt en dan -> moet : 1
+en dan moet -> je : 1
+dan moet je -> maar : 1
+moet je maar -> hopen : 1
+je maar hopen -> dat : 1
+maar hopen dat -> je : 1
+hopen dat je -> ervan : 1
+dat je ervan -> af : 1
+je ervan af -> komt : 1
+ervan af komt -> met : 1
+af komt met -> een : 1
+komt met een -> tik : 1
+met een tik -> op : 1
+een tik op -> je : 1
+tik op je -> vingers : 1
+op je vingers -> van : 1
+je vingers van -> de : 1
+vingers van de -> officier : 1
+van de officier -> van : 1
+de officier van -> zonder : 1
+officier van zonder -> op : 1
+van zonder op -> antwoord : 1
+zonder op antwoord -> te : 1
+op antwoord te -> wachten : 1
+antwoord te wachten -> liep : 1
+te wachten liep -> hij : 1
+wachten liep hij -> bij : 1
+liep hij bij -> de : 1
+hij bij de -> hij : 1
+de hij gaf -> een : 1
+hij gaf een -> teken : 1
+gaf een teken -> aan : 1
+een teken aan -> die : 1
+teken aan die -> van : 1
+aan die van -> guppo : 1
+die van guppo -> naar : 1
+van guppo naar -> auto : 1
+guppo naar auto -> rende : 1
+naar auto rende -> om : 1
+auto rende om -> met : 1
+rende om met -> hem : 1
+om met hem -> te : 1
+met hem te -> het : 1
+hem te het -> was : 1
+te het was -> te : 1
+het was te -> vroeg : 1
+was te vroeg -> voor : 1
+te vroeg voor -> weer : 1
+vroeg voor weer -> een : 1
+voor weer een -> maar : 1
+weer een maar -> stride : 1
+een maar stride -> stak : 1
+maar stride stak -> er : 1
+stride stak er -> toch : 1
+stak er toch -> een : 1
+er toch een -> hij : 1
+toch een hij -> toegegeven : 1
+een hij toegegeven -> dat : 1
+hij toegegeven dat -> hij : 1
+toegegeven dat hij -> dat : 1
+dat hij dat -> geweer : 1
+hij dat geweer -> heeft : 1
+dat geweer heeft -> vroeg : 1
+geweer heeft vroeg -> maggie : 1
+heeft vroeg maggie -> wist : 1
+vroeg maggie wist -> dat : 1
+maggie wist dat -> het : 1
+wist dat het -> zelfmoord : 1
+dat het zelfmoord -> was : 1
+het zelfmoord was -> zodra : 1
+zelfmoord was zodra -> hij : 1
+was zodra hij -> de : 1
+zodra hij de -> plaats : 1
+hij de plaats -> delict : 1
+plaats delict krijgen -> we : 1
+delict krijgen we -> makkelijke : 1
+krijgen we makkelijke -> zei : 1
+we makkelijke zei -> er : 1
+makkelijke zei er -> maar : 1
+zei er maar -> niet : 1
+er maar niet -> aan : 1
+maar niet aan -> u : 1
+niet aan u -> vermoedde : 1
+aan u vermoedde -> het : 1
+u vermoedde het -> al : 1
+vermoedde het al -> voordat : 1
+het al voordat -> we : 1
+al voordat we -> hier : 1
+voordat we hier -> stride : 1
+we hier stride -> haalde : 1
+hier stride haalde -> zijn : 1
+stride haalde zijn -> schouders : 1
+zijn schouders kende -> hij : 1
+schouders kende hij -> ging : 1
+kende hij ging -> je : 1
+hij ging je -> verklaring : 1
+ging je verklaring -> laat : 1
+je verklaring laat -> hem : 1
+verklaring laat hem -> alles : 1
+laat hem alles -> vertellen : 1
+hem alles vertellen -> over : 1
+alles vertellen over -> gisteravond : 1
+vertellen over gisteravond -> en : 1
+over gisteravond en -> deze : 1
+gisteravond en deze -> hele : 1
+en deze hele -> zorg : 1
+deze hele zorg -> ervoor : 1
+hele zorg ervoor -> dat : 1
+zorg ervoor dat -> hij : 1
+ervoor dat hij -> niets : 1
+dat hij niets -> voor : 1
+hij niets voor -> ons : 1
+niets voor ons -> zei : 1
+voor ons zei -> hij : 1
+ons zei hij -> keek : 1
+zei hij keek -> haar : 1
+hij keek haar -> verrast : 1
+keek haar verrast -> ze : 1
+haar verrast ze -> zette : 1
+verrast ze zette -> grote : 1
+ze zette grote -> ogen : 1
+zette grote ogen -> bedoel : 1
+grote ogen bedoel -> stride : 1
+ogen bedoel stride -> het : 1
+bedoel stride het -> maar : 1
+stride het maar -> op : 1
+het maar op -> stride : 1
+maar op stride -> ging : 1
+op stride ging -> voor : 1
+stride ging voor -> de : 1
+ging voor de -> haard : 1
+voor de haard -> cindy : 1
+de haard cindy -> zat : 1
+haard cindy zat -> met : 1
+cindy zat met -> gekruiste : 1
+zat met gekruiste -> benen : 1
+met gekruiste benen -> naast : 1
+gekruiste benen naast -> hem : 1
+benen naast hem -> en : 1
+naast hem en -> leunde : 1
+hem en leunde -> met : 1
+en leunde met -> haar : 1
+leunde met haar -> hoofd : 1
+met haar hoofd -> op : 1
+haar hoofd op -> zijn : 1
+hoofd op zijn -> het : 1
+op zijn het -> was : 1
+zijn het was -> bijna : 1
+het was bijna -> twaalf : 1
+was bijna twaalf -> uur : 1
+bijna twaalf uur -> hij : 1
+twaalf uur hij -> pakte : 1
+uur hij pakte -> een : 1
+hij pakte een -> glas : 1
+pakte een glas -> witte : 1
+een glas witte -> wijn : 1
+glas witte wijn -> van : 1
+witte wijn van -> de : 1
+wijn van de -> liet : 1
+van de liet -> de : 1
+de liet de -> wijn : 1
+liet de wijn -> door : 1
+de wijn door -> het : 1
+wijn door het -> glas : 1
+door het glas -> walsen : 1
+het glas walsen -> en : 1
+glas walsen en -> dacht : 1
+walsen en dacht -> aan : 1
+en dacht aan -> de : 1
+dacht aan de -> bevroren : 1
+aan de bevroren -> restjes : 1
+de bevroren restjes -> in : 1
+bevroren restjes in -> bills : 1
+restjes in bills -> tweederde : 1
+in bills tweederde -> van : 1
+bills tweederde van -> een : 1
+tweederde van een -> fles : 1
+van een fles -> zoveel : 1
+een fles zoveel -> had : 1
+fles zoveel had -> bill : 1
+zoveel had bill -> moeten : 1
+had bill moeten -> drinken : 1
+bill moeten drinken -> voordat : 1
+moeten drinken voordat -> hij : 1
+drinken voordat hij -> de : 1
+voordat hij de -> moed : 1
+hij de moed -> had : 1
+de moed had -> om : 1
+moed had om -> de : 1
+had om de -> trekker : 1
+om de trekker -> over : 1
+de trekker over -> te : 1
+trekker over te -> vind : 1
+over te vind -> het : 1
+te vind het -> heel : 1
+het heel mompelde -> en : 1
+heel mompelde en -> ze : 1
+mompelde en ze -> keek : 1
+en ze keek -> naar : 1
+ze keek naar -> zijn : 1
+keek naar zijn -> stride : 1
+naar zijn stride -> zei : 1
+zijn stride zei -> hij : 1
+stride zei hij -> bleef : 1
+zei hij bleef -> in : 1
+hij bleef in -> de : 1
+bleef in de -> vlammen : 1
+in de vlammen -> turen : 1
+de vlammen turen -> en : 1
+vlammen turen en -> vroeg : 1
+turen en vroeg -> zich : 1
+en vroeg zich -> af : 1
+zich af welke -> bill : 1
+af welke bill -> had : 1
+welke bill had -> waren : 1
+bill had waren -> het : 1
+had waren het -> uit : 1
+waren het uit -> de : 1
+het uit de -> gezamenlijke : 1
+uit de gezamenlijke -> studententijd : 1
+de gezamenlijke studententijd -> van : 1
+gezamenlijke studententijd van -> hen : 1
+studententijd van hen -> vieren : 1
+van hen vieren -> hij : 1
+hen vieren hij -> hoe : 1
+vieren hij hoe -> ver : 1
+hij hoe ver -> moet : 1
+hoe ver moet -> je : 1
+ver moet je -> gaan : 1
+moet je gaan -> om : 1
+je gaan om -> het : 1
+gaan om het -> verleden : 1
+om het verleden -> uit : 1
+het verleden uit -> te : 1
+verleden uit te -> ging : 1
+uit te ging -> het : 1
+te ging het -> met : 1
+ging het met -> diane : 1
+het met diane -> toen : 1
+met diane toen -> ze : 1
+diane toen ze -> het : 1
+toen ze het -> vroeg : 1
+ze het vroeg -> hij : 1
+het vroeg hij -> haalde : 1
+vroeg hij haalde -> zijn : 1
+zijn schouders zo -> is : 1
+schouders zo is -> eigenlijk : 1
+zo is eigenlijk -> wel : 1
+is eigenlijk wel -> zei : 1
+eigenlijk wel zei -> eigenlijk : 1
+wel zei eigenlijk -> neemt : 1
+zei eigenlijk neemt -> het : 1
+eigenlijk neemt het -> jezelf : 1
+neemt het jezelf -> toch : 1
+het jezelf toch -> niet : 1
+jezelf toch niet -> vroeg : 1
+toch niet vroeg -> bill : 1
+niet vroeg bill -> en : 1
+vroeg bill en -> jij : 1
+bill en jij -> hadden : 1
+en jij hadden -> al : 1
+jij hadden al -> jaren : 1
+hadden al jaren -> niet : 1
+al jaren niet -> veel : 1
+jaren niet veel -> contact : 1
+niet veel contact -> stride : 1
+veel contact stride -> neem : 1
+contact stride neem -> ik : 1
+stride neem ik -> mezelf : 1
+neem ik mezelf -> juist : 1
+ik mezelf juist -> dat : 1
+mezelf juist dat -> het : 1
+juist dat het -> was : 1
+dat het was -> met : 1
+het was met -> diane : 1
+was met diane -> en : 1
+met diane en -> mij : 1
+diane en mij -> het : 1
+en mij het -> is : 1
+mij het is -> niemands : 1
+het is niemands -> ze : 1
+is niemands ze -> had : 1
+niemands ze had -> maar : 1
+ze had maar -> dat : 1
+had maar dat -> veranderde : 1
+maar dat veranderde -> niets : 1
+dat veranderde niets -> aan : 1
+veranderde niets aan -> zijn : 1
+niets aan zijn -> hij : 1
+aan zijn hij -> zag : 1
+zijn hij zag -> altijd : 1
+hij zag altijd -> kans : 1
+zag altijd kans -> zichzelf : 1
+altijd kans zichzelf -> de : 1
+kans zichzelf de -> schuld : 1
+zichzelf de schuld -> te : 1
+de schuld te -> had : 1
+schuld te had -> gedacht : 1
+te had gedacht -> dat : 1
+had gedacht dat -> bill : 1
+gedacht dat bill -> sterker : 1
+dat bill sterker -> zou : 1
+bill sterker zou -> zei : 1
+sterker zou zei -> heb : 1
+zou zei heb -> nooit : 1
+zei heb nooit -> geweten : 1
+heb nooit geweten -> dat : 1
+nooit geweten dat -> hij : 1
+geweten dat hij -> zo : 1
+dat hij zo -> kwetsbaar : 1
+hij zo kwetsbaar -> verrassen : 1
+zo kwetsbaar verrassen -> je : 1
+kwetsbaar verrassen je -> zei : 1
+verrassen je zei -> als : 1
+je zei als -> ik : 1
+zei als ik -> ervandoor : 1
+als ik ervandoor -> ga : 1
+ik ervandoor ga -> met : 1
+ervandoor ga met -> ga : 1
+ga met ga -> jij : 1
+met ga jij -> toch : 1
+ga jij toch -> geen : 1
+jij toch geen -> zelfmoord : 1
+toch geen zelfmoord -> vroeg : 1
+geen zelfmoord vroeg -> stride : 1
+zelfmoord vroeg stride -> kunt : 1
+vroeg stride kunt -> nooit : 1
+stride kunt nooit -> misschien : 1
+kunt nooit misschien -> maar : 1
+nooit misschien maar -> we : 1
+misschien maar we -> moeten : 1
+maar we moeten -> het : 1
+we moeten het -> niet : 1
+moeten het niet -> ze : 1
+het niet ze -> bewoog : 1
+niet ze bewoog -> haar : 1
+ze bewoog haar -> vinger : 1
+bewoog haar vinger -> voor : 1
+haar vinger voor -> hem : 1
+vinger voor hem -> heen : 1
+voor hem heen -> en : 1
+heen en als -> jij : 1
+en als jij -> er : 1
+als jij er -> met : 1
+jij er met -> maggie : 1
+er met maggie -> vandoor : 1
+met maggie vandoor -> maak : 1
+maggie vandoor maak -> ik : 1
+vandoor maak ik -> misschien : 1
+maak ik misschien -> van : 1
+ik misschien van -> maar : 1
+misschien van maar -> zeker : 1
+van maar zeker -> niet : 1
+maar zeker niet -> lijkt : 1
+zeker niet lijkt -> me : 1
+niet lijkt me -> zei : 1
+lijkt me zei -> cindy : 1
+me zei cindy -> keek : 1
+zei cindy keek -> weer : 1
+cindy keek weer -> ze : 1
+keek weer ze -> dronk : 1
+weer ze dronk -> haar : 1
+ze dronk haar -> glas : 1
+dronk haar glas -> leeg : 1
+haar glas leeg -> en : 1
+glas leeg en -> zette : 1
+leeg en zette -> het : 1
+zette het vraag -> me : 1
+het vraag me -> alleen : 1
+vraag me alleen -> af : 1
+alleen af waar -> het : 1
+af waar het -> vandaan : 1
+waar het vandaan -> bedoel : 1
+het vandaan bedoel -> impuls : 1
+vandaan bedoel impuls -> om : 1
+bedoel impuls om -> jezelf : 1
+impuls om jezelf -> te : 1
+om jezelf te -> om : 1
+jezelf te om -> te : 1
+te om te -> zeggen : 1
+om te zeggen -> dat : 1
+te zeggen dat -> het : 1
+zeggen dat het -> is : 1
+dat het is -> om : 1
+het is om -> het : 1
+is om het -> op : 1
+om het op -> te : 1
+het op te -> stride : 1
+op te stride -> schudde : 1
+te stride schudde -> zijn : 1
+stride schudde zijn -> weet : 1
+schudde zijn weet -> het : 1
+zijn weet het -> waar : 1
+weet het waar -> het : 1
+het waar het -> ook : 1
+waar het ook -> vandaan : 1
+het ook vandaan -> het : 1
+ook vandaan het -> moet : 1
+vandaan het moet -> ergens : 1
+het moet ergens -> zijn : 1
+moet ergens zijn -> waar : 1
+ergens zijn waar -> het : 1
+zijn waar het -> koud : 1
+waar het koud -> cindy : 1
+het koud cindy -> zei : 1
+koud cindy zei -> maar : 1
+cindy zei maar -> hij : 1
+zei maar hij -> voelde : 1
+maar hij voelde -> een : 1
+hij voelde een -> neerwaartse : 1
+voelde een neerwaartse -> luchtstroom : 1
+een neerwaartse luchtstroom -> die : 1
+neerwaartse luchtstroom die -> het : 1
+luchtstroom die het -> vuur : 1
+die het vuur -> nerveus : 1
+het vuur nerveus -> liet : 1
+vuur nerveus liet -> het : 1
+nerveus liet het -> herinnerde : 1
+liet het herinnerde -> hem : 1
+het herinnerde hem -> eraan : 1
+herinnerde hem eraan -> dat : 1
+hem eraan dat -> de : 1
+eraan dat de -> winter : 1
+dat de winter -> op : 1
+de winter op -> komst : 1
+winter op komst -> was : 1
+op komst was -> en : 1
+komst was en -> dat : 1
+was en dat -> duluth : 1
+en dat duluth -> zelf : 1
+dat duluth zelf -> binnenkort : 1
+duluth zelf binnenkort -> weer : 1
+zelf binnenkort weer -> een : 1
+binnenkort weer een -> koude : 1
+weer een koude -> stad : 1
+een koude stad -> zou : 1
+koude stad zou -> boven : 1
+stad zou boven -> hem : 1
+zou boven hem -> sloeg : 1
+boven hem sloeg -> een : 1
+hem sloeg een -> koperen : 1
+sloeg een koperen -> klok : 1
+een koperen klok -> de : 1
+koperen klok de -> tijd : 1
+klok de tijd -> had : 1
+de tijd had -> weer : 1
+tijd had weer -> een : 1
+had weer een -> dag : 1
+weer een dag -> aan : 1
+een dag aan -> zijn : 1
+dag aan zijn -> leven : 1
+aan zijn leven -> hij : 1
+leven hij pakte -> cindy : 1
+hij pakte cindy -> vast : 1
+pakte cindy vast -> en : 1
+cindy vast en -> nam : 1
+vast en nam -> haar : 1
+en nam haar -> in : 1
+nam haar in -> zijn : 1
+haar in zijn -> maar : 1
+in zijn maar -> dat : 1
+zijn maar dat -> weerhield : 1
+maar dat weerhield -> hem : 1
+dat weerhield hem -> er : 1
+weerhield hem er -> niet : 1
+hem er niet -> van : 1
+er niet van -> zich : 1
+niet van zich -> ouder : 1
+van zich ouder -> te : 1

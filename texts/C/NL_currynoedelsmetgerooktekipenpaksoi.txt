@@ -1,0 +1,336 @@
+dichtbij : 1
+het : 1
+page : 1
+ynoedels : 1
+ger : 1
+ookte : 1
+kip : 1
+bereiding : 1
+breng : 1
+ruime : 1
+pan : 1
+flinke : 1
+laag : 1
+aan : 1
+kook : 1
+deze : 1
+trek : 1
+na : 1
+minuut : 1
+koken : 1
+afgieten : 1
+koud : 1
+afspoelen : 1
+laten : 1
+pel : 1
+ondertussen : 1
+was : 1
+haal : 1
+los : 1
+brede : 1
+hoog : 1
+vuur : 1
+laat : 1
+heet : 1
+scheutje : 1
+wokolie : 1
+fijngesneden : 1
+paste : 1
+afgekoelde : 1
+erdoor : 1
+warm : 1
+alles : 1
+keer : 1
+aantal : 1
+currynoedels : 1
+diepe : 1
+borden : 1
+bereidingstijd : 1
+bereidingstechniek : 1
+wokken : 1
+anders : 1
+kan : 1
+ook : 1
+moeilijkheidsgraad : 1
+gemiddeld : 1
+vervang : 1
+uitgebakken : 1
+spekblokjes : 1
+gezouten : 1
+pak : 1
+woknoedels : 1
+tafel : 1
+gebakken : 1
+uitjes : 1
+seroendeng : 1
+om : 1
+naar : 1
+eigen : 1
+smaak : 1
+voegen : 1
+erbij : 1
+bakje : 1
+rode : 1
+currypasta : 1
+pakje : 1
+romige : 1
+olie : 1
+halveer : 1
+vermenigvuldig : 1
+verhoudingsgewijs : 1
+voor : 1
+minder : 1
+meer : 1
+bevat : 1
+per : 1
+energie : 1
+kcal : 1
+koolhydraten : 1
+vet : 1
+totaal : 1
+oosterse : 1
+keuken : 1
+thuis : 1
+met : 2
+water : 2
+uit : 2
+snijd : 2
+ui : 2
+blaadjes : 2
+grote : 2
+plakjes : 2
+zet : 2
+op : 2
+kokosmelk : 2
+nog : 2
+door : 2
+gram : 2
+te : 2
+g : 2
+voeg : 3
+noedels : 3
+minuten : 3
+goed : 3
+gerookte : 3
+schep : 3
+paksoi : 4
+toe : 4
+kipfilet : 4
+wok : 4
+conimex : 6
+of : 6
+in : 6
+een : 6
+en : 13
+de : 18
+conimex dichtbij het -> page : 1
+dichtbij het page -> of : 1
+het page of -> ynoedels : 1
+page of ynoedels -> met : 1
+of ynoedels met -> ger : 1
+ynoedels met ger -> ookte : 1
+met ger ookte -> kip : 1
+ger ookte kip -> en : 1
+ookte kip en -> paksoi : 1
+kip en paksoi -> bereiding : 1
+en paksoi bereiding -> breng : 1
+paksoi bereiding breng -> in : 1
+bereiding breng in -> een : 1
+breng in een -> ruime : 1
+in een ruime -> pan : 1
+een ruime pan -> een : 1
+ruime pan een -> flinke : 1
+pan een flinke -> laag : 1
+een flinke laag -> water : 1
+flinke laag water -> aan : 1
+laag water aan -> de : 1
+water aan de -> voeg : 1
+aan de voeg -> de : 1
+de voeg de -> noedels : 1
+voeg de noedels -> toe : 1
+de noedels toe -> en : 1
+noedels toe en -> kook : 1
+toe en kook -> deze : 1
+en kook deze -> in : 1
+kook deze in -> minuten : 1
+deze in minuten -> trek : 1
+in minuten trek -> de : 1
+minuten trek de -> noedels : 1
+trek de noedels -> na : 1
+de noedels na -> minuut : 1
+noedels na minuut -> koken : 1
+na minuut koken -> uit : 1
+minuut koken uit -> afgieten : 1
+koken uit afgieten -> in : 1
+uit afgieten in -> een : 1
+afgieten in een -> met : 1
+in een met -> koud : 1
+een met koud -> water : 1
+met koud water -> afspoelen : 1
+koud water afspoelen -> en : 1
+water afspoelen en -> goed : 1
+afspoelen en goed -> uit : 1
+en goed uit -> laten : 1
+goed uit laten -> pel : 1
+uit laten pel -> en : 1
+laten pel en -> snijd : 1
+pel en snijd -> ondertussen : 1
+en snijd ondertussen -> de : 1
+snijd ondertussen de -> ui : 1
+ondertussen de ui -> was : 1
+de ui was -> de : 1
+ui was de -> paksoi : 1
+was de paksoi -> en : 1
+de paksoi en -> haal : 1
+de paksoi en -> de : 1
+paksoi en haal -> de : 1
+en haal de -> blaadjes : 1
+haal de blaadjes -> los : 1
+de blaadjes los -> de : 1
+blaadjes los de -> grote : 1
+los de grote -> blaadjes : 1
+de grote blaadjes -> in : 1
+grote blaadjes in -> brede : 1
+blaadjes in brede -> snijd : 1
+in brede snijd -> de : 1
+brede snijd de -> gerookte : 1
+snijd de gerookte -> kipfilet : 1
+de gerookte kipfilet -> in : 1
+de gerookte kipfilet -> door : 1
+gerookte kipfilet in -> plakjes : 1
+kipfilet in plakjes -> of : 1
+in plakjes of -> zet : 1
+plakjes of zet -> een : 1
+of zet een -> grote : 1
+zet een grote -> wok : 1
+een grote wok -> op : 1
+grote wok op -> hoog : 1
+wok op hoog -> vuur : 1
+op hoog vuur -> en : 1
+hoog vuur en -> laat : 1
+vuur en laat -> de : 1
+en laat de -> wok : 1
+laat de wok -> goed : 1
+de wok goed -> heet : 1
+wok goed heet -> voeg : 1
+goed heet voeg -> een : 1
+heet voeg een -> scheutje : 1
+voeg een scheutje -> wokolie : 1
+een scheutje wokolie -> toe : 1
+scheutje wokolie toe -> en : 1
+wokolie toe en -> wok : 1
+toe en wok -> de : 1
+en wok de -> fijngesneden : 1
+wok de fijngesneden -> de : 1
+de fijngesneden de -> paksoi : 1
+fijngesneden de paksoi -> en : 1
+paksoi en de -> paste : 1
+en de paste -> schep : 1
+de paste schep -> de : 1
+paste schep de -> afgekoelde : 1
+schep de afgekoelde -> noedels : 1
+de afgekoelde noedels -> en : 1
+afgekoelde noedels en -> de : 1
+noedels en de -> kokosmelk : 1
+en de kokosmelk -> erdoor : 1
+de kokosmelk erdoor -> en : 1
+kokosmelk erdoor en -> warm : 1
+erdoor en warm -> nog : 1
+en warm nog -> minuten : 1
+warm nog minuten -> voeg : 1
+nog minuten voeg -> de : 1
+minuten voeg de -> plakjes : 1
+voeg de plakjes -> kipfilet : 1
+de plakjes kipfilet -> toe : 1
+plakjes kipfilet toe -> en : 1
+kipfilet toe en -> schep : 1
+toe en schep -> alles : 1
+en schep alles -> nog : 1
+schep alles nog -> een : 1
+alles nog een -> keer : 1
+nog een keer -> goed : 1
+een keer goed -> door : 1
+keer goed door -> aantal : 1
+goed door aantal -> schep : 1
+door aantal schep -> de : 1
+aantal schep de -> currynoedels : 1
+schep de currynoedels -> in : 1
+de currynoedels in -> diepe : 1
+currynoedels in diepe -> borden : 1
+in diepe borden -> of : 1
+diepe borden of -> bereidingstijd : 1
+borden of bereidingstijd -> minuten : 1
+of bereidingstijd minuten -> bereidingstechniek : 1
+bereidingstijd minuten bereidingstechniek -> wokken : 1
+minuten bereidingstechniek wokken -> anders : 1
+bereidingstechniek wokken anders -> kan : 1
+wokken anders kan -> ook : 1
+anders kan ook -> moeilijkheidsgraad : 1
+kan ook moeilijkheidsgraad -> gemiddeld : 1
+ook moeilijkheidsgraad gemiddeld -> vervang : 1
+moeilijkheidsgraad gemiddeld vervang -> de : 1
+gemiddeld vervang de -> gerookte : 1
+vervang de gerookte -> kipfilet : 1
+gerookte kipfilet door -> uitgebakken : 1
+kipfilet door uitgebakken -> spekblokjes : 1
+door uitgebakken spekblokjes -> of : 1
+uitgebakken spekblokjes of -> gezouten : 1
+spekblokjes of gezouten -> pak : 1
+of gezouten pak -> conimex : 1
+gezouten pak conimex -> woknoedels : 1
+pak conimex woknoedels -> tafel : 1
+conimex woknoedels tafel -> ui : 1
+woknoedels tafel ui -> zet : 1
+tafel ui zet -> conimex : 1
+ui zet conimex -> gebakken : 1
+zet conimex gebakken -> uitjes : 1
+conimex gebakken uitjes -> en : 1
+gebakken uitjes en -> seroendeng : 1
+uitjes en seroendeng -> op : 1
+en seroendeng op -> om : 1
+seroendeng op om -> naar : 1
+op om naar -> eigen : 1
+om naar eigen -> gram : 1
+naar eigen gram -> paksoi : 1
+eigen gram paksoi -> smaak : 1
+gram paksoi smaak -> toe : 1
+paksoi smaak toe -> te : 1
+smaak toe te -> voegen : 1
+toe te voegen -> en : 1
+te voegen en -> erbij : 1
+voegen en erbij -> te : 1
+en erbij te -> gram : 1
+erbij te gram -> gerookte : 1
+te gram gerookte -> kipfilet : 1
+gram gerookte kipfilet -> bakje : 1
+gerookte kipfilet bakje -> conimex : 1
+kipfilet bakje conimex -> rode : 1
+bakje conimex rode -> currypasta : 1
+conimex rode currypasta -> pakje : 1
+rode currypasta pakje -> conimex : 1
+currypasta pakje conimex -> romige : 1
+pakje conimex romige -> kokosmelk : 1
+conimex romige kokosmelk -> conimex : 1
+romige kokosmelk conimex -> wok : 1
+kokosmelk conimex wok -> olie : 1
+conimex wok olie -> halveer : 1
+wok olie halveer -> of : 1
+olie halveer of -> vermenigvuldig : 1
+halveer of vermenigvuldig -> de : 1
+of vermenigvuldig de -> verhoudingsgewijs : 1
+vermenigvuldig de verhoudingsgewijs -> voor : 1
+de verhoudingsgewijs voor -> minder : 1
+verhoudingsgewijs voor minder -> of : 1
+voor minder of -> meer : 1
+minder of meer -> bevat : 1
+of meer bevat -> per : 1
+meer bevat per -> energie : 1
+bevat per energie -> kcal : 1
+per energie kcal -> koolhydraten : 1
+energie kcal koolhydraten -> g : 1
+kcal koolhydraten g -> vet : 1
+koolhydraten g vet -> totaal : 1
+g vet totaal -> g : 1
+vet totaal g -> oosterse : 1
+totaal g oosterse -> keuken : 1
+g oosterse keuken -> thuis : 1

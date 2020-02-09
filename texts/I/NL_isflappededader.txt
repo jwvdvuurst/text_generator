@@ -1,0 +1,6254 @@
+doffe : 1
+pijn : 1
+glas : 1
+brood : 1
+smaakt : 1
+veronderstelt : 1
+zowat : 1
+boter : 1
+zullen : 1
+erbij : 1
+meegelopen : 1
+smerige : 1
+zoeken : 1
+ongelukkig : 1
+dagen : 1
+laboratorium : 1
+eten : 1
+zeulen : 1
+blijf : 1
+boontjes : 1
+bedoel : 1
+allebei : 1
+konden : 1
+plezierig : 1
+risico : 1
+erover : 1
+eindeloze : 1
+houdt : 1
+adem : 1
+bonst : 1
+hoofdpijn : 1
+gespannen : 1
+gebeurt : 1
+word : 1
+kleren : 1
+rolluiken : 1
+krijgen : 1
+oprit : 1
+laatje : 1
+eindje : 1
+kwispelstaart : 1
+beginnen : 1
+slaat : 1
+jas : 1
+volgt : 1
+drang : 1
+doorweekt : 1
+raakt : 1
+telkens : 1
+schiet : 1
+steeg : 1
+scheefgezakte : 1
+duwt : 1
+aardedonker : 1
+bang : 1
+dom : 1
+natte : 1
+tong : 1
+snikt : 1
+midden : 1
+zon : 1
+bedankt : 1
+gekomen : 1
+nogmaals : 1
+verveeld : 1
+beseft : 1
+voortvarend : 1
+geweest : 1
+kastanjes : 1
+ijsbeert : 1
+fout : 1
+begrijpt : 1
+bekentenis : 1
+beschuldigen : 1
+moord : 1
+mening : 1
+opnieuw : 1
+toekomst : 1
+voorval : 1
+seconde : 1
+gedacht : 1
+gedaan : 1
+ongelovig : 1
+hoopt : 1
+schaamrood : 1
+wangen : 1
+ongeloof : 1
+tikkeltje : 1
+doen : 1
+soms : 1
+gekke : 1
+leerde : 1
+gespijbeld : 1
+sportief : 1
+tuin : 1
+trotse : 1
+onkruid : 1
+wieden : 1
+kefte : 1
+ga : 1
+naartoe : 1
+park : 1
+ver : 1
+blijven : 1
+herinneringen : 1
+steegje : 1
+steen : 1
+naderden : 1
+heide : 1
+pocht : 1
+trots : 1
+blaffen : 1
+leken : 1
+zucht : 1
+niemand : 1
+katten : 1
+brengt : 1
+slim : 1
+trommelen : 1
+klas : 1
+kammen : 1
+omliggende : 1
+velden : 1
+daagt : 1
+geef : 1
+twintig : 1
+rechtsaf : 1
+staan : 1
+gooit : 1
+neer : 1
+dokter : 1
+gebruikt : 1
+krijst : 1
+gehoorzaamt : 1
+herkent : 1
+bovenlip : 1
+blinkende : 1
+duivelse : 1
+mormel : 1
+verlost : 1
+beest : 1
+los : 1
+dien : 1
+klacht : 1
+ganzen : 1
+doodgebeten : 1
+vlekjes : 1
+verderop : 1
+schel : 1
+spitst : 1
+steekt : 1
+snuivend : 1
+rangschikt : 1
+brieven : 1
+nochtans : 1
+zeker : 1
+verkeerde : 1
+bijt : 1
+part : 1
+slechte : 1
+iedereen : 1
+kam : 1
+houd : 1
+gelooft : 1
+vertel : 1
+twijfel : 1
+rennen : 1
+hijgde : 1
+vreemde : 1
+wereld : 1
+angst : 1
+onzekerheid : 1
+sijpelden : 1
+opgelucht : 1
+vooral : 1
+lagen : 1
+mijlenver : 1
+handig : 1
+kregen : 1
+druppels : 1
+urine : 1
+gras : 1
+moeiteloos : 1
+ontdekte : 1
+schapenstal : 1
+droog : 1
+blaatte : 1
+wollige : 1
+vatte : 1
+post : 1
+mekkerende : 1
+verdwaald : 1
+bekeek : 1
+ontdooide : 1
+vooruit : 1
+maarzorg : 1
+schapenhoeder : 1
+dank : 1
+hobbelde : 1
+grijze : 1
+wei : 1
+gebood : 1
+gezette : 1
+klauterde : 1
+dook : 1
+gelopen : 1
+ervandoor : 1
+vage : 1
+dieper : 1
+zekerder : 1
+geurde : 1
+omgeving : 1
+aarzelen : 1
+tiental : 1
+schapen : 1
+gelild : 1
+languit : 1
+zodat : 1
+schapenboer : 1
+rijden : 1
+voeten : 1
+avondje : 1
+amuseer : 1
+fietsen : 1
+straten : 1
+rijdt : 1
+hoeft : 1
+broedde : 1
+plannetje : 1
+kiest : 1
+lus : 1
+omweg : 1
+bedriegt : 1
+anders : 1
+beeld : 1
+eenzame : 1
+kil : 1
+ouderwetse : 1
+zwijnenstallen : 1
+vervangen : 1
+roestige : 1
+hek : 1
+zetten : 1
+tientallen : 1
+oorverdovend : 1
+concert : 1
+overall : 1
+norse : 1
+verwilderd : 1
+scherpe : 1
+vooruitstekende : 1
+voorspelt : 1
+zoek : 1
+echoot : 1
+weekend : 1
+heet : 1
+bruin : 1
+vinnige : 1
+hangen : 1
+kucht : 1
+verfrommelt : 1
+wiebelt : 1
+ene : 1
+ontrolt : 1
+kale : 1
+dringt : 1
+vandoor : 1
+vijftig : 1
+ontsnapt : 1
+ongerust : 1
+leeg : 1
+tegenover : 1
+links : 1
+rechts : 1
+blaft : 1
+stom : 1
+foetert : 1
+waarschuwt : 1
+vandaag : 1
+leven : 1
+succes : 1
+antwoordt : 1
+lege : 1
+afscheid : 1
+vragen : 1
+moedeloos : 1
+kansje : 1
+kier : 1
+berekende : 1
+waarschijnlijk : 1
+koelbloedig : 1
+plan : 1
+flinke : 1
+tik : 1
+klik : 1
+knal : 1
+zocht : 1
+plekje : 1
+geurige : 1
+dommelde : 1
+donker : 1
+voorstellen : 1
+weken : 1
+kun : 1
+groter : 1
+sterker : 1
+betekende : 1
+drong : 1
+achteraan : 1
+wurmde : 1
+erdoor : 1
+liggen : 1
+nest : 1
+koeienstal : 1
+slaap : 1
+pret : 1
+tegenzin : 1
+bezoekers : 1
+drongen : 1
+meeste : 1
+lotgenoten : 1
+pronkerig : 1
+poten : 1
+extra : 1
+wreef : 1
+klodders : 1
+uitkijk : 1
+kant : 1
+aarzelden : 1
+kijk : 1
+opgejaagde : 1
+grootte : 1
+speelt : 1
+fleemde : 1
+eerlijk : 1
+verzeker : 1
+koopje : 1
+groeide : 1
+zowaar : 1
+ijdelheid : 1
+vergeten : 1
+dieren : 1
+enthousiast : 1
+bas : 1
+heen : 1
+stelde : 1
+opende : 1
+schoof : 1
+lijn : 1
+verloor : 1
+restje : 1
+kwispelde : 1
+hard : 1
+renden : 1
+geduwd : 1
+aarzelde : 1
+weerlicht : 1
+krabde : 1
+open : 1
+wipte : 1
+windhond : 1
+tierde : 1
+interesseerde : 1
+woord : 1
+zul : 1
+slecht : 1
+hondjes : 1
+prima : 1
+schoon : 1
+per : 1
+glijden : 1
+slaapt : 1
+nietsvermoedend : 1
+knielt : 1
+prikken : 1
+glijdt : 1
+strelend : 1
+opent : 1
+schijnt : 1
+schudt : 1
+weten : 1
+geloof : 1
+woensdag : 1
+zaterdag : 1
+breng : 1
+auto : 1
+belt : 1
+stamelt : 1
+buigt : 1
+bestudeert : 1
+neuzen : 1
+verwacht : 1
+wonder : 1
+vreselijke : 1
+wonde : 1
+moesten : 1
+raakte : 1
+lief : 1
+brave : 1
+pakt : 1
+gezien : 1
+gebeurd : 1
+woonkamer : 1
+voortuin : 1
+spelen : 1
+streep : 1
+bloed : 1
+marcel : 1
+ken : 1
+stralende : 1
+willen : 1
+nodig : 1
+zegje : 1
+wegbrachten : 1
+vreemd : 1
+stonden : 1
+kommen : 1
+hondenbrokken : 1
+trek : 1
+trok : 1
+lip : 1
+vertrokken : 1
+zeggen : 1
+vent : 1
+lotgenoot : 1
+zorgen : 1
+vanuit : 1
+boel : 1
+liep : 1
+voortdurend : 1
+kriebelen : 1
+kat : 1
+daarom : 1
+muil : 1
+nerveus : 1
+drafje : 1
+missen : 1
+woorden : 1
+droop : 1
+merkwaardig : 1
+passen : 1
+jou : 1
+siste : 1
+duurt : 1
+sturen : 1
+dokters : 1
+geneesmiddelen : 1
+proberen : 1
+aantal : 1
+vrienden : 1
+opgehaald : 1
+dus : 1
+manieren : 1
+rest : 1
+dansten : 1
+pillen : 1
+injectiespuiten : 1
+besluit : 1
+bed : 1
+wijd : 1
+dik : 1
+kruipt : 1
+kiezel : 1
+besterft : 1
+wegkwijnen : 1
+bloem : 1
+brug : 1
+gehaald : 1
+zanikt : 1
+jaloers : 1
+cadeautje : 1
+kiezen : 1
+cijfers : 1
+haalde : 1
+juf : 1
+pruttelde : 1
+pitbull : 1
+zonnige : 1
+vogelmarkt : 1
+verkocht : 1
+zaten : 1
+vijfhonderd : 1
+merken : 1
+halfverborgen : 1
+kraag : 1
+vernielen : 1
+hingen : 1
+losse : 1
+trieste : 1
+zeiden : 1
+onmiddellijk : 1
+begon : 1
+likken : 1
+alsof : 1
+jaren : 1
+grijnsde : 1
+waakhond : 1
+treuzelen : 1
+echte : 1
+vraag : 1
+duizend : 1
+slotte : 1
+twintigduizend : 1
+sterke : 1
+rashonden : 1
+ziek : 1
+dierenartsen : 1
+raad : 1
+mag : 1
+koop : 1
+frank : 1
+benzine : 1
+kopen : 1
+hierheen : 1
+achthonderd : 1
+knikte : 1
+hoop : 1
+gelijk : 1
+glimlachte : 1
+betaalde : 1
+staldeur : 1
+klompen : 1
+klepten : 1
+plaveien : 1
+nieuw : 1
+baasje : 1
+waarin : 1
+handvol : 1
+gestrooid : 1
+kropen : 1
+jankend : 1
+hielden : 1
+nergens : 1
+vinger : 1
+durfde : 1
+prettig : 1
+poes : 1
+molly : 1
+helpen : 1
+blaf : 1
+keel : 1
+piepte : 1
+verroest : 1
+groot : 1
+geronk : 1
+motor : 1
+gegrom : 1
+rottweiler : 1
+rilde : 1
+koffer : 1
+gluurde : 1
+gaatje : 1
+duwde : 1
+onrustig : 1
+zoveel : 1
+grond : 1
+liepen : 1
+mekaar : 1
+praten : 1
+beurt : 1
+pas : 1
+koud : 1
+gebeurde : 1
+bijzonders : 1
+meisje : 1
+kriebelend : 1
+praatte : 1
+stem : 1
+fluisterde : 1
+woordjes : 1
+telefoon : 1
+rinkelt : 1
+bank : 1
+ketnet : 1
+krant : 1
+tast : 1
+afwezig : 1
+draagbare : 1
+morrend : 1
+aandacht : 1
+vertederd : 1
+beelden : 1
+weerloze : 1
+onschuldige : 1
+knuppels : 1
+pels : 1
+beluste : 1
+jagers : 1
+mokeren : 1
+paars : 1
+rechterslaap : 1
+trilt : 1
+vreest : 1
+job : 1
+ingenieursbureau : 1
+avond : 1
+waarop : 1
+lastiggevallen : 1
+krast : 1
+welke : 1
+opeens : 1
+verliezen : 1
+kilte : 1
+telefoontje : 1
+erger : 1
+streek : 1
+draait : 1
+ruk : 1
+naam : 1
+krabbelt : 1
+kwispelend : 1
+streelt : 1
+stijve : 1
+boos : 1
+probeer : 1
+verstand : 1
+ronde : 1
+gezichtje : 1
+oud : 1
+acht : 1
+hulpeloos : 1
+bijten : 1
+aangevallen : 1
+vlucht : 1
+prooi : 1
+baby : 1
+jaagt : 1
+bezig : 1
+besef : 1
+grap : 1
+bel : 1
+mam : 1
+luid : 1
+opdat : 1
+manier : 1
+tegenspreken : 1
+beslissing : 1
+genomen : 1
+minste : 1
+drie : 1
+valt : 1
+jarig : 1
+stelt : 1
+opgevoede : 1
+straathond : 1
+dikwijls : 1
+gezegd : 1
+liefste : 1
+zwaait : 1
+vlieg : 1
+gedachte : 1
+biertje : 1
+duikt : 1
+moment : 1
+film : 1
+lig : 1
+rand : 1
+moe : 1
+rol : 1
+geuren : 1
+ruiken : 1
+openen : 1
+daarnet : 1
+werkkamer : 1
+kousen : 1
+volgde : 1
+luider : 1
+duidelijk : 1
+klauter : 1
+houterig : 1
+middag : 1
+stap : 1
+hoopte : 1
+woont : 1
+punt : 1
+stamt : 1
+voorname : 1
+spierwitte : 1
+dagje : 1
+stappen : 1
+modder : 1
+terugweg : 1
+blijkbaar : 1
+ergs : 1
+eind : 1
+splinternieuw : 1
+dragen : 1
+kinderwagen : 1
+jankte : 1
+jonge : 1
+rammel : 1
+peuzelde : 1
+restjes : 1
+liefst : 1
+zalig : 1
+boutjes : 1
+speelde : 1
+splinters : 1
+gevaarlijk : 1
+verdomd : 1
+gek : 1
+voortaan : 1
+begint : 1
+fijn : 1
+ruikt : 1
+lik : 1
+zoute : 1
+klaaglijk : 2
+meestal : 2
+deze : 2
+watje : 2
+daarna : 2
+zoals : 2
+horen : 2
+zuchtte : 2
+warme : 2
+samen : 2
+dit : 2
+rechtop : 2
+nacht : 2
+mompelt : 2
+witte : 2
+ouders : 2
+merkt : 2
+dezelfde : 2
+tien : 2
+minuten : 2
+smalle : 2
+zitten : 2
+likt : 2
+kent : 2
+laten : 2
+gromt : 2
+verhaal : 2
+hebt : 2
+halen : 2
+kijken : 2
+klinkt : 2
+begrijp : 2
+vinden : 2
+snuit : 2
+lucht : 2
+nare : 2
+kapel : 2
+kobus : 2
+zelf : 2
+vlak : 2
+sloop : 2
+klopt : 2
+gisteren : 2
+herkende : 2
+zie : 2
+moeite : 2
+fiets : 2
+richting : 2
+schild : 2
+bruine : 2
+broek : 2
+eindelijk : 2
+maak : 2
+nauwelijks : 2
+recht : 2
+mogen : 2
+alles : 2
+besnuffelde : 2
+vlug : 2
+akelige : 2
+plaats : 2
+ervoor : 2
+kieren : 2
+ooi : 2
+twijfelde : 2
+sprong : 2
+laadbak : 2
+klein : 2
+hel : 2
+vol : 2
+jullie : 2
+vrij : 2
+zes : 2
+uur : 2
+sanne : 2
+tijdje : 2
+rust : 2
+oog : 2
+lopen : 2
+rond : 2
+wie : 2
+lijf : 2
+honderd : 2
+kantoortje : 2
+zin : 2
+flappen : 2
+u : 2
+aarzelt : 2
+brengen : 2
+maken : 2
+versta : 2
+staart : 2
+hoofd : 2
+kroop : 2
+stil : 2
+rook : 2
+slot : 2
+hooi : 2
+bent : 2
+mocht : 2
+wedden : 2
+wrong : 2
+gingen : 2
+dicht : 2
+bijeen : 2
+sinds : 2
+broer : 2
+likte : 2
+maakt : 2
+tralies : 2
+mooi : 2
+zoontje : 2
+vind : 2
+kip : 2
+natuurlijk : 2
+vader : 2
+andere : 2
+gedachten : 2
+handen : 2
+riep : 2
+mand : 2
+tranen : 2
+denken : 2
+gebeten : 2
+zoiets : 2
+sluit : 2
+vijf : 2
+ziekenhuis : 2
+ambulance : 2
+kwaad : 2
+hoorde : 2
+schenkt : 2
+begreep : 2
+lukte : 2
+antwoordde : 2
+snel : 2
+blafte : 2
+tellen : 2
+drukte : 2
+jaar : 2
+onder : 2
+daarvan : 2
+leek : 2
+datje : 2
+paar : 2
+buurt : 2
+snoof : 2
+vingers : 2
+lui : 2
+zeerobben : 2
+mis : 2
+gezicht : 2
+voorbij : 2
+praat : 2
+strik : 2
+kamer : 3
+zelfs : 3
+durf : 3
+hadden : 3
+durft : 3
+na : 3
+ochtend : 3
+hart : 3
+doet : 3
+kwart : 3
+hoort : 3
+trekt : 3
+haalt : 3
+raam : 3
+fluistert : 3
+probeert : 3
+opgewonden : 3
+zet : 3
+wacht : 3
+hand : 3
+lijkt : 3
+vervelende : 3
+onze : 3
+gelukkig : 3
+reden : 3
+spijt : 3
+ten : 3
+warm : 3
+wachten : 3
+stak : 3
+lang : 3
+tijd : 3
+steeds : 3
+elk : 3
+hield : 3
+vorige : 3
+niks : 3
+verder : 3
+huis : 3
+krijg : 3
+fietst : 3
+hals : 3
+ziet : 3
+geur : 3
+wees : 3
+lab : 3
+doe : 3
+stopte : 3
+maakte : 3
+vond : 3
+kunt : 3
+kans : 3
+neus : 3
+naast : 3
+schrikt : 3
+omdat : 3
+lacht : 3
+kwam : 3
+verdorie : 3
+merkte : 3
+mee : 3
+eerst : 3
+probeerde : 3
+laatste : 3
+zien : 3
+wim : 3
+kristel : 3
+arm : 3
+lieve : 3
+noem : 3
+ligt : 3
+moeder : 3
+goede : 3
+vroeg : 3
+zus : 3
+heel : 3
+genoeg : 3
+tussen : 4
+moeilijk : 4
+dorp : 4
+allemaal : 4
+wordt : 4
+net : 4
+graag : 4
+eigen : 4
+niets : 4
+rent : 4
+zodra : 4
+buiten : 4
+armen : 4
+laat : 4
+blij : 4
+morgen : 4
+weg : 4
+enkele : 4
+kijkt : 4
+best : 4
+zat : 4
+oude : 4
+zag : 4
+rende : 4
+wist : 4
+hoek : 4
+klonk : 4
+wilde : 4
+meteen : 4
+pet : 4
+zette : 4
+ging : 4
+lekker : 4
+binnen : 4
+truck : 4
+nam : 4
+vrouw : 4
+zeg : 4
+keer : 4
+oren : 4
+papegaai : 4
+gaf : 4
+komen : 4
+gat : 4
+eerste : 4
+erf : 4
+hun : 4
+stond : 4
+lachte : 4
+doos : 4
+week : 5
+werd : 5
+thuis : 5
+gaan : 5
+zij : 5
+af : 5
+toe : 5
+stal : 5
+krijgt : 5
+vacht : 5
+blijft : 5
+beetje : 5
+bijna : 5
+waarom : 5
+moest : 5
+mensen : 5
+had : 5
+jongetje : 5
+keek : 5
+kop : 5
+beste : 5
+liet : 5
+erg : 5
+boer : 5
+stomme : 5
+komt : 6
+neemt : 6
+terug : 6
+dag : 6
+vrouwtje : 6
+jij : 6
+want : 6
+denk : 6
+mij : 6
+misschien : 6
+echt : 6
+asiel : 6
+licht : 6
+vraagt : 6
+zonder : 6
+voelt : 6
+staat : 6
+kleine : 6
+worden : 6
+voelde : 6
+bleef : 6
+tot : 6
+hondje : 6
+roept : 6
+alle : 6
+haast : 6
+ons : 7
+zegt : 7
+helemaal : 7
+postbode : 7
+zal : 7
+plots : 7
+elke : 7
+achter : 7
+alleen : 8
+hele : 8
+moeten : 8
+iemand : 8
+dacht : 8
+veel : 8
+goed : 8
+gaat : 8
+deur : 8
+kunnen : 8
+been : 8
+hebben : 9
+nieuwe : 9
+ben : 9
+zei : 9
+altijd : 9
+of : 9
+kon : 9
+kom : 9
+groene : 9
+zit : 10
+iets : 10
+beter : 10
+grote : 10
+twee : 10
+newfoundlander : 10
+tegen : 11
+zou : 11
+nooit : 11
+denkt : 11
+loopt : 11
+later : 11
+waar : 11
+honden : 11
+man : 11
+hier : 11
+over : 11
+zich : 12
+ogen : 12
+toen : 12
+robbe : 12
+bij : 12
+lady : 13
+daar : 13
+even : 13
+mama : 14
+meer : 14
+heb : 14
+moet : 15
+wil : 15
+hoe : 15
+eens : 15
+hok : 15
+uit : 16
+dan : 16
+weet : 16
+hond : 17
+door : 17
+zo : 18
+wel : 18
+kan : 19
+nu : 19
+baas : 19
+aan : 20
+al : 21
+toch : 21
+weer : 21
+ook : 21
+papa : 21
+heeft : 23
+nog : 23
+wat : 27
+om : 28
+we : 28
+was : 30
+die : 30
+met : 32
+flappe : 33
+geen : 33
+voor : 34
+kato : 36
+hem : 44
+er : 46
+mijn : 48
+me : 49
+op : 55
+als : 55
+van : 55
+maar : 57
+naar : 61
+te : 66
+haar : 69
+hij : 70
+is : 77
+dat : 78
+niet : 79
+je : 85
+zijn : 86
+in : 91
+en : 130
+ze : 140
+het : 142
+een : 160
+ik : 167
+de : 210
+klaaglijk is er -> zit : 1
+is er zit -> een : 1
+er zit een -> doffe : 1
+er zit een -> akelige : 1
+zit een doffe -> pijn : 1
+een doffe pijn -> tussen : 1
+doffe pijn tussen -> haar : 1
+pijn tussen haar -> ze : 1
+tussen haar ze -> kan : 1
+haar ze kan -> zich : 1
+ze kan zich -> moeilijk : 1
+kan zich moeilijk -> ze : 1
+zich moeilijk ze -> komt : 1
+moeilijk ze komt -> alleen : 1
+ze komt alleen -> maar : 1
+komt alleen maar -> uit : 1
+alleen maar uit -> haar : 1
+maar uit haar -> kamer : 1
+uit haar kamer -> om : 1
+haar kamer om -> te : 1
+kamer om te -> en : 1
+om te en -> dan : 1
+te en dan -> meestal : 1
+en dan meestal -> neemt : 1
+dan meestal neemt -> ze : 1
+meestal neemt ze -> alleen : 1
+neemt ze alleen -> een : 1
+ze alleen een -> glas : 1
+alleen een glas -> brood : 1
+een glas brood -> smaakt : 1
+glas brood smaakt -> naar : 1
+brood smaakt naar -> een : 1
+smaakt naar een -> veronderstelt : 1
+naar een veronderstelt -> de : 1
+een veronderstelt de -> maar : 1
+veronderstelt de maar -> mama : 1
+de maar mama -> weet : 1
+maar mama weet -> een : 1
+mama weet een -> hele : 1
+weet een hele -> week : 1
+een hele week -> hebben : 1
+hele week hebben -> ze : 1
+week hebben ze -> naar : 1
+hebben ze naar -> flappe : 1
+ze naar flappe -> zowat : 1
+naar flappe zowat -> het : 1
+flappe zowat het -> hele : 1
+zowat het hele -> dorp : 1
+het hele dorp -> werd : 1
+hele dorp werd -> zelfs : 1
+dorp werd zelfs -> allemaal : 1
+werd zelfs allemaal -> boter : 1
+zelfs allemaal boter -> aan : 1
+allemaal boter aan -> de : 1
+boter aan de -> zullen : 1
+aan de zullen -> ons : 1
+de zullen ons -> erbij : 1
+zullen ons erbij -> moeten : 1
+ons erbij moeten -> zegt : 1
+erbij moeten zegt -> is : 1
+moeten zegt is -> hij : 1
+zegt is hij -> met : 1
+is hij met -> iemand : 1
+hij met iemand -> meegelopen : 1
+met iemand meegelopen -> en : 1
+iemand meegelopen en -> heeft : 1
+meegelopen en heeft -> hij : 1
+en heeft hij -> al : 1
+heeft hij al -> een : 1
+hij al een -> nieuwe : 1
+al een nieuwe -> thuis : 1
+een nieuwe thuis -> er : 1
+nieuwe thuis er -> moet : 1
+thuis er moet -> iets : 1
+er moet iets -> zit : 1
+moet iets zit -> al : 1
+iets zit al -> een : 1
+zit al een -> week : 1
+al een week -> in : 1
+een week in -> deze : 1
+week in deze -> smerige : 1
+in deze smerige -> je : 1
+deze smerige je -> moet : 1
+smerige je moet -> naar : 1
+je moet naar -> dan : 1
+moet naar dan -> terug : 1
+naar dan terug -> naar : 1
+dan terug naar -> het : 1
+terug naar het -> ben : 1
+terug naar het -> om : 1
+naar het ben -> je : 1
+het ben je -> dan : 1
+ben je dan -> kan : 1
+je dan kan -> ik : 1
+dan kan ik -> je : 1
+kan ik je -> helemaal : 1
+ik je helemaal -> niet : 1
+je helemaal niet -> meer : 1
+helemaal niet meer -> is : 1
+helemaal niet meer -> weet : 1
+niet meer is -> dat : 1
+meer is dat -> watje : 1
+is dat watje -> gaan : 1
+dat watje gaan -> je : 1
+watje gaan je -> toch : 1
+gaan je toch -> niet : 1
+je toch niet -> zoeken : 1
+toch niet zoeken -> om : 1
+niet zoeken om -> je : 1
+zoeken om je -> daarna : 1
+om je daarna -> weer : 1
+je daarna weer -> op : 1
+daarna weer op -> te : 1
+weer op te -> ze : 1
+op te ze -> heb : 1
+te ze heb -> ik : 1
+ze heb ik -> je : 1
+heb ik je -> toch : 1
+ik je toch -> al : 1
+je toch al -> maar : 1
+toch al maar -> ik : 1
+al maar ik -> dacht : 1
+maar ik dacht -> dat : 1
+ik dacht dat -> je : 1
+dacht dat je -> dat : 1
+dacht dat je -> nooit : 1
+dat je dat -> zei : 1
+je dat zei -> om : 1
+dat zei om -> me : 1
+zei om me -> op : 1
+om me op -> te : 1
+me op te -> je : 1
+op te je -> wordt : 1
+te je wordt -> met : 1
+je wordt met -> de : 1
+wordt met de -> dag : 1
+met de dag -> net : 1
+de dag net -> zoals : 1
+dag net zoals -> je : 1
+net zoals je -> zij : 1
+zoals je zij -> ook : 1
+je zij ook -> ongelukkig : 1
+zij ook ongelukkig -> is : 1
+ook ongelukkig is -> dat : 1
+ongelukkig is dat -> heb : 1
+is dat heb -> ik : 1
+dat heb ik -> mijn : 1
+dat heb ik -> altijd : 1
+heb ik mijn -> vrouwtje : 1
+ik mijn vrouwtje -> tegen : 1
+mijn vrouwtje tegen -> de : 1
+vrouwtje tegen de -> postbode : 1
+tegen de postbode -> horen : 1
+de postbode horen -> ik : 1
+postbode horen ik -> heb : 1
+horen ik heb -> haar : 1
+ik heb haar -> ook : 1
+heb haar ook -> al : 1
+haar ook al -> dagen : 1
+ook al dagen -> niet : 1
+al dagen niet -> meer : 1
+dagen niet meer -> durf : 1
+niet meer durf -> zou : 1
+meer durf zou -> jij : 1
+durf zou jij -> graag : 1
+zou jij graag -> in : 1
+jij graag in -> een : 1
+graag in een -> laboratorium : 1
+in een laboratorium -> maar : 1
+een laboratorium maar -> zo : 1
+laboratorium maar zo -> kan : 1
+maar zo kan -> ook : 1
+zo kan ook -> niet : 1
+kan ook niet -> ik : 1
+ook niet ik -> moet : 1
+niet ik moet -> altijd : 1
+ik moet altijd -> met : 1
+moet altijd met -> eten : 1
+altijd met eten -> zeulen : 1
+met eten zeulen -> en : 1
+eten zeulen en -> mijn : 1
+zeulen en mijn -> vrouwtje : 1
+en mijn vrouwtje -> wordt : 1
+mijn vrouwtje wordt -> dat : 1
+vrouwtje wordt dat -> al : 1
+wordt dat al -> te : 1
+dat al te -> veel : 1
+al te veel -> blijf : 1
+te veel blijf -> dan : 1
+veel blijf dan -> ik : 1
+blijf dan ik -> zal : 1
+dan ik zal -> mijn : 1
+ik zal mijn -> eigen : 1
+zal mijn eigen -> boontjes : 1
+mijn eigen boontjes -> wel : 1
+eigen boontjes wel -> bedoel : 1
+boontjes wel bedoel -> ik : 1
+wel bedoel ik -> het : 1
+bedoel ik het -> toch : 1
+ik het toch -> zuchtte : 1
+het toch zuchtte -> hadden : 1
+toch zuchtte hadden -> we : 1
+zuchtte hadden we -> het : 1
+hadden we het -> toch : 1
+we het toch -> goed : 1
+het toch goed -> we : 1
+toch goed we -> hadden : 1
+goed we hadden -> allebei : 1
+we hadden allebei -> een : 1
+hadden allebei een -> warme : 1
+allebei een warme -> thuis : 1
+een warme thuis -> en : 1
+warme thuis en -> konden : 1
+thuis en konden -> af : 1
+en konden af -> en : 1
+konden af en -> toe : 1
+af en toe -> samen : 1
+af en toe -> liet : 1
+en toe samen -> op : 1
+toe samen op -> dat : 1
+samen op dat -> kan : 1
+op dat kan -> nu : 1
+dat kan nu -> ook : 1
+kan nu ook -> niet : 1
+nu ook niet -> want : 1
+ook niet want -> je : 1
+niet want je -> durft : 1
+want je durft -> deze : 1
+je durft deze -> stal : 1
+durft deze stal -> niet : 1
+deze stal niet -> meer : 1
+stal niet meer -> denk : 1
+niet meer denk -> je : 1
+meer denk je -> dat : 1
+denk je dat -> dit : 1
+je dat dit -> voor : 1
+dat dit voor -> mij : 1
+dit voor mij -> plezierig : 1
+voor mij plezierig -> is : 1
+mij plezierig is -> heeft : 1
+plezierig is heeft -> dacht : 1
+is heeft dacht -> zo : 1
+heeft dacht zo -> heb : 1
+dacht zo heb -> ik : 1
+zo heb ik -> ook : 1
+heb ik ook -> geen : 1
+heb ik ook -> eens : 1
+ik ook geen -> misschien : 1
+ook geen misschien -> moet : 1
+geen misschien moet -> ik : 1
+misschien moet ik -> het : 1
+moet ik het -> risico : 1
+ik het risico -> toch : 1
+het risico toch -> maar : 1
+risico toch maar -> als : 1
+toch maar als -> lady : 1
+maar als lady -> me : 1
+als lady me -> echt : 1
+lady me echt -> niet : 1
+me echt niet -> meer : 1
+echt niet meer -> komt : 1
+niet meer komt -> was : 1
+meer komt was -> ik : 1
+komt was ik -> beter : 1
+was ik beter -> in : 1
+ik beter in -> het : 1
+beter in het -> asiel : 1
+in het asiel -> ik : 1
+het asiel ik -> zal : 1
+het asiel ik -> wist : 1
+asiel ik zal -> erover : 1
+ik zal erover -> zei : 1
+zal erover zei -> je : 1
+erover zei je -> ik : 1
+zei je ik -> heb : 1
+je ik heb -> je : 1
+ik heb je -> nog : 1
+heb je nog -> nooit : 1
+je nog nooit -> zit : 1
+nog nooit zit -> rechtop : 1
+nooit zit rechtop -> in : 1
+zit rechtop in -> na : 1
+rechtop in na -> weer : 1
+in na weer -> een : 1
+na weer een -> eindeloze : 1
+weer een eindeloze -> nacht : 1
+een eindeloze nacht -> is : 1
+eindeloze nacht is -> ze : 1
+nacht is ze -> tegen : 1
+is ze tegen -> de : 1
+ze tegen de -> ochtend : 1
+tegen de ochtend -> nu : 1
+tegen de ochtend -> likte : 1
+de ochtend nu -> heeft : 1
+ochtend nu heeft -> ze : 1
+nu heeft ze -> een : 1
+heeft ze een -> hond : 1
+ze een hond -> horen : 1
+een hond horen -> of : 1
+hond horen of -> heeft : 1
+horen of heeft -> ze : 1
+of heeft ze -> ze : 1
+heeft ze ze -> houdt : 1
+ze ze houdt -> haar : 1
+ze houdt haar -> adem : 1
+houdt haar adem -> in : 1
+haar adem in -> en : 1
+adem in en -> haar : 1
+in en haar -> hart : 1
+en haar hart -> bonst : 1
+haar hart bonst -> als : 1
+hart bonst als -> ze : 1
+bonst als ze -> krijgt : 1
+als ze krijgt -> hoofdpijn : 1
+ze krijgt hoofdpijn -> van : 1
+krijgt hoofdpijn van -> het : 1
+hoofdpijn van het -> gespannen : 1
+van het gespannen -> maar : 1
+het gespannen maar -> er : 1
+gespannen maar er -> gebeurt : 1
+maar er gebeurt -> denkt : 1
+er gebeurt denkt -> ik : 1
+gebeurt denkt ik -> word : 1
+denkt ik word -> ze : 1
+ik word ze -> doet : 1
+word ze doet -> het : 1
+ze doet het -> licht : 1
+doet het licht -> kwart : 1
+het licht kwart -> voor : 1
+licht kwart voor -> plots : 1
+kwart voor plots -> hoort : 1
+voor plots hoort -> ze : 1
+plots hoort ze -> weer : 1
+hoort ze weer -> klaaglijk : 1
+ze weer klaaglijk -> toch : 1
+weer klaaglijk toch -> niet : 1
+klaaglijk toch niet -> denkt : 1
+toch niet denkt -> ze : 1
+niet denkt ze -> ze : 1
+niet denkt ze -> ik : 1
+denkt ze ze -> trekt : 1
+ze ze trekt -> haar : 1
+ze trekt haar -> kleren : 1
+trekt haar kleren -> aan : 1
+haar kleren aan -> en : 1
+kleren aan en -> haalt : 1
+aan en haalt -> de : 1
+en haalt de -> rolluiken : 1
+haalt de rolluiken -> krijgen : 1
+de rolluiken krijgen -> we : 1
+rolluiken krijgen we -> mompelt : 1
+krijgen we mompelt -> ze : 1
+we mompelt ze -> het : 1
+mompelt ze het -> licht : 1
+ze het licht -> dat : 1
+het licht dat -> door : 1
+licht dat door -> haar : 1
+dat door haar -> raam : 1
+door haar raam -> op : 1
+haar raam op -> de : 1
+raam op de -> oprit : 1
+op de oprit -> zit : 1
+de oprit zit -> een : 1
+oprit zit een -> witte : 1
+zit een witte -> zijn : 1
+een witte zijn -> vacht : 1
+witte zijn vacht -> is : 1
+zijn vacht is -> hij : 1
+vacht is hij -> fluistert : 1
+is hij fluistert -> laatje : 1
+hij fluistert laatje -> ze : 1
+fluistert laatje ze -> loopt : 1
+laatje ze loopt -> naar : 1
+ze loopt naar -> het : 1
+ze loopt naar -> hem : 1
+loopt naar het -> is : 1
+loopt naar het -> hok : 1
+naar het is -> ze : 1
+naar het is -> niet : 1
+het is ze -> probeert : 1
+is ze probeert -> lady : 1
+ze probeert lady -> te : 1
+probeert lady te -> maar : 1
+lady te maar -> die : 1
+te maar die -> loopt : 1
+maar die loopt -> een : 1
+die loopt een -> eindje : 1
+loopt een eindje -> ze : 1
+een eindje ze -> blijft : 1
+eindje ze blijft -> niet : 1
+ze blijft niet -> wat : 1
+blijft niet wat -> je : 1
+niet wat je -> dat : 1
+wat je dat -> ik : 1
+je dat ik -> met : 1
+dat ik met -> je : 1
+ik met je -> vraagt : 1
+met je vraagt -> je : 1
+je vraagt je -> me : 1
+vraagt je me -> iets : 1
+je me iets -> kwispelstaart : 1
+me iets kwispelstaart -> opgewonden : 1
+iets kwispelstaart opgewonden -> en : 1
+kwispelstaart opgewonden en -> haar : 1
+opgewonden en haar -> ogen : 1
+en haar ogen -> beginnen : 1
+haar ogen beginnen -> te : 1
+ogen beginnen te -> kato : 1
+beginnen te kato -> slaat : 1
+te kato slaat -> haar : 1
+kato slaat haar -> jas : 1
+slaat haar jas -> om : 1
+haar jas om -> en : 1
+jas om en -> haar : 1
+om en haar -> ouders : 1
+en haar ouders -> hebben : 1
+haar ouders hebben -> niets : 1
+ouders hebben niets -> ze : 1
+hebben niets ze -> rent : 1
+niets ze rent -> naar : 1
+ze rent naar -> zodra : 1
+ze rent naar -> een : 1
+rent naar zodra -> lady : 1
+naar zodra lady -> merkt : 1
+zodra lady merkt -> dat : 1
+lady merkt dat -> kato : 1
+merkt dat kato -> haar : 1
+dat kato haar -> wil : 1
+kato haar wil -> zet : 1
+haar wil zet -> ze : 1
+wil zet ze -> het : 1
+zet ze het -> op : 1
+ze het op -> een : 1
+het op een -> kato : 1
+op een kato -> volgt : 1
+een kato volgt -> haar : 1
+kato volgt haar -> zonder : 1
+volgt haar zonder -> ze : 1
+haar zonder ze -> voelt : 1
+zonder ze voelt -> dezelfde : 1
+ze voelt dezelfde -> drang : 1
+voelt dezelfde drang -> als : 1
+dezelfde drang als -> toen : 1
+drang als toen -> ze : 1
+als toen ze -> naar : 1
+toen ze naar -> het : 1
+ze naar het -> asiel : 1
+naar het asiel -> tien : 1
+het asiel tien -> minuten : 1
+asiel tien minuten -> later : 1
+tien minuten later -> is : 1
+minuten later is -> ze : 1
+later is ze -> doorweekt : 1
+is ze doorweekt -> en : 1
+ze doorweekt en -> raakt : 1
+doorweekt en raakt -> ze : 1
+en raakt ze -> buiten : 1
+raakt ze buiten -> telkens : 1
+ze buiten telkens -> als : 1
+buiten telkens als -> ze : 1
+telkens als ze -> wacht : 1
+als ze wacht -> lady : 1
+ze wacht lady -> op : 1
+wacht lady op -> net : 1
+lady op net -> voor : 1
+op net voor -> ze : 1
+net voor ze -> het : 1
+voor ze het -> dorp : 1
+ze het dorp -> schiet : 1
+het dorp schiet -> lady : 1
+dorp schiet lady -> een : 1
+schiet lady een -> smalle : 1
+lady een smalle -> steeg : 1
+een smalle steeg -> ze : 1
+smalle steeg ze -> rent : 1
+steeg ze rent -> naar : 1
+rent naar een -> scheefgezakte : 1
+naar een scheefgezakte -> stal : 1
+een scheefgezakte stal -> en : 1
+scheefgezakte stal en -> gaat : 1
+stal en gaat -> voor : 1
+en gaat voor -> de : 1
+gaat voor de -> deur : 1
+voor de deur -> zitten : 1
+voor de deur -> en : 1
+de deur zitten -> kato : 1
+deur zitten kato -> duwt : 1
+zitten kato duwt -> de : 1
+kato duwt de -> deur : 1
+duwt de deur -> het : 1
+de deur het -> is : 1
+deur het is -> zo : 1
+het is zo -> aardedonker : 1
+is zo aardedonker -> in : 1
+zo aardedonker in -> de : 1
+aardedonker in de -> stal : 1
+in de stal -> dat : 1
+de stal dat -> ze : 1
+stal dat ze -> bang : 1
+dat ze bang -> hoe : 1
+ze bang hoe -> kon : 1
+bang hoe kon -> ze : 1
+hoe kon ze -> toch : 1
+kon ze toch -> zo : 1
+ze toch zo -> dom : 1
+toch zo dom -> zijn : 1
+zo dom zijn -> om : 1
+dom zijn om -> lady : 1
+zijn om lady -> te : 1
+om lady te -> misschien : 1
+lady te misschien -> is : 1
+te misschien is -> ze : 1
+misschien is ze -> echt : 1
+is ze echt -> ze : 1
+ze echt ze -> een : 1
+echt ze een -> natte : 1
+ze een natte -> tong : 1
+een natte tong -> likt : 1
+natte tong likt -> haar : 1
+tong likt haar -> hand : 1
+likt haar hand -> en : 1
+haar hand en -> ze : 1
+hand en ze -> voelt : 1
+en ze voelt -> een : 1
+ze voelt een -> vacht : 1
+voelt een vacht -> tegen : 1
+een vacht tegen -> haar : 1
+vacht tegen haar -> snikt : 1
+tegen haar snikt -> ze : 1
+haar snikt ze -> gaat : 1
+snikt ze gaat -> op : 1
+ze gaat op -> haar : 1
+gaat op haar -> in : 1
+op haar in -> haar : 1
+haar in haar -> armen : 1
+in haar armen -> en : 3
+in haar armen -> gaat : 1
+haar armen en -> loopt : 1
+haar armen en -> fluisterde : 1
+haar armen en -> begint : 1
+armen en loopt -> naar : 1
+en loopt naar -> lijkt : 1
+en loopt naar -> zijn : 1
+en loopt naar -> de : 1
+loopt naar lijkt -> wel : 1
+naar lijkt wel -> of : 1
+lijkt wel of -> midden : 1
+wel of midden -> in : 1
+of midden in -> de : 1
+midden in de -> nacht : 1
+in de nacht -> de : 1
+de nacht de -> zon : 1
+nacht de zon -> lady : 1
+de zon lady -> kent : 1
+zon lady kent -> de : 1
+lady kent de -> laat : 1
+kent de laat -> de : 1
+de laat de -> postbode : 1
+laat de postbode -> bedankt : 1
+de postbode bedankt -> dat : 1
+postbode bedankt dat -> je : 1
+bedankt dat je -> gekomen : 1
+dat je gekomen -> en : 1
+je gekomen en -> nogmaals : 1
+gekomen en nogmaals -> mijn : 1
+en nogmaals mijn -> papa : 1
+nogmaals mijn papa -> zit : 1
+mijn papa zit -> een : 1
+papa zit een -> beetje : 1
+zit een beetje -> verveeld : 1
+een beetje verveeld -> op : 1
+beetje verveeld op -> de : 1
+verveeld op de -> hij : 1
+op de hij -> weet : 1
+de hij weet -> niet : 1
+hij weet niet -> goed : 1
+weet niet goed -> wat : 1
+niet goed wat -> te : 1
+goed wat te -> want : 1
+wat te want -> hij : 1
+te want hij -> beseft : 1
+want hij beseft -> dat : 1
+hij beseft dat -> hij : 1
+beseft dat hij -> te : 1
+dat hij te -> voortvarend : 1
+hij te voortvarend -> geweest : 1
+te voortvarend geweest -> haalt : 1
+voortvarend geweest haalt -> mama : 1
+geweest haalt mama -> de : 1
+haalt mama de -> kastanjes : 1
+mama de kastanjes -> voor : 1
+de kastanjes voor -> hem : 1
+kastanjes voor hem -> uit : 1
+voor hem uit -> het : 1
+hem uit het -> kan : 1
+uit het kan -> nu : 1
+het kan nu -> wel : 1
+kan nu wel -> papa : 1
+nu wel papa -> staat : 1
+wel papa staat -> op : 1
+papa staat op -> en : 1
+staat op en -> ijsbeert : 1
+op en ijsbeert -> door : 1
+en ijsbeert door -> de : 1
+ijsbeert door de -> ogen : 1
+door de ogen -> laten : 1
+de ogen laten -> hem : 1
+ogen laten hem -> niet : 1
+laten hem niet -> ze : 1
+hem niet ze -> weet : 1
+niet ze weet -> dat : 1
+ze weet dat -> hij : 1
+weet dat hij -> het : 1
+dat hij het -> moeilijk : 1
+hij het moeilijk -> heeft : 1
+het moeilijk heeft -> om : 1
+moeilijk heeft om -> zijn : 1
+heeft om zijn -> fout : 1
+om zijn fout -> toe : 1
+zijn fout toe -> te : 1
+fout toe te -> en : 1
+toe te en -> ze : 1
+te en ze -> begrijpt : 1
+en ze begrijpt -> want : 1
+ze begrijpt want -> zij : 1
+begrijpt want zij -> heeft : 1
+want zij heeft -> ook : 1
+zij heeft ook -> nog : 1
+heeft ook nog -> een : 1
+ook nog een -> vervelende : 1
+nog een vervelende -> bekentenis : 1
+een vervelende bekentenis -> te : 1
+vervelende bekentenis te -> lijkt : 1
+bekentenis te lijkt -> wel : 1
+te lijkt wel -> een : 1
+lijkt wel een -> gromt : 1
+wel een gromt -> beschuldigen : 1
+een gromt beschuldigen -> ze : 1
+gromt beschuldigen ze -> flappe : 1
+beschuldigen ze flappe -> bijna : 1
+ze flappe bijna -> van : 1
+flappe bijna van -> een : 1
+bijna van een -> moord : 1
+van een moord -> en : 1
+een moord en -> nu : 1
+moord en nu -> is : 1
+en nu is -> hij : 1
+en nu is -> robbe : 1
+en nu is -> kato : 1
+nu is hij -> plots : 1
+is hij plots -> weer : 1
+hij plots weer -> je : 1
+plots weer je -> daar : 1
+weer je daar -> niet : 1
+je daar niet -> blij : 1
+daar niet blij -> gaat : 1
+niet blij gaat -> het : 1
+blij gaat het -> niet : 1
+gaat het niet -> als : 1
+het niet als -> er : 1
+niet als er -> morgen : 1
+als er morgen -> weer : 1
+er morgen weer -> iemand : 1
+morgen weer iemand -> met : 1
+weer iemand met -> verhaal : 1
+iemand met verhaal -> komt : 1
+met verhaal komt -> moeten : 1
+verhaal komt moeten -> we : 1
+komt moeten we -> onze : 1
+moeten we onze -> mening : 1
+we onze mening -> opnieuw : 1
+onze mening opnieuw -> is : 1
+mening opnieuw is -> toch : 1
+opnieuw is toch -> altijd : 1
+is toch altijd -> gelukkig : 1
+toch altijd gelukkig -> kunnen : 1
+altijd gelukkig kunnen -> we : 1
+gelukkig kunnen we -> niet : 1
+kunnen we niet -> in : 1
+we niet in -> de : 1
+niet in de -> toekomst : 1
+niet in de -> elke : 1
+in de toekomst -> dat : 1
+de toekomst dat -> vervelende : 1
+toekomst dat vervelende -> voorval : 1
+dat vervelende voorval -> met : 1
+vervelende voorval met -> de : 1
+voorval met de -> kleine : 1
+met de kleine -> robbe : 1
+de kleine robbe -> hebben : 1
+de kleine robbe -> in : 1
+de kleine robbe -> nog : 1
+kleine robbe hebben -> we : 1
+robbe hebben we -> er : 1
+hebben we er -> toch : 1
+we er toch -> geen : 1
+er toch geen -> seconde : 1
+toch geen seconde -> aan : 1
+geen seconde aan -> gedacht : 1
+seconde aan gedacht -> om : 1
+aan gedacht om -> flappe : 1
+gedacht om flappe -> weg : 1
+om flappe weg -> te : 1
+flappe weg te -> hadden : 1
+weg te hadden -> we : 1
+te hadden we -> ook : 1
+hadden we ook -> geen : 1
+we ook geen -> reden : 1
+ook geen reden -> zijn : 1
+geen reden zijn -> we : 1
+reden zijn we -> het : 1
+zijn we het -> nu : 1
+we het nu -> is : 1
+het nu is -> er : 1
+nu is er -> ook : 1
+is er ook -> geen : 1
+er ook geen -> enkele : 1
+ook geen enkele -> reden : 1
+geen enkele reden -> niet : 1
+enkele reden niet -> terug : 1
+reden niet terug -> te : 1
+niet terug te -> we : 1
+terug te we -> kunnen : 1
+te we kunnen -> hem : 1
+we kunnen hem -> toch : 1
+kunnen hem toch -> niet : 1
+hem toch niet -> iets : 1
+toch niet iets -> wat : 1
+niet iets wat -> hij : 1
+iets wat hij -> niet : 1
+wat hij niet -> gedaan : 1
+hij niet gedaan -> gaat : 1
+niet gedaan gaat -> weer : 1
+gedaan gaat weer -> hebt : 1
+gaat weer hebt -> morgen : 1
+weer hebt morgen -> halen : 1
+hebt morgen halen -> we : 1
+morgen halen we -> flappe : 1
+halen we flappe -> naar : 1
+we flappe naar -> kan : 1
+flappe naar kan -> en : 1
+naar kan en -> papa : 1
+kan en papa -> kijken : 1
+en papa kijken -> kato : 1
+papa kijken kato -> ongelovig : 1
+kijken kato ongelovig -> ze : 1
+kato ongelovig ze -> staat : 1
+ongelovig ze staat -> bij : 1
+ze staat bij -> het : 1
+staat bij het -> raam : 1
+bij het raam -> en : 1
+het raam en -> kijkt : 1
+raam en kijkt -> naar : 1
+en kijkt naar -> ze : 1
+kijkt naar ze -> hoopt : 1
+naar ze hoopt -> dat : 1
+ze hoopt dat -> ze : 1
+hoopt dat ze -> het : 1
+dat ze het -> schaamrood : 1
+ze het schaamrood -> op : 1
+het schaamrood op -> haar : 1
+schaamrood op haar -> wangen : 1
+op haar wangen -> niet : 1
+haar wangen niet -> kan : 1
+wangen niet kan -> waarom : 1
+niet kan waarom -> klinkt : 1
+kan waarom klinkt -> ongeloof : 1
+waarom klinkt ongeloof -> door : 1
+klinkt ongeloof door -> in : 1
+ongeloof door in -> en : 1
+door in en -> een : 1
+in en een -> tikkeltje : 1
+en een tikkeltje -> is : 1
+een tikkeltje is -> hoe : 1
+tikkeltje is hoe -> weet : 1
+is hoe weet -> jij : 1
+hoe weet jij -> doet : 1
+weet jij doet -> kato : 1
+jij doet kato -> haar : 1
+doet kato haar -> spijt : 1
+kato haar spijt -> zegt : 1
+haar spijt zegt -> ze : 1
+spijt zegt ze -> ten : 1
+zegt ze ten -> moest : 1
+ze ten moest -> trekt : 1
+ten moest trekt -> haar : 1
+moest trekt haar -> tegen : 1
+trekt haar tegen -> zich : 1
+haar tegen zich -> mensen : 1
+tegen zich mensen -> van : 1
+zich mensen van -> iemand : 1
+mensen van iemand -> doen : 1
+van iemand doen -> ze : 1
+iemand doen ze -> soms : 1
+doen ze soms -> gekke : 1
+ze soms gekke -> fluistert : 1
+soms gekke fluistert -> ik : 1
+gekke fluistert ik -> papa : 1
+fluistert ik papa -> leerde : 1
+ik papa leerde -> heb : 1
+papa leerde heb -> ik : 1
+leerde heb ik -> ook : 1
+ik ook eens -> gespijbeld : 1
+ook eens gespijbeld -> om : 1
+eens gespijbeld om -> hem : 1
+gespijbeld om hem -> te : 1
+om hem te -> kunnen : 1
+hem te kunnen -> later : 1
+te kunnen later -> had : 1
+kunnen later had -> ik : 1
+later had ik -> daar : 1
+had ik daar -> ook : 1
+ik daar ook -> spijt : 1
+daar ook spijt -> ik : 1
+ook spijt ik -> begrijp : 1
+spijt ik begrijp -> best : 1
+ik begrijp best -> hoe : 1
+begrijp best hoe -> je : 1
+best hoe je -> je : 1
+hoe je je -> nu : 1
+je je nu -> kato : 1
+je nu kato -> voelt : 1
+nu kato voelt -> zich : 1
+kato voelt zich -> warm : 1
+voelt zich warm -> worden : 1
+zich warm worden -> ze : 1
+warm worden ze -> is : 1
+worden ze is -> blij : 1
+ze is blij -> dat : 1
+is blij dat -> mama : 1
+blij dat mama -> het : 1
+dat mama het -> zo : 1
+mama het zo -> sportief : 1
+het zo sportief -> wachten : 1
+zo sportief wachten -> we : 1
+sportief wachten we -> nog : 1
+wachten we nog -> vraagt : 1
+we nog vraagt -> papa : 1
+nog vraagt papa -> veel : 1
+vraagt papa veel -> te : 1
+papa veel te -> we : 1
+veel te we -> moeten : 1
+te we moeten -> flappe : 1
+we moeten flappe -> vinden : 1
+moeten flappe vinden -> voor : 1
+flappe vinden voor -> het : 1
+vinden voor het -> te : 1
+voor het te -> laat : 1
+het te laat -> zat : 1
+te laat zat -> in : 1
+laat zat in -> de : 1
+zat in de -> tuin : 1
+zat in de -> voortuin : 1
+in de tuin -> te : 1
+de tuin te -> haar : 1
+tuin te haar -> een : 1
+te haar een -> trotse : 1
+haar een trotse -> oude : 1
+een trotse oude -> was : 1
+trotse oude was -> onkruid : 1
+oude was onkruid -> aan : 1
+was onkruid aan -> het : 1
+onkruid aan het -> wieden : 1
+aan het wieden -> en : 1
+het wieden en -> zag : 1
+wieden en zag -> me : 1
+en zag me -> niet : 1
+zag me niet -> maar : 1
+me niet maar -> lady : 1
+niet maar lady -> stak : 1
+maar lady stak -> haar : 1
+lady stak haar -> snuit : 1
+stak haar snuit -> in : 1
+haar snuit in -> de : 1
+snuit in de -> lucht : 2
+in de lucht -> en : 2
+de lucht en -> rende : 1
+de lucht en -> rent : 1
+lucht en rende -> me : 1
+en rende me -> ben : 1
+rende me ben -> je : 1
+me ben je -> kefte : 1
+ben je kefte -> dacht : 1
+je kefte dacht -> dat : 1
+kefte dacht dat -> je : 1
+dat je nooit -> meer : 1
+je nooit meer -> zou : 1
+nooit meer zou -> heeft : 1
+meer zou heeft -> niet : 1
+zou heeft niet -> veel : 1
+heeft niet veel -> zuchtte : 1
+niet veel zuchtte -> dat : 1
+veel zuchtte dat -> is : 1
+zuchtte dat is -> een : 1
+dat is een -> lang : 1
+dat is een -> goed : 1
+is een lang -> ga : 1
+een lang ga -> je : 1
+lang ga je -> waar : 1
+ga je waar -> gaan : 1
+je waar gaan -> we : 1
+waar gaan we -> naartoe : 1
+gaan we naartoe -> het : 1
+we naartoe het -> park : 1
+naartoe het park -> is : 1
+het park is -> het : 1
+park is het -> veel : 1
+is het veel -> te : 1
+het veel te -> als : 1
+veel te als -> ik : 1
+te als ik -> me : 1
+als ik me -> is : 1
+ik me is -> mijn : 1
+me is mijn -> vrouwtje : 1
+is mijn vrouwtje -> we : 1
+mijn vrouwtje we -> kunnen : 1
+vrouwtje we kunnen -> beter : 1
+we kunnen beter -> niet : 1
+kunnen beter niet -> te : 1
+beter niet te -> ver : 1
+niet te ver -> want : 1
+te ver want -> ik : 1
+ver want ik -> moet : 1
+want ik moet -> op : 1
+ik moet op -> tijd : 1
+moet op tijd -> blijven : 1
+op tijd blijven -> we : 1
+tijd blijven we -> in : 1
+blijven we in -> het : 1
+we in het -> voelde : 1
+in het voelde -> me : 1
+het voelde me -> steeds : 1
+voelde me steeds -> meer : 1
+me steeds meer -> op : 1
+steeds meer op -> mijn : 1
+meer op mijn -> de : 1
+op mijn de -> nare : 1
+mijn de nare -> herinneringen : 1
+de nare herinneringen -> aan : 1
+nare herinneringen aan -> het : 1
+herinneringen aan het -> asiel : 1
+aan het asiel -> ik : 1
+asiel ik wist -> weer : 1
+ik wist weer -> waar : 1
+wist weer waar -> ik : 1
+weer waar ik -> elk : 1
+waar ik elk -> steegje : 1
+ik elk steegje -> en : 1
+elk steegje en -> elke : 1
+steegje en elke -> steen : 1
+en elke steen -> in : 1
+elke steen in -> de : 1
+steen in de -> we : 1
+in de we -> naderden : 1
+de we naderden -> de : 1
+we naderden de -> kapel : 1
+naderden de kapel -> op : 1
+de kapel op -> de : 2
+kapel op de -> heide : 1
+kapel op de -> waar : 1
+op de heide -> en : 1
+de heide en -> plots : 1
+heide en plots -> bleef : 1
+en plots bleef -> ik : 1
+plots bleef ik -> achter : 1
+bleef ik achter -> de : 1
+ik achter de -> hoek : 1
+achter de hoek -> klonk : 1
+achter de hoek -> bleef : 1
+de hoek klonk -> opgewonden : 1
+hoek klonk opgewonden -> ik : 1
+klonk opgewonden ik -> wilde : 1
+opgewonden ik wilde -> er : 1
+ik wilde er -> meteen : 1
+wilde er meteen -> maar : 1
+er meteen maar -> lady : 1
+meteen maar lady -> hield : 1
+maar lady hield -> me : 1
+lady hield me -> kobus : 1
+hield me kobus -> is : 1
+me kobus is -> niet : 1
+kobus is niet -> te : 1
+is niet te -> vorige : 1
+niet te vorige -> week : 1
+te vorige week -> heeft : 1
+vorige week heeft -> hij : 1
+week heeft hij -> een : 1
+heeft hij een -> jongetje : 1
+hij een jongetje -> in : 1
+een jongetje in -> zijn : 1
+jongetje in zijn -> been : 1
+in zijn been -> weet : 1
+in zijn been -> gebeten : 1
+in zijn been -> maar : 1
+in zijn been -> zegt : 1
+in zijn been -> probeer : 1
+zijn been weet -> jij : 1
+been weet jij -> heeft : 1
+weet jij heeft -> het : 1
+jij heeft het -> me : 1
+heeft het me -> zelf : 1
+het me zelf -> hij : 1
+me zelf hij -> pocht : 1
+zelf hij pocht -> is : 1
+hij pocht is -> toch : 1
+pocht is toch -> niks : 1
+is toch niks -> om : 1
+toch niks om -> trots : 1
+niks om trots -> op : 1
+om trots op -> te : 1
+trots op te -> heb : 1
+op te heb -> ik : 1
+te heb ik -> hem : 1
+heb ik hem -> ook : 1
+ik hem ook -> hond : 1
+hem ook hond -> achter : 1
+ook hond achter -> de : 1
+hond achter de -> hoek : 1
+de hoek bleef -> blaffen : 1
+hoek bleef blaffen -> en : 1
+bleef blaffen en -> met : 1
+blaffen en met -> lady : 1
+en met lady -> vlak : 1
+met lady vlak -> achter : 1
+lady vlak achter -> me : 1
+vlak achter me -> sloop : 1
+achter me sloop -> ik : 1
+me sloop ik -> rende : 1
+sloop ik rende -> kobus : 1
+ik rende kobus -> hij : 1
+rende kobus hij -> keek : 1
+kobus hij keek -> niet : 1
+hij keek niet -> eens : 1
+keek niet eens -> ik : 1
+niet eens ik -> stak : 1
+eens ik stak -> mijn : 1
+ik stak mijn -> kop : 1
+stak mijn kop -> om : 1
+mijn kop om -> de : 1
+kop om de -> hoek : 1
+om de hoek -> en : 1
+de hoek en -> die : 1
+hoek en die -> nare : 1
+en die nare -> ze : 1
+die nare ze -> leken : 1
+nare ze leken -> de : 1
+ze leken de -> beste : 1
+leken de beste -> klopt : 1
+de beste klopt -> iets : 1
+beste klopt iets -> dacht : 1
+klopt iets dacht -> kato : 1
+iets dacht kato -> vraagt : 1
+dacht kato vraagt -> is : 1
+kato vraagt is -> het : 1
+vraagt is het -> gisteren : 1
+is het gisteren -> herkende : 1
+het gisteren herkende -> flappe : 1
+gisteren herkende flappe -> je : 1
+herkende flappe je -> kijkt : 1
+flappe je kijkt -> een : 1
+je kijkt een -> beetje : 1
+kijkt een beetje -> ze : 1
+een beetje ze -> weet : 1
+beetje ze weet -> echt : 1
+ze weet echt -> niet : 1
+weet echt niet -> hoe : 1
+echt niet hoe -> het : 1
+niet hoe het -> verder : 1
+hoe het verder -> was : 1
+het verder was -> er : 1
+verder was er -> zucht : 1
+was er zucht -> kan : 1
+er zucht kan -> dat : 1
+zucht kan dat -> is : 1
+kan dat is -> niemand : 1
+dat is niemand -> weet : 1
+is niemand weet -> waar : 1
+niemand weet waar -> hij : 1
+weet waar hij -> misschien : 1
+weet waar hij -> ik : 1
+waar hij misschien -> zie : 1
+hij misschien zie -> ik : 1
+misschien zie ik -> hem : 1
+zie ik hem -> nooit : 1
+ik hem nooit -> kan : 1
+hem nooit kan -> honden : 1
+nooit kan honden -> en : 1
+kan honden en -> katten : 1
+honden en katten -> vinden : 1
+en katten vinden -> altijd : 1
+katten vinden altijd -> de : 1
+vinden altijd de -> weg : 1
+altijd de weg -> naar : 1
+de weg naar -> huis : 1
+weg naar huis -> heeft : 1
+naar huis heeft -> geen : 1
+huis heeft geen -> thuis : 1
+heeft geen thuis -> als : 1
+geen thuis als -> hij : 1
+thuis als hij -> brengt : 1
+als hij brengt -> papa : 1
+hij brengt papa -> hem : 1
+brengt papa hem -> weer : 1
+papa hem weer -> ik : 1
+hem weer ik -> denk : 1
+weer ik denk -> dat : 1
+ik denk dat -> hij : 1
+denk dat hij -> nooit : 1
+dat hij nooit -> zo : 1
+hij nooit zo -> slim : 1
+nooit zo slim -> is : 1
+zo slim is -> hij : 1
+slim is hij -> het : 1
+is hij het -> zo : 1
+hij het zo -> moeten : 1
+het zo moeten -> we : 1
+zo moeten we -> hem : 1
+moeten we hem -> we : 1
+we hem we -> trommelen : 1
+hem we trommelen -> de : 1
+we trommelen de -> hele : 1
+trommelen de hele -> klas : 1
+de hele klas -> op : 1
+hele klas op -> en : 1
+klas op en -> kammen : 1
+op en kammen -> het : 1
+en kammen het -> dorp : 1
+kammen het dorp -> en : 1
+het dorp en -> de : 1
+dorp en de -> omliggende : 1
+en de omliggende -> velden : 1
+de omliggende velden -> kato : 1
+omliggende velden kato -> daagt : 1
+velden kato daagt -> hij : 1
+kato daagt hij -> toch : 1
+daagt hij toch -> nog : 1
+hij toch nog -> we : 1
+toch nog we -> wachten : 1
+nog we wachten -> beter : 1
+we wachten beter -> tot : 1
+wachten beter tot -> je : 1
+beter tot je -> geef : 1
+tot je geef -> maar : 1
+je geef maar -> een : 1
+geef maar een -> ik : 1
+maar een ik -> krijg : 1
+een ik krijg -> zonder : 1
+ik krijg zonder -> moeite : 1
+krijg zonder moeite -> twintig : 1
+zonder moeite twintig -> man : 1
+moeite twintig man -> kato : 1
+twintig man kato -> fietst : 1
+man kato fietst -> naar : 1
+kato fietst naar -> de : 1
+fietst naar de -> kapel : 1
+naar de kapel -> op : 1
+op de waar -> ze : 1
+de waar ze -> rechtsaf : 1
+waar ze rechtsaf -> blijft : 1
+ze rechtsaf blijft -> ze : 1
+rechtsaf blijft ze -> even : 1
+blijft ze even -> staan : 1
+ze even staan -> en : 1
+even staan en -> ze : 1
+staan en ze -> gooit : 1
+en ze gooit -> haar : 1
+ze gooit haar -> fiets : 1
+gooit haar fiets -> neer : 1
+haar fiets neer -> en : 1
+fiets neer en -> rent : 1
+neer en rent -> in : 1
+en rent in -> de : 1
+rent in de -> richting : 1
+in de richting -> van : 2
+de richting van -> het : 2
+richting van het -> de : 1
+richting van het -> twee : 1
+van het de -> postbode : 1
+het de postbode -> staat : 1
+de postbode staat -> voor : 1
+postbode staat voor -> het : 1
+staat voor het -> huis : 1
+voor het huis -> van : 1
+het huis van -> dokter : 1
+huis van dokter -> zijn : 1
+van dokter zijn -> pet : 1
+dokter zijn pet -> en : 1
+zijn pet en -> hij : 1
+zijn pet en -> zet : 1
+pet en hij -> gebruikt : 1
+en hij gebruikt -> zijn : 1
+hij gebruikt zijn -> fiets : 1
+gebruikt zijn fiets -> als : 1
+zijn fiets als -> schild : 1
+fiets als schild -> tegen : 1
+als schild tegen -> een : 1
+schild tegen een -> bruine : 1
+tegen een bruine -> die : 1
+een bruine die -> in : 1
+bruine die in -> zijn : 1
+die in zijn -> broek : 1
+in zijn broek -> probeert : 1
+in zijn broek -> te : 1
+zijn broek probeert -> te : 1
+broek probeert te -> om : 1
+probeert te om -> de : 1
+te om de -> hals : 1
+om de hals -> van : 1
+de hals van -> het : 1
+hals van het -> hondje : 1
+van het hondje -> zit : 1
+het hondje zit -> een : 1
+hondje zit een -> grote : 1
+zit een grote -> krijst : 1
+een grote krijst -> kom : 1
+grote krijst kom -> hij : 1
+krijst kom hij -> gehoorzaamt : 1
+kom hij gehoorzaamt -> herkent : 1
+hij gehoorzaamt herkent -> hij : 1
+gehoorzaamt herkent hij -> haar : 1
+herkent hij haar -> niet : 1
+hij haar niet -> ze : 1
+haar niet ze -> loopt : 1
+niet ze loopt -> naar : 1
+loopt naar hem -> toe : 1
+naar hem toe -> en : 1
+hem toe en -> wil : 1
+toe en wil -> hem : 1
+en wil hem -> maar : 1
+wil hem maar -> hij : 1
+hem maar hij -> trekt : 1
+maar hij trekt -> zijn : 1
+hij trekt zijn -> bovenlip : 1
+trekt zijn bovenlip -> op : 1
+zijn bovenlip op -> en : 1
+bovenlip op en -> gromt : 1
+op en gromt -> met : 1
+en gromt met -> blinkende : 1
+gromt met blinkende -> die : 1
+met blinkende die -> duivelse : 1
+blinkende die duivelse -> hond : 1
+die duivelse hond -> hier : 1
+duivelse hond hier -> roept : 1
+hond hier roept -> de : 1
+hier roept de -> postbode : 1
+roept de postbode -> dacht : 1
+de postbode dacht -> dat : 1
+postbode dacht dat -> ik : 1
+dacht dat ik -> eindelijk : 1
+dat ik eindelijk -> van : 1
+ik eindelijk van -> dat : 1
+eindelijk van dat -> mormel : 1
+van dat mormel -> verlost : 1
+dat mormel verlost -> waarom : 1
+mormel verlost waarom -> heb : 1
+verlost waarom heb -> je : 1
+waarom heb je -> hem : 1
+heb je hem -> je : 1
+je hem je -> ziet : 1
+hem je ziet -> toch : 1
+je ziet toch -> dat : 1
+ziet toch dat -> het : 1
+toch dat het -> geen : 1
+dat het geen -> beest : 1
+het geen beest -> is : 1
+geen beest is -> om : 1
+beest is om -> los : 1
+is om los -> te : 1
+om los te -> ik : 1
+los te ik -> dien : 1
+te ik dien -> een : 1
+ik dien een -> klacht : 1
+dien een klacht -> in : 1
+een klacht in -> bij : 1
+klacht in bij -> de : 1
+in bij de -> is : 1
+bij de is -> flappe : 1
+de is flappe -> maak : 1
+is flappe maak -> dat : 1
+flappe maak dat -> de : 1
+maak dat de -> ganzen : 1
+dat de ganzen -> het : 1
+de ganzen het -> is : 1
+ganzen het is -> de : 1
+het is de -> hond : 1
+is de hond -> die : 1
+de hond die -> robbe : 1
+hond die robbe -> bijna : 1
+die robbe bijna -> doodgebeten : 1
+robbe bijna doodgebeten -> robbe : 1
+bijna doodgebeten robbe -> is : 1
+doodgebeten robbe is -> nauwelijks : 1
+robbe is nauwelijks -> dit : 1
+is nauwelijks dit -> is : 1
+nauwelijks dit is -> een : 1
+dit is een -> flappe : 1
+is een flappe -> heeft : 1
+een flappe heeft -> twee : 1
+flappe heeft twee -> witte : 1
+heeft twee witte -> vlekjes : 1
+twee witte vlekjes -> op : 1
+witte vlekjes op -> zijn : 1
+vlekjes op zijn -> klinkt : 1
+op zijn klinkt -> verderop : 1
+zijn klinkt verderop -> een : 1
+klinkt verderop een -> schel : 1
+verderop een schel -> de : 1
+een schel de -> hond : 1
+schel de hond -> spitst : 1
+de hond spitst -> zijn : 1
+hond spitst zijn -> steekt : 1
+spitst zijn steekt -> snuivend : 1
+zijn steekt snuivend -> zijn : 1
+steekt snuivend zijn -> snuit : 1
+snuivend zijn snuit -> in : 1
+zijn snuit in -> de : 1
+lucht en rent -> de : 1
+en rent de -> postbode : 1
+rent de postbode -> zet : 1
+de postbode zet -> zijn : 1
+postbode zet zijn -> pet : 1
+zet zijn pet -> recht : 1
+zijn pet recht -> en : 1
+pet recht en -> rangschikt : 1
+recht en rangschikt -> de : 1
+en rangschikt de -> brieven : 1
+rangschikt de brieven -> in : 1
+de brieven in -> zijn : 1
+brieven in zijn -> was : 1
+in zijn was -> er : 1
+zijn was er -> nochtans : 1
+was er nochtans -> zeker : 1
+er nochtans zeker -> mompelt : 1
+nochtans zeker mompelt -> hebt : 1
+zeker mompelt hebt -> de : 1
+mompelt hebt de -> verkeerde : 1
+hebt de verkeerde -> hond : 1
+de verkeerde hond -> ik : 1
+verkeerde hond ik -> altijd : 1
+hond ik altijd -> flappe : 1
+ik altijd flappe -> bijt : 1
+altijd flappe bijt -> niet : 1
+flappe bijt niet -> als : 1
+bijt niet als -> je : 1
+niet als je -> hem : 1
+als je hem -> niet : 1
+je hem niet -> mijn : 1
+hem niet mijn -> part : 1
+niet mijn part -> mogen : 1
+mijn part mogen -> ze : 1
+part mogen ze -> alle : 1
+mogen ze alle -> honden : 1
+ze alle honden -> naar : 1
+alle honden naar -> het : 1
+honden naar het -> is : 1
+het is niet -> er : 1
+is niet er -> zijn : 1
+niet er zijn -> toch : 1
+er zijn toch -> ook : 1
+zijn toch ook -> slechte : 1
+toch ook slechte -> mensen : 1
+ook slechte mensen -> en : 1
+slechte mensen en -> het : 1
+mensen en het -> gaat : 1
+en het gaat -> niet : 1
+het gaat niet -> op : 1
+gaat niet op -> iedereen : 1
+niet op iedereen -> over : 1
+op iedereen over -> dezelfde : 1
+iedereen over dezelfde -> kam : 1
+over dezelfde kam -> te : 1
+dezelfde kam te -> honden : 1
+kam te honden -> zijn : 1
+te honden zijn -> geen : 1
+honden zijn geen -> was : 1
+zijn geen was -> mijn : 1
+geen was mijn -> beste : 1
+was mijn beste -> hem : 1
+mijn beste hem -> dan : 1
+beste hem dan -> terug : 1
+hem dan terug -> en : 1
+dan terug en -> houd : 1
+terug en houd -> hem : 1
+en houd hem -> beter : 1
+houd hem beter -> in : 1
+hem beter in -> de : 1
+beter in de -> gelooft : 1
+in de gelooft -> me : 1
+de gelooft me -> nooit : 1
+gelooft me nooit -> als : 1
+me nooit als -> ik : 1
+nooit als ik -> hem : 1
+als ik hem -> vertel : 1
+ik hem vertel -> wat : 1
+hem vertel wat -> hier : 1
+vertel wat hier -> ik : 1
+wat hier ik -> even : 1
+hier ik even -> je : 1
+ik even je -> dat : 1
+even je dat -> voor : 1
+je dat voor -> me : 1
+je dat voor -> de : 1
+dat voor me -> er : 1
+voor me er -> zit : 1
+me er zit -> geen : 1
+er zit geen -> twijfel : 1
+zit geen twijfel -> meer : 1
+geen twijfel meer -> in : 1
+twijfel meer in -> haar : 1
+meer in haar -> haar : 1
+in haar haar -> flappe : 1
+in haar haar -> hand : 1
+haar haar flappe -> is : 1
+haar flappe is -> geen : 1
+flappe is geen -> als : 1
+flappe is geen -> hond : 1
+is geen als -> ze : 1
+geen als ze -> hem : 1
+als ze hem -> kan : 1
+als ze hem -> zal : 1
+ze hem kan -> komt : 1
+hem kan komt -> alles : 1
+kan komt alles -> weer : 1
+komt alles weer -> hield : 1
+alles weer hield -> op : 1
+weer hield op -> met : 1
+hield op met -> rennen : 1
+op met rennen -> en : 1
+met rennen en -> hijgde : 1
+rennen en hijgde -> wat : 1
+en hijgde wat -> daarna : 1
+hijgde wat daarna -> besnuffelde : 1
+wat daarna besnuffelde -> ik : 1
+daarna besnuffelde ik -> elke : 1
+besnuffelde ik elke -> elk : 1
+ik elke elk -> elk : 1
+elke elk elk -> geen : 1
+elk elk geen -> enkele : 1
+elk geen enkele -> geur : 1
+geen enkele geur -> wees : 1
+enkele geur wees -> me : 1
+geur wees me -> de : 1
+wees me de -> ik : 1
+me de ik -> was : 1
+de ik was -> in : 1
+ik was in -> een : 1
+was in een -> vreemde : 1
+in een vreemde -> wereld : 1
+een vreemde wereld -> angst : 1
+vreemde wereld angst -> en : 1
+wereld angst en -> onzekerheid : 1
+angst en onzekerheid -> sijpelden : 1
+en onzekerheid sijpelden -> in : 1
+onzekerheid sijpelden in -> mijn : 1
+sijpelden in mijn -> maar : 1
+in mijn maar -> ik : 1
+mijn maar ik -> zette : 1
+mijn maar ik -> ben : 1
+maar ik zette -> ze : 1
+ik zette ze -> vlug : 1
+zette ze vlug -> van : 1
+ze vlug van -> me : 1
+vlug van me -> ik : 1
+van me ik -> wilde : 1
+me ik wilde -> me : 1
+ik wilde me -> opgelucht : 1
+wilde me opgelucht -> ik : 1
+me opgelucht ik -> was : 1
+opgelucht ik was -> weer : 1
+ik was weer -> het : 1
+was weer het -> een : 1
+weer het een -> nieuwe : 1
+het een nieuwe -> baas : 1
+een nieuwe baas -> en : 1
+een nieuwe baas -> zag : 1
+een nieuwe baas -> want : 1
+een nieuwe baas -> voor : 1
+nieuwe baas en -> vooral : 1
+baas en vooral -> dat : 1
+en vooral dat -> akelige : 1
+vooral dat akelige -> lab : 1
+dat akelige lab -> lagen : 1
+akelige lab lagen -> mijlenver : 1
+lab lagen mijlenver -> achter : 1
+lagen mijlenver achter -> als : 1
+mijlenver achter als -> ik : 1
+achter als ik -> het : 1
+als ik het -> een : 1
+ik het een -> beetje : 1
+het een beetje -> handig : 1
+een beetje handig -> kregen : 1
+beetje handig kregen -> ze : 1
+handig kregen ze -> me : 1
+kregen ze me -> nooit : 1
+ze me nooit -> meer : 1
+me nooit meer -> te : 1
+nooit meer te -> ik : 1
+meer te ik -> ging : 1
+te ik ging -> weer : 1
+ik ging weer -> op : 1
+ging weer op -> af : 1
+weer op af -> en : 1
+op af en -> toe : 1
+en toe liet -> ik : 1
+toe liet ik -> enkele : 1
+liet ik enkele -> druppels : 1
+ik enkele druppels -> urine : 1
+enkele druppels urine -> achter : 1
+druppels urine achter -> in : 1
+urine achter in -> het : 1
+achter in het -> gras : 1
+in het gras -> om : 1
+het gras om -> mijn : 1
+gras om mijn -> weg : 1
+om mijn weg -> later : 1
+mijn weg later -> moeiteloos : 1
+weg later moeiteloos -> te : 1
+later moeiteloos te -> kunnen : 1
+moeiteloos te kunnen -> werd : 1
+te kunnen werd -> gelukkig : 1
+kunnen werd gelukkig -> ontdekte : 1
+werd gelukkig ontdekte -> ik : 1
+gelukkig ontdekte ik -> een : 1
+ontdekte ik een -> schapenstal : 1
+ik een schapenstal -> in : 1
+een schapenstal in -> een : 1
+schapenstal in een -> daar : 1
+in een daar -> zou : 1
+een daar zou -> het : 1
+daar zou het -> lekker : 1
+zou het lekker -> droog : 1
+het lekker droog -> en : 1
+lekker droog en -> warm : 1
+droog en warm -> doe : 1
+en warm doe -> jij : 1
+warm doe jij -> blaatte : 1
+doe jij blaatte -> een : 1
+jij blaatte een -> wollige : 1
+blaatte een wollige -> ze : 1
+een wollige ze -> vatte : 1
+wollige ze vatte -> post : 1
+ze vatte post -> tussen : 1
+vatte post tussen -> mij : 1
+post tussen mij -> en : 1
+tussen mij en -> haar : 1
+mij en haar -> twee : 1
+en haar twee -> mekkerende : 1
+haar twee mekkerende -> wil : 1
+twee mekkerende wil -> hier : 1
+mekkerende wil hier -> is : 1
+wil hier is -> er : 1
+hier is er -> plaats : 1
+is er plaats -> ben : 1
+er plaats ben -> verdwaald : 1
+plaats ben verdwaald -> en : 1
+ben verdwaald en -> het : 1
+verdwaald en het -> wordt : 1
+en het wordt -> ze : 1
+het wordt ze -> bekeek : 1
+wordt ze bekeek -> me : 1
+ze bekeek me -> even : 1
+bekeek me even -> maar : 1
+me even maar -> ontdooide : 1
+even maar ontdooide -> vooruit : 1
+maar ontdooide vooruit -> maarzorg : 1
+ontdooide vooruit maarzorg -> ervoor : 1
+vooruit maarzorg ervoor -> dat : 1
+maarzorg ervoor dat -> je : 1
+ervoor dat je -> morgen : 1
+dat je morgen -> op : 1
+je morgen op -> tijd : 1
+morgen op tijd -> buiten : 1
+op tijd buiten -> de : 1
+tijd buiten de -> schapenhoeder : 1
+buiten de schapenhoeder -> haalt : 1
+de schapenhoeder haalt -> ons : 1
+schapenhoeder haalt ons -> op : 1
+haalt ons op -> zodra : 1
+ons op zodra -> het : 1
+op zodra het -> licht : 1
+zodra het licht -> dank : 1
+het licht dank -> het : 1
+licht dank het -> licht : 1
+dank het licht -> door : 1
+het licht door -> de : 2
+licht door de -> kieren : 2
+door de kieren -> van : 2
+de kieren van -> de : 2
+kieren van de -> stal : 1
+kieren van de -> staldeur : 1
+van de stal -> naar : 1
+de stal naar -> binnen : 1
+stal naar binnen -> hobbelde : 1
+naar binnen hobbelde -> een : 1
+binnen hobbelde een -> grijze : 1
+hobbelde een grijze -> truck : 1
+een grijze truck -> de : 1
+grijze truck de -> wei : 1
+truck de wei -> maak : 1
+de wei maak -> dat : 1
+wei maak dat -> je : 1
+maak dat je -> gebood : 1
+dat je gebood -> de : 1
+je gebood de -> ooi : 1
+gebood de ooi -> net : 1
+de ooi net -> toen : 1
+ooi net toen -> ik : 1
+net toen ik -> naar : 1
+toen ik naar -> buiten : 1
+ik naar buiten -> stopte : 1
+naar buiten stopte -> de : 1
+buiten stopte de -> truck : 1
+stopte de truck -> bij : 1
+de truck bij -> de : 1
+truck bij de -> stal : 1
+bij de stal -> en : 1
+de stal en -> een : 1
+stal en een -> gezette : 1
+en een gezette -> man : 1
+een gezette man -> klauterde : 1
+gezette man klauterde -> uit : 1
+man klauterde uit -> de : 1
+klauterde uit de -> ik : 1
+uit de ik -> dook : 1
+de ik dook -> weg : 1
+ik dook weg -> achter : 1
+dook weg achter -> een : 1
+weg achter een -> zodra : 1
+achter een zodra -> de : 1
+een zodra de -> man : 1
+zodra de man -> naar : 1
+de man naar -> binnen : 1
+man naar binnen -> gelopen : 1
+naar binnen gelopen -> wilde : 1
+binnen gelopen wilde -> ik : 1
+gelopen wilde ik -> ervandoor : 1
+wilde ik ervandoor -> maar : 1
+ik ervandoor maar -> plots : 1
+ervandoor maar plots -> herkende : 1
+maar plots herkende -> ik : 1
+plots herkende ik -> een : 1
+herkende ik een -> vage : 1
+ik een vage -> ik : 1
+een vage ik -> twijfelde : 1
+vage ik twijfelde -> maar : 1
+ik twijfelde maar -> hoe : 1
+twijfelde maar hoe -> meer : 1
+maar hoe meer -> en : 1
+hoe meer en -> hoe : 1
+meer en hoe -> dieper : 1
+en hoe dieper -> ik : 1
+hoe dieper ik -> hoe : 1
+dieper ik hoe -> zekerder : 1
+ik hoe zekerder -> ik : 1
+hoe zekerder ik -> ik : 1
+zekerder ik ik -> sloop : 1
+ik ik sloop -> naar : 1
+ik sloop naar -> de : 1
+sloop naar de -> truck : 1
+naar de truck -> toe : 1
+de truck toe -> en : 1
+truck toe en -> besnuffelde : 1
+toe en besnuffelde -> de : 1
+en besnuffelde de -> toen : 1
+besnuffelde de toen -> twijfelde : 1
+de toen twijfelde -> ik : 1
+toen twijfelde ik -> niet : 1
+twijfelde ik niet -> alleen : 1
+ik niet alleen -> lady : 1
+niet alleen lady -> geurde : 1
+alleen lady geurde -> was : 1
+lady geurde was -> mijn : 1
+geurde was mijn -> als : 1
+was mijn als -> ik : 1
+mijn als ik -> de : 1
+mijn als ik -> heel : 1
+als ik de -> truck : 1
+als ik de -> kans : 1
+ik de truck -> zou : 1
+de truck zou -> ik : 1
+truck zou ik -> in : 1
+zou ik in -> haar : 1
+ik in haar -> omgeving : 1
+in haar omgeving -> misschien : 1
+haar omgeving misschien -> zelfs : 1
+omgeving misschien zelfs -> in : 1
+misschien zelfs in -> haar : 1
+zelfs in haar -> zonder : 1
+in haar zonder -> aarzelen : 1
+haar zonder aarzelen -> sprong : 1
+zonder aarzelen sprong -> ik : 1
+aarzelen sprong ik -> in : 1
+sprong ik in -> de : 1
+ik in de -> laadbak : 1
+in de laadbak -> en : 1
+in de laadbak -> gelild : 1
+de laadbak en -> maakte : 1
+laadbak en maakte -> me : 1
+en maakte me -> zo : 1
+maakte me zo -> klein : 1
+me zo klein -> toen : 1
+zo klein toen -> even : 1
+klein toen even -> later : 1
+toen even later -> een : 1
+even later een -> tiental : 1
+later een tiental -> schapen : 1
+een tiental schapen -> in : 1
+tiental schapen in -> de : 1
+schapen in de -> laadbak : 1
+de laadbak gelild -> keek : 1
+laadbak gelild keek -> de : 1
+gelild keek de -> ooi : 1
+keek de ooi -> niet : 1
+de ooi niet -> eens : 1
+ooi niet eens -> wist : 1
+niet eens wist -> wel : 1
+eens wist wel -> dat : 1
+wist wel dat -> je : 1
+wel dat je -> iets : 1
+dat je iets -> in : 1
+je iets in -> hel : 1
+iets in hel -> schild : 1
+in hel schild -> ze : 1
+hel schild ze -> ging : 1
+schild ze ging -> languit : 1
+ze ging languit -> voor : 1
+ging languit voor -> me : 1
+languit voor me -> zodat : 1
+voor me zodat -> de : 1
+me zodat de -> schapenboer : 1
+zodat de schapenboer -> me : 1
+de schapenboer me -> niet : 1
+schapenboer me niet -> kon : 1
+me niet kon -> een : 1
+niet kon een -> hart : 1
+kon een hart -> vol : 1
+een hart vol -> kwart : 1
+hart vol kwart -> voor : 1
+vol kwart voor -> is : 1
+kwart voor is -> tijd : 1
+voor is tijd -> voor : 1
+is tijd voor -> de : 1
+tijd voor de -> kom : 1
+voor de kom -> recht : 1
+de kom recht -> naar : 1
+kom recht naar -> huis : 1
+recht naar huis -> we : 1
+naar huis we -> halen : 1
+huis we halen -> papa : 1
+we halen papa -> op : 1
+halen papa op -> en : 1
+papa op en -> rijden : 1
+op en rijden -> naar : 1
+en rijden naar -> het : 1
+rijden naar het -> jullie : 1
+naar het jullie -> niet : 1
+het jullie niet -> alleen : 1
+jullie niet alleen -> naar : 1
+niet alleen naar -> de : 1
+alleen naar de -> je : 1
+naar de je -> nieuwe : 1
+de je nieuwe -> ik : 1
+je nieuwe ik -> kan : 1
+nieuwe ik kan -> moeilijk : 1
+ik kan moeilijk -> je : 1
+kan moeilijk je -> voeten : 1
+moeilijk je voeten -> haast : 1
+je voeten haast -> is : 1
+voeten haast is -> daar : 1
+haast is daar -> niet : 1
+is daar niet -> doe : 1
+daar niet doe -> niet : 1
+niet doe niet -> moeilijk : 1
+doe niet moeilijk -> nu : 1
+niet moeilijk nu -> we : 1
+moeilijk nu we -> eens : 1
+nu we eens -> een : 1
+we eens een -> avondje : 1
+eens een avondje -> vrij : 1
+een avondje vrij -> om : 1
+avondje vrij om -> zes : 1
+vrij om zes -> uur : 1
+om zes uur -> ben : 1
+zes uur ben -> ik : 1
+uur ben ik -> amuseer : 1
+ben ik amuseer -> je : 1
+ik amuseer je -> en : 1
+amuseer je en -> sanne : 1
+je en sanne -> fietsen : 1
+en sanne fietsen -> in : 1
+sanne fietsen in -> de : 1
+fietsen in de -> richting : 1
+van het twee -> straten : 1
+het twee straten -> verder : 1
+twee straten verder -> rijdt : 1
+straten verder rijdt -> sanne : 1
+verder rijdt sanne -> naar : 1
+rijdt sanne naar -> de : 1
+sanne naar de -> kato : 1
+naar de kato -> naar : 1
+de kato naar -> het : 1
+kato naar het -> mama : 1
+naar het mama -> hoeft : 1
+het mama hoeft -> het : 1
+mama hoeft het -> niet : 1
+hoeft het niet -> te : 1
+het niet te -> ze : 1
+niet te ze -> vond : 1
+te ze vond -> het : 1
+ze vond het -> helemaal : 1
+vond het helemaal -> geen : 1
+het helemaal geen -> goed : 1
+helemaal geen goed -> kunt : 1
+geen goed kunt -> flappe : 1
+goed kunt flappe -> beter : 1
+kunt flappe beter -> een : 1
+flappe beter een -> tijdje : 1
+beter een tijdje -> met : 1
+een tijdje met -> rust : 1
+tijdje met rust -> vond : 1
+met rust vond -> krijgt : 1
+rust vond krijgt -> hij : 1
+vond krijgt hij -> de : 1
+krijgt hij de -> kans : 1
+hij de kans -> om : 1
+de kans om -> aan : 1
+kans om aan -> zijn : 1
+om aan zijn -> nieuwe : 1
+aan zijn nieuwe -> thuis : 1
+zijn nieuwe thuis -> te : 1
+nieuwe thuis te -> kato : 1
+thuis te kato -> nam : 1
+te kato nam -> niet : 1
+kato nam niet -> de : 1
+nam niet de -> moeite : 1
+niet de moeite -> om : 1
+de moeite om -> haar : 1
+moeite om haar -> te : 1
+om haar te -> ze : 1
+haar te ze -> broedde : 1
+te ze broedde -> haar : 1
+ze broedde haar -> plannetje : 1
+broedde haar plannetje -> fietst : 1
+haar plannetje fietst -> als : 1
+plannetje fietst als -> om : 1
+fietst als om -> niet : 1
+als om niet -> te : 1
+om niet te -> erg : 1
+niet te erg -> in : 1
+te erg in -> het : 1
+erg in het -> oog : 1
+in het oog -> te : 1
+in het oog -> ik : 1
+het oog te -> lopen : 1
+oog te lopen -> kiest : 1
+te lopen kiest -> ze : 1
+lopen kiest ze -> een : 1
+kiest ze een -> smalle : 1
+ze een smalle -> die : 1
+een smalle die -> zich : 1
+smalle die zich -> als : 1
+die zich als -> een : 1
+zich als een -> lus : 1
+als een lus -> rond : 1
+een lus rond -> het : 1
+lus rond het -> dorp : 1
+rond het dorp -> de : 1
+het dorp de -> omweg : 1
+dorp de omweg -> neemt : 1
+de omweg neemt -> ze : 1
+omweg neemt ze -> er : 1
+neemt ze er -> graag : 1
+ze er graag -> je : 1
+er graag je -> weet : 1
+graag je weet -> maar : 1
+je weet maar -> nooit : 1
+weet maar nooit -> wie : 1
+maar nooit wie -> je : 1
+nooit wie je -> allemaal : 1
+wie je allemaal -> tegen : 1
+je allemaal tegen -> het : 1
+allemaal tegen het -> lijf : 1
+tegen het lijf -> kunt : 1
+het lijf kunt -> denkt : 1
+lijf kunt denkt -> ze : 1
+kunt denkt ze -> voelt : 1
+denkt ze voelt -> zich : 1
+ze voelt zich -> niet : 1
+voelt zich niet -> lekker : 1
+zich niet lekker -> in : 1
+niet lekker in -> haar : 1
+lekker in haar -> ze : 1
+in haar ze -> bedriegt : 1
+in haar ze -> zou : 1
+haar ze bedriegt -> haar : 1
+ze bedriegt haar -> maar : 1
+bedriegt haar maar -> wat : 1
+haar maar wat -> kan : 1
+maar wat kan -> ze : 1
+wat kan ze -> anders : 1
+kan ze anders -> het : 1
+ze anders het -> beeld : 1
+anders het beeld -> van : 1
+het beeld van -> de : 1
+beeld van de -> eenzame : 1
+van de eenzame -> flappe : 1
+de eenzame flappe -> in : 1
+eenzame flappe in -> een : 1
+flappe in een -> kil : 1
+in een kil -> hok : 1
+een kil hok -> laat : 1
+kil hok laat -> haar : 1
+hok laat haar -> niet : 1
+laat haar niet -> het : 1
+haar niet het -> asiel : 1
+niet het asiel -> lijkt : 1
+het asiel lijkt -> op : 1
+asiel lijkt op -> een : 1
+lijkt op een -> ouderwetse : 1
+op een ouderwetse -> en : 1
+een ouderwetse en -> zwijnenstallen : 1
+ouderwetse en zwijnenstallen -> zijn : 1
+en zwijnenstallen zijn -> vervangen : 1
+zwijnenstallen zijn vervangen -> door : 1
+zijn vervangen door -> wel : 1
+vervangen door wel -> honderd : 1
+door wel honderd -> als : 1
+wel honderd als -> ze : 1
+honderd als ze -> het : 1
+als ze het -> roestige : 1
+ze het roestige -> hek : 1
+het roestige hek -> zetten : 1
+roestige hek zetten -> tientallen : 1
+hek zetten tientallen -> honden : 1
+zetten tientallen honden -> een : 1
+tientallen honden een -> oorverdovend : 1
+honden een oorverdovend -> concert : 1
+een oorverdovend concert -> een : 1
+oorverdovend concert een -> man : 1
+concert een man -> in : 1
+een man in -> groene : 1
+man in groene -> overall : 1
+in groene overall -> doet : 1
+groene overall doet -> de : 1
+overall doet de -> deur : 1
+doet de deur -> van : 1
+de deur van -> een : 1
+de deur van -> de : 1
+deur van een -> kantoortje : 1
+van een kantoortje -> achter : 1
+een kantoortje achter -> hem : 1
+kantoortje achter hem -> staat : 1
+achter hem staat -> een : 1
+hem staat een -> norse : 1
+staat een norse -> vrouw : 1
+een norse vrouw -> met : 1
+norse vrouw met -> verwilderd : 1
+vrouw met verwilderd -> een : 1
+met verwilderd een -> scherpe : 1
+verwilderd een scherpe -> neus : 1
+een scherpe neus -> en : 1
+scherpe neus en -> een : 1
+neus en een -> vooruitstekende : 1
+en een vooruitstekende -> dat : 1
+een vooruitstekende dat -> voorspelt : 1
+vooruitstekende dat voorspelt -> niet : 1
+dat voorspelt niet -> veel : 1
+voorspelt niet veel -> wat : 1
+niet veel wat -> zoek : 1
+veel wat zoek -> roept : 1
+wat zoek roept -> de : 1
+zoek roept de -> zeg : 1
+roept de zeg -> eens : 1
+de zeg eens -> watje : 1
+zeg eens watje -> echoot : 1
+eens watje echoot -> de : 1
+watje echoot de -> net : 1
+echoot de net -> een : 1
+de net een -> denkt : 1
+net een denkt -> papa : 1
+een denkt papa -> en : 1
+een denkt papa -> merkt : 1
+denkt papa en -> mama : 1
+papa en mama -> hebben : 1
+papa en mama -> het : 1
+en mama hebben -> hem : 1
+mama hebben hem -> in : 1
+hebben hem in -> het : 1
+hem in het -> weekend : 1
+in het weekend -> heet : 1
+het weekend heet -> zeg : 1
+weekend heet zeg -> eens : 1
+heet zeg eens -> hoe : 1
+zeg eens hoe -> hij : 1
+eens hoe hij -> of : 1
+hoe hij of -> heeft : 1
+hij of heeft -> hij : 1
+of heeft hij -> geen : 1
+heeft hij geen -> denkt : 1
+hij geen denkt -> het : 1
+geen denkt het -> heeft : 1
+denkt het heeft -> toch : 1
+het heeft toch -> geen : 1
+heeft toch geen -> zin : 1
+toch geen zin -> alles : 1
+geen zin alles -> twee : 1
+zin alles twee -> keer : 1
+alles twee keer -> te : 1
+twee keer te -> het : 1
+keer te het -> is : 1
+te het is -> een : 1
+het is een -> bruin : 1
+is een bruin -> hondje : 1
+een bruin hondje -> met : 1
+bruin hondje met -> vinnige : 1
+hondje met vinnige -> zijn : 1
+met vinnige zijn -> oren : 1
+vinnige zijn oren -> hangen : 1
+zijn oren hangen -> als : 1
+oren hangen als -> twee : 1
+hangen als twee -> flappen : 1
+als twee flappen -> naast : 1
+twee flappen naast -> zijn : 1
+flappen naast zijn -> de : 1
+flappen naast zijn -> kop : 1
+naast zijn de -> vrouw : 1
+zijn de vrouw -> loopt : 1
+de vrouw loopt -> naar : 1
+vrouw loopt naar -> de : 1
+loopt naar de -> man : 1
+loopt naar de -> maar : 1
+naar de man -> kucht : 1
+de man kucht -> neemt : 1
+man kucht neemt -> zijn : 1
+kucht neemt zijn -> pet : 1
+neemt zijn pet -> verfrommelt : 1
+zijn pet verfrommelt -> wiebelt : 1
+pet verfrommelt wiebelt -> van : 1
+verfrommelt wiebelt van -> het : 1
+wiebelt van het -> ene : 1
+van het ene -> been : 1
+het ene been -> op : 1
+ene been op -> het : 1
+been op het -> ontrolt : 1
+op het ontrolt -> zijn : 1
+het ontrolt zijn -> pet : 1
+ontrolt zijn pet -> en : 1
+pet en zet -> ze : 1
+en zet ze -> weer : 1
+zet ze weer -> op : 1
+ze weer op -> zijn : 1
+weer op zijn -> kale : 1
+op zijn kale -> u : 1
+zijn kale u -> hem : 1
+kale u hem -> dringt : 1
+u hem dringt -> kato : 1
+hem dringt kato -> hebben : 1
+dringt kato hebben -> hem : 1
+kato hebben hem -> toch : 1
+hebben hem toch -> is : 1
+hem toch is -> een : 1
+toch is een -> klein : 1
+is een klein -> aarzelt : 1
+een klein aarzelt -> de : 1
+klein aarzelt de -> hondje : 1
+aarzelt de hondje -> is : 1
+de hondje is -> er : 1
+hondje is er -> gisteren : 1
+is er gisteren -> vandoor : 1
+er gisteren vandoor -> ik : 1
+gisteren vandoor ik -> weet : 1
+vandoor ik weet -> niet : 1
+ik weet niet -> waar : 1
+weet niet waar -> het : 1
+niet waar het -> schrikt : 1
+waar het schrikt -> u : 1
+het schrikt u -> hem : 1
+schrikt u hem -> al : 1
+u hem al -> kan : 1
+hem al kan -> dat : 1
+al kan dat -> we : 1
+kan dat we -> moeten : 1
+dat we moeten -> honderd : 1
+we moeten honderd -> vijftig : 1
+moeten honderd vijftig -> honden : 1
+honderd vijftig honden -> ze : 1
+vijftig honden ze -> brengen : 1
+honden ze brengen -> hem : 1
+ze brengen hem -> wel : 1
+brengen hem wel -> dat : 1
+hem wel dat -> weet : 1
+wel dat weet -> ik : 1
+dat weet ik -> kato : 1
+weet ik kato -> weet : 1
+ik kato weet -> niet : 1
+kato weet niet -> wat : 1
+weet niet wat -> te : 1
+niet wat te -> moet : 1
+wat te moet -> ze : 1
+te moet ze -> nu : 1
+moet ze nu -> blij : 1
+ze nu blij -> zijn : 1
+nu blij zijn -> omdat : 1
+blij zijn omdat -> flappe : 1
+zijn omdat flappe -> ontsnapt : 1
+omdat flappe ontsnapt -> of : 1
+flappe ontsnapt of -> moet : 1
+ontsnapt of moet -> ze : 1
+of moet ze -> zich : 1
+moet ze zich -> ongerust : 1
+ze zich ongerust -> maken : 1
+zich ongerust maken -> omdat : 1
+ongerust maken omdat -> ze : 1
+maken omdat ze -> nu : 1
+omdat ze nu -> helemaal : 1
+ze nu helemaal -> niet : 1
+nu helemaal niet -> meer : 1
+niet meer weet -> waar : 1
+meer weet waar -> hij : 1
+waar hij ik -> zijn : 1
+hij ik zijn -> hok : 1
+ik zijn hok -> kom : 1
+zijn hok kom -> maar : 1
+hok kom maar -> man : 1
+kom maar man -> loopt : 1
+maar man loopt -> naar : 1
+man loopt naar -> een : 1
+loopt naar een -> leeg : 1
+naar een leeg -> hok : 1
+een leeg hok -> tegenover : 1
+leeg hok tegenover -> het : 1
+hok tegenover het -> links : 1
+tegenover het links -> zit : 1
+het links zit -> een : 1
+links zit een -> rechts : 1
+zit een rechts -> ziet : 1
+een rechts ziet -> ze : 1
+rechts ziet ze -> twee : 1
+ziet ze twee -> de : 1
+ze twee de -> newfoundlander : 1
+twee de newfoundlander -> blaft : 1
+de newfoundlander blaft -> als : 1
+newfoundlander blaft als -> je : 1
+blaft als je -> stom : 1
+als je stom -> foetert : 1
+je stom foetert -> de : 1
+stom foetert de -> kato : 1
+foetert de kato -> loopt : 1
+de kato loopt -> naar : 1
+kato loopt naar -> het : 1
+naar het hok -> van : 1
+het hok van -> de : 1
+hok van de -> waarschuwt : 1
+van de waarschuwt -> de : 1
+de waarschuwt de -> man : 1
+waarschuwt de man -> te : 1
+de man te -> hij : 1
+man te hij -> heeft : 1
+te hij heeft -> vandaag : 1
+hij heeft vandaag -> de : 1
+heeft vandaag de -> kans : 1
+vandaag de kans -> van : 1
+de kans van -> zijn : 1
+kans van zijn -> leven : 1
+van zijn leven -> wil : 1
+zijn leven wil -> me : 1
+leven wil me -> iets : 1
+wil me iets -> succes : 1
+me iets succes -> lacht : 1
+iets succes lacht -> de : 1
+succes lacht de -> versta : 1
+lacht de versta -> geen : 1
+de versta geen -> kato : 1
+versta geen kato -> antwoordt : 1
+geen kato antwoordt -> ze : 1
+kato antwoordt ze -> staart : 1
+antwoordt ze staart -> nog : 1
+ze staart nog -> even : 1
+staart nog even -> naar : 1
+nog even naar -> het : 1
+even naar het -> lege : 1
+naar het lege -> hok : 1
+het lege hok -> en : 1
+lege hok en -> neemt : 1
+hok en neemt -> dan : 1
+en neemt dan -> afscheid : 1
+neemt dan afscheid -> van : 1
+dan afscheid van -> de : 1
+afscheid van de -> haar : 1
+van de haar -> hart : 1
+de haar hart -> vol : 1
+haar hart vol -> vragen : 1
+hart vol vragen -> fietst : 1
+vol vragen fietst -> ze : 1
+vragen fietst ze -> terug : 1
+fietst ze terug -> naar : 1
+ze terug naar -> het : 1
+naar het om -> kwart : 1
+het om kwart -> voor : 1
+om kwart voor -> zes : 1
+kwart voor zes -> is : 1
+voor zes is -> ze : 1
+zes is ze -> weer : 1
+is ze weer -> verhaal : 1
+ze weer verhaal -> van : 1
+weer verhaal van -> de : 1
+verhaal van de -> newfoundlander : 1
+van de newfoundlander -> bleef : 1
+van de newfoundlander -> niet : 1
+de newfoundlander bleef -> door : 1
+newfoundlander bleef door -> mijn : 1
+bleef door mijn -> hoofd : 1
+door mijn hoofd -> een : 1
+mijn hoofd een -> nieuwe : 1
+hoofd een nieuwe -> baas : 1
+nieuwe baas zag -> ik : 1
+baas zag ik -> niet : 1
+zag ik niet -> echt : 1
+ik niet echt -> zitten : 1
+niet echt zitten -> en : 1
+echt zitten en -> het : 1
+zitten en het -> lab : 1
+en het lab -> maakte : 1
+het lab maakte -> me : 1
+lab maakte me -> ik : 1
+maakte me ik -> werd : 1
+me ik werd -> er : 1
+ik werd er -> een : 1
+werd er een -> beetje : 1
+er een beetje -> moedeloos : 1
+een beetje moedeloos -> van : 1
+beetje moedeloos van -> en : 1
+moedeloos van en -> kroop : 1
+van en kroop -> stil : 1
+en kroop stil -> in : 1
+kroop stil in -> een : 1
+stil in een -> de : 1
+in een de -> papegaai : 1
+een de papegaai -> mijn : 1
+de papegaai mijn -> hok : 1
+papegaai mijn hok -> kwam : 1
+mijn hok kwam -> rook : 1
+hok kwam rook -> ik : 1
+kwam rook ik -> een : 1
+rook ik een -> kansje : 1
+ik een kansje -> om : 1
+een kansje om -> te : 1
+kansje om te -> want : 1
+om te want -> ze : 1
+te want ze -> liet : 1
+want ze liet -> verdorie : 1
+ze liet verdorie -> de : 1
+liet verdorie de -> deur : 1
+verdorie de deur -> op : 1
+de deur op -> een : 1
+deur op een -> kier : 1
+op een kier -> ik : 1
+een kier ik -> berekende : 1
+kier ik berekende -> mijn : 1
+ik berekende mijn -> sprong : 1
+berekende mijn sprong -> naar : 1
+mijn sprong naar -> de : 1
+sprong naar de -> maar : 1
+naar de maar -> was : 1
+naar de maar -> niet : 1
+de maar was -> waarschijnlijk : 1
+maar was waarschijnlijk -> niet : 1
+was waarschijnlijk niet -> koelbloedig : 1
+waarschijnlijk niet koelbloedig -> ze : 1
+niet koelbloedig ze -> merkte : 1
+koelbloedig ze merkte -> wat : 1
+ze merkte wat -> ik : 1
+merkte wat ik -> van : 1
+wat ik van -> plan : 1
+ik van plan -> was : 1
+van plan was -> en : 1
+plan was en -> gaf : 1
+was en gaf -> de : 1
+en gaf de -> deur : 1
+gaf de deur -> een : 1
+de deur een -> flinke : 1
+deur een flinke -> tik : 1
+een flinke tik -> met : 1
+flinke tik met -> haar : 1
+tik met haar -> de : 1
+met haar de -> klik : 1
+haar de klik -> van : 1
+de klik van -> het : 1
+klik van het -> slot : 1
+van het slot -> klonk : 1
+het slot klonk -> als : 1
+slot klonk als -> de : 1
+klonk als de -> knal : 1
+als de knal -> van : 1
+de knal van -> een : 1
+knal van een -> ik : 1
+van een ik -> zocht : 1
+een ik zocht -> een : 1
+ik zocht een -> warm : 1
+zocht een warm -> plekje : 1
+een warm plekje -> in : 1
+warm plekje in -> het : 1
+plekje in het -> geurige : 1
+in het geurige -> hooi : 1
+het geurige hooi -> en : 1
+geurige hooi en -> dommelde : 1
+hooi en dommelde -> het : 1
+en dommelde het -> was : 1
+dommelde het was -> al : 1
+het was al -> bijna : 1
+was al bijna -> donker : 1
+al bijna donker -> toen : 1
+bijna donker toen -> de : 1
+donker toen de -> newfoundlander : 1
+toen de newfoundlander -> me : 1
+de newfoundlander me -> bent : 1
+newfoundlander me bent -> zo : 1
+me bent zo -> je : 1
+bent zo je -> of : 1
+zo je of -> kan : 1
+je of kan -> me : 1
+of kan me -> niet : 1
+kan me niet -> voorstellen : 1
+me niet voorstellen -> dat : 1
+niet voorstellen dat -> ik : 1
+voorstellen dat ik -> het : 1
+dat ik het -> hier : 1
+ik het hier -> weken : 1
+het hier weken -> je : 1
+hier weken je -> kun : 1
+weken je kun -> je : 1
+je kun je -> bij : 1
+kun je bij -> mij : 1
+je bij mij -> komen : 1
+bij mij komen -> dat : 1
+mij komen dat -> hij : 1
+komen dat hij -> groter : 1
+dat hij groter -> en : 1
+hij groter en -> sterker : 1
+groter en sterker -> betekende : 1
+en sterker betekende -> nog : 1
+sterker betekende nog -> hij : 1
+betekende nog hij -> met : 1
+nog hij met -> me : 1
+hij met me -> mocht : 1
+met me mocht -> drong : 1
+me mocht drong -> hij : 1
+mocht drong hij -> zal : 1
+drong hij zal -> je : 1
+hij zal je -> wat : 1
+zal je wat -> nam : 1
+je wat nam -> me : 1
+wat nam me -> mee : 1
+nam me mee -> tot : 1
+me mee tot -> achteraan : 1
+mee tot achteraan -> in : 1
+tot achteraan in -> het : 1
+achteraan in het -> hok : 1
+in het hok -> en : 1
+in het hok -> naast : 1
+het hok en -> wurmde : 1
+hok en wurmde -> zijn : 1
+en wurmde zijn -> een : 1
+wurmde zijn een -> gat : 1
+zijn een gat -> tussen : 1
+een gat tussen -> de : 1
+gat tussen de -> mij : 1
+gat tussen de -> krabde : 1
+tussen de mij -> is : 1
+de mij is -> het : 1
+mij is het -> te : 1
+is het te -> maar : 1
+het te maar -> ik : 1
+te maar ik -> durf : 1
+maar ik durf -> te : 1
+ik durf te -> wedden : 2
+durf te wedden -> dat : 1
+durf te wedden -> datje : 1
+te wedden dat -> jij : 1
+wedden dat jij -> erdoor : 1
+dat jij erdoor -> voelde : 1
+jij erdoor voelde -> me : 1
+erdoor voelde me -> plots : 1
+voelde me plots -> helemaal : 1
+me plots helemaal -> wrong : 1
+plots helemaal wrong -> me : 1
+helemaal wrong me -> door : 1
+wrong me door -> het : 1
+me door het -> gat : 2
+door het gat -> en : 1
+door het gat -> tussen : 1
+het gat en -> we : 1
+gat en we -> gingen : 1
+en we gingen -> dicht : 1
+we gingen dicht -> bijeen : 1
+gingen dicht bijeen -> liggen : 1
+dicht bijeen liggen -> voor : 1
+bijeen liggen voor -> het : 1
+liggen voor het -> eerst : 1
+voor het eerst -> sinds : 1
+voor het eerst -> is : 1
+het eerst sinds -> lang : 1
+eerst sinds lang -> dacht : 1
+sinds lang dacht -> ik : 1
+lang dacht ik -> weer : 1
+dacht ik weer -> aan : 1
+ik weer aan -> aan : 1
+weer aan aan -> het : 1
+aan aan het -> warme : 1
+aan het warme -> nest : 1
+het warme nest -> in : 1
+warme nest in -> de : 1
+nest in de -> koeienstal : 1
+in de koeienstal -> van : 1
+de koeienstal van -> boer : 1
+koeienstal van boer -> aan : 1
+van boer aan -> mijn : 1
+boer aan mijn -> broer : 1
+aan mijn broer -> en : 1
+mijn broer en -> mijn : 1
+broer en mijn -> tegen : 1
+en mijn tegen -> de : 1
+mijn tegen de -> ochtend : 1
+de ochtend likte -> de : 1
+ochtend likte de -> newfoundlander : 1
+likte de newfoundlander -> de : 1
+de newfoundlander de -> slaap : 1
+de newfoundlander de -> is : 1
+newfoundlander de slaap -> uit : 1
+de slaap uit -> mijn : 1
+slaap uit mijn -> om : 1
+uit mijn om -> terug : 1
+mijn om terug -> te : 1
+om terug te -> zei : 1
+terug te zei -> de : 1
+te zei de -> groene : 1
+zei de groene -> baas : 1
+de groene baas -> het : 1
+de groene baas -> de : 1
+de groene baas -> riep : 1
+de groene baas -> en : 1
+groene baas het -> maakt : 1
+baas het maakt -> hij : 1
+het maakt hij -> het : 1
+maakt hij het -> gat : 1
+hij het gat -> dicht : 1
+het gat dicht -> en : 1
+gat dicht en -> is : 1
+dicht en is -> de : 1
+en is de -> pret : 1
+is de pret -> met : 1
+de pret met -> tegenzin : 1
+pret met tegenzin -> kroop : 1
+met tegenzin kroop -> ik : 1
+tegenzin kroop ik -> weer : 1
+kroop ik weer -> in : 1
+ik weer in -> mijn : 1
+weer in mijn -> eigen : 1
+in mijn eigen -> zodra : 1
+mijn eigen zodra -> de : 1
+eigen zodra de -> eerste : 1
+zodra de eerste -> bezoekers : 1
+de eerste bezoekers -> het : 1
+eerste bezoekers het -> erf : 1
+bezoekers het erf -> op : 1
+het erf op -> drongen : 1
+erf op drongen -> de : 1
+op drongen de -> meeste : 1
+drongen de meeste -> van : 1
+de meeste van -> mijn : 1
+meeste van mijn -> lotgenoten : 1
+van mijn lotgenoten -> pronkerig : 1
+mijn lotgenoten pronkerig -> tegen : 1
+lotgenoten pronkerig tegen -> de : 1
+pronkerig tegen de -> tralies : 1
+tegen de tralies -> van : 1
+de tralies van -> hun : 1
+tralies van hun -> de : 1
+van hun de -> newfoundlander : 1
+hun de newfoundlander -> gaf : 1
+de newfoundlander gaf -> zijn : 1
+newfoundlander gaf zijn -> poten : 1
+gaf zijn poten -> een : 1
+zijn poten een -> extra : 1
+poten een extra -> wreef : 1
+een extra wreef -> de : 1
+extra wreef de -> klodders : 1
+wreef de klodders -> uit : 1
+de klodders uit -> zijn : 1
+klodders uit zijn -> ogen : 1
+uit zijn ogen -> en : 1
+zijn ogen en -> ging : 1
+zijn ogen en -> gaan : 1
+zijn ogen en -> dat : 1
+ogen en ging -> mooi : 1
+en ging mooi -> rechtop : 1
+ging mooi rechtop -> op : 1
+mooi rechtop op -> de : 1
+rechtop op de -> uitkijk : 1
+op de uitkijk -> hij : 1
+de uitkijk hij -> wilde : 1
+uitkijk hij wilde -> zich : 1
+hij wilde zich -> van : 1
+wilde zich van -> zijn : 1
+zich van zijn -> beste : 1
+van zijn beste -> kant : 1
+zijn beste kant -> laten : 1
+beste kant laten -> een : 1
+kant laten een -> man : 1
+laten een man -> en : 1
+een man en -> zijn : 1
+man en zijn -> zoontje : 1
+en zijn zoontje -> aarzelden : 1
+zijn zoontje aarzelden -> voor : 1
+zoontje aarzelden voor -> zijn : 1
+aarzelden voor zijn -> kleine : 1
+voor zijn kleine -> vind : 1
+zijn kleine vind -> ik : 1
+kleine vind ik -> niet : 1
+vind ik niet -> het : 1
+ik niet het -> zoontje : 1
+niet het zoontje -> wees : 1
+het zoontje wees -> in : 1
+zoontje wees in -> mijn : 1
+wees in mijn -> die : 1
+in mijn die -> de : 1
+mijn die de -> newfoundlander : 1
+die de newfoundlander -> de : 1
+newfoundlander de is -> veel : 1
+de is veel -> te : 1
+is veel te -> kijk : 1
+veel te kijk -> eens : 1
+te kijk eens -> naar : 1
+kijk eens naar -> zijn : 1
+eens naar zijn -> groene : 1
+naar zijn groene -> baas : 1
+zijn groene baas -> kwam : 1
+groene baas kwam -> als : 1
+baas kwam als -> een : 1
+kwam als een -> opgejaagde : 1
+als een opgejaagde -> kip : 1
+een opgejaagde kip -> over : 1
+opgejaagde kip over -> het : 1
+kip over het -> erf : 1
+over het erf -> hij : 1
+over het erf -> met : 1
+het erf hij -> rook : 1
+erf hij rook -> een : 1
+hij rook een -> grootte : 1
+rook een grootte -> speelt : 1
+een grootte speelt -> geen : 1
+grootte speelt geen -> fleemde : 1
+speelt geen fleemde -> in : 1
+geen fleemde in -> de : 1
+fleemde in de -> eerste : 1
+in de eerste -> plaats : 1
+de eerste plaats -> eerlijk : 1
+eerste plaats eerlijk -> en : 1
+plaats eerlijk en -> ik : 1
+eerlijk en ik -> verzeker : 1
+en ik verzeker -> die : 1
+ik verzeker die -> hond : 1
+verzeker die hond -> het : 1
+die hond het -> beste : 1
+hond het beste -> koopje : 1
+het beste koopje -> is : 1
+beste koopje is -> van : 1
+koopje is van -> de : 1
+is van de -> hele : 1
+van de hele -> newfoundlander : 1
+van de hele -> krijgt : 1
+de hele newfoundlander -> groeide : 1
+hele newfoundlander groeide -> zowaar : 1
+newfoundlander groeide zowaar -> nog : 1
+groeide zowaar nog -> enkele : 1
+zowaar nog enkele -> al : 1
+nog enkele al -> zijn : 1
+enkele al zijn -> ijdelheid : 1
+al zijn ijdelheid -> was : 1
+zijn ijdelheid was -> hij : 1
+ijdelheid was hij -> natuurlijk : 1
+was hij natuurlijk -> vergeten : 1
+hij natuurlijk vergeten -> dat : 1
+natuurlijk vergeten dat -> de : 1
+vergeten dat de -> al : 1
+dat de al -> zijn : 1
+de al zijn -> dieren : 1
+al zijn dieren -> zo : 1
+zijn dieren zo -> enthousiast : 1
+dieren zo enthousiast -> vader : 1
+zo enthousiast vader -> probeerde : 1
+enthousiast vader probeerde -> bas : 1
+vader probeerde bas -> tot : 1
+probeerde bas tot -> andere : 1
+bas tot andere -> gedachten : 1
+tot andere gedachten -> te : 1
+tot andere gedachten -> ogen : 1
+andere gedachten te -> die : 1
+gedachten te die -> bleef : 1
+te die bleef -> voor : 1
+die bleef voor -> het : 1
+bleef voor het -> hok : 1
+voor het hok -> heen : 1
+het hok heen -> en : 1
+hok heen en -> weer : 1
+heen en weer -> ik : 1
+en weer ik -> hem : 1
+weer ik hem -> even : 1
+ik hem even -> uit : 1
+ik hem even -> neemt : 1
+hem even uit -> zijn : 1
+even uit zijn -> hok : 1
+uit zijn hok -> stelde : 1
+zijn hok stelde -> de : 1
+hok stelde de -> groene : 1
+stelde de groene -> opende : 1
+de groene opende -> de : 1
+groene opende de -> schoof : 1
+opende de schoof -> de : 1
+de schoof de -> newfoundlander : 1
+schoof de newfoundlander -> een : 1
+de newfoundlander een -> lijn : 1
+newfoundlander een lijn -> om : 1
+een lijn om -> zijn : 1
+lijn om zijn -> hals : 1
+om zijn hals -> en : 1
+om zijn hals -> had : 1
+zijn hals en -> liet : 1
+hals en liet -> hem : 1
+en liet hem -> de : 1
+liet hem de -> newfoundlander : 1
+hem de newfoundlander -> verloor : 1
+de newfoundlander verloor -> zijn : 1
+newfoundlander verloor zijn -> laatste : 1
+verloor zijn laatste -> restje : 1
+zijn laatste restje -> hij : 1
+laatste restje hij -> kwispelde : 1
+restje hij kwispelde -> zo : 1
+hij kwispelde zo -> hard : 1
+kwispelde zo hard -> met : 1
+zo hard met -> zijn : 1
+hard met zijn -> staart : 1
+met zijn staart -> dat : 1
+zijn staart dat -> zijn : 1
+staart dat zijn -> hele : 1
+dat zijn hele -> lijf : 1
+zijn hele lijf -> en : 1
+hele lijf en -> likte : 1
+lijf en likte -> handen : 1
+en likte handen -> ze : 1
+likte handen ze -> renden : 1
+handen ze renden -> samen : 1
+ze renden samen -> over : 1
+renden samen over -> het : 1
+samen over het -> merkte : 1
+over het merkte -> ik : 1
+het merkte ik -> dat : 1
+merkte ik dat -> de : 1
+ik dat de -> groene : 1
+dat de groene -> baas : 1
+groene baas de -> deur : 1
+baas de deur -> van : 1
+deur van de -> newfoundlander : 1
+de newfoundlander niet -> in : 1
+newfoundlander niet in -> hel : 1
+niet in hel -> slot : 1
+in hel slot -> geduwd : 1
+hel slot geduwd -> ik : 1
+slot geduwd ik -> aarzelde : 1
+geduwd ik aarzelde -> geen : 1
+ik aarzelde geen -> als : 1
+aarzelde geen als -> de : 1
+geen als de -> weerlicht : 1
+als de weerlicht -> wrong : 1
+de weerlicht wrong -> ik : 1
+weerlicht wrong ik -> me : 1
+wrong ik me -> door : 1
+ik me door -> het : 1
+het gat tussen -> de : 1
+tussen de krabde -> de : 1
+de krabde de -> deur : 1
+krabde de deur -> open : 1
+de deur open -> en : 1
+deur open en -> wipte : 1
+open en wipte -> naar : 1
+en wipte naar -> als : 1
+wipte naar als -> een : 1
+naar als een -> windhond : 1
+als een windhond -> rende : 1
+een windhond rende -> ik : 1
+windhond rende ik -> het : 1
+rende ik het -> erf : 1
+ik het erf -> af : 1
+het erf af -> stomme : 1
+erf af stomme -> kom : 1
+af stomme kom -> tierde : 1
+stomme kom tierde -> de : 1
+kom tierde de -> groene : 1
+tierde de groene -> kom : 1
+de groene kom -> stomme : 1
+groene kom stomme -> de : 1
+kom stomme de -> de : 1
+stomme de de -> groene : 1
+de de groene -> baas : 1
+groene baas riep -> nog : 1
+baas riep nog -> maar : 1
+riep nog maar -> dat : 1
+nog maar dat -> kon : 1
+maar dat kon -> ik : 1
+dat kon ik -> al : 1
+kon ik al -> niet : 1
+ik al niet -> meer : 1
+ik al niet -> gezegd : 1
+al niet meer -> het : 1
+niet meer het -> interesseerde : 1
+meer het interesseerde -> me : 1
+het interesseerde me -> ook : 1
+interesseerde me ook -> ik : 1
+me ook ik -> was : 1
+ook ik was -> flappe : 1
+ik was flappe -> wil : 1
+was flappe wil -> je : 1
+flappe wil je -> nu : 1
+wil je nu -> mee : 1
+je nu mee -> of : 1
+nu mee of -> vraagt : 1
+mee of vraagt -> kato : 1
+of vraagt kato -> krijgt : 1
+vraagt kato krijgt -> geen : 1
+kato krijgt geen -> woord : 1
+krijgt geen woord -> over : 1
+geen woord over -> haar : 1
+woord over haar -> je : 1
+over haar je -> zul : 1
+haar je zul -> je : 1
+je zul je -> zien : 1
+zul je zien -> dat : 1
+je zien dat -> het : 1
+zien dat het -> in : 1
+dat het in -> asiel : 1
+het in asiel -> niet : 1
+in asiel niet -> zo : 1
+asiel niet zo -> slecht : 1
+niet zo slecht -> de : 1
+zo slecht de -> hondjes : 1
+slecht de hondjes -> worden : 1
+de hondjes worden -> er : 1
+hondjes worden er -> prima : 1
+worden er prima -> lekker : 1
+er prima lekker -> elke : 1
+prima lekker elke -> dag : 1
+lekker elke dag -> een : 1
+elke dag een -> schoon : 1
+dag een schoon -> twee : 1
+een schoon twee -> keer : 1
+schoon twee keer -> per : 1
+twee keer per -> dag : 1
+keer per dag -> een : 1
+per dag een -> kato : 1
+dag een kato -> blijft : 1
+een kato blijft -> ze : 1
+kato blijft ze -> weet : 1
+blijft ze weet -> best : 1
+ze weet best -> dat : 1
+weet best dat -> mama : 1
+best dat mama -> ook : 1
+dat mama ook -> van : 1
+mama ook van -> flappe : 1
+ook van flappe -> waarom : 1
+van flappe waarom -> kon : 1
+flappe waarom kon -> zij : 1
+waarom kon zij -> papa : 1
+kon zij papa -> niet : 1
+zij papa niet -> tot : 1
+papa niet tot -> andere : 1
+niet tot andere -> gedachten : 1
+andere gedachten ogen -> glijden : 1
+gedachten ogen glijden -> naar : 1
+ogen glijden naar -> hij : 1
+glijden naar hij -> slaapt : 1
+naar hij slaapt -> nietsvermoedend : 1
+hij slaapt nietsvermoedend -> in : 1
+slaapt nietsvermoedend in -> zijn : 1
+nietsvermoedend in zijn -> ze : 1
+in zijn ze -> wil : 1
+zijn ze wil -> hem : 1
+ze wil hem -> nog : 1
+wil hem nog -> de : 1
+hem nog de -> laatste : 1
+nog de laatste -> keer : 1
+de laatste keer -> voor : 1
+laatste keer voor -> ze : 1
+keer voor ze -> hem : 1
+voor ze hem -> ze : 1
+ze hem ze -> knielt : 1
+hem ze knielt -> bij : 1
+ze knielt bij -> de : 1
+knielt bij de -> mand : 1
+bij de mand -> er : 1
+de mand er -> prikken : 1
+mand er prikken -> tranen : 1
+er prikken tranen -> in : 1
+prikken tranen in -> haar : 1
+tranen in haar -> haar : 1
+haar haar hand -> glijdt : 1
+haar hand glijdt -> strelend : 1
+hand glijdt strelend -> over : 1
+glijdt strelend over -> de : 1
+strelend over de -> bruine : 1
+over de bruine -> flappe : 1
+de bruine flappe -> opent : 1
+bruine flappe opent -> zijn : 1
+flappe opent zijn -> ogen : 1
+opent zijn ogen -> en : 1
+ogen en gaan -> we : 1
+en gaan we -> naar : 1
+gaan we naar -> schijnt : 1
+we naar schijnt -> hij : 1
+naar schijnt hij -> te : 1
+schijnt hij te -> kato : 1
+hij te kato -> schudt : 1
+te kato schudt -> haar : 1
+kato schudt haar -> je : 1
+schudt haar je -> moest : 1
+haar je moest -> eens : 1
+je moest eens -> weten : 1
+moest eens weten -> wat : 1
+eens weten wat -> je : 1
+weten wat je -> te : 1
+wat je te -> wachten : 1
+je te wachten -> denkt : 1
+te wachten denkt -> maar : 1
+wachten denkt maar -> niet : 1
+denkt maar niet -> fluistert : 1
+maar niet fluistert -> denken : 1
+niet fluistert denken -> allemaal : 1
+fluistert denken allemaal -> dat : 1
+denken allemaal dat -> je : 1
+allemaal dat je -> de : 1
+dat je de -> kleine : 1
+je de kleine -> robbe : 1
+kleine robbe in -> zijn : 1
+robbe in zijn -> been : 2
+zijn been gebeten -> maar : 1
+been gebeten maar -> daar : 1
+gebeten maar daar -> geloof : 1
+maar daar geloof -> ik : 1
+daar geloof ik -> niks : 1
+geloof ik niks -> zoiets : 1
+ik niks zoiets -> doe : 1
+niks zoiets doe -> jij : 1
+zoiets doe jij -> toch : 1
+doe jij toch -> maar : 1
+jij toch maar -> ik : 1
+toch maar ik -> laat : 1
+maar ik laat -> je : 1
+ik laat je -> niet : 1
+laat je niet -> in : 1
+je niet in -> de : 1
+in de elke -> woensdag : 1
+de elke woensdag -> en : 1
+elke woensdag en -> elke : 1
+woensdag en elke -> zaterdag : 1
+en elke zaterdag -> kom : 1
+elke zaterdag kom -> ik : 1
+zaterdag kom ik -> je : 1
+kom ik je -> en : 1
+ik je en -> op : 1
+je en op -> een : 1
+en op een -> dag : 1
+op een dag -> breng : 1
+een dag breng -> ik : 1
+dag breng ik -> je : 1
+breng ik je -> weer : 1
+ik je weer -> mee : 1
+je weer mee -> naar : 1
+weer mee naar -> ze : 1
+mee naar ze -> staat : 1
+naar ze staat -> loopt : 1
+ze staat loopt -> naar : 1
+staat loopt naar -> haar : 1
+loopt naar haar -> kamer : 1
+naar haar kamer -> en : 1
+haar kamer en -> sluit : 1
+kamer en sluit -> de : 1
+en sluit de -> als : 1
+en sluit de -> je : 1
+sluit de als -> ze : 1
+de als ze -> even : 1
+als ze even -> later : 2
+ze even later -> de : 1
+ze even later -> in : 1
+even later de -> auto : 1
+later de auto -> hoort : 1
+de auto hoort -> haast : 1
+auto hoort haast -> ze : 1
+hoort haast ze -> zich : 1
+haast ze zich -> naar : 1
+ze zich naar -> de : 1
+zich naar de -> flappe : 1
+naar de flappe -> is : 1
+de flappe is -> de : 1
+flappe is de -> mand : 1
+is de mand -> is : 1
+de mand is -> aarzelt : 1
+mand is aarzelt -> geen : 1
+is aarzelt geen -> vijf : 1
+aarzelt geen vijf -> minuten : 1
+geen vijf minuten -> later : 1
+vijf minuten later -> belt : 1
+minuten later belt -> ze : 1
+later belt ze -> aan : 1
+belt ze aan -> bij : 1
+ze aan bij -> wim : 1
+aan bij wim -> en : 1
+bij wim en -> ik : 1
+wim en ik -> ik : 1
+en ik ik -> kom : 1
+ik ik kom -> even : 1
+ik kom even -> kijken : 1
+kom even kijken -> hoe : 1
+even kijken hoe -> het : 1
+kijken hoe het -> met : 1
+hoe het met -> robbe : 1
+het met robbe -> stamelt : 1
+met robbe stamelt -> ze : 1
+robbe stamelt ze -> ze : 1
+stamelt ze ze -> buigt : 1
+ze ze buigt -> haar : 1
+ze buigt haar -> hoofd : 1
+buigt haar hoofd -> en : 1
+haar hoofd en -> bestudeert : 1
+hoofd en bestudeert -> de : 1
+en bestudeert de -> neuzen : 1
+bestudeert de neuzen -> van : 1
+de neuzen van -> haar : 1
+neuzen van haar -> ze : 1
+van haar ze -> verwacht : 1
+haar ze verwacht -> een : 1
+ze verwacht een -> dat : 1
+verwacht een dat -> ze : 1
+een dat ze -> beter : 1
+dat ze beter -> op : 1
+ze beter op -> haar : 1
+beter op haar -> hond : 1
+op haar hond -> moet : 1
+haar hond moet -> dat : 1
+hond moet dat -> het : 1
+moet dat het -> een : 1
+dat het een -> wonder : 1
+dat het een -> prooi : 1
+het een wonder -> is : 1
+een wonder is -> dat : 1
+wonder is dat -> de : 1
+is dat de -> kleine : 1
+dat de kleine -> robbe : 1
+kleine robbe nog -> dat : 1
+robbe nog dat -> hij : 1
+nog dat hij -> een : 1
+dat hij een -> vreselijke : 1
+hij een vreselijke -> wonde : 1
+een vreselijke wonde -> in : 1
+vreselijke wonde in -> zijn : 1
+wonde in zijn -> been : 1
+zijn been maar -> niets : 1
+been maar niets -> en : 1
+maar niets en -> zeg : 1
+niets en zeg -> maar : 1
+en zeg maar -> robbe : 1
+zeg maar robbe -> zit : 1
+maar robbe zit -> in : 1
+robbe zit in -> zijn : 1
+zit in zijn -> spijt : 1
+in zijn spijt -> ik : 1
+zijn spijt ik -> flappe : 1
+spijt ik flappe -> heeft : 1
+ik flappe heeft -> nog : 1
+flappe heeft nog -> nooit : 1
+heeft nog nooit -> iemand : 2
+nog nooit iemand -> gebeten : 1
+nog nooit iemand -> en : 1
+nooit iemand gebeten -> en : 1
+iemand gebeten en -> nu : 1
+gebeten en nu -> is : 1
+nu is robbe -> al : 1
+is robbe al -> erg : 1
+robbe al erg -> was : 1
+al erg was -> het : 1
+erg was het -> papa : 1
+was het papa -> zei : 1
+het papa zei -> dat : 1
+papa zei dat -> ze : 1
+zei dat ze -> hem : 1
+dat ze hem -> naar : 1
+ze hem naar -> het : 1
+hem naar het -> ziekenhuis : 1
+naar het ziekenhuis -> moesten : 1
+naar het ziekenhuis -> moeten : 1
+het ziekenhuis moesten -> even : 1
+ziekenhuis moesten even -> toen : 1
+moesten even toen -> ik : 1
+even toen ik -> hem : 1
+toen ik hem -> raakte : 1
+ik hem raakte -> ik : 1
+hem raakte ik -> in : 1
+raakte ik in -> het : 1
+ik in het -> eerste : 1
+in het eerste -> waar : 1
+het eerste waar -> ik : 1
+eerste waar ik -> aan : 1
+waar ik aan -> was : 1
+ik aan was -> een : 1
+aan was een -> ambulance : 1
+was een ambulance -> lief : 1
+een ambulance lief -> ik : 1
+ambulance lief ik -> wil : 1
+lief ik wil -> niet : 1
+ik wil niet -> dat : 1
+wil niet dat -> iemand : 1
+niet dat iemand -> hem : 1
+dat iemand hem -> kwaad : 1
+iemand hem kwaad -> wil : 1
+hem kwaad wil -> ik : 1
+kwaad wil ik -> ook : 1
+wil ik ook -> en : 1
+ik ook en -> flappe : 1
+ook en flappe -> ook : 1
+en flappe ook -> ik : 1
+flappe ook ik -> begrijp : 1
+ook ik begrijp -> nog : 1
+ik begrijp nog -> steeds : 1
+begrijp nog steeds -> niet : 1
+nog steeds niet -> hoe : 1
+steeds niet hoe -> hij : 1
+niet hoe hij -> zoiets : 1
+hoe hij zoiets -> kon : 1
+hij zoiets kon -> het : 1
+zoiets kon het -> is : 1
+kon het is -> echt : 1
+het is echt -> een : 1
+is echt een -> brave : 1
+echt een brave -> hoe : 1
+een brave hoe -> is : 1
+brave hoe is -> het : 1
+hoe is het -> maar : 1
+is het maar -> kom : 1
+het maar kom -> toch : 1
+maar kom toch -> kristel : 1
+kom toch kristel -> pakt : 1
+toch kristel pakt -> kato : 1
+kristel pakt kato -> bij : 1
+pakt kato bij -> haar : 1
+kato bij haar -> arm : 1
+bij haar arm -> en : 1
+haar arm en -> sluit : 1
+arm en sluit -> de : 1
+sluit de je -> niet : 1
+de je niet -> gezien : 1
+je niet gezien -> hoe : 1
+niet gezien hoe -> het : 1
+gezien hoe het -> gebeurd : 1
+hoe het gebeurd -> vraagt : 1
+het gebeurd vraagt -> kato : 1
+gebeurd vraagt kato -> als : 1
+vraagt kato als -> ze : 1
+kato als ze -> even : 1
+even later in -> de : 1
+later in de -> woonkamer : 1
+in de woonkamer -> ik : 1
+de woonkamer ik -> heb : 1
+woonkamer ik heb -> niks : 1
+ik heb niks -> robbe : 1
+heb niks robbe -> zat : 1
+niks robbe zat -> in : 1
+robbe zat in -> de : 1
+in de voortuin -> te : 1
+de voortuin te -> spelen : 1
+voortuin te spelen -> in : 1
+te spelen in -> het : 1
+spelen in het -> plots : 1
+in het plots -> hoorde : 1
+het plots hoorde -> ik : 1
+plots hoorde ik -> hem : 1
+hoorde ik hem -> ik : 1
+ik hem ik -> rende : 1
+hem ik rende -> naar : 1
+ik rende naar -> buiten : 1
+rende naar buiten -> en : 1
+naar buiten en -> zag : 1
+buiten en zag -> een : 1
+en zag een -> streep : 1
+zag een streep -> bloed : 1
+een streep bloed -> over : 1
+streep bloed over -> zijn : 1
+bloed over zijn -> been : 1
+over zijn been -> flappe : 1
+zijn been flappe -> toen : 1
+been flappe toen -> al : 1
+flappe toen al -> heb : 1
+toen al heb -> geen : 1
+al heb geen -> hond : 1
+heb geen hond -> de : 1
+geen hond de -> postbode : 1
+hond de postbode -> had : 1
+de postbode had -> hem : 1
+postbode had hem -> al : 1
+had hem al -> hij : 1
+hem al hij -> zei : 1
+al hij zei -> dat : 1
+hij zei dat -> het : 1
+zei dat het -> flappe : 1
+dat het flappe -> heeft : 1
+het flappe heeft -> hij : 1
+flappe heeft hij -> zich : 1
+heeft hij zich -> denk : 1
+hij zich denk -> ik : 1
+zich denk ik -> marcel : 1
+denk ik marcel -> kent : 1
+ik marcel kent -> alle : 1
+marcel kent alle -> honden : 1
+kent alle honden -> van : 1
+alle honden van -> het : 1
+honden van het -> eens : 1
+van het eens -> wie : 1
+het eens wie -> hier : 1
+eens wie hier -> ken : 1
+wie hier ken -> je : 1
+hier ken je -> kato : 1
+ken je kato -> jongetje : 1
+je kato jongetje -> schenkt : 1
+kato jongetje schenkt -> kato : 1
+jongetje schenkt kato -> een : 1
+schenkt kato een -> stralende : 1
+kato een stralende -> wat : 1
+een stralende wat -> denkt : 1
+stralende wat denkt -> ik : 1
+wat denkt ik -> hem : 1
+denkt ik hem -> even : 1
+hem even neemt -> robbe : 1
+even neemt robbe -> in : 1
+neemt robbe in -> haar : 1
+robbe in haar -> ze : 1
+haar ze zou -> best : 1
+ze zou best -> nog : 1
+zou best nog -> wat : 1
+best nog wat -> willen : 1
+nog wat willen -> maar : 1
+wat willen maar -> ze : 1
+willen maar ze -> wil : 1
+maar ze wil -> thuis : 1
+ze wil thuis -> zijn : 1
+wil thuis zijn -> voor : 1
+thuis zijn voor -> haar : 1
+zijn voor haar -> ouders : 1
+voor haar ouders -> ben : 1
+haar ouders ben -> blij : 1
+ouders ben blij -> dat : 1
+ben blij dat -> het : 1
+blij dat het -> niet : 1
+dat het niet -> zo : 1
+het niet zo -> erg : 1
+niet zo erg -> lacht : 1
+zo erg lacht -> been : 1
+erg lacht been -> is : 1
+lacht been is -> al : 1
+been is al -> bijna : 1
+is al bijna -> als : 1
+al bijna als -> je : 1
+bijna als je -> mama : 1
+als je mama -> het : 1
+je mama het -> wil : 1
+mama het wil -> ik : 1
+het wil ik -> wel : 1
+wil ik wel -> eens : 1
+ik wel eens -> komen : 1
+wel eens komen -> dat : 1
+eens komen dat -> is : 1
+komen dat is -> een : 1
+is een goed -> lacht : 1
+een goed lacht -> je : 1
+goed lacht je -> me : 1
+lacht je me -> nodig : 1
+je me nodig -> zegje : 1
+me nodig zegje -> het : 1
+nodig zegje het -> ik : 1
+zegje het ik -> wil : 1
+het ik wil -> het : 1
+ik wil het -> echt : 1
+wil het echt -> de : 1
+het echt de -> grote : 1
+echt de grote -> baas : 1
+de grote baas -> en : 1
+de grote baas -> naar : 1
+de grote baas -> me : 1
+grote baas en -> zijn : 1
+baas en zijn -> vrouw : 1
+en zijn vrouw -> me : 1
+zijn vrouw me -> wegbrachten : 1
+vrouw me wegbrachten -> en : 1
+me wegbrachten en -> in : 1
+wegbrachten en in -> een : 1
+en in een -> vreemd : 1
+in een vreemd -> hok : 1
+een vreemd hok -> begreep : 1
+vreemd hok begreep -> ik : 1
+hok begreep ik -> niet : 1
+begreep ik niet -> wat : 1
+ik niet wat -> er : 1
+niet wat er -> in : 1
+wat er in -> een : 1
+er in een -> hoek : 1
+in een hoek -> stonden : 1
+een hoek stonden -> twee : 1
+hoek stonden twee -> kommen : 1
+stonden twee kommen -> met : 1
+twee kommen met -> hondenbrokken : 1
+kommen met hondenbrokken -> en : 1
+met hondenbrokken en -> een : 1
+hondenbrokken en een -> kom : 1
+en een kom -> maar : 1
+een kom maar -> de : 1
+kom maar de -> grote : 1
+maar de grote -> had : 1
+de grote had -> helemaal : 1
+grote had helemaal -> geen : 1
+had helemaal geen -> trek : 1
+helemaal geen trek -> en : 1
+geen trek en -> trok : 1
+trek en trok -> mijn : 1
+en trok mijn -> lip : 1
+trok mijn lip -> vertrokken : 1
+mijn lip vertrokken -> probeerde : 1
+lip vertrokken probeerde -> wat : 1
+vertrokken probeerde wat -> te : 1
+probeerde wat te -> maar : 1
+wat te maar -> dat : 1
+te maar dat -> lukte : 2
+maar dat lukte -> in : 1
+maar dat lukte -> me : 1
+dat lukte in -> het : 1
+lukte in het -> hok : 1
+het hok naast -> me : 1
+hok naast me -> zat : 1
+naast me zat -> een : 1
+me zat een -> een : 1
+zat een een -> lieve : 1
+een een lieve -> is : 1
+een lieve is -> een : 1
+lieve is een -> honden : 1
+is een honden -> zonder : 1
+een honden zonder -> baas : 1
+honden zonder baas -> komen : 1
+zonder baas komen -> hier : 1
+baas komen hier -> heb : 1
+komen hier heb -> antwoordde : 1
+hier heb antwoordde -> ik : 1
+heb antwoordde ik -> grote : 1
+antwoordde ik grote -> en : 1
+ik grote en -> een : 1
+grote en een -> hebben : 1
+en een hebben -> ze : 1
+een hebben ze -> je : 1
+hebben ze je -> dan : 1
+ze je dan -> weet : 1
+je dan weet -> ik : 1
+dan weet ik -> een : 1
+weet ik een -> denk : 1
+ik een denk -> zeggen : 1
+een denk zeggen -> ze : 1
+denk zeggen ze -> zie : 1
+zeggen ze zie -> je : 1
+ze zie je -> die : 1
+zie je die -> grote : 1
+je die grote -> vent : 1
+die grote vent -> in : 1
+grote vent in -> zijn : 1
+vent in zijn -> groene : 1
+in zijn groene -> hij : 1
+zijn groene hij -> is : 1
+groene hij is -> hier : 1
+hij is hier -> de : 1
+is hier de -> zijn : 1
+hier de zijn -> vrouw : 1
+de zijn vrouw -> noem : 1
+zijn vrouw noem -> ik : 1
+vrouw noem ik -> de : 1
+noem ik de -> ze : 1
+ik de ze -> zegt : 1
+de ze zegt -> altijd : 1
+ze zegt altijd -> na : 1
+zegt altijd na -> wat : 1
+altijd na wat -> hij : 1
+na wat hij -> ik : 1
+wat hij ik -> liet : 1
+hij ik liet -> mijn : 1
+ik liet mijn -> grote : 1
+liet mijn grote -> lotgenoot : 1
+mijn grote lotgenoot -> maar : 1
+grote lotgenoot maar -> ik : 1
+lotgenoot maar ik -> wist : 1
+maar ik wist -> wel : 1
+ik wist wel -> mijn : 1
+wist wel mijn -> vrouwtje : 1
+wel mijn vrouwtje -> zou : 1
+mijn vrouwtje zou -> me : 1
+vrouwtje zou me -> wel : 1
+zou me wel -> komen : 1
+me wel komen -> ik : 1
+wel komen ik -> was : 1
+komen ik was -> daar : 1
+ik was daar -> maar : 1
+was daar maar -> voor : 1
+daar maar voor -> een : 1
+maar voor een -> daar : 1
+voor een daar -> maar : 1
+een daar maar -> niet : 1
+daar maar niet -> je : 1
+maar niet je -> moet : 1
+niet je moet -> ervoor : 1
+je moet ervoor -> zorgen : 1
+moet ervoor zorgen -> dat : 1
+ervoor zorgen dat -> je : 1
+zorgen dat je -> snel : 1
+dat je snel -> een : 1
+je snel een -> nieuwe : 1
+snel een nieuwe -> baas : 1
+nieuwe baas want -> zeg : 1
+baas want zeg -> nu : 1
+want zeg nu -> wat : 1
+zeg nu wat -> is : 1
+nu wat is -> een : 1
+wat is een -> hond : 1
+is een hond -> zonder : 1
+een hond zonder -> je : 1
+hond zonder je -> voelt : 1
+zonder je voelt -> je : 1
+je voelt je -> zo : 1
+voelt je zo -> als : 1
+je zo als -> je : 1
+zo als je -> als : 1
+als je als -> hond : 1
+je als hond -> geen : 1
+als hond geen -> eigen : 1
+hond geen eigen -> baas : 1
+geen eigen baas -> ben : 1
+eigen baas ben -> je : 1
+baas ben je -> beter : 1
+ben je beter -> vanuit : 1
+je beter vanuit -> mijn : 1
+beter vanuit mijn -> hok : 1
+vanuit mijn hok -> kon : 1
+mijn hok kon -> ik : 1
+hok kon ik -> het : 1
+kon ik het -> kantoortje : 1
+kon ik het -> helpen : 1
+ik het kantoortje -> zien : 1
+het kantoortje zien -> waar : 1
+kantoortje zien waar -> de : 1
+zien waar de -> groene : 1
+waar de groene -> baas : 1
+groene baas en -> de : 1
+baas en de -> papegaai : 1
+en de papegaai -> de : 1
+de papegaai de -> boel : 1
+papegaai de boel -> de : 1
+de boel de -> papegaai : 1
+boel de papegaai -> liep : 1
+de papegaai liep -> voortdurend : 1
+papegaai liep voortdurend -> over : 1
+liep voortdurend over -> het : 1
+voortdurend over het -> erf : 1
+het erf met -> een : 1
+erf met een -> ik : 1
+met een ik -> voelde : 1
+een ik voelde -> het : 1
+ik voelde het -> kriebelen : 1
+voelde het kriebelen -> in : 1
+het kriebelen in -> mijn : 1
+kriebelen in mijn -> dat : 1
+in mijn dat -> heb : 1
+mijn dat heb -> ik : 1
+heb ik altijd -> als : 1
+ik altijd als -> ik : 1
+altijd als ik -> een : 1
+als ik een -> kat : 1
+ik een kat -> in : 1
+een kat in -> het : 1
+kat in het -> oog : 1
+het oog ik -> wil : 1
+oog ik wil -> die : 1
+ik wil die -> dan : 1
+wil die dan -> meteen : 1
+die dan meteen -> maar : 1
+dan meteen maar -> met : 1
+meteen maar met -> tralies : 1
+maar met tralies -> voor : 1
+met tralies voor -> mijn : 1
+tralies voor mijn -> neus : 1
+voor mijn neus -> kon : 1
+mijn neus kon -> dat : 1
+neus kon dat -> natuurlijk : 1
+kon dat natuurlijk -> daarom : 1
+dat natuurlijk daarom -> zette : 1
+natuurlijk daarom zette -> ik : 1
+daarom zette ik -> een : 1
+zette ik een -> grote : 1
+ik een grote -> muil : 1
+een grote muil -> de : 1
+grote muil de -> papegaai : 1
+muil de papegaai -> merkte : 1
+de papegaai merkte -> dat : 1
+papegaai merkte dat -> ik : 1
+merkte dat ik -> nerveus : 1
+dat ik nerveus -> was : 1
+ik nerveus was -> en : 1
+nerveus was en -> ze : 1
+was en ze -> kwam : 1
+en ze kwam -> op : 1
+ze kwam op -> een : 1
+kwam op een -> drafje : 1
+op een drafje -> naar : 1
+een drafje naar -> mijn : 1
+drafje naar mijn -> hok : 1
+naar mijn hok -> riep : 1
+mijn hok riep -> ze : 1
+hok riep ze -> kunnen : 1
+riep ze kunnen -> we : 1
+ze kunnen we -> hier : 1
+kunnen we hier -> missen : 1
+we hier missen -> als : 1
+hier missen als -> de : 1
+missen als de -> blafte : 1
+als de blafte -> haar : 1
+de blafte haar -> woorden : 1
+blafte haar woorden -> ze : 1
+haar woorden ze -> droop : 1
+woorden ze droop -> af : 1
+ze droop af -> en : 1
+droop af en -> ik : 1
+af en ik -> voelde : 1
+af en ik -> hoorde : 1
+en ik voelde -> me : 1
+ik voelde me -> merkwaardig : 1
+voelde me merkwaardig -> zou : 1
+me merkwaardig zou -> maar : 1
+merkwaardig zou maar -> op : 1
+zou maar op -> mijn : 1
+maar op mijn -> tellen : 1
+op mijn tellen -> passen : 1
+mijn tellen passen -> als : 1
+tellen passen als -> ik : 1
+passen als ik -> jou : 1
+als ik jou -> siste : 1
+ik jou siste -> de : 1
+jou siste de -> je : 1
+siste de je -> te : 1
+de je te -> veel : 1
+je te veel -> drukte : 1
+te veel drukte -> of : 1
+veel drukte of -> als : 1
+drukte of als -> het : 1
+of als het -> te : 1
+als het te -> lang : 1
+het te lang -> duurt : 1
+te lang duurt -> voor : 1
+lang duurt voor -> er : 1
+duurt voor er -> een : 1
+voor er een -> nieuwe : 1
+er een nieuwe -> baas : 1
+nieuwe baas voor -> je : 1
+baas voor je -> sturen : 1
+voor je sturen -> ze : 1
+je sturen ze -> je : 1
+sturen ze je -> zo : 1
+ze je zo -> naar : 1
+je zo naar -> het : 1
+zo naar het -> lab : 1
+naar het lab -> je : 1
+het lab je -> dat : 1
+lab je dat -> voor : 1
+dat voor de -> dokters : 1
+voor de dokters -> nieuwe : 1
+de dokters nieuwe -> geneesmiddelen : 1
+dokters nieuwe geneesmiddelen -> aan : 1
+nieuwe geneesmiddelen aan -> mensen : 1
+geneesmiddelen aan mensen -> proberen : 1
+aan mensen proberen -> ze : 1
+mensen proberen ze -> die : 1
+proberen ze die -> uit : 1
+ze die uit -> op : 1
+die uit op -> ook : 1
+uit op ook -> op : 1
+op ook op -> elke : 1
+ook op elke -> week : 1
+op elke week -> worden : 1
+elke week worden -> hier : 1
+week worden hier -> een : 1
+worden hier een -> aantal : 1
+hier een aantal -> van : 1
+een aantal van -> onze : 1
+aantal van onze -> vrienden : 1
+van onze vrienden -> opgehaald : 1
+onze vrienden opgehaald -> en : 1
+vrienden opgehaald en -> we : 1
+opgehaald en we -> zien : 1
+en we zien -> ze : 1
+we zien ze -> nooit : 1
+zien ze nooit -> je : 1
+ze nooit je -> kunt : 1
+nooit je kunt -> dus : 1
+je kunt dus -> maar : 1
+kunt dus maar -> beter : 1
+dus maar beter -> je : 1
+maar beter je -> manieren : 1
+beter je manieren -> rest : 1
+je manieren rest -> van : 1
+manieren rest van -> de : 1
+rest van de -> dag : 1
+van de dag -> dansten : 1
+de dag dansten -> er : 1
+dag dansten er -> pillen : 1
+dansten er pillen -> en : 1
+er pillen en -> injectiespuiten : 1
+pillen en injectiespuiten -> voor : 1
+en injectiespuiten voor -> mijn : 1
+injectiespuiten voor mijn -> ik : 1
+voor mijn ik -> hield : 1
+mijn ik hield -> me : 1
+ik hield me -> maar : 1
+hield me maar -> mijn : 1
+me maar mijn -> besluit : 1
+maar mijn besluit -> stond : 1
+mijn besluit stond -> ik : 1
+besluit stond ik -> moest : 1
+stond ik moest -> daar : 1
+ik moest daar -> zo : 1
+moest daar zo -> vlug : 1
+daar zo vlug -> geen : 1
+zo vlug geen -> hond : 1
+vlug geen hond -> om : 1
+geen hond om -> in : 2
+hond om in -> een : 2
+om in een -> hok : 2
+in een hok -> te : 2
+een hok te -> ligt : 1
+een hok te -> hij : 1
+hok te ligt -> in : 1
+te ligt in -> bed : 1
+ligt in bed -> met : 1
+in bed met -> haar : 1
+bed met haar -> ogen : 1
+met haar ogen -> wijd : 1
+haar ogen wijd -> ze : 1
+ogen wijd ze -> kan : 1
+wijd ze kan -> niet : 1
+ze kan niet -> dat : 1
+kan niet dat -> wil : 1
+niet dat wil -> ze : 1
+dat wil ze -> ook : 1
+wil ze ook -> ze : 1
+ze ook ze -> wacht : 1
+ook ze wacht -> op : 1
+ze wacht op -> ogen : 1
+wacht op ogen -> worden : 1
+op ogen worden -> dik : 1
+ogen worden dik -> en : 1
+worden dik en -> als : 1
+dik en als -> ze : 1
+en als ze -> aan : 1
+als ze aan -> flappe : 1
+ze aan flappe -> kruipt : 1
+aan flappe kruipt -> er : 1
+flappe kruipt er -> kiezel : 1
+kruipt er kiezel -> als : 1
+er kiezel als -> hij : 1
+kiezel als hij -> naar : 1
+als hij naar -> een : 1
+hij naar een -> asiel : 1
+naar een asiel -> besterft : 1
+een asiel besterft -> hij : 1
+asiel besterft hij -> flappe : 1
+besterft hij flappe -> is : 1
+hij flappe is -> geen : 1
+is geen hond -> om : 1
+hok te hij -> moet : 1
+te hij moet -> kunnen : 1
+hij moet kunnen -> vrij : 1
+moet kunnen vrij -> als : 1
+kunnen vrij als -> ze : 1
+vrij als ze -> hem : 1
+ze hem zal -> hij : 1
+hem zal hij -> wegkwijnen : 1
+zal hij wegkwijnen -> als : 1
+hij wegkwijnen als -> een : 1
+wegkwijnen als een -> bloem : 1
+als een bloem -> die : 1
+een bloem die -> geen : 1
+bloem die geen -> licht : 1
+die geen licht -> meer : 1
+geen licht meer -> waar : 1
+licht meer waar -> blijft : 1
+meer waar blijft -> misschien : 1
+waar blijft misschien -> kan : 1
+blijft misschien kan -> zij : 1
+misschien kan zij -> papa : 1
+kan zij papa -> ze : 1
+zij papa ze -> heeft : 1
+papa ze heeft -> hem : 1
+ze heeft hem -> ook : 1
+heeft hem ook -> over : 1
+hem ook over -> de : 1
+ook over de -> brug : 1
+over de brug -> gehaald : 1
+de brug gehaald -> toen : 1
+brug gehaald toen -> ze : 1
+gehaald toen ze -> flappe : 1
+toen ze flappe -> gingen : 1
+ze flappe gingen -> kato : 1
+flappe gingen kato -> denkt : 1
+gingen kato denkt -> aan : 1
+kato denkt aan -> haar : 1
+denkt aan haar -> zij : 1
+aan haar zij -> krijgt : 1
+haar zij krijgt -> haast : 1
+zij krijgt haast -> altijd : 1
+krijgt haast altijd -> haar : 1
+haast altijd haar -> als : 1
+altijd haar als -> haar : 1
+haar als haar -> moeder : 1
+als haar moeder -> haar : 1
+haar moeder haar -> iets : 1
+moeder haar iets -> zanikt : 1
+haar iets zanikt -> ze : 1
+iets zanikt ze -> haar : 1
+zanikt ze haar -> vader : 1
+ze haar vader -> de : 1
+haar vader de -> oren : 1
+vader de oren -> van : 1
+de oren van -> zijn : 1
+oren van zijn -> en : 1
+van zijn en -> voor : 1
+zijn en voor -> het : 1
+en voor het -> eerst : 1
+het eerst is -> kato : 1
+eerst is kato -> een : 1
+is kato een -> beetje : 1
+kato een beetje -> jaloers : 1
+een beetje jaloers -> op : 1
+beetje jaloers op -> is : 1
+jaloers op is -> bijna : 1
+op is bijna -> een : 1
+is bijna een -> jaar : 1
+bijna een jaar -> kato : 1
+een jaar kato -> mocht : 1
+jaar kato mocht -> een : 1
+kato mocht een -> cadeautje : 1
+mocht een cadeautje -> kiezen : 1
+een cadeautje kiezen -> omdat : 1
+cadeautje kiezen omdat -> ze : 1
+kiezen omdat ze -> goede : 1
+omdat ze goede -> cijfers : 1
+ze goede cijfers -> haalde : 1
+goede cijfers haalde -> bij : 1
+cijfers haalde bij -> juf : 1
+haalde bij juf -> wil : 1
+bij juf wil -> een : 1
+juf wil een -> zei : 1
+wil een zei -> pruttelde : 1
+een zei pruttelde -> wat : 1
+zei pruttelde wat -> maar : 1
+pruttelde wat maar -> dat : 1
+wat maar dat -> was : 1
+maar dat was -> maar : 1
+dat was maar -> een : 1
+was maar een -> je : 1
+maar een je -> maar : 1
+een je maar -> geen : 1
+je maar geen -> pitbull : 1
+maar geen pitbull -> lachte : 1
+geen pitbull lachte -> op : 1
+pitbull lachte op -> een : 1
+lachte op een -> zonnige : 1
+op een zonnige -> dag : 1
+een zonnige dag -> reden : 1
+zonnige dag reden -> ze : 1
+dag reden ze -> vroeg : 1
+reden ze vroeg -> in : 1
+ze vroeg in -> de : 1
+vroeg in de -> ochtend : 1
+in de ochtend -> naar : 1
+de ochtend naar -> de : 1
+ochtend naar de -> vogelmarkt : 1
+naar de vogelmarkt -> in : 1
+de vogelmarkt in -> nu : 1
+vogelmarkt in nu -> mogen : 1
+in nu mogen -> daar : 1
+nu mogen daar -> geen : 1
+mogen daar geen -> honden : 1
+daar geen honden -> meer : 1
+geen honden meer -> verkocht : 1
+honden meer verkocht -> maar : 1
+meer verkocht maar -> toen : 1
+verkocht maar toen -> was : 1
+maar toen was -> dat : 1
+toen was dat -> nog : 1
+was dat nog -> geen : 1
+dat nog geen -> en : 1
+nog geen en -> nu : 1
+geen en nu -> moest : 1
+en nu moest -> kato : 1
+nu moest kato -> er : 1
+moest kato er -> zaten : 1
+kato er zaten -> wel : 1
+er zaten wel -> vijfhonderd : 1
+zaten wel vijfhonderd -> alle : 1
+wel vijfhonderd alle -> merken : 1
+vijfhonderd alle merken -> in : 1
+alle merken in -> alle : 1
+merken in alle -> twee : 1
+in alle twee -> uur : 1
+alle twee uur -> later : 1
+twee uur later -> was : 1
+uur later was -> kato : 1
+later was kato -> nog : 1
+was kato nog -> steeds : 1
+kato nog steeds -> aan : 1
+nog steeds aan -> het : 1
+steeds aan het -> zat : 1
+aan het zat -> op : 1
+het zat op -> de : 1
+zat op de -> arm : 1
+op de arm -> van : 1
+op de arm -> moeten : 1
+de arm van -> een : 1
+arm van een -> oude : 1
+van een oude -> zijn : 1
+een oude zijn -> kop : 1
+oude zijn kop -> halfverborgen : 1
+zijn kop halfverborgen -> onder : 1
+kop halfverborgen onder -> de : 1
+halfverborgen onder de -> kraag : 1
+onder de kraag -> van : 1
+de kraag van -> een : 1
+kraag van een -> vernielen : 1
+van een vernielen -> zijn : 1
+een vernielen zijn -> oren : 1
+vernielen zijn oren -> hingen : 1
+zijn oren hingen -> als : 1
+oren hingen als -> twee : 1
+hingen als twee -> losse : 1
+als twee losse -> flappen : 1
+twee losse flappen -> naast : 1
+losse flappen naast -> zijn : 1
+naast zijn kop -> en : 1
+zijn kop en -> hij : 1
+kop en hij -> keek : 1
+en hij keek -> met : 1
+hij keek met -> trieste : 1
+keek met trieste -> ogen : 1
+met trieste ogen -> naar : 1
+trieste ogen naar -> ben : 1
+ogen naar ben -> erg : 1
+naar ben erg -> zeiden : 1
+ben erg zeiden -> die : 1
+erg zeiden die -> ogen : 1
+zeiden die ogen -> en : 1
+die ogen en -> kato : 1
+ogen en kato -> was : 1
+en kato was -> meteen : 1
+kato was meteen -> wil : 1
+was meteen wil -> ik : 1
+meteen wil ik -> wees : 1
+wil ik wees -> die : 1
+ik wees die -> er : 1
+wees die er -> al : 1
+die er al -> een : 1
+er al een -> tijdje : 1
+al een tijdje -> tegen : 1
+een tijdje tegen -> zijn : 1
+tijdje tegen zijn -> zin : 1
+tegen zijn zin -> bij : 1
+zijn zin bij -> ging : 1
+zin bij ging -> onmiddellijk : 1
+bij ging onmiddellijk -> vroeg : 1
+ging onmiddellijk vroeg -> hij : 1
+onmiddellijk vroeg hij -> oude : 1
+vroeg hij oude -> man : 1
+hij oude man -> antwoordde : 1
+oude man antwoordde -> hij : 1
+man antwoordde hij -> gaf : 1
+antwoordde hij gaf -> het : 1
+hij gaf het -> hondje : 1
+gaf het hondje -> aan : 1
+het hondje aan -> kato : 1
+hondje aan kato -> en : 1
+aan kato en -> het : 1
+kato en het -> begon : 1
+en het begon -> haar : 1
+het begon haar -> handen : 1
+begon haar handen -> te : 1
+haar handen te -> likken : 1
+handen te likken -> alsof : 1
+te likken alsof -> het : 1
+likken alsof het -> haar : 1
+alsof het haar -> al : 1
+het haar al -> jaren : 1
+haar al jaren -> dat : 1
+al jaren dat -> lachte : 1
+jaren dat lachte -> grijnsde : 1
+dat lachte grijnsde -> de : 1
+lachte grijnsde de -> een : 1
+grijnsde de een -> goede : 1
+de een goede -> zijn : 1
+een goede zijn -> moeder : 1
+goede zijn moeder -> is : 1
+zijn moeder is -> de : 1
+moeder is de -> beste : 1
+is de beste -> waakhond : 1
+de beste waakhond -> die : 1
+beste waakhond die -> ik : 1
+waakhond die ik -> moet : 1
+die ik moet -> hij : 1
+ik moet hij -> vroeg : 1
+moet hij vroeg -> papa : 1
+hij vroeg papa -> de : 1
+vroeg papa de -> oude : 1
+papa de oude -> man : 1
+de oude man -> bleef : 1
+oude man bleef -> treuzelen : 1
+man bleef treuzelen -> als : 1
+bleef treuzelen als -> een : 1
+treuzelen als een -> echte : 1
+als een echte -> vraag : 1
+een echte vraag -> ik : 1
+echte vraag ik -> duizend : 1
+vraag ik duizend -> zei : 1
+ik duizend zei -> hij : 1
+duizend zei hij -> ten : 1
+zei hij ten -> slotte : 1
+hij ten slotte -> is : 1
+ten slotte is -> het : 1
+slotte is het -> misschien : 1
+is het misschien -> een : 1
+het misschien een -> dan : 1
+misschien een dan -> moest : 1
+een dan moest -> ik : 1
+dan moest ik -> er : 1
+moest ik er -> twintigduizend : 1
+ik er twintigduizend -> geen : 1
+er twintigduizend geen -> een : 1
+twintigduizend geen een -> sterke : 1
+geen een sterke -> rashonden : 1
+een sterke rashonden -> zijn : 1
+sterke rashonden zijn -> meer : 1
+rashonden zijn meer -> ziek : 1
+zijn meer ziek -> dan : 1
+meer ziek dan -> alleen : 1
+ziek dan alleen -> de : 1
+dan alleen de -> dierenartsen : 1
+alleen de dierenartsen -> worden : 1
+de dierenartsen worden -> daarvan : 1
+dierenartsen worden daarvan -> als : 1
+worden daarvan als -> ik : 1
+daarvan als ik -> je : 1
+als ik je -> een : 1
+ik je een -> goede : 1
+je een goede -> raad : 1
+een goede raad -> mag : 1
+goede raad mag -> koop : 1
+raad mag koop -> nooit : 1
+mag koop nooit -> een : 1
+koop nooit een -> frank : 1
+nooit een frank -> is : 1
+een frank is -> te : 1
+frank is te -> daarvan : 1
+is te daarvan -> kan : 1
+te daarvan kan -> ik : 1
+daarvan kan ik -> niet : 1
+kan ik niet -> eens : 1
+ik niet eens -> de : 1
+niet eens de -> benzine : 1
+eens de benzine -> kopen : 1
+de benzine kopen -> om : 1
+benzine kopen om -> hierheen : 1
+kopen om hierheen -> te : 1
+om hierheen te -> probeerde : 1
+hierheen te probeerde -> er : 1
+te probeerde er -> achthonderd : 1
+probeerde er achthonderd -> van : 1
+er achthonderd van -> keek : 1
+achthonderd van keek -> naar : 1
+van keek naar -> mama : 1
+keek naar mama -> en : 1
+naar mama en -> mama : 1
+mama en mama -> keek : 1
+mama en mama -> knikte : 1
+en mama keek -> naar : 1
+mama keek naar -> ze : 1
+keek naar ze -> mama : 1
+naar ze mama -> en : 1
+ze mama en -> mama : 1
+en mama knikte -> naar : 1
+mama knikte naar -> het : 1
+knikte naar het -> leek : 1
+naar het leek -> wel : 1
+het leek wel -> uit : 1
+het leek wel -> een : 1
+leek wel uit -> een : 1
+wel uit een -> stomme : 1
+uit een stomme -> zei : 1
+een stomme zei -> hij : 1
+stomme zei hij -> geen : 1
+zei hij geen -> ik : 1
+hij geen ik -> durf : 1
+geen ik durf -> te : 1
+te wedden datje -> er : 1
+wedden datje er -> in : 1
+datje er in -> tien : 1
+er in tien -> jaar : 1
+in tien jaar -> geen : 1
+tien jaar geen -> vijf : 1
+jaar geen vijf -> keer : 1
+geen vijf keer -> bij : 1
+vijf keer bij -> moet : 1
+keer bij moet -> hoop : 1
+bij moet hoop -> datje : 1
+moet hoop datje -> gelijk : 1
+hoop datje gelijk -> lachte : 1
+datje gelijk lachte -> man : 1
+gelijk lachte man -> gaf : 1
+lachte man gaf -> zijn : 1
+man gaf zijn -> hondje : 1
+gaf zijn hondje -> nog : 1
+zijn hondje nog -> een : 1
+hondje nog een -> laatste : 1
+nog een laatste -> denk : 1
+een laatste denk -> dat : 1
+laatste denk dat -> ze : 1
+denk dat ze -> wel : 1
+dat ze wel -> goed : 1
+ze wel goed -> voor : 1
+wel goed voor -> je : 1
+goed voor je -> zal : 1
+voor je zal -> glimlachte : 1
+je zal glimlachte -> betaalde : 1
+zal glimlachte betaalde -> en : 1
+glimlachte betaalde en -> kato : 1
+betaalde en kato -> drukte : 1
+en kato drukte -> het : 1
+kato drukte het -> hondje : 1
+drukte het hondje -> tegen : 1
+het hondje tegen -> zich : 1
+hondje tegen zich -> noem : 1
+tegen zich noem -> hem : 1
+zich noem hem -> zei : 1
+noem hem zei -> je : 1
+hem zei je -> zijn : 1
+zei je zijn -> oren : 1
+je zijn oren -> al : 1
+zijn oren al -> papa : 1
+oren al papa -> en : 1
+al papa en -> mama : 1
+en mama het -> licht : 1
+mama het licht -> door : 1
+van de staldeur -> naar : 1
+de staldeur naar -> binnen : 1
+staldeur naar binnen -> was : 1
+naar binnen was -> boer : 1
+binnen was boer -> baas : 1
+was boer baas -> er : 1
+boer baas er -> zijn : 1
+baas er zijn -> klompen : 1
+er zijn klompen -> klepten : 1
+zijn klompen klepten -> op : 1
+klompen klepten op -> de : 1
+klepten op de -> plaveien : 1
+op de plaveien -> en : 1
+de plaveien en -> een : 1
+plaveien en een -> paar : 1
+en een paar -> tellen : 1
+een paar tellen -> later : 1
+paar tellen later -> stond : 1
+tellen later stond -> hij : 1
+later stond hij -> voor : 1
+stond hij voor -> ons : 1
+hij voor ons -> we : 1
+voor ons we -> gaan : 1
+ons we gaan -> een : 1
+we gaan een -> nieuw : 1
+gaan een nieuw -> baasje : 1
+een nieuw baasje -> voor : 1
+nieuw baasje voor -> jullie : 1
+baasje voor jullie -> hij : 1
+voor jullie hij -> stopte : 1
+jullie hij stopte -> mijn : 1
+hij stopte mijn -> mijn : 1
+stopte mijn mijn -> zus : 1
+mijn mijn zus -> en : 1
+mijn zus en -> mij : 1
+zus en mij -> in : 1
+en mij in -> een : 1
+mij in een -> grote : 1
+in een grote -> waarin : 1
+een grote waarin -> hij : 1
+grote waarin hij -> een : 1
+waarin hij een -> handvol : 1
+hij een handvol -> hooi : 1
+een handvol hooi -> gestrooid : 1
+handvol hooi gestrooid -> het : 1
+hooi gestrooid het -> was : 1
+gestrooid het was -> er : 1
+het was er -> maar : 1
+was er maar -> heel : 1
+er maar heel -> we : 1
+maar heel we -> kropen : 1
+heel we kropen -> jankend : 1
+we kropen jankend -> bijeen : 1
+kropen jankend bijeen -> en : 1
+jankend bijeen en -> hielden : 1
+bijeen en hielden -> ons : 1
+en hielden ons -> zo : 1
+hielden ons zo -> stil : 1
+ons zo stil -> mama : 1
+zo stil mama -> was : 1
+stil mama was -> nergens : 1
+mama was nergens -> te : 1
+was nergens te -> waar : 1
+nergens te waar -> bleef : 1
+te waar bleef -> ze : 1
+waar bleef ze -> als : 1
+bleef ze als -> iemand : 1
+ze als iemand -> een : 1
+als iemand een -> vinger : 1
+iemand een vinger -> naar : 1
+een vinger naar -> ons : 1
+vinger naar ons -> durfde : 1
+naar ons durfde -> uit : 1
+ons durfde uit -> te : 1
+durfde uit te -> blafte : 1
+uit te blafte -> ze : 1
+te blafte ze -> altijd : 1
+blafte ze altijd -> de : 1
+ze altijd de -> hele : 1
+altijd de hele -> buurt : 1
+de hele buurt -> ik : 1
+hele buurt ik -> vond : 1
+buurt ik vond -> het : 1
+ik vond het -> prettig : 1
+vond het prettig -> haar : 1
+het prettig haar -> te : 1
+prettig haar te -> maar : 1
+haar te maar -> dat : 1
+dat lukte me -> nog : 1
+lukte me nog -> niet : 1
+me nog niet -> poes : 1
+nog niet poes -> molly : 1
+niet poes molly -> lachte : 1
+poes molly lachte -> me : 1
+molly lachte me -> uit : 1
+lachte me uit -> en : 1
+me uit en -> dan : 1
+uit en dan -> maakte : 1
+en dan maakte -> ik : 1
+dan maakte ik -> me : 1
+maakte ik me -> kon : 1
+ik me kon -> ik : 1
+me kon ik -> het : 1
+ik het helpen -> dat : 1
+het helpen dat -> de : 1
+helpen dat de -> blaf : 1
+dat de blaf -> in : 1
+de blaf in -> mijn : 1
+blaf in mijn -> keel : 1
+in mijn keel -> piepte : 1
+mijn keel piepte -> als : 1
+keel piepte als -> een : 1
+piepte als een -> verroest : 1
+als een verroest -> wacht : 1
+een verroest wacht -> maar : 1
+verroest wacht maar -> tot : 1
+wacht maar tot -> ik : 1
+maar tot ik -> groot : 1
+tot ik groot -> stomme : 1
+ik groot stomme -> dacht : 1
+groot stomme dacht -> ik : 1
+stomme dacht ik -> elke : 1
+dacht ik elke -> dan : 1
+ik elke dan -> krijg : 1
+elke dan krijg -> ik : 1
+dan krijg ik -> je : 1
+krijg ik je -> boer : 1
+ik je boer -> baas : 1
+je boer baas -> zette : 1
+boer baas zette -> de : 1
+baas zette de -> doos : 2
+zette de doos -> in : 1
+zette de doos -> op : 1
+de doos in -> de : 1
+doos in de -> het : 1
+in de het -> geronk : 1
+de het geronk -> van : 1
+het geronk van -> de : 1
+geronk van de -> motor : 1
+van de motor -> klonk : 1
+de motor klonk -> als : 1
+motor klonk als -> het : 1
+klonk als het -> gegrom : 1
+als het gegrom -> van : 1
+het gegrom van -> de : 1
+gegrom van de -> rottweiler : 1
+van de rottweiler -> van : 1
+de rottweiler van -> de : 1
+rottweiler van de -> mijn : 1
+van de mijn -> zus : 1
+de mijn zus -> rilde : 1
+mijn zus rilde -> als : 1
+zus rilde als -> een : 1
+rilde als een -> boer : 1
+als een boer -> baas : 1
+een boer baas -> ons : 1
+boer baas ons -> eindelijk : 1
+baas ons eindelijk -> uit : 1
+ons eindelijk uit -> de : 1
+eindelijk uit de -> koffer : 1
+uit de koffer -> gluurde : 1
+de koffer gluurde -> ik : 1
+koffer gluurde ik -> door : 1
+gluurde ik door -> een : 1
+ik door een -> gaatje : 1
+door een gaatje -> in : 1
+een gaatje in -> de : 1
+gaatje in de -> doos : 1
+in de doos -> en : 1
+de doos en -> duwde : 1
+doos en duwde -> mijn : 1
+en duwde mijn -> neus : 1
+duwde mijn neus -> plots : 1
+mijn neus plots -> voelde : 1
+neus plots voelde -> ik : 1
+plots voelde ik -> me : 1
+voelde ik me -> heel : 1
+ik me heel -> onrustig : 1
+me heel onrustig -> zoveel : 1
+heel onrustig zoveel -> het : 1
+onrustig zoveel het -> leek : 1
+zoveel het leek -> wel : 1
+leek wel een -> ik : 1
+wel een ik -> snoof : 1
+een ik snoof -> en : 1
+ik snoof en -> snoof : 1
+snoof en snoof -> maar : 1
+en snoof maar -> geur : 1
+snoof maar geur -> was : 1
+maar geur was -> er : 1
+geur was er -> niet : 1
+was er niet -> baas : 1
+er niet baas -> zette : 1
+niet baas zette -> de : 1
+de doos op -> de : 1
+doos op de -> grond : 1
+op de grond -> en : 1
+de grond en -> nam : 1
+grond en nam -> mijn : 1
+en nam mijn -> zus : 1
+nam mijn zus -> in : 1
+mijn zus in -> zijn : 1
+zus in zijn -> mensen : 1
+in zijn mensen -> liepen : 1
+zijn mensen liepen -> af : 1
+mensen liepen af -> en : 1
+liepen af en -> ik : 1
+en ik hoorde -> er : 1
+ik hoorde er -> een : 1
+hoorde er een -> paar : 1
+er een paar -> door : 1
+een paar door -> mekaar : 1
+paar door mekaar -> praten : 1
+door mekaar praten -> en : 1
+mekaar praten en -> toen : 1
+praten en toen -> werd : 1
+en toen werd -> het : 1
+toen werd het -> weer : 1
+werd het weer -> even : 1
+het weer even -> later : 1
+weer even later -> werd : 1
+even later werd -> mijn : 1
+later werd mijn -> broer : 1
+werd mijn broer -> uit : 1
+mijn broer uit -> de : 1
+broer uit de -> doos : 1
+uit de doos -> voor : 1
+de doos voor -> ik : 1
+doos voor ik -> begreep : 1
+voor ik begreep -> wat : 1
+ik begreep wat -> er : 1
+begreep wat er -> was : 1
+wat er was -> ik : 1
+er was ik -> helemaal : 1
+was ik helemaal -> ik : 1
+ik helemaal ik -> aan : 1
+helemaal ik aan -> de : 1
+ik aan de -> beurt : 1
+aan de beurt -> voelde : 1
+de beurt voelde -> ik : 1
+beurt voelde ik -> pas : 1
+voelde ik pas -> goed : 1
+ik pas goed -> hoe : 1
+pas goed hoe -> koud : 1
+goed hoe koud -> het : 1
+hoe koud het -> gelukkig : 1
+koud het gelukkig -> stopte : 1
+het gelukkig stopte -> boer : 1
+gelukkig stopte boer -> baas : 1
+stopte boer baas -> me : 1
+boer baas me -> onder : 1
+baas me onder -> zijn : 1
+me onder zijn -> alleen : 1
+onder zijn alleen -> mijn : 1
+zijn alleen mijn -> kop : 1
+alleen mijn kop -> stak : 1
+mijn kop stak -> nog : 1
+kop stak nog -> naar : 1
+stak nog naar -> er : 1
+nog naar er -> gebeurde : 1
+naar er gebeurde -> niets : 1
+er gebeurde niets -> bijzonders : 1
+gebeurde niets bijzonders -> tot : 1
+niets bijzonders tot -> een : 1
+bijzonders tot een -> meisje : 1
+tot een meisje -> haar : 1
+een meisje haar -> vingers : 1
+meisje haar vingers -> kriebelend : 1
+haar vingers kriebelend -> door : 1
+vingers kriebelend door -> mijn : 1
+kriebelend door mijn -> vacht : 1
+door mijn vacht -> liet : 1
+door mijn vacht -> ze : 1
+mijn vacht liet -> dat : 1
+vacht liet dat -> was : 1
+liet dat was -> ze : 1
+dat was ze -> praatte : 1
+was ze praatte -> haar : 1
+ze praatte haar -> stem : 1
+praatte haar stem -> klonk : 1
+haar stem klonk -> als : 1
+stem klonk als -> ze : 1
+klonk als ze -> nam : 1
+als ze nam -> me : 1
+ze nam me -> in : 1
+nam me in -> haar : 1
+me in haar -> armen : 2
+armen en fluisterde -> lieve : 1
+en fluisterde lieve -> woordjes : 1
+fluisterde lieve woordjes -> in : 1
+lieve woordjes in -> mijn : 1
+woordjes in mijn -> noem : 1
+in mijn noem -> je : 1
+mijn noem je -> papa : 1
+noem je papa -> is : 1
+je papa is -> telefoon : 1
+papa is telefoon -> rinkelt : 1
+is telefoon rinkelt -> ligt : 1
+telefoon rinkelt ligt -> lui : 1
+rinkelt ligt lui -> op : 1
+ligt lui op -> de : 1
+lui op de -> bank : 1
+op de bank -> naar : 1
+de bank naar -> ketnet : 1
+bank naar ketnet -> te : 1
+naar ketnet te -> papa : 1
+ketnet te papa -> is : 1
+te papa is -> zijn : 1
+papa is zijn -> krant : 1
+is zijn krant -> aan : 1
+zijn krant aan -> het : 1
+krant aan het -> hij : 1
+aan het hij -> tast : 1
+het hij tast -> afwezig : 1
+hij tast afwezig -> naar : 1
+tast afwezig naar -> de : 1
+afwezig naar de -> draagbare : 1
+naar de draagbare -> staat : 1
+de draagbare staat -> morrend : 1
+draagbare staat morrend -> op : 1
+staat morrend op -> en : 1
+morrend op en -> loopt : 1
+op en loopt -> naar : 1
+loopt naar zijn -> kato : 1
+naar zijn kato -> schenkt : 1
+zijn kato schenkt -> er : 1
+kato schenkt er -> nauwelijks : 1
+schenkt er nauwelijks -> aandacht : 1
+er nauwelijks aandacht -> ze : 1
+nauwelijks aandacht ze -> wordt : 1
+aandacht ze wordt -> vertederd : 1
+ze wordt vertederd -> door : 1
+wordt vertederd door -> beelden : 1
+vertederd door beelden -> van : 1
+door beelden van -> weerloze : 1
+beelden van weerloze -> zeerobben : 1
+van weerloze zeerobben -> met : 1
+weerloze zeerobben met -> onschuldige : 1
+zeerobben met onschuldige -> de : 1
+met onschuldige de -> knuppels : 1
+onschuldige de knuppels -> van : 1
+de knuppels van -> op : 1
+knuppels van op -> hun : 1
+van op hun -> pels : 1
+op hun pels -> beluste : 1
+hun pels beluste -> jagers : 1
+pels beluste jagers -> mokeren : 1
+beluste jagers mokeren -> mooi : 1
+jagers mokeren mooi -> zijn : 1
+mokeren mooi zijn -> is : 1
+mooi zijn is -> niet : 1
+zijn is niet -> altijd : 1
+is niet altijd -> een : 1
+niet altijd een -> denkt : 1
+altijd een denkt -> papa : 1
+denkt papa merkt -> ze : 1
+papa merkt ze -> meteen : 1
+merkt ze meteen -> dat : 1
+ze meteen dat -> er : 1
+meteen dat er -> wat : 1
+dat er wat -> mis : 1
+er wat mis -> zijn : 1
+wat mis zijn -> gezicht : 1
+mis zijn gezicht -> is : 1
+zijn gezicht is -> haast : 1
+gezicht is haast -> paars : 1
+is haast paars -> en : 1
+haast paars en -> op : 1
+paars en op -> zijn : 1
+en op zijn -> rechterslaap : 1
+op zijn rechterslaap -> trilt : 1
+zijn rechterslaap trilt -> een : 1
+rechterslaap trilt een -> opgewonden : 1
+trilt een opgewonden -> weer : 1
+een opgewonden weer -> iets : 1
+opgewonden weer iets -> met : 1
+weer iets met -> zijn : 1
+iets met zijn -> vreest : 1
+met zijn vreest -> sinds : 1
+zijn vreest sinds -> hij : 1
+vreest sinds hij -> die : 1
+sinds hij die -> nieuwe : 1
+hij die nieuwe -> job : 1
+die nieuwe job -> bij : 1
+nieuwe job bij -> ingenieursbureau : 1
+job bij ingenieursbureau -> de : 1
+bij ingenieursbureau de -> gaat : 1
+ingenieursbureau de gaat -> er : 1
+de gaat er -> haast : 1
+gaat er haast -> geen : 1
+er haast geen -> avond : 1
+haast geen avond -> voorbij : 1
+geen avond voorbij -> waarop : 1
+avond voorbij waarop -> hij : 1
+voorbij waarop hij -> niet : 1
+waarop hij niet -> lastiggevallen : 1
+hij niet lastiggevallen -> is : 1
+niet lastiggevallen is -> het : 1
+lastiggevallen is het -> krast : 1
+is het krast -> hond : 1
+het krast hond -> moet : 1
+krast hond moet -> die : 1
+hond moet die -> schrikt : 1
+moet die schrikt -> welke : 1
+die schrikt welke -> toch : 1
+schrikt welke toch -> flappe : 1
+welke toch flappe -> opeens : 1
+toch flappe opeens -> verliezen : 1
+flappe opeens verliezen -> de : 1
+opeens verliezen de -> zeerobben : 1
+verliezen de zeerobben -> al : 1
+de zeerobben al -> hun : 1
+zeerobben al hun -> ze : 1
+al hun ze -> kijkt : 1
+hun ze kijkt -> naar : 1
+ze kijkt naar -> papa : 1
+kijkt naar papa -> en : 1
+naar papa en -> er : 1
+papa en er -> zit : 1
+en er zit -> een : 1
+zit een akelige -> kilte : 1
+een akelige kilte -> in : 1
+akelige kilte in -> zijn : 1
+kilte in zijn -> ogen : 1
+in zijn ogen -> en : 1
+ogen en dat -> is : 1
+en dat is -> niet : 1
+dat is niet -> meestal : 1
+is niet meestal -> is : 1
+niet meestal is -> hij : 1
+meestal is hij -> de : 1
+is hij de -> rust : 1
+hij de rust -> in : 1
+de rust in -> hier : 1
+rust in hier -> klopt : 1
+in hier klopt -> iets : 1
+hier klopt iets -> een : 1
+klopt iets een -> telefoontje : 1
+iets een telefoontje -> over : 1
+een telefoontje over -> een : 1
+telefoontje over een -> hond : 1
+over een hond -> maakt : 1
+een hond maakt -> hem : 1
+hond maakt hem -> verdorie : 1
+maakt hem verdorie -> erger : 1
+hem verdorie erger -> van : 1
+verdorie erger van -> streek : 1
+erger van streek -> dan : 1
+van streek dan -> een : 1
+streek dan een -> vraagt : 1
+dan een vraagt -> ze : 1
+een vraagt ze -> papa : 1
+vraagt ze papa -> draait : 1
+ze papa draait -> zich : 1
+papa draait zich -> met : 1
+draait zich met -> een : 1
+zich met een -> ruk : 1
+met een ruk -> dacht : 1
+een ruk dacht -> flappe : 1
+ruk dacht flappe -> die : 1
+dacht flappe die -> zijn : 1
+flappe die zijn -> naam : 1
+die zijn naam -> hoort : 1
+zijn naam hoort -> krabbelt : 1
+naam hoort krabbelt -> lui : 1
+hoort krabbelt lui -> uit : 1
+krabbelt lui uit -> zijn : 1
+lui uit zijn -> loopt : 1
+uit zijn loopt -> kwispelend : 1
+zijn loopt kwispelend -> naar : 1
+loopt kwispelend naar -> kato : 1
+kwispelend naar kato -> haast : 1
+naar kato haast -> zich : 1
+kato haast zich -> om : 1
+haast zich om -> als : 1
+zich om als -> eerste : 1
+om als eerste -> bij : 1
+als eerste bij -> hem : 1
+eerste bij hem -> te : 1
+bij hem te -> zijn : 1
+hem te zijn -> en : 1
+te zijn en -> streelt : 1
+zijn en streelt -> hem : 1
+en streelt hem -> door : 1
+streelt hem door -> zijn : 1
+hem door zijn -> stijve : 1
+door zijn stijve -> is : 1
+zijn stijve is -> boos : 1
+stijve is boos -> op : 1
+is boos op -> zegt : 1
+boos op zegt -> ze : 1
+op zegt ze -> je : 1
+zegt ze je -> wat : 1
+ze je wat -> flappe : 1
+je wat flappe -> likt : 1
+wat flappe likt -> haar : 1
+flappe likt haar -> heeft : 1
+likt haar heeft -> die : 1
+haar heeft die -> kleine : 1
+heeft die kleine -> van : 1
+die kleine van -> wim : 1
+kleine van wim -> en : 1
+van wim en -> kristel : 1
+wim en kristel -> in : 1
+wim en kristel -> gaan : 1
+en kristel in -> zijn : 1
+kristel in zijn -> been : 1
+zijn been zegt -> hebben : 1
+been zegt hebben -> het : 1
+zegt hebben het -> jongetje : 1
+hebben het jongetje -> zelfs : 1
+het jongetje zelfs -> naar : 1
+jongetje zelfs naar -> het : 1
+zelfs naar het -> ziekenhuis : 1
+het ziekenhuis moeten -> schrikt : 1
+ziekenhuis moeten schrikt -> heeft : 1
+moeten schrikt heeft -> flappe : 1
+schrikt heeft flappe -> robbe : 1
+heeft flappe robbe -> in : 1
+flappe robbe in -> zijn : 1
+zijn been probeer -> ik : 1
+been probeer ik -> je : 1
+probeer ik je -> aan : 1
+ik je aan -> je : 1
+je aan je -> verstand : 1
+aan je verstand -> te : 1
+je verstand te -> denk : 1
+verstand te denk -> kato : 1
+te denk kato -> ziet : 1
+denk kato ziet -> het : 1
+kato ziet het -> ronde : 1
+ziet het ronde -> gezichtje : 1
+het ronde gezichtje -> van : 1
+ronde gezichtje van -> robbe : 1
+gezichtje van robbe -> voor : 1
+van robbe voor -> haar : 1
+robbe voor haar -> ogen : 1
+voor haar ogen -> hoe : 1
+haar ogen hoe -> oud : 1
+ogen hoe oud -> is : 1
+hoe oud is -> die : 1
+oud is die -> kleine : 1
+is die kleine -> acht : 1
+die kleine acht -> hulpeloos : 1
+kleine acht hulpeloos -> waarom : 1
+acht hulpeloos waarom -> zou : 1
+hulpeloos waarom zou -> flappe : 1
+waarom zou flappe -> hem : 1
+zou flappe hem -> honden : 1
+flappe hem honden -> bijten : 1
+hem honden bijten -> alleen : 1
+honden bijten alleen -> maar : 1
+bijten alleen maar -> als : 1
+alleen maar als -> ze : 1
+maar als ze -> aangevallen : 1
+als ze aangevallen -> worden : 1
+ze aangevallen worden -> of : 1
+aangevallen worden of -> als : 1
+worden of als -> iemand : 1
+of als iemand -> op : 1
+als iemand op -> de : 1
+iemand op de -> vlucht : 1
+op de vlucht -> dan : 1
+de vlucht dan -> denken : 1
+vlucht dan denken -> ze : 1
+dan denken ze -> dat : 1
+denken ze dat -> het : 1
+ze dat het -> een : 1
+het een prooi -> is : 1
+een prooi is -> die : 1
+prooi is die -> ze : 1
+is die ze -> moeten : 1
+die ze moeten -> flappe : 1
+ze moeten flappe -> ligt : 1
+moeten flappe ligt -> als : 1
+flappe ligt als -> een : 1
+ligt als een -> baby : 1
+als een baby -> in : 1
+een baby in -> haar : 1
+baby in haar -> kan : 1
+in haar kan -> roept : 1
+haar kan roept -> heeft : 1
+kan roept heeft -> nog : 1
+roept heeft nog -> nooit : 1
+nooit iemand en -> de : 1
+iemand en de -> vorige : 1
+en de vorige -> was : 1
+de vorige was -> zijn : 1
+vorige was zijn -> eigen : 1
+was zijn eigen -> hij : 1
+zijn eigen hij -> jaagt : 1
+eigen hij jaagt -> alle : 1
+hij jaagt alle -> honden : 1
+jaagt alle honden -> hem : 1
+alle honden hem -> eens : 1
+honden hem eens -> bezig : 1
+hem eens bezig -> kan : 1
+eens bezig kan -> me : 1
+bezig kan me -> allemaal : 1
+kan me allemaal -> niet : 1
+me allemaal niet -> besef : 1
+allemaal niet besef -> je : 1
+niet besef je -> wel : 1
+besef je wel -> wat : 1
+je wel wat -> die : 1
+wel wat die -> grap : 1
+wat die grap -> ons : 1
+die grap ons -> gaat : 1
+grap ons gaat -> ik : 1
+ons gaat ik -> heb : 1
+gaat ik heb -> er : 1
+ik heb er -> genoeg : 1
+heb er genoeg -> morgen : 1
+er genoeg morgen -> bel : 1
+genoeg morgen bel -> ik : 1
+morgen bel ik -> het : 1
+bel ik het -> voelt : 1
+ik het voelt -> tranen : 1
+het voelt tranen -> met : 1
+voelt tranen met -> flappe : 1
+tranen met flappe -> in : 1
+met flappe in -> haar : 1
+flappe in haar -> armen : 1
+haar armen gaat -> ze : 1
+armen gaat ze -> weer : 1
+gaat ze weer -> papa : 1
+ze weer papa -> zegt : 1
+weer papa zegt -> mam : 1
+papa zegt mam -> je : 1
+zegt mam je -> moet : 1
+mam je moet -> niet : 1
+je moet niet -> je : 1
+moet niet je -> bent : 1
+niet je bent -> mijn : 1
+je bent mijn -> ik : 1
+bent mijn ik -> zal : 1
+mijn ik zal -> voor : 1
+ik zal voor -> je : 1
+zal voor je -> praat : 1
+voor je praat -> maar : 1
+je praat maar -> toch : 1
+praat maar toch -> luid : 1
+maar toch luid -> genoeg : 1
+toch luid genoeg -> opdat : 1
+luid genoeg opdat -> papa : 1
+genoeg opdat papa -> het : 1
+opdat papa het -> zou : 1
+papa het zou -> kunnen : 1
+het zou kunnen -> dat : 1
+zou kunnen dat -> is : 1
+kunnen dat is -> haar : 1
+dat is haar -> manier : 1
+is haar manier -> van : 1
+haar manier van -> hem : 1
+manier van hem -> vlak : 1
+van hem vlak -> in : 1
+hem vlak in -> zijn : 1
+vlak in zijn -> gezicht : 1
+in zijn gezicht -> tegenspreken : 1
+zijn gezicht tegenspreken -> durft : 1
+gezicht tegenspreken durft -> ze : 1
+tegenspreken durft ze -> hij : 1
+durft ze hij -> is : 1
+ze hij is -> best : 1
+hij is best -> een : 1
+is best een -> lieve : 1
+best een lieve -> maar : 1
+een lieve maar -> als : 1
+lieve maar als -> hij : 1
+maar als hij -> een : 1
+als hij een -> beslissing : 1
+hij een beslissing -> genomen : 1
+een beslissing genomen -> komt : 1
+beslissing genomen komt -> hij : 1
+genomen komt hij -> daar : 1
+komt hij daar -> niet : 1
+hij daar niet -> snel : 1
+daar niet snel -> op : 1
+niet snel op -> ze : 1
+snel op ze -> het : 1
+op ze het -> wel : 1
+ze het wel -> goed : 1
+het wel goed -> probeert : 1
+wel goed probeert -> ze : 1
+goed probeert ze -> lopen : 1
+probeert ze lopen -> in : 1
+ze lopen in -> de : 1
+lopen in de -> buurt : 1
+in de buurt -> ten : 1
+de buurt ten -> minste : 1
+buurt ten minste -> nog : 1
+ten minste nog -> drie : 1
+minste nog drie -> honden : 1
+nog drie honden -> rond : 1
+drie honden rond -> die : 1
+honden rond die -> goed : 1
+rond die goed -> op : 1
+die goed op -> flappe : 1
+goed op flappe -> maar : 1
+op flappe maar -> er : 1
+flappe maar er -> is : 1
+maar er is -> er : 1
+er is er -> maar : 1
+is er maar -> met : 1
+er maar met -> een : 1
+maar met een -> strik : 1
+met een strik -> om : 1
+een strik om -> zijn : 2
+strik om zijn -> zegt : 1
+strik om zijn -> hals : 1
+om zijn zegt -> papa : 1
+zijn zegt papa -> valt : 1
+zegt papa valt -> niets : 1
+papa valt niets -> tegen : 1
+valt niets tegen -> in : 1
+niets tegen in -> te : 1
+tegen in te -> brengen : 1
+in te brengen -> en : 1
+te brengen en -> nu : 1
+brengen en nu -> is : 1
+nu is kato -> kwaad : 1
+is kato kwaad -> op : 1
+kato kwaad op -> vorige : 1
+kwaad op vorige -> week : 1
+op vorige week -> was : 1
+vorige week was -> flappe : 1
+week was flappe -> jarig : 1
+was flappe jarig -> en : 1
+flappe jarig en -> toen : 1
+jarig en toen -> heeft : 1
+en toen heeft -> ze : 1
+toen heeft ze -> hem : 1
+heeft ze hem -> een : 1
+ze hem een -> strik : 1
+hem een strik -> om : 1
+zijn hals had -> ik : 1
+hals had ik -> beter : 1
+had ik beter -> niet : 1
+ik beter niet -> denkt : 1
+beter niet denkt -> ze : 1
+denkt ze ik -> eens : 1
+ze ik eens -> met : 1
+ik eens met -> wim : 1
+eens met wim -> en : 1
+met wim en -> kristel : 1
+en kristel gaan -> stelt : 1
+kristel gaan stelt -> ze : 1
+gaan stelt ze -> zou : 1
+stelt ze zou -> ik : 1
+ze zou ik -> niet : 1
+zou ik niet -> je : 1
+ik niet je -> blijft : 1
+niet je blijft -> daar : 1
+je blijft daar -> beter : 1
+blijft daar beter -> even : 1
+daar beter even -> uit : 1
+beter even uit -> de : 1
+even uit de -> die : 1
+uit de die -> mensen : 1
+de die mensen -> zijn : 1
+die mensen zijn -> over : 1
+mensen zijn over -> hun : 1
+zijn over hun -> je : 1
+over hun je -> zou : 1
+hun je zou -> verdorie : 1
+je zou verdorie -> voor : 1
+zou verdorie voor -> hebben : 1
+verdorie voor hebben -> zelf : 1
+voor hebben zelf -> ook : 1
+hebben zelf ook -> een : 1
+zelf ook een -> een : 1
+ook een een -> opgevoede : 1
+een een opgevoede -> geen : 1
+een opgevoede geen -> straathond : 1
+opgevoede geen straathond -> zoals : 1
+geen straathond zoals -> die : 1
+straathond zoals die -> hoe : 1
+zoals die hoe -> dikwijls : 1
+die hoe dikwijls -> heb : 1
+hoe dikwijls heb -> ik : 1
+dikwijls heb ik -> al : 1
+heb ik al -> niet : 1
+al niet gezegd -> dat : 1
+niet gezegd dat -> je : 1
+gezegd dat je -> hem : 1
+dat je hem -> binnen : 1
+je hem binnen -> moet : 1
+hem binnen moet -> is : 1
+binnen moet is -> de : 1
+moet is de -> liefste : 1
+is de liefste -> hond : 1
+de liefste hond -> van : 1
+liefste hond van -> de : 1
+hond van de -> hele : 1
+de hele krijgt -> er : 1
+hele krijgt er -> genoeg : 1
+krijgt er genoeg -> hij : 1
+er genoeg hij -> zwaait : 1
+genoeg hij zwaait -> met : 1
+hij zwaait met -> zijn : 1
+zwaait met zijn -> hand : 1
+met zijn hand -> als : 1
+zijn hand als -> vervelende : 1
+hand als vervelende -> vlieg : 1
+als vervelende vlieg -> en : 1
+vervelende vlieg en -> loopt : 1
+vlieg en loopt -> naar : 1
+de maar niet -> dat : 1
+maar niet dat -> ik : 1
+niet dat ik -> nog : 1
+dat ik nog -> van : 1
+ik nog van -> gedachte : 1
+nog van gedachte -> roept : 1
+van gedachte roept -> later : 1
+gedachte roept later -> komt : 1
+roept later komt -> hij : 1
+later komt hij -> terug : 1
+komt hij terug -> met : 1
+hij terug met -> een : 1
+terug met een -> biertje : 1
+met een biertje -> en : 1
+een biertje en -> duikt : 1
+biertje en duikt -> weer : 1
+en duikt weer -> in : 1
+duikt weer in -> zijn : 1
+weer in zijn -> mama : 1
+in zijn mama -> er : 1
+zijn mama er -> nu : 1
+mama er nu -> denkt : 1
+er nu denkt -> kato : 1
+nu denkt kato -> is : 1
+denkt kato is -> dat : 1
+kato is dat -> nu : 1
+is dat nu -> een : 1
+dat nu een -> moment : 1
+nu een moment -> om : 1
+een moment om -> naar : 1
+moment om naar -> de : 1
+om naar de -> film : 1
+naar de film -> te : 1
+de film te -> lig : 1
+film te lig -> graag : 1
+te lig graag -> met : 1
+lig graag met -> mijn : 1
+graag met mijn -> kop : 1
+met mijn kop -> over : 1
+mijn kop over -> de : 1
+kop over de -> rand : 1
+over de rand -> van : 1
+de rand van -> mijn : 1
+rand van mijn -> als : 1
+van mijn als -> ik : 1
+als ik heel -> erg : 1
+ik heel erg -> moe : 1
+heel erg moe -> rol : 1
+erg moe rol -> ik : 1
+moe rol ik -> me : 1
+rol ik me -> helemaal : 1
+ik me helemaal -> maar : 1
+me helemaal maar -> dan : 1
+helemaal maar dan -> mis : 1
+maar dan mis -> ik : 1
+dan mis ik -> alle : 1
+mis ik alle -> geuren : 1
+ik alle geuren -> die : 1
+alle geuren die -> door : 1
+geuren die door -> de : 1
+die door de -> kamer : 1
+door de kamer -> alleen : 1
+de kamer alleen -> al : 1
+kamer alleen al -> door : 1
+alleen al door -> te : 1
+al door te -> ruiken : 1
+door te ruiken -> weet : 1
+te ruiken weet -> ik : 1
+ruiken weet ik -> wat : 1
+weet ik wat -> er : 1
+ik wat er -> zonder : 1
+wat er zonder -> mijn : 1
+er zonder mijn -> ogen : 1
+zonder mijn ogen -> te : 1
+mijn ogen te -> openen : 1
+ogen te openen -> wist : 1
+te openen wist -> ik : 1
+openen wist ik -> daarnet : 1
+wist ik daarnet -> dat : 1
+ik daarnet dat -> de : 1
+daarnet dat de -> grote : 1
+dat de grote -> baas : 1
+grote baas naar -> zijn : 1
+baas naar zijn -> werkkamer : 1
+naar zijn werkkamer -> de : 1
+zijn werkkamer de -> geur : 1
+werkkamer de geur -> van : 1
+de geur van -> zijn : 1
+geur van zijn -> kousen : 1
+van zijn kousen -> volgde : 1
+zijn kousen volgde -> hem : 1
+kousen volgde hem -> als : 1
+volgde hem als -> een : 1
+hem als een -> nu : 1
+als een nu -> praat : 1
+een nu praat -> hij : 1
+nu praat hij -> veel : 1
+praat hij veel -> luider : 1
+hij veel luider -> dan : 1
+veel luider dan -> ik : 1
+luider dan ik -> versta : 1
+dan ik versta -> wel : 1
+ik versta wel -> niet : 1
+versta wel niet -> wat : 1
+wel niet wat -> hij : 1
+niet wat hij -> maar : 1
+wat hij maar -> hij : 1
+hij maar hij -> is : 1
+maar hij is -> duidelijk : 1
+hij is duidelijk -> hij : 1
+is duidelijk hij -> roept : 1
+duidelijk hij roept -> ik : 1
+hij roept ik -> klauter : 1
+roept ik klauter -> houterig : 1
+ik klauter houterig -> uit : 1
+klauter houterig uit -> mijn : 1
+houterig uit mijn -> ben : 1
+uit mijn ben -> de : 1
+mijn ben de -> hele : 1
+ben de hele -> middag : 1
+de hele middag -> op : 1
+hele middag op -> stap : 1
+middag op stap -> ik : 1
+op stap ik -> hoopte : 1
+stap ik hoopte -> lady : 1
+ik hoopte lady -> te : 1
+hoopte lady te -> ze : 1
+lady te ze -> woont : 1
+te ze woont -> wat : 1
+ze woont wat -> voorbij : 1
+woont wat voorbij -> de : 1
+wat voorbij de -> ik : 1
+voorbij de ik -> zag : 1
+de ik zag -> haar : 1
+ik zag haar -> voor : 1
+zag haar voor -> het : 1
+haar voor het -> raam : 1
+voor het raam -> maar : 1
+het raam maar -> ze : 1
+raam maar ze -> kon : 1
+maar ze kon -> niet : 1
+ze kon niet -> naar : 1
+kon niet naar -> hier : 1
+niet naar hier -> maken : 1
+naar hier maken -> ze : 1
+hier maken ze -> daar : 1
+maken ze daar -> geen : 1
+ze daar geen -> punt : 1
+daar geen punt -> maar : 1
+geen punt maar -> lady : 1
+punt maar lady -> stamt : 1
+maar lady stamt -> uit : 1
+lady stamt uit -> een : 1
+stamt uit een -> voorname : 1
+uit een voorname -> haar : 1
+een voorname haar -> vrouwtje : 1
+voorname haar vrouwtje -> heeft : 1
+haar vrouwtje heeft -> niet : 1
+vrouwtje heeft niet -> graag : 1
+heeft niet graag -> dat : 1
+niet graag dat -> ze : 1
+graag dat ze -> met : 1
+dat ze met -> mij : 1
+ze met mij -> ze : 1
+met mij ze -> heeft : 1
+mij ze heeft -> een : 1
+ze heeft een -> spierwitte : 1
+heeft een spierwitte -> vacht : 1
+een spierwitte vacht -> en : 1
+spierwitte vacht en -> na : 1
+vacht en na -> een : 1
+en na een -> dagje : 1
+na een dagje -> stappen : 1
+een dagje stappen -> durft : 1
+dagje stappen durft -> daar : 1
+stappen durft daar -> wel : 1
+durft daar wel -> wat : 1
+daar wel wat -> modder : 1
+wel wat modder -> in : 1
+wat modder in -> te : 1
+modder in te -> op : 1
+in te op -> de : 1
+te op de -> terugweg : 1
+op de terugweg -> was : 1
+de terugweg was -> er : 1
+terugweg was er -> blijkbaar : 1
+was er blijkbaar -> iets : 1
+er blijkbaar iets -> ergs : 1
+blijkbaar iets ergs -> aan : 1
+iets ergs aan -> het : 1
+ergs aan het -> eind : 1
+aan het eind -> van : 1
+het eind van -> onze : 1
+eind van onze -> waar : 1
+van onze waar -> ze : 1
+onze waar ze -> splinternieuw : 1
+waar ze splinternieuw -> jongetje : 1
+ze splinternieuw jongetje -> hebben : 1
+splinternieuw jongetje hebben -> dat : 1
+jongetje hebben dat -> ze : 1
+hebben dat ze -> nog : 1
+dat ze nog -> op : 1
+ze nog op -> de : 1
+nog op de -> arm : 1
+de arm moeten -> dragen : 1
+arm moeten dragen -> of : 1
+moeten dragen of -> in : 1
+dragen of in -> de : 1
+of in de -> kinderwagen : 1
+in de kinderwagen -> er : 1
+de kinderwagen er -> stond : 1
+kinderwagen er stond -> een : 1
+er stond een -> ambulance : 1
+stond een ambulance -> voor : 1
+een ambulance voor -> de : 1
+ambulance voor de -> deur : 1
+de deur en -> de : 1
+deur en de -> moeder : 1
+en de moeder -> van : 1
+de moeder van -> dat : 1
+moeder van dat -> jongetje : 1
+van dat jongetje -> jankte : 1
+dat jongetje jankte -> als : 1
+jongetje jankte als -> een : 1
+jankte als een -> jonge : 1
+als een jonge -> hond : 1
+een jonge hond -> die : 1
+jonge hond die -> rammel : 1
+hond die rammel -> die : 1
+die rammel die -> stomme : 1
+rammel die stomme -> postbode : 1
+die stomme postbode -> stond : 1
+stomme postbode stond -> er : 1
+postbode stond er -> ook : 1
+stond er ook -> als : 1
+er ook als -> ik : 1
+ook als ik -> de : 1
+ik de kans -> krijg : 1
+de kans krijg -> nog : 1
+kans krijg nog -> eens : 1
+krijg nog eens -> in : 1
+nog eens in -> zijn : 1
+eens in zijn -> broek : 1
+zijn broek te -> zal : 1
+broek te zal -> ik : 1
+te zal ik -> niet : 1
+zal ik niet -> toen : 1
+ik niet toen -> ik : 1
+niet toen ik -> peuzelde : 1
+toen ik peuzelde -> ik : 1
+ik peuzelde ik -> de : 1
+peuzelde ik de -> restjes : 1
+ik de restjes -> van : 1
+de restjes van -> de : 1
+restjes van de -> kip : 1
+van de kip -> op : 1
+de kip op -> en : 1
+kip op en -> het : 1
+op en het -> liefst : 1
+en het liefst -> van : 1
+het liefst van -> al : 1
+liefst van al -> had : 1
+van al had -> ik : 1
+al had ik -> zalig : 1
+had ik zalig -> verder : 1
+ik zalig verder -> een : 1
+zalig verder een -> van : 1
+verder een van -> de : 1
+een van de -> boutjes : 1
+van de boutjes -> speelde : 1
+de boutjes speelde -> me : 1
+boutjes speelde me -> ik : 1
+speelde me ik -> weet : 1
+me ik weet -> dat : 1
+ik weet dat -> die : 1
+weet dat die -> splinters : 1
+dat die splinters -> gevaarlijk : 1
+die splinters gevaarlijk -> zijn : 1
+splinters gevaarlijk zijn -> voor : 1
+gevaarlijk zijn voor -> mijn : 1
+zijn voor mijn -> maar : 1
+voor mijn maar -> ik : 1
+maar ik ben -> er : 1
+ik ben er -> zo : 1
+ben er zo -> verdomd : 1
+er zo verdomd -> gek : 1
+zo verdomd gek -> voortaan : 1
+verdomd gek voortaan -> toch : 1
+gek voortaan toch -> maar : 1
+voortaan toch maar -> wat : 1
+toch maar wat -> eerst : 1
+maar wat eerst -> roept : 1
+wat eerst roept -> de : 1
+eerst roept de -> grote : 1
+roept de grote -> baas : 1
+grote baas me -> en : 1
+baas me en -> nu : 1
+me en nu -> kijkt : 1
+en nu kijkt -> hij : 1
+nu kijkt hij -> me : 1
+kijkt hij me -> niet : 1
+hij me niet -> eens : 1
+me niet eens -> het : 1
+niet eens het -> vrouwtje : 1
+eens het vrouwtje -> neemt : 1
+het vrouwtje neemt -> me : 1
+vrouwtje neemt me -> in : 1
+neemt me in -> haar : 1
+armen en begint -> me : 1
+en begint me -> te : 1
+begint me te -> ik : 1
+me te ik -> vind : 1
+te ik vind -> het : 1
+ik vind het -> fijn : 1
+vind het fijn -> als : 1
+het fijn als -> haar : 1
+fijn als haar -> vingers : 1
+als haar vingers -> door : 1
+haar vingers door -> mijn : 1
+vingers door mijn -> vacht : 1
+mijn vacht ze -> ruikt : 1
+vacht ze ruikt -> lekker : 1
+ze ruikt lekker -> naar : 1
+ruikt lekker naar -> ik : 1
+lekker naar ik -> lik : 1
+naar ik lik -> haar : 1
+ik lik haar -> zoute : 1
+lik haar zoute -> waarom : 1
+haar zoute waarom -> is : 1
+zoute waarom is -> ze : 1

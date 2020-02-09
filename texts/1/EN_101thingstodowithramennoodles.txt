@@ -1,0 +1,4287 @@
+smith : 1
+edition : 1
+toni : 1
+rights : 1
+no : 1
+part : 1
+this : 1
+reproduced : 1
+means : 1
+whatsoever : 1
+without : 1
+written : 1
+permission : 1
+brief : 1
+quoted : 1
+purpose : 1
+box : 1
+ut : 1
+congress : 1
+cookery : 1
+hundred : 1
+dedicated : 1
+her : 1
+threatening : 1
+steal : 1
+idea : 1
+i : 1
+freezer : 1
+buying : 1
+divide : 1
+individual : 1
+plastic : 1
+buy : 1
+bags : 1
+use : 1
+will : 1
+come : 1
+pocket : 1
+empty : 1
+restaurants : 1
+using : 1
+food : 1
+spoil : 1
+after : 1
+has : 1
+been : 1
+save : 1
+future : 1
+great : 1
+real : 1
+two : 1
+dehydrated : 1
+equal : 1
+lovers : 1
+always : 1
+follow : 1
+unless : 1
+recipe : 1
+says : 1
+less : 1
+ingredient : 1
+own : 1
+creative : 1
+enjoy : 1
+substituted : 1
+you : 1
+too : 1
+drop : 1
+look : 1
+leaves : 1
+consomme : 1
+garden : 1
+julienned : 1
+carrots : 1
+basil : 1
+crumbled : 1
+topped : 1
+prepare : 1
+off : 1
+very : 1
+bottom : 1
+stems : 1
+halved : 1
+seedless : 1
+turkey : 1
+walnut : 1
+picnic : 1
+sprouts : 1
+dijon : 1
+island : 1
+lima : 1
+beans : 1
+honey : 1
+seasoned : 1
+shredded : 1
+torn : 1
+minute : 1
+roast : 1
+serving : 1
+mandarin : 1
+so : 1
+coated : 1
+each : 1
+at : 1
+least : 1
+hour : 1
+cider : 1
+romaine : 1
+reserved : 1
+discard : 1
+marinade : 1
+pounds : 1
+worcestershire : 1
+bamboo : 1
+push : 1
+side : 1
+potatoes : 1
+well : 1
+form : 1
+four : 1
+grill : 1
+usual : 1
+sausage : 1
+meat : 1
+loaf : 1
+roll : 1
+end : 1
+other : 1
+pinch : 1
+ends : 1
+prevent : 1
+melting : 1
+beefy : 1
+envelope : 1
+mild : 1
+lo : 1
+mein : 1
+melts : 1
+blend : 1
+nutmeg : 1
+beat : 1
+parsley : 1
+keep : 1
+let : 1
+marinate : 1
+overnight : 1
+drained : 1
+cajun : 1
+sharp : 1
+white : 1
+asparagus : 1
+dogs : 1
+dog : 1
+swiss : 1
+beaten : 1
+chop : 1
+pan : 1
+immediately : 1
+bratwursts : 1
+brats : 1
+peppers : 1
+drippings : 1
+skillet : 1
+lean : 1
+chinese : 1
+stalk : 1
+salmon : 1
+spinach : 1
+saltine : 1
+transfer : 1
+crackers : 1
+peeled : 1
+garnish : 1
+alfredo : 1
+freshly : 1
+cheeses : 1
+pepperoni : 1
+ricotta : 1
+an : 1
+repeat : 1
+toast : 1
+steam : 1
+finely : 1
+chive : 1
+chives : 1
+sticks : 1
+dry : 1
+roasted : 1
+traditional : 1
+jerky : 1
+plain : 1
+sunflower : 1
+granola : 1
+cereal : 1
+fruit : 1
+combination : 1
+balls : 1
+wax : 1
+mini : 1
+put : 1
+blocks : 1
+layers : 1
+marshmallows : 1
+reserve : 1
+making : 1
+sure : 1
+they : 1
+covered : 1
+flakes : 1
+high : 1
+rather : 1
+something : 1
+syrup : 1
+cauliflower : 1
+jar : 1
+creamy : 1
+melted : 1
+fried : 1
+fry : 1
+flipping : 1
+cilantro : 1
+veggie : 1
+creamed : 1
+may : 2
+my : 2
+it : 2
+have : 2
+done : 2
+freeze : 2
+macaroni : 2
+used : 2
+extra : 2
+hamburger : 2
+adding : 2
+taste : 2
+spicy : 2
+smoked : 2
+sprig : 2
+bay : 2
+strain : 2
+separate : 2
+directed : 2
+enchilada : 2
+canola : 2
+choy : 2
+pineapple : 2
+alfalfa : 2
+desired : 2
+amount : 2
+italian : 2
+gently : 2
+lettuce : 2
+fully : 2
+chestnut : 2
+peas : 2
+mayonnaise : 2
+walnuts : 2
+pieces : 2
+powder : 2
+steak : 2
+flour : 2
+potato : 2
+chili : 2
+per : 2
+salsa : 2
+whisk : 2
+yolks : 2
+smooth : 2
+tarragon : 2
+yolk : 2
+dish : 2
+bean : 2
+bacon : 2
+crispy : 2
+tuna : 2
+american : 2
+processed : 2
+monterey : 2
+up : 2
+trail : 2
+omit : 2
+butterscotch : 2
+completely : 2
+peach : 2
+frosted : 2
+microwave : 2
+book : 3
+by : 3
+portions : 3
+as : 3
+light : 3
+eggs : 3
+reduce : 3
+boil : 3
+jack : 3
+head : 3
+break : 3
+drizzle : 3
+slivered : 3
+sugar : 3
+fold : 3
+refrigerate : 3
+golden : 3
+tomatoes : 3
+deep : 3
+uncooked : 3
+layer : 3
+gravy : 3
+saucepan : 3
+spread : 3
+juice : 3
+under : 3
+through : 3
+snow : 3
+hot : 3
+spaghetti : 3
+corn : 3
+mozzarella : 3
+ranch : 3
+chocolate : 3
+one : 4
+conversion : 4
+when : 4
+large : 4
+all : 4
+place : 4
+not : 4
+kidney : 4
+bring : 4
+boiling : 4
+thyme : 4
+liquid : 4
+mushrooms : 4
+browned : 4
+bok : 4
+sesame : 4
+black : 4
+curry : 4
+x : 4
+briskly : 4
+chops : 4
+dried : 4
+shrimp : 4
+except : 5
+your : 5
+canned : 5
+rinsed : 5
+constantly : 5
+pour : 5
+spoon : 5
+celery : 5
+just : 5
+cover : 5
+greased : 5
+things : 6
+be : 6
+before : 6
+more : 6
+rinse : 6
+cold : 6
+cubed : 6
+almonds : 6
+remove : 6
+heated : 6
+egg : 6
+milk : 6
+packet : 7
+thinly : 7
+chips : 7
+toss : 7
+lightly : 7
+melt : 7
+casserole : 7
+crushed : 7
+oriental : 7
+packets : 8
+together : 8
+on : 8
+ounces : 8
+ingredients : 8
+combine : 8
+vegetable : 8
+lemon : 8
+broken : 8
+olive : 8
+from : 9
+for : 9
+if : 9
+minced : 9
+noodle : 9
+tomato : 9
+dressing : 9
+set : 9
+cans : 9
+do : 10
+frozen : 10
+onion : 10
+mushroom : 10
+teaspoons : 10
+oil : 11
+then : 11
+parmesan : 11
+salt : 12
+sour : 12
+soup : 12
+serve : 12
+red : 12
+mixed : 12
+saute : 12
+fresh : 13
+flavor : 13
+oven : 13
+bake : 13
+pork : 13
+garlic : 14
+broccoli : 14
+cooked : 15
+season : 15
+ground : 15
+sauce : 15
+bell : 16
+mix : 16
+minutes : 17
+remaining : 17
+skinless : 17
+is : 18
+sprinkle : 18
+drain : 18
+soy : 18
+half : 18
+cheddar : 18
+cream : 20
+stirring : 20
+medium : 21
+are : 24
+diced : 24
+small : 24
+grated : 24
+tablespoon : 25
+mixture : 25
+low : 25
+vegetables : 27
+cheese : 27
+cut : 27
+the : 28
+green : 28
+pound : 31
+top : 31
+sliced : 34
+cook : 36
+teaspoon : 36
+butter : 37
+warm : 37
+into : 39
+can : 39
+simmer : 39
+brown : 43
+tablespoons : 43
+chopped : 45
+any : 47
+cups : 48
+frying : 48
+of : 52
+stir : 52
+heat : 55
+packages : 57
+or : 59
+beef : 61
+directions : 67
+over : 74
+according : 78
+chicken : 91
+water : 97
+makes : 101
+a : 107
+until : 108
+ramen : 113
+package : 124
+add : 130
+seasoning : 132
+with : 146
+in : 147
+noodles : 155
+to : 179
+cup : 214
+and : 391
+things to do -> with : 6
+to do with -> ramen : 6
+do with ramen -> things : 2
+do with ramen -> smith : 1
+do with ramen -> edition : 1
+do with ramen -> book : 1
+do with ramen -> of : 1
+with ramen things -> to : 2
+ramen things to -> do : 2
+with ramen smith -> things : 1
+ramen smith things -> to : 1
+smith things to -> do : 1
+with ramen edition -> toni : 1
+ramen edition toni -> rights : 1
+edition toni rights -> no : 1
+toni rights no -> part : 1
+rights no part -> of : 1
+no part of -> this : 1
+part of this -> book : 1
+of this book -> may : 1
+this book may -> be : 1
+book may be -> reproduced : 1
+may be reproduced -> by : 1
+be reproduced by -> any : 1
+reproduced by any -> means : 1
+by any means -> whatsoever : 1
+any means whatsoever -> without : 1
+means whatsoever without -> written : 1
+whatsoever without written -> permission : 1
+without written permission -> from : 1
+written permission from -> the : 1
+permission from the -> except : 1
+from the except -> brief : 1
+the except brief -> portions : 1
+except brief portions -> quoted : 1
+brief portions quoted -> for : 1
+portions quoted for -> purpose : 1
+quoted for purpose -> of : 1
+for purpose of -> box : 1
+purpose of box -> ut : 1
+of box ut -> of : 1
+box ut of -> congress : 1
+ut of congress -> cookery : 1
+of congress cookery -> one : 1
+congress cookery one -> hundred : 1
+cookery one hundred -> one : 1
+one hundred one -> things : 1
+hundred one things -> to : 1
+one things to -> do : 1
+with ramen book -> is : 1
+ramen book is -> dedicated : 1
+book is dedicated -> to : 1
+is dedicated to -> my : 1
+dedicated to my -> if : 1
+to my if -> it : 1
+my if it -> for : 1
+if it for -> her : 1
+it for her -> threatening : 1
+for her threatening -> to : 1
+her threatening to -> steal : 1
+threatening to steal -> my : 1
+to steal my -> idea : 1
+steal my idea -> and : 1
+my idea and -> do : 1
+idea and do -> the : 1
+and do the -> book : 1
+do the book -> i : 1
+the book i -> have : 1
+book i have -> done : 1
+i have done -> things : 1
+have done things -> to : 1
+done things to -> do : 1
+with ramen of -> conversion : 1
+ramen of conversion -> your : 1
+of conversion your -> freezer : 1
+conversion your freezer -> is : 1
+your freezer is -> your : 1
+freezer is your -> when : 1
+is your when -> buying : 1
+your when buying -> divide : 1
+when buying divide -> into : 1
+buying divide into -> individual : 1
+divide into individual -> portions : 1
+into individual portions -> and : 1
+individual portions and -> freeze : 1
+portions and freeze -> in : 1
+and freeze in -> plastic : 1
+freeze in plastic -> buy : 1
+in plastic buy -> large : 1
+plastic buy large -> bags : 1
+buy large bags -> of : 1
+large bags of -> frozen : 1
+bags of frozen -> vegetables : 1
+of frozen vegetables -> and : 1
+frozen vegetables and -> use : 1
+vegetables and use -> portions : 1
+and use portions -> as : 1
+use portions as -> freeze : 1
+portions as freeze -> all : 1
+as freeze all -> will : 1
+freeze all will -> come : 1
+all will come -> when : 1
+will come when -> your : 1
+come when your -> pocket : 1
+when your pocket -> is : 1
+your pocket is -> empty : 1
+pocket is empty -> or : 1
+is empty or -> restaurants : 1
+empty or restaurants -> are : 1
+or restaurants are -> when : 1
+restaurants are when -> using : 1
+are when using -> and : 1
+when using and -> frozen : 1
+using and frozen -> are : 1
+and frozen are -> and : 1
+frozen are and -> canned : 1
+are and canned -> food : 1
+and canned food -> spoil : 1
+canned food spoil -> until : 1
+food spoil until -> after : 1
+spoil until after -> has : 1
+until after has -> been : 1
+after has been -> macaroni : 1
+has been macaroni -> can : 1
+been macaroni can -> be : 1
+macaroni can be -> used : 1
+can be used -> in : 2
+be used in -> place : 2
+used in place -> of : 2
+in place of -> ramen : 1
+in place of -> real : 1
+place of ramen -> save : 1
+of ramen save -> all : 1
+ramen save all -> extra : 1
+save all extra -> seasoning : 1
+all extra seasoning -> packets : 1
+extra seasoning packets -> for : 1
+seasoning packets for -> future : 1
+packets for future -> sprinkle : 1
+for future sprinkle -> a : 1
+future sprinkle a -> seasoning : 1
+sprinkle a seasoning -> packet : 1
+a seasoning packet -> over : 1
+seasoning packet over -> hamburger : 1
+packet over hamburger -> or : 1
+over hamburger or -> chicken : 1
+hamburger or chicken -> and : 1
+or chicken and -> brown : 1
+chicken and brown -> together : 1
+chicken and brown -> until : 1
+and brown together -> for : 1
+brown together for -> a : 1
+together for a -> great : 1
+for a great -> macaroni : 1
+a great macaroni -> cheese : 1
+great macaroni cheese -> packets : 1
+macaroni cheese packets -> can : 1
+cheese packets can -> be : 1
+packets can be -> used : 1
+place of real -> two : 1
+of real two -> tablespoons : 1
+real two tablespoons -> dehydrated : 1
+two tablespoons dehydrated -> minced : 1
+tablespoons dehydrated minced -> or : 1
+dehydrated minced or -> chopped : 1
+minced or chopped -> onion : 1
+or chopped onion -> is : 1
+chopped onion is -> equal : 1
+onion is equal -> to : 1
+is equal to -> cup : 1
+equal to cup -> fresh : 1
+to cup fresh -> minced : 1
+cup fresh minced -> salt : 1
+fresh minced salt -> lovers : 1
+minced salt lovers -> before : 1
+salt lovers before -> adding : 1
+lovers before adding -> extra : 1
+before adding extra -> taste : 1
+adding extra taste -> your : 1
+extra taste your -> seasoning : 1
+taste your seasoning -> packets : 1
+your seasoning packets -> are : 1
+seasoning packets are -> always : 1
+packets are always -> to : 1
+are always to -> cook : 1
+always to cook -> follow : 1
+to cook follow -> the : 1
+cook follow the -> directions : 1
+follow the directions -> on : 1
+the directions on -> the : 1
+directions on the -> package : 1
+on the package -> unless : 1
+the package unless -> recipe : 1
+package unless recipe -> says : 1
+unless recipe says -> add : 1
+recipe says add -> more : 1
+says add more -> or : 1
+add more or -> less : 1
+more or less -> of : 1
+or less of -> any : 1
+less of any -> ingredient : 1
+of any ingredient -> to : 1
+any ingredient to -> your : 1
+ingredient to your -> own : 1
+to your own -> be : 1
+your own be -> creative : 1
+own be creative -> and : 1
+be creative and -> enjoy : 1
+creative and enjoy -> or : 1
+and enjoy or -> light : 1
+enjoy or light -> sour : 1
+or light sour -> and : 1
+light sour and -> cream : 1
+sour and cream -> cheese : 1
+and cream cheese -> can : 1
+cream cheese can -> be : 1
+cheese can be -> substituted : 1
+can be substituted -> if : 1
+be substituted if -> you : 1
+substituted if you -> noodle : 1
+if you noodle -> package : 1
+you noodle package -> ramen : 1
+noodle package ramen -> any : 1
+package ramen any -> can : 3
+package ramen any -> chips : 1
+package ramen any -> broken : 2
+package ramen any -> cup : 4
+package ramen any -> flavor : 4
+package ramen any -> with : 5
+package ramen any -> head : 1
+package ramen any -> a : 1
+ramen any can -> tomato : 2
+ramen any can -> cream : 1
+any can tomato -> noodles : 1
+any can tomato -> ounces : 1
+can tomato noodles -> in : 1
+tomato noodles in -> water : 1
+noodles in water -> according : 77
+in water according -> to : 77
+water according to -> package : 77
+according to package -> do : 3
+according to package -> directions : 66
+according to package -> and : 3
+according to package -> drain : 4
+according to package -> top : 1
+according to package -> rinse : 1
+to package do -> not : 3
+package do not -> add : 3
+do not add -> simmer : 1
+do not add -> and : 2
+not add simmer -> stirring : 1
+add simmer stirring -> makes : 1
+simmer stirring makes -> package : 1
+stirring makes package -> ramen : 1
+makes package ramen -> any : 5
+can tomato ounces -> spicy : 1
+tomato ounces spicy -> smoked : 1
+ounces spicy smoked -> thinly : 1
+spicy smoked thinly -> cup : 1
+smoked thinly cup -> cooked : 1
+thinly cup cooked -> sliced : 1
+cup cooked sliced -> cup : 2
+cooked sliced cup -> cooked : 1
+cooked sliced cup -> cup : 1
+sliced cup cooked -> sliced : 1
+sliced cup cup -> green : 1
+cup cup green -> cup : 2
+cup green cup -> canned : 3
+cup green cup -> chopped : 1
+green cup canned -> kidney : 3
+cup canned kidney -> rinsed : 3
+canned kidney rinsed -> and : 3
+kidney rinsed and -> and : 1
+kidney rinsed and -> cup : 2
+kidney rinsed and -> teaspoon : 1
+rinsed and and -> to : 1
+and and to -> noodles : 2
+and to noodles -> in : 8
+to noodles in -> water : 15
+not add and -> simmer : 1
+not add and -> half : 1
+add and simmer -> or : 1
+add and simmer -> add : 1
+add and simmer -> over : 1
+add and simmer -> sprinkle : 2
+and simmer or -> until : 1
+simmer or until -> vegetables : 2
+simmer or until -> heated : 1
+or until vegetables -> are : 3
+until vegetables are -> add : 4
+until vegetables are -> a : 1
+until vegetables are -> noodles : 3
+vegetables are add -> more : 1
+vegetables are add -> noodles : 2
+vegetables are add -> and : 1
+are add more -> water : 1
+add more water -> by : 1
+more water by -> tablespoon : 1
+water by tablespoon -> if : 1
+by tablespoon if -> soup : 1
+tablespoon if soup -> is : 1
+if soup is -> too : 1
+soup is too -> season : 1
+is too season -> with : 1
+too season with -> salt : 1
+season with salt -> and : 10
+with salt and -> makes : 9
+with salt and -> simmer : 1
+salt and makes -> drop : 1
+salt and makes -> chicken : 1
+salt and makes -> packages : 3
+salt and makes -> package : 1
+salt and makes -> ranch : 1
+salt and makes -> trail : 1
+salt and makes -> cheese : 1
+and makes drop -> cups : 1
+makes drop cups -> cup : 1
+drop cups cup -> diced : 1
+cups cup diced -> cup : 3
+cup diced cup -> diced : 3
+cup diced cup -> sliced : 3
+diced cup diced -> cup : 1
+diced cup diced -> green : 2
+cup diced green -> bell : 3
+cup diced green -> cup : 1
+diced green bell -> package : 1
+diced green bell -> cup : 2
+green bell package -> chicken : 1
+bell package chicken -> ramen : 1
+package chicken ramen -> with : 9
+chicken ramen with -> seasoning : 21
+ramen with seasoning -> a : 20
+ramen with seasoning -> can : 4
+ramen with seasoning -> cups : 3
+ramen with seasoning -> teaspoons : 2
+ramen with seasoning -> pound : 3
+ramen with seasoning -> cup : 7
+ramen with seasoning -> pounds : 1
+ramen with seasoning -> cans : 2
+ramen with seasoning -> envelope : 1
+ramen with seasoning -> tablespoons : 3
+ramen with seasoning -> to : 1
+ramen with seasoning -> tablespoon : 1
+ramen with seasoning -> and : 1
+ramen with seasoning -> lean : 1
+ramen with seasoning -> egg : 1
+with seasoning a -> bring : 1
+with seasoning a -> heat : 3
+with seasoning a -> frying : 17
+with seasoning a -> small : 1
+seasoning a bring -> water : 1
+a bring water -> to : 1
+bring water to -> boiling : 1
+water to boiling -> and : 1
+to boiling and -> add : 1
+to boiling and -> stir : 2
+to boiling and -> boil : 1
+boiling and add -> seasoning : 1
+and add seasoning -> and : 1
+and add seasoning -> serve : 4
+and add seasoning -> top : 2
+and add seasoning -> combine : 1
+and add seasoning -> spoon : 1
+and add seasoning -> a : 4
+and add seasoning -> heat : 1
+add seasoning and -> stir : 1
+add seasoning and -> add : 1
+add seasoning and -> noodles : 1
+seasoning and stir -> constantly : 1
+and stir constantly -> until : 1
+stir constantly until -> eggs : 1
+stir constantly until -> cheese : 1
+constantly until eggs -> look : 1
+until eggs look -> simmer : 1
+eggs look simmer -> add : 1
+look simmer add -> noodles : 1
+simmer add noodles -> and : 3
+add noodles and -> cook : 3
+add noodles and -> simmer : 2
+add noodles and -> tomatoes : 1
+add noodles and -> lightly : 1
+noodles and cook -> minutes : 3
+noodles and cook -> until : 1
+noodles and cook -> over : 1
+and cook minutes -> or : 2
+and cook minutes -> makes : 1
+and cook minutes -> over : 1
+cook minutes or -> until : 2
+minutes or until -> noodles : 3
+or until noodles -> are : 8
+or until noodles -> in : 1
+until noodles are -> makes : 5
+until noodles are -> stir : 1
+until noodles are -> sprinkle : 1
+until noodles are -> stirring : 1
+noodles are makes -> cups : 1
+noodles are makes -> consomme : 1
+noodles are makes -> mushroom : 1
+noodles are makes -> garden : 1
+noodles are makes -> package : 1
+are makes cups -> cup : 1
+makes cups cup -> diced : 1
+diced cup sliced -> cup : 3
+cup sliced cup -> diced : 3
+cup sliced cup -> sliced : 1
+cup sliced cup -> sesame : 1
+cup sliced cup -> chopped : 2
+sliced cup diced -> sprig : 2
+sliced cup diced -> can : 1
+cup diced sprig -> small : 2
+diced sprig small -> bay : 2
+sprig small bay -> teaspoon : 2
+small bay teaspoon -> thyme : 2
+bay teaspoon thyme -> leaves : 1
+bay teaspoon thyme -> package : 1
+teaspoon thyme leaves -> package : 1
+thyme leaves package -> beef : 1
+leaves package beef -> ramen : 1
+package beef ramen -> with : 7
+package beef ramen -> cup : 1
+package beef ramen -> broken : 1
+beef ramen with -> seasoning : 19
+seasoning a heat -> all : 2
+seasoning a heat -> soup : 1
+seasoning a heat -> cheese : 1
+a heat all -> ingredients : 2
+heat all ingredients -> except : 2
+all ingredients except -> noodles : 2
+ingredients except noodles -> and : 3
+except noodles and -> seasoning : 2
+except noodles and -> cook : 1
+noodles and seasoning -> packet : 2
+and seasoning packet -> to : 2
+seasoning packet to -> add : 2
+packet to add -> seasoning : 2
+to add seasoning -> reduce : 2
+add seasoning reduce -> heat : 2
+seasoning reduce heat -> and : 2
+reduce heat and -> simmer : 3
+heat and simmer -> strain : 2
+heat and simmer -> noodles : 1
+and simmer strain -> liquid : 2
+simmer strain liquid -> into : 2
+strain liquid into -> a : 2
+liquid into a -> separate : 2
+into a separate -> add : 2
+a separate add -> noodles : 2
+separate add noodles -> to : 2
+add noodles to -> liquid : 2
+add noodles to -> beef : 1
+add noodles to -> chicken : 1
+noodles to liquid -> and : 2
+to liquid and -> cook : 2
+liquid and cook -> or : 2
+and cook or -> until : 2
+cook or until -> noodles : 2
+are makes consomme -> and : 1
+makes consomme and -> cups : 1
+consomme and cups -> cup : 1
+and cups cup -> diced : 1
+teaspoon thyme package -> chicken : 1
+thyme package chicken -> ramen : 1
+are makes mushroom -> package : 1
+makes mushroom package -> ramen : 1
+mushroom package ramen -> any : 1
+any can cream -> of : 1
+can cream of -> mushroom : 3
+can cream of -> chicken : 4
+can cream of -> broccoli : 1
+can cream of -> celery : 3
+cream of mushroom -> cup : 4
+cream of mushroom -> can : 1
+of mushroom cup -> sliced : 1
+of mushroom cup -> packages : 1
+of mushroom cup -> cans : 1
+of mushroom cup -> milk : 1
+mushroom cup sliced -> fresh : 1
+cup sliced fresh -> and : 1
+cup sliced fresh -> noodles : 1
+sliced fresh and -> to : 1
+fresh and to -> noodles : 1
+to package directions -> and : 66
+package directions and -> soup : 2
+package directions and -> rinse : 2
+package directions and -> top : 5
+package directions and -> add : 32
+package directions and -> a : 11
+package directions and -> mix : 1
+package directions and -> stir : 3
+package directions and -> serve : 4
+package directions and -> spread : 1
+package directions and -> butter : 1
+package directions and -> if : 1
+package directions and -> season : 3
+directions and soup -> as : 2
+and soup as -> directed : 2
+soup as directed -> on : 2
+as directed on -> mix : 1
+as directed on -> add : 1
+directed on mix -> noodles : 1
+on mix noodles -> and : 1
+mix noodles and -> soup : 1
+noodles and soup -> add : 1
+and soup add -> mushrooms : 1
+soup add mushrooms -> and : 1
+add mushrooms and -> simmer : 1
+add mushrooms and -> saute : 1
+mushrooms and simmer -> season : 1
+and simmer season -> with : 1
+simmer season with -> salt : 1
+and makes chicken -> noodle : 1
+and makes chicken -> and : 1
+and makes chicken -> package : 1
+and makes chicken -> cup : 1
+makes chicken noodle -> package : 1
+chicken noodle package -> chicken : 1
+noodle package chicken -> ramen : 1
+with seasoning can -> cream : 4
+with seasoning can -> sliced : 1
+seasoning can cream -> of : 4
+cream of chicken -> cup : 4
+of chicken cup -> diced : 2
+of chicken cup -> teaspoon : 1
+of chicken cup -> package : 1
+chicken cup diced -> cup : 1
+chicken cup diced -> small : 1
+sliced cup sliced -> noodles : 1
+sliced cup sliced -> green : 1
+sliced cup sliced -> red : 1
+cup sliced noodles -> in : 2
+sliced noodles in -> water : 2
+directed on add -> seasoning : 1
+on add seasoning -> packet : 1
+add seasoning packet -> and : 1
+seasoning packet and -> vegetables : 1
+seasoning packet and -> set : 1
+packet and vegetables -> to : 1
+and vegetables to -> cook : 1
+and vegetables to -> cooked : 1
+vegetables to cook -> over : 1
+to cook over -> medium : 2
+cook over medium -> heat : 7
+over medium heat -> or : 3
+over medium heat -> until : 6
+over medium heat -> break : 1
+over medium heat -> stirring : 1
+over medium heat -> top : 1
+medium heat or -> until : 3
+heat or until -> vegetables : 1
+heat or until -> noodles : 2
+heat or until -> heated : 1
+are add noodles -> and : 2
+noodles and simmer -> minutes : 3
+noodles and simmer -> makes : 1
+and simmer minutes -> makes : 2
+and simmer minutes -> serve : 1
+simmer minutes makes -> beef : 1
+simmer minutes makes -> ramen : 1
+minutes makes beef -> noodle : 1
+makes beef noodle -> pound : 1
+beef noodle pound -> ground : 1
+noodle pound ground -> cup : 1
+pound ground cup -> chopped : 1
+pound ground cup -> sliced : 1
+ground cup chopped -> cup : 1
+cup chopped cup -> chopped : 6
+cup chopped cup -> julienned : 1
+cup chopped cup -> butter : 1
+cup chopped cup -> sliced : 1
+cup chopped cup -> crushed : 1
+cup chopped cup -> snow : 1
+chopped cup chopped -> cup : 3
+chopped cup chopped -> cups : 1
+chopped cup chopped -> can : 1
+chopped cup chopped -> green : 1
+cup chopped cups -> packages : 1
+cup chopped cups -> grated : 2
+chopped cups packages -> beef : 1
+cups packages beef -> ramen : 1
+packages beef ramen -> with : 12
+seasoning a frying -> brown : 12
+seasoning a frying -> mix : 1
+seasoning a frying -> melt : 2
+seasoning a frying -> saute : 5
+seasoning a frying -> pan : 1
+a frying brown -> and : 8
+a frying brown -> beef : 7
+a frying brown -> chicken : 14
+a frying brown -> pork : 2
+frying brown and -> drain : 8
+brown and drain -> add : 5
+brown and drain -> season : 1
+brown and drain -> beef : 2
+and drain add -> and : 1
+and drain add -> seasoning : 1
+and drain add -> tomato : 1
+and drain add -> remaining : 1
+and drain add -> vegetables : 1
+drain add and -> seasoning : 1
+add and seasoning -> bring : 1
+add and seasoning -> stir : 1
+add and seasoning -> simmer : 1
+and seasoning bring -> to : 2
+seasoning bring to -> a : 1
+seasoning bring to -> boil : 1
+bring to a -> boil : 1
+bring to a -> stir : 1
+to a boil -> and : 1
+a boil and -> simmer : 1
+boil and simmer -> add : 1
+boil and simmer -> makes : 1
+and simmer add -> noodles : 1
+and simmer add -> crumbled : 1
+are makes garden -> cup : 1
+makes garden cup -> chopped : 1
+garden cup chopped -> cup : 1
+chopped cup julienned -> cup : 1
+cup julienned cup -> chopped : 1
+julienned cup chopped -> cup : 1
+chopped cup butter -> or : 1
+cup butter or -> teaspoon : 1
+cup butter or -> cans : 2
+cup butter or -> packages : 1
+cup butter or -> cup : 4
+cup butter or -> pound : 1
+butter or teaspoon -> packages : 1
+or teaspoon packages -> beef : 1
+teaspoon packages beef -> ramen : 1
+with seasoning cups -> cup : 1
+with seasoning cups -> sliced : 1
+with seasoning cups -> fresh : 1
+with seasoning cups -> grated : 1
+seasoning cups cup -> green : 1
+cups cup green -> cup : 1
+green cup chopped -> a : 1
+green cup chopped -> green : 1
+cup chopped a -> frying : 1
+chopped a frying -> cook : 1
+a frying cook -> and : 1
+a frying cook -> chicken : 1
+a frying cook -> steak : 1
+a frying cook -> vegetables : 1
+frying cook and -> carrots : 1
+cook and carrots -> in : 1
+and carrots in -> butter : 1
+carrots in butter -> and : 1
+in butter and -> basil : 1
+butter and basil -> over : 1
+and basil over -> medium : 1
+basil over medium -> heat : 1
+medium heat until -> vegetables : 3
+medium heat until -> add : 1
+medium heat until -> broccoli : 2
+heat until vegetables -> are : 3
+vegetables are a -> combine : 1
+are a combine -> cooked : 1
+a combine cooked -> green : 1
+combine cooked green -> and : 1
+cooked green and -> seasoning : 1
+green and seasoning -> bring : 1
+bring to boil -> and : 1
+to boil and -> simmer : 1
+and simmer makes -> vegetable : 1
+and simmer makes -> potato : 1
+and simmer makes -> chili : 1
+and simmer makes -> meat : 1
+and simmer makes -> cilantro : 1
+simmer makes vegetable -> can : 1
+makes vegetable can -> tomato : 1
+vegetable can tomato -> cup : 1
+can tomato cup -> can : 1
+can tomato cup -> oven : 1
+can tomato cup -> thinly : 1
+tomato cup can -> enchilada : 1
+cup can enchilada -> cup : 1
+can enchilada cup -> cup : 1
+enchilada cup cup -> green : 1
+rinsed and cup -> cup : 1
+rinsed and cup -> canned : 1
+rinsed and cup -> italian : 1
+and cup cup -> chopped : 1
+cup cup chopped -> cooked : 1
+cup cup chopped -> package : 1
+cup cup chopped -> cup : 1
+cup cup chopped -> oven : 1
+cup chopped cooked -> package : 1
+chopped cooked package -> ramen : 1
+cooked package ramen -> any : 1
+ramen any chips -> jack : 1
+any chips jack -> tomato : 1
+chips jack tomato -> and : 1
+jack tomato and -> enchilada : 1
+tomato and enchilada -> cook : 1
+and enchilada cook -> over : 1
+enchilada cook over -> medium : 1
+heat until add -> and : 1
+heat until add -> remaining : 2
+until add and -> simmer : 1
+until add and -> salsa : 1
+until add and -> just : 1
+until add and -> chicken : 1
+until add and -> seasoning : 1
+simmer add crumbled -> noodles : 1
+add crumbled noodles -> and : 1
+crumbled noodles and -> simmer : 1
+simmer minutes serve -> topped : 1
+minutes serve topped -> with : 1
+serve topped with -> chips : 1
+topped with chips -> and : 1
+with chips and -> makes : 1
+chips and makes -> pound : 1
+and makes pound -> ground : 1
+and makes pound -> beef : 1
+and makes pound -> tablespoons : 1
+and makes pound -> skinless : 1
+makes pound ground -> browned : 1
+makes pound ground -> package : 1
+pound ground browned -> and : 2
+ground browned and -> medium : 1
+ground browned and -> large : 1
+browned and medium -> tablespoon : 1
+and medium tablespoon -> minced : 1
+medium tablespoon minced -> teaspoon : 1
+tablespoon minced teaspoon -> ground : 1
+minced teaspoon ground -> cups : 1
+teaspoon ground cups -> medium : 1
+ground cups medium -> head : 1
+cups medium head -> bok : 1
+medium head bok -> packages : 1
+head bok packages -> beef : 1
+bok packages beef -> ramen : 1
+with seasoning teaspoons -> canola : 1
+with seasoning teaspoons -> sesame : 1
+seasoning teaspoons canola -> tablespoons : 1
+teaspoons canola tablespoons -> soy : 1
+canola tablespoons soy -> a : 1
+tablespoons soy a -> soup : 1
+soy a soup -> combine : 1
+a soup combine -> cooked : 1
+soup combine cooked -> and : 1
+combine cooked and -> and : 1
+cooked and and -> bring : 1
+cooked and and -> to : 1
+and and bring -> to : 1
+and bring to -> a : 1
+to a stir -> in : 1
+a stir in -> bok : 1
+stir in bok -> simmer : 1
+in bok simmer -> over : 1
+bok simmer over -> medium : 1
+simmer over medium -> heat : 1
+medium heat break -> noodles : 1
+heat break noodles -> in : 1
+break noodles in -> half : 1
+noodles in half -> and : 1
+in half and -> stir : 1
+half and stir -> into : 1
+and stir into -> simmer : 1
+stir into simmer -> minutes : 1
+into simmer minutes -> or : 1
+simmer minutes or -> until : 1
+noodles are stir -> in : 1
+are stir in -> seasoning : 1
+stir in seasoning -> and : 1
+stir in seasoning -> makes : 1
+in seasoning and -> soy : 1
+in seasoning and -> oil : 1
+seasoning and soy -> makes : 1
+and soy makes -> prepare : 1
+soy makes prepare -> bok : 1
+makes prepare bok -> choy : 1
+prepare bok choy -> for : 1
+bok choy for -> rinse : 1
+choy for rinse -> with : 1
+for rinse with -> cold : 1
+rinse with cold -> cut : 1
+rinse with cold -> add : 1
+rinse with cold -> in : 1
+rinse with cold -> combine : 1
+with cold cut -> off : 1
+cold cut off -> the : 1
+cut off the -> very : 1
+off the very -> bottom : 1
+the very bottom -> of : 1
+very bottom of -> the : 1
+bottom of the -> stems : 1
+of the stems -> and : 1
+the stems and -> cut : 1
+stems and cut -> remaining : 1
+and cut remaining -> bok : 1
+cut remaining bok -> choy : 1
+remaining bok choy -> into : 1
+bok choy into -> packages : 1
+choy into packages -> chicken : 1
+into packages chicken -> ramen : 3
+packages chicken ramen -> with : 11
+packages chicken ramen -> can : 1
+packages chicken ramen -> broken : 2
+seasoning teaspoons sesame -> tablespoons : 1
+teaspoons sesame tablespoons -> lemon : 1
+sesame tablespoons lemon -> cup : 1
+tablespoons lemon cup -> vegetable : 1
+tablespoons lemon cup -> butter : 2
+lemon cup vegetable -> teaspoons : 1
+cup vegetable teaspoons -> cup : 1
+vegetable teaspoons cup -> halved : 1
+teaspoons cup halved -> red : 1
+cup halved red -> green : 1
+halved red green -> seedless : 1
+red green seedless -> cup : 1
+green seedless cup -> diced : 1
+seedless cup diced -> red : 1
+cup diced red -> green : 1
+diced red green -> cup : 1
+red green cup -> diced : 1
+green cup diced -> pineapple : 1
+cup diced pineapple -> tablespoons : 1
+diced pineapple tablespoons -> chopped : 1
+pineapple tablespoons chopped -> green : 1
+tablespoons chopped green -> ounces : 1
+chopped green ounces -> smoked : 1
+green ounces smoked -> turkey : 1
+ounces smoked turkey -> cut : 1
+smoked turkey cut -> in : 1
+turkey cut in -> cup : 1
+cut in cup -> walnut : 1
+cut in cup -> pineapple : 1
+in cup walnut -> noodles : 1
+cup walnut noodles -> in : 1
+walnut noodles in -> water : 1
+directions and rinse -> with : 2
+and rinse with -> cold : 2
+with cold add -> sesame : 1
+cold add sesame -> oil : 1
+add sesame oil -> and : 1
+sesame oil and -> combine : 1
+oil and combine -> lemon : 1
+and combine lemon -> vegetable : 1
+combine lemon vegetable -> seasoning : 1
+lemon vegetable seasoning -> and : 1
+vegetable seasoning and -> pour : 1
+seasoning and pour -> over : 1
+and pour over -> noodles : 1
+pour over noodles -> then : 1
+over noodles then -> add : 1
+noodles then add -> remaining : 1
+then add remaining -> toss : 1
+add remaining toss -> to : 1
+remaining toss to -> makes : 1
+toss to makes -> picnic : 1
+toss to makes -> packages : 1
+toss to makes -> package : 1
+to makes picnic -> package : 1
+makes picnic package -> ramen : 1
+picnic package ramen -> any : 1
+ramen any broken -> cup : 1
+ramen any broken -> up : 1
+any broken cup -> alfalfa : 1
+broken cup alfalfa -> cup : 1
+cup alfalfa cup -> noodles : 1
+alfalfa cup noodles -> in : 1
+cup noodles in -> water : 3
+directions and top -> with : 1
+directions and top -> warm : 4
+and top with -> alfalfa : 1
+and top with -> sour : 1
+and top with -> makes : 1
+top with alfalfa -> sprouts : 1
+with alfalfa sprouts -> and : 1
+alfalfa sprouts and -> mix : 1
+sprouts and mix -> with : 1
+and mix with -> desired : 1
+mix with desired -> amount : 1
+with desired amount -> of : 1
+desired amount of -> makes : 1
+desired amount of -> dressing : 1
+amount of makes -> package : 1
+of makes package -> ramen : 1
+ramen any cup -> chopped : 1
+ramen any cup -> slivered : 1
+ramen any cup -> butter : 1
+ramen any cup -> sour : 1
+ramen any cup -> cubed : 1
+ramen any cup -> crushed : 1
+ramen any cup -> tablespoon : 1
+any cup chopped -> cup : 1
+chopped cup sliced -> teaspoon : 1
+cup sliced teaspoon -> dijon : 1
+sliced teaspoon dijon -> teaspoon : 1
+teaspoon dijon teaspoon -> teaspoon : 1
+dijon teaspoon teaspoon -> teaspoon : 1
+teaspoon teaspoon teaspoon -> garlic : 1
+teaspoon teaspoon garlic -> tablespoons : 1
+teaspoon teaspoon garlic -> cup : 1
+teaspoon garlic tablespoons -> noodles : 2
+garlic tablespoons noodles -> in : 2
+tablespoons noodles in -> water : 2
+directions and add -> vegetables : 1
+directions and add -> beans : 1
+directions and add -> and : 4
+directions and add -> beef : 1
+directions and add -> seasoning : 13
+directions and add -> tomatoes : 1
+directions and add -> noodles : 2
+directions and add -> cheese : 2
+directions and add -> just : 1
+directions and add -> half : 3
+directions and add -> parmesan : 1
+directions and add -> ranch : 1
+directions and add -> butter : 1
+and add vegetables -> to : 1
+add vegetables to -> mix : 1
+add vegetables to -> and : 1
+vegetables to mix -> together : 1
+to mix together -> and : 1
+mix together and -> add : 1
+together and add -> to : 1
+together and add -> and : 1
+and add to -> noodle : 1
+and add to -> warm : 2
+add to noodle -> mixture : 1
+to noodle mixture -> and : 1
+noodle mixture and -> toss : 1
+mixture and toss -> to : 1
+and toss to -> makes : 2
+and toss to -> just : 1
+and toss to -> sprinkle : 1
+to makes packages -> beef : 1
+makes packages beef -> ramen : 1
+with seasoning pound -> ground : 3
+seasoning pound ground -> browned : 1
+seasoning pound ground -> cup : 1
+seasoning pound ground -> noodles : 1
+browned and large -> cup : 1
+and large cup -> chopped : 1
+large cup chopped -> cups : 1
+chopped cups grated -> cheddar : 2
+cups grated cheddar -> island : 1
+cups grated cheddar -> cups : 1
+cups grated cheddar -> to : 1
+cups grated cheddar -> noodles : 2
+cups grated cheddar -> can : 1
+grated cheddar island -> dressing : 1
+cheddar island dressing -> or : 1
+island dressing or -> noodles : 1
+dressing or noodles -> in : 1
+or noodles in -> water : 1
+directions and a -> stir : 1
+directions and a -> frying : 4
+directions and a -> heat : 3
+directions and a -> mix : 1
+directions and a -> small : 1
+directions and a -> combine : 1
+and a stir -> seasoning : 1
+a stir seasoning -> packet : 1
+stir seasoning packet -> into : 1
+seasoning packet into -> cooked : 1
+packet into cooked -> add : 1
+into cooked add -> and : 1
+cooked add and -> spoon : 1
+add and spoon -> mixture : 1
+and spoon mixture -> over : 2
+spoon mixture over -> warm : 1
+spoon mixture over -> and : 1
+mixture over warm -> noodles : 2
+mixture over warm -> makes : 4
+mixture over warm -> season : 1
+over warm noodles -> and : 4
+warm noodles and -> drizzle : 1
+warm noodles and -> top : 1
+warm noodles and -> sprinkle : 1
+warm noodles and -> then : 1
+warm noodles and -> saute : 1
+warm noodles and -> stir : 2
+warm noodles and -> makes : 1
+noodles and drizzle -> with : 1
+and drizzle with -> dressing : 1
+drizzle with dressing -> or : 1
+with dressing or -> makes : 1
+dressing or makes -> package : 1
+or makes package -> ramen : 1
+ramen any flavor -> cup : 6
+ramen any flavor -> tablespoons : 1
+ramen any flavor -> cups : 2
+ramen any flavor -> pound : 1
+ramen any flavor -> cans : 1
+ramen any flavor -> can : 1
+ramen any flavor -> to : 1
+any flavor cup -> green : 1
+any flavor cup -> cubed : 1
+any flavor cup -> slivered : 1
+any flavor cup -> butter : 1
+any flavor cup -> grated : 1
+any flavor cup -> ranch : 1
+flavor cup green -> cup : 1
+and cup canned -> lima : 1
+cup canned lima -> rinsed : 1
+canned lima rinsed -> and : 1
+lima rinsed and -> cup : 1
+and cup italian -> and : 1
+cup italian and -> to : 1
+italian and to -> noodles : 1
+and add beans -> and : 1
+add beans and -> stir : 1
+beans and stir -> in : 1
+and stir in -> season : 1
+and stir in -> then : 1
+and stir in -> seasoning : 1
+and stir in -> sour : 1
+stir in season -> with : 1
+in season with -> salt : 1
+and makes packages -> ramen : 5
+makes packages ramen -> any : 12
+packages ramen any -> flavor : 8
+packages ramen any -> with : 6
+packages ramen any -> cup : 3
+packages ramen any -> skinless : 1
+packages ramen any -> to : 1
+packages ramen any -> cups : 2
+packages ramen any -> tablespoons : 1
+packages ramen any -> small : 1
+flavor cup cubed -> cup : 1
+cup cubed cup -> sliced : 1
+cubed cup sliced -> black : 1
+cup sliced black -> cup : 2
+sliced black cup -> sliced : 1
+sliced black cup -> sour : 1
+black cup sliced -> noodles : 1
+and add and -> drizzle : 1
+and add and -> sesame : 1
+and add and -> half : 1
+and add and -> soup : 1
+and add and -> simmer : 3
+and add and -> seasoning : 1
+add and drizzle -> desired : 1
+and drizzle desired -> amount : 1
+drizzle desired amount -> of : 1
+amount of dressing -> over : 1
+of dressing over -> top : 1
+dressing over top -> and : 2
+over top and -> toss : 2
+over top and -> makes : 2
+over top and -> bake : 3
+over top and -> when : 1
+over top and -> stir : 2
+top and toss -> to : 2
+to makes package -> ramen : 1
+ramen any with -> seasoning : 11
+any with seasoning -> packet : 1
+any with seasoning -> packets : 3
+any with seasoning -> tablespoons : 1
+any with seasoning -> cans : 1
+any with seasoning -> a : 1
+any with seasoning -> cup : 3
+any with seasoning -> cups : 1
+with seasoning packet -> cup : 1
+seasoning packet cup -> tablespoon : 1
+packet cup tablespoon -> teaspoons : 1
+cup tablespoon teaspoons -> celery : 1
+tablespoon teaspoons celery -> cup : 1
+teaspoons celery cup -> cubed : 1
+celery cup cubed -> cheddar : 1
+cup cubed cheddar -> noodles : 1
+cubed cheddar noodles -> in : 1
+cheddar noodles in -> water : 5
+directions and mix -> and : 1
+and mix and -> honey : 1
+mix and honey -> with : 1
+and honey with -> half : 1
+honey with half -> of : 1
+with half of -> the : 3
+with half of -> seasoning : 2
+half of the -> seasoning : 11
+half of the -> noodle : 1
+half of the -> butter : 1
+of the seasoning -> add : 3
+of the seasoning -> fold : 1
+of the seasoning -> noodles : 1
+of the seasoning -> mix : 1
+of the seasoning -> over : 1
+of the seasoning -> stir : 1
+of the seasoning -> cook : 1
+of the seasoning -> a : 2
+of the seasoning -> packet : 1
+the seasoning add -> and : 2
+the seasoning add -> chicken : 1
+seasoning add and -> toss : 1
+seasoning add and -> cook : 1
+add and toss -> gently : 1
+and toss gently -> to : 1
+toss gently to -> makes : 1
+gently to makes -> chicken : 1
+to makes chicken -> package : 1
+makes chicken package -> ramen : 1
+makes chicken package -> chicken : 1
+chicken package ramen -> any : 1
+flavor cup slivered -> teaspoon : 1
+cup slivered teaspoon -> cup : 1
+slivered teaspoon cup -> teaspoons : 1
+teaspoon cup teaspoons -> seasoned : 1
+cup teaspoons seasoned -> teaspoon : 1
+teaspoons seasoned teaspoon -> tablespoons : 1
+seasoned teaspoon tablespoons -> cups : 1
+teaspoon tablespoons cups -> shredded : 1
+tablespoons cups shredded -> cooked : 1
+cups shredded cooked -> chicken : 1
+shredded cooked chicken -> to : 1
+cooked chicken to -> green : 1
+chicken to green -> cup : 1
+to green cup -> sliced : 1
+green cup sliced -> cup : 1
+green cup sliced -> celery : 1
+green cup sliced -> black : 1
+sliced cup sesame -> head : 1
+cup sesame head -> torn : 1
+sesame head torn -> or : 1
+head torn or -> noodles : 1
+torn or noodles -> for : 1
+or noodles for -> minute : 1
+noodles for minute -> and : 1
+for minute and -> roast : 1
+minute and roast -> almonds : 1
+and roast almonds -> in : 1
+roast almonds in -> oven : 1
+almonds in oven -> until : 1
+in oven until -> lightly : 1
+oven until lightly -> a : 1
+until lightly a -> mix : 1
+lightly a mix -> and : 1
+a mix and -> add : 2
+a mix and -> nutmeg : 1
+a mix and -> seasoning : 1
+mix and add -> and : 1
+mix and add -> dressing : 1
+add and sesame -> add : 1
+and sesame add -> lettuce : 1
+sesame add lettuce -> just : 1
+add lettuce just -> before : 1
+lettuce just before -> serving : 1
+just before serving -> and : 1
+before serving and -> makes : 1
+serving and makes -> ramen : 1
+and makes ramen -> teaspoon : 1
+makes ramen teaspoon -> salt : 1
+ramen teaspoon salt -> of : 1
+teaspoon salt of -> teaspoon : 1
+salt of teaspoon -> vegetable : 1
+of teaspoon vegetable -> tablespoon : 1
+teaspoon vegetable tablespoon -> chopped : 1
+vegetable tablespoon chopped -> tablespoons : 1
+tablespoon chopped tablespoons -> tablespoons : 1
+chopped tablespoons tablespoons -> of : 1
+tablespoons tablespoons of -> package : 1
+tablespoons of package -> ramen : 1
+of package ramen -> any : 1
+any cup slivered -> tablespoons : 1
+cup slivered tablespoons -> cup : 1
+slivered tablespoons cup -> diced : 1
+tablespoons cup diced -> fully : 1
+cup diced fully -> cooked : 1
+diced fully cooked -> small : 1
+fully cooked small -> can : 1
+cooked small can -> mandarin : 1
+small can mandarin -> a : 1
+can mandarin a -> small : 1
+mandarin a small -> combine : 1
+a small combine -> dressing : 1
+small combine dressing -> ingredients : 1
+combine dressing ingredients -> and : 1
+dressing ingredients and -> set : 1
+ingredients and set -> noodles : 1
+and set noodles -> in : 1
+set noodles in -> water : 1
+to package and -> then : 2
+to package and -> a : 1
+package and then -> drain : 2
+and then drain -> and : 2
+then drain and -> rinse : 2
+drain and rinse -> noodles : 2
+and rinse noodles -> with : 2
+rinse noodles with -> cold : 2
+noodles with cold -> a : 2
+with cold a -> frying : 1
+with cold a -> large : 1
+cold a frying -> lightly : 1
+a frying lightly -> brown : 1
+frying lightly brown -> almonds : 1
+lightly brown almonds -> and : 1
+brown almonds and -> sugar : 1
+almonds and sugar -> over : 1
+and sugar over -> medium : 1
+sugar over medium -> stirring : 1
+over medium stirring -> constantly : 1
+medium stirring constantly -> so : 1
+stirring constantly so -> almonds : 1
+constantly so almonds -> are : 1
+so almonds are -> coated : 1
+almonds are coated -> in : 1
+are coated in -> a : 1
+coated in a -> mix : 1
+in a mix -> and : 1
+and add dressing -> and : 1
+add dressing and -> toss : 1
+dressing and toss -> to : 1
+toss to just -> before : 1
+to just before -> add : 1
+just before add -> almonds : 1
+before add almonds -> and : 1
+add almonds and -> toss : 1
+almonds and toss -> makes : 1
+and toss makes -> chestnut : 1
+toss makes chestnut -> ramen : 1
+makes chestnut ramen -> packages : 1
+chestnut ramen packages -> chicken : 1
+ramen packages chicken -> ramen : 1
+with seasoning cup -> diced : 1
+with seasoning cup -> grated : 2
+with seasoning cup -> tablespoons : 1
+with seasoning cup -> cubed : 2
+with seasoning cup -> frozen : 3
+with seasoning cup -> sliced : 1
+with seasoning cup -> butter : 1
+seasoning cup diced -> can : 1
+cup diced can -> sliced : 1
+cup diced can -> cup : 1
+diced can sliced -> water : 1
+can sliced water -> cup : 1
+sliced water cup -> chopped : 1
+water cup chopped -> red : 1
+cup chopped red -> cup : 1
+cup chopped red -> bell : 2
+chopped red cup -> diced : 1
+red cup diced -> green : 1
+green bell cup -> cup : 1
+green bell cup -> chopped : 2
+green bell cup -> noodles : 1
+green bell cup -> grated : 1
+bell cup cup -> each : 1
+cup cup each -> package : 1
+cup each package -> of : 1
+each package of -> noodles : 1
+package of noodles -> into : 1
+of noodles into -> cook : 1
+noodles into cook -> noodles : 1
+into cook noodles -> in : 1
+cook noodles in -> water : 2
+cold a large -> stir : 1
+a large stir -> water : 1
+large stir water -> and : 1
+stir water and -> peas : 1
+water and peas -> combine : 1
+and peas combine -> mayonnaise : 1
+peas combine mayonnaise -> and : 1
+combine mayonnaise and -> of : 1
+mayonnaise and of -> the : 1
+and of the -> seasoning : 1
+the seasoning fold -> mayonnaise : 1
+seasoning fold mayonnaise -> mixture : 1
+fold mayonnaise mixture -> into : 1
+mayonnaise mixture into -> cover : 1
+mixture into cover -> and : 1
+into cover and -> refrigerate : 1
+cover and refrigerate -> at : 1
+and refrigerate at -> least : 1
+refrigerate at least -> hour : 1
+at least hour -> before : 1
+least hour before -> makes : 1
+hour before makes -> cup : 1
+before makes cup -> canola : 1
+makes cup canola -> or : 1
+cup canola or -> olive : 1
+canola or olive -> cup : 1
+or olive cup -> cup : 1
+olive cup cup -> cider : 1
+cup cup cider -> tablespoon : 1
+cup cider tablespoon -> soy : 1
+cider tablespoon soy -> cup : 1
+tablespoon soy cup -> cup : 1
+soy cup cup -> chopped : 1
+cup chopped package -> ramen : 1
+cup chopped package -> chicken : 1
+chopped package ramen -> any : 1
+ramen any head -> romaine : 1
+any head romaine -> cups : 1
+head romaine cups -> chopped : 1
+romaine cups chopped -> fresh : 1
+cups chopped fresh -> cup : 1
+chopped fresh cup -> chopped : 1
+fresh cup chopped -> green : 1
+cup chopped green -> and : 1
+cup chopped green -> bell : 7
+chopped green and -> soy : 1
+green and soy -> sauce : 1
+and soy sauce -> together : 1
+soy sauce together -> and : 1
+sauce together and -> refrigerate : 1
+together and refrigerate -> a : 1
+and refrigerate a -> melt : 1
+refrigerate a melt -> butter : 1
+a melt butter -> over : 2
+melt butter over -> medium : 1
+melt butter over -> low : 2
+butter over medium -> stir : 1
+over medium stir -> walnuts : 1
+medium stir walnuts -> and : 1
+stir walnuts and -> noodles : 1
+walnuts and noodles -> into : 1
+and noodles into -> stir : 1
+noodles into stir -> until : 1
+into stir until -> lettuce : 1
+stir until lettuce -> into : 1
+until lettuce into -> pieces : 1
+lettuce into pieces -> and : 1
+into pieces and -> place : 1
+pieces and place -> in : 1
+and place in -> a : 1
+place in a -> large : 1
+in a large -> add : 1
+a large add -> broccoli : 1
+large add broccoli -> and : 1
+add broccoli and -> pour : 1
+add broccoli and -> soup : 1
+broccoli and pour -> dressing : 1
+and pour dressing -> over : 1
+pour dressing over -> top : 1
+toss to sprinkle -> walnuts : 1
+to sprinkle walnuts -> and : 1
+sprinkle walnuts and -> ramen : 1
+walnuts and ramen -> mixture : 1
+and ramen mixture -> over : 1
+ramen mixture over -> makes : 1
+mixture over makes -> pound : 1
+mixture over makes -> packages : 1
+over makes pound -> beef : 1
+makes pound beef -> cups : 1
+makes pound beef -> tablespoons : 1
+makes pound beef -> package : 1
+pound beef cups -> sour : 1
+beef cups sour -> tablespoon : 1
+cups sour tablespoon -> chopped : 1
+sour tablespoon chopped -> teaspoon : 1
+tablespoon chopped teaspoon -> teaspoon : 1
+tablespoon chopped teaspoon -> tarragon : 1
+chopped teaspoon teaspoon -> garlic : 1
+teaspoon garlic cup -> grated : 1
+garlic cup grated -> parmesan : 1
+cup grated parmesan -> packages : 1
+cup grated parmesan -> cup : 1
+cup grated parmesan -> and : 1
+grated parmesan packages -> ramen : 1
+parmesan packages ramen -> any : 1
+any flavor tablespoons -> butter : 1
+flavor tablespoons butter -> or : 1
+tablespoons butter or -> a : 1
+tablespoons butter or -> tablespoons : 5
+tablespoons butter or -> can : 1
+tablespoons butter or -> cup : 2
+butter or a -> frying : 1
+or a frying -> brown : 1
+frying brown beef -> until : 3
+frying brown beef -> with : 3
+frying brown beef -> in : 1
+brown beef until -> add : 1
+brown beef until -> a : 1
+brown beef until -> noodles : 1
+beef until add -> sour : 1
+until add sour -> and : 1
+add sour and -> cup : 1
+sour and cup -> parmesan : 1
+and cup parmesan -> and : 1
+cup parmesan and -> simmer : 1
+parmesan and simmer -> over : 1
+and simmer over -> low : 4
+simmer over low -> noodles : 3
+simmer over low -> heat : 4
+over low noodles -> in : 3
+low noodles in -> water : 3
+directions and stir -> butter : 1
+directions and stir -> in : 1
+directions and stir -> sauce : 1
+and stir butter -> into : 1
+stir butter into -> warm : 1
+butter into warm -> noodles : 1
+into warm noodles -> until : 1
+warm noodles until -> fold : 1
+noodles until fold -> in : 1
+until fold in -> beef : 1
+fold in beef -> sprinkle : 1
+in beef sprinkle -> with : 1
+beef sprinkle with -> reserved : 1
+sprinkle with reserved -> makes : 1
+with reserved makes -> pound : 1
+reserved makes pound -> ground : 1
+pound ground package -> beef : 2
+ground package beef -> ramen : 2
+seasoning cup grated -> cheddar : 1
+seasoning cup grated -> sharp : 1
+cup grated cheddar -> diced : 1
+cup grated cheddar -> cup : 4
+cup grated cheddar -> oven : 1
+cup grated cheddar -> a : 1
+cup grated cheddar -> noodles : 2
+grated cheddar diced -> a : 1
+cheddar diced a -> frying : 1
+diced a frying -> brown : 1
+and drain season -> to : 1
+drain season to -> taste : 1
+season to taste -> with : 1
+to taste with -> half : 1
+taste with half -> of : 1
+the seasoning noodles -> in : 1
+seasoning noodles in -> water : 2
+and add beef -> and : 1
+add beef and -> cheese : 1
+beef and cheese -> to : 1
+and cheese to -> noodles : 2
+cheese to noodles -> and : 2
+to noodles and -> stir : 1
+to noodles and -> cook : 1
+noodles and stir -> until : 3
+and stir until -> cheese : 3
+and stir until -> makes : 1
+and stir until -> stir : 1
+and stir until -> add : 1
+stir until cheese -> is : 4
+until cheese is -> add : 1
+until cheese is -> pour : 1
+until cheese is -> season : 1
+until cheese is -> garnish : 1
+until cheese is -> noodles : 1
+until cheese is -> makes : 2
+until cheese is -> sprinkle : 1
+cheese is add -> if : 1
+is add if -> makes : 1
+add if makes -> beef : 1
+if makes beef -> and : 1
+makes beef and -> broccoli : 1
+beef and broccoli -> pound : 1
+and broccoli pound -> beef : 2
+broccoli pound beef -> teaspoon : 1
+broccoli pound beef -> steak : 1
+pound beef teaspoon -> garlic : 1
+beef teaspoon garlic -> cut : 1
+teaspoon garlic cut -> in : 1
+garlic cut in -> cups : 1
+cut in cups -> broccoli : 1
+cut in cups -> sliced : 1
+in cups broccoli -> can : 1
+cups broccoli can -> cream : 1
+broccoli can cream -> of : 1
+cream of broccoli -> cup : 1
+of broccoli cup -> tablespoon : 1
+broccoli cup tablespoon -> soy : 1
+cup tablespoon soy -> packages : 1
+tablespoon soy packages -> beef : 1
+soy packages beef -> ramen : 1
+brown beef with -> garlic : 1
+brown beef with -> and : 1
+brown beef with -> seasoning : 1
+beef with garlic -> powder : 1
+with garlic powder -> until : 1
+garlic powder until -> stir : 1
+powder until stir -> in : 1
+until stir in -> onion : 1
+until stir in -> bacon : 1
+until stir in -> warm : 1
+stir in onion -> and : 1
+in onion and -> cook : 1
+onion and cook -> over : 1
+onion and cook -> until : 1
+and cook over -> medium : 3
+and cook over -> low : 2
+are add and -> soy : 1
+add and soy -> simmer : 1
+and soy simmer -> noodles : 1
+soy simmer noodles -> in : 1
+simmer noodles in -> water : 3
+add seasoning serve -> beef : 2
+add seasoning serve -> chicken : 1
+add seasoning serve -> pork : 1
+seasoning serve beef -> mixture : 2
+serve beef mixture -> over : 3
+beef mixture over -> warm : 3
+over warm makes -> pound : 1
+over warm makes -> mushroom : 1
+over warm makes -> beef : 1
+over warm makes -> noodles : 1
+over warm makes -> skinless : 1
+over warm makes -> bacon : 1
+over warm makes -> packages : 1
+warm makes pound -> beef : 1
+pound beef tablespoons -> butter : 1
+beef tablespoons butter -> or : 1
+butter or tablespoons -> cup : 4
+butter or tablespoons -> teaspoon : 1
+or tablespoons cup -> water : 4
+tablespoons cup water -> mixed : 5
+cup water mixed -> with : 6
+water mixed with -> seasoning : 6
+water mixed with -> half : 1
+mixed with seasoning -> can : 1
+mixed with seasoning -> noodles : 1
+mixed with seasoning -> teaspoon : 1
+mixed with seasoning -> tablespoons : 2
+mixed with seasoning -> tablespoon : 1
+seasoning can sliced -> teaspoon : 1
+can sliced teaspoon -> garlic : 1
+sliced teaspoon garlic -> package : 1
+teaspoon garlic package -> beef : 1
+garlic package beef -> ramen : 1
+beef until a -> heat : 1
+beef until a -> small : 1
+until a heat -> butter : 1
+a heat butter -> until : 1
+a heat butter -> and : 1
+heat butter until -> golden : 1
+butter until golden -> add : 1
+until golden add -> onion : 1
+golden add onion -> and : 1
+add onion and -> cook : 1
+add onion and -> and : 1
+and cook until -> then : 1
+and cook until -> cover : 1
+and cook until -> noodles : 2
+and cook until -> vegetables : 1
+and cook until -> add : 1
+and cook until -> flipping : 1
+cook until then -> discard : 1
+until then discard -> stir : 1
+then discard stir -> in : 1
+discard stir in -> over : 1
+stir in over -> low : 1
+in over low -> until : 1
+over low until -> it : 1
+low until it -> is : 1
+until it is -> remove : 1
+it is remove -> from : 1
+is remove from -> add : 1
+remove from add -> water : 2
+remove from add -> remaining : 1
+from add water -> mixture : 1
+from add water -> and : 1
+add water mixture -> and : 1
+water mixture and -> heat : 2
+water mixture and -> then : 1
+mixture and heat -> to : 2
+and heat to -> stirring : 4
+and heat to -> reduce : 1
+heat to stirring -> constantly : 1
+heat to stirring -> add : 2
+heat to stirring -> top : 1
+to stirring constantly -> for : 1
+stirring constantly for -> gently : 1
+constantly for gently -> stir : 1
+for gently stir -> in : 1
+gently stir in -> and : 1
+stir in and -> garlic : 1
+stir in and -> soy : 1
+stir in and -> lemon : 1
+in and garlic -> noodles : 1
+and garlic noodles -> in : 1
+garlic noodles in -> water : 1
+and top warm -> noodles : 5
+top warm noodles -> with : 14
+warm noodles with -> beef : 3
+warm noodles with -> chicken : 7
+warm noodles with -> soup : 2
+warm noodles with -> pork : 1
+warm noodles with -> vegetables : 1
+noodles with beef -> and : 3
+with beef and -> makes : 3
+beef and makes -> pound : 2
+beef and makes -> chicken : 1
+pound beef package -> beef : 2
+beef package beef -> ramen : 2
+seasoning cup tablespoons -> cup : 1
+cup tablespoons cup -> sliced : 1
+tablespoons cup sliced -> green : 1
+cup sliced green -> tablespoon : 1
+cup sliced green -> cup : 1
+sliced green tablespoon -> butter : 1
+green tablespoon butter -> or : 1
+tablespoon butter or -> can : 1
+butter or can -> diced : 1
+butter or can -> cream : 1
+or can diced -> beef : 1
+can diced beef -> in : 1
+diced beef in -> seasoning : 1
+beef in seasoning -> and : 1
+seasoning and oil -> for : 1
+and oil for -> cook : 1
+oil for cook -> beef : 1
+for cook beef -> in : 1
+cook beef in -> marinade : 1
+beef in marinade -> until : 1
+in marinade until -> add : 1
+marinade until add -> onion : 1
+until add onion -> and : 1
+onion and and -> saute : 1
+and and saute -> noodles : 1
+and saute noodles -> in : 1
+saute noodles in -> water : 1
+and add tomatoes -> and : 1
+add tomatoes and -> cooked : 1
+tomatoes and cooked -> noodles : 1
+and cooked noodles -> to : 1
+cooked noodles to -> beef : 1
+noodles to beef -> simmer : 1
+noodles to beef -> mixture : 1
+to beef simmer -> or : 1
+beef simmer or -> until : 1
+or until heated -> makes : 1
+or until heated -> spoon : 1
+until heated makes -> beef : 1
+heated makes beef -> packages : 1
+makes beef packages -> beef : 1
+makes beef packages -> ramen : 1
+beef packages beef -> ramen : 1
+ground cup sliced -> cup : 1
+sliced cup chopped -> green : 2
+sliced cup chopped -> cup : 1
+chopped green bell -> cup : 3
+chopped green bell -> cups : 1
+chopped green bell -> to : 1
+chopped green bell -> tablespoons : 1
+chopped green bell -> teaspoon : 1
+bell cup chopped -> cups : 1
+bell cup chopped -> package : 1
+bell cup chopped -> green : 1
+grated cheddar cups -> can : 1
+cheddar cups can -> tomato : 1
+cups can tomato -> cup : 1
+tomato cup oven -> to : 1
+cup oven to -> noodles : 1
+cup oven to -> beef : 1
+oven to noodles -> in : 5
+to package drain -> and : 4
+package drain and -> set : 4
+drain and set -> a : 4
+and set a -> frying : 3
+and set a -> casserole : 1
+and set a -> cook : 1
+and set a -> small : 1
+set a frying -> brown : 2
+set a frying -> cook : 1
+beef with and -> set : 1
+with and set -> a : 1
+set a casserole -> mix : 1
+a casserole mix -> remaining : 1
+casserole mix remaining -> ingredients : 1
+mix remaining ingredients -> with : 1
+remaining ingredients with -> seasoning : 1
+ingredients with seasoning -> add : 1
+with seasoning add -> beef : 1
+seasoning add beef -> mixture : 1
+add beef mixture -> and : 1
+beef mixture and -> bake : 1
+beef mixture and -> simmer : 2
+mixture and bake -> makes : 1
+and bake makes -> and : 1
+and bake makes -> lo : 1
+and bake makes -> skinless : 1
+bake makes and -> broccoli : 1
+makes and broccoli -> pound : 1
+pound beef steak -> tablespoon : 1
+beef steak tablespoon -> cups : 1
+steak tablespoon cups -> broccoli : 1
+tablespoon cups broccoli -> cup : 1
+cups broccoli cup -> green : 1
+broccoli cup green -> cut : 1
+cup green cut -> in : 1
+green cut in -> tablespoons : 1
+cut in tablespoons -> soy : 1
+in tablespoons soy -> teaspoon : 1
+tablespoons soy teaspoon -> crushed : 1
+soy teaspoon crushed -> red : 1
+teaspoon crushed red -> packages : 1
+crushed red packages -> beef : 1
+red packages beef -> ramen : 1
+drain add seasoning -> and : 1
+seasoning and add -> soy : 1
+and add soy -> sauce : 1
+add soy sauce -> and : 1
+soy sauce and -> red : 1
+sauce and red -> simmer : 1
+and red simmer -> minutes : 1
+red simmer minutes -> noodles : 1
+simmer minutes noodles -> in : 1
+minutes noodles in -> water : 1
+directions and serve -> beef : 1
+directions and serve -> beefy : 1
+directions and serve -> chicken : 2
+and serve beef -> mixture : 1
+warm makes mushroom -> packages : 1
+makes mushroom packages -> beef : 1
+mushroom packages beef -> ramen : 1
+with seasoning pounds -> beef : 1
+seasoning pounds beef -> cup : 1
+pounds beef cup -> butter : 1
+beef cup butter -> or : 1
+butter or cans -> ounces : 2
+or cans ounces -> sliced : 1
+or cans ounces -> diced : 1
+cans ounces sliced -> cup : 2
+ounces sliced cup -> cups : 1
+ounces sliced cup -> chopped : 1
+sliced cup cups -> water : 1
+cup cups water -> mixed : 1
+cups water mixed -> with : 1
+with seasoning noodles -> in : 1
+and a frying -> brown : 2
+and a frying -> cook : 1
+and a frying -> melt : 1
+and drain beef -> until : 1
+and drain beef -> and : 1
+drain beef until -> a : 1
+until a small -> melt : 1
+a small melt -> butter : 1
+a small melt -> stir : 1
+small melt butter -> over : 1
+butter over low -> stir : 1
+butter over low -> mix : 1
+butter over low -> heat : 2
+over low stir -> in : 1
+low stir in -> mushrooms : 1
+stir in mushrooms -> and : 1
+in mushrooms and -> brown : 1
+mushrooms and brown -> add : 1
+and brown add -> flour : 1
+and brown add -> crushed : 1
+brown add flour -> and : 1
+add flour and -> until : 1
+flour and until -> deep : 1
+and until deep -> add : 1
+until deep add -> water : 1
+deep add water -> heat : 1
+add water heat -> to : 1
+water heat to -> boiling : 1
+heat to boiling -> and : 3
+boiling and stir -> add : 1
+boiling and stir -> top : 1
+and stir add -> worcestershire : 1
+stir add worcestershire -> sauce : 1
+add worcestershire sauce -> to : 1
+worcestershire sauce to -> top : 1
+sauce to top -> warm : 1
+to top warm -> noodles : 1
+makes pound tablespoons -> cup : 1
+pound tablespoons cup -> water : 1
+mixed with half -> of : 1
+half of seasoning -> tablespoons : 1
+half of seasoning -> or : 2
+of seasoning tablespoons -> cup : 1
+seasoning tablespoons cup -> soy : 1
+tablespoons cup soy -> can : 1
+cup soy can -> sliced : 1
+soy can sliced -> cup : 1
+can sliced cup -> sliced : 1
+sliced green cup -> sliced : 1
+cup sliced celery -> small : 1
+sliced celery small -> can : 1
+celery small can -> bamboo : 1
+small can bamboo -> cups : 1
+can bamboo cups -> fresh : 1
+bamboo cups fresh -> packages : 1
+cups fresh packages -> beef : 1
+fresh packages beef -> ramen : 1
+brown beef in -> oil : 1
+beef in oil -> until : 1
+in oil until -> and : 1
+in oil until -> add : 1
+oil until and -> then : 1
+until and then -> push : 1
+and then push -> to : 1
+then push to -> one : 1
+push to one -> side : 1
+to one side -> of : 1
+one side of -> the : 1
+side of the -> stir : 1
+of the stir -> in : 1
+the stir in -> and : 1
+in and soy -> add : 1
+and soy add -> remaining : 1
+soy add remaining -> ingredients : 1
+add remaining ingredients -> except : 1
+add remaining ingredients -> and : 2
+remaining ingredients except -> noodles : 1
+cook until cover -> and : 1
+until cover and -> simmer : 1
+cover and simmer -> stir : 1
+cover and simmer -> drain : 1
+and simmer stir -> noodles : 1
+simmer stir noodles -> in : 1
+stir noodles in -> water : 1
+warm makes beef -> pound : 1
+makes beef pound -> ground : 1
+beef pound ground -> can : 1
+pound ground can -> tomato : 1
+ground can tomato -> cups : 1
+can tomato cups -> frozen : 1
+tomato cups frozen -> mixed : 1
+cups frozen mixed -> package : 1
+cups frozen mixed -> packages : 1
+frozen mixed package -> beef : 1
+mixed package beef -> ramen : 1
+drain add tomato -> seasoning : 1
+add tomato seasoning -> and : 1
+tomato seasoning and -> vegetables : 1
+seasoning and vegetables -> to : 1
+vegetables to cooked -> simmer : 1
+to cooked simmer -> or : 1
+cooked simmer or -> until : 1
+vegetables are noodles -> in : 4
+are noodles in -> water : 4
+and add noodles -> to : 2
+to beef mixture -> and : 2
+mixture and simmer -> makes : 2
+simmer makes potato -> pound : 1
+makes potato pound -> ground : 1
+potato pound ground -> cups : 1
+pound ground cups -> cubed : 1
+pound ground cups -> frozen : 1
+ground cups cubed -> cups : 1
+cups cubed cups -> diced : 1
+cubed cups diced -> packages : 1
+cups diced packages -> beef : 1
+diced packages beef -> ramen : 1
+beef with seasoning -> packets : 1
+with seasoning packets -> until : 1
+with seasoning packets -> pound : 1
+with seasoning packets -> cup : 1
+with seasoning packets -> bratwursts : 1
+with seasoning packets -> to : 1
+seasoning packets until -> add : 1
+packets until add -> potatoes : 1
+until add potatoes -> and : 1
+add potatoes and -> cook : 1
+potatoes and cook -> until : 1
+cook until noodles -> in : 2
+until noodles in -> water : 8
+stir in then -> add : 1
+in then add -> noodles : 1
+then add noodles -> and : 1
+noodles and tomatoes -> to : 1
+and tomatoes to -> beef : 1
+tomatoes to beef -> mixture : 1
+simmer makes chili -> pound : 1
+makes chili pound -> ground : 1
+chili pound ground -> packages : 1
+pound ground packages -> beef : 1
+ground packages beef -> ramen : 1
+with seasoning cans -> ounces : 2
+with seasoning cans -> cup : 1
+seasoning cans ounces -> sliced : 1
+seasoning cans ounces -> cream : 1
+cup chopped can -> kidney : 1
+chopped can kidney -> rinsed : 1
+can kidney rinsed -> and : 1
+rinsed and teaspoon -> chili : 1
+and teaspoon chili -> cup : 1
+teaspoon chili cup -> a : 1
+chili cup a -> frying : 1
+cup a frying -> brown : 1
+cup a frying -> cook : 1
+drain add remaining -> ingredients : 1
+remaining ingredients and -> seasoning : 1
+remaining ingredients and -> makes : 1
+ingredients and seasoning -> simmer : 1
+and seasoning simmer -> minutes : 1
+and seasoning simmer -> add : 1
+and seasoning simmer -> over : 2
+and seasoning simmer -> noodles : 1
+seasoning simmer minutes -> over : 1
+simmer minutes over -> medium : 1
+minutes over medium -> heat : 1
+minutes over medium -> makes : 2
+are makes package -> beef : 1
+makes package beef -> ramen : 2
+pound ground noodles -> minutes : 1
+ground noodles minutes -> and : 1
+noodles minutes and -> add : 1
+minutes and add -> and : 1
+add and half -> of : 2
+and half of -> the : 3
+the seasoning mix -> well : 1
+seasoning mix well -> and : 1
+mix well and -> form : 1
+well and form -> into : 1
+and form into -> four : 1
+form into four -> grill : 1
+into four grill -> or : 1
+four grill or -> cook : 1
+grill or cook -> minutes : 1
+or cook minutes -> per : 1
+cook minutes per -> or : 1
+minutes per or -> until : 2
+per or until -> serve : 1
+per or until -> and : 1
+or until serve -> with : 1
+until serve with -> the : 1
+serve with the -> usual : 1
+with the usual -> hamburger : 1
+the usual hamburger -> makes : 1
+usual hamburger makes -> beef : 1
+hamburger makes beef -> packages : 1
+beef packages ramen -> any : 1
+seasoning packets pound -> ground : 1
+packets pound ground -> pound : 1
+pound ground pound -> ground : 1
+ground pound ground -> spicy : 1
+pound ground spicy -> cup : 1
+ground spicy cup -> diced : 1
+spicy cup diced -> cup : 1
+bell cup noodles -> in : 1
+drain beef and -> sausage : 1
+beef and sausage -> add : 1
+and sausage add -> and : 1
+sausage add and -> cook : 1
+add and cook -> until : 1
+add and cook -> minutes : 1
+cook until vegetables -> are : 1
+simmer makes meat -> loaf : 1
+makes meat loaf -> cheese : 1
+meat loaf cheese -> pound : 1
+loaf cheese pound -> ground : 1
+cheese pound ground -> package : 1
+beef ramen cup -> grated : 1
+ramen cup grated -> cheddar : 1
+grated cheddar cup -> oven : 1
+grated cheddar cup -> cup : 1
+grated cheddar cup -> grated : 2
+cheddar cup oven -> to : 1
+oven to beef -> into : 1
+to beef into -> a : 1
+beef into a -> sprinkle : 1
+into a sprinkle -> uncooked : 1
+a sprinkle uncooked -> noodles : 1
+sprinkle uncooked noodles -> over : 1
+uncooked noodles over -> top : 1
+noodles over top -> with : 1
+over top with -> a : 1
+top with a -> layer : 1
+with a layer -> of : 1
+a layer of -> roll : 1
+layer of roll -> from : 1
+of roll from -> one : 1
+roll from one -> end : 1
+from one end -> to : 1
+one end to -> the : 1
+end to the -> other : 1
+to the other -> and : 1
+the other and -> pinch : 1
+other and pinch -> ends : 1
+and pinch ends -> to : 1
+pinch ends to -> prevent : 1
+ends to prevent -> cheese : 1
+to prevent cheese -> from : 1
+prevent cheese from -> melting : 1
+cheese from melting -> to : 1
+from melting to -> the : 1
+melting to the -> top : 1
+to the top -> with : 1
+the top with -> bake : 1
+top with bake -> top : 1
+with bake top -> with : 1
+bake top with -> more : 1
+top with more -> salsa : 1
+with more salsa -> before : 1
+more salsa before -> if : 1
+salsa before if -> makes : 1
+before if makes -> vegetable : 1
+if makes vegetable -> cups : 1
+makes vegetable cups -> tablespoons : 1
+vegetable cups tablespoons -> pound : 1
+cups tablespoons pound -> ground : 1
+tablespoons pound ground -> cups : 1
+ground cups frozen -> mixed : 1
+frozen mixed packages -> beef : 1
+mixed packages beef -> ramen : 1
+seasoning a small -> mix : 1
+a small mix -> and : 1
+small mix and -> seasoning : 1
+mix and seasoning -> stir : 1
+mix and seasoning -> transfer : 1
+and seasoning stir -> constantly : 1
+and seasoning stir -> in : 1
+seasoning stir constantly -> over : 1
+stir constantly over -> low : 1
+constantly over low -> heat : 1
+over low heat -> until : 12
+over low heat -> or : 1
+over low heat -> noodles : 2
+over low heat -> stirring : 1
+low heat until -> mixture : 1
+low heat until -> add : 2
+low heat until -> golden : 1
+low heat until -> butter : 2
+low heat until -> heated : 1
+low heat until -> light : 1
+low heat until -> onion : 1
+low heat until -> cheese : 1
+low heat until -> chips : 1
+low heat until -> stir : 1
+heat until mixture -> a : 1
+until mixture a -> frying : 1
+mixture a frying -> brown : 1
+drain add vegetables -> and : 1
+add vegetables and -> cook : 1
+vegetables and cook -> until : 1
+vegetables and cook -> over : 1
+cook until add -> gravy : 1
+until add gravy -> and : 1
+add gravy and -> noodles : 1
+gravy and noodles -> in : 1
+and noodles in -> water : 1
+and serve beefy -> gravy : 1
+serve beefy gravy -> over : 1
+beefy gravy over -> warm : 1
+gravy over warm -> makes : 1
+warm makes noodles -> with : 1
+makes noodles with -> pound : 1
+noodles with pound -> beef : 1
+with pound beef -> package : 1
+with seasoning envelope -> brown : 1
+seasoning envelope brown -> a : 1
+envelope brown a -> frying : 1
+brown a frying -> brown : 1
+beef until noodles -> in : 1
+set a cook -> gravy : 1
+a cook gravy -> according : 1
+cook gravy according -> to : 1
+gravy according to -> package : 1
+to package top -> warm : 1
+package top warm -> noodles : 1
+makes chicken and -> skinless : 1
+chicken and skinless -> chicken : 1
+and skinless chicken -> cut : 1
+skinless chicken cut -> into : 13
+skinless chicken cut -> in : 2
+chicken cut into -> cups : 2
+chicken cut into -> teaspoon : 1
+chicken cut into -> packages : 2
+chicken cut into -> cup : 4
+chicken cut into -> egg : 1
+chicken cut into -> tablespoons : 1
+chicken cut into -> package : 1
+chicken cut into -> teaspoons : 1
+cut into cups -> fresh : 1
+cut into cups -> sliced : 1
+into cups fresh -> or : 1
+cups fresh or -> frozen : 2
+fresh or frozen -> cans : 1
+fresh or frozen -> mixed : 2
+or frozen cans -> ounces : 1
+frozen cans ounces -> cream : 1
+cans ounces cream -> of : 3
+ounces cream of -> mushroom : 2
+ounces cream of -> asparagus : 1
+mushroom cup packages -> chicken : 1
+cup packages chicken -> ramen : 2
+frying brown chicken -> until : 12
+frying brown chicken -> in : 1
+frying brown chicken -> and : 1
+brown chicken until -> add : 6
+brown chicken until -> spread : 1
+brown chicken until -> season : 1
+brown chicken until -> a : 1
+brown chicken until -> set : 1
+brown chicken until -> cook : 1
+brown chicken until -> noodles : 2
+chicken until add -> broccoli : 1
+chicken until add -> garlic : 1
+chicken until add -> mushrooms : 1
+chicken until add -> and : 1
+chicken until add -> remaining : 1
+chicken until add -> water : 1
+until add broccoli -> and : 1
+broccoli and soup -> to : 1
+and soup to -> cook : 1
+soup to cook -> over : 1
+heat until broccoli -> is : 2
+until broccoli is -> add : 1
+until broccoli is -> drain : 1
+broccoli is add -> half : 1
+is add half -> of : 1
+add half of -> seasoning : 1
+add half of -> remaining : 1
+add half of -> the : 3
+of seasoning or -> to : 2
+seasoning or to -> noodles : 1
+seasoning or to -> a : 1
+or to noodles -> in : 1
+and serve chicken -> and : 1
+and serve chicken -> mixture : 1
+serve chicken and -> broccoli : 1
+chicken and broccoli -> mixture : 1
+and broccoli mixture -> over : 1
+broccoli mixture over -> warm : 1
+warm makes skinless -> chicken : 1
+makes skinless chicken -> cut : 5
+makes skinless chicken -> cup : 1
+makes skinless chicken -> packages : 1
+cut into teaspoon -> garlic : 1
+cut into teaspoon -> dried : 1
+into teaspoon garlic -> can : 1
+teaspoon garlic can -> diced : 1
+garlic can diced -> tomatoes : 1
+can diced tomatoes -> with : 1
+diced tomatoes with -> green : 1
+tomatoes with green -> cup : 1
+with green cup -> chopped : 1
+green bell cups -> packages : 2
+bell cups packages -> chicken : 1
+bell cups packages -> ramen : 1
+cups packages chicken -> ramen : 2
+until add garlic -> and : 1
+add garlic and -> seasoning : 1
+garlic and seasoning -> simmer : 1
+seasoning simmer add -> noodles : 1
+cook minutes makes -> chicken : 1
+minutes makes chicken -> cups : 1
+makes chicken cups -> fresh : 1
+chicken cups fresh -> broccoli : 1
+cups fresh broccoli -> to : 1
+fresh broccoli to -> skinless : 1
+broccoli to skinless -> chicken : 1
+to skinless chicken -> cut : 2
+cut into packages -> chicken : 2
+chicken ramen can -> cream : 1
+ramen can cream -> of : 1
+chicken cup teaspoon -> mild : 1
+cup teaspoon mild -> curry : 1
+teaspoon mild curry -> and : 1
+mild curry and -> to : 1
+curry and to -> cup : 1
+and to cup -> grated : 1
+to cup grated -> cheddar : 1
+to cup grated -> swiss : 1
+grated cheddar oven -> to : 1
+cheddar oven to -> broccoli : 1
+oven to broccoli -> in : 1
+to broccoli in -> a : 1
+broccoli in a -> saucepan : 1
+in a saucepan -> and : 1
+in a saucepan -> over : 1
+a saucepan and -> cover : 1
+saucepan and cover -> with : 1
+and cover with -> cook : 1
+cover with cook -> over : 1
+with cook over -> medium : 1
+broccoli is drain -> and : 1
+is drain and -> spread : 1
+drain and spread -> in : 1
+and spread in -> a : 1
+spread in a -> lightly : 1
+in a lightly -> greased : 3
+a lightly greased -> x : 3
+lightly greased x -> casserole : 1
+lightly greased x -> pour : 1
+lightly greased x -> cover : 1
+greased x casserole -> a : 1
+x casserole a -> frying : 1
+casserole a frying -> brown : 1
+chicken until spread -> chicken : 1
+until spread chicken -> over : 1
+spread chicken over -> noodles : 1
+chicken over noodles -> in : 1
+over noodles in -> water : 1
+directions and spread -> noodles : 1
+and spread noodles -> over : 1
+spread noodles over -> broccoli : 1
+noodles over broccoli -> and : 1
+over broccoli and -> together : 1
+broccoli and together -> curry : 1
+and together curry -> and : 1
+together curry and -> spoon : 1
+curry and spoon -> mixture : 1
+mixture over and -> sprinkle : 1
+over and sprinkle -> with : 1
+and sprinkle with -> cheese : 1
+and sprinkle with -> soy : 1
+sprinkle with cheese -> and : 1
+sprinkle with cheese -> before : 1
+with cheese and -> bake : 1
+cheese and bake -> makes : 1
+bake makes lo -> mein : 1
+makes lo mein -> tablespoon : 1
+lo mein tablespoon -> tablespoon : 1
+mein tablespoon tablespoon -> soy : 1
+tablespoon tablespoon soy -> pound : 1
+tablespoon soy pound -> skinless : 1
+soy pound skinless -> chicken : 1
+pound skinless chicken -> cut : 6
+cut into cup -> sliced : 1
+cut into cup -> italian : 1
+cut into cup -> cup : 1
+cut into cup -> water : 1
+into cup sliced -> cup : 1
+chopped package chicken -> ramen : 1
+a frying mix -> soy : 1
+frying mix soy -> and : 1
+mix soy and -> half : 1
+soy and half -> of : 1
+seasoning add chicken -> and : 1
+add chicken and -> brown : 1
+add chicken and -> simmer : 3
+and brown until -> add : 1
+brown until add -> vegetables : 1
+until add vegetables -> to : 1
+vegetables to and -> cook : 1
+to and cook -> until : 1
+noodles to chicken -> and : 1
+to chicken and -> vegetables : 1
+chicken and vegetables -> and : 1
+and vegetables and -> cook : 1
+medium heat stirring -> makes : 1
+heat stirring makes -> to : 1
+heat stirring makes -> veggie : 1
+stirring makes to -> skinless : 1
+makes to skinless -> chicken : 1
+cut into egg -> tablespoons : 1
+into egg tablespoons -> lemon : 1
+egg tablespoons lemon -> cup : 2
+lemon cup butter -> or : 2
+butter or packages -> chicken : 1
+or packages chicken -> ramen : 1
+chicken until season -> with : 1
+until season with -> half : 1
+season with half -> of : 1
+or to a -> small : 1
+to a small -> whisk : 1
+to a small -> casserole : 1
+a small whisk -> egg : 1
+small whisk egg -> yolks : 1
+whisk egg yolks -> and : 2
+egg yolks and -> lemon : 2
+yolks and lemon -> juice : 2
+and lemon juice -> briskly : 2
+lemon juice briskly -> with : 2
+juice briskly with -> a : 2
+briskly with a -> add : 2
+with a add -> cup : 1
+with a add -> half : 1
+a add cup -> butter : 1
+add cup butter -> and : 1
+cup butter and -> stir : 1
+butter and stir -> over : 2
+and stir over -> low : 2
+stir over low -> heat : 2
+until add remaining -> stirring : 2
+until add remaining -> except : 1
+add remaining stirring -> briskly : 2
+remaining stirring briskly -> until : 2
+stirring briskly until -> butter : 1
+stirring briskly until -> melted : 1
+briskly until butter -> melts : 1
+until butter melts -> and : 1
+butter melts and -> sauce : 1
+melts and sauce -> noodles : 1
+and sauce noodles -> in : 1
+sauce noodles in -> water : 1
+noodles with chicken -> and : 7
+noodles with chicken -> stir : 1
+with chicken and -> makes : 7
+chicken and makes -> pound : 1
+chicken and makes -> skinless : 5
+chicken and makes -> chicken : 1
+makes pound skinless -> chicken : 4
+cut into tablespoons -> butter : 1
+into tablespoons butter -> or : 1
+with seasoning teaspoon -> package : 1
+seasoning teaspoon package -> chicken : 1
+teaspoon package chicken -> ramen : 1
+chicken until a -> melt : 1
+until a melt -> butter : 1
+over low mix -> in : 1
+low mix in -> stirring : 1
+mix in stirring -> until : 1
+in stirring until -> smooth : 1
+in stirring until -> deep : 1
+stirring until smooth -> and : 2
+until smooth and -> remove : 1
+until smooth and -> add : 1
+smooth and remove -> from : 1
+and remove from -> stir : 1
+remove from stir -> in : 2
+from stir in -> water : 1
+from stir in -> and : 1
+stir in water -> mixture : 1
+in water mixture -> and : 1
+to stirring add -> chicken : 2
+stirring add chicken -> and : 2
+chicken and simmer -> over : 2
+chicken and simmer -> top : 1
+and makes skinless -> chicken : 5
+skinless chicken cup -> butter : 1
+chicken cup butter -> or : 1
+butter or cup -> teaspoon : 1
+butter or cup -> cups : 2
+butter or cup -> chopped : 2
+butter or cup -> fresh : 1
+or cup teaspoon -> curry : 1
+cup teaspoon curry -> cups : 1
+teaspoon curry cups -> packages : 1
+curry cups packages -> chicken : 1
+chicken until set -> a : 1
+until set a -> small : 1
+set a small -> melt : 1
+set a small -> heat : 1
+small melt stir -> in : 1
+melt stir in -> curry : 1
+stir in curry -> and : 1
+in curry and -> seasoning : 1
+curry and seasoning -> cook : 1
+and seasoning cook -> on : 1
+seasoning cook on -> low : 1
+cook on low -> stirring : 1
+on low stirring -> until : 1
+low stirring until -> smooth : 1
+low stirring until -> cheese : 1
+smooth and add -> milk : 1
+and add milk -> and : 1
+add milk and -> heat : 1
+milk and heat -> to : 1
+cut into package -> chicken : 1
+into package chicken -> ramen : 1
+with seasoning tablespoons -> butter : 4
+with seasoning tablespoons -> chopped : 1
+with seasoning tablespoons -> and : 1
+seasoning tablespoons butter -> or : 4
+seasoning tablespoons chopped -> tablespoon : 1
+tablespoons chopped tablespoon -> tablespoon : 1
+chopped tablespoon tablespoon -> chopped : 1
+tablespoon tablespoon chopped -> teaspoon : 1
+chopped teaspoon tarragon -> teaspoon : 1
+teaspoon tarragon teaspoon -> thyme : 2
+tarragon teaspoon thyme -> a : 2
+teaspoon thyme a -> frying : 2
+thyme a frying -> brown : 2
+chicken until cook -> noodles : 1
+until cook noodles -> in : 1
+a small heat -> butter : 2
+small heat butter -> over : 2
+heat butter over -> low : 2
+heat until golden -> blend : 1
+until golden blend -> in : 1
+golden blend in -> stirring : 1
+blend in stirring -> until : 1
+stirring until deep -> remove : 2
+until deep remove -> from : 2
+deep remove from -> add : 2
+add water and -> and : 1
+water and and -> heat : 1
+and and heat -> to : 1
+to stirring top -> warm : 1
+stirring top warm -> noodles : 1
+chicken package chicken -> ramen : 1
+cup diced small -> can : 1
+diced small can -> noodles : 1
+small can noodles -> in : 1
+can noodles in -> water : 1
+and a heat -> and : 1
+and a heat -> sauce : 1
+and a heat -> butter : 1
+a heat and -> just : 1
+a heat and -> milk : 1
+heat and just -> under : 1
+and just under -> half : 2
+just under half -> of : 3
+under half of -> the : 3
+the seasoning over -> medium : 1
+seasoning over medium -> heat : 1
+medium heat top -> warm : 1
+heat top warm -> noodles : 1
+noodles with soup -> makes : 2
+with soup makes -> with : 1
+with soup makes -> vegetable : 1
+soup makes with -> mushrooms : 1
+makes with mushrooms -> cup : 1
+with mushrooms cup -> butter : 1
+mushrooms cup butter -> or : 1
+butter or pound -> skinless : 1
+or pound skinless -> chicken : 1
+into cups sliced -> fresh : 1
+cups sliced fresh -> packages : 1
+cups sliced fresh -> red : 1
+sliced fresh packages -> chicken : 1
+fresh packages chicken -> ramen : 1
+a frying melt -> butter : 1
+a frying melt -> and : 1
+a frying melt -> add : 1
+frying melt butter -> and : 1
+melt butter and -> brown : 1
+butter and brown -> chicken : 1
+and brown chicken -> until : 1
+until add mushrooms -> and : 1
+mushrooms and saute -> or : 1
+and saute or -> until : 1
+saute or until -> noodles : 1
+add seasoning top -> warm : 2
+seasoning top warm -> noodles : 2
+seasoning tablespoons and -> to : 1
+tablespoons and to -> teaspoon : 1
+and to teaspoon -> egg : 1
+to teaspoon egg -> cup : 1
+teaspoon egg cup -> water : 1
+egg cup water -> mixed : 1
+or tablespoons teaspoon -> lemon : 1
+tablespoons teaspoon lemon -> a : 1
+teaspoon lemon a -> frying : 1
+lemon a frying -> brown : 1
+chicken until noodles -> in : 2
+and a mix -> and : 1
+mix and nutmeg -> beat : 1
+and nutmeg beat -> egg : 1
+nutmeg beat egg -> yolk : 1
+beat egg yolk -> and : 1
+egg yolk and -> water : 1
+yolk and water -> mixture : 1
+and water mixture -> and : 1
+mixture and then -> stir : 1
+and then stir -> into : 1
+then stir into -> flour : 1
+stir into flour -> heat : 1
+into flour heat -> to : 1
+flour heat to -> boiling : 1
+boiling and boil -> stirring : 1
+and boil stirring -> remove : 1
+boil stirring remove -> from : 1
+stirring remove from -> stir : 1
+in and lemon -> add : 1
+and lemon add -> chicken : 1
+lemon add chicken -> and : 1
+and simmer top -> warm : 1
+simmer top warm -> noodles : 1
+chicken cut in -> packages : 1
+chicken cut in -> cups : 1
+cut in packages -> ramen : 1
+in packages ramen -> any : 1
+any cup butter -> or : 1
+or cup cups -> grated : 1
+or cup cups -> freshly : 1
+cup cups grated -> parmesan : 1
+cups grated parmesan -> tablespoons : 1
+grated parmesan tablespoons -> parsley : 1
+parmesan tablespoons parsley -> teaspoon : 1
+tablespoons parsley teaspoon -> a : 1
+parsley teaspoon a -> frying : 1
+teaspoon a frying -> brown : 1
+directions and butter -> and : 1
+and butter and -> cream : 1
+butter and cream -> in : 1
+butter and cream -> over : 1
+and cream in -> a : 1
+cream in a -> small : 1
+in a small -> saucepan : 1
+in a small -> casserole : 1
+a small saucepan -> over : 1
+small saucepan over -> low : 1
+saucepan over low -> heat : 1
+heat until butter -> stir : 1
+heat until butter -> is : 1
+until butter stir -> in : 1
+butter stir in -> remaining : 1
+stir in remaining -> keep : 1
+stir in remaining -> simmer : 1
+in remaining keep -> warm : 1
+remaining keep warm -> over : 1
+keep warm over -> low : 1
+warm over low -> top : 1
+over low top -> warm : 1
+low top warm -> noodles : 1
+in cups sliced -> cup : 1
+cups sliced cup -> sliced : 1
+cup sliced red -> or : 1
+cup sliced red -> bell : 1
+sliced red or -> green : 1
+red or green -> bell : 1
+or green bell -> cups : 1
+cups packages ramen -> any : 1
+any cup sour -> a : 1
+cup sour a -> frying : 1
+sour a frying -> brown : 1
+add and salsa -> and : 1
+and salsa and -> cook : 1
+salsa and cook -> over : 1
+serve chicken mixture -> over : 2
+chicken mixture over -> warm : 2
+noodles and top -> with : 2
+top with sour -> makes : 1
+with sour makes -> packages : 1
+sour makes packages -> ramen : 1
+ramen any skinless -> chicken : 1
+any skinless chicken -> cut : 1
+into cup italian -> noodles : 1
+cup italian noodles -> in : 1
+italian noodles in -> water : 1
+directions and if -> let : 1
+and if let -> chicken : 1
+if let chicken -> marinate : 1
+let chicken marinate -> overnight : 1
+chicken marinate overnight -> in : 1
+marinate overnight in -> cup : 1
+overnight in cup -> a : 1
+in cup a -> frying : 1
+frying cook chicken -> in : 1
+cook chicken in -> the : 1
+chicken in the -> dressing : 1
+in the dressing -> until : 1
+the dressing until -> golden : 1
+dressing until golden -> drizzle : 1
+until golden drizzle -> remaining : 1
+golden drizzle remaining -> dressing : 1
+drizzle remaining dressing -> on : 1
+remaining dressing on -> noodles : 1
+dressing on noodles -> and : 1
+on noodles and -> top : 1
+top with makes -> pound : 1
+with makes pound -> skinless : 1
+into cup cup -> black : 1
+cup cup black -> drained : 1
+cup black drained -> and : 1
+black drained and -> cup : 1
+drained and cup -> chopped : 1
+and cup chopped -> red : 1
+chopped red bell -> packages : 1
+chopped red bell -> cup : 1
+red bell packages -> cajun : 1
+bell packages cajun -> chicken : 1
+packages cajun chicken -> ramen : 1
+cajun chicken ramen -> with : 1
+with seasoning to -> tablespoons : 1
+seasoning to tablespoons -> sour : 1
+to tablespoons sour -> tablespoons : 1
+tablespoons sour tablespoons -> a : 1
+sour tablespoons a -> frying : 1
+tablespoons a frying -> brown : 1
+brown chicken in -> olive : 1
+chicken in olive -> add : 1
+in olive add -> black : 1
+olive add black -> and : 1
+add black and -> saute : 1
+black and saute -> over : 1
+and saute over -> low : 1
+saute over low -> heat : 1
+heat until heated -> through : 1
+until heated through -> and : 3
+heated through and -> vegetables : 1
+heated through and -> add : 2
+through and vegetables -> are : 1
+and vegetables are -> noodles : 1
+add seasoning combine -> noodles : 1
+seasoning combine noodles -> with : 1
+combine noodles with -> chicken : 1
+with chicken stir -> in : 1
+chicken stir in -> sour : 1
+stir in sour -> cream : 1
+stir in sour -> spoon : 1
+in sour cream -> and : 1
+sour cream and -> makes : 1
+sour cream and -> green : 1
+cream and makes -> chicken : 1
+makes chicken cup -> chopped : 1
+chicken cup chopped -> tablespoons : 1
+cup chopped tablespoons -> butter : 1
+chopped tablespoons butter -> or : 1
+or can cream -> of : 1
+chicken cup package -> chicken : 1
+cup package chicken -> ramen : 1
+cup grated sharp -> cheddar : 1
+grated sharp cheddar -> small : 1
+sharp cheddar small -> can : 1
+cheddar small can -> white : 1
+small can white -> chicken : 1
+can white chicken -> oven : 1
+white chicken oven -> to : 1
+chicken oven to -> a : 1
+oven to a -> saute : 1
+oven to a -> mix : 1
+oven to a -> small : 1
+to a saute -> onion : 1
+a saute onion -> in : 1
+saute onion in -> butter : 1
+onion in butter -> until : 1
+in butter until -> add : 1
+butter until add -> and : 1
+add and just -> under : 1
+the seasoning stir -> until : 1
+seasoning stir until -> noodles : 1
+stir until noodles -> in : 1
+add and soup -> stir : 1
+and soup stir -> until : 1
+soup stir until -> cheese : 1
+cheese is pour -> into : 1
+is pour into -> a : 1
+pour into a -> greased : 1
+into a greased -> casserole : 2
+a greased casserole -> dish : 1
+a greased casserole -> sprinkle : 1
+greased casserole dish -> and : 1
+casserole dish and -> bake : 2
+dish and bake -> makes : 1
+dish and bake -> sprinkle : 1
+bake makes skinless -> chicken : 1
+skinless chicken packages -> chicken : 1
+chicken packages chicken -> ramen : 2
+cream of asparagus -> or : 1
+of asparagus or -> mushroom : 1
+asparagus or mushroom -> cup : 1
+or mushroom cup -> pound : 1
+mushroom cup pound -> fresh : 1
+cup pound fresh -> cut : 1
+pound fresh cut -> cup : 1
+fresh cut cup -> grated : 1
+cut cup grated -> cheddar : 1
+grated cheddar a -> frying : 1
+cheddar a frying -> brown : 1
+add remaining except -> cheese : 1
+remaining except cheese -> and : 1
+except cheese and -> seasoning : 1
+cheese and seasoning -> simmer : 1
+seasoning simmer over -> low : 2
+low heat or -> until : 1
+noodles are sprinkle -> with : 1
+are sprinkle with -> cheese : 1
+with cheese before -> makes : 1
+cheese before makes -> pound : 1
+before makes pound -> skinless : 1
+into cup water -> chestnut : 1
+cup water chestnut -> cup : 1
+water chestnut cup -> snow : 1
+chestnut cup snow -> cup : 1
+cup snow cup -> bean : 1
+cup snow cup -> sliced : 1
+snow cup bean -> cup : 1
+cup bean cup -> to : 1
+bean cup to -> teaspoons : 1
+cup to teaspoons -> package : 1
+to teaspoons package -> oriental : 1
+teaspoons package oriental -> ramen : 1
+package oriental ramen -> with : 4
+oriental ramen with -> seasoning : 7
+with seasoning tablespoon -> soy : 1
+with seasoning tablespoon -> teaspoon : 1
+seasoning tablespoon soy -> a : 1
+tablespoon soy a -> frying : 1
+soy a frying -> brown : 1
+until add water -> snow : 1
+add water snow -> bean : 1
+water snow bean -> and : 1
+snow bean and -> saute : 1
+bean and saute -> until : 1
+and saute until -> vegetables : 1
+saute until vegetables -> are : 1
+add seasoning spoon -> vegetables : 1
+seasoning spoon vegetables -> over : 1
+spoon vegetables over -> warm : 1
+vegetables over warm -> noodles : 1
+noodles and sprinkle -> with : 1
+sprinkle with soy -> makes : 1
+with soy makes -> pound : 1
+soy makes pound -> skinless : 1
+cut into teaspoons -> minced : 1
+into teaspoons minced -> tablespoon : 1
+teaspoons minced tablespoon -> olive : 1
+minced tablespoon olive -> cup : 1
+tablespoon olive cup -> chopped : 1
+olive cup chopped -> tablespoon : 1
+cup chopped tablespoon -> cup : 1
+chopped tablespoon cup -> chicken : 1
+tablespoon cup chicken -> packages : 1
+cup chicken packages -> chicken : 1
+with seasoning and -> to : 1
+seasoning and to -> a : 1
+and to a -> frying : 1
+to a frying -> brown : 1
+brown chicken and -> garlic : 1
+chicken and garlic -> in : 1
+and garlic in -> oil : 1
+and garlic in -> olive : 2
+garlic in oil -> until : 1
+oil until add -> and : 1
+oil until add -> shrimp : 1
+oil until add -> warm : 1
+add and chicken -> simmer : 1
+and chicken simmer -> over : 1
+chicken simmer over -> low : 1
+low heat noodles -> in : 2
+heat noodles in -> water : 2
+seasoning serve chicken -> mixture : 1
+over warm season -> with : 1
+warm season with -> salt : 1
+seasoning packets cup -> chopped : 1
+packets cup chopped -> hot : 1
+cup chopped hot -> cup : 1
+chopped hot cup -> grated : 1
+hot cup grated -> cheddar : 1
+grated cheddar noodles -> in : 4
+add seasoning a -> frying : 3
+add seasoning a -> heat : 1
+a frying saute -> onion : 1
+a frying saute -> and : 2
+a frying saute -> vegetables : 2
+frying saute onion -> and : 1
+saute onion and -> hot : 1
+onion and hot -> dogs : 1
+and hot dogs -> together : 1
+hot dogs together -> until : 1
+dogs together until -> heated : 1
+together until heated -> add : 1
+until heated add -> hot : 1
+heated add hot -> dog : 1
+add hot dog -> mixture : 1
+hot dog mixture -> to : 1
+dog mixture to -> add : 1
+mixture to add -> cheese : 1
+to add cheese -> and : 1
+add cheese and -> stir : 1
+add cheese and -> milk : 1
+cheese and stir -> until : 1
+stir until makes -> packages : 1
+until makes packages -> ramen : 2
+or cup chopped -> cup : 1
+or cup chopped -> and : 1
+green bell to -> cup : 1
+bell to cup -> grated : 1
+cup grated swiss -> noodles : 1
+grated swiss noodles -> in : 1
+swiss noodles in -> water : 1
+frying melt and -> then : 1
+melt and then -> add : 1
+and then add -> beaten : 1
+then add beaten -> fold : 1
+add beaten fold -> in : 1
+beaten fold in -> noodles : 1
+fold in noodles -> and : 1
+in noodles and -> remaining : 1
+in noodles and -> simmer : 1
+noodles and remaining -> cook : 1
+and remaining cook -> until : 1
+remaining cook until -> light : 1
+cook until light -> makes : 1
+until light makes -> chop : 1
+light makes chop -> pork : 1
+makes chop pork -> teaspoon : 1
+chop pork teaspoon -> cup : 1
+pork teaspoon cup -> sliced : 1
+teaspoon cup sliced -> can : 1
+cup sliced can -> cream : 1
+sliced can cream -> of : 1
+cream of celery -> cup : 2
+cream of celery -> can : 1
+of celery cup -> packages : 1
+of celery cup -> cup : 1
+celery cup packages -> pork : 1
+cup packages pork -> ramen : 1
+packages pork ramen -> with : 2
+pork ramen with -> seasoning : 3
+a frying pan -> over : 1
+frying pan over -> medium : 1
+pan over medium -> brown : 1
+over medium brown -> pork : 1
+medium brown pork -> chops : 1
+brown pork chops -> in : 1
+brown pork chops -> until : 1
+pork chops in -> oil : 1
+chops in oil -> minutes : 1
+in oil minutes -> per : 1
+oil minutes per -> or : 1
+or until and -> add : 1
+until and add -> and : 1
+seasoning serve pork -> chops : 1
+serve pork chops -> and : 1
+pork chops and -> sauce : 1
+pork chops and -> makes : 1
+chops and sauce -> over : 1
+and sauce over -> warm : 1
+sauce over warm -> makes : 2
+sauce over warm -> noodles : 1
+warm makes bacon -> packages : 1
+makes bacon packages -> ramen : 1
+bacon packages ramen -> any : 1
+any flavor cups -> grated : 1
+any flavor cups -> fully : 1
+flavor cups grated -> cheddar : 1
+grated cheddar to -> cup : 1
+cheddar to cup -> cooked : 1
+to cup cooked -> and : 1
+cup cooked and -> and : 1
+and add cheese -> immediately : 1
+and add cheese -> and : 1
+add cheese immediately -> and : 1
+cheese immediately and -> stir : 1
+immediately and stir -> until : 1
+stir until stir -> in : 1
+stir in bacon -> and : 1
+in bacon and -> season : 1
+bacon and season -> with : 1
+and season with -> salt : 3
+and season with -> seasoning : 2
+seasoning packets bratwursts -> or : 1
+packets bratwursts or -> noodles : 1
+bratwursts or noodles -> and : 1
+or noodles and -> brats : 1
+noodles and brats -> drain : 1
+and brats drain -> and : 1
+brats drain and -> stir : 1
+drain and stir -> in : 1
+in seasoning makes -> and : 1
+seasoning makes and -> pork : 1
+makes and pork -> cup : 1
+and pork cup -> chopped : 1
+pork cup chopped -> red : 1
+red bell cup -> chopped : 1
+red bell cup -> thinly : 1
+green bell tablespoons -> chopped : 1
+bell tablespoons chopped -> package : 1
+tablespoons chopped package -> pork : 1
+chopped package pork -> ramen : 1
+package pork ramen -> with : 1
+seasoning tablespoon teaspoon -> tarragon : 1
+tablespoon teaspoon tarragon -> teaspoon : 1
+frying brown pork -> chops : 1
+frying brown pork -> until : 1
+pork chops until -> done : 1
+chops until done -> and : 1
+until done and -> then : 1
+done and then -> saute : 1
+and then saute -> peppers : 1
+then saute peppers -> and : 1
+saute peppers and -> onion : 1
+peppers and onion -> in : 1
+and onion in -> drippings : 1
+onion in drippings -> until : 1
+in drippings until -> noodles : 1
+drippings until noodles -> in : 1
+and a small -> heat : 1
+heat until light -> add : 1
+until light add -> stirring : 1
+light add stirring -> until : 1
+add stirring until -> deep : 1
+from add remaining -> heat : 1
+add remaining heat -> to : 1
+remaining heat to -> boiling : 1
+and stir top -> warm : 1
+stir top warm -> noodles : 1
+noodles with pork -> chops : 1
+with pork chops -> and : 1
+chops and makes -> skillet : 1
+and makes skillet -> package : 1
+makes skillet package -> ramen : 1
+skillet package ramen -> any : 1
+any flavor pound -> pork : 1
+flavor pound pork -> can : 1
+pound pork can -> tomato : 1
+pork can tomato -> cup : 1
+tomato cup thinly -> sliced : 1
+cup thinly sliced -> onion : 1
+cup thinly sliced -> cup : 1
+cup thinly sliced -> red : 1
+thinly sliced onion -> teaspoon : 1
+sliced onion teaspoon -> cup : 1
+onion teaspoon cup -> sour : 1
+teaspoon cup sour -> noodles : 1
+cup sour noodles -> in : 1
+sour noodles in -> water : 1
+brown pork until -> add : 1
+pork until add -> tomato : 1
+until add tomato -> and : 1
+add tomato and -> cook : 1
+tomato and cook -> over : 1
+cook over low -> heat : 1
+cook over low -> stirring : 1
+heat until onion -> is : 1
+until onion is -> stir : 1
+onion is stir -> in : 1
+is stir in -> remove : 1
+is stir in -> remaining : 1
+stir in remove -> from : 1
+in remove from -> heat : 1
+remove from heat -> and : 1
+from heat and -> add : 1
+heat and add -> sour : 1
+and add sour -> makes : 1
+add sour makes -> pork : 1
+sour makes pork -> packages : 1
+makes pork packages -> pork : 1
+pork packages pork -> ramen : 1
+with seasoning lean -> pork : 1
+seasoning lean pork -> cut : 1
+lean pork cut -> into : 1
+pork cut into -> teaspoon : 1
+into teaspoon dried -> minced : 1
+teaspoon dried minced -> cup : 1
+dried minced cup -> noodles : 1
+minced cup noodles -> in : 1
+frying cook steak -> pieces : 1
+cook steak pieces -> until : 1
+steak pieces until -> add : 1
+pieces until add -> and : 1
+seasoning stir in -> noodles : 1
+stir in noodles -> and : 1
+minutes makes ramen -> packages : 1
+makes ramen packages -> ramen : 1
+ramen packages ramen -> any : 1
+flavor cups fully -> cooked : 1
+cups fully cooked -> cut : 1
+fully cooked cut -> in : 1
+cooked cut in -> cup : 1
+in cup pineapple -> cup : 1
+cup pineapple cup -> crispy : 1
+pineapple cup crispy -> chinese : 1
+cup crispy chinese -> stalk : 1
+crispy chinese stalk -> noodles : 1
+chinese stalk noodles -> in : 1
+stalk noodles in -> water : 1
+with cold in -> crispy : 1
+cold in crispy -> and : 1
+in crispy and -> makes : 1
+crispy and makes -> tuna : 1
+and makes tuna -> packages : 1
+makes tuna packages -> ramen : 2
+tuna packages ramen -> any : 2
+any flavor cans -> ounces : 1
+flavor cans ounces -> cream : 1
+mushroom cup cans -> cups : 1
+cup cans cups -> cups : 1
+cans cups cups -> grated : 1
+cups cups grated -> cheddar : 1
+and simmer sprinkle -> cheese : 2
+simmer sprinkle cheese -> over : 2
+sprinkle cheese over -> top : 2
+cheese over top -> and : 2
+top and makes -> package : 1
+top and makes -> noodle : 1
+and makes package -> oriental : 1
+and makes package -> beef : 1
+and makes package -> ramen : 1
+makes package oriental -> ramen : 1
+of celery can -> and : 1
+celery can and -> to : 1
+can and to -> noodles : 1
+and add just -> under : 1
+add just under -> half : 1
+cook minutes over -> medium : 2
+over medium makes -> salmon : 1
+over medium makes -> tuna : 1
+medium makes salmon -> package : 1
+makes salmon package -> ramen : 1
+salmon package ramen -> any : 1
+any flavor can -> cream : 1
+flavor can cream -> of : 1
+mushroom cup milk -> small : 1
+cup milk small -> can : 1
+milk small can -> cup : 1
+small can cup -> cooked : 1
+can cup cooked -> spinach : 1
+cup cooked spinach -> or : 1
+cooked spinach or -> cup : 1
+spinach or cup -> grated : 1
+or cup grated -> cheddar : 1
+and makes noodle -> cans : 1
+makes noodle cans -> cup : 1
+noodle cans cup -> grated : 1
+cans cup grated -> cheddar : 1
+cheddar cup cup -> packages : 1
+cup cup packages -> chicken : 1
+chicken ramen broken -> with : 1
+chicken ramen broken -> cups : 1
+ramen broken with -> seasoning : 2
+broken with seasoning -> packets : 1
+broken with seasoning -> cup : 1
+seasoning packets to -> saltine : 1
+packets to saltine -> oven : 1
+to saltine oven -> to : 1
+saltine oven to -> a : 1
+to a mix -> and : 1
+and seasoning transfer -> mixture : 1
+seasoning transfer mixture -> to : 1
+transfer mixture to -> a : 1
+mixture to a -> casserole : 1
+to a casserole -> add : 1
+a casserole add -> broken : 1
+casserole add broken -> uncooked : 1
+add broken uncooked -> bake : 1
+broken uncooked bake -> stirring : 1
+uncooked bake stirring -> sprinkle : 1
+bake stirring sprinkle -> crackers : 1
+stirring sprinkle crackers -> over : 1
+sprinkle crackers over -> top : 1
+crackers over top -> and : 1
+top and bake -> minutes : 3
+and bake minutes -> makes : 3
+bake minutes makes -> mushroom : 1
+bake minutes makes -> shrimp : 1
+bake minutes makes -> and : 1
+minutes makes mushroom -> shrimp : 1
+makes mushroom shrimp -> package : 1
+mushroom shrimp package -> oriental : 1
+shrimp package oriental -> ramen : 1
+of mushroom can -> cup : 1
+mushroom can cup -> sliced : 1
+can cup sliced -> fresh : 1
+sliced fresh noodles -> in : 1
+fresh noodles in -> water : 1
+the seasoning cook -> minutes : 1
+seasoning cook minutes -> over : 1
+medium makes tuna -> packages : 1
+seasoning cans cup -> cup : 1
+cans cup cup -> chopped : 1
+chopped cup crushed -> potato : 1
+cup crushed potato -> oven : 1
+crushed potato oven -> to : 1
+potato oven to -> noodles : 1
+directions and season -> with : 2
+directions and season -> noodles : 1
+season with seasoning -> mix : 1
+season with seasoning -> a : 1
+with seasoning mix -> and : 1
+seasoning mix and -> noodles : 1
+mix and noodles -> together : 1
+and noodles together -> in : 1
+noodles together in -> a : 1
+together in a -> small : 1
+a small casserole -> dish : 1
+a small casserole -> mix : 1
+small casserole dish -> and : 1
+and bake sprinkle -> chips : 1
+bake sprinkle chips -> over : 1
+sprinkle chips over -> top : 1
+chips over top -> and : 1
+minutes makes shrimp -> green : 1
+makes shrimp green -> bell : 1
+shrimp green bell -> thinly : 1
+green bell thinly -> red : 1
+bell thinly red -> bell : 1
+thinly red bell -> thinly : 1
+red bell thinly -> small : 1
+bell thinly small -> thinly : 1
+thinly small thinly -> tablespoons : 1
+small thinly tablespoons -> minced : 1
+thinly tablespoons minced -> to : 1
+tablespoons minced to -> tablespoons : 1
+minced to tablespoons -> olive : 1
+to tablespoons olive -> cups : 1
+tablespoons olive cups -> cooked : 1
+olive cups cooked -> small : 1
+cups cooked small -> peeled : 1
+cooked small peeled -> and : 1
+small peeled and -> packages : 1
+peeled and packages -> oriental : 1
+and packages oriental -> ramen : 1
+packages oriental ramen -> with : 3
+frying saute and -> garlic : 2
+saute and garlic -> in : 2
+garlic in olive -> oil : 2
+in olive oil -> until : 3
+olive oil until -> add : 2
+olive oil until -> heated : 1
+until add shrimp -> and : 1
+add shrimp and -> seasoning : 1
+shrimp and seasoning -> simmer : 1
+seasoning simmer noodles -> in : 1
+and add half -> of : 3
+half of remaining -> seasoning : 1
+of remaining seasoning -> serve : 1
+remaining seasoning serve -> shrimp : 1
+seasoning serve shrimp -> mixture : 1
+serve shrimp mixture -> over : 1
+shrimp mixture over -> makes : 1
+over makes packages -> ramen : 1
+any flavor to -> cups : 1
+flavor to cups -> spaghetti : 1
+to cups spaghetti -> pound : 1
+to cups spaghetti -> to : 1
+cups spaghetti pound -> ground : 1
+spaghetti pound ground -> beef : 1
+pound ground beef -> or : 1
+ground beef or -> browned : 1
+beef or browned -> and : 1
+or browned and -> parmesan : 1
+browned and parmesan -> noodles : 1
+and parmesan noodles -> in : 1
+parmesan noodles in -> water : 1
+a heat sauce -> and : 1
+heat sauce and -> cooked : 1
+sauce and cooked -> beef : 1
+and cooked beef -> over : 1
+cooked beef over -> medium : 1
+beef over medium -> heat : 1
+until heated spoon -> sauce : 1
+heated spoon sauce -> over : 1
+spoon sauce over -> warm : 1
+noodles and then -> sprinkle : 1
+and then sprinkle -> with : 1
+then sprinkle with -> makes : 1
+sprinkle with makes -> packages : 1
+with makes packages -> ramen : 1
+any cup cubed -> american : 1
+cup cubed american -> processed : 2
+cubed american processed -> to : 1
+cubed american processed -> cup : 1
+american processed to -> cup : 1
+processed to cup -> and : 1
+to cup and -> to : 1
+cup and to -> noodles : 1
+cheese and milk -> and : 1
+and milk and -> stir : 1
+milk and stir -> until : 1
+cheese is season -> with : 1
+is season with -> salt : 1
+beef ramen broken -> with : 1
+seasoning cup cubed -> american : 1
+seasoning cup cubed -> monterey : 1
+american processed cup -> cup : 1
+processed cup cup -> crushed : 1
+cup cup crushed -> corn : 1
+cup crushed corn -> noodles : 1
+cup crushed corn -> oven : 1
+crushed corn noodles -> in : 1
+corn noodles in -> water : 1
+the seasoning a -> stir : 1
+the seasoning a -> frying : 1
+seasoning a stir -> warm : 1
+a stir warm -> and : 1
+stir warm and -> crushed : 1
+warm and crushed -> chips : 1
+and crushed chips -> together : 1
+crushed chips together -> over : 1
+chips together over -> low : 1
+together over low -> heat : 1
+heat until cheese -> is : 1
+cheese is garnish -> with : 1
+is garnish with -> sour : 1
+garnish with sour -> cream : 1
+with sour cream -> and : 1
+cream and green -> makes : 1
+and green makes -> noodle : 1
+green makes noodle -> packages : 1
+makes noodle packages -> chicken : 1
+noodle packages chicken -> ramen : 1
+seasoning cups sliced -> fresh : 1
+sliced fresh red -> tablespoon : 1
+fresh red tablespoon -> minced : 1
+red tablespoon minced -> noodles : 1
+tablespoon minced noodles -> in : 1
+minced noodles in -> water : 2
+until add warm -> noodles : 1
+add warm noodles -> and : 1
+noodles and saute -> makes : 1
+and saute makes -> alfredo : 1
+saute makes alfredo -> packages : 1
+makes alfredo packages -> ramen : 1
+alfredo packages ramen -> any : 1
+flavor cup butter -> or : 1
+cup cups freshly -> grated : 1
+cups freshly grated -> parmesan : 1
+freshly grated parmesan -> teaspoon : 1
+grated parmesan teaspoon -> garlic : 1
+parmesan teaspoon garlic -> to : 1
+teaspoon garlic to -> to : 1
+garlic to to -> noodles : 1
+to to noodles -> in : 1
+heat butter and -> cream : 1
+and cream over -> low : 1
+cream over low -> heat : 1
+until butter is -> stir : 1
+butter is stir -> in : 1
+in remaining simmer -> sauce : 1
+remaining simmer sauce -> serve : 1
+simmer sauce serve -> sauce : 1
+sauce serve sauce -> over : 1
+serve sauce over -> warm : 1
+warm makes packages -> chicken : 1
+makes packages chicken -> mushroom : 1
+packages chicken mushroom -> ramen : 1
+chicken mushroom ramen -> with : 1
+mushroom ramen with -> seasoning : 1
+cup cubed monterey -> jack : 1
+cubed monterey jack -> cup : 1
+monterey jack cup -> diced : 1
+jack cup diced -> green : 1
+diced green cup -> sliced : 1
+black cup sour -> cup : 1
+cup sour cup -> grated : 1
+sour cup grated -> cheddar : 1
+cheddar cup grated -> parmesan : 1
+cheddar cup grated -> mozzarella : 1
+grated parmesan cup -> crushed : 1
+parmesan cup crushed -> corn : 1
+crushed corn oven -> to : 1
+corn oven to -> noodles : 1
+to package rinse -> with : 1
+package rinse with -> cold : 1
+with cold combine -> seasoning : 1
+cold combine seasoning -> monterey : 1
+combine seasoning monterey -> jack : 1
+seasoning monterey jack -> and : 1
+monterey jack and -> stir : 1
+jack and stir -> in : 1
+in sour spoon -> noodle : 1
+sour spoon noodle -> mixture : 1
+spoon noodle mixture -> into : 1
+noodle mixture into -> a : 1
+mixture into a -> greased : 1
+greased casserole sprinkle -> with : 1
+casserole sprinkle with -> remaining : 1
+sprinkle with remaining -> cheeses : 1
+with remaining cheeses -> and : 1
+remaining cheeses and -> bake : 1
+cheeses and bake -> or : 1
+and bake or -> until : 1
+bake or until -> brown : 1
+bake or until -> cheese : 1
+or until brown -> and : 1
+until brown and -> makes : 1
+brown and makes -> packages : 1
+ramen any to -> cups : 1
+any to cups -> spaghetti : 1
+cups spaghetti to -> pepperoni : 1
+spaghetti to pepperoni -> cup : 1
+to pepperoni cup -> chopped : 1
+pepperoni cup chopped -> green : 1
+bell cup grated -> cheddar : 1
+cup grated mozzarella -> oven : 1
+cup grated mozzarella -> cup : 1
+grated mozzarella oven -> to : 1
+mozzarella oven to -> noodles : 1
+and a combine -> and : 1
+a combine and -> cheddar : 1
+combine and cheddar -> stir : 1
+and cheddar stir -> constantly : 1
+cheddar stir constantly -> until : 1
+constantly until cheese -> is : 1
+cheese is noodles -> in : 1
+is noodles in -> a : 1
+noodles in a -> lightly : 2
+greased x pour -> sauce : 1
+x pour sauce -> mixture : 1
+pour sauce mixture -> over : 1
+sauce mixture over -> sprinkle : 1
+mixture over sprinkle -> with : 1
+over sprinkle with -> mozzarella : 1
+sprinkle with mozzarella -> bake : 1
+with mozzarella bake -> or : 1
+mozzarella bake or -> until : 1
+or until cheese -> is : 1
+cheese is makes -> packages : 1
+cheese is makes -> chive : 1
+is makes packages -> ramen : 1
+ramen any cups -> spaghetti : 1
+ramen any cups -> milk : 1
+any cups spaghetti -> cup : 1
+cups spaghetti cup -> ricotta : 1
+spaghetti cup ricotta -> cup : 1
+cup ricotta cup -> grated : 1
+ricotta cup grated -> mozzarella : 1
+grated mozzarella cup -> parmesan : 1
+mozzarella cup parmesan -> oven : 1
+cup parmesan oven -> to : 1
+parmesan oven to -> noodles : 1
+and stir sauce -> into : 1
+stir sauce into -> an : 1
+sauce into an -> x : 1
+into an x -> layer : 1
+an x layer -> half : 1
+x layer half -> of : 1
+layer half of -> the : 1
+of the noodle -> and : 1
+the noodle and -> parmesan : 1
+noodle and parmesan -> repeat : 1
+and parmesan repeat -> bake : 1
+parmesan repeat bake -> makes : 1
+repeat bake makes -> cup : 1
+bake makes cup -> slivered : 1
+makes cup slivered -> cup : 1
+cup slivered cup -> chopped : 1
+slivered cup chopped -> cup : 1
+chopped cup snow -> cup : 1
+snow cup sliced -> red : 1
+sliced red bell -> cup : 1
+bell cup thinly -> sliced : 1
+thinly sliced cup -> thinly : 1
+sliced cup thinly -> sliced : 1
+thinly sliced red -> tablespoons : 1
+sliced red tablespoons -> vegetable : 1
+red tablespoons vegetable -> packages : 1
+tablespoons vegetable packages -> chicken : 1
+vegetable packages chicken -> ramen : 1
+ramen broken cups -> a : 1
+broken cups a -> frying : 1
+cups a frying -> toast : 1
+a frying toast -> almonds : 1
+frying toast almonds -> until : 1
+toast almonds until -> lightly : 1
+almonds until lightly -> browned : 1
+until lightly browned -> and : 1
+lightly browned and -> then : 1
+browned and then -> set : 1
+and then set -> vegetables : 1
+then set vegetables -> in : 1
+set vegetables in -> oil : 1
+vegetables in oil -> add : 1
+in oil add -> broken : 1
+oil add broken -> noodles : 1
+add broken noodles -> and : 1
+broken noodles and -> steam : 1
+noodles and steam -> or : 1
+and steam or -> until : 1
+steam or until -> noodles : 1
+noodles are stirring -> top : 1
+are stirring top -> with : 1
+stirring top with -> almonds : 1
+top with almonds -> and : 1
+with almonds and -> makes : 1
+almonds and makes -> tablespoons : 1
+and makes tablespoons -> vegetable : 1
+makes tablespoons vegetable -> package : 1
+tablespoons vegetable package -> ramen : 1
+vegetable package ramen -> any : 2
+any broken up -> can : 1
+broken up can -> onion : 1
+up can onion -> soup : 1
+can onion soup -> can : 1
+onion soup can -> oil : 1
+soup can oil -> in : 1
+can oil in -> a : 1
+oil in a -> saucepan : 1
+a saucepan over -> medium : 1
+saucepan over medium -> add : 1
+over medium add -> noodles : 1
+medium add noodles -> and : 1
+noodles and lightly -> stirring : 1
+and lightly stirring -> add : 1
+lightly stirring add -> soup : 1
+stirring add soup -> and : 1
+add soup and -> cover : 1
+soup and cover -> and : 1
+and cover and -> simmer : 1
+and simmer drain -> noodles : 1
+simmer drain noodles -> and : 1
+drain noodles and -> makes : 1
+noodles and makes -> packages : 1
+noodles and makes -> fried : 1
+flavor cup grated -> parmesan : 1
+grated parmesan and -> to : 1
+parmesan and to -> noodles : 1
+and add parmesan -> to : 1
+add parmesan to -> warm : 1
+parmesan to warm -> noodles : 1
+to warm noodles -> and : 2
+cheese is sprinkle -> with : 1
+is sprinkle with -> more : 1
+sprinkle with more -> parmesan : 1
+with more parmesan -> cheese : 1
+more parmesan cheese -> if : 1
+parmesan cheese if -> season : 1
+cheese if season -> with : 1
+if season with -> salt : 1
+and makes ranch -> packages : 1
+makes ranch packages -> finely : 1
+ranch packages finely -> chopped : 1
+packages finely chopped -> ramen : 1
+finely chopped ramen -> any : 1
+chopped ramen any -> flavor : 1
+flavor cup ranch -> cups : 1
+cup ranch cups -> grated : 1
+ranch cups grated -> cheddar : 1
+and add ranch -> dressing : 1
+add ranch dressing -> and : 1
+ranch dressing and -> cheese : 1
+dressing and cheese -> to : 1
+over low stirring -> until : 1
+stirring until cheese -> is : 1
+is makes chive -> noodles : 1
+makes chive noodles -> packages : 1
+chive noodles packages -> ramen : 1
+noodles packages ramen -> any : 1
+ramen any tablespoons -> butter : 1
+any tablespoons butter -> or : 1
+cup chopped and -> to : 1
+chopped and to -> noodles : 1
+and add butter -> to : 1
+add butter to -> warm : 1
+butter to warm -> noodles : 1
+stir until add -> chives : 1
+until add chives -> and : 1
+add chives and -> season : 1
+chives and season -> with : 1
+and makes trail -> packages : 1
+makes trail packages -> ramen : 1
+trail packages ramen -> any : 1
+ramen any small -> sticks : 1
+any small sticks -> beef : 1
+small sticks beef -> cut : 1
+sticks beef cut -> into : 1
+beef cut into -> small : 1
+cut into small -> pound : 1
+cut into small -> cup : 1
+into small pound -> dried : 1
+small pound dried -> cut : 1
+pound dried cut -> into : 1
+dried cut into -> small : 1
+into small cup -> dried : 1
+small cup dried -> or : 1
+cup dried or -> cups : 1
+dried or cups -> dry : 1
+or cups dry -> roasted : 1
+cups dry roasted -> noodles : 1
+dry roasted noodles -> into : 1
+roasted noodles into -> a : 1
+noodles into a -> add : 1
+into a add -> remaining : 1
+a add remaining -> ingredients : 1
+ingredients and makes -> for : 1
+and makes for -> a : 1
+makes for a -> more : 1
+for a more -> traditional : 1
+a more traditional -> trail : 1
+more traditional trail -> omit : 1
+traditional trail omit -> the : 1
+trail omit the -> beef : 1
+omit the beef -> jerky : 1
+the beef jerky -> and : 1
+beef jerky and -> add : 1
+jerky and add -> pound : 1
+and add pound -> plain : 1
+add pound plain -> cup : 1
+pound plain cup -> cup : 1
+plain cup cup -> sunflower : 1
+cup cup sunflower -> and : 1
+cup sunflower and -> cups : 1
+sunflower and cups -> granola : 1
+and cups granola -> cereal : 1
+cups granola cereal -> to : 1
+granola cereal to -> broken : 1
+cereal to broken -> up : 1
+to broken up -> noodles : 1
+broken up noodles -> and : 1
+up noodles and -> dried : 1
+noodles and dried -> fruit : 1
+and dried fruit -> combination : 1
+dried fruit combination -> may : 1
+fruit combination may -> be : 1
+combination may be -> cups : 1
+may be cups -> butterscotch : 1
+be cups butterscotch -> tablespoon : 1
+cups butterscotch tablespoon -> tablespoon : 1
+butterscotch tablespoon tablespoon -> package : 1
+tablespoon tablespoon package -> ramen : 1
+tablespoon package ramen -> any : 1
+ramen any a -> heat : 1
+any a heat -> and : 1
+heat and milk -> over : 1
+and milk over -> low : 1
+milk over low -> heat : 1
+heat until chips -> are : 1
+until chips are -> completely : 1
+chips are completely -> stir : 1
+are completely stir -> uncooked : 1
+completely stir uncooked -> noodles : 1
+stir uncooked noodles -> into : 1
+uncooked noodles into -> butterscotch : 1
+noodles into butterscotch -> mixture : 1
+into butterscotch mixture -> until : 1
+butterscotch mixture until -> place : 1
+mixture until place -> balls : 1
+until place balls -> on : 1
+place balls on -> wax : 1
+balls on wax -> and : 1
+on wax and -> refrigerate : 1
+wax and refrigerate -> until : 1
+and refrigerate until -> makes : 1
+refrigerate until makes -> packages : 1
+any cups milk -> chocolate : 1
+cups milk chocolate -> cups : 1
+milk chocolate cups -> mini : 1
+chocolate cups mini -> cup : 1
+cups mini cup -> cup : 1
+mini cup cup -> chopped : 1
+cup chopped oven -> to : 1
+chopped oven to -> not : 1
+oven to not -> break : 1
+to not break -> put : 1
+not break put -> blocks : 1
+break put blocks -> of : 1
+put blocks of -> noodles : 1
+blocks of noodles -> in : 1
+of noodles in -> a : 1
+greased x cover -> with : 1
+x cover with -> layers : 1
+cover with layers -> of : 1
+with layers of -> chocolate : 1
+layers of chocolate -> chips : 1
+of chocolate chips -> and : 1
+chocolate chips and -> heat : 1
+chips and heat -> in : 1
+and heat in -> warm : 1
+and heat in -> the : 1
+heat in warm -> oven : 1
+in warm oven -> until : 1
+warm oven until -> marshmallows : 1
+oven until marshmallows -> and : 1
+until marshmallows and -> chocolate : 1
+marshmallows and chocolate -> chips : 1
+and chocolate chips -> are : 1
+chocolate chips are -> layer : 1
+chips are layer -> remaining : 1
+are layer remaining -> ingredients : 1
+layer remaining ingredients -> over : 1
+remaining ingredients over -> top : 1
+ingredients over top -> and : 1
+top and when -> cut : 1
+and when cut -> into : 1
+when cut into -> makes : 1
+cut into makes -> cup : 1
+into makes cup -> small : 1
+makes cup small -> can : 1
+cup small can -> drain : 1
+small can drain -> and : 1
+can drain and -> reserve : 1
+drain and reserve -> cup : 1
+and reserve cup -> peach : 1
+reserve cup peach -> juice : 1
+cup peach juice -> cup : 1
+peach juice cup -> brown : 1
+juice cup brown -> package : 1
+cup brown package -> ramen : 1
+brown package ramen -> any : 1
+any cup crushed -> frosted : 1
+cup crushed frosted -> oven : 1
+crushed frosted oven -> to : 1
+frosted oven to -> a : 1
+small casserole mix -> peach : 1
+casserole mix peach -> and : 1
+mix peach and -> brown : 1
+peach and brown -> add : 1
+brown add crushed -> making : 1
+add crushed making -> sure : 1
+crushed making sure -> they : 1
+making sure they -> are : 1
+sure they are -> completely : 1
+they are completely -> covered : 1
+are completely covered -> by : 1
+completely covered by -> cream : 1
+covered by cream -> bake : 1
+by cream bake -> sprinkle : 1
+cream bake sprinkle -> frosted : 1
+bake sprinkle frosted -> flakes : 1
+sprinkle frosted flakes -> over : 1
+frosted flakes over -> top : 1
+flakes over top -> and : 1
+minutes makes and -> brown : 1
+makes and brown -> sugar : 1
+and brown sugar -> package : 1
+brown sugar package -> ramen : 1
+sugar package ramen -> any : 1
+any cup tablespoon -> tablespoon : 1
+cup tablespoon tablespoon -> brown : 1
+tablespoon tablespoon brown -> ramen : 1
+tablespoon brown ramen -> into : 1
+brown ramen into -> a : 1
+ramen into a -> pour : 1
+into a pour -> on : 1
+a pour on -> and : 1
+pour on and -> heat : 1
+on and heat -> in : 1
+heat in the -> microwave : 1
+in the microwave -> on : 1
+the microwave on -> high : 1
+microwave on high -> stirring : 1
+on high stirring -> makes : 1
+high stirring makes -> if : 1
+stirring makes if -> rather : 1
+makes if rather -> have : 1
+if rather have -> something : 1
+rather have something -> omit : 1
+have something omit -> the : 1
+something omit the -> syrup : 1
+omit the syrup -> and : 1
+the syrup and -> sugar : 1
+syrup and sugar -> and : 1
+and sugar and -> add : 1
+sugar and add -> cup : 1
+and add cup -> of : 1
+add cup of -> or : 1
+cup of or -> a : 1
+of or a -> mixture : 1
+or a mixture -> of : 1
+a mixture of -> diced : 1
+mixture of diced -> teaspoon : 1
+of diced teaspoon -> and : 1
+diced teaspoon and -> tablespoon : 1
+teaspoon and tablespoon -> can : 1
+and tablespoon can -> cream : 1
+tablespoon can cream -> of : 1
+celery cup cup -> broccoli : 1
+cup cup broccoli -> cup : 1
+cup broccoli cup -> cauliflower : 1
+broccoli cup cauliflower -> cup : 1
+cup cauliflower cup -> sliced : 1
+cauliflower cup sliced -> package : 1
+cup sliced package -> ramen : 1
+sliced package ramen -> any : 1
+a heat soup -> and : 1
+heat soup and -> milk : 1
+soup and milk -> to : 1
+and milk to -> stir : 1
+milk to stir -> in : 1
+to stir in -> vegetables : 1
+stir in vegetables -> and : 1
+in vegetables and -> heat : 1
+vegetables and heat -> to : 1
+vegetables and heat -> stir : 1
+heat to reduce -> heat : 1
+to reduce heat -> and : 1
+and simmer noodles -> in : 1
+soup makes vegetable -> package : 1
+makes vegetable package -> ramen : 1
+seasoning cup frozen -> mixed : 1
+seasoning cup frozen -> peas : 1
+seasoning cup frozen -> teaspoons : 1
+cup frozen mixed -> tablespoon : 1
+frozen mixed tablespoon -> small : 1
+mixed tablespoon small -> jar : 1
+tablespoon small jar -> creamy : 1
+small jar creamy -> cheese : 1
+jar creamy cheese -> noodles : 1
+creamy cheese noodles -> in : 1
+cheese noodles in -> water : 1
+the seasoning packet -> and : 1
+packet and set -> a : 1
+frying cook vegetables -> in : 1
+cook vegetables in -> water : 1
+vegetables in water -> until : 1
+vegetables in water -> together : 1
+in water until -> add : 1
+water until add -> cheese : 1
+until add cheese -> sauce : 1
+add cheese sauce -> to : 1
+cheese sauce to -> vegetables : 1
+sauce to vegetables -> and : 1
+to vegetables and -> heat : 1
+and heat stir -> in : 1
+heat stir in -> makes : 1
+stir in makes -> package : 1
+in makes package -> chicken : 1
+makes package chicken -> ramen : 1
+with seasoning egg -> tablespoons : 1
+seasoning egg tablespoons -> lemon : 1
+or cup fresh -> or : 1
+cup fresh or -> frozen : 1
+or frozen mixed -> noodles : 1
+or frozen mixed -> teaspoon : 1
+frozen mixed noodles -> in : 1
+mixed noodles in -> water : 1
+package and a -> whisk : 1
+and a whisk -> egg : 1
+a whisk egg -> yolks : 1
+a add half -> of : 1
+of the butter -> and : 1
+the butter and -> stir : 1
+briskly until melted -> and : 1
+until melted and -> sauce : 1
+melted and sauce -> cook : 1
+and sauce cook -> vegetables : 1
+sauce cook vegetables -> and : 1
+cook vegetables and -> top : 1
+vegetables and top -> warm : 1
+noodles with vegetables -> and : 1
+with vegetables and -> makes : 1
+vegetables and makes -> package : 1
+seasoning cup sliced -> cup : 1
+diced can cup -> chopped : 1
+can cup chopped -> green : 1
+green bell teaspoon -> garlic : 1
+bell teaspoon garlic -> tablespoons : 1
+and season noodles -> with : 1
+season noodles with -> half : 1
+noodles with half -> of : 1
+frying saute vegetables -> in : 2
+saute vegetables in -> garlic : 1
+saute vegetables in -> olive : 1
+vegetables in garlic -> powder : 1
+in garlic powder -> and : 1
+garlic powder and -> oil : 1
+powder and oil -> over : 1
+and oil over -> low : 1
+oil over low -> heat : 1
+heat until stir -> in : 1
+stir in warm -> noodles : 1
+in warm noodles -> and : 1
+and makes fried -> packages : 1
+makes fried packages -> oriental : 1
+fried packages oriental -> ramen : 1
+cup frozen peas -> and : 1
+frozen peas and -> to : 1
+peas and to -> teaspoons : 1
+and to teaspoons -> to : 1
+to teaspoons to -> tablespoons : 1
+teaspoons to tablespoons -> soy : 1
+to tablespoons soy -> noodles : 1
+tablespoons soy noodles -> in : 1
+soy noodles in -> water : 2
+add seasoning heat -> vegetables : 1
+seasoning heat vegetables -> in : 1
+heat vegetables in -> microwave : 1
+vegetables in microwave -> until : 1
+in microwave until -> heated : 1
+microwave until heated -> through : 1
+through and add -> to : 2
+add to warm -> a : 1
+add to warm -> sprinkle : 1
+to warm a -> frying : 1
+warm a frying -> fry : 1
+a frying fry -> eggs : 1
+frying fry eggs -> in : 1
+fry eggs in -> break : 1
+eggs in break -> yolk : 1
+in break yolk -> and : 1
+break yolk and -> cook : 1
+yolk and cook -> until : 1
+cook until flipping -> cut : 1
+until flipping cut -> eggs : 1
+flipping cut eggs -> into : 1
+cut eggs into -> stir : 1
+eggs into stir -> into : 1
+into stir into -> noodle : 1
+stir into noodle -> sprinkle : 1
+into noodle sprinkle -> soy : 1
+noodle sprinkle soy -> sauce : 1
+sprinkle soy sauce -> over : 2
+soy sauce over -> top : 2
+sauce over top -> and : 2
+top and stir -> adding : 1
+top and stir -> season : 1
+and stir adding -> more : 1
+stir adding more -> if : 1
+adding more if -> makes : 1
+more if makes -> packages : 1
+if makes packages -> ramen : 1
+seasoning cup butter -> or : 1
+cans ounces diced -> teaspoons : 1
+ounces diced teaspoons -> minced : 1
+diced teaspoons minced -> noodles : 1
+teaspoons minced noodles -> in : 1
+frying melt add -> seasoning : 1
+melt add seasoning -> and : 1
+seasoning and noodles -> and : 1
+and noodles and -> season : 1
+noodles and season -> with : 1
+salt and simmer -> makes : 1
+simmer makes cilantro -> packages : 1
+makes cilantro packages -> oriental : 1
+cilantro packages oriental -> ramen : 1
+seasoning cups fresh -> or : 1
+frozen mixed teaspoon -> minced : 1
+mixed teaspoon minced -> tablespoons : 1
+teaspoon minced tablespoons -> fresh : 1
+minced tablespoons fresh -> chopped : 1
+tablespoons fresh chopped -> noodles : 1
+fresh chopped noodles -> and : 1
+chopped noodles and -> vegetables : 1
+noodles and vegetables -> in : 1
+and vegetables in -> water : 1
+in water together -> and : 1
+water together and -> add : 1
+low heat stirring -> makes : 1
+stirring makes veggie -> package : 1
+makes veggie package -> oriental : 1
+veggie package oriental -> ramen : 1
+cup frozen teaspoons -> olive : 1
+frozen teaspoons olive -> tablespoon : 1
+teaspoons olive tablespoon -> soy : 1
+olive tablespoon soy -> noodles : 1
+tablespoon soy noodles -> in : 1
+vegetables in olive -> oil : 1
+oil until heated -> through : 1
+to warm sprinkle -> soy : 1
+warm sprinkle soy -> sauce : 1
+and stir season -> with : 1
+stir season with -> salt : 1
+and makes cheese -> package : 1
+makes cheese package -> ramen : 1
+cheese package ramen -> any : 1
+seasoning cups grated -> cheddar : 1
+grated cheddar can -> creamed : 1
+cheddar can creamed -> noodles : 1
+can creamed noodles -> in : 1
+creamed noodles in -> water : 1
+a heat cheese -> and : 1
+heat cheese and -> corn : 1
+cheese and corn -> over : 1
+and corn over -> medium : 1
+corn over medium -> mix : 1
+over medium mix -> with : 1
+medium mix with -> warm : 1
+mix with warm -> makes : 1
+with warm makes -> conversion : 1
+warm makes conversion -> conversion : 1
+makes conversion conversion -> conversion : 1
