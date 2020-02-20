@@ -7,12 +7,21 @@ import glob
 from os import path
 from keras.engine.saving import model_from_json
 import numpy as np
+from numpy import random
+import math
 
 dsnum = 1;
 dslines = 0;
 inputs_processed = []
 
+def save_model( model ):
+    model_json = model.to_json()
+    with open("model.json", "w") as json_file:
+        json_file.write( model_json )
+        model.save_weights( "model.h5" )
+
 def load_from_datasets( model ):
+    datasets = []
     processed = []
     X = []
     Y = []
@@ -24,22 +33,11 @@ def load_from_datasets( model ):
                 processed.append(line)
                 line = dp.readline()
 
-    dsfnum = 1
-    dsname = "dataset"+str(dsfnum)+".csv"
+    for l in range(10):
+        dsname = "dataset"+str(7000+l)+".csv"
 
-    while (path.exists(dsname)):
-        process = 0
-        try:
-            if not processed.index(dsname):
-                process = 1
-        except ValueError as e:
-            print( "An exception occurred ", e )
-            print( "For now it can be ignored ")
-            
-            process = 1
-
-        if process == 1:
-            print( "Going to process dataset "+dsname )
+        if path.exists(dsname):
+            print( "Going to deep process dataset "+dsname )
             dataset = np.loadtxt(dsname, delimiter=",")
 
             X = dataset[:,0:18]
@@ -49,24 +47,77 @@ def load_from_datasets( model ):
             #     X.append( d[0:18] )
             #     Y.append( d[18:6] )
              
-            model.fit( X, Y, epochs=150, batch_size=10, verbose=0)
+            model.fit( X, Y, epochs=100, batch_size=25, verbose=0)
             scores = model.evaluate( X, Y, verbose=0)
-            print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
+            print( "scores ", scores)
+            # print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
             processed.append( dsname )
             print( "Done processing dataset "+dsname )
+            
+    save_model( model )
 
-        dsfnum = dsfnum + 1
-        dsname = "dataset"+str(dsfnum)+".csv"
+    for l in range(6333):
+        datasets.append( "dataset"+str(l)+".csv" )
 
+    for l in range(10):
+        datasets.append( "dataset"+str(7000+l)+".csv" )
+
+    dsn = 0
+
+    while (len(datasets) > 0):
+        dsfnum = math.floor( random.random() * len(datasets) )
+        dsname = datasets[dsfnum]
+        del datasets[dsfnum]
+        dsn = dsn + 1
+
+        if (path.exists(dsname)):
+            process = 0
+            try:
+                if not processed.index(dsname):
+                    process = 1
+            except ValueError as e:            
+                process = 1
+
+            if process == 1:
+                print( "Going to process dataset "+dsname )
+                dataset = np.loadtxt(dsname, delimiter=",")
+
+                X = dataset[:,0:18]
+                Y = dataset[:,18:24]
+
+                # for d in dataset:
+                #     X.append( d[0:18] )
+                #     Y.append( d[18:6] )
+             
+                model.fit( X, Y, epochs=10, batch_size=25, verbose=0)
+                scores = model.evaluate( X, Y, verbose=0)
+                print( "scores ", scores)
+                # print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
+                processed.append( dsname )
+                print( "Done processing dataset "+dsname )
+
+
+        if (dsn % 10 == 0):
+            save_model( model )
+            with open( "dataset_processed.csv", "w") as dp:
+                dp.writelines("%s\n" % l for l in processed )
+    
     with open( "dataset_processed.csv", "w") as dp:
-        for line in processed:
-            dp.write( line + "\n" )
+        dp.writelines("%s\n" % l for l in processed )
+
     
 def setup():
     model = Sequential()
     model.add( Dense( 27, input_dim=18, activation='relu' ))
+    model.add( Dense( 27, activation='relu'))
+    model.add( Dense( 27, activation='sigmoid'))
     model.add( Dense( 22, activation='relu'))
+    model.add( Dense( 22, activation='relu'))
+    model.add( Dense( 22, activation='sigmoid'))
     model.add( Dense( 11, activation='relu'))
+    model.add( Dense( 11, activation='relu'))
+    model.add( Dense( 11, activation='sigmoid'))
+    model.add( Dense( 6, activation='relu'))
     model.add( Dense( 6, activation='sigmoid'))
 
     if path.exists( "model.json"):
@@ -92,11 +143,7 @@ def setup():
 
         load_from_datasets( model )
 
-        model_json = model.to_json()
-        with open("model.json", "w") as json_file:
-            json_file.write( model_json )
-            model.save_weights( "model.h5" )
-
+        save_model( model )
 
 def learn_from( file ):
     global dsnum
